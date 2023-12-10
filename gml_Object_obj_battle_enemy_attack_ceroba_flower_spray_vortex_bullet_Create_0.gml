@@ -1,0 +1,13 @@
+damage_number = scr_determine_damage_number_enemy("ceroba", "void", "void")
+state = 0
+can_move = 0
+attack_distance = 0
+attack_dir = 90
+bullet_speed = 3
+bullet_speed_2 = 1
+attack_target_x = x
+attack_target_y = y
+creator = obj_quote_battle_ceroba_outro_4
+image_speed = 0.2
+fade_out = 0
+alarm[0] = 30

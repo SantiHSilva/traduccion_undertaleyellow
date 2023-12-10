@@ -1,0 +1,11 @@
+damage_number = scr_determine_damage_number_enemy("cactony a", "cactony b", "cactony c")
+launch_sprite = 2179
+launched = 0
+prep_speed = 1
+attack_speed = 5
+attack_mult = 2
+image_angle = point_direction(x, y, obj_heart_battle_fighting_parent.x, obj_heart_battle_fighting_parent.y)
+move = 1
+fade = 0
+fade_alarm = 40
+global.id_store = id
