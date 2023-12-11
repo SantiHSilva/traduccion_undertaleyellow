@@ -1,1 +1,0 @@
-talk_script = gml_Script_scr_talking_enemy

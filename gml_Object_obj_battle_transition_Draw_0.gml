@@ -1,3 +1,0 @@
-draw_set_alpha(1)
-draw_rectangle_color((__view_get((11 << 0), 0) - 500), __view_get((12 << 0), 0), (__view_get((14 << 0), 0) * 6), (__view_get((13 << 0), 0) * 4.5), c_black, c_black, c_black, c_black, 0)
-draw_set_alpha(1)
