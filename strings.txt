@@ -1843,7 +1843,7 @@ Golden Scarf
 Safety Goggles
 Delta Rune Patch
 Silver Scarf
-Missing Poster
+Cartel Perdido
 Necklace
 Lukewarm Coffee
 Soggy Mitten
@@ -45045,3 +45045,170 @@ Moriría...
 Monte Ebott...
 Pocos humanos han desafiadod#esta montaña.
 Aquellos que lo hicieron... no se#les volvió a ver.
+USAR
+INFO.
+TIRAR
+LEER
+BORRAR
+OBJ.
+EST.
+CORREO
+XP 
+SIG. 
+ARMA: 
+ARMADURA: 
+MUNICIÓN: 
+MODIFICADOR: 
+ORO: 
+* ¡Froggit saltó cerca!
+* Tu mejor amigo!
+* GANASTE!#* Conseguiste 0 XP y 
+ de oro.
+* (La misteriosa señora cabra#  asusto a Froggit.)
+* Dulce silencio...
+* Decibat se aleja para encontrar#  un lugar más tranquilo.
+* GANASTE!#* Obtuviste 0 XP y 
+* Verás, te he estado#  observando durante#  un tiempo.
+* Dios, ¿Qué carrera es esto?#  Deben haber demasiados.
+* ¡Casi pierdo la cuenta!#  Jajaja...
+* ¡Ah! ¡Hola!
+* ¿Estás bien?
+* Te estaras preguntando#  qué está pasando...
+* Me llamo TORIEL, cuidadora#  de las RUINAS.
+* Te he dejado#  seguir tu camino#  tantas veces.
+* Vamos, presiona#  el interruptor de la izquierda.
+* Sabes cuál#  es el camino de la izquierda, #  ¿Verdad?
+* Presiona el interruptor #  que te he marcado.
+* ¡Esplendido!
+* Estoy orgulloso de ti,#  pequeño.
+* ¡Adelante,#  empuja la roca!
+* Estás aprendiendo#  mucho, my niño!
+* He visto#  el mismo comportamiento#  infantil...
+* Y más de...
+* Y más de.
+* Claro, pequeñas decisiones#  aquí y allá#  variarían pero...
+* El viaje siempre#  terminaría contigo#  viviendo ignorantemente con Toriel.
+* Tenía que intervenir.
+* Al principio, mis esfuerzos#  parecían funcionar.
+* Las tensiones aumentaron#  y abandonaron las Ruinas.
+* Pero luego, #  aparecieron otros problemas...
+* No importa cuántas veces#  hayas viajado por...
+* Siempre morías.
+* Tenia que apartarte#  del camino del fracaso#  lo antes posible.
+* Asi que manipulé#  un pequeño interruptor y...
+* Bueno, ¡el resto#  es historia!
+* ¡Oh, vamos! ¿Todavía estás aquí?
+* ¡Pensé que almenos mi historia#  te aburriría tanto#  que te rendirías!
+* ¿De verdad quieres hacer esto#  por las malas? 
+* Jajaja, ¡de acuerdo!
+* ¡Divirtámonos un poco antes de#  que absorba tu ALMA para siempre!
+                        #         RUINAS 
+* ¡Ah! Hola.
+* Te estarás preguntando#  qué está pasando...
+* Yo soy TORIEL, cuidadora#  de las RUINAS.
+* Paso por aquí#  todos los días para ver#  si alguien se ha caído.
+* No ocurre con#  frecuencia.
+* Eres el primero en venir#  aquí en mucho#  tiempo.
+* No tengas miedo,#  pequeño.
+* Haré todo lo posible para#  protegerte aquí.
+* ¡Ven! Te guiaré#  a tu nuevo hogar.
+          TORIEL                           
+* Haré todo lo posible#  para protegerte aquí.
+         TORIEL                           
+* Las RUINAS están llenas de#  puzzles.
+* Fusiones antiguas entre#  distracciones y llaves#  para abrir puerta.
+* #  para pasar de sala#  a sala.
+* Permitame que le demuestre.
+* Ahora somos libres para #  proceder ahora. 
+* Sigueme, mi niño.#* Hay más puzzles#  por delante.
+* ¿Hola?
+* ¿Sigues presente,#  pequeño?
+* ¡Voy a rescatarte!#  ¡Ven!
+* (¿Trepar por la cuerda?)
+Si
+* Las RUINAS están llenas#  de puzzles.
+* Fusiones antiguas entre#  distracciones y llaves#  para abrir la puerta.
+* para pasar de sala#  a sala.
+* Permitame que#  le demuestre.
+* En esta sala, deberás#  de activar varios#  interruptors.
+* No te preocupes, he#  marcado los que#  necesitas activar.
+* Oh, ¿Necesitas#  ayuda?
+* Por favor, activa#  el interruptor en la#  pared norte.
+* ¡Magnífico! Estoy orgulloso#  de ti mi niño.
+* Vamos, ¡yo creo en ti!
+* Sólo queda un#  interruptor más.
+* ¡Oh no, mi niño! Ese#  es el interruptor#  equivocado.
+* Yo te señale#  el que necesitas activar.
+* Ese interruptor#  ya esta activado.
+* ¿Por qué no vuelvas#  a cruzar el puente?
+* ...Ya debería#  haberse abierto...
+* Estoy segura de haber#  señalado el interruptor#  correcto...
+* ¡Ah, no te preocupes, pequeño!#  Intenta activar#  el otro interruptor.
+* No estoy seguro de#  por qué ese#  interruptor no funciona...
+* Por favor, intenta activar#  el otro interruptor.
+* Debo de haber marcado#  mal el interruptor.
+* Me disculpo si te he#  confundido, mi niño.
+* Por favor,#  activa el interruptor#  no marcado.
+* No me referia a eso.
+* Tienes que activar#  el interruptor que#  no has activado.
+* En esta sala, deberás#  de activar varios#  interruptores.
+* "Presiona [
+] para leer los carteles!"
+* Mantente en el camino.
+* ¡Magnífico! Estoy#  orgulloso de ti#  mi niño.
+* ¡Ah, no te preocupes,#  pequeño! Intenta activar#  el otro interruptor.
+* No estoy seguro de#  por qué ese interruptor#  no funciona...
+* Por favor, intenta #  activar el otro#  interruptor.
+* ¡Mi niño!
+* ¿Está todo bien ahí?
+* Oh cariño... Me temo que#  no puedo llegar#  hasta ti...
+* Debo irme un momento. Tu#  te quedaras ahi, ¿verdad?
+* No pasees por ahí, hay#  monstruos que son amistosos#  con todos los humanos.
+* No temas, mi niño, ¡Yo te#  protegere!
+* Por favor... espera ahí.
+] para leer#  los carteles!"
+* (Este cartel #  está oculto por las#  hojas.)
+* (Sólo se ven algunas#  palabras.)
+* Precaución... 
+... Corre...
+... Camina...
+* ¡Hola!#* Soy FLOWEY. #* FLOWEY la FLOR!
+* Hmm... #* ¡Pareces confundido!
+* Toriel deberia haberte #  enseñado cómo funcionan #  las cosas por aquí!
+* ¿No lo hizo?
+* Supongo que el viejo yo#  tendrá que hacerlo.#* ¿Listo? ¡Allá vamos!
+       #      FLOWEY  #  FLOWEY    FLOR 
+* ¡Hola!
+* Soy FLOWEY. 
+* ¡FLOWEY la FLOR!
+   FLOWEY    FLOR 
+* Pareces una persona bastante#  segura de sí misma.
+* No debería renerte#  aquí todo el día,#  ¿verdad?
+* ¡No quisiera ser#  un estorbo!
+* Te dejaré ir#  pero al menos deberías#  saber esto:
+* El rey ASGORE es#  el responsable#  de todo.
+*        ASGORE                                   
+* Búscalo y haz#  lo que debas.
+* También...
+* Si alguna vez tienes#  problemas, ¡yo puedo#  SALVARTE!
+* Ven a buscar estás#  cosas y allí#  estaré!
+* Pareces confundido.
+* ¡Toriel debería haber#  enseñado cómo funcionan#  las cosas por aquí!
+* Supongo que el#  pequeño y viejo yo#  tendrá que hacerlo entonces.
+* ¿Quieres que yo#  te enseñe?
+Sí
+* Entiendo...
+* Ir con cabeza - ¡me#  gusta!
+* Bueno almenos deberías#  saber esto al menos:
+* ¿Esos humanos que#  buuscas?
+* Lo siento, pero...
+* El rey ASGORE ya ha#  llegado a ellos.
+*        ASGORE                             
+* Por el lado bueno,#  escuche que sus ALMAS#  están en espera.
+* Haz lo que quieras#  con esa información.
+* Dondequiera que estes#  y necesites ayuda,#  YO puedo SALVARTE!
+* Eso significa que si#  pasa algo malo,#  ¡puedo hacer que no pase!
+* Asi que si alguna vez#  necesitas ayuda, ¡ven a buscarme!
+* Te dejaré estas cositas#  por aquí.
+* ¡Hola!#* Soy FLOWEY. #* ¡FLOWEY la FLOR!
+       #      FLOWEY  #   FLOWEY    FLOR 
