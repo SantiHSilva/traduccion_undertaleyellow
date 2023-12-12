@@ -1,1 +1,1 @@
-message = "* Mantente en el camino xD."
+message = "* Mantente en el camino xDXD."

@@ -19,5 +19,5 @@ jobs:
               run: |
                     mkdir Copy_Code
                     find Export_Code -type f -newermt "$(git log -1 --format=%cd --date=format:'%Y-%m-%d %H:%M:%S' Export_Code)" -exec cp {} Copy_Code/ \;
-        
+                    ls Copy_Code
                                                                                                                                                             
