@@ -17,6 +17,6 @@ jobs:
 
             - name: Copiar archivos modificados
               run: |
-                    find Export_Code -type f -newermt "$(git log -1 --format=%cd -- Export_Code)" -exec cp {} Copy_Code/ \;
-                    
+                    find Export_Code -type f -newermt "$(git log -1 --format=%cd --date=format:'%Y-%m-%d %H:%M:%S' Export_Code)" -exec cp {} Copy_Code/ \;
+                                                                                
             # Resto de tus pasos de flujo de trabajo aquí
