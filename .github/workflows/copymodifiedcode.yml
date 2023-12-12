@@ -26,6 +26,9 @@ jobs:
 
                     for changed_file in ${{ steps.files.outputs.modified }}; do
                         echo "Changed file: $changed_file"
+                        if [[ $changed_file == *"Export_Code"* ]]; then
+                            echo "Es un archivo de código"
+                        fi
                         cp $changed_file Copy_Code 
                     done
 
