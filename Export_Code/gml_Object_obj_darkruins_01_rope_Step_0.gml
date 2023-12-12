@@ -10,9 +10,9 @@ if (waiter == 1)
     scr_text()
     with (msg)
     {
-        message[0] = "* (Climb the rope?)"
+        message[0] = "* (¿Trepar por la cuerda?)"
         ch_msg = 0
-        ch[1] = "Yes"
+        ch[1] = "Si"
         ch[2] = "No"
         if (outcome == 1)
         {

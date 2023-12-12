@@ -11,7 +11,7 @@ function scr_battle_draw_item_names() //gml_Script_scr_battle_draw_item_names
     }
     else if (global.game_mode == "yellow")
     {
-        if (item_slot == "Missing Poster")
+        if (item_slot == "Cartel Perdido")
             battle_menu_option_string = "* Poster"
         else if (item_slot == "Snowdin Map")
             battle_menu_option_string = "* Snowdin Map"

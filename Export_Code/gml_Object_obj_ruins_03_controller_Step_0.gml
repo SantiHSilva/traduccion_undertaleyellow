@@ -9,10 +9,10 @@ switch scene
         with (msg)
         {
             talker[0] = actor_toriel
-            message[0] = "* The RUINS are full of#  puzzles."
-            message[1] = "* Ancient fusions between#  diversions and doorkeys."
-            message[2] = "* They must be solved in#  order to move from room#  to room."
-            message[3] = "* Allow me to demonstrate."
+            message[0] = "* Las RUINAS están llenas#  de puzzles."
+            message[1] = "* Fusiones antiguas entre#  distracciones y llaves#  para abrir la puerta."
+            message[2] = "* para pasar de sala#  a sala."
+            message[3] = "* Permitame que#  le demuestre."
             prt[0] = 343
             prt[1] = 343
             prt[2] = 343
@@ -38,8 +38,8 @@ switch scene
         with (msg)
         {
             talker[0] = actor_toriel
-            message[0] = "* We are free to proceed #  now. "
-            message[1] = "* Follow me, my child.#* There are more puzzles#  ahead."
+            message[0] = "* Ahora somos libres para #  proceder ahora. "
+            message[1] = "* Sigueme, mi niño.#* Hay más puzzles#  por delante."
             prt[0] = 343
             prt[1] = 343
         }
