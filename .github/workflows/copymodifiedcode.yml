@@ -20,8 +20,6 @@ jobs:
             
             - name: "Copiar archivos modificados"
               run: |
-                    ls
-
                     for changed_file in ${{ steps.files.outputs.modified }}; do
                         echo "Changed file: $changed_file"
                         if [[ $changed_file == *"Export_Code"* ]]; then
