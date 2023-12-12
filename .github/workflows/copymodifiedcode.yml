@@ -20,8 +20,6 @@ jobs:
             
             - name: "Copiar archivos modificados"
               run: |
-                    mkdir Copy_Code
-
                     ls
 
                     for changed_file in ${{ steps.files.outputs.modified }}; do
@@ -30,8 +28,6 @@ jobs:
                             cp $changed_file Copy_Code 
                         fi
                     done
-
-                    ls Copy_Code
             
             - name: "Commit modified files"
               run: |
