@@ -5,7 +5,7 @@ on:
         branches:
             - main
         # paths:
-        #     - 'Export_Code/**.gml'
+        #   - 'Export_Code/**.gml'
 
 jobs:
     copy_code:
@@ -17,16 +17,6 @@ jobs:
 
             - name: Copiar archivos modificados
               run: |
-                mkdir Copy_Code
-                find Export_Code -type f -newermt "$(git log -1 --format=%cd --date=format:'%Y-%m-%d %H:%M:%S' Export_Code)" -exec cp {} Copy_Code/ \;
-                                                                                
-            # Resto de tus pasos de flujo de trabajo aquí
-
-            - name: "Commit y push"
-              uses: EndBug/add-and-commit@v7
-              with:
-                  author_name: "Github Actions"
-                  author_email: "github-actions[bot]@users.noreply.github.com"
-                  message: "Código actualizado"
-                  add: "Copy_Code"
-                  push: true
+                    mkdir Copy_Code
+                    find Export_Code -type f -newermt "$(git log -1 --format=%cd --date=format:'%Y-%m-%d %H:%M:%S' Export_Code)" -exec cp {} Copy_Code/ \;
+                                                                                                                                                            
