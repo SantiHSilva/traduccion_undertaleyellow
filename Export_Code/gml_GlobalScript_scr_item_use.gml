@@ -382,7 +382,7 @@ function scr_item_use(argument0, argument1) //gml_Script_scr_item_use
             use_msg[0] = "* (You wrap the Silver Scarf#  around your neck.)"
             use_msg[1] = "* (So cozy!)"
             break
-        case "Cartel Perdido":
+        case "Missing Poster":
         case "Necklace":
             item_type = 0
             use_msg[0] = "* (You cannot use this item.)"

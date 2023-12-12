@@ -2,7 +2,7 @@ function scr_item_info_text_yellow() //gml_Script_scr_item_info_text_yellow
 {
     var item_info_hold = global.item_info_hold
     var item_slot = item_info_hold.item_slot
-    if (item_slot == "Cartel Perdido")
+    if (item_slot == "Missing Poster")
     {
         item_info_message[0] = "* (The grim reminder of your#  mission. Justice is needed.)"
         story_item = 1

@@ -137,7 +137,7 @@ function scr_mail_check() //gml_Script_scr_mail_check
             instance_create_depth(0, 0, -999, obj_sworks_id)
             instance_destroy(obj_pause_menu)
             return;
-        case "Cartel Perdido":
+        case "Missing Poster":
             instance_create_depth(0, 0, -999, obj_missing_poster)
             instance_destroy(obj_pause_menu)
             return;
