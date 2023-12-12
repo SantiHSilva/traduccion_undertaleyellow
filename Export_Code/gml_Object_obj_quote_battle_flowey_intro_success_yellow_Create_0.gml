@@ -1,5 +1,5 @@
-message[0] = "¡Buen trabajo,#amigo! En caso de que#te golpeen, ¡puedo#GUARDAR tu progreso!"
-message[1] = "Eso significa que#si pasa algo malo,# puedo hacer#que no te pase a ti."
+message[0] = "Nice job there,#buddy! In case you#do get hit, I can#SAVE your progress!"
+message[1] = "That means if#something bad#happens, I can make#it unhappen for you."
 portrait[0] = 1934
 portrait[1] = 1934
 message_end = 1

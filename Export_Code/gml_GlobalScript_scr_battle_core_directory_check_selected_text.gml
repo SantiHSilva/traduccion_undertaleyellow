@@ -222,7 +222,7 @@ function scr_battle_core_directory_check_selected_text() //gml_Script_scr_battle
                 message[0] = (((("* GUARDENER -- ATK " + string(enemy_attack_stat)) + " DEF ") + string(enemy_defense_stat)) + "#* Should take her rage down a few#  notches.")
         }
         else if (battle_enemy_name == "flowey")
-            message[0] = "* Tu mejor amigo!"
+            message[0] = "* Your best friend!"
         else if (battle_enemy_name == "ceroba")
         {
             if (global.hotland_flag[2] == 0)

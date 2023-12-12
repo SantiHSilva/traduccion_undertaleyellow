@@ -2,7 +2,7 @@ function scr_item_stats_story(argument0) //gml_Script_scr_item_stats_story
 {
     switch argument0
     {
-        case "Cartel Perdido":
+        case "Missing Poster":
             return 0;
         case "Snowdin Map":
             return 0;

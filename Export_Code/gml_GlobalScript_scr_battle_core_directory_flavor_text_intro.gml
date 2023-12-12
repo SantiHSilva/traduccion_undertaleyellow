@@ -17,7 +17,7 @@ function scr_battle_core_directory_flavor_text_intro() //gml_Script_scr_battle_c
     else if (game_mode == "yellow")
     {
         if (battle_enemy_name == "froggit intro")
-            message[0] = "* ¡Froggit saltó cerca!"
+            message[0] = "* Froggit hopped close!"
         else if (battle_enemy_name == "flier solo")
             message[0] = "* Flier is giving fighting a try!"
         else if (battle_enemy_name == "flier trio")
