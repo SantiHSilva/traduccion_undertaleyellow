@@ -35,7 +35,7 @@ function scr_item_info(argument0) //gml_Script_scr_item_info
         case "G. Bandana":
             info[0] = "* \"G. Bandana\" - Armor DF 12#* (The most stunning piece of#  fabric you've ever seen.)"
             break
-        case "Cartel Perdido":
+        case "Missing Poster":
             info[0] = "* (The grim reminder of#  your mission. Justice#  is needed.)"
             break
         case "G. Pear":

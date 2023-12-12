@@ -157,7 +157,7 @@ function scr_initialize() //gml_Script_scr_initialize
         instance_create(x, y, obj_radio)
     if (!instance_exists(obj_pl))
         instance_create(global.player_x, global.player_y, obj_pl)
-    global.item_slot[1] = "Cartel Perdido"
+    global.item_slot[1] = "Missing Poster"
     global.fun_value = irandom_range(0, 80)
     global.fun_swig_name = "Swig"
     if (global.fun_value == 1)
