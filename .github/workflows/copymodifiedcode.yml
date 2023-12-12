@@ -8,19 +8,14 @@ on:
 jobs:
     copy_code:
         runs-on: ubuntu-latest
+
         steps:
-            - name: Checkout código
+            - name: "Checkout código"
               uses: actions/checkout@v2
 
             - name: Copiar archivos modificados
               run: |
                     mkdir Copy_Code
-                    cp -r Export_Code/* Copy_Code/
+                    find Export_Code -type f -newermt "$(git log -1 --format=%cd -- Export_Code)" -exec cp {} Copy_Code/ \;
                     
-            - name: Commit y push cambios
-              run: |
-                    git config --local user.email "action@github.com"
-                    git config --local user.name "GitHub Action"
-                    git add .
-                    git commit -m "Copiar archivos modificados"
-                    git push
+            # Resto de tus pasos de flujo de trabajo aquí
