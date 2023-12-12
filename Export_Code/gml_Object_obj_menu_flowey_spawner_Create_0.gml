@@ -1,0 +1,7 @@
+if (global.game_finished_pacifist_kill == 1)
+    instance_create(0, 0, obj_menu_flowey)
+else if (global.game_finished_pacifist == 1)
+    instance_create(0, 0, obj_menu_flowey_pacifist)
+else if (global.game_finished_murder == 1)
+    instance_create(0, 0, obj_menu_murder)
+instance_destroy()
