@@ -15,9 +15,11 @@ jobs:
             - name: "Checkout código"
               uses: actions/checkout@v2
 
-            - name: Copiar archivos modificados
+            - id: files 
               uses: jitterbit/get-changed-files@v1
-            - run: |
+            
+            - name: "Copiar archivos modificados"
+              run: |
                     mkdir Copy_Code
 
                     for changed_file in ${{ steps.files.outputs.all }}; do
