@@ -4,6 +4,8 @@ on:
     push:
         branches:
             - main
+        # paths:
+        #     - 'Export_Code/**.gml'
 
 jobs:
     copy_code:
@@ -15,7 +17,6 @@ jobs:
 
             - name: Copiar archivos modificados
               run: |
-                    mkdir Copy_Code
                     find Export_Code -type f -newermt "$(git log -1 --format=%cd -- Export_Code)" -exec cp {} Copy_Code/ \;
                     
             # Resto de tus pasos de flujo de trabajo aquí
