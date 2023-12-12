@@ -3,7 +3,7 @@ function scr_determine_item_droppable_yellow(argument0) //gml_Script_scr_determi
     var item_slot = argument0
     switch item_slot
     {
-        case "Cartel Perdido":
+        case "Missing Poster":
         case "Snowdin Map":
         case "Matches":
         case "Lukewarm Coffee":
