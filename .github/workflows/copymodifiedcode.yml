@@ -22,9 +22,11 @@ jobs:
               run: |
                     mkdir Copy_Code
 
+                    ls
+
                     for changed_file in ${{ steps.files.outputs.all }}; do
                         echo "Changed file: $changed_file"
-                        cp $file Copy_Code/
+                        cp $changed_file Copy_Code 
                     done
 
                     ls Copy_Code
