@@ -20,8 +20,8 @@ jobs:
       - name: Commit file with a actual timestamp
         run: |
           date > timestamp.txt
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]xd@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]xd"
           git add timestamp.txt
           git commit -m "Add timestamp"
           git push
