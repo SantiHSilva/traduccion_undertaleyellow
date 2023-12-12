@@ -32,4 +32,12 @@ jobs:
                     done
 
                     ls Copy_Code
+            
+            - name: "Commit modified files"
+              run: |
+                git config --global user.email "github-actions[bot]@users.noreply.github.com"
+                git config --global user.name "github-actions[bot]"
+                git add Copy_Code 
+                git commit -m "Añadir código modificado en la carpeta Copy_Code"
+                git push
                                                                                                                                                             
