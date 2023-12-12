@@ -16,7 +16,7 @@ function scr_item_use_text_yellow() //gml_Script_scr_item_use_text_yellow
     var execute_pp = 0
     var execute_sp = 0
     var execute_rp = 0
-    if (item_slot == "Missing Poster" || item_slot == "Necklace")
+    if (item_slot == "Cartel Perdido" || item_slot == "Necklace")
     {
         message[0] = "* (You cannot use this item.)"
         item_use_hold.item_category = "nonconsumable"
