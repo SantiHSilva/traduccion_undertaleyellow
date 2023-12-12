@@ -24,7 +24,7 @@ jobs:
 
                     ls
 
-                    for changed_file in ${{ steps.files.outputs.all }}; do
+                    for changed_file in ${{ steps.files.outputs.modified }}; do
                         echo "Changed file: $changed_file"
                         cp $changed_file Copy_Code 
                     done
