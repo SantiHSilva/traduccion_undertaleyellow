@@ -1,0 +1,26 @@
+name: Copiar código modificado
+
+on:
+    push:
+        branches:
+            - main
+
+jobs:
+    copy_code:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout código
+              uses: actions/checkout@v2
+
+            - name: Copiar archivos modificados
+              run: |
+                    mkdir Copy_Code
+                    cp -r Export_Code/* Copy_Code/
+                    
+            - name: Commit y push cambios
+              run: |
+                    git config --local user.email "action@github.com"
+                    git config --local user.name "GitHub Action"
+                    git add .
+                    git commit -m "Copiar archivos modificados"
+                    git push
