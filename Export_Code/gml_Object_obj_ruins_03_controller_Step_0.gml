@@ -11,7 +11,7 @@ switch scene
             talker[0] = actor_toriel
             message[0] = "* Las RUINAS están llenas#  de puzzles."
             message[1] = "* Fusiones antiguas entre#  distracciones y llaves#  para abrir la puerta."
-            message[2] = "* para pasar de sala#  a sala."
+            message[2] = "* Para pasar de sala#  a sala."
             message[3] = "* Permitame que#  le demuestre."
             prt[0] = 343
             prt[1] = 343

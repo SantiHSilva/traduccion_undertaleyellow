@@ -19,7 +19,7 @@ function scr_battle_core_directory_flavor_text_intro() //gml_Script_scr_battle_c
         if (battle_enemy_name == "froggit intro")
             message[0] = "* ¡Froggit saltó cerca!"
         else if (battle_enemy_name == "flier solo")
-            message[0] = "* Flier is giving fighting a try!"
+            message[0] = "* ¡Flier está intentando luchar!"
         else if (battle_enemy_name == "flier trio")
             message[0] = "* You are overwhelmed by#  depressing vibes."
         else if (battle_enemy_name == "penilla solo")

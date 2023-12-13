@@ -176,7 +176,7 @@ function scr_battle_core_directory_flavor_text_enemy_1_default_3() //gml_Script_
         {
             message[0] = "* The enemy prepares to attack."
             if (global.hotland_flag[9] >= 2)
-                message[0] = "* Home."
+                message[0] = "* Hogar."
         }
     }
 }

@@ -88,7 +88,7 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Compliment"
+            battle_menu_option_string = "* Elogiar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "flier a" || battle_enemy_name == "flier b" || battle_enemy_name == "flier c")
@@ -102,7 +102,7 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Compliment"
+            battle_menu_option_string = "* Elogiar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "sweet corn a" || battle_enemy_name == "sweet corn b")
@@ -144,7 +144,7 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Compliment"
+            battle_menu_option_string = "* Elogiar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "insomnitot a" || battle_enemy_name == "insomnitot b")
@@ -346,7 +346,7 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
             if (global.action_1_important == 1)
             {
                 if (global.route == 1)
-                    battle_menu_option_string = "* Compliment"
+                    battle_menu_option_string = "* Elogiar"
                 else if (global.route == 2)
                     battle_menu_option_string = "* Plan B"
             }
@@ -357,7 +357,7 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
             if (global.turns_passed == 0)
-                battle_menu_option_string = "* Compliment"
+                battle_menu_option_string = "* Elogiar"
             else
                 battle_menu_option_string = "* Frog"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)

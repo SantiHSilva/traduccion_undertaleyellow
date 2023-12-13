@@ -1,1 +1,1 @@
-message = "* Solo los valientes pueden proceder.#* Valientes, tontos.#* Ambos no caminan por el camino del medio."
+message = "* Solo los valientes proceden.#* Valientes, tontos.#* Ambos no caminan por el medio."
