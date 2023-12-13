@@ -533,7 +533,7 @@ switch scene
             if (global.dunes_flag[3] == 1)
             {
                 message[0] = "* BAM!"
-                message[1] = "* Welcome back!"
+                message[1] = "* ¡Bienvenido de vuelta!"
                 message[2] = "* Here's what I got. (20 G)"
                 ch_msg = 2
             }

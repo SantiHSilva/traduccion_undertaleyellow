@@ -53,7 +53,7 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Talk"
+            battle_menu_option_string = "* Hablar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "ms mettaton")
@@ -130,14 +130,14 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Talk"
+            battle_menu_option_string = "* Hablar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "dalv")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Talk"
+            battle_menu_option_string = "* Hablar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "micro froggit")
@@ -257,7 +257,7 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Talk"
+            battle_menu_option_string = "* Hablar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "ceroba genocide")
@@ -309,7 +309,7 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Watch"
+            battle_menu_option_string = "* Mirar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "goosic a" || battle_enemy_name == "goosic b")
