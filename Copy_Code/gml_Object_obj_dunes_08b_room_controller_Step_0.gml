@@ -295,7 +295,7 @@ switch scene
         {
             position = 0
             ch_msg = 4
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             talker[0] = mo
             message[0] = "* Thaaat's right!"
