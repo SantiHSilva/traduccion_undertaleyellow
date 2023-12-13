@@ -12,7 +12,7 @@ if interacted_with
         with (msg)
         {
             ch_msg = 2
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             message[0] = "* (You examine the#  bookshelf...)	"
             message[1] = "* (A title called \"Mysteries of#  the Underground\" catches your#  eye.)	"
@@ -46,7 +46,7 @@ if interacted_with
             message[8] = "* (You flip to the next#  chapter.)"
             message[9] = "* (Continue reading?)"
             ch_msg = 9
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             if (outcome == 1)
             {
@@ -83,7 +83,7 @@ if interacted_with
             message[9] = "* (You flip to the next#  chapter.)"
             message[10] = "* (Continue reading?)"
             ch_msg = 10
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             if (outcome == 1)
             {

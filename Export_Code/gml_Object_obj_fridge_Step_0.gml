@@ -85,7 +85,7 @@ if (global.flag[17] == 1)
             if ((message_current + 1) == 1)
             {
                 ch_msg = 1
-                ch[1] = "Yes"
+                ch[1] = "Sí"
                 ch[2] = "No"
             }
         }

@@ -357,7 +357,7 @@ if (room == rm_darkruins_16 && global.flag[26] == 0)
         {
             sndfnt = 100
             portrait = 0
-            message[0] = "* No sé quién eres pero#  te pregunto..."
+            message[0] = "* No sé quién eres pero..."
             message[1] = "* ¡Por favor, largate!"
         }
         timer++
@@ -439,7 +439,7 @@ if (room == rm_darkruins_18 && global.flag[27] == 0)
                 sndfnt = 100
                 message[0] = "* No entiendo... Tu...#  te pareces a ellos."
                 message[1] = "* ¿Es algún tipo de hechizo?#  ¿O has venido a#  terminar el trabajo?"
-                message[2] = "* Retirarme aquí no fue#  suficiente, así que me cazaste..."
+                message[2] = "* Retirarme aquí no fue#  suficiente,#  así que me cazaste..."
                 message[3] = "* ¿Verdad?"
                 ch_msg = 3
                 ch[1] = "¿Qué?"

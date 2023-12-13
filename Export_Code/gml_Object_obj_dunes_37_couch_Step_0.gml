@@ -15,7 +15,7 @@ switch scene
             message[1] = "* (These cramped living#  conditions are bringing back#  unpleasant memories.)"
             message[2] = "* (Hop on?)"
             ch_msg = 2
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             if (outcome == 1)
                 other.scene = 2

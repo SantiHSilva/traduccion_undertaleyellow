@@ -1,4 +1,4 @@
-message[0] = "* Property of Dalv#  (That monster in the cloak.)#* NO TRESPASSING!"
+message[0] = "*Propiedad de Dalv#  (El monstruo de la capa.)#* ¡NO PASAR!"
 color = 1
-message_col[0][0] = "              Dalv                                                 "
+message_col[0][0] = "              Dalv"
 col_modif[0] = make_color_rgb(196, 150, 196)

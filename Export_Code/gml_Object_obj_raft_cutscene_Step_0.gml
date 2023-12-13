@@ -144,7 +144,7 @@ if (global.snowdin_flag[13] == 1)
             {
                 sndfnt = 102
                 ch_msg = 2
-                ch[1] = "Yes"
+                ch[1] = "Sí"
                 ch[2] = "No"
                 message[0] = "* Hey, so would you mind#  answering a few#  questions for me?"
                 message[1] = "* It's nothing big, it's#  just a little quality#  assurance questionnaire."

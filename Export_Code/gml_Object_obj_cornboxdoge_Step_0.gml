@@ -12,28 +12,28 @@ if (waiter > 0)
         if (global.flag[11] == 1)
         {
             if (global.route != 3)
-                message[0] = "* (It's a crate with \"special#  corn\" written on it in pink#  crayon.)"
+                message[0] = "* (Es una caja con maíz \"especial\"#  escrito en crayón rosa.)"
             else
-                message[0] = "* (Nothing useful left.)"
+                message[0] = "* (No queda nada útil.)"
             other.waiter = 0
         }
         else
         {
-            message[0] = "* (There's a Corn Dog hiding#  amongst the corn cobs.)"
-            message[1] = "* (Take it?)"
+            message[0] = "* (Hay un Corn Dog escondido#  entre las mazorcas de maíz.)"
+            message[1] = "* (¿Tomarlo?)"
             ch_msg = 1
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             if (outcome == 1 && message_current == 1)
             {
-                message[2] = "* Obtained Corn Dog!"
+                message[2] = "* ¡Obtuviste un Corn Dog!"
                 scr_item("Corn Dog")
                 global.flag[11] = 1
                 obj_cornboxdoge.waiter = 0
             }
             if (outcome == 2 && message_current == 1)
             {
-                message[2] = "* (It could bite you.)"
+                message[2] = "* (Podría morderte.)"
                 obj_cornboxdoge.waiter = 0
             }
         }

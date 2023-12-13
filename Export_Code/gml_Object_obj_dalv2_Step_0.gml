@@ -81,8 +81,8 @@ with (other)
             with (msg)
             {
                 sndfnt = 100
-                message[0] = "* Alright, I know you're#  probably eager to get#  going."
-                message[1] = "* But feel free to#  stay as long as#  you like."
+                message[0] = "* De acuerdo, sé que# probablemente estés ansioso#  por ponerte en marcha."
+                message[1] = "* Pero siéntete libre#  de quedarte todo el#  tiempo que quieras."
                 prt[0] = 1755
                 prt[1] = 1769
             }
@@ -124,7 +124,7 @@ with (other)
                 with (msg)
                 {
                     sndfnt = 100
-                    message[0] = "* Welcome back."
+                    message[0] = "* Bienvenido de nuevo."
                     message[1] = "* Um... I'm not sure what#  to say..."
                     message[2] = "* I had some cards made#  for emergency friend#  situations...#"
                     message[3] = "* ...but I've misplaced#  them."
@@ -348,7 +348,7 @@ if (dalv_talk_waiter == 4)
             obj_dalv2.dalv_talk_waiter++
         }
         ch_msg = 0
-        ch[1] = "Yes"
+        ch[1] = "Sí"
         ch[2] = "No"
     }
 }

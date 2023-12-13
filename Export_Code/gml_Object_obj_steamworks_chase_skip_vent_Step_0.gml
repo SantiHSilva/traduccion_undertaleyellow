@@ -12,7 +12,7 @@ if (scene == 0)
     with (msg)
     {
         message[0] = "* (Crawl through the vent?)"
-        ch[1] = "Yes"
+        ch[1] = "Sí"
         ch[2] = "No"
         ch_msg = 0
         if (outcome == 1)

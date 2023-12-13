@@ -12,7 +12,7 @@ if interacted_with
         with (msg)
         {
             ch_msg = 2
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             message[0] = "* (The shelf is lined with#  several books, some educational,#  some recreational.)"
             message[1] = "* (A book titled \"Gemstone Fever\"#  catches your eye.)"

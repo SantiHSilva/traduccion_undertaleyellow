@@ -16,7 +16,7 @@ if (waiter == 1)
         }
         else
         {
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             ch_msg = 0
         }
