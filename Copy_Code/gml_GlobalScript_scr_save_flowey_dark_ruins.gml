@@ -180,7 +180,7 @@ function scr_save_flowey_dark_ruins() //gml_Script_scr_save_flowey_dark_ruins
                     {
                         case 0:
                             message[0] = "* ¡Hola!"
-                            message[1] = "* Caramba, ¡Este sitio#  está  muerto!"
+                            message[1] = "* Caramba, ¡Este sitio#  está muerto!"
                             message[2] = "* Todos los monstruos#  están quietos y#  al acecho."
                             message[3] = "* ¡Eso no es propio#  de los monstruos!"
                             message[4] = "* No dejes que esto#  arruine tu impresión#  del Subsuelo!"
@@ -207,7 +207,7 @@ function scr_save_flowey_dark_ruins() //gml_Script_scr_save_flowey_dark_ruins
                             message[0] = "* ¡Hola!"
                             message[1] = "* ¡Parece que lo estás#  haciendo bien!"
                             if (global.death_count_total > 1)
-                                message[2] = (("* ¡Solo " + string(global.death_count_total)) + " muertes!#  ¡Experto en el#  Dark Souls!")
+                                message[2] = (("* ¡Solo " + string(global.death_count_total)) + " muertes!#* ¡Experto en el#  Dark Souls!")
                             else if (global.death_count_total == 1)
                                 message[2] = "* ¡Solo una muerte!"
                             else
