@@ -324,42 +324,29 @@ switch scene
                 var new_image_index = 0
                 var max_points = max(overworld_robot_sprite[0], overworld_robot_sprite[1], overworld_robot_sprite[2], overworld_robot_sprite[3], overworld_robot_sprite[4], overworld_robot_sprite[5], overworld_robot_sprite[6])
                 i = 0
-                while (true)
+                while (i < array_length(overworld_robot_sprite))
                 {
-                    if (i < array_length(overworld_robot_sprite))
+                    if (max_points == overworld_robot_sprite[i])
                     {
-                        if (max_points == overworld_robot_sprite[i])
-                            new_image_index = i
-                        else
-                        {
-                            i++
-                            continue
-                        }
+                        new_image_index = i
+                        break
                     }
                     else
                     {
-                        global.sworks_flag[44] = new_image_index
-                        obj_steamworks_13_robuild_complete.image_index = new_image_index
-                        with (obj_robuild_parent)
-                        {
-                            if point_in_rectangle(x, y, xbound_left, ybound_top, xbound_right, ybound_bottom)
-                                instance_destroy()
-                        }
+                        i++
+                        continue
                     }
                 }
+                global.sworks_flag[44] = new_image_index
+                obj_steamworks_13_robuild_complete.image_index = new_image_index
             }
-            else
+            with (obj_robuild_parent)
             {
-                with (obj_robuild_parent)
-                {
-                    if point_in_rectangle(x, y, xbound_left, ybound_top, xbound_right, ybound_bottom)
-                        instance_destroy()
-                }
-                break
+                if point_in_rectangle(x, y, xbound_left, ybound_top, xbound_right, ybound_bottom)
+                    instance_destroy()
             }
         }
-        else
-            break
+        break
     case 10:
         cutscene_wait(1)
         break
