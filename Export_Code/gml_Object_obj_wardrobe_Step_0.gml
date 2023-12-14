@@ -21,17 +21,17 @@ with (other)
                             instance_create(0, 0, obj_dialoguebox_dummy)
                         portrait = 0
                         sndfnt = 99
-                        message[0] = "* (It's an intimidating looking#  wardrobe.)"
-                        message[1] = "* (Open it?)"
+                        message[0] = "* (Es un guardarropa de aspecto#  intimidatorio.)"
+                        message[1] = "* (¿Abrirlo?)"
                         if (outcome == 1 && message_current == 1)
                         {
-                            message[2] = "* (There is a balloon floating#  slowly inside. It has a cute#  little happy face drawn on it.)"
+                            message[2] = "* (Hay un globo flotando lentamente en#  su interior. Tiene dibujada una#  carita de felicidad.)"
                             obj_wardrobe.sprite_index = spr_wardrobalon
                             obj_wardrobe.waiter = 2
                         }
                         if (outcome == 2 && message_current == 1)
                         {
-                            message[2] = "* (You respect Dalv's privacy.)"
+                            message[2] = "* (Respeta la privacidad de Dalv.)"
                             global.interaction_count_wardrobe++
                             obj_wardrobe.waiter = 0
                             with (obj_dialoguebox_dummy)
@@ -76,8 +76,8 @@ with (other)
                 with (msg)
                 {
                     sndfnt = 100
-                    message[0] = "* Hey. um. Would you#  mind giving Pops his#  space?"
-                    message[1] = "* He likes the dark..."
+                    message[0] = "* Hola. ¿Te importaría#  darle a Pops su espacio?"
+                    message[1] = "* Le gusta la oscuridad..."
                     prt[0] = 1763
                     prt[1] = 1763
                 }
@@ -90,7 +90,7 @@ with (other)
                 with (msg)
                 {
                     sndfnt = 99
-                    message[0] = "* (You wave goodbye to Pops#  before closing the door#  again.)"
+                    message[0] = "* (Te despides de Pops#  antes de volver a cerrar#  la puerta.)"
                     portrait = 0
                 }
                 waiter = 32
@@ -121,18 +121,18 @@ with (other)
             {
                 portrait = 0
                 sndfnt = 99
-                message[0] = "* (It's an intimidating looking#  wardrobe.)"
-                message[1] = "* (Open it?)"
+                message[0] = "* (Es un guardarropa de aspecto#  intimidatorio.)"
+                message[1] = "* (¿Abrirlo?)"
                 if (outcome == 1 && message_current == 1)
                 {
-                    message[2] = "* (There is a balloon floating#  slowly inside. It has a cute#  little happy face drawn on it.)"
-                    message[3] = "* (You wave goodbye to it#  before closing the door#  again.)"
+                    message[2] = "* (Hay un globo flotando lentamente en#  su interior. Tiene dibujada una#  carita de felicidad.)"
+                    message[3] = "* (Le dices adiós con la#  mano antes de volver a#  cerrar la puerta.)"
                     obj_wardrobe.sprite_index = spr_wardrobalon
                     obj_wardrobe.waiter = 2
                 }
                 if (outcome == 2 && message_current == 1)
                 {
-                    message[2] = "* (You respect Dalv's privacy.)"
+                    message[2] = "* (Respeta la privacidad de Dalv.)"
                     obj_wardrobe.waiter = 2
                 }
                 if ((message_current + 1) == 1)
@@ -166,10 +166,10 @@ with (other)
                 {
                     portrait = 0
                     sndfnt = 99
-                    message[0] = "* (It's a tacky looking black#  wardrobe.)"
-                    message[1] = "* (You open it.)"
-                    message[2] = "* (There is a balloon floating#  slowly inside.)"
-                    message[3] = "* (You untie it and inhale some#  of the contents.)"
+                    message[0] = "* (Es un vestuario negro#  de mal gusto.)"
+                    message[1] = "* (Lo abres.)"
+                    message[2] = "* (Hay un globo flotando#  lentamente en su interior.)"
+                    message[3] = "* (Lo desatas e inhalas algo#  de su contenido.)"
                     obj_wardrobe.waiter++
                     global.interaction_count_wardrobe++
                 }
@@ -177,7 +177,7 @@ with (other)
                 {
                     portrait = 0
                     sndfnt = 99
-                    message[0] = "* (You should respect the dead.)"
+                    message[0] = "* (Hay que respetar a los muertos.)"
                     obj_wardrobe.sprite_index = spr_wardrodeflate
                     obj_wardrobe.image_speed = 0
                     obj_wardrobe.image_index = 16
@@ -208,9 +208,9 @@ with (other)
             {
                 portrait = 0
                 sndfnt = 99
-                message[0] = "* (You now sound funny.)"
+                message[0] = "* (Ahora suenas gracioso.)"
                 message[1] = "* ..."
-                message[2] = "* (You no longer sound funny.)"
+                message[2] = "* (Ya no suenas gracioso.)"
                 obj_wardrobe.waiter++
             }
         }

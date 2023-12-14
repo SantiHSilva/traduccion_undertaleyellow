@@ -26,7 +26,7 @@ function scr_battle_core_directory_flavor_text_enemy_1_special() //gml_Script_sc
             else if ((global.action_1_selected_count + global.action_3_selected_count) == 1)
                 message[0] = "* Decibat mueve sus grandes orejas."
             else if (global.action_2_selected_count == 4)
-                message[0] = "* Decibat está siendo#  dormido."
+                message[0] = "* Decibat se está#  duermiendo."
             else if (global.action_2_selected_count == 3)
                 message[0] = "* Decibat disfruta del silencio."
             else if (global.action_2_selected_count == 2)

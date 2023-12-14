@@ -1,6 +1,6 @@
 global.player_gold += global.enemy_gold
 if (global.game_mode == "customs")
-    message[0] = (("* GANASTE!#* Conseguiste 0 XP y " + string(global.enemy_gold)) + " de oro.")
+    message[0] = (("* ¡GANASTE!#* Conseguiste 0 XP y " + string(global.enemy_gold)) + " de oro.")
 else if (global.game_mode == "yellow")
 {
     if (global.battle_enemy_name == "froggit intro")
@@ -13,7 +13,7 @@ else if (global.game_mode == "yellow")
             message[0] = "* Decibat se aleja para encontrar#  un lugar más tranquilo."
     }
     else
-        message[0] = (("* GANASTE!#* Obtuviste 0 XP y " + string(global.enemy_gold)) + " de oro.")
+        message[0] = (("* ¡GANASTE!#* Obtuviste 0 XP y " + string(global.enemy_gold)) + " de oro.")
 }
 message_current = 0
 message_end = 0

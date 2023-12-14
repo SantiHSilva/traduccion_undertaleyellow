@@ -33,7 +33,7 @@ function scr_battle_core_directory_flavor_text_enemy_1_sparing_1() //gml_Script_
         else if (battle_enemy_name == "rorrim solo")
             message[0] = "* Rorrim is looking for his next#  big project."
         else if (battle_enemy_name == "decibat")
-            message[0] = "* Decibat is ready to return to#  sleep."
+            message[0] = "* Decibat está listo para volver a#  dormir."
         else if (battle_enemy_name == "dalv")
         {
             switch enemy_mode

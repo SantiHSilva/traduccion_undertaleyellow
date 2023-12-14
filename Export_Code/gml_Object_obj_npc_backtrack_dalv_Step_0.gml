@@ -16,7 +16,7 @@ if (waiter == 1)
                 ch[1] = "Casa"
                 ch[2] = "Futuro"
                 message[0] = "* ¡Clover!"
-                message[1] = "* ¡Hola!"
+                message[1] = "* ¡Buenas!"
                 message[2] = "* Me has pillado en plena mudanza,"
                 message[3] = "* Pero no me importa hacer#  una pausa para charlar."
                 message[4] = "* ¿En qué piensas?"

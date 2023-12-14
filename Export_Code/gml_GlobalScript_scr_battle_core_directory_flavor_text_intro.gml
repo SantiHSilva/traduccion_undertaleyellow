@@ -41,7 +41,7 @@ function scr_battle_core_directory_flavor_text_intro() //gml_Script_scr_battle_c
         else if (battle_enemy_name == "decibat")
             message[0] = "* Decibat hace notar#  su presencia."
         else if (battle_enemy_name == "dalv")
-            message[0] = "* Dalv musters his fighting#  spirit."
+            message[0] = "* Dalv reúne su espiritu de lucha."
         else if (battle_enemy_name == "micro froggit")
             message[0] = "* You notice Micro Froggit#  attacking you!"
         else if (battle_enemy_name == "insomnitot solo")

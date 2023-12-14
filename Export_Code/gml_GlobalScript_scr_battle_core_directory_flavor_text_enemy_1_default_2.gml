@@ -35,7 +35,7 @@ function scr_battle_core_directory_flavor_text_enemy_1_default_2() //gml_Script_
         else if (battle_enemy_name == "decibat")
             message[0] = "* Decibat susurra algo#  demasiado bajo para oírlo."
         else if (battle_enemy_name == "dalv")
-            message[0] = "* Dalv hace una pausa para#  cepillar la capa."
+            message[0] = "* Dalv hace una pausa para#  cepillarse la capa."
         else if (battle_enemy_name == "micro froggit")
             message[0] = "* Captas un leve olor#  a semilla de mostaza."
         else if (battle_enemy_name == "insomnitot solo")

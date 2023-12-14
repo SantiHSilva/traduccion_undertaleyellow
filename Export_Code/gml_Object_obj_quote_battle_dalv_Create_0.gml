@@ -9,73 +9,73 @@ switch enemy_mode
         {
             if (turns_passed == 0)
             {
-                message[0] = "I don't suppose you#can leave the way you#entered, could you?"
-                message[1] = "That would be easier#for both of us."
+                message[0] = "Supongo que no#puedes irte como#entraste, ¿verdad?"
+                message[1] = "Sería más fácil#para ambos."
                 portrait[0] = 1755
                 portrait[1] = 1759
                 message_end = 1
             }
             else if (turns_passed == 1)
             {
-                message[0] = "Where did you#come from anyway?"
-                message[1] = "There aren't any#accessible#entrances..."
+                message[0] = "¿De dónde vienes?"
+                message[1] = "No hay#entradas#accesibles..."
                 portrait[0] = 1763
                 portrait[1] = 1780
                 message_end = 1
             }
             else if (turns_passed == 2)
             {
-                message[0] = "All I know is that#somehow...#you found me.#"
-                message[1] = "Sorry to make things#difficult but I'm not#cowering away this#time."
+                message[0] = "Todo lo que sé es#que de alguna manera...#me encontraste."
+                message[1] = "Siento poner las#cosas difíciles, pero#esta vez no me voy#a acobardar.."
                 portrait[0] = 1786
                 portrait[1] = 1781
                 message_end = 1
             }
             else if (turns_passed == 3)
             {
-                message[0] = "The other monsters...#Did you pester#them as well?	"
-                message[1] = "Not that I care#much to keep up#with their activity..."
+                message[0] = "Los otros monstruos...#¿Los molestaste#también?"
+                message[1] = "No es que me importe#mucho seguir su#actividad..."
                 portrait[0] = 1780
                 portrait[1] = 1759
                 message_end = 1
             }
             else if (turns_passed == 4)
             {
-                message[0] = "This region of the#Ruins is my home."
-                message[1] = "And my home has#rules. The residents#understand that."
+                message[0] = "Esta región de las#Ruinas es mi hogar."
+                message[1] = "Y mi casa tiene reglas.#Los residentes#lo entienden."
                 portrait[0] = 1776
                 portrait[1] = 1759
                 message_end = 1
             }
             else if (turns_passed == 5)
             {
-                message[0] = "But it seems as#if you never got#the memo."
-                message[1] = "That, or you're#purposely ignoring#my wishes."
+                message[0] = "Pero parece que#nunca recibiste el#memorándum."
+                message[1] = "Eso, o estás#ignorando mis#deseos a#propósito."
                 portrait[0] = 1780
                 portrait[1] = 1759
                 message_end = 1
             }
             else if (turns_passed == 6)
             {
-                message[0] = "W-What's with that#sad face?"
-                message[1] = "Don't you understand?#Don't you remember me?"
+                message[0] = "¿A qué viene#esa cara de#tristeza?"
+                message[1] = "¿No lo entiendes?#¿No te acuerdas de mí?"
                 portrait[0] = 1764
                 portrait[1] = 1778
                 message_end = 1
             }
             else if (turns_passed == 7)
             {
-                message[0] = "I know you aren't#a phantom but..."
-                message[1] = "Could it be that...#No, it isn't#possible."
+                message[0] = "Sé que no eres#un fantasma pero..."
+                message[1] = "Podría ser que...#No, no es#posible."
                 portrait[0] = 1780
                 portrait[1] = 1763
                 message_end = 1
             }
             else if (turns_passed == 8)
             {
-                message[0] = "You..."
-                message[1] = "You look so#helpless. Different."
-                message[2] = "But is it a front?"
+                message[0] = "Tú..."
+                message[1] = "Pareces tan#indefenso. Diferente."
+                message[2] = "¿Pero es una#excusa?"
                 portrait[0] = 1763
                 portrait[1] = 1764
                 portrait[2] = 1780
@@ -83,12 +83,12 @@ switch enemy_mode
             }
             else if (turns_passed == 9)
             {
-                message[0] = "No... You aren't#trying to hurt me..."
-                message[1] = "You... You aren't#who I believed you#to be, are you?"
-                message[2] = "...How could I be#so foolish?"
-                message[3] = "I apologize.#I truly do."
-                message[4] = "This got out of#hand..."
-                message[5] = "I... I don't know#how I can make#things right now..."
+                message[0] = "No... No estás#tratando de hacerme#daño..."
+                message[1] = "Tú... No eres#quien yo creía que#eras, ¿verdad?"
+                message[2] = "...¿Cómo he podido#ser tan tonto?"
+                message[3] = "Me disculpo.#De verdad que sí."
+                message[4] = "Esto se me#fue de las manos..."
+                message[5] = "Yo... No sé#cómo hacer#las cosas ahora..."
                 portrait[0] = 1786
                 portrait[1] = 1764
                 portrait[2] = 1780
@@ -100,9 +100,9 @@ switch enemy_mode
         }
         else if (turns_passed == 0)
         {
-            message[0] = "I feared this would#happen. What poor#luck."
-            message[1] = "You know, despite your#beliefs..."
-            message[2] = "Monsters aren't evil."
+            message[0] = "Temía que esto#ocurriera.#Qué mala suerte."
+            message[1] = "Sabes, a pesar de#tus pensamientos..."
+            message[2] = "Los monstruos#no son malos."
             portrait[0] = 1785
             portrait[1] = 1763
             portrait[2] = 1786
@@ -110,39 +110,39 @@ switch enemy_mode
         }
         else if (turns_passed == 1)
         {
-            message[0] = "Monsterkind stands for#hope, for good."
-            message[1] = "Everyone here is only#trying to find a#little joy."
+            message[0] = "Monsterkind representa#la esperanza, el bien."
+            message[1] = "Aquí todo el mundo#sólo intenta encontrar#un poco de alegría."
             portrait[0] = 1786
             portrait[1] = 1763
             message_end = 1
         }
         else if (turns_passed == 2)
         {
-            message[0] = "But... I guess you#aren't one for joy."
+            message[0] = "Pero... Supongo que#no estás para alegrías."
             portrait[0] = 1759
             message_end = 0
         }
         else if (turns_passed == 3)
         {
-            message[0] = "Who am I kidding? You#won't believe me."
-            message[1] = "I'm the one who got#hostile first."
+            message[0] = "¿A quién quiero#engañar? No me creerias."
+            message[1] = "Yo soy el que#se volvió hostil#primero."
             portrait[0] = 1763
             portrait[1] = 1781
             message_end = 1
         }
         else if (turns_passed == 4)
         {
-            message[0] = "This isn't some#mistake though..."
-            message[1] = "You're fighting on#purpose."
+            message[0] = "Pero esto no#es un error..."
+            message[1] = "Luchas a#propósito."
             portrait[0] = 1759
             portrait[1] = 1762
             message_end = 1
         }
         else if (turns_passed == 5)
         {
-            message[0] = "If you refuse to be#peaceful..."
-            message[1] = "I won't be peaceful#either."
-            message[2] = "Despite what I said,#us monsters aren't#pushovers."
+            message[0] = "Si te niegas a ser#pacífico..."
+            message[1] = "Yo tampoco#seré pacífico."
+            message[2] = "A pesar de lo#que he dicho, los#monstruos no somos#debiles."
             portrait[0] = 1785
             portrait[1] = 1762
             portrait[2] = 1762
@@ -150,9 +150,9 @@ switch enemy_mode
         }
         else if (turns_passed == 6)
         {
-            message[0] = "I'm losing at this,#aren't I...?"
-            message[1] = "Why am I even wasting#my breath?"
-            message[2] = "You aren't worth#talking to..."
+            message[0] = "Estoy perdiendo en#esto, ¿no?"
+            message[1] = "¿Por qué desperdicio#mi aliento?"
+            message[2] = "No vale la pena#hablar contigo..."
             portrait[0] = 1763
             portrait[1] = 1759
             portrait[2] = 1779
@@ -160,7 +160,7 @@ switch enemy_mode
         }
         else if (turns_passed == 7)
         {
-            message[0] = "So... I'm gonna...#stop talking... to#you..."
+            message[0] = "Así que...#voy a...#dejar de hablar...#contigo..."
             portrait[0] = 1779
             message_end = 0
         }
@@ -176,45 +176,45 @@ switch enemy_mode
         {
             if (turns_passed == 0)
             {
-                message[0] = "I don't suppose you#can leave the way you#entered, could you?"
-                message[1] = "That would be easier#for both of us."
+                message[0] = "Supongo que no#puedes irte como#entraste, ¿verdad?"
+                message[1] = "Sería más fácil#para ambos."
                 portrait[0] = 1755
                 portrait[1] = 1759
                 message_end = 1
             }
             else if (turns_passed == 1)
             {
-                message[0] = "How did you get in#here?"
-                message[1] = "There aren't any#accessible entrances..."
+                message[0] = "¿De dónde vienes?"
+                message[1] = "No hay#entradas#accesibles..."
                 portrait[0] = 1765
                 portrait[1] = 1780
                 message_end = 1
             }
             else if (turns_passed == 2)
             {
-                message[0] = "* I..."
+                message[0] = "* Yo..."
                 portrait[0] = 1780
                 message_end = 0
             }
             else if (turns_passed == 3)
             {
-                message[0] = "I think I know what#you've done..."
+                message[0] = "Creo saber lo#que has hecho..."
                 portrait[0] = 1759
                 message_end = 0
             }
             else if (turns_passed == 4)
             {
-                message[0] = "You hurt a lot of the#monsters out there,#didn't you?"
-                message[1] = "Decibat told me that#you went on a#rampage..."
+                message[0] = "Hiciste daño a muchos#de los monstruos de#ahí fuera, ¿verdad?"
+                message[1] = "Decibat me dijo#que te fuiste del#alboroto..."
                 portrait[0] = 1781
                 portrait[1] = 1763
                 message_end = 1
             }
             else if (turns_passed == 5)
             {
-                message[0] = "I... I don't know what#to think of you..."
-                message[1] = "I should call you evil#but... you spared#Decibat."
-                message[2] = "Why is that?"
+                message[0] = "Yo... No sé#qué pensar de ti..."
+                message[1] = "Debería llamarte#malvado pero...#perdonaste a Decibat."
+                message[2] = "¿Por qué?"
                 portrait[0] = 1764
                 portrait[1] = 1763
                 portrait[2] = 1763
@@ -222,9 +222,9 @@ switch enemy_mode
             }
             else if (turns_passed == 6)
             {
-                message[0] = "I... always wanted to#be alone. I was sure#of it..."
-                message[1] = "But now that I'm so#close to being so..."
-                message[2] = "I don't want that#anymore."
+                message[0] = "Yo... siempre#quise estar solo.#Estaba seguro de#ello..."
+                message[1] = "Pero ahora que#estoy tan cerca#de estarlo..."
+                message[2] = "Ya no quiero eso."
                 portrait[0] = 1763
                 portrait[1] = 1780
                 portrait[2] = 1786
@@ -232,25 +232,25 @@ switch enemy_mode
             }
             else if (turns_passed == 7)
             {
-                message[0] = "I know I should hate#you but..."
-                message[1] = "I don't have much left#now."
+                message[0] = "Sé que debería#odiarte pero..."
+                message[1] = "Ya no me queda#mucho."
                 portrait[0] = 1763
                 portrait[1] = 1786
                 message_end = 1
             }
             else if (turns_passed == 8)
             {
-                message[0] = "I have Decibat..."
-                message[1] = "And you too."
-                message[2] = "I..."
-                message[3] = "I don't want to#be alone."
-                message[4] = "And I'm not a#malicious monster,#I promise!"
-                message[5] = "I probably scared#you."
-                message[6] = "And you being so#young, the others..."
+                message[0] = "Tengo a Decibat..."
+                message[1] = "Y a ti también."
+                message[2] = "Yo..."
+                message[3] = "No quiero#estar solo."
+                message[4] = "Y no soy un#monstruo malicioso,#¡lo prometo!"
+                message[5] = "Probablemente#te asusté."
+                message[6] = "Y tú siendo tan#joven, los demás..."
                 message[7] = "..."
-                message[8] = "Why don't you come#to my house?"
-                message[9] = "We can make amends#there, like...#friends."
-                message[10] = "What do you say?"
+                message[8] = "¿Por qué no#vienes a mi casa?"
+                message[9] = "Podemos hacer las paces#allí, como...#amigos."
+                message[10] = "¿Qué te parece?"
                 portrait[0] = 1781
                 portrait[1] = 1780
                 portrait[2] = 1786
@@ -273,9 +273,9 @@ switch enemy_mode
         }
         else if (turns_passed == 0)
         {
-            message[0] = "I feared this would#happen. What poor#luck."
-            message[1] = "You know, despite your#beliefs..."
-            message[2] = "Monsters aren't evil."
+            message[0] = "Temía que esto#ocurriera.#Qué mala suerte."
+            message[1] = "Sabes, a pesar de#tus pensamientos..."
+            message[2] = "Los monstruos#no son malos."
             portrait[0] = 1785
             portrait[1] = 1763
             portrait[2] = 1786
@@ -283,39 +283,39 @@ switch enemy_mode
         }
         else if (turns_passed == 1)
         {
-            message[0] = "Monsterkind stands for#hope, for good."
-            message[1] = "Everyone here is only#trying to find a#little joy."
+            message[0] = "Monsterkind representa#la esperanza, el bien."
+            message[1] = "Aquí todo el mundo#sólo intenta encontrar#un poco de alegría."
             portrait[0] = 1786
             portrait[1] = 1763
             message_end = 1
         }
         else if (turns_passed == 2)
         {
-            message[0] = "But... I guess you#aren't one for joy."
+            message[0] = "Pero... Supongo que#no estás para alegrías."
             portrait[0] = 1759
             message_end = 0
         }
         else if (turns_passed == 3)
         {
-            message[0] = "Who am I kidding? You#won't believe me."
-            message[1] = "I'm the one who got#hostile first."
+            message[0] = "¿A quién quiero#engañar? No me creerias."
+            message[1] = "Yo soy el que#se volvió hostil#primero."
             portrait[0] = 1763
             portrait[1] = 1781
             message_end = 1
         }
         else if (turns_passed == 4)
         {
-            message[0] = "This isn't some#mistake though..."
-            message[1] = "You're fighting on#purpose."
+            message[0] = "Pero esto no#es un error..."
+            message[1] = "Luchas a#propósito."
             portrait[0] = 1759
             portrait[1] = 1762
             message_end = 1
         }
         else if (turns_passed == 5)
         {
-            message[0] = "If you refuse to be#peaceful..."
-            message[1] = "I won't be peaceful#either."
-            message[2] = "Despite what I said,#us monsters aren't#pushovers."
+            message[0] = "Si te niegas a ser#pacífico..."
+            message[1] = "Yo tampoco#seré pacífico."
+            message[2] = "A pesar de lo#que he dicho, los#monstruos no somos#debiles."
             portrait[0] = 1785
             portrait[1] = 1762
             portrait[2] = 1762
@@ -323,9 +323,9 @@ switch enemy_mode
         }
         else if (turns_passed == 6)
         {
-            message[0] = "I'm losing at this,#aren't I...?"
-            message[1] = "Why am I even wasting#my breath?"
-            message[2] = "You aren't worth#talking to..."
+            message[0] = "Estoy perdiendo en#esto, ¿no?"
+            message[1] = "¿Por qué desperdicio#mi aliento?"
+            message[2] = "No vale la pena#hablar contigo..."
             portrait[0] = 1763
             portrait[1] = 1759
             portrait[2] = 1779
@@ -333,7 +333,7 @@ switch enemy_mode
         }
         else if (turns_passed == 7)
         {
-            message[0] = "So... I'm gonna...#stop talking... to#you..."
+            message[0] = "Así que...#voy a...#dejar de hablar...#contigo..."
             portrait[0] = 1785
             message_end = 0
         }
@@ -347,8 +347,8 @@ switch enemy_mode
     case 2:
         if (turns_passed == 0)
         {
-            message[0] = "You know, it's been#quieter since you#showed up..."
-            message[1] = "I suppose I should#thank you."
+            message[0] = "Sabes, ha estado más#tranquilo desde que#apareciste..."
+            message[1] = "Supongo que debería#agradecerte."
             portrait[0] = 1780
             portrait[1] = 1755
             message_end = 1
@@ -356,8 +356,8 @@ switch enemy_mode
         }
         else if (turns_passed == 1)
         {
-            message[0] = "I finally got my wish."
-            message[1] = "Or maybe it was just a#happenstance."
+            message[0] = "Por fin se#cumplió mi deseo."
+            message[1] = "O tal vez fue sólo una#casualidad."
             portrait[0] = 1755
             portrait[1] = 1780
             message_end = 1
@@ -366,9 +366,9 @@ switch enemy_mode
         else if (turns_passed == 2)
         {
             message[0] = "..."
-            message[1] = "Everywhere I go dust#keeps clinging to my#cape..."
-            message[2] = "I'm sorry to assume#but..."
-            message[3] = "They're all gone,#aren't they?"
+            message[1] = "Allá donde voy el#polvo sigue pegado#a mi capa..."
+            message[2] = "Siento suponerlo,#pero..."
+            message[3] = "Todos se han ido,#¿no?"
             portrait[0] = 1759
             portrait[1] = 1763
             portrait[2] = 1763
@@ -378,8 +378,8 @@ switch enemy_mode
         }
         else if (turns_passed == 3)
         {
-            message[0] = "I know I should thank#you, and it is what I#asked for..."
-            message[1] = "But I never wanted to#hurt anybody!"
+            message[0] = "Sé que debo#agradecerte, y es#lo que pedí..."
+            message[1] = "¡Pero nunca quise#herir a nadie!"
             portrait[0] = 1763
             portrait[1] = 1764
             message_end = 1
@@ -387,11 +387,11 @@ switch enemy_mode
         }
         else if (turns_passed == 4)
         {
-            message[0] = "I can't help but think#it's my fault!"
-            message[1] = "Maybe my wish brought#you here?"
-            message[2] = "Maybe I just need to#take a nap."
-            message[3] = "When I wake up, you'll#be gone, won't you?"
-            message[4] = "Yeah, you're just a#ghost of my memories..."
+            message[0] = "No puedo evitar#pensarlo#¡Es mi culpa!"
+            message[1] = "¿Quizás mi deseo#te trajo aquí?"
+            message[2] = "Tal vez sólo necesito#tomar una siesta."
+            message[3] = "Cuando me despierte,#te habrás ido,#¿verdad?"
+            message[4] = "Sí, sólo eres un#fantasma de mis#recuerdos..."
             portrait[0] = 1763
             portrait[1] = 1781
             portrait[2] = 1786
@@ -402,11 +402,11 @@ switch enemy_mode
         }
         else if (turns_passed == 5)
         {
-            message[0] = "Hey."
-            message[1] = "If you aren't real..."
-            message[2] = "Then is all this#actually my fault?"
+            message[0] = "Oye."
+            message[1] = "Si no eres real..."
+            message[2] = "Entonces, ¿todo esto#es realmente culpa#mía?"
             message[3] = "..."
-            message[4] = "I miss them all now!"
+            message[4] = "¡Ahora los echo#de menos a todos!"
             portrait[0] = 1768
             portrait[1] = 1768
             portrait[2] = 1763
@@ -417,8 +417,8 @@ switch enemy_mode
         }
         else if (turns_passed == 6)
         {
-            message[0] = "Penilla once drew me#a sketch of a sweet#corn cob."
-            message[1] = "I never thanked her..."
+            message[0] = "Penilla dibujo#un boceto de un#Sweet Corn."
+            message[1] = "Nunca le di las gracias..."
             portrait[0] = 1763
             portrait[1] = 1781
             message_end = 1
@@ -426,11 +426,11 @@ switch enemy_mode
         }
         else if (turns_passed == 7)
         {
-            message[0] = "One time, Sweet Corn#gave me a hug for no#reason."
-            message[1] = "I told her to never do#it again..."
+            message[0] = "Una vez, Sweet Corn#me dio un abrazo#sin razón."
+            message[1] = "Le dije que no lo#volviera a hacer..."
             message[2] = "..."
-            message[3] = "They were the closest#things I ever had to#friends..."
-            message[4] = "And now..."
+            message[3] = "Eran lo más parecido#a amigos que#había tenido..."
+            message[4] = "Y ahora..."
             portrait[0] = 1781
             portrait[1] = 1786
             portrait[2] = 1786

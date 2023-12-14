@@ -83,7 +83,7 @@ function scr_save_flowey_dark_ruins() //gml_Script_scr_save_flowey_dark_ruins
                     switch global.flowey_flag[0]
                     {
                         case 0:
-                            message[0] = "* ¡Hola!#* ¡Parece que#  lo conseguiste!  "
+                            message[0] = "* ¡Buenas!#* ¡Parece que#  lo conseguiste!  "
                             prt[0] = 348
                             global.flowey_flag[0] = (global.flowey_flag[0] + 1)
                             break
@@ -144,7 +144,7 @@ function scr_save_flowey_dark_ruins() //gml_Script_scr_save_flowey_dark_ruins
                     switch global.flowey_flag[1]
                     {
                         case 0:
-                            message[0] = "* ¡Hola!"
+                            message[0] = "* ¡Buenas!"
                             prt[0] = 348
                             message[1] = "* ¡Veo que sigues#  en una pieza!"
                             prt[1] = 357
@@ -179,7 +179,7 @@ function scr_save_flowey_dark_ruins() //gml_Script_scr_save_flowey_dark_ruins
                     switch global.flowey_flag[2]
                     {
                         case 0:
-                            message[0] = "* ¡Hola!"
+                            message[0] = "* ¡Buenas!"
                             message[1] = "* Caramba, ¡Este sitio#  está muerto!"
                             message[2] = "* Todos los monstruos#  están quietos y#  al acecho."
                             message[3] = "* ¡Eso no es propio#  de los monstruos!"
@@ -204,7 +204,7 @@ function scr_save_flowey_dark_ruins() //gml_Script_scr_save_flowey_dark_ruins
                     switch global.flowey_flag[3]
                     {
                         case 0:
-                            message[0] = "* ¡Hola!"
+                            message[0] = "* ¡Buenas!"
                             message[1] = "* ¡Parece que lo estás#  haciendo bien!"
                             if (global.death_count_total > 1)
                                 message[2] = (("* ¡Solo " + string(global.death_count_total)) + " muertes!#* ¡Experto en el#  Dark Souls!")
@@ -252,7 +252,7 @@ function scr_save_flowey_dark_ruins() //gml_Script_scr_save_flowey_dark_ruins
                         switch global.flowey_flag[4]
                         {
                             case 0:
-                                message[0] = "* ¡Hola!"
+                                message[0] = "* ¡Buenas!"
                                 message[1] = "* ¡Ya falta menos!"
                                 message[2] = "* ¡Solo tengo que#  lidiar con ese bajón!"
                                 message[3] = "* ¡Entonces saldrás#  de las Ruinas!"

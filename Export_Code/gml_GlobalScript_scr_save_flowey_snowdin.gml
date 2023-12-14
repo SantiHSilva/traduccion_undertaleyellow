@@ -23,7 +23,7 @@ function scr_save_flowey_snowdin() //gml_Script_scr_save_flowey_snowdin
                 switch global.flowey_flag[12]
                 {
                     case 0:
-                        message[0] = "* Howdy!"
+                        message[0] = "* ¡Buenas!"
                         message[1] = "* ..."
                         message[2] = "* Let's head to the river#  up ahead."
                         message[3] = "* We'll soon be outta#  here."
@@ -45,7 +45,7 @@ function scr_save_flowey_snowdin() //gml_Script_scr_save_flowey_snowdin
                 switch global.flowey_flag[12]
                 {
                     case 0:
-                        message[0] = "* Howdy!"
+                        message[0] = "* ¡Buenas!"
                         message[1] = "* Great job, once again!"
                         message[2] = "* I hate that so many#  monsters are ruthlessly#  attacking you,"
                         message[3] = "* But you're handling it#  with grace!"
@@ -75,7 +75,7 @@ function scr_save_flowey_snowdin() //gml_Script_scr_save_flowey_snowdin
                 switch global.flowey_flag[12]
                 {
                     case 0:
-                        message[0] = "* Howdy!"
+                        message[0] = "* ¡Buenas!"
                         message[1] = "* Let's head to the river#  up ahead."
                         message[2] = "* We'll soon be outta#  here!"
                         prt[0] = 348
@@ -84,7 +84,7 @@ function scr_save_flowey_snowdin() //gml_Script_scr_save_flowey_snowdin
                         global.flowey_flag[12] = (global.flowey_flag[12] + 1)
                         break
                     case 1:
-                        message[0] = "* Howdy!"
+                        message[0] = "* ¡Buenas!"
                         prt[0] = 348
                         break
                 }
@@ -230,7 +230,7 @@ function scr_save_flowey_snowdin() //gml_Script_scr_save_flowey_snowdin
                     switch global.flowey_flag[8]
                     {
                         case 0:
-                            message[0] = "* Howdy!"
+                            message[0] = "* ¡Buenas!"
                             message[1] = "* How are you holding up?"
                             message[2] = "* Things aren't gettin'#  any easier, huh."
                             message[3] = "* It would be nice to#  walk through here#  without a hassle."
@@ -272,7 +272,7 @@ function scr_save_flowey_snowdin() //gml_Script_scr_save_flowey_snowdin
                     switch global.flowey_flag[9]
                     {
                         case 0:
-                            message[0] = "* Howdy!"
+                            message[0] = "* ¡Buenas!"
                             message[1] = "* Must say, I didn't#  remember this place#  being so..."
                             message[2] = "* You know..."
                             message[3] = "* Colorful."
@@ -339,7 +339,7 @@ function scr_save_flowey_snowdin() //gml_Script_scr_save_flowey_snowdin
                         switch global.flowey_flag[11]
                         {
                             case 0:
-                                message[0] = "* Howdy!"
+                                message[0] = "* ¡Buenas!"
                                 message[1] = "* We're almost out of#  here."
                                 message[2] = "* I'm surprised that#  guard never saw you#  nearby, ya know?"
                                 message[3] = "* Their puzzles sure#  weren't impressive,#  that's for certain."

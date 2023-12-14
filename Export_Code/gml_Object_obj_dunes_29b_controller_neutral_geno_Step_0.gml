@@ -17,7 +17,7 @@ switch scene
         with (msg)
         {
             sndfnt = 96
-            message[0] = "* Howdy!	"
+            message[0] = "* ¡Buenas!	"
             message[1] = "* Gee, looks like we're#  getting close to an exit#  from this place.	"
             message[2] = "* Aside from those mines,#  time has been pretty#  friendly to us.	"
             message[3] = "* Should be a simple#  journey from here on ou-"

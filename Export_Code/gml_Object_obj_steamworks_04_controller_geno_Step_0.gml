@@ -39,7 +39,7 @@ if (global.sworks_flag[0] == 0)
             with (msg)
             {
                 talker[0] = 3193
-                message[0] = "* Howdy!"
+                message[0] = "* ¡Buenas!"
                 message[1] = "* This area seems totally#  abandoned."
                 message[2] = "* Guess there's no more#  need for fighting. Real#  shame."
                 prt[0] = 354

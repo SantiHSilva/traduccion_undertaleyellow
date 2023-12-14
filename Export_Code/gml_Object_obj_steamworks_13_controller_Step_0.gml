@@ -324,17 +324,14 @@ switch scene
                 var new_image_index = 0
                 var max_points = max(overworld_robot_sprite[0], overworld_robot_sprite[1], overworld_robot_sprite[2], overworld_robot_sprite[3], overworld_robot_sprite[4], overworld_robot_sprite[5], overworld_robot_sprite[6])
                 i = 0
-                while (true)
+                while 1
                 {
                     if (i < array_length(overworld_robot_sprite))
                     {
                         if (max_points == overworld_robot_sprite[i])
                             new_image_index = i
                         else
-                        {
                             i++
-                            continue
-                        }
                     }
                     else
                     {
@@ -347,6 +344,8 @@ switch scene
                         }
                     }
                 }
+                cutscene_wait(1)
+                break
             }
             else
             {

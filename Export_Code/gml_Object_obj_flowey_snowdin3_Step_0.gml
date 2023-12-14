@@ -8,7 +8,7 @@ if (global.route != 3)
         with (msg)
         {
             sndfnt = 96
-            message[0] = "* Howdy!"
+            message[0] = "* ¡Buenas!"
             message[1] = "* Congratulations on being#  rid of those old ruins#  for good!"
             message[2] = "* You couldn't even go#  back if you wanted#  to now!"
             message[3] = "* Isn't the thought of#  fresh air exciting?"
@@ -111,7 +111,7 @@ else if (global.route == 3)
         with (msg)
         {
             sndfnt = 96
-            message[0] = "* Howdy!"
+            message[0] = "* ¡Buenas!"
             message[1] = "* Enjoying the scenery?"
             message[2] = "* Before you continue, I#  just wanted to let you#  know."
             message[3] = "* No one from out here#  really goes in the#  Ruins."

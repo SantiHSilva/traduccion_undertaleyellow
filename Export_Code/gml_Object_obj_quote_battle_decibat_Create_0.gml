@@ -19,7 +19,7 @@ else if (global.action_2_selected_count == 5)
 }
 else if (global.action_2_selected_count == 4)
 {
-    message[0] = "¿Tú eescuchas esto?#¿No? Bien..."
+    message[0] = "¿Tú eescuchas#esto?#¿No? Bien..."
     message_end = 0
 }
 else if (global.action_2_selected_count == 3)

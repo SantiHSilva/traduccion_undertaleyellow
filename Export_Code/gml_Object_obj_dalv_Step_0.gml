@@ -545,9 +545,9 @@ if (room == rm_darkruins_18 && global.flag[27] == 0)
                     message[0] = "* ..."
                     message[1] = "* ..."
                     message[2] = "* ..."
-                    message[3] = "* ¿Que hacen realmente#  los amigos?"
+                    message[3] = "* ¿Qué hacen realmente#  los amigos?"
                     message[4] = "* ¿Quieres...#  ver mi casa?#  ¿O algo así?"
-                    message[5] = "* Tengo que ir allí#  asi que que supongo que#  pasa por alli si tienes tiempo."
+                    message[5] = "* Tengo que ir allí asi#  que supongo que pasa#  pasa por alli pronto."
                     prt[0] = 1755
                     prt[1] = 1780
                     prt[2] = 1763
@@ -726,7 +726,7 @@ if (room == rm_dalvshouse && global.flag[28] == 0)
                 message[0] = "* Tengo que...#  arreglar algo en#  otra habitación."
                 message[1] = "* Sientate,#  ponte cómodo,#  quítate los zapatos."
                 message[2] = "* ..."
-                message[3] = "* En realidad#  por favor, dejalas puestas#  el suelo está un poco sucio."
+                message[3] = "* En realidad por favor,#  dejalas puestas el suelo#  está un poco sucio."
                 message[4] = "* No he barrido desde#  esta mañana."
                 prt[0] = 1780
                 prt[1] = 1776
@@ -740,7 +740,7 @@ if (room == rm_dalvshouse && global.flag[28] == 0)
                 message[0] = "* Parece que te tomaste#  tu tiempo."
                 message[1] = "* Oh, pero no te preocupes#  estoy acostumbrado#  a estar solo."
                 message[2] = "* Me entretengo#  limpiando la casa."
-                message[3] = "* ¡Es mi rutina de cada hora!"
+                message[3] = "* ¡Es mi rutina de#  cada hora!"
                 message[4] = "* ..."
                 message[5] = "* Tengo que um...#  arreglar algo..."
                 prt[0] = 1755

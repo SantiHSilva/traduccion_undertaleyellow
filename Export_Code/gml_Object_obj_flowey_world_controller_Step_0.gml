@@ -64,7 +64,7 @@ switch scene
             with (msg)
             {
                 talker[0] = 1158
-                message[0] = "* ¡Ah! ¡Hola!"
+                message[0] = "* ¡Ah! ¡Buenas!"
                 message[1] = "* ¿Estás bien?"
                 message[2] = "* Te estaras preguntando#  qué está pasando..."
                 message[3] = "* Me llamo TORIEL, cuidadora#  de las RUINAS."
