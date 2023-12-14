@@ -4,16 +4,12 @@ if (message_current > (array_length_1d(prt) - 1) || prt[message_current] == spr_
     portrait = 0
 else
     portrait = 1
-if (position == 0)
-    yy = 160
-else
-    yy = 5
+yy = 123
 var xx = 30
 if (portrait == 1)
     xx = 88
 var portrait_xx = 52
 var line_sep = 18
-scr_draw_dialogue_box(4.421875, 1.09375, 0.1)
 draw_set_font(dialogue_font)
 draw_set_color(c_white)
 draw_set_halign(fa_left)
@@ -25,9 +21,6 @@ if (portrait == 1)
     else
         prt_animate = 0
     var portrait_y_disjoint = ((yy + (sprite_get_height(prt[message_current]) / 3)) + 28)
-    var sprite_name = sprite_get_name(prt[message_current])
-    if (string_copy(sprite_name, 0, 13) == "spr_dalv_head")
-        portrait_y_disjoint += 3
     draw_sprite_ext(prt[message_current], prt_animate, portrait_xx, portrait_y_disjoint, 0.5, 0.5, 0, c_white, 1)
     if (prt_animate == 0)
     {
@@ -37,23 +30,6 @@ if (portrait == 1)
                 if (portrait_idle_animated == spr_collisionbox && irandom(40) == 1)
                 {
                     portrait_idle_animated = toriel_blink
-                    portrait_idle_frame = 0
-                }
-                if (portrait_idle_animated != spr_collisionbox)
-                {
-                    draw_sprite_ext(portrait_idle_animated, portrait_idle_frame, portrait_xx, portrait_y_disjoint, 0.5, 0.5, 0, c_white, 1)
-                    portrait_idle_frame += 0.2
-                }
-                if (portrait_idle_frame >= sprite_get_number(portrait_idle_animated))
-                {
-                    portrait_idle_animated = spr_collisionbox
-                    portrait_idle_frame = 0
-                }
-                break
-            case 3232:
-                if (portrait_idle_animated == spr_collisionbox && irandom(30) == 1)
-                {
-                    portrait_idle_animated = spr_portrait_ceroba_lostit_twitch
                     portrait_idle_frame = 0
                 }
                 if (portrait_idle_animated != spr_collisionbox)
@@ -123,9 +99,9 @@ if (dialogue_is_minishop == 1)
     }
     draw_text(217, 100, string_hash_to_newline((((("$ORO - " + string(global.player_gold)) + "#ESPACIO - ") + string((item_count - 1))) + "/8")))
 }
-if (choice == 0 && alpha_fade == 0)
-{
-}
+if (choice == 0)
+    return;
+xx = 100
 var spacing = 0.25
 if (ch[4] != "")
     spacing = 0.5
@@ -135,42 +111,31 @@ if (position == 0)
 {
     var ypos1 = 190
     if (ch[3] == "")
-    {
-        var y_offset = max((string_height(ch[1]) - 16), (string_height(ch[2]) - 16))
-        ypos1 = (210 - y_offset)
-    }
+        ypos1 = 210
     var ypos2 = 210
 }
 else
 {
     ypos1 = 32
     if (ch[3] == "")
-    {
-        y_offset = max((string_height(ch[1]) - 16), (string_height(ch[2]) - 16))
-        ypos1 = (56 - y_offset)
-    }
+        ypos1 = 56
     ypos2 = 56
 }
-xx = 160
-if (ch[4] != "" || ch[2] != "")
-    xx = 84
-var width1 = (string_width(string_hash_to_newline(ch[1])) * 0.5)
-var width2 = (string_width(string_hash_to_newline(ch[2])) * 0.5)
-var xpos1 = (xx - width1)
+if (ch[4] != "")
+    xx -= 30
+var xpos1 = xx
+var xpos2 = (xx + 122)
 if (portrait == 1)
-{
-    if (ch[2] != "")
-        xpos1 += 50
-    else
-        xpos1 += 20
-}
-var xpos2 = (236 - width2)
+    xpos1 += 20
 var xpos3 = xpos1
 var xpos4 = xpos2
-draw_set_alpha(ch_alpha)
-if (cutoff >= string_length(message[message_current]) && global.dialogue_open == 1)
+if (ch[2] == "")
+    xpos1 = (xpos1 + 56)
+if (ch[4] == "")
+    xpos3 = (xpos1 + 56)
+if (cutoff >= string_length(message[message_current]))
 {
-    draw_set_halign(fa_left)
+    draw_set_halign(fa_center)
     if (ch[4] != "")
         draw_set_halign(fa_left)
     draw_text(xpos1, ypos1, string_hash_to_newline(ch[1]))
@@ -181,7 +146,7 @@ if (cutoff >= string_length(message[message_current]) && global.dialogue_open ==
     if (ch[4] != "")
         draw_text(xpos4, ypos2, string_hash_to_newline(ch[4]))
     draw_set_halign(fa_center)
-    var soul_offset = 0
+    var soul_offset = (string_width(string_hash_to_newline(ch[p])) * 0.5)
     if (ch[4] != "")
         soul_offset = 0
     switch p
@@ -206,5 +171,4 @@ if (cutoff >= string_length(message[message_current]) && global.dialogue_open ==
 
     draw_sprite(spr_heart_yellow_overworld, 0, soul_x, soul_y)
 }
-draw_set_alpha(1)
 draw_set_halign(fa_left)

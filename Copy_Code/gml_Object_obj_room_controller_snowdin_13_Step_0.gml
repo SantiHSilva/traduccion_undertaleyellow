@@ -45,7 +45,7 @@ if (global.snowdin_flag[8] == 0)
                 message[0] = "* Hey, watch it!"
                 message[1] = "* Oh ho ho. Wouldya look at that."
                 message[2] = "* I think this chump wants to#  pass."
-                message[3] = string("* {0}! Toast! Come over here!", global.fun_swig_name)
+                message[3] = (global.fun_swig_name + "! Toast! Come over here")
             }
             if (global.dialogue_open == 0)
             {
