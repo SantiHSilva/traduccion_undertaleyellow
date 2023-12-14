@@ -1843,7 +1843,7 @@ Golden Scarf
 Safety Goggles
 Delta Rune Patch
 Silver Scarf
-Cartel Perdido
+Missing Poster
 Necklace
 Lukewarm Coffee
 Soggy Mitten
@@ -1964,7 +1964,7 @@ H. Acid
 * (The unwavering hopes and#  dreams of Monsterkind.)
 * (You wrap the Silver Scarf#  around your neck.)
 * (So cozy!)
-* (You cannot use this item.)
+* (No puedes utilizar este objeto.)
 * Better not drink it.
 * (You could get hotter coffee#  elsewhere.)
 * (You can't think of a possible#  use for it.)
@@ -3296,7 +3296,7 @@ scr_battle_core_directory_no_attack
 * Ms. Mettaton strikes!
 * Ms. Mettaton EX makes her grand#  debut!
 * Froggit hopped close!
-* Flier is giving fighting a try!
+* ¡Flier está intentando luchar!
 * You are overwhelmed by#  depressing vibes.
 * Penilla draws near!
 * Penilla seems to be dreading#  this battle.
@@ -3306,8 +3306,8 @@ scr_battle_core_directory_no_attack
 * Crispy Scroll is looking for#  someone to talk to.
 * A powerful lone warrior and his#  pencil companion encounter you!
 * Rorrim encounters you!
-* Decibat makes his presence#  known.
-* Dalv musters his fighting#  spirit.
+* Decibat hace notar#  su presencia.
+* Dalv reúne su espiritu de lucha.
 * You notice Micro Froggit#  attacking you!
 * Insomnitot staggers forward.
 * You suddenly feel like taking a#  nap.
@@ -3374,7 +3374,7 @@ gml_Script_scr_battle_core_directory_flavor_text_enemy_1_action_3
 scr_battle_core_directory_flavor_text_enemy_1_action_3
 * It seems that Ms. Mettaton is#  getting bored of you.
 * Sweet Corn jumps up and down in#  celebration.
-* Decibat is shaking with anger.
+* Decibat tiembla de rabia.
 * Decibat grinds his teeth#  angrily and flinches at the#  ruckus he caused.
 * Decibat can't hear himself#  think.
 * Decibat is losing his patience#  with you.
@@ -3383,7 +3383,7 @@ scr_battle_core_directory_flavor_text_enemy_1_action_3
 * Decibat is enjoying the silence.
 * Decibat gives you a nod of#  approval.
 * Decibat looks slightly more at#  ease.
-* Dalv looks unsure of what to do.
+* Dalv parece no saber qué hacer.
 * Micro Froggit is shocked you#  managed to land a hit.
 * Know Cone knew someone was#  there!
 * A couple feathers litter the#  ground.
@@ -3467,7 +3467,7 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * Crispy Scroll is asking if he#  can get a picture with you.
 * You are momentarily blinded by#  Rorrim's dazzling shine.
 * Decibat is not enjoying the#  music.
-* Dalv seems to be dreading his#  next attack.
+* Dalv parece temer su próximo#  ataque.
 * A gentle breeze causes#  Micro Froggit to lose its#  balance.
 * The air is crisp.
 * Know Cone is pointing excitedly#  at something in the distance.#* It looks to be a tree.
@@ -3509,16 +3509,16 @@ scr_battle_core_directory_flavor_text_enemy_1_default_1
 * Like, totally!
 * Flier uses hip slang like the#  kids.
 * Penilla scraps her drawing and#  starts over.
-* It seems that Sweet Corn can't#  stop twitching.
-* Crispy Scroll makes an obscure#  reference.
+* Parece que Sweet Corn no#  puede dejar de crisparse.
+* Crispy Scroll hace una#  oscura referencia.
 * Rorrim reflects on his current#  circumstances.
 * Decibat is whispering something#  too quiet to hear.
-* Dalv takes a break to brush off#  his cloak.
+* Dalv se toma un descanso para#  quitarse la capa.
 * You catch a faint whiff of#  mustard seed.
-* The smell of french fries wafts#  past you.
-* Know Cone starts doing a#  primitive dance.
-* The igloo towers over you#  menacingly.#* Kidding. It's just an igloo.
-* Frostermit is coming out of its#  shell a bit.
+* El olor a patatas fritas#  pasa a tu lado.
+* Know Cone empieza a hacer#  un baile primitivo.
+* El iglú se eleva sobre ti#  amenazadoramente.#* Es broma. Es sólo un iglú.
+* Frostermit está saliendo#  un poco de su caparazón.
 * Trihecta seem to be pushing#  each other's buttons.
 * Tri is fretting over the others'#  bumps and bruises.
 * Everything smells like#  bird-seed with a tasteful hint#  of vanilla and orange blossom.
@@ -3563,7 +3563,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_2
 * Sweet Corn tries to encourage#  you to smile.
 * Crispy Scroll is trying to be#  cute.
 * Rorrim mimics your movements.
-* Dalv assumes an intimidating#  facade.
+* Dalv adapta una pose#  intimidadora.
 * You momentarily lose track of#  Micro Froggit.
 * Insomnitot catches itself#  nodding off.
 * Know Cone is yelling random#  noises that sound like they#  could be a made-up language.
@@ -3611,7 +3611,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * Sweet Corn makes her signature#  squeaky toy noise.
 * Crispy Scroll is talking in#  circles.
 * Rorrim is looking around.
-* Dalv seems to be in conflict#  with his more humane side.
+* Dalv parece estar en conflicto#  con su lado más humano.
 * If you squint, Micro Froggit#  looks happy.
 * Insomnitot is trying to shake#  the sleepiness away.
 * Know Cone is banging a rock#  against a fallen branch.#* The branch breaks.
@@ -3765,7 +3765,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_9
 * Crispy Mode 2k!!
 * Rorrim is looking for his next#  big project.
 * Decibat is ready to return to#  sleep.
-* Dalv has lost all hope.
+* Dalv ha perdido toda esperanza.
 * Micro Froggit is waving goodbye.
 * Insomnitot is smiling at its#  dream.
 * Know Cone has been enlightened.
@@ -3937,11 +3937,11 @@ scr_battle_core_directory_enemy_3_name
 battle_enemy_name_3
 action_1_important_3
 action_1_color_3
-* Talk
+* Hablar
 * Whoops!
 * Charm
 * Cry
-* Compliment
+* Elogiar
 flier a
 flier b
 flier c
@@ -3988,7 +3988,7 @@ bowll a
 * Spin
 * Steady
 * Question
-* Watch
+* Mirar
 goosic a
 goosic b
 * Vibe
@@ -4020,7 +4020,7 @@ action_2_color_3
 * Hug
 * Yell
 * Critique
-* Handshake
+* Apretón de manos
 * Threaten
 * Lecture
 * Educate
@@ -4053,7 +4053,7 @@ action_3_color_3
 * Envy
 * Gift
 * Judge
-* Shoo
+* Ahuyentar
 * Stomp
 * Hypnotize
 * Berate
@@ -5185,7 +5185,7 @@ scr_clover_defragment
 * You inform Flier that his life#  isn't half over, he has a whole#  half left to go!
 scr_dialogue_battle_action_selected_action_1_flier_a
 * You compliment Flier's choice#  of outfits.
-* You tell Flier he looks proud.
+* Le dices a Flier que#  parece orgulloso.
 scr_dialogue_battle_action_selected_action_2_flier_a
 * You tell Flier that he is#  depressing.
 * Flier is reconsidering his#  reconsiderations.
@@ -5389,13 +5389,13 @@ audio_extend_music
 scr_generate_battle_dalv
 scr_recreate_heart_battle_menu_text_dalv
 * It appears Dalv is too focused#  to hear you.
-* Dalv does not seem to value#  communication.
-* Dalv doesn't want to hear you.
+* Dalv no parece valorar la#  comunicación.
+* Dalv no quiere oírte.
 scr_dialogue_battle_action_selected_action_1_dalv
-* Dalv accepts your offer of#  goodwill.
-* Dalv doesn't notice your offer#  of goodwill.
-* Dalv doesn't want to.
-* Dalv rejects your offer of#  goodwill.
+* Dalv acepta tu oferta de#  buena voluntad.
+* Dalv no nota tu oferta#  de buena voluntad.
+* Dalv no quiere hacerlo.
+* Dalv rechaza tu oferta de#  buena voluntad.
 scr_dialogue_battle_action_selected_action_2_dalv
 gml_Script_scr_dalv_sparing
 scr_dalv_sparing
@@ -10139,7 +10139,7 @@ correct_item
 * (You open the storage cabinet#  and find some Dihydrogen#  Monoxide.)
 * (There's some water inside.)
 * (Take it?)
-Yes
+Sí
 No
 * (You got Dihydrogen Monoxide!)
 * (You got water.)
@@ -10631,8 +10631,8 @@ portrait_y_disjoint
 minishop_box_xx
 minishop_box_yy
 item_count
-$ - 
-#SPACE - 
+$ORO - 
+#ESPACIO - 
 /8
 spacing
 ypos1
@@ -10955,7 +10955,7 @@ shader_uvs
 * (Who knows what might happen#  from this point forward.)
 * (Continue?)
 Turn back
-Continue
+Continuar
 * Brrr! Sure is chilly out here!
 * Nothing a smile can't#  persevere through, though!
 * I'm waiting for my siblings to#  find their way out!
@@ -14963,8 +14963,8 @@ I need your help
 * Good eye, Clover.
 * Spooky...
 * Well, uh... After you.
-Housing
-Future
+Casa
+Futuro
 * Hello!
 * You sort of caught me#  in the middle of moving,
 * But I don't mind taking#  a break to chat!
@@ -16643,7 +16643,7 @@ downsprite
 leftsprite
 rightsprite
 risesprite
-* Welcome back!
+* ¡Bienvenido de vuelta!
 fly_speed
 mail_whale_y_target
 mail_whale_shadow_alpha
@@ -16802,7 +16802,7 @@ readjust
 * (There is a book of neatly#  written paragraphs on#  the desk.)
 * (They all appear to be very#  similar.)
 * (Read one?)
-* Dalv is a loner living in#  the ruins of Home.
+* Dalv es un solitario que vive en#  las ruinas del Hogar.
 * He enjoys quiet walks in the#  dark, cleaning, and improving#  songs on his organ.
 * He wants to share with the#  youth of the Underground...
 * ...the importance of being#  accepting and respecting#  the wishes of others. 
@@ -22677,7 +22677,7 @@ Come on.
 * Dodge the attacks next#time, will you?
 retry_enabled
 menu_option_selected
-Retry
+Reiniciar
 heart_xx
 heart_yy
 pl_x_diff
@@ -23215,27 +23215,27 @@ Fine! I'll just stop#sending them then.
 * This is our journey.#  Not Ceroba's.
 * Hey, wait up!
 * I think I'm ready to#  get back into things.
-That was my bro!
-He had goals in#life!
-She was my friend#(I think).
-Don't come near#me!
-I... This isn't#really me...
-You're right.#Something needs#to change.
-I don't accept.
-That's right! I#knew you noticed!
-Yeah, I totally#agree.
-Right back at#you.
-You just have no#sense of modern#fashion trends!
-That hurts me on#a personal level.
-Just gotta keep#it... cool.
-So this is how it#ends?
-Who wants to have#a cookout?
-Hey guys, check#out my new ride#B)
-Finally! Monsters#that get me!
-Is art what the kids#are into these days?
-I'm looking to#buy a boat! Know#anyone selling?
-I've been working#out! No big deal#; )
-I found this#great new band#the other day!
+¡Ese era mi hermano!
+¡Tenía metas en#la vida!
+Ella era mi amiga#(creo).
+¡No te me acerques!
+Yo... Este no soy#realmente yo...
+Tienes razón.#Algo tiene#que cambiar.
+No lo acepto.
+¡Así es!#¡Sabía que te diste cuenta!
+Si, totalmente#de acuerdo.
+Lo mismo#digo.
+¡No tienes sentido#de las tendencias#de la moda moderna!
+Eso me dolio#en un nivel personal.
+Solo hay que#mantenerlo... fresco.
+¿Así es como#acaba?
+¿Quién quiere hacer#una barbacoa?
+Oigan todos, miren#mi nuevo auto#B)
+¡Por fin! ¡Monstruos#que me atrapan!
+¿Es el arte lo que#les gusta a los#niños hoy en día?
+¡Estoy buscando a# alguien que venda un#barco!# ¿Sabes de alguien?
+¡Estuve haciendo#ejercicio! No es gran cosa#; )
+¡El otro día#descubrí un nuevo#grupo genial!
 no_loop_switch
 can_vanish
 current_hp_ed
@@ -25194,7 +25194,7 @@ PAGE 2
 Hmph. Good luck.
 sparing
 * Spare
-* Flee
+* Huir
 Check 1
 Check 2
 Check 3
@@ -45062,12 +45062,12 @@ MODIFICADOR:
 ORO: 
 * ¡Froggit saltó cerca!
 * Tu mejor amigo!
-* GANASTE!#* Conseguiste 0 XP y 
+* ¡GANASTE!#* Conseguiste 0 XP y 
  de oro.
 * (La misteriosa señora cabra#  asusto a Froggit.)
 * Dulce silencio...
 * Decibat se aleja para encontrar#  un lugar más tranquilo.
-* GANASTE!#* Obtuviste 0 XP y 
+* ¡GANASTE!#* Obtuviste 0 XP y 
 * Verás, te he estado#  observando durante#  un tiempo.
 * Dios, ¿Qué carrera es esto?#  Deben haber demasiados.
 * ¡Casi pierdo la cuenta!#  Jajaja...
@@ -45128,7 +45128,7 @@ ORO:
 Si
 * Las RUINAS están llenas#  de puzzles.
 * Fusiones antiguas entre#  distracciones y llaves#  para abrir la puerta.
-* para pasar de sala#  a sala.
+* Para pasar de sala#  a sala.
 * Permitame que#  le demuestre.
 * En esta sala, deberás#  de activar varios#  interruptors.
 * No te preocupes, he#  marcado los que#  necesitas activar.
@@ -45163,7 +45163,7 @@ Si
 * ¿Está todo bien ahí?
 * Oh cariño... Me temo que#  no puedo llegar#  hasta ti...
 * Debo irme un momento. Tu#  te quedaras ahi, ¿verdad?
-* No pasees por ahí, hay#  monstruos que son amistosos#  con todos los humanos.
+* No pasees por ahí, hay#  monstruos que no son amistosos#  con todos los humanos.
 * No temas, mi niño, ¡Yo te#  protegere!
 * Por favor... espera ahí.
 ] para leer#  los carteles!"
@@ -45174,7 +45174,7 @@ Si
 ... Camina...
 * ¡Hola!#* Soy FLOWEY. #* FLOWEY la FLOR!
 * Hmm... #* ¡Pareces confundido!
-* Toriel deberia haberte #  enseñado cómo funcionan #  las cosas por aquí!
+* ¡Toriel deberia haberte #  enseñado cómo funcionan #  las cosas por aquí!
 * ¿No lo hizo?
 * Supongo que el viejo yo#  tendrá que hacerlo.#* ¿Listo? ¡Allá vamos!
        #      FLOWEY  #  FLOWEY    FLOR 
@@ -45193,14 +45193,14 @@ Si
 * Si alguna vez tienes#  problemas, ¡yo puedo#  SALVARTE!
 * Ven a buscar estás#  cosas y allí#  estaré!
 * Pareces confundido.
-* ¡Toriel debería haber#  enseñado cómo funcionan#  las cosas por aquí!
-* Supongo que el#  pequeño y viejo yo#  tendrá que hacerlo entonces.
+* ¡Toriel debería haberte#  enseñado cómo funcionan#  las cosas por aquí!
+* Supongo que el#  pequeño y viejo yo#  tendrá que hacerlo.
 * ¿Quieres que yo#  te enseñe?
 Sí
 * Entiendo...
 * Ir con cabeza - ¡me#  gusta!
 * Bueno almenos deberías#  saber esto al menos:
-* ¿Esos humanos que#  buuscas?
+* ¿Esos humanos que#  buscas?
 * Lo siento, pero...
 * El rey ASGORE ya ha#  llegado a ellos.
 *        ASGORE                             
@@ -45212,3 +45212,813 @@ Sí
 * Te dejaré estas cositas#  por aquí.
 * ¡Hola!#* Soy FLOWEY. #* ¡FLOWEY la FLOR!
        #      FLOWEY  #   FLOWEY    FLOR 
+* Solo los valientes pueden proceder.#* Valientes, tontos.#* Both walk not the middle road.
+* Solo los valientes proceden.#* Valientes, tontos.#* Ambos no caminan por el medio.
+¿Ves ese corazón? Esa#es tu ALMA. ¡La#culminación de#tu ser!
+Tu LV representa#tu AMOR... es...
+Je... Estoy seguro#de que no tendrás que#preocuparte por eso.
+En el subsuelo,#los monstruos pueden intentar#¡atacarte!
+Si ves balas#como estas...
+¡Tienes que evitarlos#a toda costa!
+¡Intenta esquivar mis#balas ahora! ¡Aquí#vienen!
+¡Buen trabajo,#amigo! En caso de que#te golpeen, ¡puedo#GUARDAR tu progreso!
+Eso significa que#si pasa algo malo,# puedo hacer#que no te pase a ti.
+* Probablemente quieras#  irte a casa, ¿verdad?
+* ¡Pues te espera un #  largo viaje!
+* Si alguna vez necesitas que,#  que te salve ¡buscame!
+* Dejaré estas #  pequeñas cosas por ahí.
+* Bueno, supongo que eso es#  todo.
+* ¡A por ellos, amigo!
+* Bueno, ¡eso es todo!
+* ¡Buena suerte, amigo!
+* Así es fácil#  encontrarme!
+* Si ves uno,#  no dudes en llamarme! 
+* Y entonces te salvare.#  ¡Como acabo de salvarte#  ahora!
+* Hay una cosa más...
+* El rey de todos los#  monstruos, ASGORE...
+* Ha estado matando#  humanos.
+* La única salida es#  matarlo y... #  bueno...
+* Eres bastante pequeño...
+* Aunque eso no importa#  demasiado.
+* ¡Lo que importa es#  que me tienes de tu#  lado!
+* Te dejaré ir,#  pero por favor ten cuidado.
+* Hay todo tipo de#  trampas peligrosas#  aquí abajo.
+* Y algunos monstruos #  de este lugar...
+* Escuche que no les gusta#  las visitas. #  ¡Buena suerte!
+#             ASGORE
+* Si alguna vez tienes#  problemas, ¡yo puedo#  ayudarte a GUARDAR!
+* Ven a buscar esta#  cosa y allí#  estaré!
+* Dondequiera que estes#  y necesites ayuda,#  YO puedo ayudarte a GUARDAR!
+* Si alguna vez necesitas que,#  guarde ¡buscame!
+* Y entonces te salvare.#  ¡Como acabo de guardar#  ahora!
+Continuar
+Reiniciar
+ORO 
+         ASGORE                                   
+         ASGORE                             
+* Dondequiera que estes#  y necesites ayuda,#  Yo te ayudare a GUARDAR!
+* Eso significa que si#  pasa algo malo, ¡puedo#  hacer que no pase!
+* Asi que si alguna vez#  necesitas ayuda,#  ¡ven a buscarme!
+* Vaya, se está poniendo#  un poco polvoriento,#  por aquí ¿no?
+* ¿No te gusta mucho#  la misericordia?
+* Está bien, mientras#  te lleve a ser amigo#  de ASGORE!
+##     ASGORE
+* Realmente tienes#  pasión ahí.
+* Sólo quedan 
+ de los#  monstruos sin contar#  al bicho raro.
+* Vaya, sí que hay#  silencio por aquí.
+* Tengo que decir, es#  un poco agradable#  no tener molestias.
+* Bueno, no queda nada#  que hacer por aquí,#  supongo. ¡Sigamos!
+* ¡Sigamos avanzando!
+* ¿Qué haces aquí#  atrás? La salida es por#  el otro lado, ¡tonto!
+* Vámonos.
+* ¡Hola!#* ¡Parece que#  lo conseguiste!  
+* ¿Por qué la cara larga,#  amigo?
+* No te preocupes, ¡este#  sitio es mucho mejor#  que allí arriba!
+* ¡Esa vieja#  nos habría arruinado#  la diversión!
+* ¡Vamos, no nos quedemos#  aquí todo el día!
+* Tú... solo necesitas#  guardar una vez...
+* ¿No confías en mi#  o algo así?
+* ¡Por favor!#* ¡Soy tu amigo!#  ¡Soy heroico en Free Fire!
+* ¡Yo te cubro las espaldas!
+* Deberías ponerte#  en marcha...
+* ¿Enserio?#* ¿De qué se trata esto?
+* Ya te lo dije,#  ¡No necesitas a esa#  estupida señora cabra!
+* ¡Ella no podría#  haberte protegido#  de todas formas!
+* ¡Me tienes a mí! #* ¡Soy mucho mejor!
+* ¡Soy tu amigo, Flowey!
+* ¡Soy el único amigo #  que necesitarás!
+* ¿Toriel te ayuda a guardar?#* ¡NO!
+* ¡Asi que salgamos#  de aquí mientras#  seamos jovenes!
+* ¡Veo que sigues#  en una pieza!
+* Viste a ese bicho#  raro ¿verdad?
+* Si quieres salir de#  aquí tendras que#  pasar por él.
+* Aunque no deberia#  ser un problema.
+* Y si lo fuera,#  ¡Yo estoy aquí!
+* ¿Otra vez?
+* Vale, ¡estas doblemente#  guardando!
+* ¿Enserio?
+* ¿Cuantos guardados #  necesitas?
+* Caramba, ¡Este sitio#  está muerto!
+* Todos los monstruos#  están quietos y#  al acecho.
+* ¡Eso no es propio#  de los monstruos!
+* No dejes que esto#  arruine tu impresión#  del Subsuelo!
+* ¡Pronto dejaremos#  este basurero!
+* Ya guardaste,#  ¡Vamonos!
+* ¡Parece que lo estás#  haciendo bien!
+* ¡Solo 
+ muertes!#* ¡Experto en el#  Dark Souls!
+* ¡Solo una muerte!
+* ¡No has muerto#  ni una vez!
+* No es que pensara#  que lo harias, ¡pero#  está bien estar listo!
+* ¿Viste? ¿¡No te alegra#  tenerme cerca!?
+* ¡Es genial ser un#  amigo necesario!
+* ¿Qué? No estás contento#  con tu cuenta de muertes?
+* ¿Nunca escuchaste la#  frase: No le dispares#  al mensajero?
+* ¡Vamonos, amigo!
+* ¡Puedes guardar#  después!
+* ¡Ya falta menos!
+* ¡Solo tengo que#  lidiar con ese bajón!
+* ¡Entonces saldrás#  de las Ruinas!
+* ¡Nos vemos en el#  otro lado, amigo!
+* ¿Qué?
+* ¿Te asusta ese#  tipo pesimista?
+* Mira, ¡solo tienes que#  abrir un camino#  a través de él!
+* ¡Caerá facilmente!
+* Y por si no te#  diste cuenta...
+* ¡No se le echara#  de menos!
+* ¡Así que vamos por él!
+* ¡Vamos, niño!#* ¡Demuéstrale quién#  manda!
+* Bueno, es todo.
+* Vaya, qué comienzo#  de aventura.
+* No esperaba esto,#  pero es su#  elección.
+* En fin...
+* Si quieres seguir#  explorando antes irnos#  debes saber esto.
+* Removi todos mis puntos#  de guardado exceptuando#  este de aquí.
+* Es inútil#  volver allí.
+* Estaré en esta#  sala y solo en esta#  hasta que quieras irte.
+* ¡Nos vemos luego!
+* La salida es a#  través de su casa.
+* Continúa.
+* ¡Buen trabajo, chico!
+* Apuesto a que tu#  concienca se siente#  ligera como pluma.
+* Hacer amigos es una#  buena manera de salir#  adelante aquí.
+* Evitar los conflictos,#  mantenerse a salvo...
+* Entiendo.
+* Acabamos de empezar#  y ya te hiciste#  amigo mio, y de él.
+* ¡No eres tú el#  popular!
+* Por cierto...
+* ¡Bien hecho!
+* Eso fue demasiado fácil.
+* Se resistio#  pero lo manejaste#  con habilidad.
+* No es que nadie#  vaya a echar de menos#  a ese pesimista.
+Guardar
+Regresar
+* ¡Por favor!#* ¡Soy tu amigo!#* ¡Soy heroico en Free Fire!
+* ¡Yo te cubro#  las espaldas!
+* (Es un cartel.)#* (Dice EXPOSICIÓN en letras#  grandes amigables.)
+#        EXPOSICIÓN
+* ¿Atascado? Presiona#  aquí para repetirlo.
+* O no.
+* Haz que lo oscuro,#  sea brillante.
+* Haz lo que sea oscuro,#  sea claro.
+* ¿¡Cuando se termina este semestre!?
+* Como, ¡totalmente!
+* Flier usa la jerga de moda#  como los niños.
+* Penilla desecha su dibujo#  y vuelve a empezar.
+* Rorrim reflexiona sobre#  sus actuales circustancias.
+* Decibat susurra algo#  demasiado bajo para oírlo.
+* Dalv hace una pausa para#  cepillarse la capa.
+* Captas un leve olor#  a semilla de mostaza.
+* Trihecta parece estar#  presionando los botones#  de otro.
+* Tri se preocupa por los golpes#  y de los moretones#  de los demas.
+* Todo huele a semillas# de ave con un toque#   de vainilla y naranja.
+* Martlet busca su#  guía de primeros#  auxilios.
+* Martlet marca el paso.
+* Martlet mira paranoicamente#  a su alrededor.
+* Dunebud se está poniendo nervioso.
+* Cactony mira fijamente tu alma.
+* Sir Slither perdio el acceso#  a su cuenta bancaria. Se#  pregunta si puedes prestar latuya.
+* Bowll observa un objeto rojo#  pero lucha contra la tentación#  de correr hacia él.
+* Te esta molestando#  la música.
+* ¡El Bailador hace#  una pose motivadora!
+* El maniquí no hace nada.
+* Violetta mira a todas partes#  menos a ti.
+* Pedla da vueltas por la arena.
+* ¡Rosa baila entre los#  peligros de la vida#  con una confianza!
+* Se seca el#  sudor de la frente.
+* A Starlo le pican los#  dedos por su pistola#  de seis tiros.
+* Starlo aprienta los dientes#  con frustación.
+* Telly empuja la aleta#  de la boca de Vis para#  divertirse. Vis no lo soporta.
+* Jandroid intenta silbar#  al ritmo de la música.
+* Goosic empieza a girar#  en circulos.
+* Sousborg está haciendo malabares#  con cuchillas.
+* Muerte por metal y magia.
+* A tu manera.
+* Huele a rana.
+* Guardener riega su jaula.
+* Guardener golpea el suelo#  con los brazos agitados.
+* Huele a Aa;1rW4,je2FpA,,.
+* Ceroba se seca el sudor#  de la frente.
+* Los pétalos llueven del cielo.
+* Ceroba emite con furia.
+* El fin se acerca.
+* El enemigo trata de insistir.
+* Clausura.
+* Hogar.
+* Escapaste...
+* Propiedad privada.#* Prohibido el paso.
+* Flier no siente nada.
+* (Un lecho de#  flores bien cuidado.)
+* (Huelen bien.)
+* (Algunas flores.)
+* Hola...
+* Me alegro de conocerte#  por fin cara a cara.
+* ¿Cuanto tiempo ha pasado?
+* Me preguntaba si#  alguna vez volverías...
+* No... demasiado adelantado.
+* ¿A quién quiero engañar? Nunca#  podré conocerte en este#  estado.
+* Solo quiero que sepas... que#  no tuve opción. Debe ser así.
+* ¿Eh?
+* ¿Quién...?
+* Yo-yo debo estar viendo cosas...
+* ¿Es malo dudar de#  mis acciones?
+* Disfrutaba de la vida antes...#  Lo hice... Pero no puedo#  volver atrás.
+* Lo que pasó ese día#  solo se repetiría.
+* ¡!
+* ¿Qué es esto?
+* ¿Por qué aparecen cada vez#  más que empiezo a monologar? 
+* Necesito descansar más.
+* ¡Ah!
+* No sé quién eres pero#  te pregunto...
+* ¡Por favor, largate!
+* ¿Todavia... me sigues?
+* Pensé que habia dejado#  claro que quiero que#  me dejen en paz.
+* No entiendo... Tu...#  te pareces a ellos.
+* ¿Es algún tipo de hechizo?#  ¿O has venido a#  terminar el trabajo?
+* Retirarme aquí no fue#  suficiente,#  así que me cazaste...
+* ¿Verdad?
+¿Qué?
+* Y estaba empezando a#  aceptar mi realidad.#  La crueldad...
+* Lo que te hice ese día#  no fue mi intención,#  yo solo...
+* No importa. Las palabras#  no son suficientes.
+* Yo... No quiero pelear#  con nadie, pero#  has invadido mi casa.
+* La salida está bloqueada#  y no puedes quedarte aquí.#  No lo permitiré.
+* Sólo hay una cosa#  que hacer...
+* ¿Qué hacen realmente#  los amigos?
+* ¿Quieres...#  ver mi casa?#  ¿O algo así?
+* Tengo que ir allí asi#  que que supongo que pasa#  por alli.
+¿Me estás... perdonando?
+Pero... ¿qué pasa con ellos?
+¿Por qué solo yo?
+¡Qué me hace tan#especial!
+¿O es así como#  planeas hacerme daño?
+Llevándoselos a todos...
+...No los necesito.#Estare bien por mi cuenta.
+Lo he estado haciendo#lo suficiente...
+Creo que deberías irte.
+Ya has hecho#suficiente daño aquí.
+* Supongo que... Realmente#  estoy solo ahora...
+* Todo esto fue un#  malentendido, ¿verdad?
+* Estaré esperando en#  mi casa.
+* Ven cuanto te#  apetezca.
+* Bienvenido...
+* Siéntete como en casa.
+* Me voy a mi habitación#  a descansar.
+* Me siento un poco mal.
+* Somos...  amigos ahora#  así que...
+* Mira lo que quieras
+* Nos vemos... más tarde.
+* Tengo que...#  arreglar algo en#  otra habitación.
+* Sientate,#  ponte cómodo,#  quítate los zapatos.
+* En realidad#  por favor, dejalas puestas#  el suelo está un poco sucio.
+* No he barrido desde#  esta mañana.
+* Parece que te tomaste#  tu tiempo.
+* Oh, pero no te preocupes#  estoy acostumbrado#  a estar solo.
+* Me entretengo#  limpiando la casa.
+* ¡Es mi rutina de#  cada hora!
+* Tengo que um...#  arreglar algo...
+* (Según la lista de precios,#  es un puesto de limonada:#  5 de oro el vaso.)
+* (¿Tomar un poco?)
+* (Te sirves un vaso pero#  no hay ningún colaborador que#  coja tu dinero. Qué mal servicio.)
+* (¿Dejar una propina?)
+* (Ya no queda limonada.)
+* (¿Cuánto?)
+* (Dejas 5 de oro en el#  frasco de propinas. Tu#  conciencia se siente como pluma.)
+* (Dejas todo lo que tienes#  en el frasco de las propinas.)
+* (No tienes oro.)
+* (Partes una moneda a la mitad#  y debates que mitad tirar#  antes de lanzar una al azar.)
+* (Ambos son inútiles de todas#  formas asi que no te importa#  realmente.)
+* (Te sirves un vaso pero#  no hay ningún colaborador que#  coja tu dinero. Mal servicio.)
+* Amigo:#* Planté esto para ti.
+* No es mucho, pero espero#  que te alegre el día.
+* Siempre alegró la mía.
+* (Es un trozo de maíz rechazado.)
+* (¿Tomarlo?)
+* (Obtuviste un Candy Corn!)
+* (Probablmente no sea#  lo suficientemente bueno#  para ti.)
+* Amigo:#* No temas a lo desconocido.#* A veces son agradables.
+* (Parece que hay un dibujo#  de un gato garabateado.)
+* (¿Esto lo convierte#  en una oruga?)
+* (Garabatos.)
+Dulce silencio...
+¡NO NO! ¡EL RUIDO#MOLESTA! ¡EL RUIDO#MOLESTA!
+¿Demasiado alto#aquí! HUSHH#HUSHH!
+¿Tú eescuchas esto?#¿No? Bien...
+Más silencio#por favor...
+           #No hagas#ruido.#Hush hushh!
+No te muevas.#            #      #             
+     En silencio.#Hushh hushh!
+Muevete            #            
+No te vayas.#Hushh hushh!
+Solo fantasmas#por favor. Hushh#hushh!
+¡Hushh cachorro!
+* Te declaro#  centinela del silencio.
+* Confío para mantener la paz#  y el orden del ruido.
+* Iré a conquistar nuevas#  tierras en el nombre#  de la tranquilidad.
+* Esto es un hhonor muy grande#  así que mantenlo secreto#  hhush hhush.
+* Decibat parece haber perdido#  la esperanza.
+* Decibat sufre demasiado#  como para preocuparse.
+* Te mueves hacia Decibat#* Se posa alegremente#  en tu hombro.
+* Gritas y saltas#  tratando de ahuyentar a Decibat.#* No está contento.
+* Decibat está haciendo demasiado#  ruido para notar tu silencio.
+* Miras a Decibat en silencio.#* Parece que lo aprecia.
+* Abres la boca para hablar.#* Decibat te tapa la boca.
+Muevete#En silencio.#Hushh hushh!
+Muevete
+* ¿Por qué?
+PÁGINA 1
+PÁGINA 2
+* Perdonar
+* Consultar
+* Decibat tiembla de rabia.
+* Decibat rechina los dientes#  con rabia y se estremece#  por el alborto que causo.
+* Decibat no se oye#  pensar.
+* Decibat está perdiendo la#  paciencia contigo.
+* Decibat mueve sus grandes orejas.
+* Decibat está siendo#  dormido.
+* Decibat disfruta del silencio.
+* Decibat te hace un gesto de# aprobación.
+* Decibat parece algo más a gusto.
+* Je, ¡eso sí#que lo he oido!
+* Pero no quiero volver#a oirlo, ¿de acuerdo?
+Esta cosa odia el#ruido, ¿verdad?
+¡Utilizalo#a tu favor!
+¿Una solución permantente#, ¿eh?
+Lastima que#deshacerlo, ¡jaja!
+* Decibat te calla furiosamente.
+* Parece que hablarle a Craniex#  lo hace ser más amigable#  hacia ti.
+* Haz mejorado el día #  de Crispy Scroll.
+* Crispy Scroll no se cree#  que eso acaba de #  ocurrir.
+* Trihecta comienza a menearse#  hacia adelante y atrás.
+* Trihecta se balancea.
+* A Craniex no le hace#  gracia tus insultos.
+* ¡El poder de Crispy Scroll#  es sorprendente!
+* ¡Crispy Scroll llegó al 100%! ¡¡Ha#  alcanzado Modo Super Crispy 2K!!
+* Crispy Scroll está mejorado al 50%.
+* Micro Froggit está intentando#  irse saltando.
+* Trihecta comienza a menearse#  hacia atrás y delante.
+* Craniex parece estar#  cansÃ¡ndose de tus chistes.
+* A Insomnitot se le dificulta#  mantenerse consciente.
+* Bowll empiaza a juntar las#  piezas.
+* Decibat no puede escuchar#  sus pensamientos.
+* Decibat se ve un poco más#  en paz.
+* Dalv se ve inseguro#  de que hacer.
+* Micro Froggit está impresionado#  de que pudiste golpearle.
+* ¡Know Cone sabía que había#  alguien allí!
+* Un par de plumas ensucian el#  suelo.
+* A Goosic le está gustando#  la nueva música.
+* Axis te dará una mirada#  vacía hasta que hagas algo.
+* Martlet está buscando en su#  guía procedimientos de#  primeros auxilios.
+* Axis está sientendo algo...
+* (Empujas la puerta.)
+* (No se mueve.)
+* Me parece recordar# lo que una vez vi#  tan a frecuente...
+* Lo que recordaba...#* Parece que ahora está olvidado...
+* Así que no importa, supongo.
+* (Es una pluma perdida.)
+* (¡Tienes una Stray Feather!)
+* (Lo ignoras.#* Lo callejero no son más#  que problemas.)
+* (Ves un camino oscuro más alla#  de las rocas pero no#  puedes pasarlas.)
+* (Las rocas bloquean el camino.)
+* (Es una antorcha de madera con una# gran llama apoyada en#  la parte superior.)
+* (Una antorcha.)
+* (Está profundamente dormido. #* Tal vez no deberías molestarlo.)
+* No sé quién eres pero...
+* (El agua parece refrescante# sucia.)
+* (Agua.)
+* (Hay maíz en la# telaraña.)
+* (Una mazorca de maíz.)
+* (Es una caja con maíz "especial"#  escrito en crayón rosa.)
+* (No queda nada útil.)
+* (Hay un Corn Dog escondido#  entre las mazorcas de maíz.)
+* ¡Obtuviste un Corn Dog!
+* (Podría morderte.)
+* (Una pila de cajas,#  todas conteniendo maíz.)
+* (Te estás cansando#  de esas cosas.)
+* (Algunas cajas.)
+* No pises las flores.
+* Propiedad de Dalv#  (El monstruo de la capa.)#* ¡NO PASAR!
+              Dalv
+* Parece que Dalv está#  demasiado concentrado para#  oirte.
+* Dalv parece no valorar#  la comunicación.
+* Dalv no quiere oírte.
+* Dalv acepta tu oferta de#  buena voluntad.
+*Dalv no quiere hacerlo.
+* (Es una mesita con un#  cajón incorporado.)
+* (Parece que está bloqueado.)
+* (Una mesita con un cajón.)
+* (Es una silla.)
+* (Perfecto para actividades emocionantes# como sentarse.)
+* (Una mesa.)
+* (En un rincón hay una#  mesita para una persona.)
+* (No puede dejar de notar su#  fina artesanía.)
+* (Esta silla es como#  la otra... pero mejor.)
+* (Una cama.)
+* (Es muy chillón.)
+* (Una cama cómoda.)
+* (De tipo no musical.)
+* (Es una mesita con un# cajón incorporado.)
+* (Una colección de equipaje,#  protegiendo todos los trajes#  elegantes de Dalv.)
+* ¡Clover!
+* Me has pillado en plena mudanza,
+* Pero no me importa hacer#  una pausa para charlar.
+* ¿En qué piensas?
+* Oh, ¿ves esta estructura#  de aquí?
+* ¡La he reclamado como mi#  nueva residencia!
+* Por supuesto, no está en#  estado para vivir en#  este momento.
+* Definitivamente necesitaré#  ayuda en la construcción.
+* No estoy seguro de si a#  Pops le gustará estar,#  tan cerca pero...
+* Seguro que se le pasará.
+* De vez en cuando#  se le va la cabeza.
+* Estamos trabajando en ello...
+* Bueno, aún no he#  hecho un plan concreto.
+* Hacer las cosas#  paso a paso.
+* Sí lo recuerdas, te di#  algunas ideas antes de#  que te fueras de mi casa.
+* ¡Tengo que decir que#  la idea del concierto en#  particular es tentadora!
+* ...si me armo de valor#  para hacer algo así.
+* ¿Quizá repase mis conocimientos#  de órganos mientras tanto?
+* ¡La práctica hace al maestro!
+* No lo había pensado# hasta ahora pero...
+* Podríamos tener una crisis#  entre manos.
+* La mitad de mi equipaje aquí#  está lleno de maíz.
+* Suficiente para una semana#  como mucho, pero#  ¿después qué?
+* Supongo que podría#  volver a mi campo...
+* Pero aún así, eso sólo#  me llevará hasta#  cierto punto.
+* ¡No quiero lidiar#  con la adicción al maíz!
+* Le daré vueltas a esto#  durante algún tiempo.
+* No te preocupes por mí.
+* Así que, ¿has estado# viajando por el# Subsuelo?
+* ¡Tu valentía es# inspiradora!
+* Las Ruinas fueron sólo el# principio de sus# obstáculos, estoy seguro.
+* Yo... lamento haberte#  molestado. Muchísimo.
+* Pero, con la mentalidad# del vaso medio lleno...
+* Luchar primero contra un#  monstruo de bajo nivel#  era un buen entrenamiento, ¿no?
+* Hay algunos encuentros#  bastante aterradores por ahí.
+* No soy nada comparado#  con ellos...
+* Así que, por favor, ¡mantente a salvo!
+* Sabes, me parece extraño.
+* Nos conocimos hace sólo#  unas horas, pero por#  alguna razón...
+* Siento como si te#  conociera desde hace años.
+* El tiempo es realmente el#  puzzle que nunca#  resolveremos.
+* Bueno, será mejor#  que vuelva.
+* ¡Te deseo toda la suerte#  del mundo, Clover!
+* ¡Haz por los demás#  lo que hiciste por mí!
+* Veamos otra cosa,#  ¿de acuerdo?
+* (No hay respuesta...)
+* (Al otro lado se#  oye débilmente un órgano.)
+* ¿Estás listo para irte?
+* ¿Dejar la casa de Dalv?
+* Si eso es lo que quieres,#  yo te guiaré.
+* Muy bien, tómate#  el tiempo que quieras.
+* (Parece el diario de Dalv.)
+* (Puede contener información privada.)
+* (¿Leer?)
+* (Es el diario de Dalv.)
+* (Abres el diario.)
+* (Sólo hay una entrada.#  Parece nueva.)
+* Hoy empezó como cualquier otro# día.
+* Me levanté de la cama, me#  cepillé los colmillos y#  desayuné un buen tazón de maíz.
+* Pops hizo un chiste muy#  gracioso a costa de Broom#  y todos nos reímos.
+* Me puse mi capa y#  salí a dar mi paseo diario.
+* Me he dado cuenta de que#  hoy ha aparecido otro maíz#  azul en tu maizal.
+* Siempre me siento mal por# desechar el maíz especial, pero# no puedo arriesgarme a enfermar.
+* De todas formas...
+* Algo interesante ocurrió#  un poco más tarde.
+* Escuché a Flier y Penilla# hablando de mí...
+* Acerca de nosotros...
+* Dijeron que estaban#  preocupados por mí.
+* Dicen que hablo solo.
+* Penilla then chimed in and#  commented on my advice#  and gifts to you.
+* Mis carteles.
+* Dijeron que no existías...
+* Eso no es verdad.
+* Lo sabes.
+* Lo sé.
+* Me diste la mano#  cuando más lo necesitaba.
+* ...me ayudaste a sobrellevar# el pasado...
+* ¿Cómo pueden ser tan malos?
+* ¿Qué saben ellos?
+* No los necesito.
+* Porque...
+* Porque te tengo a ti.
+* Ha pasado un año.
+* Aún estoy esperando.
+* (La entrada termina ahí.)
+* (Hay un libro de párrafos#  bien escritos sobre el escritorio.)
+* (Todas parecen ser muy similares.)
+* (¿Lees uno?)
+* Dalv es un solitario que vive en# las ruinas del Hogar.
+* Le gusta pasear tranquilamente en oscuridad,#  limpiar y mejorar las canciones#  de su órgano.
+* Quiere compartir con la# juventud del Subsuelo...
+* ...la importancia de#  aceptar y respetar# los deseos de los demás.
+* El resto de la página está#  garabateada.
+* (Sobre el escritorio hay#  un libro de párrafos#  perfectamente escritos.)
+* (Todos parecen ser muy#  similares.)
+* (Es un gramófono.)
+* (Parece bastante viejo.)
+* (Tal vez sea un abuelitáfono.)
+* (Un disco llamado #  "Prueba de Organo de Dalv" está en cola para escuchar.)
+* (¿Escuchar?)
+* (El disco debe estar dañado o# roto.)
+* (¿Poner fin a esta#  música miserable?)
+* (Apagas el gramófono.)
+* (Tal vez sea un trabajo en#  progreso.)
+* (Un viejo gramófono.)
+* (Te ahorras no#  ponerle el disco.)
+* (Un cofre de roble fino.)
+* (¿Abrirlo?)
+* (Vaya! ¡Está cubierto#  de satén de alta calidad!)
+* (Vuelves a comprobarlo.)
+* (Sigue siendo un cofre genial.)
+* (Es un órgano.)
+* (De tipo musical.)
+* (Parece horriblemente desafinado.)
+* De acuerdo, sé que#  probablemente quieras#  ponerte en marcha.
+* Pero siéntete libre#  de quedarte todo el#  tiempo que quieras.
+* Bienvenido de nuevo.
+* Um... No estoy seguro#  de qué decir...
+* Hice algunas tarjetas para#  situaciones de emergencia#  con amigos...
+* ......pero los he perdido.
+* Siéntete como en casa...#  de nuevo.
+* Espero haber sido#  un buen anfitrión.
+* ¿Salir de la casa de Dalv?
+* Si eso es lo que#  quieres, yo te guiaré.
+* Bueno, aquí estamos.
+* Gracias...
+* Por todo.
+* Me has ayudado mucho.
+* Por eso...
+* Me voy de aquí.
+* Estoy cansado de estar# solo.
+* Llevará unos días#  empacar...
+* Pero creo que estoy#  listo para darle otra#  oportunidad al Subsuelo.
+* Estoy cansado de estar#  solo.
+* Tengo tanta#  creatividad que he estado#  almacenando.
+* Por fin estoy listo#  para mostrar mi talento.
+* Puedo publicar mi novela,# tener un concierto de órganos.
+* ¡Incluso podría hacer#  otro amigo!
+* Qué mundo sería#  si tuviera dos amigos#  enteros.
+* Iré por ahí y pondré#  maíz en todas las#  puertas.
+* Todo el mundo necesita#  un poco de maíz en#  su vida.
+* Llevo un año comiendo maíz#  todos los días y me#  va medianamente bien.
+* Tanto que aprender, tanto#  que enseñar. Estoy#  muy emocionado.
+* Uy. Ya estoy otra#  vez con mis tonterias.
+* Salgamos de aquí.
+* Parece que la salida#  está bloqueada...
+* Veamos.
+* Ya está.#  Ya está todo listo.
+* Oh, antes de que lo olvide,#  ¡nunca pregunté por tu nombre!
+* ¿Te importaría informarme?
+* ¿Clover? Qué bonito nombre.
+* Bueno, Clover,#  muchas gracias.
+* Nos vemos luego...
+* Amigo.
+* Debería darte las gracias...
+* Por ayudarme tanto.
+* Supongo que debería#  sacarte de aquí pero...
+* Sinceramente, me confundes.
+* Me hiciste daño pero,#  sin embargo, me diste#  libertad.
+* ¿Es eso lo que hacen#  los amigos de verdad?
+* Si es así, no sé#  si realmente quiero irme.
+* Si todo el mundo me hará #  daño entonces ayúdame...
+* ¿Es ese un lugar#  en el que quiero estar?
+* Bueno... No puedo dejar#  pasar esta oportunidad.
+* Está bien, te perdono.
+* Probablemente te asusté...
+* La mayoría de los#  monstruos son...
+* Yo me encargo.
+* Bueno, Clover, deberías#  ponerte en marcha....
+* Voy a ser más#  amigable.
+#* Dotada lógicamente, terco emocionalmente.
+#* Su velocidad la hace invulnerable al ataque..
+#* La robot asesina definitiva, aunque imperfecta!
+#* La vida es dificil para este enemigo.
+#* Flier siente nada.
+#* Un personaje incompleto.
+#* Constantemente en una carrera de azucar.
+#* Buscando alguien que pueda ser retador de su entusiasmo.
+#* Rorrim's expresión está en blanco.
+#* Extrañando su tranquila soledad.
+#* Quiere que lo dejen solo.
+#* Actuando sombrío.
+#* Finalmente solo...
+#* A menudo pasa desapercibido.
+#* Más allá de su hora de dormir.
+#* Un esquí menos que una moto de nieve.
+#* Una mente ansiosa llena de una pasión ardiente.
+#* Siempre como en casa.
+#* Un sospechoso igloo.
+#* Intimidantemente alto.
+#* Ya no intimida.
+#* Tomando las cosas un paso a la vez.
+#* El dia esta mejorando.
+#* Saltos de emoción!!
+#* Un poco atolondrado.
+#* Manteniendome Firme.
+#* Atolondrado.
+#* Cuestionandome.
+#* Buscando algo de diversión.
+#* Carece de cariño físico.
+#* Colocando un pie sobre el mundo!!!.
+#* Una fachada frágil.
+#* La definición de pasión!
+#* Otro obstáculo.
+#* No es alguien para una conversación.
+#* Le encanta regalar flores.
+#* Le gusta un buen reto.
+#* No queda nada.
+#* El almirante Sheriff.
+#* El no-tan-almirante Sheriff.
+#* El equipo ensueño !
+#* El equipo ensueño!
+#* No puedo vivir con o sin el otro.
+#* "Hygiene" No esta en su vocabulario.
+#* Music dirige el animo.
+#* Una receta para el desastre.
+#* Hoy significara la superficie.
+#* Grande rana.
+#* Atrapa a los delincuentes para una aprehensión fácil.
+#* Debería bajar su ira un poco.
+#* Un legado para no olvidar.
+#* Un digno oponente.
+#* Un ser caido.
+* Voy a ser el mentor que#  siempre debí haber sido.
+* Penilla y yo dibujaremos juntos,
+* Rorrim podría darle#  vida a mi armario,
+* Y Crispy Scroll puede#  mostrarme ese "anime".
+* He pensado en irme...
+* ¿Pero por qué irme#  cuando tengo una gran#  familia aquí mismo?
+* Además de que realmente#  he dejado el lugar.
+* ¡Una semana de#  limpieza sin parar!
+* Bueno... Debería#  sacarte de aquí.
+* Bueno, Clover, deberias#  ponerte en marcha.
+* Voy a ser amable#  con todo el mundo.
+* Me hiciste daño pero,#  sin embargo, tú me#  abriste los ojos.
+* ¿Es eso lo que hacen#  los amigos de verdad??
+* Me iría pero...
+* Si todo el mundo fuera#  me va a hacer daño,#  entonces ayúdame....
+* ¿Es ese un lugar en el que quiero estar?
+* He vivido aquí#  durante mucho tiempo.
+* Es cómodo y conozco a los#  residentes desde hace#  mucho tiempo.
+* Lo desconocido da miedo...
+* No estoy preparado para ello...
+* Al menos todavía no.
+* Los monstruos de aquí#  necesitan a alguien a#  quien admirar.
+* Podría hacerlos felices.
+* Bueno, en fin. Parece que#  la salida está bloqueada...
+* Bueno, Clover, deberías#  ponerte en marcha.
+* ¡Hola!	
+* Tengo la impresión de que#  te gusta rodar solo.
+* Ya sabes, como nunca#  aceptaste mi oferta#  de "guardar".
+* Pero mira, ¿ves esos#  tablones destrozados#  en el suelo?
+* Puedo serte de gran#  ayuda en tiempos difíciles.
+* Tal vez tengas problemas#  de confianza pero...
+* Tienes que superar eso#  si quieres tener una#  oportunidad de luchar, ¿vale?
+* Nos vemos adelante, amigo.
+* Estoy seguro de que#  podrías haberlos destrozado#  tú mismo, pero...
+* Puedo serte de ayuda#  a veces.
+* Como... guardar.#  ¿Lo recuerdas?
+        guardar
+* Tal vez lo olvidaste.
+* Espera...	
+* ¿Es por mi vaga amenaza de antes?
+* ¡Sólo estaba bromeando!#  ¡Ya me conoces!
+* Oh, bueno, supongo que#  todavía no.
+* Je, qué problema...
+* Todo lo que necesitas saber#  es que tengo en mente#  tus mejores intereses.
+* Vas por un camino peligroso, así que...
+* No te olvides de guardar,#  ¿de acuerdo?
+* Bien.
+* ¿Lo esperabas?
+* Soy un poco más útil#  de lo que pensabas.
+* Todo lo que no puedas#  hacer por ti mismo#  es mi trabajo.
+* ¡Gran trabajo consiguiendo#  pasar por aquí!
+* Chico, me alegro de#  estar de tu lado.
+* Prepárate porque nos#  espera un largo viaje.
+* ¡Esto va a ser#  muy divertido!
+* ¡Te veré en el otro#  lado, amigo!
+Supongo que no#puedes irte como#entraste, ¿verdad?
+Sería más fácil#para los dos.
+¿De dónde#vienes?
+No hay#entradas#accesibles...
+Todo lo que sé es#que de alguna#manera... me#encontraste.
+Siento hacer las#cosas difíciles pero#esta vez no#me acobardo.
+Los otros monstruos...#¿Los molestaste#también?
+No es que me importe#mucho seguir#su actividad...
+Esta región de las#Ruinas es mi hogar.
+Y mi hogar tiene#reglas. Los residentes#lo entienden.
+Pero parece que#nunca recibiste#el memorándum.
+Eso, o estás#ignorando mis deseos#a propósito.
+¿Q-Qué pasa con#esa cara de#tristeza?
+¿No lo entiendes?#¿No te acuerdas de mí?
+Sé que no eres#un fantasma pero...
+Podría ser que... #No, no es#posible.
+Tú...
+Pareces tan indefenso.#Diferente.
+¿Pero es una excusa?
+No... No estás#tratando de#lastimarme...
+Tú... No eres#quien creía que#eras, ¿verdad?
+...¿Cómo he#podido ser#tan tonto?
+Pido disculpas.#De verdad.
+Esto se fue#de las manos...
+Yo... No sé como#puedo hacer#las cosas ahora...
+Temía que esto#ocurriera. Qué#mala suerte.
+Sabes, a pesar#de tus creencias...
+Los monstruos#no son malos.
+Monsterkind representa#la esperanza,#el bien.
+Todo el mundo aquí#sólo está tratando de encontrar#un poco de alegría.
+Pero... Supongo que#no estás para alegrías.
+¿A quién quiero engañar?#No me creerás.
+Yo soy el que se puso#hostil primero.
+Pero esto no es un error...
+Estás luchando#a propósito.
+Si te niegas a ser#pacífico...
+Yo tampoco#seré pacífico.
+A pesar de lo que he#dicho, los monstruos no#somos fáciles de convencer.
+Estoy perdiendo#en esto, ¿no?
+¿Por qué#desperdicio#mi aliento?
+No vale la pena#hablar contigo...
+Así que... voy a...#dejar de hablar...#contigo...
+Supongo que no#puedes irte como entraste,#¿verdad?
+Eso sería más fácil#para los dos.
+¿Cómo llegaste#aquí?
+No hay entradas#accesibles...
+* Yo...
+Creo que sé#lo que has hecho...
+Hiciste daño a muchos#de los monstruos de#ahí fuera, ¿verdad?
+Decibat me dijo que#te fuiste del#alboroto...
+Yo... No sé qué pensar de ti....
+Debería llamarte malvado#pero... perdonaste#a Decibat.
+¿Por qué?
+Yo... siempre quise estar#solo. Estaba seguro#de eso...
+Pero ahora que#estoy tan#cerca de estarlo...
+Ya no quiero eso.
+Sé que debería odiarte pero...
+Ya no me queda mucho.
+Tengo a Decibat...
+Y a ti también.
+Yo...
+No quiero#estar solo.
+Y no soy un #monstruo malicioso, #¡lo prometo!
+Probablemente te asusté.
+Y tú siendo tan#joven, los otros...
+¿Por qué no vienes#a mi casa?
+Podemos hacer las paces#allí, como...#amigos.
+¿Qué te parece?
+¿A quién quiero engañar?#No me creerias.
+Sabes, ha estado#más tranquilo desde#que apareciste...
+Supongo que debería#agradecerte.
+Por fin se cumplió mi deseo.
+O tal vez fue sólo una #casualidad.
+Allá donde voy el#polvo sigue pegado#a mi capa...
+Siento suponerlo,#pero...
+Se han ido todos, ¿no?
+Sé que debo#agradecérselo, y es#lo que pedí...
+¡Pero nunca#quise herir#a nadie!
+No puedo evitar pensar#¡Es culpa mía!
+¿Quizás mi deseo te trajo aquí?
+¿Quizás mi deseo#te trajo aquí?
+Tal vez sólo necesito#tomar una siesta.
+Cuando me despierte,#te habrás ido, ¿verdad?
+Sí, sólo eres un#fantasma de mis recuerdos...
+Oye.
+Si no eres real...
+Entonces, ¿todo esto#es realmente culpa mía?
+¡Ahora los echo#de menos a todos!
+Penilla me dibujó una vez#un boceto de una mazorca#de maíz dulce.
+Nunca le agradecí...
+Una vez, Sweet Corn#me dio un abrazo#sin motivo.
+Le dije que no lo volviera a hacer...
+Eran lo más parecido#a amigos que había#tenido...
+Y ahora...
+¿Quieres...#que...#te dé la mano?
+¿Incluso después#de que te atacara#sin razón?
+Pero eso es...#una señal#de amistad...
+Eres humano, ¿verdad?#¿Es lo mismo de#donde vienes?
+No estoy seguro...#Nunca esperé#encontrarme#con otro humano.
+Y mucho menos#hacerse amigo#de ellos...
+¡No me malinterpretes!#¡Me encantaría#tener un amigo!
+...Quiero decir,#Realmente no recuerdo#lo que significaba...
+Supongo que lo#intentaré.
+               Dalv
+¡Este solitario pega fuerte!
+¡Nada que no puedas manejar!
+La última vez que lo comprobé,#a nadie le gustan los#humanos fritos.
+¡Vuelve ahí fuera!
+Bla, bla, bla, ¡qué llorón!
+¡Démonos prisa y ocupémonos#de este solitario!
+* ¿Te gustan?
+* Esos son mis proyectos.
+* A veces intento escribir#  libros. Para niños#  y cosas así...
+* (La mesa está cubierta de# colores y páginas# de simpáticos dibujos.)
+* A veces olvido de qué#  color son las cosas fuera#de este lugar...
+* ¡Así que me los invento!
+* Creo que a los#  niños les parecerá#  más interesante así.
+* Aunque puede que#  no sea tan educativo...
+* (Fotos infantiles#  esparcidas sobre la mesa.)
+* (Es una maceta llena de#  tierra.)
+* ¡Esa es mi planta de nabos!
+* ¡Debería estar brotando#  en cualquier momento!
+* ... Se está tomando su tiempo...
+* Pero no lo apresuro.
