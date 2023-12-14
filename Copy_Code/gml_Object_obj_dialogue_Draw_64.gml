@@ -25,7 +25,8 @@ if (portrait == 1)
     else
         prt_animate = 0
     var portrait_y_disjoint = ((yy + (sprite_get_height(prt[message_current]) / 3)) + 28)
-    if (string_copy(sprite_get_name(prt[message_current]), 0, 13) == "spr_dalv_head")
+    var sprite_name = sprite_get_name(prt[message_current])
+    if (string_copy(sprite_name, 0, 13) == "spr_dalv_head")
         portrait_y_disjoint += 3
     draw_sprite_ext(prt[message_current], prt_animate, portrait_xx, portrait_y_disjoint, 0.5, 0.5, 0, c_white, 1)
     if (prt_animate == 0)
