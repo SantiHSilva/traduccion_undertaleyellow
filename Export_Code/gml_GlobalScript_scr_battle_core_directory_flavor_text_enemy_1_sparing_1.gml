@@ -39,10 +39,10 @@ function scr_battle_core_directory_flavor_text_enemy_1_sparing_1() //gml_Script_
             switch enemy_mode
             {
                 case 2:
-                    message[0] = "* Dalv has lost all hope."
+                    message[0] = "* Dalv ha perdido toda esperanza."
                     break
                 default:
-                    message[0] = "* Dalv looks unsure of what to do."
+                    message[0] = "* Dalv parece no saber qué hacer."
             }
 
         }
