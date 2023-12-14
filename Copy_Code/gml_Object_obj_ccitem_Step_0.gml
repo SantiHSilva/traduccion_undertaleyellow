@@ -14,7 +14,7 @@ if (waiter > 0)
         if (outcome == 1 && message_current == 1)
         {
             scr_item("Candy Corn")
-            message[2] = "* (Obtuviste un Candy Corn!)"
+            message[2] = "* (¡Obtuviste un Candy Corn!)"
             with (obj_ccitem)
                 instance_destroy()
             global.flag[8] = 1

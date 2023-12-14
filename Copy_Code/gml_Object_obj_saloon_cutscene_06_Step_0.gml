@@ -11,7 +11,7 @@ switch scene
             color = 1
             col_modif[0] = 65535
             talker[0] = starlo
-            message[0] = "* Howdy!"
+            message[0] = "* ¡Buenas!"
             message[1] = "* Man, am I excited for#  this."
             message[2] = "* Have you done#  everythin' you wanted?"
             message[3] = "* Caught some bandits?#  SAVED some lives?"

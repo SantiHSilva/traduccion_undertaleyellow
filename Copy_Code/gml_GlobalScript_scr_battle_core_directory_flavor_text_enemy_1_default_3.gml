@@ -33,7 +33,7 @@ function scr_battle_core_directory_flavor_text_enemy_1_default_3() //gml_Script_
         else if (battle_enemy_name == "rorrim solo")
             message[0] = "* Rorrim mimics your movements."
         else if (battle_enemy_name == "dalv")
-            message[0] = "* Dalv assumes an intimidating#  facade."
+            message[0] = "* Dalv adapta una pose#  intimidadora."
         else if (battle_enemy_name == "micro froggit")
             message[0] = "* You momentarily lose track of#  Micro Froggit."
         else if (battle_enemy_name == "insomnitot solo")

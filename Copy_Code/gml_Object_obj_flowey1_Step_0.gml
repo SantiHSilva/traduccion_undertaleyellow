@@ -18,13 +18,13 @@ if (obj_pl.state == gml_Script_scr_frozen_state && waiter == 2)
             color = 1
             col_modif[0] = 65535
             col_modif[1] = 255
-            message[0] = "* ¡Hola!"
+            message[0] = "* ¡Buenas!"
             message[1] = "* Soy FLOWEY. "
             message_col[1][0] = "      FLOWEY  "
             message[2] = "* ¡FLOWEY la FLOR!"
             message_col[2][0] = "   FLOWEY    FLOR "
             message[3] = "* Hmm..."
-            message[4] = "* Pareces una persona bastante#  segura de sí misma."
+            message[4] = "* Pareces una persona#  bastante segura de#  sí misma."
             message[5] = "* No debería renerte#  aquí todo el día,#  ¿verdad?"
             message[6] = "* ¡No quisiera ser#  un estorbo!"
             message[7] = "* Te dejaré ir#  pero al menos deberías#  saber esto:"
@@ -33,7 +33,7 @@ if (obj_pl.state == gml_Script_scr_frozen_state && waiter == 2)
             message[9] = "* Búscalo y haz#  lo que debas."
             message[10] = "* También..."
             message[11] = "* Si alguna vez tienes#  problemas, ¡yo puedo#  ayudarte a GUARDAR!"
-            message[12] = "* Ven a buscar esta#  cosa y allí#  estaré!"
+            message[12] = "* ¡Ven a buscar estás#  cosas y allí#  estaré!"
             prt[0] = 348
             prt[1] = 348
             prt[2] = 348
@@ -60,7 +60,7 @@ if (obj_pl.state == gml_Script_scr_frozen_state && waiter == 2)
             color = 1
             col_modif[0] = 65535
             col_modif[1] = 255
-            message[0] = "* ¡Hola!"
+            message[0] = "* ¡Buenas!"
             message[1] = "* Soy FLOWEY. "
             message_col[1][0] = "      FLOWEY  "
             message[2] = "* ¡FLOWEY la FLOR!"
@@ -131,7 +131,7 @@ if (obj_pl.state == gml_Script_scr_frozen_state && waiter == 2)
             position = 0
             color = 1
             sndfnt = 96
-            message[0] = "* ¡Hola!#* Soy FLOWEY. #* ¡FLOWEY la FLOR!"
+            message[0] = "* ¡Buenas!#* Soy FLOWEY. #* ¡FLOWEY la FLOR!"
             message[1] = "* Hmm... #* ¡Pareces confundido!"
             message[2] = "* ¡Toriel deberia haberte #  enseñado cómo funcionan #  las cosas por aquí!"
             message[3] = "* ¿No lo hizo?"
@@ -198,7 +198,7 @@ if (global.flag[24] == 2 && room == rm_darkruins_03 && waiter == 1 && (!instance
             {
                 position = 0
                 sndfnt = 96
-                message[0] = "* Bueno, supongo que eso es#  todo."
+                message[0] = "* Bueno, supongo que eso#  es todo."
                 message[1] = "* ¡A por ellos, amigo!"
                 prt[0] = 347
                 prt[1] = 348
