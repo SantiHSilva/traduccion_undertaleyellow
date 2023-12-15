@@ -1,1 +1,0 @@
-script_execute(gml_Script_scr_battle_draw_inside_battle_box_ext)
