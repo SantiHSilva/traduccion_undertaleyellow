@@ -10,7 +10,7 @@ var obstacle2 = obj_ceroba_attack_fireball_obstacle
 var obstacle_speed = 5
 if (side == 2)
 {
-    obstacle1 = 247
+    obstacle1 = 248
     obstacle2 = obj_ceroba_attack_bell_obstacle
 }
 instance_create_depth(xx, yy, -50, obstacle1)

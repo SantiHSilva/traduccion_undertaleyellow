@@ -171,7 +171,7 @@ switch scene
         scr_cutscene_end()
         audio_sound_gain(obj_radio.current_song, 1, 500)
         cutscene_advance()
-        instance_destroy(105662)
+        instance_destroy(105663)
         ds_list_clear(global.encounter_list)
         global.sworks_flag[28] = 1
         break

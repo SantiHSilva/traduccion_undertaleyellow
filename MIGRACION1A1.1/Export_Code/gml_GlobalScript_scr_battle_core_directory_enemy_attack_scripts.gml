@@ -4,7 +4,7 @@ function scr_battle_core_directory_enemy_attack_scripts() //gml_Script_scr_battl
     var game_mode = global.game_mode
     if instance_exists(obj_heart_battle_fighting_parent)
     {
-        if (global.party_member == 1170)
+        if (global.party_member == 1171)
         {
             if (battle_ceroba_buff_noloop == 0 && obj_heart_battle_fighting_parent.moveable == 1)
             {

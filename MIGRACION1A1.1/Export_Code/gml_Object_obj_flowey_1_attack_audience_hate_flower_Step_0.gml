@@ -1,6 +1,6 @@
 if live_call()
     return global.live_result;
-var box = 3153
+var box = 3154
 if (image_alpha < 1)
     image_alpha += 0.2
 if (vspeed > 0)

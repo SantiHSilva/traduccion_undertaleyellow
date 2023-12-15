@@ -4,11 +4,11 @@ counter_current = 0
 counter_timer = 0
 depth = -500
 spawner_list = ds_list_create()
-ds_list_add(spawner_list, 1591)
-ds_list_add(spawner_list, 872)
-ds_list_add(spawner_list, 2595)
-ds_list_add(spawner_list, 1349)
-ds_list_add(spawner_list, 984)
+ds_list_add(spawner_list, 1592)
+ds_list_add(spawner_list, 873)
+ds_list_add(spawner_list, 2596)
+ds_list_add(spawner_list, 1350)
+ds_list_add(spawner_list, 985)
 spawner_list_original = ds_list_create()
 ds_list_copy(spawner_list_original, spawner_list)
 alarm[0] = 30

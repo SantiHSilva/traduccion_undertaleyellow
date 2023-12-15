@@ -735,7 +735,7 @@ switch scene
         if (!(scr_camera_move(obj_pl.x, obj_pl.y, 1)))
             return;
         else
-            __view_set((9 << 0), 0, 1030)
+            __view_set((9 << 0), 0, 1031)
         clover_npc = instance_create(obj_saloon_sitting_clover.x, obj_saloon_sitting_clover.y, obj_player_npc)
         instance_destroy(obj_saloon_sitting_clover)
         with (clover_npc)

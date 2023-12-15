@@ -340,7 +340,7 @@ switch scene
         with (msg)
         {
             talker[0] = -4
-            talker[1] = 1168
+            talker[1] = 1169
             sndfnt_array[0] = 391
             sndfnt_array[1] = 107
             message[0] = "* (You got the Deputy#  Badge!)"
@@ -382,7 +382,7 @@ switch scene
         actor_clover.action_sprite = 0
         break
     case 60:
-        cutscene_npc_walk(1167, (actor_starlo.x - 30), actor_clover.y, 3, "x", "right")
+        cutscene_npc_walk(1168, (actor_starlo.x - 30), actor_clover.y, 3, "x", "right")
         break
     case 61:
         cutscene_wait(0.25)
@@ -411,7 +411,7 @@ switch scene
         cutscene_instance_create(actor_clover.x, (actor_clover.y + 220), obj_martlet_npc)
         break
     case 67:
-        cutscene_npc_walk(1163, 160, 220, 3, "x", "up")
+        cutscene_npc_walk(1164, 160, 220, 3, "x", "up")
         break
     case 68:
         cutscene_dialogue()
@@ -465,14 +465,14 @@ switch scene
         }
         break
     case 69:
-        cutscene_npc_walk(1163, obj_martlet_npc.x, ((__view_get((1 << 0), 0) + __view_get((2 << 0), 0)) + 50), 4, "x", "down")
+        cutscene_npc_walk(1164, obj_martlet_npc.x, ((__view_get((1 << 0), 0) + __view_get((2 << 0), 0)) + 50), 4, "x", "down")
         break
     case 70:
         cutscene_camera_move(obj_pl.x, obj_pl.y, 1)
         break
     case 71:
         scr_cutscene_end()
-        camera_set_view_target(view_camera[0], 1030)
+        camera_set_view_target(view_camera[0], 1031)
         global.dunes_flag[39] = 1
         ds_list_clear(global.encounter_list)
         scene = -1

@@ -71,14 +71,14 @@ switch scene
         {
             x_target = 720
             x = lerp(x, x_target, 0.2)
-            if ((abs((x + y)) - abs((x_target + box.y))) < 1)
+            if (x > (x_target - 40))
                 adv -= 1
         }
         with (obj_guardener_guy_b_shield)
         {
             x_target = -40
             x = lerp(x, x_target, 0.2)
-            if ((abs((x + y)) - abs((x_target + box.y))) < 1)
+            if (x < (x_target + 20))
                 adv -= 1
         }
         if (adv <= 0)

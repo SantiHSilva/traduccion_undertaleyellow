@@ -175,6 +175,13 @@ function scr_battle_core_directory_action_2_name(argument0, argument1) //gml_Scr
             battle_menu_option_string = "* Ignore"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
+        else if (battle_enemy_name == "martlet genocide final")
+        {
+            battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
+            battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
+            battle_menu_option_string = "* Endure"
+            script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
+        }
         else if (battle_enemy_name == "dunebud a" || battle_enemy_name == "dunebud b")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)

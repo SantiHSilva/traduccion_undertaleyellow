@@ -27,7 +27,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Howdy!"
             message[1] = "* What do we have here..."
             prt[0] = 348
@@ -47,7 +47,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Really? ANOTHER locked#  door?"
             message[1] = "* How many unique doors#  are installed in this#  place?"
             message[2] = "* Talk about#  inconsistent!"
@@ -65,7 +65,7 @@ switch scene
         }
         break
     case 8:
-        if cutscene_npc_action_sprite_reverse(3193, 242, 0.15, 1, 0)
+        if cutscene_npc_action_sprite_reverse(3194, 242, 0.15, 1, 0)
         {
             global.sworks_flag[25] = 1
             instance_destroy(obj_flowey_npc)

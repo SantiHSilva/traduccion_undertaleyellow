@@ -74,3 +74,4 @@ trail_cc_start = (trail_cc_max - 1)
 trail_cc_current = trail_cc_start
 feather_targetted = 1
 feather_create_count = 7
+id_target = -4

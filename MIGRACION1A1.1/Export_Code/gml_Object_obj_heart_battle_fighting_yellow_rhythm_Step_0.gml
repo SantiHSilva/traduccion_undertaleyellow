@@ -29,9 +29,20 @@ if instance_exists(obj_sme_yellow_rhythm_selection)
     with (obj_sme_yellow_rhythm_selection)
         event_user(0)
 }
+var auto_hit_note = 0
+if global.option_autorhythm
+{
+    key_select = 0
+    key_revert = 0
+    with (obj_sme_yellow_rhythm_selection)
+    {
+        if place_meeting(x, y, obj_sme_yellow_rhythm_note)
+            auto_hit_note = 1
+    }
+}
 if instance_exists(obj_sme_yellow_rhythm_note)
 {
-    if (key_select || key_revert || buffer_current > 0)
+    if (key_select || key_revert || auto_hit_note || buffer_current > 0)
         buffer_current += 1
     if (buffer_current >= buffer_max)
     {

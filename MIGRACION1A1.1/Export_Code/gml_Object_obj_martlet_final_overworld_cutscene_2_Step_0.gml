@@ -17,8 +17,8 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
-            talker[1] = 2587
+            talker[0] = 1164
+            talker[1] = 2588
             message[0] = "* Where are you off to in such a#  hurry?"
             message[1] = "* O-Oh, me?"
             message[2] = "* Umm..."
@@ -38,10 +38,10 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 2587
-            talker[2] = 1163
-            talker[3] = 2587
-            talker[6] = 1163
+            talker[0] = 2588
+            talker[2] = 1164
+            talker[3] = 2588
+            talker[6] = 1164
             message[0] = "* I'm still waiting on#  the new security budget#  so in the meantime..."
             message[1] = "* ...I decided to move#  the lab cameras to#  Waterfall."
             message[2] = "* Waterfall?"
@@ -59,13 +59,13 @@ switch scene
         }
         break
     case 7:
-        cutscene_npc_walk(2587, -40, obj_alphys_npc.y, 3, "x", "left")
+        cutscene_npc_walk(2588, -40, obj_alphys_npc.y, 3, "x", "left")
         break
     case 8:
         cutscene_wait(1.5)
         break
     case 9:
-        cutscene_npc_action_sprite(1163, 1727, 1, 1, 0)
+        cutscene_npc_action_sprite(1164, 1727, 1, 1, 0)
         break
     case 10:
         cutscene_wait(1.5)
@@ -74,7 +74,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* ..."
             prt[0] = 315
         }
@@ -93,7 +93,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Deep breaths, Martlet."
             message[1] = "* Deep breaths..."
         }

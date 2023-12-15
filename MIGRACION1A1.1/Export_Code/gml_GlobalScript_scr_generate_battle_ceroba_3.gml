@@ -2,6 +2,7 @@ function scr_generate_battle_ceroba_3() //gml_Script_scr_generate_battle_ceroba_
 {
     if live_call()
         return global.live_result;
+    global.current_hp_self = global.max_hp_self
     global.battle_enemy_name_1 = "ceroba"
     global.battle_menu_number = 1
     global.speed_self = 4

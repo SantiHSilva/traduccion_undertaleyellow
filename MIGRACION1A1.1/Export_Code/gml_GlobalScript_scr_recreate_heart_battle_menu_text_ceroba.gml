@@ -6,7 +6,7 @@ function scr_recreate_heart_battle_menu_text_ceroba() //gml_Script_scr_recreate_
     else if (last_text_move_select == 0)
     {
         instance_create((obj_dialogue_box_battle.x + 20), (obj_dialogue_box_battle.x + 20), obj_dialogue_battle_move_select_intro)
-        text_deadlock_contents_1 = 3003
+        text_deadlock_contents_1 = 3004
         text_deadlock_1 = 1
     }
     else
@@ -47,7 +47,7 @@ function scr_recreate_heart_battle_menu_text_ceroba() //gml_Script_scr_recreate_
                 break
         }
 
-        text_deadlock_contents_1 = 3019
+        text_deadlock_contents_1 = 3020
         text_deadlock_1 = 1
     }
 }

@@ -39,7 +39,7 @@ else if (global.snowdin_flag[8] == 5)
         with (msg)
         {
             portrait = 0
-            talker[0] = 1433
+            talker[0] = 1434
             message[0] = "* You spreadin' the word of the#  Shufflers reign yet?"
             message[1] = "* It's pretty nice knowin' we got#  someone out there, ya know?"
             message[2] = "* It's stressful, havin' to run#  the gang an' run our publicity#  too."

@@ -15,7 +15,7 @@ switch scene
         }
         break
     case 2:
-        cutscene_npc_walk(1167, 160, 420, 3, "y", "up")
+        cutscene_npc_walk(1168, 160, 420, 3, "y", "up")
         break
     case 3:
         cutscene_wait(0.5)
@@ -40,7 +40,7 @@ switch scene
             prt[2] = 3090
             prt[3] = 3597
             prt[4] = 3557
-            talker[0] = 958
+            talker[0] = 959
             position = 0
         }
         break
@@ -48,7 +48,7 @@ switch scene
         cutscene_wait(1)
         break
     case 8:
-        cutscene_npc_walk(958, 160, 288, 1, "x", "right")
+        cutscene_npc_walk(959, 160, 288, 1, "x", "right")
         break
     case 9:
         cutscene_wait(0.25)
@@ -69,7 +69,7 @@ switch scene
             prt[0] = 3557
             prt[1] = 3597
             prt[2] = 3107
-            talker[0] = 958
+            talker[0] = 959
             position = 0
         }
         break
@@ -86,7 +86,7 @@ switch scene
             prt[0] = 1923
             prt[1] = 3107
             prt[2] = 3090
-            talker[0] = 958
+            talker[0] = 959
             position = 0
         }
         break
@@ -104,7 +104,7 @@ switch scene
             message[1] = "* I am sorry."
             prt[0] = 3090
             prt[1] = 3597
-            talker[0] = 958
+            talker[0] = 959
             position = 0
         }
         break
@@ -133,7 +133,7 @@ switch scene
             prt[6] = 3597
             prt[7] = 3597
             prt[8] = 3557
-            talker[0] = 958
+            talker[0] = 959
             position = 0
         }
         break
@@ -154,7 +154,7 @@ switch scene
             prt[0] = 3090
             prt[1] = 3107
             prt[2] = 3090
-            talker[0] = 958
+            talker[0] = 959
             position = 0
         }
         break
@@ -171,7 +171,7 @@ switch scene
         {
             message[0] = "* Your fate was sealed#  the moment you entered#  my kingdom."
             prt[0] = 1703
-            talker[0] = 958
+            talker[0] = 959
             position = 0
         }
         break
@@ -179,7 +179,7 @@ switch scene
         cutscene_wait(0.5)
         break
     case 26:
-        cutscene_npc_action_sprite(958, 3197, 1, 1, 0, 658, 6)
+        cutscene_npc_action_sprite(959, 3197, 1, 1, 0, 658, 6)
         obj_asgore_npc.image_speed = 1
         darken_target = 0.6
         break
@@ -193,7 +193,7 @@ switch scene
             prt[0] = 1703
             prt[1] = 1703
             prt[2] = 1703
-            talker[0] = 958
+            talker[0] = 959
             position = 0
         }
         break
@@ -202,7 +202,7 @@ switch scene
         break
     case 29:
         if (obj_asgore_npc.sprite_index != spr_asgore_throw)
-            cutscene_npc_action_sprite(958, 3615, 1, 1, 0)
+            cutscene_npc_action_sprite(959, 3615, 1, 1, 0)
         if (obj_asgore_npc.image_index >= 12 && (!instance_exists(obj_asgore_trident)))
         {
             instance_create_depth((obj_asgore_npc.x + 20), (obj_asgore_npc.y - 4), -100, obj_asgore_trident)
@@ -210,7 +210,7 @@ switch scene
             obj_asgore_trident.vspeed = 6
         }
         if (obj_player_npc.sprite_index != spr_clover_geno_summon)
-            cutscene_npc_action_sprite(1167, 190, 1, 1, 0)
+            cutscene_npc_action_sprite(1168, 190, 1, 1, 0)
         if (obj_player_npc.image_index >= 7)
             obj_player_npc.image_speed = 0
         if (instance_exists(obj_asgore_trident) && obj_asgore_trident.bbox_bottom >= (obj_player_npc.bbox_top - 12))
@@ -250,7 +250,7 @@ switch scene
         {
             message[0] = "* !"
             prt[0] = 64
-            talker[0] = 958
+            talker[0] = 959
             position = 0
             skippable = 0
         }
@@ -263,7 +263,7 @@ switch scene
         break
     case 33:
         obj_player_npc.image_speed = 1
-        cutscene_npc_action_sprite(1167, 190, 1, 1, 0)
+        cutscene_npc_action_sprite(1168, 190, 1, 1, 0)
         charge_time = 110
         charge_time_max = 110
         is_charged = 0
@@ -315,7 +315,7 @@ switch scene
             cutscene_wait(1.5)
         break
     case 38:
-        cutscene_npc_action_sprite(1167, 75, 1, 0)
+        cutscene_npc_action_sprite(1168, 75, 1, 0)
         break
     case 39:
         if cutscene_wait(2)
@@ -326,7 +326,7 @@ switch scene
         cutscene_camera_move(obj_player_npc.x, obj_asgore_soul.y, 1, 0)
         break
     case 41:
-        cutscene_npc_walk(1167, obj_player_npc.x, (obj_asgore_soul.y + 40), 1, "y", "up")
+        cutscene_npc_walk(1168, obj_player_npc.x, (obj_asgore_soul.y + 40), 1, "y", "up")
         break
     case 42:
         cutscene_wait(1.5)
@@ -345,8 +345,8 @@ switch scene
         break
     case 46:
         if (obj_pl.y < 300)
-            cutscene_camera_move(1167, 120, 1, 1)
-        cutscene_npc_walk(1167, 160, 120, 1, "x", "up")
+            cutscene_camera_move(1168, 120, 1, 1)
+        cutscene_npc_walk(1168, 160, 120, 1, "x", "up")
         break
     case 47:
         cutscene_wait(1)

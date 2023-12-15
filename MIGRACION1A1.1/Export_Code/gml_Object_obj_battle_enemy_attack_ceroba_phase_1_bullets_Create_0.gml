@@ -5,4 +5,4 @@ ds_list_add(bullet_list, "left", "middle", "right")
 alarm[0] = 30
 bullet_offset = 15
 wave_number = 0
-battle_box = 3153
+battle_box = 3154

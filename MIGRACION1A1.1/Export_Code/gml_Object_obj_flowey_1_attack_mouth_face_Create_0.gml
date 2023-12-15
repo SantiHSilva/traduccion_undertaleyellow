@@ -6,4 +6,4 @@ cutscene_timer = 0
 pellet_spawn_noloop = 0
 image_speed = 1.2
 image_index = 12
-var box = 3153
+var box = 3154

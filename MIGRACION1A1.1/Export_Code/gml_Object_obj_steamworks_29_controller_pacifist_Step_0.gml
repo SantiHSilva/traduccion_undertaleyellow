@@ -35,7 +35,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* What was that?"
             prt[0] = 381
         }
@@ -199,7 +199,7 @@ switch scene
         }
         break
     case 26:
-        cutscene_action_sprite(779, 3630, 1, 0, 0)
+        cutscene_action_sprite(780, 3630, 1, 0, 0)
         break
     case 27:
         obj_steamworks_29_gardener_bot.sprite_index = spr_steamworks_29_gardener_bot_idle
@@ -272,7 +272,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* ..."
             message[1] = "* ..."
             message[2] = "* Let's... keep moving."
@@ -286,7 +286,7 @@ switch scene
         cutscene_camera_move(obj_pl.x, obj_pl.y, 2)
         break
     case 38:
-        if cutscene_npc_walk(1160, obj_pl.x, (obj_pl.y + 20), 2, "x", "up")
+        if cutscene_npc_walk(1161, obj_pl.x, (obj_pl.y + 20), 2, "x", "up")
         {
             cutscene_actor_into_follower()
             cutscene_advance(39)
@@ -295,7 +295,7 @@ switch scene
     case 39:
         scr_radio_restart()
         global.sworks_flag[20] = 2
-        camera_set_view_target(view_camera[0], 1030)
+        camera_set_view_target(view_camera[0], 1031)
         instance_destroy(obj_steamworks_29_gardener_bot)
         cutscene_end()
         audio_sound_pitch(snd_talk_axis, 1)
@@ -307,7 +307,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* ..."
             message[1] = "* Surely..."
             message[2] = "* There had to be some#  other way..."
@@ -327,14 +327,14 @@ switch scene
         break
     case 42:
         obj_pl.direction = 90
-        global.party_member = 1170
+        global.party_member = 1171
         cutscene_actor_into_follower()
         break
     case 43:
         scr_radio_restart()
         global.sworks_flag[20] = 4
         global.sworks_flag[41] = 1
-        camera_set_view_target(view_camera[0], 1030)
+        camera_set_view_target(view_camera[0], 1031)
         cutscene_end()
         audio_sound_pitch(snd_talk_axis, 1)
         break

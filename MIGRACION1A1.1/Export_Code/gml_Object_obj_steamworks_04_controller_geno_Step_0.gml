@@ -17,7 +17,7 @@ if (global.sworks_flag[0] == 0)
             }
             break
         case 1:
-            cutscene_npc_walk(1167, 224, obj_player_npc.y, 3, "x", "up")
+            cutscene_npc_walk(1168, 224, obj_player_npc.y, 3, "x", "up")
             break
         case 2:
             cutscene_wait(1)
@@ -32,13 +32,13 @@ if (global.sworks_flag[0] == 0)
             break
         case 5:
             obj_flowey_npc.image_alpha = 1
-            cutscene_npc_action_sprite(3193, 242, 0.2, 0)
+            cutscene_npc_action_sprite(3194, 242, 0.2, 0)
             break
         case 6:
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 3193
+                talker[0] = 3194
                 message[0] = "* Howdy!"
                 message[1] = "* This area seems totally#  abandoned."
                 message[2] = "* Guess there's no more#  need for fighting. Real#  shame."
@@ -63,7 +63,7 @@ if (global.sworks_flag[0] == 0)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 3193
+                talker[0] = 3194
                 message[0] = "* A generator, huh?"
                 message[1] = "* There's probably some#  way to turn it back on#  around he"
                 prt[0] = 353
@@ -73,7 +73,7 @@ if (global.sworks_flag[0] == 0)
             }
             break
         case 12:
-            cutscene_npc_action_sprite(1167, 3313, 1, 0)
+            cutscene_npc_action_sprite(1168, 3313, 1, 0)
             if (obj_player_npc.image_index >= 8 && (!instance_exists(obj_steamworks_04_generator_screen_geno)))
             {
                 audio_play_sound(snd_shotstrong, 1, false)
@@ -96,13 +96,13 @@ if (global.sworks_flag[0] == 0)
             break
         case 15:
             obj_player_npc.image_speed = 1
-            cutscene_npc_action_sprite(1167, 3313, 1, 0)
+            cutscene_npc_action_sprite(1168, 3313, 1, 0)
             break
         case 16:
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 3193
+                talker[0] = 3194
                 message[0] = "* Oh, come on! Again??"
                 message[1] = "* Hate to rock your world#  but bullets aren't the#  answer to everything!"
                 message[2] = "* Would it kill you to#  think before shooting at#  your problems?"
@@ -115,7 +115,7 @@ if (global.sworks_flag[0] == 0)
             cutscene_wait(1)
             break
         case 18:
-            cutscene_npc_walk(1167, obj_player_npc.x, 400, 1, "y", "up")
+            cutscene_npc_walk(1168, obj_player_npc.x, 400, 1, "y", "up")
             break
         case 19:
             cutscene_wait(0.5)
@@ -124,7 +124,7 @@ if (global.sworks_flag[0] == 0)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 3193
+                talker[0] = 3194
                 message[0] = "* Hey, it's just a#  pattern I've noticed#  recently!"
                 message[1] = "* You've already solved#  tons of puzzles on our#  journey."
                 message[2] = "* I was only curious why#  your patience has worn#  so thin!"
@@ -136,7 +136,7 @@ if (global.sworks_flag[0] == 0)
             }
             break
         case 21:
-            cutscene_npc_walk(1167, 198, 384, 3, "x", "up")
+            cutscene_npc_walk(1168, 198, 384, 3, "x", "up")
             break
         case 22:
             cutscene_wait(1.5)
@@ -147,7 +147,7 @@ if (global.sworks_flag[0] == 0)
                 obj_flowey_npc.npc_direction = "up"
                 cutscene_camera_move(220, 120, 1, 1)
             }
-            cutscene_npc_walk(1167, 96, 190, 3, "x", "up", 0, 220, 128)
+            cutscene_npc_walk(1168, 96, 190, 3, "x", "up", 0, 220, 128)
             break
         case 24:
             cutscene_wait(1.5)
@@ -160,7 +160,7 @@ if (global.sworks_flag[0] == 0)
             break
         case 26:
             obj_flowey_npc.image_alpha = 1
-            cutscene_npc_action_sprite(3193, 3745, 1, 0)
+            cutscene_npc_action_sprite(3194, 3745, 1, 0)
             break
         case 27:
             cutscene_wait(1)
@@ -169,7 +169,7 @@ if (global.sworks_flag[0] == 0)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 3193
+                talker[0] = 3194
                 message[0] = "* Heh, I'm afraid that#  door is far too thick to#  shoot down."
                 message[1] = "* Looks like you'll have#  to stick with my#  original plan of"
                 prt[0] = 347
@@ -179,7 +179,7 @@ if (global.sworks_flag[0] == 0)
             }
             break
         case 29:
-            cutscene_npc_action_sprite(1167, 2732, 1, 1, 0)
+            cutscene_npc_action_sprite(1168, 2732, 1, 1, 0)
             break
         case 30:
             cutscene_wait(0.5)
@@ -188,7 +188,7 @@ if (global.sworks_flag[0] == 0)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 3193
+                talker[0] = 3194
                 message[0] = "* ...What?"
                 message[1] = "* Me?"
                 message[2] = "* You've found yourself#  some nerve, haven't you?"
@@ -198,7 +198,7 @@ if (global.sworks_flag[0] == 0)
             }
             break
         case 32:
-            cutscene_npc_action_sprite(1167, 2943, 1, 1, 0)
+            cutscene_npc_action_sprite(1168, 2943, 1, 1, 0)
             break
         case 33:
             cutscene_wait(0.5)
@@ -207,14 +207,14 @@ if (global.sworks_flag[0] == 0)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 3193
+                talker[0] = 3194
                 message[0] = "* ...Fine."
                 prt[0] = 353
             }
             break
         case 35:
             obj_player_npc.action_sprite = 0
-            cutscene_action_sprite(1982, 987, 1, 1, 0, 537, 0)
+            cutscene_action_sprite(1983, 987, 1, 1, 0, 537, 0)
             break
         case 36:
             obj_steamworks_04_door.sprite_index = spr_steamworks_04_door
@@ -229,7 +229,7 @@ if (global.sworks_flag[0] == 0)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 3193
+                talker[0] = 3194
                 message[0] = "* There. Your exit, my#  king."
                 prt[0] = 349
             }
@@ -238,7 +238,7 @@ if (global.sworks_flag[0] == 0)
             cutscene_wait(0.5)
             break
         case 40:
-            cutscene_npc_action_sprite(1167, 3340, 1, 1, 0)
+            cutscene_npc_action_sprite(1168, 3340, 1, 1, 0)
             break
         case 41:
             cutscene_wait(0.5)
@@ -247,7 +247,7 @@ if (global.sworks_flag[0] == 0)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 3193
+                talker[0] = 3194
                 message[0] = "* Did you forget my#  warning when you started#  down this road?"
                 message[1] = "* I'm in control here."
                 message[2] = "* That hasn't and won't#  change, got it?"
@@ -270,7 +270,7 @@ if (global.sworks_flag[0] == 0)
             cutscene_wait(0.5)
             break
         case 45:
-            if cutscene_npc_action_sprite(3193, 245, 0.2, 0)
+            if cutscene_npc_action_sprite(3194, 245, 0.2, 0)
                 instance_destroy(obj_flowey_npc)
             break
         case 46:
@@ -284,7 +284,7 @@ if (global.sworks_flag[0] == 0)
             cutscene_camera_reset(1)
             global.sworks_flag[0] = 1
             global.sworks_flag[1] = 2
-            instance_destroy(103964)
+            instance_destroy(103965)
             cutscene_end()
             break
     }
@@ -295,7 +295,7 @@ if (global.sworks_flag[1] == 3)
     switch scene
     {
         case 0:
-            __view_set((9 << 0), 0, 1977)
+            __view_set((9 << 0), 0, 1978)
             obj_steamworks_04_generator.image_speed = 0
             obj_steamworks_04_generator.sprite_index = spr_steamworks_04_generator_pink
             cutscene_advance()

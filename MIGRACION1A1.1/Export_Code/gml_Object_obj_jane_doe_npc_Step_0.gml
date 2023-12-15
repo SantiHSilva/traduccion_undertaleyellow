@@ -21,7 +21,7 @@ if interact
                 message[8] = "* Throughout history, a few#  strange stories have popped up."
                 message[9] = "* Doors appearing out of#  nowhere..."
                 message[10] = "* Impossible geography..."
-                message[11] = "* Monster's straying from a set#  path and losing their sense of#  direction..."
+                message[11] = "* Monsters straying from a set#  path and losing their sense of#  direction..."
                 message[12] = "* Wild stuff."
                 message[13] = "* I'm the type that needs hard#  evidence to believe something."
                 message[14] = "* But that doesn't mean it didn't#  pique my curiosity."

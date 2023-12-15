@@ -1,4 +1,4 @@
-var starlo = 1168
+var starlo = 1169
 if starlo.interact
     other.scene++
 switch scene

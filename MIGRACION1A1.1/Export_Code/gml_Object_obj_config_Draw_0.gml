@@ -28,6 +28,14 @@ if (position == 5)
     draw_set_color(c_yellow)
 draw_text(xx, (__view_get((1 << 0), 0) + 175), string_hash_to_newline(string("AUTO-FIRE toggle ({0}):", global.pause_key)))
 draw_set_color(c_white)
+if (position == 6)
+    draw_set_color(c_yellow)
+draw_text(xx, (__view_get((1 << 0), 0) + 190), string_hash_to_newline("AUTO-RHYTHM"))
+draw_set_color(c_white)
+if (position == 7)
+    draw_set_color(c_yellow)
+draw_text(xx, (__view_get((1 << 0), 0) + 205), string_hash_to_newline("EASY MODE"))
+draw_set_color(c_white)
 if (position == 1)
     draw_set_color(c_yellow)
 draw_text(xx, (__view_get((1 << 0), 0) + 79), string_hash_to_newline("Joystick Config"))
@@ -54,3 +62,13 @@ if global.option_autoshoot
 else
     option = "OFF"
 draw_text((xx + 180), (__view_get((1 << 0), 0) + 175), string_hash_to_newline(option))
+if global.option_autorhythm
+    option = "ON"
+else
+    option = "OFF"
+draw_text((xx + 180), (__view_get((1 << 0), 0) + 190), string_hash_to_newline(option))
+if global.option_easymode
+    option = "ON"
+else
+    option = "OFF"
+draw_text((xx + 180), (__view_get((1 << 0), 0) + 205), string_hash_to_newline(option))

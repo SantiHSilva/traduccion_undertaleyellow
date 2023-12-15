@@ -14,7 +14,7 @@ switch scene
             ch_msg = 16
             ch[1] = "Yes"
             ch[2] = "No"
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Ouch... Can't say I was#  prepared for that."
             message[1] = "* I knew my husband was#  an engineer but he never#  told me about that guy."
             message[2] = "* He'd mention a robotics#  project that could net#  him a promotion but..."
@@ -72,7 +72,7 @@ switch scene
         }
         break
     case 2:
-        cutscene_npc_walk(1160, 105, 125, 3, "x", "down")
+        cutscene_npc_walk(1161, 105, 125, 3, "x", "down")
         break
     case 3:
         global.sworks_flag[3] = 1
@@ -86,7 +86,7 @@ switch scene
             scr_text()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* Find anything that looks#  like a makeshift body#  part."
                 message[1] = "* I don't know, be#  creative."
                 prt[0] = 370
@@ -115,7 +115,7 @@ switch scene
                 case 0:
                     with (msg)
                     {
-                        talker[0] = 1160
+                        talker[0] = 1161
                         message[0] = "* You want to use this?"
                         prt[0] = 370
                         ch_msg = 0
@@ -126,7 +126,7 @@ switch scene
                 case 1:
                     with (msg)
                     {
-                        talker[0] = 1160
+                        talker[0] = 1161
                         message[0] = "* You think this'll work?"
                         prt[0] = 370
                         ch_msg = 0
@@ -137,7 +137,7 @@ switch scene
                 case 2:
                     with (msg)
                     {
-                        talker[0] = 1160
+                        talker[0] = 1161
                         message[0] = "* Is this a good pick?"
                         prt[0] = 370
                         ch_msg = 0
@@ -148,7 +148,7 @@ switch scene
                 case 3:
                     with (msg)
                     {
-                        talker[0] = 1160
+                        talker[0] = 1161
                         message[0] = "* Is this your final#  choice?"
                         prt[0] = 370
                         ch_msg = 0
@@ -200,7 +200,7 @@ switch scene
             case 1:
                 with (msg)
                 {
-                    talker[0] = 1160
+                    talker[0] = 1161
                     message[0] = "* Okay, we'll need three#  more objects."
                     prt[0] = 370
                 }
@@ -208,7 +208,7 @@ switch scene
             case 2:
                 with (msg)
                 {
-                    talker[0] = 1160
+                    talker[0] = 1161
                     message[0] = "* Alright, two more and#  we can make this thing."
                     prt[0] = 370
                 }
@@ -216,7 +216,7 @@ switch scene
             case 3:
                 with (msg)
                 {
-                    talker[0] = 1160
+                    talker[0] = 1161
                     message[0] = "* One more object should#  do the trick."
                     prt[0] = 370
                 }
@@ -224,7 +224,7 @@ switch scene
             case 4:
                 with (msg)
                 {
-                    talker[0] = 1160
+                    talker[0] = 1161
                     message[0] = "* Okay, let's build a#  robot!"
                     prt[0] = 372
                 }
@@ -354,7 +354,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* That takes care of#  that."
             message[1] = "* You're kinda creative#  when push comes to#  shove."
             message[2] = "* All due respect to#  Chujin's work but this#  might just fool Axis."
@@ -366,7 +366,7 @@ switch scene
         }
         break
     case 12:
-        cutscene_npc_walk(1160, 110, 160, 3, "x", "up")
+        cutscene_npc_walk(1161, 110, 160, 3, "x", "up")
         break
     case 13:
         obj_ceroba_npc.action_sprite = 1
@@ -393,13 +393,13 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Let's get outta here,#  yeah?"
             prt[0] = 370
         }
         break
     case 19:
-        cutscene_npc_walk(1160, (obj_pl.x - 30), obj_pl.y, 3, "y", "right")
+        cutscene_npc_walk(1161, (obj_pl.x - 30), obj_pl.y, 3, "y", "right")
         obj_pl.direction = 0
         break
     case 20:

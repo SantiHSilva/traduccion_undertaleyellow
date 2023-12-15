@@ -11,14 +11,14 @@ switch scene
         }
         break
     case 1:
-        cutscene_npc_walk(1167, obj_martlet_npc.x, obj_pl.y, 3, "x", "up")
+        cutscene_npc_walk(1168, obj_martlet_npc.x, obj_pl.y, 3, "x", "up")
         break
     case 2:
         if cutscene_wait(1.5)
             cutscene_advance(2.5)
         break
     case 2.5:
-        if cutscene_npc_walk(1167, obj_martlet_npc.x, (obj_martlet_npc.y + 60), 1, "x", "up")
+        if cutscene_npc_walk(1168, obj_martlet_npc.x, (obj_martlet_npc.y + 60), 1, "x", "up")
             cutscene_advance(3)
         break
     case 3:
@@ -45,7 +45,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             position = 0
             message[0] = "* Ah, you got my message!#  Great!"
             prt[0] = 328
@@ -70,7 +70,7 @@ switch scene
         {
             color = 1
             col_modif[0] = 16776960
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* What a view..."
             message[1] = "* That large facility in#  front of us is the#  CORE..."
             message[2] = "* ...The main source of#  power for the#  Underground."
@@ -97,7 +97,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Look, I haven't been#  100% honest with you..."
             message[1] = "* My whole life, I was#  taught that humans are#  the enemy."
             message[2] = "* But you... you never#  really came across as#  such. "
@@ -114,13 +114,13 @@ switch scene
         cutscene_wait(0.5)
         break
     case 20:
-        cutscene_npc_action_sprite(1163, 225, 1, 1, 0)
+        cutscene_npc_action_sprite(1164, 225, 1, 1, 0)
         break
     case 21:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* I had this backup plan#  in case you started a#  rampage but..."
             message[1] = "* ...you never did."
             prt[0] = 317
@@ -132,7 +132,7 @@ switch scene
         cutscene_wait(0.25)
         break
     case 23:
-        if cutscene_npc_action_sprite(1163, 3670, 1, 1, 0)
+        if cutscene_npc_action_sprite(1164, 3670, 1, 1, 0)
         {
             obj_martlet_npc.action_sprite = 0
             cutscene_music_start(296)
@@ -151,7 +151,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Phew... that feels#  liberating."
             message[1] = "* I'm so sorry for keeping#  that from you. You're a#  good kid."
             message[2] = "* Even so, there's another#  problem..."
@@ -181,7 +181,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* ..."
             message[1] = "* I know this isn't the#  path you intended but..."
             message[2] = "* Let's... put all this#  behind us."
@@ -217,7 +217,7 @@ switch scene
                 scr_audio_fade_out(mus_acquittal, 1000)
         }
     case 28:
-        cutscene_npc_walk_relative(1163, 0, 20, 1, "y", "down")
+        cutscene_npc_walk_relative(1164, 0, 20, 1, "y", "down")
         break
     case 29:
         cutscene_instance_create(obj_martlet_npc.x, obj_martlet_npc.y, obj_hotland_roof_martlet_vine)
@@ -253,7 +253,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* You gotta be kidding me!"
             message[1] = "* I just knew something#  like this would happen!"
             message[2] = "* And after all we've been#  through..."
@@ -311,7 +311,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Nuh-uh-uh!"
             message[1] = "* Trigger-happy are we?"
             message[2] = "* I think you forgot who's#  in charge here."
@@ -343,7 +343,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* We had a nice run,#  didn't we?"
             prt[0] = 348
         }
@@ -360,14 +360,14 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Too bad I won't#  miss it."
             prt[0] = 2165
             sndfnt = 664
         }
         break
     case 49:
-        if cutscene_npc_action_sprite(3193, 3150, 1, 1, 1)
+        if cutscene_npc_action_sprite(3194, 3150, 1, 1, 1)
         {
             obj_flowey_npc.action_sprite_stop = 0
             obj_flowey_npc.action_sprite = 1
@@ -664,7 +664,7 @@ if (scene >= 50 && scene <= 53 && (!audio_is_playing(snd_flowey_laugh)))
 {
     if (obj_flowey_npc.sprite_index == spr_flowey_laughs || obj_flowey_npc.sprite_index == spr_flowey_rooftop_grows)
     {
-        if cutscene_npc_action_sprite_reverse(3193, 3150, 1, 0)
+        if cutscene_npc_action_sprite_reverse(3194, 3150, 1, 0)
             scene -= 1
     }
 }

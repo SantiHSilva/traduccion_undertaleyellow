@@ -32,5 +32,5 @@ else if instance_exists(obj_target_bar_battle)
 {
     with (obj_target_bar_battle)
         can_execute = 1
-    multishot_id = 2855
+    multishot_id = 2856
 }

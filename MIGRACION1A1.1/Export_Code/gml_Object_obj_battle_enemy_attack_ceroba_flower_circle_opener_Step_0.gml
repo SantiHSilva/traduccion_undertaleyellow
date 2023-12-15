@@ -100,7 +100,7 @@ switch scene
             var vsp = (move_y * walk_speed)
             if (vsp == 0 && hsp == 0)
                 vsp = (-1 * walk_speed)
-            var battle_box = 3153
+            var battle_box = 3154
             with (obj_heart_battle_fighting_yellow_final)
             {
                 can_cancel_dash = 0

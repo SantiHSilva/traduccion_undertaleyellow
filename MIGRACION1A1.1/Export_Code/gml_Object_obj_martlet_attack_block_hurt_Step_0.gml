@@ -1,6 +1,6 @@
 if live_call()
     return global.live_result;
-var battle_box = 3153
+var battle_box = 3154
 if (y > (battle_box.bbox_bottom + 10))
 {
     image_alpha -= 0.2

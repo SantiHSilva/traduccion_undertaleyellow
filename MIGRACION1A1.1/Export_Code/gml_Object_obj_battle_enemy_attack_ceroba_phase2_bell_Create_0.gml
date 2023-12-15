@@ -11,3 +11,5 @@ bullet_hit_points = 1
 bullet_hit_draw_timer = 0
 bullet_destroy_self = 0
 fall_delay = 30
+if (global.hotland_flag[2] == 3)
+    fall_delay = 15

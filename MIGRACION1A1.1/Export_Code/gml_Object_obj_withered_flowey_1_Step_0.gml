@@ -38,7 +38,7 @@ switch scene
     case 8:
         if (obj_pl.x > camera_get_view_x((view_camera[0] + 160)))
         {
-            camera_set_view_target(view_camera[0], 1030)
+            camera_set_view_target(view_camera[0], 1031)
             instance_destroy()
         }
         break

@@ -12,20 +12,20 @@ switch scene
         }
         break
     case 1:
-        cutscene_npc_walk(1167, 390, obj_player_npc.y, 1, "x", "up")
+        cutscene_npc_walk(1168, 390, obj_player_npc.y, 1, "x", "up")
         cutscene_advance()
         break
     case 2:
         cutscene_wait(0.5)
         break
     case 3:
-        cutscene_npc_walk(1163, 390, 160, 3, "y", "up")
+        cutscene_npc_walk(1164, 390, 160, 3, "y", "up")
         break
     case 4:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Wait."
             message[1] = "* Before we enter, I just#  wanna say..."
             message[2] = "* Thanks for today."
@@ -61,7 +61,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Well..."
             message[1] = "* Guess it's time."
             message[2] = "* Just follow my lead."
@@ -74,10 +74,10 @@ switch scene
         cutscene_wait(0.5)
         break
     case 8:
-        cutscene_npc_walk_relative(1167, 20, 0, 2, "x", "down")
+        cutscene_npc_walk_relative(1168, 20, 0, 2, "x", "down")
         break
     case 9:
-        cutscene_npc_walk(1163, obj_martlet_npc.x, obj_player_npc.y, 2, "y", "right")
+        cutscene_npc_walk(1164, obj_martlet_npc.x, obj_player_npc.y, 2, "y", "right")
         if (obj_martlet_npc.y < (obj_player_npc.y + 20))
             obj_player_npc.npc_direction = "left"
         break
@@ -85,7 +85,7 @@ switch scene
         cutscene_wait(0.75)
         break
     case 11:
-        cutscene_npc_walk(1163, obj_martlet_npc.x, 106, 1, "y", "up")
+        cutscene_npc_walk(1164, obj_martlet_npc.x, 106, 1, "y", "up")
         cutscene_advance()
         break
     case 12:
@@ -98,7 +98,7 @@ switch scene
             cutscene_advance()
         break
     case 13:
-        cutscene_npc_walk(1167, obj_martlet_npc.x, 106, 1, "x", "up")
+        cutscene_npc_walk(1168, obj_martlet_npc.x, 106, 1, "x", "up")
         break
     case 14:
         obj_player_npc.image_alpha -= 0.1

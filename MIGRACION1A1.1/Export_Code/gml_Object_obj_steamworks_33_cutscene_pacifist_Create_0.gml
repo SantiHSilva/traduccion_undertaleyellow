@@ -6,6 +6,6 @@ if (global.sworks_flag[28] == 1)
 if (global.sworks_flag[28] >= 2)
 {
     obj_steamworks_33_bridge.x = 0
-    instance_destroy(105662)
+    instance_destroy(105663)
     return;
 }

@@ -19,7 +19,7 @@ switch scene
             sndfnt = 102
             message[0] = "* Huh? Hang on, I think#  someone's coming this#  way."
             prt[0] = 333
-            talker[0] = 1169
+            talker[0] = 1170
         }
         if (!global.dialogue_open)
             scene++
@@ -408,7 +408,7 @@ switch scene
             color = 1
             col_modif[0] = make_color_rgb(255, 205, 107)
             sndfnt = 107
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* The name's North Star.#  I run this town."
             message_col[0][0] = "             North Star                    "
             message[1] = "* Not alone, of course."
@@ -658,7 +658,7 @@ switch scene
             sndfnt = 107
             message[0] = "* Justice!"
             message[1] = "* ..."
-            talker[1] = 1168
+            talker[1] = 1169
             message[2] = "* The J is silent."
             message[3] = "* Anyway,"
             message[4] = "* Now that we're#  introduced..."
@@ -724,7 +724,7 @@ switch scene
         with (msg)
         {
             sndfnt = 107
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* I knew it!"
             message[1] = "* There ain't no doubt in#  my mind!"
             message[2] = "* That this kid is a real,#  living, authentic human!"
@@ -858,7 +858,7 @@ switch scene
         with (msg)
         {
             sndfnt = 107
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* Ah, Clover, is it?#  That's a mighty fine#  name!"
             message[1] = "* To answer yer question,#  Feathers, Clover and I#  got a town to run!"
             prt[0] = 407
@@ -888,7 +888,7 @@ switch scene
         with (msg)
         {
             sndfnt = 107
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* Ye're Royal Guard? "
             message[1] = "* That's funny, 'cuz I#  don't see anythin' to#  indicate that."
             message[2] = "* No armor? Weapon? Badge?"
@@ -928,7 +928,7 @@ switch scene
         with (msg)
         {
             sndfnt = 107
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* He's right."
             message[1] = "* I am truly sorry 'bout#  this, I really am."
             message[2] = "* But business is#  business."
@@ -961,7 +961,7 @@ switch scene
         with (msg)
         {
             sndfnt = 107
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* Shh."
             prt[0] = 412
         }
@@ -1032,7 +1032,7 @@ switch scene
         with (msg)
         {
             sndfnt = 107
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* Ahem!"
             message[1] = "* This town's FULL of#  excitement. Especially#  now."
             message[2] = "* Let's go, bud!"

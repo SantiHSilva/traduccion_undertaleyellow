@@ -1,7 +1,10 @@
 if live_call()
     return global.live_result;
-with (id_target)
-    instance_destroy()
+if (id_target != noone)
+{
+    with (id_target)
+        instance_destroy()
+}
 ds_list_destroy(x_list)
 ds_list_destroy(y_list)
 ds_list_destroy(angle_list)

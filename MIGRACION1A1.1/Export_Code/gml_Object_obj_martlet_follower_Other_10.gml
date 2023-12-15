@@ -215,11 +215,11 @@ if (global.dunes_flag[41] == 0)
             {
                 with (msg)
                 {
-                    talker[0] = 1169
-                    talker[2] = 1797
-                    talker[3] = 1169
-                    talker[4] = 1797
-                    talker[5] = 1169
+                    talker[0] = 1170
+                    talker[2] = 1798
+                    talker[3] = 1170
+                    talker[4] = 1798
+                    talker[5] = 1170
                     sndfnt_array[0] = 102
                     sndfnt_array[2] = 391
                     sndfnt_array[3] = 102

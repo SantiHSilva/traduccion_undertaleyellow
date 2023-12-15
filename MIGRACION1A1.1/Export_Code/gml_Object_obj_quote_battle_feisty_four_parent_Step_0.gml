@@ -39,21 +39,21 @@ else
                         event_user(0)
                     }
                     break
-                case 2663:
+                case 2664:
                     with (obj_enemy_controller_feisty_four)
                     {
                         case_exec = "T7 Vanish Ace"
                         event_user(0)
                     }
                     break
-                case 645:
+                case 646:
                     with (obj_enemy_controller_feisty_four)
                     {
                         case_exec = "T8 Appear Moray"
                         event_user(0)
                     }
                     break
-                case 257:
+                case 258:
                     with (obj_enemy_controller_feisty_four)
                     {
                         case_exec = "T9 Quote Mooch 1"
@@ -61,28 +61,28 @@ else
                         instance_destroy(other)
                         return;
                     }
-                case 874:
+                case 875:
                     with (obj_enemy_controller_feisty_four)
                     {
                         case_exec = "T9 Appear Mooch"
                         event_user(0)
                     }
                     break
-                case 1305:
+                case 1306:
                     with (obj_enemy_controller_feisty_four)
                     {
                         instance_create(0, 74, obj_quote_bubble_battle)
                         instance_create_depth(0, 0, -1000, obj_quote_battle_feisty_four_t10_starlo_1)
                     }
                     break
-                case 743:
+                case 744:
                     with (obj_enemy_controller_feisty_four)
                     {
                         instance_create(390, 74, obj_quote_bubble_battle_yellow_3)
                         instance_create_depth(0, 0, -1000, obj_quote_battle_feisty_four_t10_ed_2)
                     }
                     break
-                case 596:
+                case 597:
                     with (obj_enemy_controller_feisty_four)
                         instance_create(0, 0, obj_battle_fade_out_screen)
                     break

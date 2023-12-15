@@ -1,16 +1,23 @@
 if live_call()
     return global.live_result;
+if (instance_exists(obj_battle_enemy_attack_ceroba_phase_2_mask) && obj_battle_enemy_attack_ceroba_phase_2_mask.attack_stop == 1)
+    scene = 8
 var spawn_delay = 0
 var start_delay = 0.5
 var fire_count = 7
 var fire_distance = 60
 var moving_time = 1
 var pause_time = 0.75
-if (global.hotland_flag[2] >= 3)
+if (global.hotland_flag[2] == 2)
 {
     pause_time = 0.5
-    fire_count = 8
-    fire_distance = 80
+    fire_distance = 75
+}
+if (global.hotland_flag[2] == 3)
+{
+    pause_time = 0.2
+    fire_count = 9
+    fire_distance = 75
 }
 scr_enemy_attack_bullet_hit()
 if bullet_destroy_self
@@ -22,8 +29,13 @@ switch scene
 {
     case 0:
         image_alpha += 0.1
+        if (global.hotland_flag[2] >= 2)
+            image_alpha += 0.15
         if (image_alpha >= 1)
+        {
+            image_alpha = 1
             scene++
+        }
         break
     case 1:
         cutscene_wait(spawn_delay)
@@ -35,6 +47,8 @@ switch scene
             var yy = (y + lengthdir_y(fire_distance, i))
             fireball_array[fireball_current] = instance_create_depth(xx, yy, -100, obj_ceroba_attack_fireball)
             fireball_array[fireball_current].alarm[0] = (1 + (fireball_current * 3))
+            if (global.hotland_flag[2] >= 2)
+                fireball_array[fireball_current].alarm[0] = (1 + (fireball_current * 1))
             fireball_dir[fireball_current] = i
             fireball_current += 1
         }

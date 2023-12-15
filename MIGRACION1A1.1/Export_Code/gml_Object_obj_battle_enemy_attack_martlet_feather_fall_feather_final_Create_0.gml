@@ -43,7 +43,7 @@ switch random_number
 image_speed = 0
 image_index = 0
 image_alpha = 0
-var battle_box = 3153
+var battle_box = 3154
 if (x < battle_box.x)
     random_number = 1
 else

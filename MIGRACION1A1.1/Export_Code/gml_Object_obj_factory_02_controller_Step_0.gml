@@ -53,7 +53,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Uh, hello?"
             message[1] = "* Are you sentient or a#  pre-recording?"
             prt[0] = 381
@@ -74,7 +74,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Right..."
             message[1] = "* Can you unlock all the#  doors in this factory?"
             message[2] = "* We're in a hurry."
@@ -101,7 +101,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* What kind of policy is#  that???"
             prt[0] = 368
         }
@@ -121,7 +121,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Of course but I don't#  work here!"
             prt[0] = 384
         }
@@ -149,7 +149,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Fine, we'll do the job!"
             message[1] = "* Clover, this bot might#  have connections to#  Axis."
             message[2] = "* Seems we gotta do what#  it says to avoid#  unwanted attention."
@@ -212,7 +212,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Your machine's broken."
             message[1] = "* The second conveyor#  belt doesn't move."
             prt[0] = 377
@@ -238,7 +238,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* ...Yes?"
             message[1] = "* It's broke-"
             prt[0] = 371
@@ -267,7 +267,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* ..."
             message[1] = "* Screw this."
             prt[0] = 384
@@ -316,7 +316,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Clover, you box the#  goods and I'll toss 'em#  into the chute."
             message[1] = "* Teamwork, right? "
             message[2] = "* Something like that."
@@ -373,7 +373,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Hey alright! Good work,#  Clover!"
             message[1] = "* Onto whatever awaits us#  next..."
             prt[0] = 372
@@ -399,7 +399,7 @@ switch scene
         break
     case 59:
         instance_destroy(obj_camera)
-        camera_set_view_target(view_camera[0], 1030)
+        camera_set_view_target(view_camera[0], 1031)
         if (obj_steamworks_factory_02_face.sprite_index != spr_steamworks_38_face_talking)
         {
             obj_steamworks_factory_02_face.sprite_index = spr_steamworks_38_face_talking

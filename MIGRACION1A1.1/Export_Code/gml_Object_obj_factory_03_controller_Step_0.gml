@@ -28,7 +28,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* \"Metalworks Emergency Escape#  Plan (or MEEP):"
             message[1] = "* In case someone sets the room#  on fire, do not use the#  elevator."
             message[2] = "* Evacuate down to floor 01 or#  use a passcode to access floor#  03.\""
@@ -42,7 +42,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Uh huh..."
             message[1] = "* They REALLY locked this#  place up tight."
             message[2] = "* Well, if the code was#  found nearby on the#  first floor..."
@@ -79,8 +79,8 @@ switch scene
         cutscene_follower_into_actor()
         break
     case 14:
-        cutscene_npc_walk(1167, 370, 480, 2, "y", "down")
-        cutscene_npc_walk(1160, 390, 480, 2, "x", "down")
+        cutscene_npc_walk(1168, 370, 480, 2, "y", "down")
+        cutscene_npc_walk(1161, 390, 480, 2, "x", "down")
         scene++
         break
     case 15:
@@ -94,19 +94,19 @@ switch scene
         cutscene_music_start(219, 500)
         break
     case 18:
-        cutscene_npc_walk(1165, 370, 580, 3, "x", "up")
+        cutscene_npc_walk(1166, 370, 580, 3, "x", "up")
         break
     case 19:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
-            talker[1] = 1160
-            talker[3] = 1165
-            talker[4] = 1160
-            talker[5] = 1165
-            talker[7] = 1160
-            talker[8] = 1165
+            talker[0] = 1166
+            talker[1] = 1161
+            talker[3] = 1166
+            talker[4] = 1161
+            talker[5] = 1166
+            talker[7] = 1161
+            talker[8] = 1166
             message[0] = "* THERE YOU ARE."
             message[1] = "* No way..."
             message[2] = "* You seriously want to do#  this again?"
@@ -151,11 +151,11 @@ switch scene
         }
         break
     case 20:
-        cutscene_npc_walk(1165, 370, 530, 5, "x", "up")
+        cutscene_npc_walk(1166, 370, 530, 5, "x", "up")
         break
     case 21:
         audio_stop_sound(cutscene_music)
-        cutscene_npc_action_sprite(1165, 2118, 1, 1, 0, 272, 1)
+        cutscene_npc_action_sprite(1166, 2118, 1, 1, 0, 272, 1)
         with (obj_factory_wire)
         {
             if (sprite_index != spr_factory_03_axis_wire_disconnect)
@@ -173,8 +173,8 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
-            talker[1] = 1160
+            talker[0] = 1166
+            talker[1] = 1161
             message[0] = "* [shoot]"
             message[1] = "* (Pst, Clover!#  This way!)"
             prt[0] = 473
@@ -184,8 +184,8 @@ switch scene
     case 24:
         var scene_start = scene
         cutscene_camera_freeze()
-        cutscene_npc_walk(1167, 540, 480, 5, "y", "left")
-        cutscene_npc_walk(1160, 540, 480, 5, "x", "left")
+        cutscene_npc_walk(1168, 540, 480, 5, "y", "left")
+        cutscene_npc_walk(1161, 540, 480, 5, "x", "left")
         scene = (scene_start + 1)
         break
     case 25:
@@ -197,7 +197,7 @@ switch scene
         }
         break
     case 26:
-        cutscene_npc_reset_sprite(1165, "down")
+        cutscene_npc_reset_sprite(1166, "down")
         break
     case 27:
         cutscene_dialogue()
@@ -206,7 +206,7 @@ switch scene
             color = 1
             message_col[0][0] = ""
             col_modif[0] = 16711935
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* MY VISION..."
             message[1] = "* INITIATING 16-VOLT SUPER#  FLASHLIGHT_"
             message_col[1][0] = message[1]
@@ -237,7 +237,7 @@ switch scene
             color = 1
             message_col[0][0] = ""
             col_modif[0] = 16711935
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* 95% OF POWER UTILIZED_"
             message_col[0][0] = message[0]
             message[1] = "* TYPOGRAPHY BOX HINDERED_"
@@ -271,15 +271,15 @@ switch scene
         }
         break
     case 34:
-        cutscene_npc_walk(1165, 370, 760, 3, "y", "down")
+        cutscene_npc_walk(1166, 370, 760, 3, "y", "down")
         break
     case 35:
         cutscene_wait(0.5)
         break
     case 36:
         scene_start = scene
-        cutscene_npc_walk(1167, 470, 458, 4, "y", "right")
-        cutscene_npc_walk(1160, 500, 458, 3, "x", "left")
+        cutscene_npc_walk(1168, 470, 458, 4, "y", "right")
+        cutscene_npc_walk(1161, 500, 458, 3, "x", "left")
         scene = (scene_start + 1)
         break
     case 37:
@@ -296,7 +296,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* (Okay..)"
             message[1] = "* (We need to stay out of#  his view and keep#  quiet.)"
             message[2] = "* (There's gotta   "
@@ -351,7 +351,7 @@ switch scene
         }
         break
     case 42:
-        cutscene_npc_action_sprite(1160, 2611, 1, 1, 0)
+        cutscene_npc_action_sprite(1161, 2611, 1, 1, 0)
         break
     case 43:
         if cutscene_wait(2)
@@ -362,19 +362,19 @@ switch scene
             cutscene_advance(44)
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* ..."
             prt[0] = 3232
         }
         break
     case 44:
-        cutscene_npc_action_sprite(1160, 2892, 1, 1, 0)
+        cutscene_npc_action_sprite(1161, 2892, 1, 1, 0)
         break
     case 45:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* (As I was saying...)"
             message[1] = "* (There's gotta be a code#  around here.)"
             message[2] = "* (Once you find it, head#  for the exit.)"

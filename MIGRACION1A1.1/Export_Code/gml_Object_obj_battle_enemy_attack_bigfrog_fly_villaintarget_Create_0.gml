@@ -1,2 +1,2 @@
 event_inherited()
-spawner = 1787
+spawner = 1788

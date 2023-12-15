@@ -11,7 +11,7 @@ switch scene
         }
         break
     case 1:
-        cutscene_npc_walk(1167, 1140, obj_player_npc.y, 3, "x", "up")
+        cutscene_npc_walk(1168, 1140, obj_player_npc.y, 3, "x", "up")
         break
     case 2:
         cutscene_camera_move(actor_martlet.x, 930, 2)
@@ -111,7 +111,7 @@ switch scene
     case 16:
         global.player_can_run = 1
         instance_destroy(obj_player_npc)
-        camera_set_view_target(view_camera[0], 1030)
+        camera_set_view_target(view_camera[0], 1031)
         scr_cutscene_end()
         scr_radio_restart()
         scene++

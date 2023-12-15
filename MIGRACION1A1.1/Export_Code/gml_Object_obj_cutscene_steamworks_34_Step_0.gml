@@ -32,7 +32,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Howdy!"
             message[1] = "* Looks like things are#  heating up!"
             message[2] = "* Literally, that is."
@@ -71,7 +71,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* I think it's time you#  try your hand at#  wielding the pellets."
             message[1] = "* Sure, you could use#  rubber, silver, nails,#  whatever."
             message[2] = "* But these are#  the real deal."
@@ -97,7 +97,7 @@ switch scene
             cutscene_advance()
         break
     case 8:
-        cutscene_npc_action_sprite(3193, 245, 0.2, 1, 0)
+        cutscene_npc_action_sprite(3194, 245, 0.2, 1, 0)
         break
     case 9:
         instance_destroy(obj_flowey_npc)

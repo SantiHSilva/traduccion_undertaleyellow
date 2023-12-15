@@ -9,7 +9,7 @@ switch scene
         }
         break
     case 1:
-        cutscene_npc_walk(1167, 700, 140, 3, "x", "up")
+        cutscene_npc_walk(1168, 700, 140, 3, "x", "up")
         break
     case 2:
         cutscene_wait(1.25)
@@ -18,7 +18,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             if (global.geno_complete[4] == 1)
             {
                 message[0] = "* I. .."
@@ -59,14 +59,14 @@ switch scene
         }
         break
     case 4:
-        cutscene_npc_walk(1165, (obj_steamworks_35_trashcan.x + 20), (obj_steamworks_35_trashcan.y - 1), 2, "x", "left")
+        cutscene_npc_walk(1166, (obj_steamworks_35_trashcan.x + 20), (obj_steamworks_35_trashcan.y - 1), 2, "x", "left")
         break
     case 5:
         cutscene_wait(0.5)
         cutscene_advance(5.5)
         break
     case 5.5:
-        if cutscene_npc_action_sprite(1165, 3549, 1, 1)
+        if cutscene_npc_action_sprite(1166, 3549, 1, 1)
         {
             obj_steamworks_35_trashcan.image_index = 1
             obj_axis_npc.action_sprite = 0
@@ -75,7 +75,7 @@ switch scene
         }
         break
     case 6:
-        cutscene_npc_walk(1165, 700, 100, 3, "x", "down")
+        cutscene_npc_walk(1166, 700, 100, 3, "x", "down")
         break
     case 7:
         cutscene_wait(0.5)
@@ -84,7 +84,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             if (global.geno_complete[4] == 1)
             {
                 message[0] = "* BUT AS you CAN SEE, . ."

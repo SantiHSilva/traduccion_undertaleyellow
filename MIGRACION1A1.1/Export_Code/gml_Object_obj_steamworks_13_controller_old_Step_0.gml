@@ -18,7 +18,7 @@ switch scene
             ch_msg = 15
             ch[1] = "Yes"
             ch[2] = "No"
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Ouch... Can't say I was#  prepared for that."
             message[1] = "* I knew my husband was#  an engineer but he never#  told me about that guy."
             message[2] = "* He'd vaguely mention a#  robotics project that#  could net him a#  promotion but..."
@@ -71,7 +71,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* So... "
             message[1] = "* We seem to be in some#  sort of storage room."
             message[2] = "* Look around for parts#  we can use. Shouldn't#  take many."
@@ -81,7 +81,7 @@ switch scene
         }
         break
     case 3:
-        cutscene_npc_walk(1160, 105, 125, 3, "x", "down")
+        cutscene_npc_walk(1161, 105, 125, 3, "x", "down")
         break
     case 4:
         scr_cutscene_end()
@@ -99,7 +99,7 @@ switch scene
             scr_text()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* You want to use this?"
                 prt[0] = 370
                 ch_msg = 0
@@ -138,7 +138,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Okay, we'll need three#  more objects."
             prt[0] = 370
         }
@@ -156,7 +156,7 @@ switch scene
             scr_text()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* You think this'll work?"
                 prt[0] = 370
                 ch_msg = 0
@@ -195,7 +195,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Alright, two more and#  we can make this thing."
             prt[0] = 437
         }
@@ -213,7 +213,7 @@ switch scene
             scr_text()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* Is this a good pick?"
                 prt[0] = 370
                 ch_msg = 0
@@ -252,7 +252,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* One more object should#  do the trick."
             prt[0] = 370
         }
@@ -270,7 +270,7 @@ switch scene
             scr_text()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* Is this your final#  choice?"
                 prt[0] = 370
                 ch_msg = 0
@@ -310,7 +310,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[1] = "* Okay, let's build a#  robot!"
             prt[1] = 372
         }

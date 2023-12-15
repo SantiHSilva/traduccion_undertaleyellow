@@ -15,7 +15,7 @@ if (scene == 1)
 else if (scene == 2)
     cutscene_instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
 else if (scene == 3)
-    cutscene_npc_walk_relative(1167, 0, 30, 2, "y", "down")
+    cutscene_npc_walk_relative(1168, 0, 30, 2, "y", "down")
 else if (scene == 4)
 {
     instance_destroy(obj_player_npc)

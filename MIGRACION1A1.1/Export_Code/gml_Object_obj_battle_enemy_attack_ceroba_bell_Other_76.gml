@@ -7,7 +7,7 @@ if (ds_map_find_value(event_data, "event_type") == "sprite event" && layer_insta
         case "ceroba_bell_debris":
             for (var i = 0; i < 2; i++)
             {
-                var ring = instance_create_depth(x, y, -100, choose(952, 652))
+                var ring = instance_create_depth(x, y, -100, choose(953, 653))
                 ring.attack_delay = (i * 15)
             }
             break

@@ -154,7 +154,7 @@ if (global.snowdin_flag[13] == 3 && global.snowdin_flag[21] == 0)
                     global.snowdin_flag[14] = 1
                     scr_cutscene_end()
                     scr_radio_restart()
-                    __view_set((9 << 0), 0, 1030)
+                    __view_set((9 << 0), 0, 1031)
                     instance_destroy()
                 }
             }
@@ -208,7 +208,7 @@ else if (global.snowdin_flag[13] == 3 && global.snowdin_flag[21] == 1)
                     global.snowdin_flag[14] = 1
                     scr_cutscene_end()
                     scr_radio_restart()
-                    __view_set((9 << 0), 0, 1030)
+                    __view_set((9 << 0), 0, 1031)
                     instance_destroy()
                 }
             }

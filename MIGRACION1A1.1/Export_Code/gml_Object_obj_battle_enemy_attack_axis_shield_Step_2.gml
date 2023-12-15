@@ -1,4 +1,4 @@
-var battle_box = 3153
+var battle_box = 3154
 if (!instance_exists(obj_heart_battle_fighting_parent))
 {
     instance_destroy()

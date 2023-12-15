@@ -24,7 +24,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             color = 1
             col_modif[0] = 16711935
             message[0] = "* [MAIN POWER SOURCE NOT#  FOUND_]"
@@ -35,7 +35,7 @@ switch scene
         }
         break
     case 6:
-        cutscene_npc_action_sprite(1165, 2989, 0.5, 0)
+        cutscene_npc_action_sprite(1166, 2989, 0.5, 0)
         obj_axis_npc.npc_direction = "down"
         break
     case 7:
@@ -48,7 +48,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* H-H-HUMA-N."
             message[1] = "* Y-YOU HAVE ANGERED ME#  GREATLY."
             message[2] = "* I HAVE HAD IT WITH YOU#  DOING NOTHING AS I FAIL#  OVER AND OVER."
@@ -71,7 +71,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* ..."
             message[1] = "* ANYWAY."
             message[2] = "* IF YOU CANNOT TELL, I#  AM [ticked] OFF AND OUT#  OF NON-LETHAL OPTIONS."
@@ -109,7 +109,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* WHAT."
             message[1] = "* MY PROGRAMMING IS#  PREVENTING ME FROM#  ATTACK."
             message[2] = "* IT SAYS YOU ARE NOT A#  CURRENT THREAT OR#  RESISTING ARREST."
@@ -126,14 +126,14 @@ switch scene
         }
         break
     case 17:
-        cutscene_npc_walk(1165, (obj_steamworks_35_trashcan.x + 20), (obj_steamworks_35_trashcan.y - 1), 2, "x", "left")
+        cutscene_npc_walk(1166, (obj_steamworks_35_trashcan.x + 20), (obj_steamworks_35_trashcan.y - 1), 2, "x", "left")
         break
     case 18:
         cutscene_wait(0.5)
         cutscene_advance(18.5)
         break
     case 18.5:
-        if cutscene_npc_action_sprite(1165, 1393, 1, 1)
+        if cutscene_npc_action_sprite(1166, 1393, 1, 1)
         {
             obj_steamworks_35_trashcan.image_index = 1
             obj_axis_npc.action_sprite = 0
@@ -145,13 +145,13 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* HOLD THIS, IT SUITS#  YOU."
             prt[0] = 473
         }
         break
     case 20:
-        cutscene_npc_walk(1165, obj_pl.x, clamp((obj_pl.y - 30), 90, 10000), 3, "x", "down")
+        cutscene_npc_walk(1166, obj_pl.x, clamp((obj_pl.y - 30), 90, 10000), 3, "x", "down")
         break
     case 21:
         cutscene_wait(0.5)
@@ -166,13 +166,13 @@ switch scene
         cutscene_npc_set_sprites(obj_axis_npc, 488, 487, 484, 486, 488, 487, 484, 486)
         break
     case 24:
-        cutscene_npc_walk(1165, obj_pl.x, clamp((obj_pl.y - 40), 90, 10000), 3, "y", "down")
+        cutscene_npc_walk(1166, obj_pl.x, clamp((obj_pl.y - 40), 90, 10000), 3, "y", "down")
         break
     case 25:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* THERE. NOW YOU HAVE A#  DRAWN \"WEAPON.\""
             message[1] = "* LOOPHOLES ARE#  WONDERFUL, ARE THEY NOT?"
             message[2] = "* YOUR CRIMES END HERE,#  HUMAN."
@@ -205,7 +205,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* I APOLOGIZE FOR#  TORMENTING YOU AND#  CALLING YOU NAMES."
             message[1] = "* MY CODED PROTOCOL#  BLINDED ME FROM#  SOMETHING..."
             message[2] = "* SOMETHING CALLED...#  \"BASIC DECENCY.\""
@@ -286,7 +286,7 @@ switch scene
             color = 1
             message_col[0][0] = ""
             col_modif[0] = 16711935
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "  BACKUP BATTERY EXTREMELY LOW.#  PLEASE RECHARGE."
             message_col[0][0] = "  BACKUP BATTERY EXTREMELY LOW.#  PLEASE RECHARGE."
             message[1] = "* OH, SUPPOSE I SHOULD GO#  DO THAT."
@@ -303,7 +303,7 @@ switch scene
         break
     case 36:
         audio_sound_gain(cutscene_music, 0, 900)
-        cutscene_npc_walk(1165, 760, obj_axis_npc.y, 2, "y", "left", 1030, 880, 140)
+        cutscene_npc_walk(1166, 760, obj_axis_npc.y, 2, "y", "left", 1031, 880, 140)
         if (x > (obj_pl.x + 3))
             obj_pl.direction = 0
         break
@@ -315,13 +315,13 @@ switch scene
         cutscene_npc_set_sprites(obj_axis_npc, 488, 487, 484, 487, 488, 487, 484, 487)
         break
     case 39:
-        cutscene_npc_walk(1165, 790, 140, 5, "x", "right")
+        cutscene_npc_walk(1166, 790, 140, 5, "x", "right")
         break
     case 40:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* OH, ONE MORE THING."
             message[1] = "* LEAVE THE POWER ON WHEN#  YOU EXIT, WILL YOU?"
             message[2] = "* I LIKE LIVING. "
@@ -334,7 +334,7 @@ switch scene
         break
     case 41:
         scr_audio_fade_out(cutscene_music, 300)
-        cutscene_npc_walk(1165, 880, 140, 5, "y", "left")
+        cutscene_npc_walk(1166, 880, 140, 5, "y", "left")
         break
     case 42:
         cutscene_wait(0.5)

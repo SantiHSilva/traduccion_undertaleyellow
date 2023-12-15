@@ -7,6 +7,6 @@ if (global.dunes_flag[42] >= 1)
     y = 171
     scene = 50
     layer_set_visible("chairs", 0)
+    instance_destroy(106768)
     instance_destroy(106767)
-    instance_destroy(106766)
 }

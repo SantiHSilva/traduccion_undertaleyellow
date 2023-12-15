@@ -22,7 +22,7 @@ switch scene
             with (obj_dialogue_flowey_ending)
             {
                 sndfnt = 96
-                talker[0] = 2627
+                talker[0] = 2628
                 message[0] = "Sigh..."
                 message[1] = "Can't say I didn't see#that coming."
                 message[2] = "Still, my hopes were#high."

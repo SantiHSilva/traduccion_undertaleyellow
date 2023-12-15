@@ -229,7 +229,7 @@ switch scene
         scene = 9.2
         break
     case 9.2:
-        if ((!global.dialogue_open) && cutscene_npc_action_sprite(1614, 980, 0.25, 0, 0, 303, 2))
+        if ((!global.dialogue_open) && cutscene_npc_action_sprite(1615, 980, 0.25, 0, 0, 303, 2))
             scene = 9.3
         break
     case 9.3:
@@ -257,7 +257,7 @@ switch scene
         }
         break
     case 9.5:
-        if cutscene_npc_walk(1614, 240, obj_dunes_08b_mo.y, 2, "y", "down", -4, 205, 230)
+        if cutscene_npc_walk(1615, 240, obj_dunes_08b_mo.y, 2, "y", "down", -4, 205, 230)
             scene = 23
         break
     case 10:
@@ -592,7 +592,7 @@ switch scene
         if scr_camera_move(obj_pl.x, obj_pl.y, 1)
         {
             global.dunes_flag[3] = 1
-            __view_set((9 << 0), 0, 1030)
+            __view_set((9 << 0), 0, 1031)
             scr_cutscene_end()
             scene = 0
         }
@@ -603,12 +603,12 @@ switch scene
         {
             message[0] = "* The alphabet must have#  25 letters now, cause I'm#  fresh outta T!"
             message[1] = "* I'm sure we'll meet#  again! Thanks for believin'#  in me!"
-            talker[0] = 1614
+            talker[0] = 1615
         }
         break
     case 28:
         scr_audio_fade_out(mus_gimme_ur_cash_yellow, 300)
-        cutscene_npc_action_sprite(1614, 980, 0.25, 0, 0, 303, 2)
+        cutscene_npc_action_sprite(1615, 980, 0.25, 0, 0, 303, 2)
         break
     case 29:
         with (obj_dunes_08b_stand)
@@ -624,11 +624,11 @@ switch scene
         with (msg)
         {
             message[0] = "* MO, OUT!"
-            talker[0] = 1614
+            talker[0] = 1615
         }
         break
     case 32:
-        cutscene_npc_walk(1614, -40, 260, 4, "y", "left", 1030)
+        cutscene_npc_walk(1615, -40, 260, 4, "y", "left")
         break
     case 33:
         if (global.party_member != -4)
@@ -643,7 +643,7 @@ switch scene
         with (msg)
         {
             sndfnt = 102
-            talker[0] = 1169
+            talker[0] = 1170
             message[0] = "* That Mo is an odd one.	"
             message[1] = "* I woulda talked to him#  but I don't know how...#  legal his business is."
             message[2] = "* Our conversation#  could've turned very#  awkward, very fast."

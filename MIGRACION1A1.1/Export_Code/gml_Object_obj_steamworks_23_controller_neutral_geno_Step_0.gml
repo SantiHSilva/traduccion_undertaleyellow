@@ -32,7 +32,7 @@ switch scene
         {
             if (global.route == 1 && global.geno_complete[3] == 0)
             {
-                talker[0] = 3193
+                talker[0] = 3194
                 message[0] = "* Howdy!"
                 message[1] = "* I know I usually let you#  handle imminent threats#  but..."
                 message[2] = "* ...You really looked#  cornered back there!"
@@ -52,12 +52,12 @@ switch scene
             }
             else
             {
-                talker[0] = 3193
+                talker[0] = 3194
                 message[0] = "* ..."
                 message[1] = "* Can I be real with you?"
                 message[2] = "* I'm gonna be real with#  you."
                 message[3] = "* I get it. Stomping#  around, full of anger,#  boredom..."
-                message[4] = "* Lying waste to#  everything in your path#  - we all have hobbies."
+                message[4] = "* Laying waste to#  everything in your path#  - we all have hobbies."
                 message[5] = "* But, heh, come on..."
                 message[6] = "* How is this forwarding#  your cause?"
                 message[7] = "* These aren't monsters."
@@ -85,7 +85,7 @@ switch scene
         }
         break
     case 4:
-        cutscene_npc_action_sprite(3193, 245, 0.2, 1)
+        cutscene_npc_action_sprite(3194, 245, 0.2, 1)
         break
     case 5:
         instance_destroy(obj_flowey_npc)

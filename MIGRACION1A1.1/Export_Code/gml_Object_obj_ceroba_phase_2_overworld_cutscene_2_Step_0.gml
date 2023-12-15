@@ -82,7 +82,7 @@ switch scene
         cutscene_npc_set_sprites(obj_ceroba_npc, 81, 80, 78, 79, 61, 65, 60, 63)
         break
     case 12:
-        cutscene_npc_walk(1160, obj_kanako_npc.x, 210, 4, "x", "up")
+        cutscene_npc_walk(1161, obj_kanako_npc.x, 210, 4, "x", "up")
         break
     case 13:
         cutscene_dialogue()
@@ -90,7 +90,7 @@ switch scene
         {
             message[0] = "* What are you doing down#  here!?"
             prt[0] = 381
-            talker[0] = 1160
+            talker[0] = 1161
             position = 1
         }
         break
@@ -102,11 +102,11 @@ switch scene
         with (msg)
         {
             talker[0] = 159
-            talker[1] = 1160
+            talker[1] = 1161
             talker[2] = 159
-            talker[3] = 1160
+            talker[3] = 1161
             talker[4] = 159
-            talker[6] = 1160
+            talker[6] = 1161
             talker[10] = 159
             message[0] = "* Is... Is it true?"
             message[1] = "* ...What?"
@@ -170,7 +170,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             talker[4] = 159
             message[0] = "* With my limited#  abilities... yes."
             message[1] = "* But it doesn't involve#  you."
@@ -209,11 +209,11 @@ switch scene
         {
             color = 1
             col_modif[0] = 4235519
-            talker[0] = 1160
+            talker[0] = 1161
             talker[1] = 159
-            talker[2] = 1160
+            talker[2] = 1161
             talker[3] = 159
-            talker[5] = 1160
+            talker[5] = 1161
             message[0] = "* ! "
             message[1] = "* You figured it out.#  Last week."
             message[2] = "* I..."
@@ -252,11 +252,11 @@ switch scene
         with (msg)
         {
             talker[0] = 159
-            talker[3] = 1160
+            talker[3] = 1161
             talker[5] = 159
-            talker[8] = 1160
+            talker[8] = 1161
             talker[10] = 159
-            talker[12] = 1160
+            talker[12] = 1161
             message[0] = "* So you did it!"
             message[1] = "* Daddy's wish could come#  true, right?"
             message[2] = "* We could make him#  smile! Make him proud of#  us!"
@@ -307,7 +307,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             talker[3] = 159
             message[0] = "* Very well."
             message[1] = "* But I'll make it quick."
@@ -331,7 +331,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Heroes, huh?"
             message[1] = "* That has a nice ring to#  it."
             prt[0] = 395
@@ -355,7 +355,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Okay, wait here."
             prt[0] = 377
             position = 1
@@ -365,7 +365,7 @@ switch scene
         cutscene_npc_set_sprites(obj_ceroba_npc, 67, 68, 66, 69, 61, 65, 60, 63)
         break
     case 37:
-        cutscene_npc_walk(1160, 186, 159, 3, "y", "right")
+        cutscene_npc_walk(1161, 186, 159, 3, "y", "right")
         if (obj_ceroba_npc.x > obj_kanako_npc.x)
             obj_kanako_npc.npc_direction = "right"
         break
@@ -377,7 +377,7 @@ switch scene
         cutscene_advance()
         break
     case 40:
-        cutscene_npc_action_sprite(1160, 3389, 1, 1, 0)
+        cutscene_npc_action_sprite(1161, 3389, 1, 1, 0)
         if (obj_ceroba_npc.image_index >= 39)
         {
             if (obj_flashback_lab_table.image_index == 0)
@@ -394,7 +394,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* You will need to stand#  very still for this."
             message[1] = "* Close your eyes and I#  will begin the#  fusion-extraction."
             prt[0] = 377
@@ -407,7 +407,7 @@ switch scene
         break
     case 44:
         obj_ceroba_npc.action_sprite = 0
-        cutscene_npc_walk(1160, 160, obj_kanako_npc.y, 2, "x", "left")
+        cutscene_npc_walk(1161, 160, obj_kanako_npc.y, 2, "x", "left")
         break
     case 45:
         cutscene_npc_set_sprites(obj_kanako_npc, 1760, 3612, 3036, 1855, 2056, 2605, 1608, 2931)
@@ -419,7 +419,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             talker[2] = 159
             message[0] = "* You may feel a pinch or#  two but it'll all be#  over before you know it."
             message[1] = "* Understood?"
@@ -434,7 +434,7 @@ switch scene
         cutscene_wait(1)
         break
     case 49:
-        cutscene_npc_action_sprite(1160, 3166, 1, 1, 0)
+        cutscene_npc_action_sprite(1161, 3166, 1, 1, 0)
         break
     case 50:
         cutscene_wait(1)
@@ -447,7 +447,7 @@ switch scene
             scene = 51.5
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             talker[1] = 159
             message[0] = "* You truly believe in#  this, don't you?"
             message[1] = "* Yeah."
@@ -467,7 +467,7 @@ switch scene
         break
     case 53:
         obj_kanako_npc.image_alpha = 0
-        cutscene_npc_action_sprite(1160, 3186, 1, 1, 0)
+        cutscene_npc_action_sprite(1161, 3186, 1, 1, 0)
         break
     case 54:
         cutscene_wait(1)
@@ -476,7 +476,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             talker[1] = 159
             message[0] = "* Love you lots."
             message[1] = "* Love you more."
@@ -489,7 +489,7 @@ switch scene
         cutscene_wait(0.5)
         break
     case 57:
-        if cutscene_npc_action_sprite(1160, 3354, 1, 1)
+        if cutscene_npc_action_sprite(1161, 3354, 1, 1)
         {
             obj_ceroba_npc.sprite_index = spr_flashback_ceroba_kneel
             obj_ceroba_npc.image_index = (obj_ceroba_npc.image_number - 1)
@@ -509,7 +509,7 @@ switch scene
         break
     case 60:
         obj_kanako_npc.image_alpha = 0
-        cutscene_npc_action_sprite(1160, 457, 1, 1, 0)
+        cutscene_npc_action_sprite(1161, 457, 1, 1, 0)
         cutscene_advance()
         break
     case 61:
@@ -585,7 +585,7 @@ switch scene
         cutscene_wait(1)
         break
     case 74:
-        if cutscene_npc_action_sprite(1160, 3012, 1, 1, 0)
+        if cutscene_npc_action_sprite(1161, 3012, 1, 1, 0)
         {
             obj_kanako_npc.image_alpha = 1
             obj_ceroba_npc.sprite_index = spr_flashback_ceroba_kneel
@@ -597,7 +597,7 @@ switch scene
         break
     case 76:
         obj_ceroba_npc.left_sprite_idle = 63
-        cutscene_npc_action_sprite(1160, 3457, 1, 1, 0)
+        cutscene_npc_action_sprite(1161, 3457, 1, 1, 0)
         break
     case 77:
         cutscene_npc_set_sprites(obj_kanako_npc, 1760, 3491, 3036, 1855, 2056, 1558, 1608, 2931)
@@ -606,7 +606,7 @@ switch scene
         cutscene_wait(2)
         break
     case 79:
-        cutscene_npc_walk(1160, 175, obj_ceroba_npc.y, 0.5, "x", "right")
+        cutscene_npc_walk(1161, 175, obj_ceroba_npc.y, 0.5, "x", "right")
         break
     case 80:
         instance_create(obj_ceroba_npc.x, (obj_ceroba_npc.y - 40), obj_cutscene_ex)
@@ -667,7 +667,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* NO!!!"
             prt[0] = 393
             position = 1
@@ -689,7 +689,7 @@ switch scene
     case 92:
         obj_ceroba_npc.x = obj_kanako_npc.x
         obj_ceroba_npc.y = obj_kanako_npc.y
-        cutscene_npc_action_sprite(1160, 2956, 1, 1, 0)
+        cutscene_npc_action_sprite(1161, 2956, 1, 1, 0)
         obj_kanako_npc.image_alpha = 0
         break
     case 93:
@@ -704,7 +704,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* No no no no no no-"
             message[1] = "* Why didn't it work!?"
             message[2] = "* Kanako, wake up."
@@ -729,7 +729,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* What..."
             skippable = 0
             position = 1

@@ -46,7 +46,7 @@ switch scene
         cutscene_instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
         break
     case 11:
-        cutscene_npc_walk(1167, 156, 160, 3, "x", "up")
+        cutscene_npc_walk(1168, 156, 160, 3, "x", "up")
         break
     case 12:
         cutscene_wait(1)

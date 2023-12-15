@@ -38,7 +38,7 @@ switch scene
         cutscene_wait(2)
         break
     case 7:
-        cutscene_npc_walk(actor_starlo, actor_starlo.x, (actor_starlo.y + 40), 2, "y", "down", 1030)
+        cutscene_npc_walk(actor_starlo, actor_starlo.x, (actor_starlo.y + 40), 2, "y", "down", 1031)
         break
     case 8:
         cutscene_wait(3)

@@ -100,7 +100,7 @@ if (waiter >= 7 && waiter <= 8 && (!instance_exists(obj_dialogue)))
 }
 if (waiter == 9)
 {
-    if cutscene_npc_walk(1167, obj_pl.x, 115, 3, "y", "up")
+    if cutscene_npc_walk(1168, obj_pl.x, 115, 3, "y", "up")
     {
         user_event_0_activated = 0
         global.cutscene = false
@@ -111,7 +111,7 @@ if (waiter == 9)
 }
 if (waiter == 10)
 {
-    if cutscene_npc_walk(1167, obj_pl.x, 115, 3, "y", "up")
+    if cutscene_npc_walk(1168, obj_pl.x, 115, 3, "y", "up")
     {
         obj_dalv2.destination_x_dalv = 219
         obj_dalv2.destination_y_dalv = 90

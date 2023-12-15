@@ -14,9 +14,9 @@ switch scene
         break
     case 2:
         if (global.party_member == -4)
-            cutscene_npc_walk(1167, 160, 140, 3, "y", "down")
+            cutscene_npc_walk(1168, 160, 140, 3, "y", "down")
         else
-            cutscene_npc_walk(1167, 180, 140, 3, "y", "down")
+            cutscene_npc_walk(1168, 180, 140, 3, "y", "down")
         break
     case 3:
         if (global.party_member == -4)
@@ -34,7 +34,7 @@ switch scene
             scene++
         break
     case 5:
-        if cutscene_npc_walk(1163, 140, 140, 3, "y", "down")
+        if cutscene_npc_walk(1164, 140, 140, 3, "y", "down")
             scene = 6
         break
     case 6:
@@ -88,11 +88,11 @@ switch scene
         cutscene_wait(1.5)
         break
     case 18:
-        cutscene_npc_walk(1167, 160, 220, 3, "x", "down")
+        cutscene_npc_walk(1168, 160, 220, 3, "x", "down")
         break
     case 19:
         if (global.party_member != -4)
-            cutscene_npc_walk(1163, 160, 220, 3, "x", "down")
+            cutscene_npc_walk(1164, 160, 220, 3, "x", "down")
         else
             cutscene_advance()
         break

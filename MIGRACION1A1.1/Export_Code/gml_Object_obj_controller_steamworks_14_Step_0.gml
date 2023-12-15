@@ -56,7 +56,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Can't say that was fun."
             message[1] = "* Let's be extra cautious#  from now on, okay?"
             prt[0] = 382

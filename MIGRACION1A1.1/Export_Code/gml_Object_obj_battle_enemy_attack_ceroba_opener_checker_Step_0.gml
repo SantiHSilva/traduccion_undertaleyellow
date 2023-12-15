@@ -68,7 +68,7 @@ switch counter_current
         }
         var explosion = instance_create(320, (obj_dialogue_box_battle_transformation_any.bbox_bottom + 60), obj_battle_enemy_attack_ceroba_flower_exploding)
         with (explosion)
-            ring_object = 2726
+            ring_object = 2727
         counter_timer = 30
         counter_current++
         break

@@ -165,7 +165,7 @@ switch scene
     case 9:
         with (instance_create(martlet.x, martlet.y, obj_martlet_follower))
             npc_reset = 1
-        global.party_member = 1169
+        global.party_member = 1170
         instance_destroy(martlet)
         audio_sound_gain(obj_radio.current_song, 1, 800)
         scene++

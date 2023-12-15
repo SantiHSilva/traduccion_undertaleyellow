@@ -90,7 +90,7 @@ switch scene
             message[10] = "* Let's face facts. I#  couldn't keep you here#  forever, kid."
             message[11] = "* Word would've gotten out#  that Feathers hadn't#  clocked in, eventually."
             message[12] = "* Feathers...#  Wait a minute..."
-            message[13] = "* Royal Guard's like her#  have a ton of status."
+            message[13] = "* Royal Guards like her#  have a ton of status."
             message[14] = "* They gain that status by#  doin' the King's work."
             message[15] = "* I'm sure... I'm sure#  everyone would come back#  if I did the same."
             message[16] = "* I'd be revered not only#  in the Wild East but the#  entire Underground!!"
@@ -483,7 +483,7 @@ switch scene
         cutscene_npc_direction(actor_clover, "down")
         break
     case 60:
-        cutscene_npc_walk(1163, 160, 220, 3, "x", "up")
+        cutscene_npc_walk(1164, 160, 220, 3, "x", "up")
         break
     case 61:
         cutscene_dialogue()
@@ -535,14 +535,14 @@ switch scene
         }
         break
     case 62:
-        cutscene_npc_walk(1163, obj_martlet_npc.x, ((__view_get((1 << 0), 0) + __view_get((2 << 0), 0)) + 50), 4, "x", "down")
+        cutscene_npc_walk(1164, obj_martlet_npc.x, ((__view_get((1 << 0), 0) + __view_get((2 << 0), 0)) + 50), 4, "x", "down")
         break
     case 63:
         cutscene_camera_move(obj_pl.x, obj_pl.y, 1)
         break
     case 64:
         scr_cutscene_end()
-        camera_set_view_target(view_camera[0], 1030)
+        camera_set_view_target(view_camera[0], 1031)
         global.dunes_flag[39] = 1
         scene = -1
         instance_destroy(actor_clover)

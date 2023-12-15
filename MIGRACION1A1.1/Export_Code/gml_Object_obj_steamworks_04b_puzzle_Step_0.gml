@@ -148,7 +148,7 @@ switch scene
         cutscene_camera_move(obj_pl.x, obj_pl.y, 2)
         break
     case 7:
-        __view_set((9 << 0), 0, 1030)
+        __view_set((9 << 0), 0, 1031)
         scene = 0
         scr_cutscene_end()
         break

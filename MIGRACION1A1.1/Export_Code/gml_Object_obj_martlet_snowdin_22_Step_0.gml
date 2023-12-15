@@ -4,12 +4,12 @@ if live_call()
 if (interact && scene == 0)
 {
     scene = 1
-    is_talking = 1
-    scr_text()
     scr_cutscene_start()
 }
 if (scene == 1)
 {
+    is_talking = 1
+    scr_text()
     with (msg)
     {
         sndfnt = 102
@@ -55,7 +55,7 @@ if (scene == 1)
             ch_msg = 3
             ch[1] = "Yes"
             ch[2] = "No"
-            message[0] = "* I suppose another \"sorry\"#  isn't gonna cut it?"
+            message[0] = "* I suppose another#  \"sorry\" isn't gonna#  cut it?"
             message[1] = "* Can you trust me to get#  you to ASGORE safely?"
             message[2] = "* I swear I can do it!#  I swear I can!"
             message[3] = "* Please?"
@@ -91,6 +91,8 @@ if (scene == 1)
 }
 else if (scene == 2)
 {
+    is_talking = 1
+    scr_text()
     global.snowdin_flag[14] = 4
     with (msg)
     {
@@ -208,6 +210,8 @@ else if (scene == 9)
 else if (scene == 3)
 {
     scene = -1
+    scr_text()
+    is_talking = 1
     with (msg)
     {
         if (global.snowdin_flag[14] == 2)

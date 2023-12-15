@@ -28,7 +28,7 @@ image_speed = 0
 npc_reset = 0
 is_talking = 0
 follower_idle = 1
-npc_actor = 1163
+npc_actor = 1164
 if (x != obj_pl.x || y != obj_pl.y)
 {
     var x_dist = (obj_pl.x - x)

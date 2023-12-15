@@ -4,7 +4,7 @@ cutscene_music = 0
 instance_create(720, 375, obj_starlo_npc)
 instance_create(700, 375, obj_player_npc)
 obj_player_npc.npc_direction = "down"
-__view_set((9 << 0), 0, 1168)
+__view_set((9 << 0), 0, 1169)
 instance_create(440, 385, obj_ed_npc)
 instance_create(920, 400, obj_moray_npc)
 instance_create(920, 380, obj_mooch_npc)

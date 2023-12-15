@@ -46,7 +46,7 @@ switch scene
         if (obj_pl.x > (camera_get_view_x(view_camera[0]) + 160))
         {
             instance_destroy(obj_camera)
-            camera_set_view_target(view_camera[0], 1030)
+            camera_set_view_target(view_camera[0], 1031)
             scene++
         }
         break
@@ -216,5 +216,5 @@ switch scene
 
 if (flowey_bg_alpha > 0)
     flowey_bg_offset -= 0.1
-if (room == rm_battle_flashback_final_2 && instance_exists(106519) && obj_pl.x > (106519.bbox_right + 20))
-    106519.y = 160
+if (room == rm_battle_flashback_final_2 && instance_exists(106520) && obj_pl.x > (106520.bbox_right + 20))
+    106520.y = 160

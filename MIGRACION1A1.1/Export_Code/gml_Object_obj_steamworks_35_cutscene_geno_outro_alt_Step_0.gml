@@ -14,7 +14,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* . . ."
             message[1] = "* YOu.. . ARE LeTTING ME#  GO?"
             message[2] = "* UH. WEIRD DeCISION."
@@ -27,7 +27,7 @@ switch scene
         cutscene_wait(1)
         break
     case 3:
-        cutscene_npc_walk(1165, 760, obj_pl.y, 2, "x", "right", 1030)
+        cutscene_npc_walk(1166, 760, obj_pl.y, 2, "x", "right", 1031)
         if (obj_axis_npc.x > (obj_pl.x + 3))
             obj_pl.direction = 0
         break
@@ -41,7 +41,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* JuST SO YOU KNoW.. ."
             message[1] = "* Y0U STILL [freaking]#  SUCK."
             message[2] = "* FEEL FREE TO TRIP aND#  FALL TO YOuR DEATH ON#  THE WaY OUT."
@@ -51,7 +51,7 @@ switch scene
         }
         break
     case 7:
-        cutscene_npc_walk(1165, 880, 140, 5, "x", "left")
+        cutscene_npc_walk(1166, 880, 140, 5, "x", "left")
         break
     case 8:
         cutscene_wait(0.5)

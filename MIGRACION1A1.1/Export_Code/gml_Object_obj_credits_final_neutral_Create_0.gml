@@ -82,7 +82,7 @@ credits_entry[16][4] = "Evan Smith"
 credits_entry[16][5] = "Saltydkdan"
 credits_entry[16][6] = "Bubble-tea-dreams"
 credits_entry[16][7] = "Sr. Pelo"
-credits_entry[16][8] = "Fridgadae"
+credits_entry[16][8] = "Frigadae"
 credits_entry[16][9] = "TheKameru"
 credits_entry[16][10] = "Chocohex"
 credits_entry[16][11] = "Icewolf"
@@ -103,12 +103,13 @@ credits_entry[16][25] = "RhenaudTheLukark"
 credits_entry[16][26] = "AgentDrako"
 credits_entry[16][27] = "Beesecase"
 credits_entry[16][28] = "R2d2kx100"
-credits_entry[16][29] = "Anthony"
+credits_entry[16][29] = "Anonymous_"
 credits_entry[16][30] = "PietroPan"
 credits_entry[16][31] = "Skost"
 credits_entry[16][32] = "Minmo"
 credits_entry[16][33] = "CapsuleGravy"
 credits_entry[16][34] = "Izzy"
+credits_entry[16][35] = "DragnirMK"
 credits_entry[17][0] = "Special Thanks:"
 credits_entry[17][1] = "Tifapunchface"
 credits_entry[17][2] = "Jillian Brodsky"
@@ -198,7 +199,7 @@ var room_number = array_length(target_room)
 var song_length_wbreaks = ((song_length - ((wait_timer * 30) * room_number)) - (start_delay * 30))
 room_duration = (song_length_wbreaks / room_number)
 instance_destroy(obj_radio)
-if (global.meta_flowey_fight_count < 3)
+if (global.meta_flowey_fight_count < 3 && global.hotland_flag[10] == 0)
     global.meta_flowey_fight_count += 1
 scr_savegame_meta()
 if file_exists("Save.sav")

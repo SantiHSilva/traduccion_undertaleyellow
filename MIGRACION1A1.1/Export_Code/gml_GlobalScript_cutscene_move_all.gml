@@ -3,7 +3,7 @@ function cutscene_move_all(argument0, argument1, argument2, argument3, argument4
     if (argument0 == 0 && (!instance_exists(obj_camera)))
     {
         instance_create(__view_get((9 << 0), 0).x, __view_get((9 << 0), 0).y, obj_camera)
-        __view_set((9 << 0), 0, 1119)
+        __view_set((9 << 0), 0, 1120)
     }
     with (all)
     {

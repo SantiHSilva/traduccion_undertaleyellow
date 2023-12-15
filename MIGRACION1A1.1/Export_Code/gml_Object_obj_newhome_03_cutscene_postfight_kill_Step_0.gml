@@ -12,19 +12,19 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* Ugh..."
             prt[0] = 416
         }
         break
     case 2:
-        cutscene_npc_action_sprite(1168, 693, 1, 0)
+        cutscene_npc_action_sprite(1169, 693, 1, 0)
         break
     case 3:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* Ceroba..."
             prt[0] = 416
         }
@@ -47,7 +47,7 @@ switch scene
         break
     case 9:
         instance_destroy(obj_cutscene_ex)
-        cutscene_npc_walk(1168, 192, obj_starlo_npc.y, 3, "x", "up")
+        cutscene_npc_walk(1169, 192, obj_starlo_npc.y, 3, "x", "up")
         break
     case 10:
         cutscene_wait(0.5)
@@ -77,7 +77,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* Where is Ceroba!?"
             message[1] = "* Clover?"
             message[2] = "* Clover, where did she#  go?"
@@ -111,10 +111,10 @@ switch scene
         cutscene_wait(0.5)
         break
     case 21:
-        cutscene_npc_walk(1168, 163, 255, 2, "y", "up")
+        cutscene_npc_walk(1169, 163, 255, 2, "y", "up")
         break
     case 22:
-        cutscene_npc_action_sprite(1168, 3725, 1, 1, 0)
+        cutscene_npc_action_sprite(1169, 3725, 1, 1, 0)
         break
     case 23:
         cutscene_wait(1)
@@ -123,7 +123,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* You didn't."
             message[1] = "* You couldn't."
             prt[0] = 416
@@ -131,7 +131,7 @@ switch scene
         }
         break
     case 25:
-        cutscene_npc_action_sprite(1168, 2982, 1, 1, 0)
+        cutscene_npc_action_sprite(1169, 2982, 1, 1, 0)
         if (obj_starlo_npc.image_index >= 9)
             instance_destroy(obj_newhome_03_cutscene_mask)
         break
@@ -147,7 +147,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* She just ran away."
             message[1] = "* She ran to the lab,#  right?"
             prt[0] = 416
@@ -158,7 +158,7 @@ switch scene
         cutscene_wait(0.5)
         break
     case 30:
-        cutscene_npc_action_sprite(1163, 3388, 1, 1, 0)
+        cutscene_npc_action_sprite(1164, 3388, 1, 1, 0)
         break
     case 31:
         with (obj_cutscene_ex)
@@ -166,7 +166,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Wh..."
             message[1] = "* Where am I...?"
             prt[0] = 315
@@ -179,7 +179,7 @@ switch scene
         cutscene_sfx_play(snd_encounter, 0.7)
         break
     case 33:
-        if cutscene_npc_action_sprite(1163, 2970, 1, 1, 0)
+        if cutscene_npc_action_sprite(1164, 2970, 1, 1, 0)
             obj_martlet_npc.action_sprite = 0
         if (obj_martlet_npc.image_index > 9)
         {
@@ -191,19 +191,19 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Clover!"
             prt[0] = 330
         }
         break
     case 35:
-        cutscene_npc_walk(1163, (obj_player_npc.x - 30), obj_martlet_npc.y, 4, "x", "right")
+        cutscene_npc_walk(1164, (obj_player_npc.x - 30), obj_martlet_npc.y, 4, "x", "right")
         break
     case 36:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Are you..."
             prt[0] = 322
             skippable = 0
@@ -231,14 +231,14 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
-            talker[3] = 1168
-            talker[4] = 1163
-            talker[6] = 1168
-            talker[8] = 1163
-            talker[12] = 1168
-            talker[26] = 1163
-            talker[37] = 1168
+            talker[0] = 1164
+            talker[3] = 1169
+            talker[4] = 1164
+            talker[6] = 1169
+            talker[8] = 1164
+            talker[12] = 1169
+            talker[26] = 1164
+            talker[37] = 1169
             message[0] = "* ..."
             message[1] = "* I'm so sorry."
             message[2] = "* We should've been here#  to help."
@@ -353,7 +353,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* To the law, maybe you#  are justified in what#  you've done."
             message[1] = "* But to me... you're#  lower than dirt."
             prt[0] = 416
@@ -366,13 +366,13 @@ switch scene
     case 46:
         if (obj_starlo_npc.y > (obj_martlet_npc.y - 40))
             obj_martlet_npc.npc_direction = "right"
-        cutscene_npc_walk(1168, obj_starlo_npc.x, (obj_player_npc.y - 30), 1, "y", "down")
+        cutscene_npc_walk(1169, obj_starlo_npc.x, (obj_player_npc.y - 30), 1, "y", "down")
         break
     case 47:
         cutscene_wait(1)
         break
     case 48:
-        cutscene_npc_walk_relative(1167, 30, 0, 2, "x", "left")
+        cutscene_npc_walk_relative(1168, 30, 0, 2, "x", "left")
         break
     case 49:
         if (obj_starlo_npc.y > (obj_martlet_npc.y + 40))
@@ -380,7 +380,7 @@ switch scene
             obj_martlet_npc.npc_direction = "down"
             obj_player_npc.npc_direction = "down"
         }
-        cutscene_npc_walk(1168, obj_starlo_npc.x, 340, 1, "y", "down")
+        cutscene_npc_walk(1169, obj_starlo_npc.x, 340, 1, "y", "down")
         break
     case 50:
         cutscene_wait(1)
@@ -389,7 +389,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* ..."
             message[1] = "* I could report your#  location..."
             message[2] = "* Or try to get#  revenge..."
@@ -407,7 +407,7 @@ switch scene
         }
         break
     case 52:
-        cutscene_npc_walk(1168, obj_starlo_npc.x, 420, 1, "y", "down")
+        cutscene_npc_walk(1169, obj_starlo_npc.x, 420, 1, "y", "down")
         break
     case 53:
         cutscene_wait(1)
@@ -419,7 +419,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* ..."
             message[1] = "* I'm... sorry you had to#  go through all of this."
             message[2] = "* Maybe if we took a#  different route in#  Waterfall..."
@@ -445,11 +445,11 @@ switch scene
         }
         break
     case 56:
-        cutscene_npc_walk(1163, (obj_player_npc.x + 30), obj_player_npc.y, 3, "x", "left")
+        cutscene_npc_walk(1164, (obj_player_npc.x + 30), obj_player_npc.y, 3, "x", "left")
         break
     case 57:
-        global.party_member = 1169
-        actor_follower = 1163
+        global.party_member = 1170
+        actor_follower = 1164
         obj_pl.direction = 180
         cutscene_actor_into_follower()
         break

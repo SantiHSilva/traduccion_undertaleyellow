@@ -2,7 +2,7 @@ function cutscene_camera_move() //gml_Script_cutscene_camera_move
 {
     if (!instance_exists(obj_camera))
         instance_create((__view_get((0 << 0), 0) + (__view_get((2 << 0), 0) * 0.5)), (__view_get((1 << 0), 0) + (__view_get((3 << 0), 0) * 0.5)), obj_camera)
-    __view_set((9 << 0), 0, 1119)
+    __view_set((9 << 0), 0, 1120)
     obj_camera.move = 1
     obj_camera.xx = argument[0]
     obj_camera.yy = argument[1]

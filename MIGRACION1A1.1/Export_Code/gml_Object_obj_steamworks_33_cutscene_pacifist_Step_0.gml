@@ -37,7 +37,7 @@ switch scene
             instance_destroy(obj_cutscene_ex)
         break
     case -9:
-        cutscene_npc_walk(1160, 360, 200, 4, "x", "up")
+        cutscene_npc_walk(1161, 360, 200, 4, "x", "up")
         break
     case -8:
         cutscene_wait(1)
@@ -49,7 +49,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Whoa..."
             message[1] = "* I'm guessing this is our#  ticket out of here."
             prt[0] = 393
@@ -61,8 +61,8 @@ switch scene
         scene = -4
         break
     case -4:
-        cutscene_npc_walk(1160, 290, 160, 3, "x", "up")
-        cutscene_npc_walk(1167, 320, 180, 3, "x", "up")
+        cutscene_npc_walk(1161, 290, 160, 3, "x", "up")
+        cutscene_npc_walk(1168, 320, 180, 3, "x", "up")
         scene = -3
         break
     case -3:
@@ -73,7 +73,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Just have to... uh..."
             message[1] = "* Why don't you take a#  stab at it?"
             message[2] = "* Technology and I don't#  exactly mix well."
@@ -85,7 +85,7 @@ switch scene
         }
         break
     case -1:
-        if (cutscene_npc_walk(1160, obj_player_npc.x, (obj_player_npc.y + 20), 3, "y", "up") && cutscene_camera_move(obj_player_npc.x, obj_player_npc.y, 2, 1))
+        if (cutscene_npc_walk(1161, obj_player_npc.x, (obj_player_npc.y + 20), 3, "y", "up") && cutscene_camera_move(obj_player_npc.x, obj_player_npc.y, 2, 1))
         {
             instance_destroy(obj_player_npc)
             cutscene_actor_into_follower()
@@ -255,13 +255,13 @@ switch scene
         cutscene_advance()
         break
     case 14:
-        cutscene_npc_walk(1160, 210, 190, 3, "y", "left")
+        cutscene_npc_walk(1161, 210, 190, 3, "y", "left")
         break
     case 15:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* I hope that worked."
             message[1] = "* It's unfortunate Axis#  had to end up this way."
             message[2] = "* Maybe I should..."
@@ -283,7 +283,7 @@ switch scene
         }
         break
     case 16:
-        if cutscene_npc_walk(1160, (obj_pl.x + 20), obj_pl.y, 3, "y", "left")
+        if cutscene_npc_walk(1161, (obj_pl.x + 20), obj_pl.y, 3, "y", "left")
         {
             cutscene_actor_into_follower()
             scene = 17
@@ -292,7 +292,7 @@ switch scene
     case 17:
         scr_cutscene_end()
         cutscene_advance()
-        instance_destroy(105662)
+        instance_destroy(105663)
         ds_list_clear(global.encounter_list)
         global.sworks_flag[28] = 2
         break

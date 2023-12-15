@@ -10,6 +10,8 @@ var obstacle1 = obj_ceroba_attack_fireball_obstacle
 var obstacle2 = obj_ceroba_attack_fireball_obstacle
 var obstacle3 = obj_ceroba_attack_fireball_obstacle
 var obstacle_speed = 5
+if (global.hotland_flag[2] == 3)
+    obstacle_speed = 6
 switch side
 {
     case 1:

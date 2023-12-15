@@ -33,14 +33,14 @@ if interact
                     prt[8] = 359
                     prt[9] = 312
                     prt[10] = 362
-                    talker[0] = 1169
-                    talker[2] = 1710
-                    talker[3] = 1169
-                    talker[4] = 1710
-                    talker[6] = 1169
-                    talker[7] = 1710
-                    talker[9] = 1169
-                    talker[10] = 1710
+                    talker[0] = 1170
+                    talker[2] = 1711
+                    talker[3] = 1170
+                    talker[4] = 1711
+                    talker[6] = 1170
+                    talker[7] = 1711
+                    talker[9] = 1170
+                    talker[10] = 1711
                     sndfnt_array[0] = 102
                     sndfnt_array[2] = 391
                     sndfnt_array[3] = 102
@@ -60,7 +60,7 @@ if interact
                     message[1] = "* Me and North Star need#  to have a chat."
                     prt[0] = 359
                     prt[1] = 359
-                    talker[0] = 1710
+                    talker[0] = 1711
                 }
                 break
         }
@@ -76,7 +76,7 @@ if interact
                 scr_text()
                 with (msg)
                 {
-                    talker[0] = 1710
+                    talker[0] = 1711
                     message[0] = "* I figured out where#  those boulders were#  coming from.	"
                     message[1] = "* Turns out North Star#  set the machines up for#  \"Feisty Missions.\"	"
                     message[2] = "* Had a friendly chat#  with him about it all.	"
@@ -96,7 +96,7 @@ if interact
                 scr_text()
                 with (msg)
                 {
-                    talker[0] = 1710
+                    talker[0] = 1711
                     message[0] = "* Things were already#  running well earlier but#  now they're even better!	"
                     message[1] = "* Glad my legacy in this#  place will be nothing#  but positive memories!"
                     prt[0] = 362
@@ -108,7 +108,7 @@ if interact
                 scr_text()
                 with (msg)
                 {
-                    talker[0] = 1710
+                    talker[0] = 1711
                     message[0] = "* As my old man used to#  say: mine on, kid!	"
                     message[1] = "* ...	"
                     message[2] = "* Okay, he uh... he never#  said that. I said that.#  Just now."

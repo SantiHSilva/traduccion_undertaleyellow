@@ -172,7 +172,7 @@ switch scene
         }
         break
     case 22:
-        cutscene_action_sprite(779, 3630, 1, 0, 0)
+        cutscene_action_sprite(780, 3630, 1, 0, 0)
         break
     case 23:
         obj_steamworks_29_gardener_bot.sprite_index = spr_steamworks_29_gardener_bot_idle
@@ -247,7 +247,7 @@ switch scene
     case 33:
         scr_radio_restart()
         global.sworks_flag[20] = 2
-        camera_set_view_target(view_camera[0], 1030)
+        camera_set_view_target(view_camera[0], 1031)
         instance_destroy(obj_steamworks_29_gardener_bot)
         audio_sound_pitch(snd_talk_axis, 1)
         cutscene_end()

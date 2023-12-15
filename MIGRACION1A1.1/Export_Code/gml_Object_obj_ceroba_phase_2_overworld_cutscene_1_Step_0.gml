@@ -30,11 +30,11 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             talker[4] = 92
-            talker[5] = 1160
+            talker[5] = 1161
             talker[6] = 92
-            talker[10] = 1160
+            talker[10] = 1161
             message[0] = "* What would you like to#  wear tomorrow, honey?"
             message[1] = "* Solomon and Crestina#  are paying a visit, and#  bringing food too."
             message[2] = "* I'll help you up and we#  can all enjoy a picnic#  on the front porch."
@@ -60,10 +60,10 @@ switch scene
         }
         break
     case 4:
-        cutscene_npc_walk(1160, 186, 119, 3, "x", "left")
+        cutscene_npc_walk(1161, 186, 119, 3, "x", "left")
         break
     case 5:
-        cutscene_npc_action_sprite(1160, 847, 1, 1, 0)
+        cutscene_npc_action_sprite(1161, 847, 1, 1, 0)
         break
     case 6:
         obj_ceroba_npc.left_sprite_idle = 3759
@@ -77,21 +77,21 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             talker[2] = 92
-            talker[4] = 1160
+            talker[4] = 1161
             talker[5] = 92
-            talker[9] = 1160
+            talker[9] = 1161
             talker[13] = 92
-            talker[16] = 1160
+            talker[16] = 1161
             talker[17] = 92
-            talker[18] = 1160
+            talker[18] = 1161
             talker[19] = 92
-            talker[22] = 1160
+            talker[22] = 1161
             talker[23] = 92
-            talker[26] = 1160
+            talker[26] = 1161
             talker[29] = 92
-            talker[31] = 1160
+            talker[31] = 1161
             talker[32] = 92
             message[0] = "* We don't need to have#  anyone over."
             message[1] = "* It could just be us."
@@ -167,7 +167,7 @@ switch scene
         break
     case 9:
         obj_chujin_npc.image_alpha = 0
-        cutscene_npc_action_sprite(1160, 3625, 1, 1, 0)
+        cutscene_npc_action_sprite(1161, 3625, 1, 1, 0)
         break
     case 10:
         cutscene_wait(0.5)

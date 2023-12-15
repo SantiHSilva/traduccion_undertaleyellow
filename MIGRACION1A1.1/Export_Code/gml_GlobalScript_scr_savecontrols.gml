@@ -15,8 +15,10 @@ function scr_savecontrols() //gml_Script_scr_savecontrols
     }
     ini_write_real("Controls", "autorun", global.option_autorun)
     ini_write_real("Controls", "autoshoot", global.option_autoshoot)
+    ini_write_real("Controls", "autorhythm", global.option_autorhythm)
     ini_write_real("Controls", "screenshake", global.option_screenshake_toggle)
     ini_write_real("Controls", "retry", global.option_retry_toggle)
+    ini_write_real("Controls", "easymode", global.option_easymode)
     ini_close()
 }
 

@@ -12,8 +12,8 @@ switch scene
         cutscene_wait(0.5)
         break
     case 2:
-        cutscene_npc_walk(1160, 220, 620, 3, "x", "up")
-        cutscene_npc_walk(1167, 220, 640, 3, "x", "up")
+        cutscene_npc_walk(1161, 220, 620, 3, "x", "up")
+        cutscene_npc_walk(1168, 220, 640, 3, "x", "up")
         scene = 3
         break
     case 3:
@@ -30,7 +30,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Workstations..."
             message[1] = "* Okay, well... Probably#  another code to find."
             message[2] = "* You know the drill."
@@ -42,7 +42,7 @@ switch scene
         }
         break
     case 7:
-        cutscene_npc_walk(1160, 220, 660, 3, "y", "up")
+        cutscene_npc_walk(1161, 220, 660, 3, "y", "up")
         break
     case 8:
         cutscene_camera_move(obj_pl.x, obj_pl.y, 2)
@@ -81,7 +81,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Must be the manager's#  office."
             message[1] = "* Surely they had access#  to all passcodes."
             message[2] = "* Let's check those file#  cabinets."
@@ -94,8 +94,8 @@ switch scene
         break
     case 17:
         instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
-        cutscene_npc_walk(1160, 220, 250, 3, "x", "up", -4, 290, 180)
-        cutscene_npc_walk(1167, 220, 250, 3, "x", "up", -4, 270, 220)
+        cutscene_npc_walk(1161, 220, 250, 3, "x", "up", -4, 290, 180)
+        cutscene_npc_walk(1168, 220, 250, 3, "x", "up", -4, 270, 220)
         scene = 18
         break
     case 18:
@@ -106,7 +106,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* ..."
             message[1] = "* Hold on, look here."
             message[2] = "* Performance reports for#  all factory employees."
@@ -124,7 +124,7 @@ switch scene
         }
         break
     case 20:
-        cutscene_npc_action_sprite(1160, 3667, 1, 1, 0)
+        cutscene_npc_action_sprite(1161, 3667, 1, 1, 0)
         break
     case 21:
         cutscene_wait(0.3)
@@ -133,7 +133,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* \"01/16/20XX..."
             message[1] = "* Mr. Chujin pitched his#  blueprints for a \"guard bot\" of#  sorts."
             message[2] = "* He called the project: AXIS.\""
@@ -143,7 +143,7 @@ switch scene
         cutscene_music_start(532, 500)
         break
     case 24:
-        cutscene_npc_action_sprite(1160, 2938, 1, 1, 0, 372, 9)
+        cutscene_npc_action_sprite(1161, 2938, 1, 1, 0, 372, 9)
         break
     case 25:
         obj_ceroba_npc.image_index = (obj_ceroba_npc.image_number - 1)
@@ -153,14 +153,14 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* \"03/19/20XX..."
             message[1] = "* Axis Model 01 was presented to#  King ASGORE but was swiftly#  rejected."
             message[2] = "* The poor thing couldn't stay#  powered up for more than six#  seconds.\""
         }
         break
     case 27:
-        cutscene_npc_action_sprite_reverse(1160, 2938, 1, 1, 0, 372, 9)
+        cutscene_npc_action_sprite_reverse(1161, 2938, 1, 1, 0, 372, 9)
         break
     case 28:
         obj_ceroba_npc.image_index = 0
@@ -170,14 +170,14 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* \"05/10/20XX..."
             message[1] = "* Axis Model 04 backfired and#  shot one of its gloves at the#  King."
             message[2] = "* This is getting embarrassing.\""
         }
         break
     case 30:
-        cutscene_npc_action_sprite(1160, 2938, 1, 1, 0, 372, 9)
+        cutscene_npc_action_sprite(1161, 2938, 1, 1, 0, 372, 9)
         break
     case 31:
         obj_ceroba_npc.image_index = (obj_ceroba_npc.image_number - 1)
@@ -187,7 +187,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* \"07/23/20XX..."
             message[1] = "* Axis Model 07 refused to enter#  the throne room."
             message[2] = "* ...ASGORE gave Chujin one more#  shot after incessant pleading."
@@ -208,7 +208,7 @@ switch scene
         }
         break
     case 35:
-        cutscene_npc_action_sprite_reverse(1160, 2938, 1, 1, 0, 372, 9)
+        cutscene_npc_action_sprite_reverse(1161, 2938, 1, 1, 0, 372, 9)
         break
     case 36:
         obj_ceroba_npc.image_index = 0
@@ -218,7 +218,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* \"09/23/20XX..."
             message[1] = "* Well, this is it."
             message[2] = "* Model 08 booted up and seemed#  to be stable for a moment."
@@ -303,7 +303,7 @@ switch scene
         }
         break
     case 46:
-        cutscene_action_sprite(1160, 2209, 1, 1, 0, 621, 1)
+        cutscene_action_sprite(1161, 2209, 1, 1, 0, 621, 1)
         break
     case 47:
         if (!instance_exists(obj_factory_04_torn_documents))
@@ -314,7 +314,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* \"Capable hands\" he#  says."
             message[1] = "* Look at Axis now. The#  TRUE realization of#  Chujin's vision."
             message[2] = "* He far exceeds ANY model#  Asgore ever saw!"
@@ -332,7 +332,7 @@ switch scene
         }
         break
     case 49:
-        cutscene_npc_action_sprite(1160, 3342, 1, 1, 0)
+        cutscene_npc_action_sprite(1161, 3342, 1, 1, 0)
         break
     case 50:
         cutscene_wait(0.3)
@@ -341,7 +341,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* A while back, she built#  a robot too."
             message[1] = "* One so \"lifelike\" it#  got her the position she#  has now."
             message[2] = "* It must've been real#  impressive!"
@@ -378,7 +378,7 @@ switch scene
         }
         break
     case 52:
-        cutscene_npc_reset_sprite(1160, "up")
+        cutscene_npc_reset_sprite(1161, "up")
         scr_audio_fade_out(cutscene_music, 1000)
         break
     case 53:
@@ -391,7 +391,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* ..."
             message[1] = "* Let's go."
             prt[0] = 394
@@ -399,7 +399,7 @@ switch scene
         }
         break
     case 56:
-        cutscene_npc_walk(1160, obj_pl.x, (obj_pl.y + 20), 3, "y", "up")
+        cutscene_npc_walk(1161, obj_pl.x, (obj_pl.y + 20), 3, "y", "up")
         break
     case 57:
         cutscene_camera_move(obj_pl.x, obj_pl.y, 2)

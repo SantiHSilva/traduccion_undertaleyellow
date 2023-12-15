@@ -1,4 +1,4 @@
-battle_box = 3153
+battle_box = 3154
 attack_interval = 30
 last_puff = -1
 alarm[0] = 15

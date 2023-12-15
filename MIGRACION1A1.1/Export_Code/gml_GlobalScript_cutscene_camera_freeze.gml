@@ -10,7 +10,7 @@ function cutscene_camera_freeze() //gml_Script_cutscene_camera_freeze
         yy = argument[1]
     }
     instance_create(xx, yy, obj_camera)
-    __view_set((9 << 0), 0, 1119)
+    __view_set((9 << 0), 0, 1120)
     obj_camera.move = 0
     cutscene_advance()
     return 1;

@@ -1,11 +1,11 @@
 if live_call()
     return global.live_result;
-var box = 3153
-var chosen_dunebud = choose(2204, 3192)
+var box = 3154
+var chosen_dunebud = choose(2205, 3193)
 if (global.enemy_spared || global.enemy_dead)
     chosen_dunebud = obj_dunebud_b
 if (global.enemy_spared_2 || global.enemy_dead_2)
-    chosen_dunebud = 2204
+    chosen_dunebud = 2205
 instance_create_depth(chosen_dunebud.x, chosen_dunebud.y, (chosen_dunebud.depth - 1), obj_battle_enemy_attack_dunebud_chase_enemy)
 event_inherited()
 weed_count = 0

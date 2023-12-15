@@ -125,7 +125,7 @@ switch manta_state
             if (actor_follower.x == npcx && actor_follower.y == npcy)
                 follower_arrived = 1
         }
-        if (scr_camera_move(x, y, 3) && cutscene_npc_walk(1167, plx, ply, 3, dir_prio, end_dir))
+        if (scr_camera_move(x, y, 3) && cutscene_npc_walk(1168, plx, ply, 3, dir_prio, end_dir))
         {
             if (global.party_member != -4 && follower_arrived == 0)
                 return;
@@ -185,12 +185,12 @@ switch manta_state
             if (actor_follower.x == dock_x && actor_follower.y == dock_y)
                 follower_arrived = 1
         }
-        if (scr_camera_move(dock_x, dock_y, 3) && cutscene_npc_walk(1167, dock_x, dock_y, 3, "x", obj_player_npc.npc_direction) && follower_arrived == 1)
+        if (scr_camera_move(dock_x, dock_y, 3) && cutscene_npc_walk(1168, dock_x, dock_y, 3, "x", obj_player_npc.npc_direction) && follower_arrived == 1)
         {
             manta_state = 0
             move_in_direction = "none"
             manta_has_passengers = 0
-            __view_set((9 << 0), 0, 1030)
+            __view_set((9 << 0), 0, 1031)
             instance_destroy(obj_player_npc)
             scr_actor_into_follower(obj_ceroba_npc, obj_ceroba_follower)
             scr_cutscene_end()

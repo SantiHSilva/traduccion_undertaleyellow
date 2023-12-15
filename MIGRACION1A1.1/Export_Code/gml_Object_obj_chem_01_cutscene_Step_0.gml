@@ -26,7 +26,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Howdy!"
             prt[0] = 348
         }
@@ -50,7 +50,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* This sure is a pickle."
             message[1] = "* I'm not certain my#  pellets would do any#  good on this door."
             message[2] = "* Maybe there's a key#  somewhere? Be creative,#  pal!"
@@ -63,7 +63,7 @@ switch scene
         cutscene_wait(0.5)
         break
     case 11:
-        if cutscene_npc_action_sprite_reverse(3193, 242, 0.2, 1, 0)
+        if cutscene_npc_action_sprite_reverse(3194, 242, 0.2, 1, 0)
         {
             instance_destroy(obj_flowey_npc)
             cutscene_end()

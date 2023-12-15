@@ -4,7 +4,7 @@ spawner = noone
 side = choose(-1, 1)
 if (instance_number(obj_flowey_battle_phase_2_mechanical_drone) == 1)
 {
-    spawner = 2891
+    spawner = 2892
     if (spawner.x < 320)
         side = -1
     else

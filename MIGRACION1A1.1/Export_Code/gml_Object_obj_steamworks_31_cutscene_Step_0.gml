@@ -12,8 +12,8 @@ switch scene
         }
         break
     case 1:
-        cutscene_npc_walk(1160, 330, 310, 2, "x", "up")
-        cutscene_npc_walk(1167, 370, 310, 2, "x", "up")
+        cutscene_npc_walk(1161, 330, 310, 2, "x", "up")
+        cutscene_npc_walk(1168, 370, 310, 2, "x", "up")
         cutscene_advance(2)
         break
     case 2:
@@ -45,7 +45,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Two paths..."
             prt[0] = 371
         }
@@ -57,7 +57,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Hold on..."
             prt[0] = 370
         }
@@ -65,8 +65,8 @@ switch scene
         obj_ceroba_npc.npc_direction = "left"
         break
     case 11:
-        cutscene_npc_walk(1160, 250, 310, 3, "x", "left")
-        cutscene_npc_walk(1167, 280, 310, 3, "x", "left")
+        cutscene_npc_walk(1161, 250, 310, 3, "x", "left")
+        cutscene_npc_walk(1168, 280, 310, 3, "x", "left")
         cutscene_advance()
         break
     case 12:
@@ -90,7 +90,7 @@ switch scene
         with (msg)
         {
             position = 1
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* That symbol, I've seen#  it on Chujin's work#  uniform."
             message[1] = "* Lemme try one of his#  codes..."
             prt[0] = 393
@@ -98,7 +98,7 @@ switch scene
         }
         break
     case 16:
-        cutscene_npc_walk(1160, 140, 320, 3, "x", "left")
+        cutscene_npc_walk(1161, 140, 320, 3, "x", "left")
         break
     case 17:
         cutscene_wait(0.5)
@@ -136,7 +136,7 @@ switch scene
         with (msg)
         {
             position = 1
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Nope."
             prt[0] = 377
         }
@@ -177,7 +177,7 @@ switch scene
         with (msg)
         {
             position = 1
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Ugh."
             message[1] = "* Well, I only have one#  left but I've already#  used it. "
             message[2] = "* Here goes!"
@@ -239,7 +239,7 @@ switch scene
         with (msg)
         {
             position = 1
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Seriously? Same code as#  the Dunes gate?"
             message[1] = "* With this kinda#  security, no wonder Axis#  is so vigilant."
             message[2] = "* After you."
@@ -250,7 +250,7 @@ switch scene
         break
     case 50:
         cutscene_camera_move(obj_pl.x, obj_pl.y, 3, 1)
-        cutscene_npc_walk(1160, (obj_player_npc.x + 30), obj_player_npc.y, 3, "x", "left")
+        cutscene_npc_walk(1161, (obj_player_npc.x + 30), obj_player_npc.y, 3, "x", "left")
         break
     case 51:
         cutscene_actor_into_follower()

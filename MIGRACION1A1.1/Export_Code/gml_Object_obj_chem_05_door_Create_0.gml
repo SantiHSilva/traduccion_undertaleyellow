@@ -5,13 +5,13 @@ cutscene_music = 0
 cutscene_timer = 0
 scene = 0
 image_speed = 0
-instance_deactivate_object(105565)
+instance_deactivate_object(105566)
 if (global.sworks_flag[25] >= 5)
 {
     solid = 0
     scene = 35
     image_index = (image_number - 1)
-    instance_activate_object(105565)
+    instance_activate_object(105566)
 }
 if (global.sworks_flag[25] >= 6)
 {

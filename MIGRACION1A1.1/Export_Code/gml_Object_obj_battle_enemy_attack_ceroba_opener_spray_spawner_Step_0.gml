@@ -19,7 +19,7 @@ if (attack_spray_state == 2)
 {
     instance_destroy()
     with (instance_create(x, y, obj_battle_enemy_attack_ceroba_opener_explosion))
-        ring_object = 2724
+        ring_object = 2725
 }
 if (image_alpha < 1)
     image_alpha += 0.1

@@ -91,7 +91,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Howdy!"
             message[1] = "* Glad I was able to catch#  ya in time!"
             message[2] = "* What is this, the third#  tumble you've survived#  on your journey?"
@@ -142,7 +142,7 @@ switch scene
         cutscene_camera_move(obj_pl.x, obj_pl.y, 3)
         break
     case 10:
-        camera_set_view_target(view_camera[0], 1030)
+        camera_set_view_target(view_camera[0], 1031)
         global.sworks_flag[3] = 1
         cutscene_end()
         break

@@ -1,5 +1,5 @@
 var counter_timer_max = 0
-var player_soul = 2978
+var player_soul = 2979
 var box = obj_dialogue_box_battle_transformation_any
 var gun_top_y = (box.y - 25)
 var gun_mid_y = box.y

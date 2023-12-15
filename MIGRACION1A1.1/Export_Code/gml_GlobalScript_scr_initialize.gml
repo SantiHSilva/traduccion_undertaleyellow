@@ -100,9 +100,9 @@ function scr_initialize() //gml_Script_scr_initialize
     global.item_stock[13] = 2
     global.item_stock[14] = 1
     global.item_stock[15] = 1
-    global.item_stock[16] = 1
-    global.item_stock[17] = 1
-    global.item_stock[18] = 1
+    global.item_stock[16] = 2
+    global.item_stock[17] = 2
+    global.item_stock[18] = 2
     global.item_stock[19] = 1
     global.item_stock[20] = 1
     global.item_stock[21] = 1

@@ -4,7 +4,7 @@ else
     action = "Nothing"
 if (action != "Override")
 {
-    if (instance_exists(obj_dialogue_shop_parent) && variable_instance_exists(2077, "portrait_alt") && array_length(obj_dialogue_shop_parent.portrait_alt) >= obj_dialogue_shop_parent.message_current)
+    if (instance_exists(obj_dialogue_shop_parent) && variable_instance_exists(2078, "portrait_alt") && array_length(obj_dialogue_shop_parent.portrait_alt) >= obj_dialogue_shop_parent.message_current)
     {
         if (sprite_index != obj_dialogue_shop_parent.portrait_alt[obj_dialogue_shop_parent.message_current])
             sprite_index = obj_dialogue_shop_parent.portrait_alt[obj_dialogue_shop_parent.message_current]

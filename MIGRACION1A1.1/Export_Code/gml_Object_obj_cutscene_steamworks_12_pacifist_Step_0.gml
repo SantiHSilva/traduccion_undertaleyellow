@@ -36,7 +36,7 @@ switch scene
         cutscene_music_start(219)
         break
     case 10:
-        cutscene_npc_walk(1165, 190, obj_pl.y, 4, "y", "right", 0)
+        cutscene_npc_walk(1166, 190, obj_pl.y, 4, "y", "right", 0)
         break
     case 11:
         cutscene_dialogue()
@@ -44,7 +44,7 @@ switch scene
         {
             color = 1
             col_modif[0] = 16711935
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* AXIS MODEL 014 READY TO#  GUARD AND PROTECT."
             message_col[0][0] = "  AXIS                                        "
             message[1] = "* INTRUDERS SPOTTED.#  STEAMWORKS: EASTERN#  BRANCH."
@@ -63,21 +63,21 @@ switch scene
         cutscene_advance()
         break
     case 13:
-        cutscene_npc_walk(1160, (obj_pl.x - 30), obj_pl.y, 4, "y", "left")
+        cutscene_npc_walk(1161, (obj_pl.x - 30), obj_pl.y, 4, "y", "left")
         break
     case 14:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
-            talker[1] = 1165
-            talker[2] = 1160
-            talker[3] = 1165
-            talker[4] = 1160
-            talker[6] = 1165
-            talker[10] = 1160
-            talker[13] = 1165
-            talker[18] = 1160
+            talker[0] = 1161
+            talker[1] = 1166
+            talker[2] = 1161
+            talker[3] = 1166
+            talker[4] = 1161
+            talker[6] = 1166
+            talker[10] = 1161
+            talker[13] = 1166
+            talker[18] = 1161
             message[0] = "* Wait! Who are you!?"
             message[1] = "* AXIS MODEL 014 READY TO#  GUARD AND PROTECT."
             message[2] = "* You just said that."
@@ -121,7 +121,7 @@ switch scene
         }
         break
     case 15:
-        cutscene_npc_action_sprite(1160, 77, (1/3), 1, 0)
+        cutscene_npc_action_sprite(1161, 77, (1/3), 1, 0)
         break
     case 16:
         cutscene_wait(0.5)
@@ -143,8 +143,8 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
-            talker[1] = 1160
+            talker[0] = 1166
+            talker[1] = 1161
             message[0] = "* CHUJIN? MY CREATOR?"
             message[1] = "* Huh?"
             prt[0] = 473
@@ -181,7 +181,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* SORRY, I DO NOT SEE HIM#  PRESENT."
             message[1] = "* GOODBYE."
             prt[0] = 473
@@ -201,7 +201,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* WAIT!"
             prt[0] = 381
         }

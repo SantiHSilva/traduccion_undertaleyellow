@@ -456,7 +456,7 @@ function scr_cutscene_battle_martlet_final_2_outro() //gml_Script_scr_cutscene_b
             cutscene_wait(1)
             break
         case 73:
-            soul = 2978
+            soul = 2979
             vine1 = instance_create_depth(-20, -20, -1000, obj_vines_fake_martlet)
             vine1.direction = 315
             vine1.image_angle = 315
@@ -569,11 +569,9 @@ function scr_cutscene_battle_martlet_final_2_outro() //gml_Script_scr_cutscene_b
             }
             if (message_current == 59)
             {
+                skippable = 0
                 if (characters >= message_length)
-                {
-                    skippable = 0
                     cutscene_wait(1.5)
-                }
             }
             break
         case 89:

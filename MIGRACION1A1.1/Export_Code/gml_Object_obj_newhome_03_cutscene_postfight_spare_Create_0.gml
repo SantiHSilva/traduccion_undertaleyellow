@@ -50,3 +50,6 @@ scr_cutscene_start()
 zen_dialogue_gain = 1
 offset_y_current = 0
 offset_y_scroll_speed = 0.5
+global.party_member = -4
+scr_determine_save_area()
+scr_savegame()

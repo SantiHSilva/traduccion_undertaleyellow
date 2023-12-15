@@ -11,13 +11,13 @@ switch scene
         cutscene_follower_into_actor()
         break
     case 2:
-        cutscene_npc_walk(1160, obj_pl.x, (obj_pl.y + 30), 3, "y", "up")
+        cutscene_npc_walk(1161, obj_pl.x, (obj_pl.y + 30), 3, "y", "up")
         break
     case 3:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* I'll wait outside."
             prt[0] = 377
         }
@@ -36,7 +36,7 @@ switch scene
         cutscene_instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
         break
     case 7:
-        cutscene_npc_walk(1167, obj_ceroba_npc.x, (obj_ceroba_npc.y - 20), 2, "y", "down")
+        cutscene_npc_walk(1168, obj_ceroba_npc.x, (obj_ceroba_npc.y - 20), 2, "y", "down")
         break
     case 8:
         cutscene_wait(0.5)
@@ -45,7 +45,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Where'd you go?"
             message[1] = "* It's like I blinked and#  lost you."
             message[2] = "* Well, uh, don't do that#  again."
@@ -53,13 +53,13 @@ switch scene
             prt[1] = 371
             prt[2] = 370
         }
-        actor_follower = 1160
+        actor_follower = 1161
         break
     case 10:
-        cutscene_npc_walk(1160, obj_player_npc.x, (obj_player_npc.y - 20), 3, "y", "down")
+        cutscene_npc_walk(1161, obj_player_npc.x, (obj_player_npc.y - 20), 3, "y", "down")
         break
     case 11:
-        global.party_member = 1170
+        global.party_member = 1171
         cutscene_actor_into_follower()
         break
     case 12:

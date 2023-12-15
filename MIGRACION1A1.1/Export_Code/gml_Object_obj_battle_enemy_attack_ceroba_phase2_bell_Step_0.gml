@@ -5,7 +5,12 @@ if (image_alpha >= 0.5)
 if (bullet_hit_draw_timer > 0)
     bullet_hit_draw_timer -= 1
 if (image_alpha < 1)
-    image_alpha += 0.2
+{
+    if (global.hotland_flag[2] >= 2)
+        image_alpha += 0.33
+    else
+        image_alpha += 0.2
+}
 else if ((!destroy_self) && fall_delay <= 0)
     gravity = 0.5
 else

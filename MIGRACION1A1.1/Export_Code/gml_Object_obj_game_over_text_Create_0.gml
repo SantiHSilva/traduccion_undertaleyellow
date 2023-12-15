@@ -323,7 +323,7 @@ else
                 if (random_number == 4)
                 {
                     message[0] = "How careless..."
-                    message[1] = "Well, there's always#nexttime!"
+                    message[1] = "Well, there's always#next time!"
                     message_end = 1
                 }
                 if (random_number == 5)

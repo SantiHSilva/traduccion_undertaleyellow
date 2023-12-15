@@ -28,7 +28,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Golly, ain't this#  dandy?	"
             message[1] = "* Everyone you met just#  abandoned you for their#  own interests."
             message[2] = "* Those aren't real#  friends, no way."
@@ -54,7 +54,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* ..."
             message[1] = "* I'm not too sure how to#  open this door."
             message[2] = "* Hold on."
@@ -76,7 +76,7 @@ switch scene
         }
         else
         {
-            var number_pad = 858
+            var number_pad = 859
             if (number_pad.image_index >= (number_pad.image_number - 1))
                 cutscene_wait(0.25)
         }
@@ -89,7 +89,7 @@ switch scene
         cutscene_screenshake(1, 2)
         break
     case 14:
-        cutscene_action_sprite(1957, 1105, (1/3), 1, 0, 631, 0)
+        cutscene_action_sprite(1958, 1105, (1/3), 1, 0, 631, 0)
         break
     case 15:
         cutscene_wait(1)
@@ -101,7 +101,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* That's one way of#  opening it!"
             message[1] = "* We can finally leave#  this wasteland behind!"
             message[2] = "* See ya later, Clover!"
@@ -136,7 +136,7 @@ switch scene
             xx = 160
             yy = 520
         }
-        camera_set_view_target(view_camera[0], 1030)
+        camera_set_view_target(view_camera[0], 1031)
         global.dunes_flag[35] = 1
         break
 }

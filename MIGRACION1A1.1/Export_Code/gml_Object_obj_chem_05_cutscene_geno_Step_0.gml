@@ -9,7 +9,7 @@ switch scene
         }
         break
     case 1:
-        cutscene_npc_walk(1167, 304, obj_player_npc.y, 3, "x", "up")
+        cutscene_npc_walk(1168, 304, obj_player_npc.y, 3, "x", "up")
         break
     case 2:
         cutscene_wait(0.5)
@@ -34,7 +34,7 @@ switch scene
         break
     case 4:
         if (global.route == 3)
-            cutscene_npc_action_sprite(1167, 3313, 1, 0, 0, 231, 8)
+            cutscene_npc_action_sprite(1168, 3313, 1, 0, 0, 231, 8)
         else
             cutscene_advance(7)
         break
@@ -56,7 +56,7 @@ switch scene
         cutscene_wait(1)
         break
     case 8:
-        cutscene_npc_walk(1167, 304, 140, 2, "y", "up")
+        cutscene_npc_walk(1168, 304, 140, 2, "y", "up")
         break
     case 9:
         cutscene_wait(0.5)
@@ -82,7 +82,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* He's gone."
             prt[0] = 353
         }
@@ -94,7 +94,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* So what's the plan now?"
             message[1] = "* This door's beyond my#  abilities so don't look#  at me."
             prt[0] = 353
@@ -114,7 +114,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Already checked it."
             message[1] = "* The factory wing,#  right?"
             message[2] = "* Yeah. Place has more#  locks than a hair salon."
@@ -143,7 +143,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* It's called \"humor.\"#  Don't suppose you've#  heard of it."
             message[1] = "* (Geez, and I thought I#  was soulless.)"
             message[2] = "* Sigh..."
@@ -173,7 +173,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Well, there's certainly#  a lot of junk lying#  around."
             message[1] = "* I know you're on a#  strict \"shoot don't#  think\" regiment but..."
             message[2] = "* For once, you're gonna#  have to get creative."
@@ -203,7 +203,7 @@ switch scene
         break
     case 28:
         if (global.route == 3)
-            cutscene_npc_walk_relative(1167, 0, 10, 1, "y", "down")
+            cutscene_npc_walk_relative(1168, 0, 10, 1, "y", "down")
         else
             cutscene_advance(30)
         break
@@ -211,13 +211,13 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Gotta go!"
             prt[0] = 347
         }
         break
     case 30:
-        if cutscene_npc_action_sprite_reverse(3193, 242, 0.25, 1, 0)
+        if cutscene_npc_action_sprite_reverse(3194, 242, 0.25, 1, 0)
         {
             scr_radio_restart()
             global.sworks_flag[25] = 1

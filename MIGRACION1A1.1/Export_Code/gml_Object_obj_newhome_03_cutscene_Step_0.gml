@@ -29,13 +29,13 @@ switch scene
         cutscene_advance()
         break
     case 8:
-        cutscene_npc_walk(1163, obj_martlet_npc.x, (obj_player_npc.y - 20), 4, "x", "up")
+        cutscene_npc_walk(1164, obj_martlet_npc.x, (obj_player_npc.y - 20), 4, "x", "up")
         break
     case 9:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* (I see them!)"
             message[1] = "* (This way!)"
             prt[0] = 330
@@ -44,8 +44,8 @@ switch scene
         break
     case 10:
         cutscene_camera_move(163, 320, 3, 1)
-        cutscene_npc_walk(1163, 187, 370, 4, "y", "up")
-        cutscene_npc_walk(1167, 139, 370, 4, "y", "up")
+        cutscene_npc_walk(1164, 187, 370, 4, "y", "up")
+        cutscene_npc_walk(1168, 139, 370, 4, "y", "up")
         cutscene_advance()
         break
     case 11:
@@ -64,7 +64,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* (Ceroba looks#  distressed...)"
             message[1] = "* (I'm sure we can#  negotiate her down from#  this but...)"
             message[2] = "* (Worst comes to worst,#  we might have to#  retreat.)"
@@ -95,12 +95,12 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
-            talker[1] = 1168
-            talker[3] = 1160
-            talker[6] = 1168
-            talker[7] = 1160
-            talker[8] = 1168
+            talker[0] = 1161
+            talker[1] = 1169
+            talker[3] = 1161
+            talker[6] = 1169
+            talker[7] = 1161
+            talker[8] = 1169
             message[0] = "* Just leave me to my own#  devices, Star!"
             message[1] = "* Ceroba, I don't know#  what you're saying!"
             message[2] = "* Please calm down..."
@@ -131,8 +131,8 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
-            talker[1] = 1163
+            talker[0] = 1161
+            talker[1] = 1164
             message[0] = "* I'll...                "
             message[1] = "* Hey!"
             prt[0] = 2987
@@ -186,16 +186,16 @@ switch scene
         cutscene_advance()
         break
     case 28:
-        cutscene_npc_walk(1163, 189, 322, 3, "y", "up")
+        cutscene_npc_walk(1164, 189, 322, 3, "y", "up")
         break
     case 29:
-        cutscene_npc_walk(1167, 133, 315, 3, "y", "up")
+        cutscene_npc_walk(1168, 133, 315, 3, "y", "up")
         break
     case 30:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Clover and I - we#  watched the tapes. "
             message[1] = "* You need to let this#  go!"
             message[2] = "* If not..."
@@ -214,10 +214,10 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1168
-            talker[2] = 1160
-            talker[5] = 1168
-            talker[10] = 1160
+            talker[0] = 1169
+            talker[2] = 1161
+            talker[5] = 1169
+            talker[10] = 1161
             message[0] = "* Why are you here,#  Clover!? "
             message[1] = "* You're supposed to be#  back home!"
             message[2] = "* No, thank you for#  finding me. Makes things#  easier.  "
@@ -273,20 +273,20 @@ switch scene
             scene = 36
         with (msg)
         {
-            talker[0] = 1160
-            talker[1] = 1168
-            talker[2] = 1160
-            talker[5] = 1168
-            talker[6] = 1160
-            talker[13] = 1163
-            talker[18] = 1160
-            talker[20] = 1168
-            talker[29] = 1160
-            talker[33] = 1168
-            talker[34] = 1160
-            talker[35] = 1163
-            talker[37] = 1160
-            talker[38] = 1168
+            talker[0] = 1161
+            talker[1] = 1169
+            talker[2] = 1161
+            talker[5] = 1169
+            talker[6] = 1161
+            talker[13] = 1164
+            talker[18] = 1161
+            talker[20] = 1169
+            talker[29] = 1161
+            talker[33] = 1169
+            talker[34] = 1161
+            talker[35] = 1164
+            talker[37] = 1161
+            talker[38] = 1169
             message[0] = "* I... lied about Kanako,#  Star. I had to."
             message[1] = "* ...What?"
             message[2] = "* Falling down is#  practically a death#  sentence."
@@ -426,21 +426,21 @@ switch scene
             instance_create_depth(0, 119, -999, obj_newhome_03_effects)
         obj_martlet_npc.x = 0
         obj_martlet_npc.y = 119
-        if cutscene_npc_action_sprite(1163, 198, 1, 1, 0, 672, 27)
+        if cutscene_npc_action_sprite(1164, 198, 1, 1, 0, 672, 27)
             scene = 36
         obj_starlo_npc.x = 0
         obj_starlo_npc.y = 119
-        if cutscene_npc_action_sprite(1168, 3385, 1, 1, 0)
+        if cutscene_npc_action_sprite(1169, 3385, 1, 1, 0)
             scene = 36
         obj_ceroba_npc.x = 0
         obj_ceroba_npc.y = 119
         obj_ceroba_npc.npc_dynamic_depth = 0
         obj_ceroba_npc.depth = (obj_starlo_npc.depth + 1)
-        if cutscene_npc_action_sprite(1160, 2148, 1, 1, 0)
+        if cutscene_npc_action_sprite(1161, 2148, 1, 1, 0)
             scene = 36
         obj_player_npc.x = 0
         obj_player_npc.y = 119
-        if cutscene_npc_action_sprite(1167, 1274, 1, 1, 0)
+        if cutscene_npc_action_sprite(1168, 1274, 1, 1, 0)
             scene = 36
         if (obj_starlo_npc.image_index >= 20)
         {
@@ -466,7 +466,7 @@ switch scene
         }
         break
     case 36.7:
-        if cutscene_npc_action_sprite(1163, 198, 1, 1, 0, 672, 27)
+        if cutscene_npc_action_sprite(1164, 198, 1, 1, 0, 672, 27)
             scene = 36.7
         if (obj_martlet_npc.image_index >= 50)
         {
@@ -526,7 +526,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Clover... "
             message[1] = "* I... "
             message[2] = "* I'm sorry for what I've#  done."
@@ -553,7 +553,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* I've somehow grown to#  respect the hell out of#  you but... "
             message[1] = "* At the end of the#  day... you're naive."
             message[2] = "* There is so much you#  don't understand about#  monsters."
@@ -584,7 +584,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* I'm guessing you#  discovered that truth,#  right? Then what?"
             message[1] = "* Was your and Martlet's#  plan to storm Asgore's#  Castle for revenge?"
             message[2] = "* Or was it simply to#  plead for a free ticket#  back to the Surface?"
@@ -650,7 +650,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Truthfully..."
             message[1] = "* I have nothing left in#  life, so I've made peace#  with throwing it away."
             message[2] = "* ..."

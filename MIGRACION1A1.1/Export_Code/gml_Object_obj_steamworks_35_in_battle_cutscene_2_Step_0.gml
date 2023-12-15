@@ -36,7 +36,7 @@ switch scene
             cutscene_advance()
         break
     case 6:
-        global.party_member = 1170
+        global.party_member = 1171
         scene++
         break
     case 7:

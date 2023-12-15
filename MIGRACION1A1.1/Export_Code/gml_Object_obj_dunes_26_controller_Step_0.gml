@@ -27,8 +27,8 @@ switch scene
         cutscene_instance_create(2100, 245, obj_dunes_26_bailador)
         break
     case 9:
-        cutscene_npc_action_sprite(1717, 1037, 0.25, 1, 0, 383, 2)
-        if cutscene_sfx_play_at_frame(1717, 8, 424)
+        cutscene_npc_action_sprite(1718, 1037, 0.25, 1, 0, 383, 2)
+        if cutscene_sfx_play_at_frame(1718, 8, 424)
             scr_screenshake(10, 3)
         break
     case 10:
@@ -38,13 +38,13 @@ switch scene
         cutscene_music_start(175)
         break
     case 12:
-        cutscene_npc_reset_sprite(1717, "left")
+        cutscene_npc_reset_sprite(1718, "left")
         break
     case 13:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1717
+            talker[0] = 1718
             if (global.route != 3)
             {
                 message[0] = "* Halt!"
@@ -105,7 +105,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1717
+            talker[0] = 1718
             message[0] = "* To truly find oneself,#  they must ignite a#  passion within!"
             message[1] = "* Let us duel!"
         }
@@ -125,7 +125,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1717
+            talker[0] = 1718
             if (global.dunes_flag[52] == 0)
             {
                 message[0] = "* Huff... huff..."
@@ -151,7 +151,7 @@ switch scene
         }
         break
     case 26:
-        cutscene_npc_action_sprite(1717, 1039, 0.25, 1, 0, 383, 2)
+        cutscene_npc_action_sprite(1718, 1039, 0.25, 1, 0, 383, 2)
         break
     case 27:
         instance_destroy(obj_dunes_26_bailador)

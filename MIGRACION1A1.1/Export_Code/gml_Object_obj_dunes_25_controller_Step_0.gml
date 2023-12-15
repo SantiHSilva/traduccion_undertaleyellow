@@ -8,7 +8,7 @@ switch scene
         }
         break
     case 1:
-        cutscene_npc_walk(1167, 200, 270, 2, "y", "up")
+        cutscene_npc_walk(1168, 200, 270, 2, "y", "up")
         scene++
         break
     case 2:
@@ -22,7 +22,7 @@ switch scene
         break
     case 4:
         obj_flowey_npc.image_alpha = 1
-        cutscene_npc_action_sprite(3193, 242, 0.2, 0)
+        cutscene_npc_action_sprite(3194, 242, 0.2, 0)
         break
     case 5:
         cutscene_wait(0.5)
@@ -31,7 +31,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Howdy!"
             prt[0] = 348
         }
@@ -55,7 +55,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Gee, wouldja look at#  that...	"
             message[1] = "* I can almost see the#  King's Castle from here!"
             prt[0] = 348
@@ -76,7 +76,7 @@ switch scene
         }
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             color = 1
             col_modif[0] = 255
             message[0] = "* Heh, ASGORE..."
@@ -147,7 +147,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Boss Monsters know how#  to cling to life, that's#  for sure."
             prt[0] = 353
         }
@@ -162,7 +162,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Hey, don't let all that#  info scare ya!"
             message[1] = "* Immortal doesn't mean#  invincible!"
             message[2] = "* And still, a human SOUL#  is more powerful than a#  Boss Monster SOUL."
@@ -194,7 +194,7 @@ switch scene
         else
         {
             global.cutscene = true
-            if cutscene_npc_action_sprite(3193, 245, 0.2)
+            if cutscene_npc_action_sprite(3194, 245, 0.2)
             {
                 instance_destroy(obj_flowey_npc)
                 obj_determination.image_alpha = 1

@@ -13,7 +13,7 @@ function scr_start_enemy_attacking_dunebud_duo() //gml_Script_scr_start_enemy_at
     {
         if (fight_number == 1)
         {
-            if (enemy_dead == 0 && enemy_spared == 0)
+            if (enemy_dead == 0 && enemy_spared == 0 && global.action_3_selected_count < 2)
             {
                 instance_create(220, 132, obj_quote_bubble_battle_yellow_2)
                 instance_create(0, 0, obj_quote_battle_dunebud_a)
@@ -28,7 +28,7 @@ function scr_start_enemy_attacking_dunebud_duo() //gml_Script_scr_start_enemy_at
         }
         else if (fight_number == 2)
         {
-            if (enemy_dead_2 == 0 && enemy_spared_2 == 0)
+            if (enemy_dead_2 == 0 && enemy_spared_2 == 0 && global.action_3_selected_count_2 < 2)
             {
                 instance_create(242, 132, obj_quote_bubble_battle_yellow_2_reverse)
                 instance_create(0, 0, obj_quote_battle_dunebud_b)
@@ -44,18 +44,21 @@ function scr_start_enemy_attacking_dunebud_duo() //gml_Script_scr_start_enemy_at
     }
     else if (battle_menu_number == 2)
     {
+        if (act_number == 1 && global.action_3_selected_count >= 2)
+            act_number = 2
+        if (act_number == 2 && global.action_3_selected_count_2 >= 2)
+            act_number = 1
         if (act_number == 1)
         {
             instance_create(220, 132, obj_quote_bubble_battle_yellow_2)
             instance_create(0, 0, obj_quote_battle_dunebud_a)
-            instance_create(round((obj_dialogue_box_battle_transformation_any.bbox_left + ((obj_dialogue_box_battle_transformation_any.bbox_right - obj_dialogue_box_battle_transformation_any.bbox_left) / 2))), round((obj_dialogue_box_battle_transformation_any.bbox_top + ((obj_dialogue_box_battle_transformation_any.bbox_bottom - obj_dialogue_box_battle_transformation_any.bbox_top) / 2))), obj_heart_battle_fighting_red)
         }
         else if (act_number == 2)
         {
             instance_create(242, 132, obj_quote_bubble_battle_yellow_2_reverse)
             instance_create(0, 0, obj_quote_battle_dunebud_b)
-            instance_create(round((obj_dialogue_box_battle_transformation_any.bbox_left + ((obj_dialogue_box_battle_transformation_any.bbox_right - obj_dialogue_box_battle_transformation_any.bbox_left) / 2))), round((obj_dialogue_box_battle_transformation_any.bbox_top + ((obj_dialogue_box_battle_transformation_any.bbox_bottom - obj_dialogue_box_battle_transformation_any.bbox_top) / 2))), obj_heart_battle_fighting_red)
         }
+        instance_create(round((obj_dialogue_box_battle_transformation_any.bbox_left + ((obj_dialogue_box_battle_transformation_any.bbox_right - obj_dialogue_box_battle_transformation_any.bbox_left) / 2))), round((obj_dialogue_box_battle_transformation_any.bbox_top + ((obj_dialogue_box_battle_transformation_any.bbox_bottom - obj_dialogue_box_battle_transformation_any.bbox_top) / 2))), obj_heart_battle_fighting_red)
     }
     else
     {

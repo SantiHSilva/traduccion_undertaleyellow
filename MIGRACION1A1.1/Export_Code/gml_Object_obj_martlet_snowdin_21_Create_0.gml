@@ -31,7 +31,7 @@ if (global.snowdin_flag[13] > 0)
         y = 280
     }
     instance_create(x, (y - 20), obj_camera)
-    __view_set((9 << 0), 0, 1119)
+    __view_set((9 << 0), 0, 1120)
     obj_pl.x = x
     obj_pl.y = (y + 30)
 }

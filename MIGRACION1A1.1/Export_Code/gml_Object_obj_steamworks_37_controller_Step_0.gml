@@ -23,20 +23,20 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* We actually made it..."
             prt[0] = 371
         }
         break
     case 5:
-        cutscene_npc_walk(1160, 200, 140, 3, "x", "up")
+        cutscene_npc_walk(1161, 200, 140, 3, "x", "up")
         scene++
         break
     case 6:
         cutscene_wait(0.5)
         break
     case 7:
-        cutscene_npc_walk(1167, 150, 170, 3, "y", "up")
+        cutscene_npc_walk(1168, 150, 170, 3, "y", "up")
         break
     case 8:
         cutscene_wait(0.25)
@@ -45,7 +45,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Let's hope this elevator#  works."
             prt[0] = 394
         }
@@ -99,13 +99,13 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Next stop, the Lab."
             prt[0] = 371
         }
         break
     case 18:
-        cutscene_npc_walk(1160, 170, obj_ceroba_npc.y, 1, "x", "up")
+        cutscene_npc_walk(1161, 170, obj_ceroba_npc.y, 1, "x", "up")
         break
     case 19:
         instance_create(360, 170, obj_starlo_npc)
@@ -127,7 +127,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* And what are you planning to do#  at the Lab?"
         }
         break
@@ -136,34 +136,34 @@ switch scene
         cutscene_npc_direction(obj_ceroba_npc, "right")
         break
     case 22:
-        cutscene_npc_walk(1168, 260, 170, 4, "x", "left")
-        cutscene_npc_walk(1161, 300, 150, 4, "x", "left")
+        cutscene_npc_walk(1169, 260, 170, 4, "x", "left")
+        cutscene_npc_walk(1162, 300, 150, 4, "x", "left")
         scene = 23
         break
     case 23:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Starlo!? W-What are you#  doing here!?"
             prt[0] = 388
         }
         break
     case 24:
-        if cutscene_npc_walk(1160, 200, 170, 4, "x", "right")
+        if cutscene_npc_walk(1161, 200, 170, 4, "x", "right")
             cutscene_music = audio_play_sound(mus_ones_past, 1, true)
         break
     case 25:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1168
-            talker[3] = 1168
-            talker[8] = 1168
-            talker[12] = 1168
-            talker[6] = 1161
-            talker[2] = 1160
-            talker[10] = 1160
+            talker[0] = 1169
+            talker[3] = 1169
+            talker[8] = 1169
+            talker[12] = 1169
+            talker[6] = 1162
+            talker[2] = 1161
+            talker[10] = 1161
             message[0] = "* The gang and I were#  planning a return party#  for you."
             message[1] = "* Thought it was a great#  idea, especially for#  Kanako."
             message[2] = "* That's... very kind of#  you."
@@ -207,7 +207,7 @@ switch scene
         cutscene_npc_set_sprites(obj_ceroba_npc, 67, 68, 66, 68, 61, 65, 60, 65)
         break
     case 28:
-        cutscene_npc_walk(1160, 185, obj_ceroba_npc.y, 1, "x", "right")
+        cutscene_npc_walk(1161, 185, obj_ceroba_npc.y, 1, "x", "right")
         break
     case 29:
         cutscene_wait(0.5)
@@ -217,7 +217,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* I... "
             message[1] = "* I have to go."
             message[2] = "* Clover, come on!"
@@ -230,8 +230,8 @@ switch scene
         cutscene_npc_set_sprites(obj_ceroba_npc, 81, 80, 78, 79, 61, 65, 60, 63)
         break
     case 32:
-        cutscene_npc_walk(1160, 170, 100, 4, "x", "down")
-        cutscene_npc_walk(1168, 170, 135, 5, "x", "up")
+        cutscene_npc_walk(1161, 170, 100, 4, "x", "down")
+        cutscene_npc_walk(1169, 170, 135, 5, "x", "up")
         if (obj_ceroba_npc.y < 140)
         {
             obj_ceroba_npc.image_alpha -= 0.5
@@ -259,13 +259,13 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* Ceroba!!!"
             prt[0] = 403
         }
         break
     case 39:
-        cutscene_npc_walk(1168, 200, 140, 4, "x", "up")
+        cutscene_npc_walk(1169, 200, 140, 4, "x", "up")
         break
     case 41:
     case 43:
@@ -287,8 +287,8 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1168
-            talker[2] = 1161
+            talker[0] = 1169
+            talker[2] = 1162
             message[0] = "* Ed! Take Clover back#  home and keep watch!"
             message[1] = "* I'll chase after her!"
             message[2] = "* Right!"
@@ -301,7 +301,7 @@ switch scene
         cutscene_npc_direction(obj_starlo_npc, "up")
         break
     case 52:
-        cutscene_npc_walk(1161, obj_player_npc.x, (obj_player_npc.y - 15), 4, "y", "down")
+        cutscene_npc_walk(1162, obj_player_npc.x, (obj_player_npc.y - 15), 4, "y", "down")
         break
     case 53:
         cutscene_advance(55)
@@ -309,7 +309,7 @@ switch scene
     case 54:
         break
     case 55:
-        cutscene_npc_action_sprite(1161, 149, 0.25, 0)
+        cutscene_npc_action_sprite(1162, 149, 0.25, 0)
         instance_destroy(obj_player_npc)
         obj_pl.image_alpha = 0
         obj_ed_npc.up_sprite = 155
@@ -328,7 +328,7 @@ switch scene
         cutscene_wait(0.5)
         break
     case 58:
-        cutscene_npc_walk(1161, 520, obj_ed_npc.y, 3, "x", "right")
+        cutscene_npc_walk(1162, 520, obj_ed_npc.y, 3, "x", "right")
         cutscene_advance()
         break
     case 59:
@@ -350,7 +350,7 @@ switch scene
         }
         break
     case 62:
-        if cutscene_npc_walk(1168, 170, 100, 3, "x", "up")
+        if cutscene_npc_walk(1169, 170, 100, 3, "x", "up")
             scene = 62
         if (obj_starlo_npc.y < 140)
         {

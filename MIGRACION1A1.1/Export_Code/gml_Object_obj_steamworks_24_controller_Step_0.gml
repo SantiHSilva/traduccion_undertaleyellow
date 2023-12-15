@@ -36,7 +36,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Howdy!"
             message[1] = "* Boy am I glad that fox#  lady let you roam free#  for a bit."
             message[2] = "* Not being able to talk#  to my pal has been#  torture!"
@@ -64,7 +64,7 @@ switch scene
         }
         break
     case 5:
-        cutscene_npc_action_sprite(3193, 245, 0.25, 1, 0)
+        cutscene_npc_action_sprite(3194, 245, 0.25, 1, 0)
         break
     case 6:
         instance_destroy(obj_flowey_npc)
@@ -77,7 +77,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Hey, wait up!"
             prt[0] = 370
         }
@@ -88,13 +88,13 @@ switch scene
         cutscene_advance()
         break
     case 10:
-        cutscene_npc_walk(1160, (obj_pl.x + 40), obj_pl.y, 3, "x", "left")
+        cutscene_npc_walk(1161, (obj_pl.x + 40), obj_pl.y, 3, "x", "left")
         break
     case 11:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* I think I'm ready to#  get back into things."
             message[1] = "* Lead the way."
             prt[0] = 377
@@ -102,7 +102,7 @@ switch scene
         }
         break
     case 12:
-        cutscene_npc_walk(1160, (obj_pl.x + 20), obj_pl.y, 3, "x", "left")
+        cutscene_npc_walk(1161, (obj_pl.x + 20), obj_pl.y, 3, "x", "left")
         break
     case 13:
         audio_sound_gain(obj_radio.current_song, 1, 500)
@@ -111,7 +111,7 @@ switch scene
     case 14:
         obj_pl.direction = 180
         scr_actor_into_follower(obj_ceroba_npc, obj_ceroba_follower)
-        global.party_member = 1170
+        global.party_member = 1171
         global.sworks_flag[15] = 1
         cutscene_advance()
         break

@@ -7,4 +7,4 @@ scene = 0
 cutscene_timer = 0
 attack_delay = 1
 attack_list = ds_list_create()
-ds_list_add(attack_list, 2055, 2828, 650, 2034, 2055)
+ds_list_add(attack_list, 2056, 2829, 651, 2035, 2056)

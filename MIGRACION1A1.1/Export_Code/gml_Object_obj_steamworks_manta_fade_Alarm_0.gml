@@ -4,13 +4,13 @@ with (other)
     if (obj_steamworks_manta.manta_has_passengers == 0)
     {
         obj_steamworks_manta.manta_has_passengers = 1
-        __view_set((9 << 0), 0, 2052)
+        __view_set((9 << 0), 0, 2053)
     }
     else
     {
         with (obj_steamworks_manta)
             event_perform(ev_create, 0)
-        __view_set((9 << 0), 0, 1030)
+        __view_set((9 << 0), 0, 1031)
         obj_pl.x = dock_x
         obj_pl.y = dock_y
         if (global.party_member != noone)

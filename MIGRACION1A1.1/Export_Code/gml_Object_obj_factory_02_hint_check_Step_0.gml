@@ -18,11 +18,11 @@ switch scene
         cutscene_follower_into_actor()
         break
     case 2:
-        cutscene_npc_walk(1167, 660, 660, 3, "x", "up")
+        cutscene_npc_walk(1168, 660, 660, 3, "x", "up")
         scene++
         break
     case 3:
-        cutscene_npc_walk(1160, 630, 660, 3, "x", "up")
+        cutscene_npc_walk(1161, 630, 660, 3, "x", "up")
         scene++
         break
     case 4:
@@ -48,7 +48,7 @@ switch scene
         }
         break
     case 7:
-        cutscene_npc_walk(1160, obj_pl.x, (obj_pl.y + 20), 3, "y", "up")
+        cutscene_npc_walk(1161, obj_pl.x, (obj_pl.y + 20), 3, "y", "up")
         break
     case 8:
         obj_pl.direction = 90

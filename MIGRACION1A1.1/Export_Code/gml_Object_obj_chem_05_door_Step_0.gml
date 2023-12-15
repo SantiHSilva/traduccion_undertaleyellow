@@ -100,7 +100,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* HELLO."
             message[1] = "* I HAD TROUBLE LOCATING#  YOU AFTER OUR LAST#  ENCOUNTER."
             message[2] = "* WORRY NO MORE, I HAVE#  LOCATED YOU."
@@ -112,7 +112,7 @@ switch scene
         }
         break
     case 6:
-        cutscene_npc_walk(1165, obj_axis_npc.x, 170, 3, "x", "down")
+        cutscene_npc_walk(1166, obj_axis_npc.x, 170, 3, "x", "down")
         cutscene_advance()
         break
     case 7:
@@ -141,7 +141,7 @@ switch scene
         {
             ch[1] = "No way!"
             ch[2] = "Sure!"
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* I JUST FOUND THIS#  HIGHLY-CORROSIVE#  CONCOCTION."
             message[1] = "* I WOULD LIKE TO APPLY#  IT ON YOUR SKIN."
             message[2] = "* WILL YOU BE MY TEST#  SUBJECT?"
@@ -167,10 +167,10 @@ switch scene
         cutscene_wait(0.1)
         break
     case 14:
-        cutscene_npc_action_sprite(1165, 3707, 6, 1, 0)
+        cutscene_npc_action_sprite(1166, 3707, 6, 1, 0)
         break
     case 15:
-        cutscene_npc_action_sprite(1165, 3105, 1, 1, 1)
+        cutscene_npc_action_sprite(1166, 3105, 1, 1, 1)
         cutscene_advance()
         break
     case 16:
@@ -180,7 +180,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* IT IS TOUGH TO OPEN#  CONTAINERS..."
             message[1] = "* ...WHEN MY ONLY POINT#  OF FORCE IS AT THE BACK#  OF MY HANDS."
             prt[0] = 473
@@ -188,7 +188,7 @@ switch scene
         }
         break
     case 18:
-        cutscene_npc_action_sprite(1165, 174, 1, 1, 1, 72, 0)
+        cutscene_npc_action_sprite(1166, 174, 1, 1, 1, 72, 0)
         cutscene_advance()
         break
     case 19:
@@ -198,14 +198,14 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* ALMOST HAVE IT."
             prt[0] = 473
         }
         break
     case 21:
         audio_stop_sound(cutscene_music)
-        cutscene_npc_action_sprite(1165, 3304, 1, 1, 0, 30, 0)
+        cutscene_npc_action_sprite(1166, 3304, 1, 1, 0, 30, 0)
         break
     case 22:
         cutscene_wait(1.5)
@@ -214,7 +214,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* [Shoot]"
             message[1] = "* DO NOT FRET, I WILL#  RETRIEVE ANOTHER TUBE-"
             prt[0] = 473
@@ -235,7 +235,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* HUH."
             message[1] = "* HOW THE TABLES TURN."
             prt[0] = 473
@@ -297,7 +297,7 @@ switch scene
         instance_destroy(obj_chem_05_floor_melt_front)
         scr_radio_restart()
         scr_cutscene_end()
-        instance_activate_object(105565)
+        instance_activate_object(105566)
         solid = 0
         if (global.route == 3 || global.geno_complete[3] == 1)
             global.sworks_flag[25] = 5

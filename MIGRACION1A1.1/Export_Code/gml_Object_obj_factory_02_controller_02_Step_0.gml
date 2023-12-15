@@ -18,7 +18,7 @@ switch scene
         break
     case 3:
         var arrive = 0
-        if (cutscene_npc_walk(1167, 350, 300, 3, "x", "up") || (obj_player_npc.x == 350 && obj_player_npc.y == 300))
+        if (cutscene_npc_walk(1168, 350, 300, 3, "x", "up") || (obj_player_npc.x == 350 && obj_player_npc.y == 300))
         {
             arrive += 1
             scene = 3
@@ -44,7 +44,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* What the"
             prt[0] = 393
             if (message_current == 0)
@@ -100,7 +100,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Sort each colored#  package by tilting that#  platform left or right."
             message[1] = "* Pretty obvious."
             prt[0] = 377
@@ -123,7 +123,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Not by choice."
             prt[0] = 382
             position = 1
@@ -136,7 +136,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* I'll take the#  drop-chute up top, you#  man the platform."
             message[1] = "* Good? Good."
             prt[0] = 377
@@ -145,8 +145,8 @@ switch scene
         }
         break
     case 16:
-        cutscene_npc_walk(1160, 150, 320, 4, "y", "right", -4)
-        cutscene_npc_walk(1167, 420, 275, 3, "x", "up", -4, 358, 263)
+        cutscene_npc_walk(1161, 150, 320, 4, "y", "right", -4)
+        cutscene_npc_walk(1168, 420, 275, 3, "x", "up", -4, 358, 263)
         scene++
         break
     case 17:
@@ -163,7 +163,7 @@ switch scene
         cutscene_advance()
         break
     case 19:
-        cutscene_npc_walk(1160, 255, 137, 3, "x", "down")
+        cutscene_npc_walk(1161, 255, 137, 3, "x", "down")
         break
     case 20:
         cutscene_camera_move(360, 170, 2)
@@ -173,7 +173,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Ready?"
             message[1] = "* Here goes nothing!"
             prt[0] = 370
@@ -195,7 +195,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Phew!"
             message[1] = "* Coming back down!"
             prt[0] = 394
@@ -204,7 +204,7 @@ switch scene
         }
         break
     case 26:
-        cutscene_npc_walk(1160, 180, 137, 3, "x", "down")
+        cutscene_npc_walk(1161, 180, 137, 3, "x", "down")
         break
     case 27:
         if (!audio_is_playing(mus_mixin_it_up))
@@ -239,7 +239,7 @@ switch scene
         cutscene_npc_walk(actor_follower, 310, 280, 3, "y", "up")
         break
     case 30:
-        cutscene_npc_walk(1167, 368, 263, 2, "x", "up")
+        cutscene_npc_walk(1168, 368, 263, 2, "x", "up")
         break
     case 31:
         obj_ceroba_npc.action_sprite = 1
@@ -273,7 +273,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Hey! It isn't our fault#  this system is so#  impractical!"
             message[1] = "* Why does it take two#  giant steps to ship a#  few packages?"
             message[2] = "* Why can't we sort the#  colors when boxing them#  in the first room??"
@@ -299,7 +299,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* You know, for being#  built by such great#  minds..."
             message[1] = "* The Steamworks are#  awfully convoluted."
             prt[0] = 368
@@ -321,8 +321,8 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
-            message[0] = "* Says the wall-mounted#  gif comprised of three#  pixels."
+            talker[0] = 1161
+            message[0] = "* Says the wall-mounted#  GIF comprised of three#  pixels."
             message[1] = "* You know what?"
             message[2] = "* You can take your little#  \"passcode\" and    "
             prt[0] = 366
@@ -342,7 +342,7 @@ switch scene
         break
     case 41:
         obj_ceroba_npc.image_alpha = 0
-        cutscene_npc_action_sprite(1167, 2709, 1, 1, 0)
+        cutscene_npc_action_sprite(1168, 2709, 1, 1, 0)
         if (obj_player_npc.image_index >= 21)
         {
             obj_player_npc.image_speed = 0
@@ -371,14 +371,14 @@ switch scene
         }
         break
     case 41.8:
-        if cutscene_npc_action_sprite(1167, 2709, 1, 1, 0)
+        if cutscene_npc_action_sprite(1168, 2709, 1, 1, 0)
             cutscene_advance(42)
         break
     case 42:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* ...Just give us the code."
             prt[0] = 377
         }
@@ -398,7 +398,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Yeah, thanks."
             prt[0] = 394
         }
@@ -426,7 +426,7 @@ switch scene
         break
     case 49:
         instance_destroy(obj_camera)
-        camera_set_view_target(view_camera[0], 1030)
+        camera_set_view_target(view_camera[0], 1031)
         cutscene_advance()
         break
     case 50:

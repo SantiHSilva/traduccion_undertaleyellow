@@ -8,7 +8,7 @@ if (scr_interact() && keyboard_multicheck_pressed(0))
 switch scene
 {
     case 0:
-        cutscene_npc_walk_relative(1167, 0, 10, 0.5, "y", "down")
+        cutscene_npc_walk_relative(1168, 0, 10, 0.5, "y", "down")
         break
     case 1:
         sprite_index = spr_ceroba_cool_alt

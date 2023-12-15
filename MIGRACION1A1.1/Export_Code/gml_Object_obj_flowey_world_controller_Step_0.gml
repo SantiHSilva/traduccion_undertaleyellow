@@ -63,7 +63,7 @@ switch scene
             msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
             with (msg)
             {
-                talker[0] = 1158
+                talker[0] = 1159
                 message[0] = "* Ah! Hello!"
                 message[1] = "* Are you all right?"
                 message[2] = "* You must be wondering#  what is going on..."
@@ -121,14 +121,14 @@ switch scene
                     {
                         other.tori_dialogue = 1
                         message[0] = "* Go on, press the#  switch on the left."
-                        talker[0] = 1158
+                        talker[0] = 1159
                         skippable = 1
                     }
                     else
                     {
                         message[0] = "* You do know which#  way left is, do#  you not?"
                         message[1] = "* Press the switch that#  I labelled for you."
-                        talker[0] = 1158
+                        talker[0] = 1159
                         skippable = 1
                     }
                     soundfont = 97
@@ -155,7 +155,7 @@ switch scene
                 msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
                 with (msg)
                 {
-                    talker[0] = 1158
+                    talker[0] = 1159
                     message[0] = "* Splendid!"
                     message[1] = "* I am proud of you,#  little one."
                     soundfont = 97
@@ -189,7 +189,7 @@ switch scene
                 with (msg)
                 {
                     message[0] = "* Go ahead and#  push the rock!"
-                    talker[0] = 1158
+                    talker[0] = 1159
                     skippable = 1
                     soundfont = 97
                 }
@@ -213,7 +213,7 @@ switch scene
             msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
             with (msg)
             {
-                talker[0] = 1158
+                talker[0] = 1159
                 message[0] = "* You are learning#  so much, my child!"
                 soundfont = 97
             }

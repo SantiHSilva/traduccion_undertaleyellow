@@ -26,4 +26,4 @@ if (global.sworks_flag[31] == 2)
     obj_steamworks_35_trashcan.image_index = 1
     return;
 }
-actor_axis = 1165
+actor_axis = 1166

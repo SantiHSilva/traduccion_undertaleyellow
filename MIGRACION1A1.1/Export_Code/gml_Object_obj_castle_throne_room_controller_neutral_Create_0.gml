@@ -10,6 +10,6 @@ obj_pl.y = 576
 obj_pl.direction = 90
 instance_create(160, 576, obj_player_npc)
 instance_create(160, 544, obj_martlet_npc)
-camera_set_view_target(view_camera[0], 1163)
+camera_set_view_target(view_camera[0], 1164)
 with (obj_doorway)
     instance_destroy()

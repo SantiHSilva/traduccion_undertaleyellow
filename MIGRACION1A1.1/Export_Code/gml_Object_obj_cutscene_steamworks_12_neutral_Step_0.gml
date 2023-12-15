@@ -36,7 +36,7 @@ switch scene
         cutscene_music_start(219)
         break
     case 10:
-        cutscene_npc_walk(1165, 190, obj_pl.y, 4, "y", "right", 0)
+        cutscene_npc_walk(1166, 190, obj_pl.y, 4, "y", "right", 0)
         break
     case 11:
         cutscene_dialogue()
@@ -44,7 +44,7 @@ switch scene
         {
             color = 1
             col_modif[0] = 16711935
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* AXIS MODEL 014 READY TO#  GUARD AND PROTECT."
             message_col[0][0] = "  AXIS                                        "
             message[1] = "* INTRUDER SPOTTED.#  STEAMWORKS: EASTERN#  BRANCH."
@@ -103,7 +103,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* INCREDIBLE."
             message[1] = "* YOU HAVE THE MOST#  EMOTIONLESS FACE I HAVE#  EVER SEEN."
             message[2] = "* I WILL JUST HAVE TO GO#  WITH MY NON-EXISTENT GUT#  AND SAY YOU WERE LYING."

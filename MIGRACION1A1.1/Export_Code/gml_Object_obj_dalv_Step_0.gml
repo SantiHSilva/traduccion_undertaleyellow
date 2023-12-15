@@ -26,7 +26,7 @@ if (room == rm_darkruins_07)
             {
                 cam = instance_create(obj_pl.x, obj_pl.y, obj_camera)
                 cam.speed = 2
-                __view_set((9 << 0), 0, 1119)
+                __view_set((9 << 0), 0, 1120)
                 direction = 0
             }
             if (timer == 130)
@@ -125,7 +125,7 @@ if (room == rm_darkruins_07)
             if (obj_camera.x <= obj_pl.x)
             {
                 timer++
-                __view_set((9 << 0), 0, 1030)
+                __view_set((9 << 0), 0, 1031)
                 global.cutscene = false
                 obj_pl.state = gml_Script_scr_normal_state
                 global.flag[25] = 1
@@ -171,7 +171,7 @@ if (room == rm_darkruins_10 && global.flag[3] == 0)
                 cam.speed = 3
             else
                 cam.speed = 0
-            __view_set((9 << 0), 0, 1119)
+            __view_set((9 << 0), 0, 1120)
             timer++
         }
         if (timer == 110)
@@ -231,7 +231,7 @@ if (room == rm_darkruins_10 && global.flag[3] == 0)
             {
                 with (cam2)
                     instance_destroy()
-                __view_set((9 << 0), 0, 1030)
+                __view_set((9 << 0), 0, 1031)
                 scr_cutscene_end()
                 global.flag[3] = 1
                 obj_rndenc.disabled = 0
@@ -376,7 +376,7 @@ if (room == rm_darkruins_16 && global.flag[26] == 0)
         {
             with (cam)
                 instance_destroy()
-            __view_set((9 << 0), 0, 1030)
+            __view_set((9 << 0), 0, 1031)
             global.cutscene = false
             obj_pl.state = gml_Script_scr_normal_state
             global.flag[26] = 1
@@ -404,7 +404,7 @@ if (room == rm_darkruins_18 && global.flag[27] == 0)
             obj_pl.image_index = 0
             obj_pl.direction = 90
             cam = instance_create(obj_pl.x, obj_pl.y, obj_camera)
-            __view_set((9 << 0), 0, 1119)
+            __view_set((9 << 0), 0, 1120)
             cam.vspeed = -1
             timer++
         }

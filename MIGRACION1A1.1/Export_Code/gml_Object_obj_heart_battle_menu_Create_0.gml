@@ -9,7 +9,7 @@ alarm[0] = 1
 image_speed = 0
 image_index = 0
 text_deadlock_1 = 0
-text_desdlock_contents_1 = 3015
+text_desdlock_contents_1 = 3016
 var player_character = global.player_character
 switch player_character
 {

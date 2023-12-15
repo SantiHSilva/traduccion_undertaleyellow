@@ -1,7 +1,7 @@
 if live_call()
     return global.live_result;
 image_alpha += 0.2
-var battle_box = 3153
+var battle_box = 3154
 if (bbox_bottom >= battle_box.bbox_bottom && (!bounce_noloop))
 {
     audio_play_sound(choose(423, 424, 425), 1, false)

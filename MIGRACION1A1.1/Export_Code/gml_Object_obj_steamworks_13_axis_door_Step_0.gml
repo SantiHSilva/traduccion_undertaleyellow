@@ -21,7 +21,7 @@ if (global.sworks_flag[6] == 0)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* Hold on! That's far too#  easy of an escape."
                 message[1] = "* Don't be reckless,#  we'll find another way#  out."
                 prt[0] = 381
@@ -36,7 +36,7 @@ if (global.sworks_flag[6] == 0)
             cutscene_instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
             break
         case 4:
-            cutscene_npc_walk_relative(1167, 0, 40, 3, "y", "down")
+            cutscene_npc_walk_relative(1168, 0, 40, 3, "y", "down")
             break
         case 5:
             with (obj_player_npc)
@@ -80,7 +80,7 @@ if (global.sworks_flag[6] == 1)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* Wow, he caught you.#  Shocker."
                 prt[0] = 384
             }
@@ -120,7 +120,7 @@ if (global.sworks_flag[6] == 3)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* What are you trying to#  accomplish?"
                 message[1] = "* Come on, stick to the#  plan!"
                 prt[0] = 366
@@ -169,7 +169,7 @@ if (global.sworks_flag[6] == 4)
             cutscene_instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
             break
         case 6:
-            cutscene_npc_walk_relative(1167, 0, 40, 3, "y", "down")
+            cutscene_npc_walk_relative(1168, 0, 40, 3, "y", "down")
             break
         case 7:
             with (obj_player_npc)

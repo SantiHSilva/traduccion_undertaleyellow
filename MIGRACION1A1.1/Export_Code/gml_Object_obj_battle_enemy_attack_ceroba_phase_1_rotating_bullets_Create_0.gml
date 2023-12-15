@@ -1,6 +1,6 @@
 if live_call()
     return global.live_result;
-soul = 2978
+soul = 2979
 bullet_count = 4
 bullet_count_max = 4
 spawn_dir = irandom_range(0, 360)

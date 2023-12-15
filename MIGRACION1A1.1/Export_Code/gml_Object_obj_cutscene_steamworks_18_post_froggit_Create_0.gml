@@ -17,7 +17,7 @@ if (global.sworks_flag[50] == 1)
 {
     instance_create_depth((obj_player_npc.x - 30), obj_player_npc.y, -100, obj_ceroba_npc)
     obj_ceroba_npc.npc_direction = "right"
-    global.party_member = 1170
+    global.party_member = 1171
 }
 var fade = instance_create(0, 0, obj_screen_fade_effect)
 fade.fade_stage = 1

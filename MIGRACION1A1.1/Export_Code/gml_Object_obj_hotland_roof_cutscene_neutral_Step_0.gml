@@ -20,14 +20,14 @@ switch scene
         }
         break
     case 1:
-        cutscene_npc_walk(1167, obj_martlet_npc.x, obj_pl.y, 3, "x", "up")
+        cutscene_npc_walk(1168, obj_martlet_npc.x, obj_pl.y, 3, "x", "up")
         break
     case 2:
         if cutscene_wait(1.5)
             cutscene_advance(2.5)
         break
     case 2.5:
-        if cutscene_npc_walk(1167, obj_martlet_npc.x, (obj_martlet_npc.y + 60), 1, "x", "up")
+        if cutscene_npc_walk(1168, obj_martlet_npc.x, (obj_martlet_npc.y + 60), 1, "x", "up")
             cutscene_advance(3)
         break
     case 3:
@@ -55,7 +55,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             position = 0
             switch text_var
             {
@@ -101,7 +101,7 @@ switch scene
         {
             color = 1
             col_modif[0] = 16776960
-            talker[0] = 1163
+            talker[0] = 1164
             switch text_var
             {
                 case 0:
@@ -165,7 +165,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             switch text_var
             {
                 case 0:
@@ -210,13 +210,13 @@ switch scene
         cutscene_wait(0.5)
         break
     case 20:
-        cutscene_npc_action_sprite(1163, 225, 1, 1, 0)
+        cutscene_npc_action_sprite(1164, 225, 1, 1, 0)
         break
     case 21:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             switch text_var
             {
                 case 0:
@@ -261,7 +261,7 @@ switch scene
             cutscene_wait(0.25)
         break
     case 23:
-        if cutscene_npc_action_sprite(1163, 3670, 1, 1, 0)
+        if cutscene_npc_action_sprite(1164, 3670, 1, 1, 0)
         {
             obj_martlet_npc.action_sprite = 0
             if (text_var != 3)
@@ -281,7 +281,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             switch text_var
             {
                 case 0:
@@ -363,7 +363,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             switch text_var
             {
                 case 0:
@@ -525,7 +525,7 @@ switch scene
         }
         break
     case 28:
-        cutscene_npc_walk_relative(1163, 0, 20, 1, "y", "down")
+        cutscene_npc_walk_relative(1164, 0, 20, 1, "y", "down")
         break
     case 29:
         cutscene_instance_create(obj_martlet_npc.x, obj_martlet_npc.y, obj_hotland_roof_martlet_vine)
@@ -581,7 +581,7 @@ switch scene
             with (msg)
             {
                 var message_insert = 2
-                talker[0] = 3193
+                talker[0] = 3194
                 message[0] = "* You gotta be kidding me!"
                 message[1] = "* I just knew something#  like this would happen!"
                 prt[0] = 351
@@ -638,7 +638,7 @@ switch scene
         {
             with (msg)
             {
-                talker[0] = 3193
+                talker[0] = 3194
                 message[0] = "* Oops! Got to her first!"
                 message[1] = "* Though I must say..."
                 message[2] = "* The whole “false sense#  of security” bit? Very#  clever."
@@ -696,7 +696,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             if (abandoned_geno == 0)
             {
                 message[0] = "* Nuh-uh-uh!"
@@ -740,7 +740,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* We had a nice run,#  didn't we?"
             prt[0] = 348
         }
@@ -757,14 +757,14 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Too bad I won't#  miss it."
             prt[0] = 2165
             sndfnt = 664
         }
         break
     case 49:
-        if cutscene_npc_action_sprite(3193, 3150, 1, 1, 1)
+        if cutscene_npc_action_sprite(3194, 3150, 1, 1, 1)
         {
             obj_flowey_npc.action_sprite_stop = 0
             obj_flowey_npc.action_sprite = 1
@@ -1078,7 +1078,7 @@ if (scene >= 50 && scene <= 53 && (!audio_is_playing(snd_flowey_laugh)))
 {
     if (obj_flowey_npc.sprite_index == spr_flowey_laughs || obj_flowey_npc.sprite_index == spr_flowey_rooftop_grows)
     {
-        if cutscene_npc_action_sprite_reverse(3193, 3150, 1, 0)
+        if cutscene_npc_action_sprite_reverse(3194, 3150, 1, 0)
             scene -= 1
     }
 }

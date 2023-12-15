@@ -1,13 +1,13 @@
 if live_call()
     return global.live_result;
 if instance_exists(obj_dialogue_box_battle_transformation_any)
-    var box = 3153
+    var box = 3154
 else if instance_exists(obj_dialogue_box_battle)
-    box = 3111
+    box = 3112
 else if instance_exists(obj_dialogue_box_battle_transformation_any_out)
-    box = 3156
+    box = 3157
 else if instance_exists(obj_dialogue_box_battle_transformation_any_in)
-    box = 3155
+    box = 3156
 var xx = axis_trash_meter_x
 var yy = axis_trash_meter_y
 if (global.geno_complete[3] == 1)

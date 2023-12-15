@@ -5,20 +5,20 @@ switch scene
         cutscene_follower_into_actor()
         break
     case 1:
-        cutscene_npc_walk(1160, 555, obj_pl.y, 3, "x", "right")
+        cutscene_npc_walk(1161, 555, obj_pl.y, 3, "x", "right")
         scene = 2
         break
     case 2:
         cutscene_wait(0.2)
         break
     case 3:
-        cutscene_npc_walk(1167, 580, obj_pl.y, 3, "x", "left")
+        cutscene_npc_walk(1168, 580, obj_pl.y, 3, "x", "left")
         break
     case 4:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* I gotta say, that was#  pretty entertaining!"
             message[1] = "* Glad we could bypass#  Axis without destroying#  him."
             message[2] = "* Turns out you're a#  pretty damn good leader,#  Clover!"
@@ -43,7 +43,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* ..."
             message[1] = "* I see our exit up ahead."
             message[2] = "* We're close."
@@ -55,7 +55,7 @@ switch scene
         }
         break
     case 8:
-        cutscene_npc_walk(1160, (obj_player_npc.x + 20), obj_player_npc.y, 3, "left")
+        cutscene_npc_walk(1161, (obj_player_npc.x + 20), obj_player_npc.y, 3, "left")
         break
     case 9:
         cutscene_actor_into_follower()

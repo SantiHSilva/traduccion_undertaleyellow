@@ -95,14 +95,14 @@ switch scene
         cutscene_instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
         break
     case 6:
-        cutscene_npc_walk_relative(1167, 10, 0, 0.5, "x", "right")
+        cutscene_npc_walk_relative(1168, 10, 0, 0.5, "x", "right")
         break
     case 7:
         cutscene_wait(0.5)
         break
     case 8:
         obj_martlet_dunes_32.right_sprite = 272
-        cutscene_npc_walk_relative(1762, 10, 0, 1, "x", "left")
+        cutscene_npc_walk_relative(1763, 10, 0, 1, "x", "left")
         break
     case 9:
         cutscene_wait(0.5)
@@ -142,7 +142,7 @@ switch scene
         }
         break
     case 11:
-        cutscene_npc_action_sprite(1167, 3295, 1, 0)
+        cutscene_npc_action_sprite(1168, 3295, 1, 0)
         if (obj_player_npc.image_index >= 5)
         {
             obj_player_npc.image_index = 5
@@ -155,7 +155,7 @@ switch scene
         if (!scr_timer())
             return;
         obj_martlet_dunes_32.right_sprite = 272
-        cutscene_npc_walk_relative(1762, 10, 0, 1, "x", "left")
+        cutscene_npc_walk_relative(1763, 10, 0, 1, "x", "left")
         break
     case 13:
         cutscene_wait(0.5)

@@ -10,7 +10,7 @@ switch scene
         with (msg)
         {
             text_speed = 0.5
-            talker[0] = 958
+            talker[0] = 959
             message[0] = "* This is the barrier."
             message[1] = "* This is what keeps us trapped#  underground."
             message[2] = "* . . ."
@@ -36,7 +36,7 @@ switch scene
         with (msg)
         {
             text_speed = 0.5
-            talker[0] = 958
+            talker[0] = 959
             message[0] = "* I feel it is important#  I show you something."
             prt[0] = 1803
         }
@@ -51,7 +51,7 @@ switch scene
         cutscene_wait(4)
         break
     case 10:
-        cutscene_npc_action_sprite(1167, 2751, 1, 0)
+        cutscene_npc_action_sprite(1168, 2751, 1, 0)
         break
     case 11:
         cutscene_wait(0.5)
@@ -76,7 +76,7 @@ switch scene
         }
         break
     case 13:
-        cutscene_npc_action_sprite(1167, 3313, 1, 0, 0, 634, 2)
+        cutscene_npc_action_sprite(1168, 3313, 1, 0, 0, 634, 2)
         if (obj_player_npc.image_index >= 6)
         {
             obj_player_npc.image_speed = 0
@@ -93,7 +93,7 @@ switch scene
         with (msg)
         {
             text_speed = 0.5
-            talker[0] = 958
+            talker[0] = 959
             message[0] = "* How tense..."
             message[1] = "* . . ."
             message[2] = "* The feeling you are#  experiencing at this#  moment."
@@ -125,7 +125,7 @@ switch scene
         with (msg)
         {
             text_speed = 0.5
-            talker[0] = 958
+            talker[0] = 959
             message[0] = "* I suppose I have talked#  long enough."
             message[1] = "* . . ."
             message[2] = "* I will make this quick."

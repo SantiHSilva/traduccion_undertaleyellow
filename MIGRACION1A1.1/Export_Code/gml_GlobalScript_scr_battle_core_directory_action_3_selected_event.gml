@@ -274,12 +274,15 @@ function scr_battle_core_directory_action_3_selected_event() //gml_Script_scr_ba
                 {
                     with (obj_dunebud_a)
                     {
-                        sinking_away = 1
-                        sprite_index = spr_dunebud_sink
-                        image_speed = image_speed_sink
-                        image_index = 0
-                        image_xscale = 1
-                        image_yscale = 1
+                        if (object_index != obj_dunebud_b)
+                        {
+                            sinking_away = 1
+                            sprite_index = spr_dunebud_sink
+                            image_speed = image_speed_sink
+                            image_index = 0
+                            image_xscale = 1
+                            image_yscale = 1
+                        }
                     }
                 }
                 else
@@ -403,7 +406,7 @@ function scr_battle_core_directory_action_3_selected_event() //gml_Script_scr_ba
             instance_destroy()
             return;
         }
-        else if (battle_enemy_name == "jandroid a")
+        else if (battle_enemy_name == "jandroid b")
         {
             if (global.action_3_selected_count_2 < 1)
                 global.action_3_selected_count_2 += 1

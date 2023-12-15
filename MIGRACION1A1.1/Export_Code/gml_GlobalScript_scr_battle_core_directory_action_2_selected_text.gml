@@ -141,7 +141,7 @@ function scr_battle_core_directory_action_2_selected_text() //gml_Script_scr_bat
         }
         else if (battle_enemy_name == "ceroba")
             script_execute(gml_Script_scr_dialogue_battle_action_selected_action_2_ceroba_pacifist)
-        else if (battle_enemy_name == "martlet genocide")
+        else if (battle_enemy_name == "martlet genocide final")
             script_execute(gml_Script_scr_dialogue_battle_action_selected_action_2_martlet_final)
     }
 }

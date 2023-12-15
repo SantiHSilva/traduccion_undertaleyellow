@@ -29,7 +29,7 @@ with (obj_ceroba_follower)
     npc_reset = 0
     is_talking = 0
     follower_idle = 1
-    npc_actor = 1160
+    npc_actor = 1161
     if (x != obj_pl.x || y != obj_pl.y)
     {
         var player_distance = (point_distance(x, y, obj_pl.x, obj_pl.y) / 10)

@@ -1,13 +1,15 @@
 if live_call()
     return global.live_result;
-battle_box = 3153
-shuffle_time = 90
-alarm[0] = shuffle_time
-alarm[1] = 270
+battle_box = 3154
+created_spawner = 0
+old_spawner = 0
+attack_duration = 0
+alarm[1] = 300
 attack_list = ds_list_create()
-ds_list_add(attack_list, 0, 0, 1, 2, 3, 4, 5, 6)
-attack_count = 2
+ds_list_add(attack_list, 0, 1, 2, 3, 4, 5, 7, 8, 9)
+modifier_attack = choose(1, 2)
+modifier_enabled = irandom_range(1, 4)
+modifier_noloop = 0
+overlap_timer = 0
 event_user(1)
-ds_list_delete(attack_list, ds_list_find_index(attack_list, 5))
-attack_last = -4
 scr_enable_battle_box_surface()

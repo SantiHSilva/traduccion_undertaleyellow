@@ -14,7 +14,7 @@ scene = 0
 cutscene_timer = 0
 event_music = 0
 axis_is_running = 0
-npc_axis_run_speed = clamp(((5.6 - (times_caught * 0.1)) - (global.using_gamepad * 0.1)), 4.4, 5.6)
+npc_axis_run_speed = clamp(((5.6 - (times_caught * 0.15)) - (global.using_gamepad * 0.1)), 5, 5.6)
 ceroba_is_running = 0
 shadow_axis_image_alpha = 0
 if (global.sworks_flag[12] == 1 && global.route == 2)

@@ -197,7 +197,7 @@ switch scene
         {
             scr_radio_restart()
             scr_cutscene_end()
-            __view_set((9 << 0), 0, 1030)
+            __view_set((9 << 0), 0, 1031)
             global.snowdin_flag[16] = 1
             instance_destroy()
             instance_destroy(actor_martlet)

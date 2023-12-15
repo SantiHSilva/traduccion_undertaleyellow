@@ -1,6 +1,6 @@
-var actor_crestina = 768
-var actor_dad = 370
-var actor_orion = 552
+var actor_crestina = 769
+var actor_dad = 371
+var actor_orion = 553
 var actor_ceroba = obj_ceroba_npc
 switch scene
 {
@@ -16,13 +16,13 @@ switch scene
             position = 0
             talker[0] = actor_dad
             talker[1] = actor_crestina
-            talker[2] = 1160
+            talker[2] = 1161
             talker[4] = actor_orion
             talker[5] = actor_crestina
             talker[6] = actor_orion
             talker[7] = actor_dad
             talker[8] = actor_crestina
-            talker[9] = 1160
+            talker[9] = 1161
             talker[11] = actor_dad
             sndfnt_array[0] = 391
             sndfnt_array[1] = 391
@@ -68,7 +68,7 @@ switch scene
         cutscene_wait(0.25)
         break
     case 6:
-        cutscene_npc_walk(1167, 162, 162, 3, "y", "left")
+        cutscene_npc_walk(1168, 162, 162, 3, "y", "left")
         break
     case 7:
         cutscene_npc_walk(actor_ceroba, 100, 200, 2, "y", "down")

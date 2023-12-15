@@ -1,7 +1,7 @@
 if live_call()
     return global.live_result;
 draw_sprite_clip_ext(sprite_index, image_index, x, y, image_xscale, image_yscale, c_white, image_alpha, (box.bbox_left + 5), box.bbox_top, (box.sprite_width - 10), (box.sprite_height - 37))
-if (obj_battle_el_bailador_controller.battle_el_bail_event_tutorial == 1)
+if (obj_battle_el_bailador_controller.battle_el_bail_event_tutorial == 1 && global.option_autorhythm == 0)
 {
     var yy = (y - 15)
     draw_set_font(fnt_battle)

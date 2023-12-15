@@ -151,6 +151,10 @@ function scr_determine_save_area() //gml_Script_scr_determine_save_area
             current_save_number = 26
             global.saveroom = "New Home"
             break
+        case "rm_newhome_03":
+            current_save_number = 27
+            global.saveroom = "New Home"
+            break
     }
 
 }

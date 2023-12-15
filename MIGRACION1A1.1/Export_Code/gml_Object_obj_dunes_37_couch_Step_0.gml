@@ -33,9 +33,9 @@ switch scene
         break
     case 3:
         if (obj_player_npc.ystart < y)
-            cutscene_npc_walk(1167, 200, obj_player_npc.ystart, 3, "y", "up", "nothing", 250, 150)
+            cutscene_npc_walk(1168, 200, obj_player_npc.ystart, 3, "y", "up", "nothing", 250, 150)
         else
-            cutscene_npc_walk(1167, 250, 150, 3, "y", "up")
+            cutscene_npc_walk(1168, 250, 150, 3, "y", "up")
         break
     case 4:
         cutscene_wait(0.5)

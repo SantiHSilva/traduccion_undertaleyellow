@@ -10,14 +10,14 @@ switch scene
         }
         break
     case 1:
-        cutscene_npc_walk(1167, obj_martlet_npc.x, obj_pl.y, 3, "x", "up")
+        cutscene_npc_walk(1168, obj_martlet_npc.x, obj_pl.y, 3, "x", "up")
         break
     case 2:
         if cutscene_wait(1.5)
             cutscene_advance(2.5)
         break
     case 2.5:
-        if cutscene_npc_walk(1167, obj_martlet_npc.x, (obj_martlet_npc.y + 60), 1, "x", "up")
+        if cutscene_npc_walk(1168, obj_martlet_npc.x, (obj_martlet_npc.y + 60), 1, "x", "up")
             cutscene_advance(3)
         break
     case 3:
@@ -44,7 +44,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             position = 0
             message[0] = "* You made it! Great!"
             prt[0] = 328
@@ -67,7 +67,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* What a view..."
             message[1] = "* That large facility in#  front of us is the#  CORE..."
             message[2] = "* ...The main source of#  power for the#  Underground."
@@ -77,7 +77,7 @@ switch scene
         }
         break
     case 15:
-        cutscene_npc_walk(1167, obj_martlet_npc.x, (obj_martlet_npc.y + 30), 3, "x", "up", -4, 180, 300)
+        cutscene_npc_walk(1168, obj_martlet_npc.x, (obj_martlet_npc.y + 30), 3, "x", "up", -4, 180, 300)
         break
     case 16:
         cutscene_wait(1.75)
@@ -87,7 +87,7 @@ switch scene
             cutscene_advance(17.3)
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Behind that is New#  Home. The capital city."
             message[1] = "* I asked around and was#  told Ceroba and Starlo#  headed there."
             message[2] = "* Guess she ran the#  opposite way of the Lab#  to juke her pursuer?"
@@ -118,7 +118,7 @@ switch scene
             cutscene_advance(18)
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Whew, it's all setting#  in now."
             message[1] = "* This is like... super#  intimidating, right? Not#  just me?"
             prt[0] = 329
@@ -139,7 +139,7 @@ switch scene
             cutscene_advance(21.2)
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* ..."
             message[1] = "* I don't know when I'll#  get another chance so#  I'll say it now:"
             message[2] = "* You are a kind soul.#  One of the best I've#  met."
@@ -201,7 +201,7 @@ switch scene
             cutscene_advance(21.6)
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Point is, I'm glad you#  hopped on my raft."
             message[1] = "* ..."
             prt[0] = 320
@@ -229,7 +229,7 @@ switch scene
         }
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Okay... We need to get#  moving."
             message[1] = "* That way. West New#  Home."
             message[2] = "* The elevator downstairs#  should take us straight#  there."
@@ -267,7 +267,7 @@ switch scene
         break
     case 22:
         obj_player_npc.x = -1000
-        if cutscene_npc_action_sprite(1163, 1822, 1, 0)
+        if cutscene_npc_action_sprite(1164, 1822, 1, 0)
             obj_player_npc.x = obj_player_npc.xstart
         break
     case 23:
@@ -277,7 +277,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Let's stop Ceroba!"
             message[1] = "* After you."
             prt[0] = 313
@@ -288,15 +288,15 @@ switch scene
         cutscene_wait(1)
         break
     case 26:
-        cutscene_npc_walk(1167, obj_player_npc.x, 340, 3, "y", "down")
+        cutscene_npc_walk(1168, obj_player_npc.x, 340, 3, "y", "down")
         break
     case 27:
-        cutscene_npc_walk(1163, obj_player_npc.x, (obj_player_npc.y - 20), 3, "x", "down")
+        cutscene_npc_walk(1164, obj_player_npc.x, (obj_player_npc.y - 20), 3, "x", "down")
         break
     case 28:
         obj_pl.direction = 270
-        actor_follower = 1163
-        global.party_member = 1169
+        actor_follower = 1164
+        global.party_member = 1170
         obj_hotland_roof_light_controller_follower.overlay_draw_enabled_follower = 1
         obj_hotland_roof_light_controller_follower.overlay_draw_alpha_follower = 1
         cutscene_actor_into_follower()
