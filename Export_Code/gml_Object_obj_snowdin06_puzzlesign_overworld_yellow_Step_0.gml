@@ -23,19 +23,19 @@ if (waiter == 1)
         color = 1
         col_modif[0] = make_color_rgb(92, 186, 249)
         col_modif[1] = 255
-        message[0] = "* (Read the instructions again?)"
-        message[1] = "* To whom it may concern:"
-        message[2] = "* In accordance with Royal Guard#  guide book section four,#  paragraph two,"
-        message[3] = "* This puzzle is intended to#  impede the progress of an#  intruder (probably you),"
-        message[4] = "* Entertain the residents of the#  surrounding area (Snowdin),"
-        message[5] = "* And appear intimidating to#  would-be intruders or#  wrong-doers,"
-        message[6] = "* (I'm unclear on what they mean#  by that, just go with it.)"
-        message[7] = "* To pass by this challenge, you#  must melt the icecube."
-        message[8] = "* Make sure the ball-thing gets#  to the bottom without breaking#  though."
-        message[9] = "* Signed: Martlet of the#  Underground Royal Guard"
-        message_col[4][1] = "                                                     Snowdin  "
-        message_col[9][0] = "          Martlet                                 "
-        message_col[9][1] = "                        #  Underground Royal Guard"
+        message[0] = "* (¿Leer las instrucciones#  otra vez?)"
+        message[1] = "* A quien corresponda:"
+        message[2] = "* De acuerdo con el libro guía#  de la Royal Guard#  sección 4, párrafo dos,"
+        message[3] = "* Este puzzle pretende#  impedir el avance de un#  intruso (probablemente tú),"
+        message[4] = "* Entretener a los residentes#  de los alrededores (Snowdin),"
+        message[5] = "* E intimidar a posibles intrusos o malhechores,"
+        message[6] = "* (No me queda claro lo#  que quieren decir#  con eso, pero adelante)."
+        message[7] = "* Para superar este reto,#  debes derretir el cubo#  de hielo."
+        message[8] = "* Asegúrate de que la#  bola llegue al fondo#  sin romperse."
+        message[9] = "* Firmado: Martlet de la#  Guardia Real Subterránea"
+        message_col[4][1] = "#                      Snowdin "
+        message_col[9][0] = "           Martlet"
+        message_col[9][1] = "#  Guardia Real Subterránea"
         if (outcome == 1 && message_current == 0)
             other.waiter = 2
         else if (outcome == 2 && message_current == 0)
