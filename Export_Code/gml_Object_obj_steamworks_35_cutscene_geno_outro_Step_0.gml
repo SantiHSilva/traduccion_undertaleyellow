@@ -37,7 +37,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* ..."
             message[1] = "* ..."
             message[2] = "* What... was that?"
@@ -59,7 +59,7 @@ switch scene
         break
     case 6:
         obj_flowey_npc.npc_direction = "left"
-        cutscene_npc_walk(1167, 480, 140, 2, "x", "left")
+        cutscene_npc_walk(1168, 480, 140, 2, "x", "left")
         if (obj_player_npc.x < 580)
             cutscene_advance(7)
         break
@@ -67,7 +67,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Wait, where are you#  going?"
             message[1] = "* I'm still talking!"
             prt[0] = 352
@@ -75,7 +75,7 @@ switch scene
         }
         break
     case 8:
-        if cutscene_npc_action_sprite(3193, 245, 0.2, 0)
+        if cutscene_npc_action_sprite(3194, 245, 0.2, 0)
             instance_destroy(obj_flowey_npc)
         break
     case 9:

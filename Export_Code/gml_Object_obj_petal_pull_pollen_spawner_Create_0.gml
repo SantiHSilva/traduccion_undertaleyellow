@@ -7,4 +7,4 @@ spawn_x = x
 spawn_y = y
 side = 1
 alarm[0] = 1
-spawned_last = 2978
+spawned_last = 2979

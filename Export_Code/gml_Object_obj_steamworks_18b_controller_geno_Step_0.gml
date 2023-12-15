@@ -15,7 +15,7 @@ switch scene
         break
     case 0:
         if (abs((obj_player_npc.x - 209)) > 5)
-            cutscene_npc_walk(1167, 209, obj_player_npc.y, 3, "x", "up")
+            cutscene_npc_walk(1168, 209, obj_player_npc.y, 3, "x", "up")
         else
             cutscene_advance()
         break
@@ -48,14 +48,14 @@ switch scene
         }
         break
     case 5:
-        cutscene_npc_reset_sprite(2062, "down")
+        cutscene_npc_reset_sprite(2063, "down")
         break
     case 6:
         if cutscene_dialogue()
             scr_music_sudden_stop(mus_gimme_ur_cash_yellow, 5, 1)
         with (msg)
         {
-            talker[0] = 2062
+            talker[0] = 2063
             message[0] = "* Bam!"
             message[1] = "* You know who it is, right?"
             message[2] = "* It's ya boy"
@@ -64,7 +64,7 @@ switch scene
         }
         break
     case 7:
-        cutscene_npc_action_sprite(1167, 3313, 1, 1, 0, 634, 0)
+        cutscene_npc_action_sprite(1168, 3313, 1, 1, 0, 634, 0)
         if (obj_player_npc.image_index >= 6)
         {
             obj_player_npc.up_sprite = 2803
@@ -86,7 +86,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 2062
+            talker[0] = 2063
             message[0] = "* ...Mo."
             message[1] = "* Hey, buddy... What's with the#  piece?"
             message[2] = "* I thought we had a connection,#  ya know?"
@@ -100,20 +100,20 @@ switch scene
         break
     case 11:
         obj_player_npc.action_sprite = 0
-        if cutscene_npc_walk_relative(1167, 0, -10, 0.5, "x", "up")
+        if cutscene_npc_walk_relative(1168, 0, -10, 0.5, "x", "up")
         {
             obj_steamworks_mo.up_sprite = 2992
             obj_steamworks_mo.up_sprite_idle = 2992
         }
         break
     case 12:
-        cutscene_npc_walk_relative(2062, 0, -10, 0.5, "y", "down")
+        cutscene_npc_walk_relative(2063, 0, -10, 0.5, "y", "down")
         break
     case 13:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 2062
+            talker[0] = 2063
             message[0] = "* Hey hey hey!!"
             message[1] = "* There ain't nothin' up my#  sleeve, kid! Nothin' but fur#  and admittedly cheap cologne!"
             message[2] = "* What you see is what you get#  with Mo!"
@@ -132,7 +132,7 @@ switch scene
                 other.choice = 2
             }
             talker[9] = -4
-            talker[10] = 2062
+            talker[10] = 2063
             if (message_current == 8)
                 sound_noloop = 0
             if (message_current == 9 && sound_noloop == 0)
@@ -169,7 +169,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 2062
+            talker[0] = 2063
             if (other.choice == 1)
             {
                 message[0] = "* Okay..."
@@ -210,7 +210,7 @@ switch scene
         cutscene_instance_create(210, -40, obj_manta_npc)
         break
     case 21:
-        if cutscene_npc_walk(436, 210, 95, 2, "y", "down")
+        if cutscene_npc_walk(437, 210, 95, 2, "y", "down")
         {
             obj_manta_npc.action_sprite = 1
             obj_manta_npc.npc_dynamic_depth = 0
@@ -225,14 +225,14 @@ switch scene
     case 23:
         obj_steamworks_mo.npc_dynamic_depth = 0
         obj_steamworks_mo.depth = (obj_manta_npc.depth - 100000)
-        cutscene_npc_walk(2062, 210, 80, 2, "y", "down")
+        cutscene_npc_walk(2063, 210, 80, 2, "y", "down")
         break
     case 24:
         cutscene_wait(1.5)
         break
     case 25:
         obj_manta_npc.action_sprite = 0
-        cutscene_npc_walk(436, 210, -60, 2, "y")
+        cutscene_npc_walk(437, 210, -60, 2, "y")
         obj_steamworks_mo.npc_direction = obj_manta_npc.npc_direction
         obj_steamworks_mo.y = (obj_manta_npc.y - 15)
         break

@@ -87,7 +87,7 @@ switch scene
         cutscene_instance_create(obj_pl.x, ((__view_get((1 << 0), 0) + __view_get((2 << 0), 0)) + 50), obj_martlet_npc)
         break
     case 28:
-        cutscene_npc_walk(1163, 160, 220, 3, "x", "up")
+        cutscene_npc_walk(1164, 160, 220, 3, "x", "up")
         break
     case 29:
         cutscene_dialogue()
@@ -142,14 +142,14 @@ switch scene
         }
         break
     case 30:
-        cutscene_npc_walk(1163, obj_martlet_npc.x, ((__view_get((1 << 0), 0) + __view_get((2 << 0), 0)) + 50), 4, "x", "down")
+        cutscene_npc_walk(1164, obj_martlet_npc.x, ((__view_get((1 << 0), 0) + __view_get((2 << 0), 0)) + 50), 4, "x", "down")
         break
     case 31:
         cutscene_camera_move(obj_pl.x, obj_pl.y, 1)
         break
     case 32:
         scr_cutscene_end()
-        camera_set_view_target(view_camera[0], 1030)
+        camera_set_view_target(view_camera[0], 1031)
         global.dunes_flag[39] = 1
         ds_list_clear(global.encounter_list)
         scene = -1

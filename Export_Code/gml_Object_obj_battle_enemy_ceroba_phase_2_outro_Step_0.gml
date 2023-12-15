@@ -19,6 +19,7 @@ switch scene
     case 2:
         obj_heart_battle_fighting_yellow_final.is_charging = 0
         obj_heart_battle_fighting_parent.moveable = 0
+        obj_heart_battle_fighting_yellow_final.can_shoot = 1
         scene++
         break
     case 3:

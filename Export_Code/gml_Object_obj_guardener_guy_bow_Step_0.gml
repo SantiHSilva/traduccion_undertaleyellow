@@ -11,7 +11,7 @@ if (robot_parent != noone)
             x = (robot_parent.x - 3)
             y = (robot_parent.y - 15)
             break
-        case 2389:
+        case 2390:
             x = (robot_parent.x + 8)
             y = (robot_parent.y - 16)
             break

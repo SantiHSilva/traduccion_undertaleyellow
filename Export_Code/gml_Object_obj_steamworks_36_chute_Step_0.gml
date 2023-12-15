@@ -9,7 +9,7 @@ if (scr_interact() && keyboard_multicheck_pressed(0))
 if (waiter == 1)
 {
     scr_text()
-    if (global.party_member == 1170)
+    if (global.party_member == 1171)
     {
         with (msg)
         {
@@ -27,7 +27,7 @@ if (waiter == 1)
         with (msg)
         {
             message[0] = "* (Return to the laundry#  room?)"
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
             ch_msg = 0
             if (outcome == 1)

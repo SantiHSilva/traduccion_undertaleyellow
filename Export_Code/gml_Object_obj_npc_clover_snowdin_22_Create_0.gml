@@ -29,7 +29,7 @@ y_dest[0] = 70
 actor_speed = 3
 axis_override = "x"
 end_direction = "right"
-walk_collider = 1132
+walk_collider = 1133
 destination_count = 0
 if (global.route == 3)
 {

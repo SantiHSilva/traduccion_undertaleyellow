@@ -26,7 +26,7 @@ switch scene
         cutscene_advance()
         break
     case 4:
-        cutscene_npc_walk(1167, 160, 80, 2, "x", "up")
+        cutscene_npc_walk(1168, 160, 80, 2, "x", "up")
         if (obj_pl.y < 90)
             player_fade_out = 1
         break

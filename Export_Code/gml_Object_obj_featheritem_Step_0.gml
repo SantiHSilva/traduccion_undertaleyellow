@@ -9,25 +9,25 @@ if (waiter > 0)
     {
         portrait = 0
         sndfnt = 99
-        message[0] = "* (Es una pluma perdida.)"
-        message[1] = "* (¿Tomarlo?)"
+        message[0] = "* (It's a stray feather.)"
+        message[1] = "* (Take it?)"
         if (outcome == 1 && message_current == 1)
         {
             scr_item("Feather")
-            message[2] = "* (¡Tienes una Stray Feather!)"
+            message[2] = "* (You got a Stray Feather!)"
             with (obj_featheritem)
                 instance_destroy()
             global.flag[10] = 1
         }
         if (outcome == 2 && message_current == 1)
         {
-            message[2] = "* (Lo ignoras.#* Lo callejero no son más#  que problemas.)"
+            message[2] = "* (You ignore it.#* Strays are nothing but#  trouble.)"
             obj_featheritem.waiter = 0
         }
         if ((message_current + 1) == 1)
         {
             ch_msg = 1
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
         }
     }

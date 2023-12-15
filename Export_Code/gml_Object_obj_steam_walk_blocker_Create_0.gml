@@ -1,4 +1,4 @@
-if ((global.party_member == -4 || global.route != 2) && room != rm_steamworks_23)
+if (((global.party_member == -4 && room != rm_steamworks_17b) || global.route != 2) && room != rm_steamworks_23)
     instance_destroy()
 walk_dir = "left"
 scene = 0

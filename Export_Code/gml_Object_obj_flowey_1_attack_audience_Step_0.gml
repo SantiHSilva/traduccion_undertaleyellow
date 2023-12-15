@@ -1,6 +1,6 @@
 if live_call()
     return global.live_result;
-var box = 3153
+var box = 3154
 if (fadeout == 0)
 {
     image_alpha = lerp(image_alpha, 1, 0.15)

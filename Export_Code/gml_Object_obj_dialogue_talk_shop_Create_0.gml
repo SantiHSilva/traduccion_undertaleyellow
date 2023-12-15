@@ -165,7 +165,7 @@ if (game_mode == "yellow")
             if (buy_shop_screen_number == 3)
             {
                 message[0] = "* The band?"
-                message[1] = "* Veamos..."
+                message[1] = "* Let's see..."
                 message[2] = "* We have a few acts that come#  here to play."
                 message[3] = "* The band is a very popular one#  from Hotland."
                 message[4] = "* Oh! You should TOTALLY hear#  their new single."

@@ -24,7 +24,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             for (var i = 0; i < array_length(other.message); i++)
             {
                 message[i] = other.message[i]

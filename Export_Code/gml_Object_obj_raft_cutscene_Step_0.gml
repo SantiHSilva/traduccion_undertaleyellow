@@ -144,7 +144,7 @@ if (global.snowdin_flag[13] == 1)
             {
                 sndfnt = 102
                 ch_msg = 2
-                ch[1] = "Sí"
+                ch[1] = "Yes"
                 ch[2] = "No"
                 message[0] = "* Hey, so would you mind#  answering a few#  questions for me?"
                 message[1] = "* It's nothing big, it's#  just a little quality#  assurance questionnaire."
@@ -557,16 +557,6 @@ if (global.snowdin_flag[13] == 1)
                     sprite_index = spr_martlet_wind
                 }
                 scene++
-                if (transition_x > -660)
-                    transition_x -= 9
-                else
-                {
-                    LAVA_TRANSITION = 0
-                    timer = 60
-                    transition_x = 320
-                    scene++
-                }
-                break
             }
         case 22:
             if (transition_x > -660)
@@ -762,16 +752,6 @@ else
             {
                 room_goto(rm_lava_tubes)
                 scene++
-                if (transition_x > -660)
-                    transition_x -= 9
-                else
-                {
-                    LAVA_TRANSITION = 0
-                    timer = 180
-                    transition_x = 320
-                    scene++
-                }
-                break
             }
         case 7:
             if (transition_x > -660)

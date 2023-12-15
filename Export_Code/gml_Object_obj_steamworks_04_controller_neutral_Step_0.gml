@@ -32,7 +32,7 @@ if (global.sworks_flag[0] == 0)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 3193
+                talker[0] = 3194
                 message[0] = "* Howdy again!"
                 message[1] = "* Golly, this area sure#  is grim!"
                 message[2] = "* Doesn't look like#  anyone's been around for#  years."
@@ -52,7 +52,7 @@ if (global.sworks_flag[0] == 0)
             }
             break
         case 7:
-            cutscene_npc_action_sprite(3193, 245, 0.25, 1, 0)
+            cutscene_npc_action_sprite(3194, 245, 0.25, 1, 0)
             break
         case 8:
             instance_destroy(obj_flowey_npc)
@@ -67,7 +67,7 @@ if (global.sworks_flag[1] == 3)
     switch scene
     {
         case 0:
-            __view_set((9 << 0), 0, 1977)
+            __view_set((9 << 0), 0, 1978)
             obj_steamworks_04_generator.image_speed = 0
             cutscene_advance()
             break

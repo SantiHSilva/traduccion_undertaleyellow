@@ -184,7 +184,7 @@ switch attack_tick
                     var walk_speed = (global.speed_self + (1 * sign(global.current_sp_self)))
                     var move_x = 0
                     var move_y = -1
-                    battle_box = 3153
+                    battle_box = 3154
                     with (obj_heart_battle_fighting_yellow_final)
                     {
                         moveable = 1

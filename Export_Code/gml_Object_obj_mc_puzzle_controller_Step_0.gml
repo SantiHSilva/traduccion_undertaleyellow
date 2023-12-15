@@ -3,6 +3,7 @@ if (puzzle_count >= 3 && (!puzzle_finished))
     puzzle_finished = 1
     scr_cutscene_start()
     timer[0] = 30
+    global.dialogue_open = 0
 }
 for (var i = 0; i < array_length_1d(timer); i++)
 {

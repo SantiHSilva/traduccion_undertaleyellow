@@ -46,8 +46,8 @@ if (arc_controls_open == 1)
             break
     }
 
-    draw_sprite(spr_arcade_controls_buttons, action_key, ((xx - 79) + 14), ((yy - 72) + 72))
-    draw_sprite(spr_arcade_controls_buttons, cancel_key, ((xx - 79) + 102), ((yy - 72) + 132))
+    draw_sprite(spr_arcade_controls_buttons, cancel_key, ((xx - 79) + 14), ((yy - 72) + 72))
+    draw_sprite(spr_arcade_controls_buttons, action_key, ((xx - 79) + 102), ((yy - 72) + 132))
 }
 if (scene == 1)
 {

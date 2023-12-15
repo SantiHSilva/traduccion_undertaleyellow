@@ -21,4 +21,4 @@ color_alt_total = 0
 shot_type = "nothing"
 button_pressed = 0
 no_loop = 0
-hit_object = 2910
+hit_object = 2911

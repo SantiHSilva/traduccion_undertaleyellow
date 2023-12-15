@@ -118,7 +118,7 @@ function scr_battle_core_directory_enemy_attack_alarms() //gml_Script_scr_battle
         else if (battle_enemy_name == "dunebud solo")
         {
         }
-        else if (battle_enemy_name == "cactony solo")
+        else if (battle_enemy_name == "cactony solo" || battle_enemy_name == "cactony slither duo")
         {
             if (enemy_attack != "Cactony Needle Green")
             {

@@ -12,7 +12,7 @@ switch scene
         }
         break
     case 1:
-        cutscene_npc_walk(1167, 220, obj_player_npc.y, 3, "x", "up")
+        cutscene_npc_walk(1168, 220, obj_player_npc.y, 3, "x", "up")
         break
     case 2:
         cutscene_wait(0.5)
@@ -35,8 +35,8 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
-            message[0] = "* ¡Buenas!"
+            talker[0] = 3194
+            message[0] = "* Howdy!"
             message[1] = "* Regular monsters are#  one thing but..."
             message[2] = "* That fox lady you just#  killed was a piece of#  work, huh?"
             message[3] = "* If you bested her,#  ASGORE doesn't stand a#  chance!"
@@ -61,7 +61,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* ..."
             message[1] = "* I'm not too sure how to#  open this door."
             message[2] = "* Hmm..."
@@ -80,7 +80,7 @@ switch scene
         cutscene_wait(0.5)
         break
     case 13:
-        cutscene_npc_action_sprite(1167, 3313, 1, 0)
+        cutscene_npc_action_sprite(1168, 3313, 1, 0)
         if (obj_player_npc.image_index >= 8 && (!shoot_noloop))
         {
             shoot_noloop = 1
@@ -103,7 +103,7 @@ switch scene
         cutscene_screenshake(1, 2)
         break
     case 17:
-        cutscene_action_sprite(1957, 1105, (1/3), 1, 0, 631, 0)
+        cutscene_action_sprite(1958, 1105, (1/3), 1, 0, 631, 0)
         break
     case 18:
         cutscene_wait(1)
@@ -115,7 +115,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* ..."
             message[1] = "* Uh, sure... That works."
             message[2] = "* See you up ahead,#  Clover!"
@@ -150,7 +150,7 @@ switch scene
             xx = 160
             yy = 520
         }
-        camera_set_view_target(view_camera[0], 1030)
+        camera_set_view_target(view_camera[0], 1031)
         global.dunes_flag[35] = 1
         break
 }

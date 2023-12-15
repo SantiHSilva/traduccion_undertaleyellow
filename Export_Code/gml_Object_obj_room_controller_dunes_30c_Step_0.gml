@@ -7,12 +7,12 @@ switch scene
         {
             scr_cutscene_start()
             instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
-            cutscene_npc_walk(1167, 490, 520, 3, "y", "up")
+            cutscene_npc_walk(1168, 490, 520, 3, "y", "up")
             var axis = "y"
             if (abs((obj_martlet_follower.y - obj_pl.y)) < 10)
                 axis = "x"
             cutscene_follower_into_actor()
-            cutscene_npc_walk(1163, 460, 520, 3, axis, "up")
+            cutscene_npc_walk(1164, 460, 520, 3, axis, "up")
             scene = 1
         }
         break
@@ -26,7 +26,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Wow... "
             message[1] = "* I wish Chujin invited#  me over back in the day."
             message[2] = "* This house is#  incredible... "
@@ -40,7 +40,7 @@ switch scene
         }
         break
     case 4:
-        cutscene_npc_walk(1163, obj_pl.x, (obj_pl.y + 20), 3, "y", "up")
+        cutscene_npc_walk(1164, obj_pl.x, (obj_pl.y + 20), 3, "y", "up")
         break
     case 5:
         cutscene_actor_into_follower()
@@ -77,7 +77,7 @@ switch scene
         }
         break
     case 11:
-        cutscene_npc_walk(1163, 470, 445, 3, "y", "down")
+        cutscene_npc_walk(1164, 470, 445, 3, "y", "down")
         break
     case 12:
         with (obj_player_npc)
@@ -89,7 +89,7 @@ switch scene
         }
         break
     case 13:
-        cutscene_npc_walk(1167, 500, 445, 3, "y", "down")
+        cutscene_npc_walk(1168, 500, 445, 3, "y", "down")
         break
     case 14:
         cutscene_camera_move(485, 480, 2)
@@ -101,14 +101,14 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1161
-            talker[5] = 1161
-            talker[1] = 1163
-            talker[10] = 1163
-            talker[13] = 1163
-            talker[7] = 1157
-            talker[11] = 1157
-            talker[9] = 1166
+            talker[0] = 1162
+            talker[5] = 1162
+            talker[1] = 1164
+            talker[10] = 1164
+            talker[13] = 1164
+            talker[7] = 1158
+            talker[11] = 1158
+            talker[9] = 1167
             message[0] = "* So, you figured it out?"
             message[1] = "* ...Yes."
             message[2] = "* Ceroba was trying to#  carry out a plan Chujin#  left for her."
@@ -157,8 +157,8 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[2] = 1163
-            talker[0] = 1157
+            talker[2] = 1164
+            talker[0] = 1158
             message[0] = "* It's a long story...#  She fell down some time#  ago."
             message[1] = "* Ceroba sent her to the#  Lab in hopes to remedy#  the situation."
             message[2] = "* I had no idea..."
@@ -229,25 +229,25 @@ switch scene
             message[35] = "* Clover, meet me on the#  rooftop of UG Apartments#  asap."
             message_col[35][0] = "                                      UG Apartments        "
             message[36] = "* We'll figure this out,#  I promise!"
-            talker[0] = 1163
-            talker[5] = 1163
-            talker[11] = 1163
-            talker[14] = 1163
-            talker[28] = 1163
-            talker[31] = 1163
-            talker[35] = 1163
-            talker[1] = 1161
-            talker[10] = 1161
-            talker[13] = 1161
-            talker[17] = 1161
-            talker[20] = 1161
-            talker[3] = 1164
-            talker[34] = 1164
-            talker[18] = 1157
-            talker[24] = 1157
-            talker[26] = 1166
-            talker[30] = 1166
-            talker[33] = 1166
+            talker[0] = 1164
+            talker[5] = 1164
+            talker[11] = 1164
+            talker[14] = 1164
+            talker[28] = 1164
+            talker[31] = 1164
+            talker[35] = 1164
+            talker[1] = 1162
+            talker[10] = 1162
+            talker[13] = 1162
+            talker[17] = 1162
+            talker[20] = 1162
+            talker[3] = 1165
+            talker[34] = 1165
+            talker[18] = 1158
+            talker[24] = 1158
+            talker[26] = 1167
+            talker[30] = 1167
+            talker[33] = 1167
             prt[0] = 308
             prt[1] = 453
             prt[2] = 451
@@ -334,10 +334,10 @@ switch scene
         cutscene_npc_direction(obj_player_npc, "down")
         break
     case 23:
-        cutscene_npc_walk(1163, 485, 485, 2, "x", "down")
+        cutscene_npc_walk(1164, 485, 485, 2, "x", "down")
         break
     case 24:
-        cutscene_npc_action_sprite(1163, 275, 0.4, 1, 0)
+        cutscene_npc_action_sprite(1164, 275, 0.4, 1, 0)
         break
     case 25:
         scr_audio_fade_out(mus_the_trek, 1500)
@@ -348,7 +348,7 @@ switch scene
         cutscene_wait(0.75)
         break
     case 27:
-        cutscene_npc_walk(1167, 485, 470, 2, "x", "down")
+        cutscene_npc_walk(1168, 485, 470, 2, "x", "down")
         break
     case 28:
         cutscene_wait(0.75)
@@ -357,11 +357,11 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1161
-            talker[1] = 1166
-            talker[2] = 1164
-            talker[3] = 1157
-            talker[4] = 1161
+            talker[0] = 1162
+            talker[1] = 1167
+            talker[2] = 1165
+            talker[3] = 1158
+            talker[4] = 1162
             message[0] = "* I uh... wish you luck#  with this, seriously."
             message[1] = "* Yeah, I bet we'll all#  be catching bandits#  again shortly!"
             message[2] = "* I'll be sure to save#  you a spot at our next#  nap time!"
@@ -375,28 +375,28 @@ switch scene
         }
         break
     case 30:
-        cutscene_npc_walk(1161, 490, 650, 2, "x", "down")
+        cutscene_npc_walk(1162, 490, 650, 2, "x", "down")
         scene++
         break
     case 31:
         cutscene_wait(0.65)
         break
     case 32:
-        cutscene_npc_walk(1157, 500, 650, 2, "x", "down")
+        cutscene_npc_walk(1158, 500, 650, 2, "x", "down")
         scene++
         break
     case 33:
         cutscene_wait(0.65)
         break
     case 34:
-        cutscene_npc_walk(1164, 480, 650, 3, "x", "down")
+        cutscene_npc_walk(1165, 480, 650, 3, "x", "down")
         scene++
         break
     case 35:
         cutscene_wait(0.4)
         break
     case 36:
-        cutscene_npc_walk(1166, 490, 590, 2, "x", "down")
+        cutscene_npc_walk(1167, 490, 590, 2, "x", "down")
         break
     case 37:
         cutscene_wait(0.5)
@@ -408,7 +408,7 @@ switch scene
         cutscene_wait(1)
         break
     case 40:
-        cutscene_npc_walk(1166, 490, 690, 2, "x", "down")
+        cutscene_npc_walk(1167, 490, 690, 2, "x", "down")
         break
     case 41:
         with (obj_actor_npc_base)
@@ -431,7 +431,7 @@ switch scene
         cutscene_wait(1.5)
         break
     case 46:
-        cutscene_npc_walk(1167, obj_player_npc.x, 590, 2, "y", "down")
+        cutscene_npc_walk(1168, obj_player_npc.x, 590, 2, "y", "down")
         scr_cutscene_start()
         break
     case 47:
@@ -442,7 +442,7 @@ switch scene
     case 48:
         obj_flowey_npc.image_alpha = 1
         obj_flowey_npc.npc_direction = "down"
-        cutscene_npc_action_sprite(3193, 242, 0.2, 0)
+        cutscene_npc_action_sprite(3194, 242, 0.2, 0)
         break
     case 49:
         obj_player_npc.npc_direction = "up"
@@ -453,8 +453,8 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
-            message[0] = "* ¡Buenas!"
+            talker[0] = 3194
+            message[0] = "* Howdy!"
             message[1] = "* Long time no see,#  buddy!"
             message[2] = "* I've been wantin' to#  tell ya something."
             message[3] = "* It's been weighing on#  my mind so I truly mean#  it when I say..."
@@ -487,7 +487,7 @@ switch scene
         }
         break
     case 51:
-        if cutscene_npc_action_sprite_reverse(3193, 242, 0.2, 1, 0)
+        if cutscene_npc_action_sprite_reverse(3194, 242, 0.2, 1, 0)
         {
             instance_destroy(obj_flowey_npc)
             cutscene_end()

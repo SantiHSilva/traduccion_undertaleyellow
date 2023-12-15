@@ -16,7 +16,7 @@ if (global.enemy_dead == 1 || global.enemy_dead_2 == 1 || global.enemy_dead_3 ==
     var world_current = scr_determine_world_value_yellow()
     if (world_current == 4 && global.route == 2)
     {
-        if (global.party_member == 1170 && global.battle_enemy_name != "axis" && global.battle_enemy_name != "guardener")
+        if (global.party_member == 1171 && global.battle_enemy_name != "axis" && global.battle_enemy_name != "guardener")
         {
             if (global.sworks_flag[41] == 0)
             {

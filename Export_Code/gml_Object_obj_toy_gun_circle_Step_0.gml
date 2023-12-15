@@ -1,3 +1,12 @@
+function shotFail_gml_Object_obj_toy_gun_circle_Step_0() //gml_Script_shotFail_gml_Object_obj_toy_gun_circle_Step_0
+{
+    outline = 0
+    shrink = 0
+    image_alpha = 0
+    alarm[0] = 1
+    no_loop = 1
+}
+
 var fight_number = global.fight_number
 if (fight_number == 1)
 {
@@ -28,13 +37,13 @@ else if (fight_number == 3)
 }
 script_execute(gml_Script_scr_controls_battle_reticle)
 if (outline <= 0 && no_loop == 0)
-    self.shotFail()
+    shotFail()
 if key_select
 {
     if (outline > small_circle)
     {
         audio_play_sound(snd_fail, 1, false)
-        self.shotFail()
+        shotFail()
     }
     else if ((enemy_sparing == 1 && enemy_vulnerable == 1) || (enemy_vulnerable == 1 && current_hp_enemy <= attacking_damage_stat_critical) || outline <= (small_circle * 0.25))
     {
@@ -81,12 +90,3 @@ if (button_pressed == 1 && shrink == 0)
         color_number_2 = 0
     outline_color = color[color_number_2]
 }
-function shotFail_gml_Object_obj_toy_gun_circle_Step_0() //gml_Script_shotFail_gml_Object_obj_toy_gun_circle_Step_0
-{
-    outline = 0
-    shrink = 0
-    image_alpha = 0
-    alarm[0] = 1
-    no_loop = 1
-}
-

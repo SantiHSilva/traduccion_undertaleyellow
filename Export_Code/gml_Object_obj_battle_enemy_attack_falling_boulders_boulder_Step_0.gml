@@ -3,7 +3,7 @@ if (image_alpha < 1)
 vspeed += 0.33
 if (vspeed > fall_speed)
     vspeed = fall_speed
-var box = 3153
+var box = 3154
 if (y >= (box.bbox_bottom - 12))
 {
     instance_destroy()

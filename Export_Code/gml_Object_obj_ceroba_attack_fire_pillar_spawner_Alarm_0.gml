@@ -1,5 +1,7 @@
 if live_call()
     return global.live_result;
+if attack_stop
+    return;
 var battle_box = obj_dialogue_box_battle_transformation_any
 var xx = 0
 switch spawn_pos
@@ -26,3 +28,8 @@ if (spawn_pos == spawn_pos_last)
     } until (spawn_pos != spawn_pos_last);
 }
 alarm[0] = 50
+if (global.hotland_flag[2] == 3 && (!double_pillar_noloop))
+{
+    double_pillar_noloop = 1
+    event_perform(ev_alarm, 0)
+}

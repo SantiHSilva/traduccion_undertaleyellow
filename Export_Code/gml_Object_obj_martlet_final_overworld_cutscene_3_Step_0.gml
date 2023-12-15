@@ -19,13 +19,13 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Humans are dangerous#  and cannot be trusted."
             prt[0] = 315
         }
         break
     case 4:
-        cutscene_npc_walk(1163, 200, 100, 1, "y", "up")
+        cutscene_npc_walk(1164, 200, 100, 1, "y", "up")
         break
     case 5:
         cutscene_wait(1)
@@ -49,7 +49,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Humans are dangerous..."
             prt[0] = 315
         }
@@ -58,7 +58,7 @@ switch scene
         cutscene_wait(2)
         break
     case 11:
-        cutscene_npc_walk(1163, 200, 80, 0.2, "y", "up")
+        cutscene_npc_walk(1164, 200, 80, 0.2, "y", "up")
         cutscene_advance()
         break
     case 12:
@@ -80,7 +80,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Humans are dangerous..."
         }
         break

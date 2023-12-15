@@ -59,7 +59,7 @@ switch scene
         }
         break
     case 12:
-        cutscene_npc_action_sprite(1167, 2776, 1, 0)
+        cutscene_npc_action_sprite(1168, 2776, 1, 0)
         break
     case 13:
         scr_radio_restart()

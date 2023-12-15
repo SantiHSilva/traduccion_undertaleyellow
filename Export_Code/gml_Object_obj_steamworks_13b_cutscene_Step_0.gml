@@ -25,15 +25,15 @@ if (global.sworks_flag[6] == 0)
             cutscene_wait(1)
             break
         case 2:
-            cutscene_npc_walk(1165, obj_axis_npc.x, (__view_get((1 << 0), 0) + 40), 4, "y", "down")
+            cutscene_npc_walk(1166, obj_axis_npc.x, (__view_get((1 << 0), 0) + 40), 4, "y", "down")
             break
         case 3:
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1165
+                talker[0] = 1166
                 message[0] = "* I CANNOT BELIEVE YOU#  FELL FOR THAT."
-                message[1] = "* I AM SMART, THEREFOR I#  PREDICTED YOUR ESCAPE."
+                message[1] = "* I AM SMART, THEREFORE I#  PREDICTED YOUR ESCAPE."
                 message[2] = "* NOW, BACK YOU GO."
                 prt[0] = 473
                 prt[1] = 473
@@ -45,7 +45,7 @@ if (global.sworks_flag[6] == 0)
             cutscene_wait(1)
             break
         case 5:
-            cutscene_npc_walk(1165, obj_axis_npc.x, (obj_axis_npc.y + 100), 1, "y", "down")
+            cutscene_npc_walk(1166, obj_axis_npc.x, (obj_axis_npc.y + 100), 1, "y", "down")
             cutscene_advance()
             break
         case 6:
@@ -66,13 +66,13 @@ if (global.sworks_flag[6] == 2)
             cutscene_wait(1)
             break
         case 2:
-            cutscene_npc_walk(1165, obj_pl.x, (__view_get((1 << 0), 0) + 40), 4, "y", "down")
+            cutscene_npc_walk(1166, obj_pl.x, (__view_get((1 << 0), 0) + 40), 4, "y", "down")
             break
         case 3:
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1165
+                talker[0] = 1166
                 message[0] = "* WHAT. WHY."
                 message[1] = "* DID YOU THINK I WOULD#  JUST LEAVE AFTER ONE#  ATTEMPT?"
                 message[2] = "* ... I WAS ABOUT TO,#  ACTUALLY. THAT WAS#  CLOSE."
@@ -90,7 +90,7 @@ if (global.sworks_flag[6] == 2)
             cutscene_wait(1)
             break
         case 5:
-            cutscene_npc_walk(1165, obj_axis_npc.x, (obj_axis_npc.y + 100), 1, "y", "down")
+            cutscene_npc_walk(1166, obj_axis_npc.x, (obj_axis_npc.y + 100), 1, "y", "down")
             cutscene_advance()
             break
         case 6:

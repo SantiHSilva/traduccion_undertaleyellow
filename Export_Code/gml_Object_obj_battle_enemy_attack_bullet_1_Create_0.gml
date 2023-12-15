@@ -1,7 +1,7 @@
 if live_call()
     return global.live_result;
 damage_number = scr_determine_damage_number_enemy("ceroba", "void", "void")
-var battle_box = 3153
+var battle_box = 3154
 target_x = obj_heart_battle_fighting_parent.x
 target_y = obj_heart_battle_fighting_parent.y
 turn_rate = 0.06

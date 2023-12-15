@@ -3,4 +3,4 @@ if global.geno_complete[2]
 event_inherited()
 image_speed = 0
 depth = (-y)
-message[0] = "* (No matter how much he throws#  this ice into the river, the#  pile never lessens.)"
+message[0] = "* (No matter how much they throw#  this ice into the river, the#  pile never lessens.)"

@@ -1,4 +1,4 @@
-var battle_box = 3153
+var battle_box = 3154
 var spawn_dir = irandom_range(0, 359)
 var spawn_x = (320 + lengthdir_x(250, spawn_dir))
 var spawn_y = (320 + lengthdir_y(250, spawn_dir))

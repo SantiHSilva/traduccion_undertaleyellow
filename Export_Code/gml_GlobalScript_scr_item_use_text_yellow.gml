@@ -18,7 +18,7 @@ function scr_item_use_text_yellow() //gml_Script_scr_item_use_text_yellow
     var execute_rp = 0
     if (item_slot == "Missing Poster" || item_slot == "Necklace")
     {
-        message[0] = "* (No puedes utilizar este objeto.)"
+        message[0] = "* (You cannot use this item.)"
         item_use_hold.item_category = "nonconsumable"
         item_use_hold.item_type = "story"
     }
@@ -742,7 +742,7 @@ function scr_item_use_text_yellow() //gml_Script_scr_item_use_text_yellow
         global.heart_battle_fighting_x = 320
         global.heart_battle_fighting_y = 240
         room_goto(rm_death_screen)
-        message[0] = "* (No puedes utilizar este objeto.)"
+        message[0] = "* (You cannot use this item.)"
         item_use_hold.item_category = "nonconsumable"
         item_use_hold.item_type = "story"
         item_use_hold.item_sound = 388

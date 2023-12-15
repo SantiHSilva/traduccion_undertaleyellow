@@ -5,7 +5,7 @@ if (keyboard_multicheck_pressed(0) && scr_interact())
 if (object_is_active == 0)
     return;
 var party_member_present_martlet = 0
-if (global.party_member == 1169)
+if (global.party_member == 1170)
     party_member_present_martlet = 1
 if (global.dunes_flag[18] < 2)
 {
@@ -17,7 +17,7 @@ if (global.dunes_flag[18] < 2)
             if (global.dunes_flag[18] == 0)
             {
                 ch_msg = 1
-                ch[1] = "Sí"
+                ch[1] = "Yes"
                 ch[2] = "No"
                 message[0] = "* (A wishing well with a large#  amount of G inside.)"
                 message[1] = "* (Take the G?)"
@@ -50,9 +50,9 @@ if (global.dunes_flag[18] < 2)
         {
             sndfnt = 102
             ch_msg = 2
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
-            talker[0] = 1169
+            talker[0] = 1170
             message[0] = "* Well well well, what do#  we have here?"
             message[1] = "* Aw, I left all my G#  at home."
             message[2] = "* Would you lend me one?"
@@ -136,7 +136,7 @@ if (global.dunes_flag[18] < 2)
             with (msg)
             {
                 sndfnt = 102
-                talker[0] = 1163
+                talker[0] = 1164
                 message[0] = "* Hmmm..."
                 message[1] = "* I wish..."
                 message[2] = "* That Clover will make it#  back home safely!"
@@ -165,7 +165,7 @@ if (global.dunes_flag[18] < 2)
             with (msg)
             {
                 sndfnt = 102
-                talker[0] = 1163
+                talker[0] = 1164
                 message[0] = "* Now you have me, AND a#  wish on your side!"
                 prt[0] = 312
             }

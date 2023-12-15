@@ -14,7 +14,7 @@ if (waiter == 1)
             if (global.route == 3)
                 message[0] = "* (A bucket of nails. Could be#  useful.)"
             ch_msg = 1
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
             if (outcome == 1)
             {

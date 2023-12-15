@@ -12,5 +12,5 @@ if instance_exists(obj_ceroba_body_pacifist_phase_2)
             break
     }
 
-    scr_point_attach(attach_points, 2832, 1)
+    scr_point_attach(attach_points, 2833, 1)
 }

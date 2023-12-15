@@ -12,16 +12,16 @@ function scr_enemy_attack_bullet_hit() //gml_Script_scr_enemy_attack_bullet_hit
     {
         var collider_object_index = collider_id.object_index
         instance_create_depth(collider_id.x, collider_id.bbox_top, -999, obj_heart_yellow_shot_destroy)
-        if (collider_object_index == 689)
+        if (collider_object_index == 690)
         {
             if (object_index == obj_ceroba_phase_2_bell)
                 instance_destroy(collider_id)
             if (variable_instance_exists(id, "collider_id_last") && collider_id_last == collider_id)
                 return;
-            if (collider_object_index == 689)
+            if (collider_object_index == 690)
                 collider_id_last = collider_id
         }
-        else if (collider_object_index == 2560)
+        else if (collider_object_index == 2561)
         {
             if (variable_instance_exists(id, "collider_id_last") && collider_id_last == collider_id)
                 return;
@@ -37,7 +37,7 @@ function scr_enemy_attack_bullet_hit() //gml_Script_scr_enemy_attack_bullet_hit
         if variable_instance_exists(id, "bullet_hit_points")
         {
             bullet_hit_draw_timer = 5
-            if (collider_object_index == 689)
+            if (collider_object_index == 690)
                 bullet_hit_points -= 3
             else
                 bullet_hit_points -= 1

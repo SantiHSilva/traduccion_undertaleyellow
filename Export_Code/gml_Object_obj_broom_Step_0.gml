@@ -27,9 +27,9 @@ if (global.flag[17] == 1)
             {
                 portrait = 1
                 sndfnt = 100
-                message[0] = "* Ten cuidado con eso."
-                message[1] = "* Esa escoba ha sido como#  mi mejor amiga."
-                message[2] = "* ¡Nunca pensé que sería#  reemplazado por un#  verdadero amigo!"
+                message[0] = "* Be careful with that."
+                message[1] = "* That broom has been like#  my best friend."
+                message[2] = "* I never thought he'd be#  replaced by a real#  friend!"
                 prt[0] = 1763
                 prt[1] = 1755
                 prt[2] = 1769
@@ -79,7 +79,7 @@ else if (global.flag[17] != 1 && global.route != 3)
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (Es una escoba muy usada.)"
+            message[0] = "* (It's a well worn broom.)"
             obj_broom.waiter = 2
         }
     }
@@ -101,8 +101,8 @@ else if (global.route == 3)
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (Una escoba.)"
-            message[1] = "* (La madera está astillada.)"
+            message[0] = "* (A broom.)"
+            message[1] = "* (The wood is splintered.)"
             obj_broom.waiter = 2
         }
     }

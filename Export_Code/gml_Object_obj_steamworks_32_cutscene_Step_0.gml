@@ -23,7 +23,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Oh, hey."
             prt[0] = 370
         }
@@ -38,7 +38,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* ...Hellooo?"
             prt[0] = 370
         }
@@ -59,7 +59,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Rusted through."
             prt[0] = 377
             position = 0
@@ -76,7 +76,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* The sign says \"If the#  receptionist is#  unreceptive..."
             message[1] = "* ...check with the robot#  control station three#  floors up.\" "
             message[2] = "* Robot control#  station..."
@@ -110,7 +110,7 @@ switch scene
         }
         break
     case 17:
-        cutscene_npc_walk(1160, obj_pl.x, (obj_pl.y + 30), 3, "x", "up")
+        cutscene_npc_walk(1161, obj_pl.x, (obj_pl.y + 30), 3, "x", "up")
         break
     case 18:
         cutscene_actor_into_follower()
@@ -122,7 +122,7 @@ switch scene
         cutscene_end()
         scr_radio_fade(1, 500)
         instance_destroy(obj_camera)
-        camera_set_view_target(view_camera[0], 1030)
+        camera_set_view_target(view_camera[0], 1031)
         global.sworks_flag[22] = 1
         break
 }

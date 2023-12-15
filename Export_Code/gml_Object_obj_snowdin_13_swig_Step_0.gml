@@ -42,7 +42,7 @@ if (global.snowdin_flag[8] == 5)
         with (msg)
         {
             portrait = 0
-            talker[0] = 1434
+            talker[0] = 1435
             message[0] = "* Ya best be behavin' out there,#  kid."
             message[1] = "* Do the Shufflers proud."
             message[2] = "* If ya don't, you might wind up#  an old, discarded tea bag."

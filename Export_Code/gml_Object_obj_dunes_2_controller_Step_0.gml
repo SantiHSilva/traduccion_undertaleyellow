@@ -11,7 +11,7 @@ switch scene
         }
         break
     case 1:
-        cutscene_npc_walk(1167, 840, obj_player_npc.y, 3, "x", "right")
+        cutscene_npc_walk(1168, 840, obj_player_npc.y, 3, "x", "right")
         scene++
         break
     case 2:

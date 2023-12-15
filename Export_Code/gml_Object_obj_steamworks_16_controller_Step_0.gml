@@ -36,7 +36,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* They're gone."
             message[1] = "* Sigh... This is so#  confusing..."
             message[2] = "* I thought Axis said he#  was the last of his#  kind?"

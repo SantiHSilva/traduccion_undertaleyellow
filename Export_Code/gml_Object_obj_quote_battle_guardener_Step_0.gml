@@ -63,9 +63,8 @@ if key_revert_pressed
 }
 if (global.enemy_sparing && message_current >= 2)
 {
-    if (message_current == 2 && (!alarm[0]))
+    if (message_current == 2)
     {
-        alarm[0] = 60
         obj_guardener_body.guardener_stop_animating = 1
         obj_guardener_meter.curr_fill = 0
     }

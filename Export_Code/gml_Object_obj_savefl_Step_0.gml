@@ -36,7 +36,7 @@ if (waiter == 1)
         with (msg)
         {
             sndfnt = 96
-            message[0] = "* ¡Bienvenido de vuelta!"
+            message[0] = "* Welcome back!"
             prt[0] = 348
         }
         if (!global.dialogue_open)

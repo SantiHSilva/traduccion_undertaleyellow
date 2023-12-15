@@ -159,7 +159,7 @@ switch scene
             talker[6] = other.blackjack_npc
             sndfnt_array[6] = 391
             message[6] = "* You lost one of my premium#  revolvers last week!"
-            message[7] = "* Frollicing in your sandstorm#  and whatnot."
+            message[7] = "* Frolicking in your sandstorm#  and whatnot."
             talker[8] = other.starlo_npc
             talker[9] = other.starlo_npc
             sndfnt_array[8] = 107
@@ -461,7 +461,7 @@ switch scene
         }
         break
     case 24:
-        cutscene_npc_action_sprite(1168, 202, (1/3), 1, 0, 232, 4)
+        cutscene_npc_action_sprite(1169, 202, (1/3), 1, 0, 232, 4)
         break
     case 25:
         if (!scr_timer())

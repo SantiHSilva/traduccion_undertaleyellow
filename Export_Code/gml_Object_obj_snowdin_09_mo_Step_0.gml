@@ -118,7 +118,7 @@ if (waiter == 1)
         message[7] = "* Of course! I know your type!"
         message[8] = "* So, you want this here#  beverage?"
         ch_msg = 8
-        ch[1] = "Sí"
+        ch[1] = "Yes"
         ch[2] = "No"
         if (outcome == 1 && message_current == 8)
         {
@@ -281,7 +281,7 @@ if (waiter == 6 && (!instance_exists(obj_dialogue)))
     if scr_camera_move(obj_pl.x, obj_pl.y, 2)
     {
         waiter = 0
-        __view_set((9 << 0), 0, 1030)
+        __view_set((9 << 0), 0, 1031)
         global.snowdin_flag[5] = 1
         scr_cutscene_end()
     }

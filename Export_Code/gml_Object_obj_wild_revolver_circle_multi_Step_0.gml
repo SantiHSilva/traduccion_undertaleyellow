@@ -1,5 +1,23 @@
 if live_call()
     return global.live_result;
+function shoot_fail_gml_Object_obj_wild_revolver_circle_multi_Step_0() //gml_Script_shoot_fail_gml_Object_obj_wild_revolver_circle_multi_Step_0
+{
+    if (!shoot_miss)
+    {
+        gun_spin = 0
+        hit[circle_current] = 0
+        color_hit_number[circle_current] = 0
+        button_pressed = 1
+        var shot_sound = audio_play_sound(snd_fail, 1, false)
+        shrink[circle_current] = 0
+        shrink_speed = 0
+        alarm[0] = 20
+        shoot_miss = 1
+        key_select = 0
+        no_loop = 1
+    }
+}
+
 if (execute_create == 1)
 {
     if (can_execute == 0)
@@ -47,7 +65,7 @@ if (execute_create == 1)
     {
         if (outline[circle_current] > small_circle)
         {
-            self.shoot_fail()
+            shoot_fail()
             return;
         }
         else if ((enemy_sparing == 1 && enemy_vulnerable == 1) || (enemy_vulnerable == 1 && current_hp_enemy <= attacking_damage_stat_critical) || outline[circle_current] <= (small_circle * 0.5))
@@ -57,10 +75,10 @@ if (execute_create == 1)
             color_hit_number[circle_current] = 1
             shot_total += 3
             if (circle_current == final_circle)
-                hit_object = 2912
+                hit_object = 2913
             else
-                hit_object = 2915
-            var shot_sound = audio_play_sound(snd_attackhitperfect, 1, false)
+                hit_object = 2916
+            shot_sound = audio_play_sound(snd_attackhitperfect, 1, false)
         }
         else if (outline[circle_current] <= small_circle && outline[circle_current] > (small_circle * 0.5))
         {
@@ -69,9 +87,9 @@ if (execute_create == 1)
             color_hit_number[circle_current] = 0
             shot_total += 2
             if (circle_current == final_circle)
-                hit_object = 2911
+                hit_object = 2912
             else
-                hit_object = 2914
+                hit_object = 2915
             shot_sound = audio_play_sound(snd_attackhit, 1, false)
         }
         audio_sound_pitch(shot_sound, (1 + (obj_wild_revolver_battle_outline.target_current * 0.08)))
@@ -90,7 +108,7 @@ if (execute_create == 1)
             if (outline[i] <= 0)
             {
                 outline[i] = 0
-                self.shoot_fail()
+                shoot_fail()
             }
         }
         if (shrink[i] == 0 && imagea[i] > 0)
@@ -132,21 +150,3 @@ if (execute_create == 1)
         }
     }
 }
-function shoot_fail_gml_Object_obj_wild_revolver_circle_multi_Step_0() //gml_Script_shoot_fail_gml_Object_obj_wild_revolver_circle_multi_Step_0
-{
-    if (!shoot_miss)
-    {
-        gun_spin = 0
-        hit[circle_current] = 0
-        color_hit_number[circle_current] = 0
-        button_pressed = 1
-        shot_sound = audio_play_sound(snd_fail, 1, false)
-        shrink[circle_current] = 0
-        shrink_speed = 0
-        alarm[0] = 20
-        shoot_miss = 1
-        key_select = 0
-        no_loop = 1
-    }
-}
-

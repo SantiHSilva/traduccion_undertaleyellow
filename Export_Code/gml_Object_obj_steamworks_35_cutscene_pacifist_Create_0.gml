@@ -24,7 +24,7 @@ if (global.sworks_flag[31] == 0)
     instance_create_depth(obj_pl.x, obj_pl.y, obj_pl.depth, obj_player_npc)
     actor_follower.x = (obj_pl.x + 40)
     actor_follower.y = obj_pl.y
-    with (105641)
+    with (105642)
         y -= 80
 }
 if (global.sworks_flag[31] == 1)
@@ -39,4 +39,4 @@ if (global.sworks_flag[31] >= 2)
     instance_destroy(obj_axis_npc)
     return;
 }
-actor_axis = 1165
+actor_axis = 1166

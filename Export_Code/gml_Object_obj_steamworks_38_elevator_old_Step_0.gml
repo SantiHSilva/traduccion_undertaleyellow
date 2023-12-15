@@ -15,7 +15,7 @@ if (global.sworks_flag[39] < 1)
                 scene++
             break
         case 2:
-            cutscene_npc_walk(1167, 176, 132, 3, "y", "down")
+            cutscene_npc_walk(1168, 176, 132, 3, "y", "down")
             break
         case 3:
             cutscene_instance_create(160, 180, obj_ceroba_npc)
@@ -28,7 +28,7 @@ if (global.sworks_flag[39] < 1)
                 scene++
             break
         case 5:
-            if cutscene_npc_walk(1160, 148, 133, 3, "y", "right")
+            if cutscene_npc_walk(1161, 148, 133, 3, "y", "right")
             {
                 scene = 5.5
                 obj_player_npc.npc_direction = "left"
@@ -66,7 +66,7 @@ if (global.sworks_flag[39] < 1)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* Top floor."
                 prt[0] = 377
                 position = 0
@@ -84,7 +84,7 @@ if (global.sworks_flag[39] < 1)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* Get us to the roof! Out#  of here! Whatever!"
                 prt[0] = 368
                 position = 0
@@ -132,15 +132,15 @@ if (global.sworks_flag[39] < 1)
             audio_play_sound(snd_rumble, 1, true)
             break
         case 19:
-            cutscene_npc_action_sprite(1167, 1109, 0.25, 1, 0)
+            cutscene_npc_action_sprite(1168, 1109, 0.25, 1, 0)
             scene = 19.5
             break
         case 19.5:
-            if cutscene_npc_walk(1160, 138, 133, 1, "x", "down")
+            if cutscene_npc_walk(1161, 138, 133, 1, "x", "down")
                 scene = 19.7
             break
         case 19.7:
-            if cutscene_npc_action_sprite(1160, 72, 1, 1, 0)
+            if cutscene_npc_action_sprite(1161, 72, 1, 1, 0)
                 scene = 20
             break
         case 20:
@@ -150,7 +150,7 @@ if (global.sworks_flag[39] < 1)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 ch_msg = 8
                 ch[1] = "The 5\nhumans..."
                 ch[2] = "Personal\nmission"
@@ -212,13 +212,13 @@ if (global.sworks_flag[39] < 1)
                     check = 1
             }
             if check
-                cutscene_npc_reset_sprite(1167, "up")
+                cutscene_npc_reset_sprite(1168, "up")
             break
         case 26:
-            cutscene_npc_reset_sprite(1160, "right")
+            cutscene_npc_reset_sprite(1161, "right")
             break
         case 27:
-            cutscene_npc_walk(1160, 148, 133, 2, "x", "up")
+            cutscene_npc_walk(1161, 148, 133, 2, "x", "up")
             break
         case 28:
             cutscene_wait(0.75)
@@ -247,13 +247,13 @@ if (global.sworks_flag[39] < 1)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* Well uh... better get#  moving."
                 prt[0] = 371
             }
             break
         case 34:
-            cutscene_npc_walk(1167, 160, 180, 3, "x", "down")
+            cutscene_npc_walk(1168, 160, 180, 3, "x", "down")
             break
         case 35:
             obj_player_npc.image_alpha -= 0.2
@@ -261,7 +261,7 @@ if (global.sworks_flag[39] < 1)
                 scene++
             break
         case 36:
-            cutscene_npc_walk(1160, 160, 180, 3, "x", "down")
+            cutscene_npc_walk(1161, 160, 180, 3, "x", "down")
             break
         case 37:
             obj_ceroba_npc.image_alpha -= 0.2
@@ -270,7 +270,7 @@ if (global.sworks_flag[39] < 1)
             break
         case 38:
             audio_stop_all()
-            global.party_member = 1170
+            global.party_member = 1171
             cutscene_change_room(202, 840, 280, 0.025)
             global.sworks_flag[39] = 1
             break
@@ -301,7 +301,7 @@ else
                 scene++
             break
         case 2:
-            cutscene_npc_walk(1167, 176, 132, 3, "y", "down")
+            cutscene_npc_walk(1168, 176, 132, 3, "y", "down")
             break
         case 3:
             if (global.party_member == -4)
@@ -319,7 +319,7 @@ else
                 scene++
             break
         case 5:
-            if cutscene_npc_walk(1160, 148, 133, 3, "y", "down")
+            if cutscene_npc_walk(1161, 148, 133, 3, "y", "down")
                 scene = 6
             break
         case 6:
@@ -375,11 +375,11 @@ else
             cutscene_wait(1.5)
             break
         case 18:
-            cutscene_npc_walk(1167, 160, 180, 3, "x", "down")
+            cutscene_npc_walk(1168, 160, 180, 3, "x", "down")
             break
         case 19:
             if (global.party_member != -4)
-                cutscene_npc_walk(1160, 160, 180, 3, "x", "down")
+                cutscene_npc_walk(1161, 160, 180, 3, "x", "down")
             else
                 cutscene_advance()
             break

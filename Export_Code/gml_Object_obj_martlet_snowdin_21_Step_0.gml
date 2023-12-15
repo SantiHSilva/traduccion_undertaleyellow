@@ -182,7 +182,7 @@ if (global.snowdin_flag[13] == 1)
                 if scr_camera_move(obj_pl.x, obj_pl.y, 2)
                 {
                     global.snowdin_flag[14] = 1
-                    __view_set((9 << 0), 0, 1030)
+                    __view_set((9 << 0), 0, 1031)
                     scr_cutscene_end()
                     scr_radio_restart()
                     instance_destroy(obj_camera)
@@ -211,7 +211,7 @@ if (global.snowdin_flag[13] == 2)
                 if scr_camera_move(obj_pl.x, obj_pl.y, 2)
                 {
                     global.snowdin_flag[14] = 1
-                    __view_set((9 << 0), 0, 1030)
+                    __view_set((9 << 0), 0, 1031)
                     scr_cutscene_end()
                     scr_radio_restart()
                     instance_destroy()

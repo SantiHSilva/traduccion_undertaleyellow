@@ -9,7 +9,7 @@ switch npc_flag
         {
             talker[0] = other.object_index
             message[0] = "* DEPUTY!!!"
-            message[1] = "* ¡Buenas!"
+            message[1] = "* Howdy!"
             message[2] = "* I am ever so delighted#  that you returned."
             message[3] = "* ...Makes my parting#  letter a bit awkward but#  hey, s'all good!"
             prt[0] = 422

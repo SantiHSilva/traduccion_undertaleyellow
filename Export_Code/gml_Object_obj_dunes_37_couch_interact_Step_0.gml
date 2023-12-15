@@ -8,7 +8,7 @@ if (scene == 1)
         message[0] = "* (It's an empty swing.)"
         message[1] = "* (Hop on?)"
         ch_msg = 1
-        ch[1] = "Sí"
+        ch[1] = "Yes"
         ch[2] = "No"
         if (outcome == 1)
         {

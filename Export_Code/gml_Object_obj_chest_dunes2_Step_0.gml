@@ -13,7 +13,7 @@ if (waiter == 1)
             message[1] = "* (You spy a small, dry, paper#  bag cradled in the interior of#  the lid."
             message[2] = "* (Will you take it?)"
             ch_msg = 2
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
             if (outcome == 1)
             {

@@ -20,14 +20,14 @@ if (waiter == 2)
         sndfnt_array[0] = 100
         sndfnt_array[1] = 99
         sndfnt_array[2] = 100
-        message[0] = "* ¿Estás listo para irte?"
-        message[1] = "* ¿Dejar la casa de Dalv?"
+        message[0] = "* Are you ready to leave?"
+        message[1] = "* Leave Dalv's house?"
         prt[0] = 1755
         if (outcome == 1 && message_current == 1)
         {
             obj_doorway_blocker_dalvshouse.response = "yes"
             obj_doorway_blocker_dalvshouse.waiter = 7
-            message[2] = "* Si eso es lo que quieres,#  yo te guiaré."
+            message[2] = "* If that's what you want,#  I'll lead the way."
             prt[2] = 1776
             sndfnt = 100
         }
@@ -35,7 +35,7 @@ if (waiter == 2)
         {
             obj_doorway_blocker_dalvshouse.response = "no"
             obj_doorway_blocker_dalvshouse.waiter = 7
-            message[2] = "* Muy bien, tómate#  el tiempo que quieras."
+            message[2] = "* Alright, take as long as#  you like."
             prt[2] = 1776
             sndfnt = 100
         }
@@ -48,7 +48,7 @@ if (waiter == 2)
             sndfnt = 99
         }
         ch_msg = 1
-        ch[1] = "Sí"
+        ch[1] = "Yes"
         ch[2] = "No"
     }
 }
@@ -63,14 +63,14 @@ if (waiter == 6)
         {
             portrait = 1
             sndfnt = 100
-            message[0] = "* Si eso es lo que quieres,#  yo te guiaré."
+            message[0] = "* If that's what you want,#  I'll lead the way."
             prt[0] = 1776
         }
         else if (obj_doorway_blocker_dalvshouse.response == "no")
         {
             portrait = 1
             sndfnt = 100
-            message[0] = "* Muy bien, tómate#  el tiempo que quieras."
+            message[0] = "* Alright, take as long as#  you like."
             prt[0] = 1776
         }
     }
@@ -100,7 +100,7 @@ if (waiter >= 7 && waiter <= 8 && (!instance_exists(obj_dialogue)))
 }
 if (waiter == 9)
 {
-    if cutscene_npc_walk(1167, obj_pl.x, 115, 3, "y", "up")
+    if cutscene_npc_walk(1168, obj_pl.x, 115, 3, "y", "up")
     {
         user_event_0_activated = 0
         global.cutscene = false
@@ -111,7 +111,7 @@ if (waiter == 9)
 }
 if (waiter == 10)
 {
-    if cutscene_npc_walk(1167, obj_pl.x, 115, 3, "y", "up")
+    if cutscene_npc_walk(1168, obj_pl.x, 115, 3, "y", "up")
     {
         obj_dalv2.destination_x_dalv = 219
         obj_dalv2.destination_y_dalv = 90

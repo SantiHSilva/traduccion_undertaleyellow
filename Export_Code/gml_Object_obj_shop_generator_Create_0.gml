@@ -240,7 +240,7 @@ if (shop_name == "Hotel Shop")
     global.shop_gold_requirement[1] = 26
     global.shop_gold_requirement[2] = 34
     global.shop_gold_requirement[3] = 50
-    global.shop_gold_requirement[4] = 150
+    global.shop_gold_requirement[4] = 100
     global.shop_talk[1] = "Asgore"
     global.shop_talk[2] = "Hotland"
     global.shop_talk[3] = "The Sock"

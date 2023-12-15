@@ -7,7 +7,7 @@ if (keyboard_multicheck_pressed(0) && scr_interact())
         if (global.snowdin_flag[12] < 2)
         {
             cam = instance_create(obj_pl.x, obj_pl.y, obj_camera)
-            __view_set((9 << 0), 0, 1119)
+            __view_set((9 << 0), 0, 1120)
             direction = 0
             scr_cutscene_start()
             audio_play_sound(snd_puzzle_start, 1, false)

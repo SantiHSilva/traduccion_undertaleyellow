@@ -596,7 +596,7 @@ switch scene
         instance_destroy(actor_clover)
         instance_destroy()
         instance_create(720, 380, obj_determination)
-        __view_set((9 << 0), 0, 1030)
+        __view_set((9 << 0), 0, 1031)
         obj_radio.bgm = 542
         scr_radio_restart()
         scr_cutscene_end()

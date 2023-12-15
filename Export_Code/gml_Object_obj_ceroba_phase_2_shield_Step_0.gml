@@ -44,7 +44,8 @@ switch scene
             if (bullet_hit_draw_timer > 0)
                 bullet_hit_draw_timer -= 1
         }
-        fill_percentage_current = lerp(fill_percentage_current, fill_percentage, 0.15)
+        if global.enemy_attacking
+            fill_percentage_current = lerp(fill_percentage_current, fill_percentage, 0.15)
         if (fill_percentage_current >= 0.99)
         {
             fill_percentage_current = 1
@@ -109,7 +110,8 @@ switch scene
             with (obj_dialogue_box_battle_transformation_any)
                 event_user(0)
         }
-        obj_heart_battle_menu.image_alpha = 0
+        if global.enemy_attacking
+            obj_heart_battle_menu.image_alpha = 0
         image_speed = 1
         scene++
         break

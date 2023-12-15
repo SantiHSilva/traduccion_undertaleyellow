@@ -562,7 +562,7 @@ switch scene
         }
         break
     case 76:
-        cutscene_npc_walk(actor_starlo, 700, 180, 3, "x", "up", 1871)
+        cutscene_npc_walk(actor_starlo, 700, 180, 3, "x", "up", 1872)
         cutscene_advance()
         break
     case 77:
@@ -601,7 +601,7 @@ switch scene
         instance_destroy(actor_moray)
         instance_destroy(actor_mooch)
         instance_destroy(actor_ace)
-        __view_set((9 << 0), 0, 1030)
+        __view_set((9 << 0), 0, 1031)
         global.dunes_flag[20] = 5
         instance_destroy()
         instance_create(720, 380, obj_determination)

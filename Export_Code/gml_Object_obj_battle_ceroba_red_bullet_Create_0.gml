@@ -1,6 +1,7 @@
 if live_call()
     return global.live_result;
-var player_soul = 2978
+damage_number = 1
+var player_soul = 2979
 var battle_box = obj_dialogue_box_battle_transformation_any
 image_alpha = 1
 target_x = (battle_box.x + random_range(-2, 2))

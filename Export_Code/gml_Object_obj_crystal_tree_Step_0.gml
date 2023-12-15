@@ -48,7 +48,7 @@ if (waiter == 3)
         portrait = 0
         message[0] = "* (Take the Ice Pellets?)"
         ch_msg = 0
-        ch[1] = "Sí"
+        ch[1] = "Yes"
         ch[2] = "No"
         if (outcome == 1 && message_current == 0)
         {

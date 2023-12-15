@@ -17,7 +17,7 @@ function scr_dialogue_battle_action_selected_action_3_slither_a() //gml_Script_s
     }
     else
     {
-        message[0] = "* You step away from Sir#  Slither. He seems displeased."
+        message[0] = "* You step away from Sir#  Slither. His pursuit falters."
         global.last_action_selected = "Action 3 Message 0"
         global.last_action_selected_2 = "Nothing"
         global.last_action_selected_3 = "Nothing"

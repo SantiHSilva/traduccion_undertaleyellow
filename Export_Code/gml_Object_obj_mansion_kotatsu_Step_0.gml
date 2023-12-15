@@ -11,13 +11,13 @@ switch scene
         }
         break
     case 1:
-        cutscene_npc_walk(1163, 130, 200, 2, "y", "up")
+        cutscene_npc_walk(1164, 130, 200, 2, "y", "up")
         break
     case 2:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* This must be where they#  ate their meals..."
             prt[0] = 329
         }
@@ -29,7 +29,7 @@ switch scene
         cutscene_npc_direction(obj_martlet_npc, "right")
         break
     case 5:
-        cutscene_npc_walk(1167, 195, 200, 3, "y", "up")
+        cutscene_npc_walk(1168, 195, 200, 3, "y", "up")
         break
     case 6:
         cutscene_wait(1)
@@ -48,13 +48,13 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* What do you see?"
             prt[0] = 321
         }
         break
     case 11:
-        cutscene_npc_walk(1167, 160, 200, 3, "x", "up")
+        cutscene_npc_walk(1168, 160, 200, 3, "x", "up")
         break
     case 12:
         if cutscene_wait(0.75)
@@ -66,7 +66,7 @@ switch scene
     case 13:
         with (obj_player_npc)
         {
-            if (!(variable_instance_exists(1167, "x_original")))
+            if (!(variable_instance_exists(1168, "x_original")))
             {
                 x_original = x
                 y_original = y
@@ -94,7 +94,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Hey uh..."
             prt[0] = 311
         }
@@ -111,7 +111,7 @@ switch scene
         {
             ch_msg = 0
             ch[1] = "I need your help"
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* ..."
             message[1] = "* You think something's#  under there?"
             message[2] = "* Alright then..."
@@ -124,7 +124,7 @@ switch scene
         cutscene_npc_direction(obj_player_npc, "up")
         break
     case 19:
-        cutscene_npc_walk(1163, 116, 200, 3, "y", "down", -4, 160, 130)
+        cutscene_npc_walk(1164, 116, 200, 3, "y", "down", -4, 160, 130)
         break
     case 20:
         cutscene_wait(0.5)
@@ -137,7 +137,7 @@ switch scene
         }
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* On \"three.\""
             message[1] = "* One..."
             message[2] = "* Two..."
@@ -168,15 +168,15 @@ switch scene
         obj_martlet_npc.npc_direction = "up"
         obj_player_npc.npc_direction = "up"
         layer_set_visible("chairs", 0)
+        instance_destroy(106768)
         instance_destroy(106767)
-        instance_destroy(106766)
         cutscene_advance()
         break
     case 25:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Whoa..."
             prt[0] = 333
         }
@@ -194,7 +194,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Good eye, Clover."
             prt[0] = 312
         }
@@ -206,7 +206,7 @@ switch scene
         cutscene_wait(0.5)
         break
     case 32:
-        cutscene_npc_walk(1167, 160, 190, 3, "y", "up")
+        cutscene_npc_walk(1168, 160, 190, 3, "y", "up")
         break
     case 33:
         if cutscene_wait(1)
@@ -234,7 +234,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* Spooky..."
             message[1] = "* Well, uh... After you."
             prt[0] = 321
@@ -245,7 +245,7 @@ switch scene
         cutscene_npc_direction(obj_player_npc, "up")
         break
     case 39:
-        cutscene_npc_walk(1163, obj_player_npc.x, (obj_player_npc.y + 20), 3, "y", "up")
+        cutscene_npc_walk(1164, obj_player_npc.x, (obj_player_npc.y + 20), 3, "y", "up")
         break
     case 40:
         var doorway = instance_create(136, 150, obj_doorway_secret_study)

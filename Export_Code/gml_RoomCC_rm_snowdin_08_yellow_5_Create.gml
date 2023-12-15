@@ -1,4 +1,4 @@
 if (global.route == 3)
-    message[0] = "* (Restos de la choza destrozada.)"
-message[0] = "* (Algo de madera;#  presumiblemente sacada#  de la vieja choza.)"
-message[1] = "* (Observas una pluma#  azul escondida detrás.)"
+    message[0] = "* (Remains of the tattered shack.)"
+message[0] = "* (Some wood; presumably taken#  off of the dilapidated#  shack.)"
+message[1] = "* (You notice a blue feather#  hidden behind it.)"

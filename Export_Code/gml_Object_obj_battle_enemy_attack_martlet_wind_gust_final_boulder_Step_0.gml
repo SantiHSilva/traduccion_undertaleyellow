@@ -10,7 +10,7 @@ if (!can_fall)
 vspeed += 1
 if (vspeed > fall_speed)
     vspeed = fall_speed
-var box = 3153
+var box = 3154
 if (y >= (box.bbox_bottom - 12))
 {
     instance_destroy()

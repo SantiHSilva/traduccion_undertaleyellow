@@ -7,7 +7,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Dammit!"
             message[1] = "* Better try again."
             prt[0] = 370

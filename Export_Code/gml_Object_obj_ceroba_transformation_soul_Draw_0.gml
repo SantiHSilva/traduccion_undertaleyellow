@@ -21,7 +21,7 @@ if (is_charging && (!is_charged))
 draw_sprite_ext(sprite_index, image_index, x, y, 1, 1, image_angle, c_white, image_alpha)
 if (draw_hint == 1)
 {
-    var battle_box = 3153
+    var battle_box = 3154
     var hint_scale = (1.5 + (sin((current_time / 100)) * 0.5))
     draw_set_font(fnt_battle)
     draw_set_halign(fa_center)

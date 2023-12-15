@@ -27,7 +27,7 @@ if (active == 2)
         scr_cutscene_end()
     else
         global.cutscene = false
-    __view_set((9 << 0), 0, 1030)
+    __view_set((9 << 0), 0, 1031)
     obj_snowdin_19_lever_overworld_yellow.waiter = 0
     instance_destroy(obj_camera)
 }

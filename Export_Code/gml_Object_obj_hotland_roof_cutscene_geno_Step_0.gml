@@ -10,14 +10,14 @@ switch scene
         }
         break
     case 1:
-        cutscene_npc_walk(1167, obj_martlet_npc.x, obj_pl.y, 3, "x", "up")
+        cutscene_npc_walk(1168, obj_martlet_npc.x, obj_pl.y, 3, "x", "up")
         break
     case 2:
         if cutscene_wait(1.5)
             cutscene_advance(2.5)
         break
     case 2.5:
-        if cutscene_npc_walk(1167, obj_martlet_npc.x, (obj_martlet_npc.y + 60), 1, "x", "up")
+        if cutscene_npc_walk(1168, obj_martlet_npc.x, (obj_martlet_npc.y + 60), 1, "x", "up")
             cutscene_advance(3)
         break
     case 3:
@@ -45,7 +45,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             position = 1
             message[0] = "* ..."
             message[1] = "* So you found me..."
@@ -59,7 +59,7 @@ switch scene
         cutscene_wait(0.5)
         break
     case 11:
-        cutscene_npc_action_sprite(1167, 3380, 1, 1, 0, 634, 2)
+        cutscene_npc_action_sprite(1168, 3380, 1, 1, 0, 634, 2)
         break
     case 12:
         cutscene_wait(1)

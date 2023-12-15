@@ -29,7 +29,7 @@ if (global.route == 1 && global.sworks_flag[61] == 0)
                 case 1:
                     with (msg)
                     {
-                        talker[0] = 1165
+                        talker[0] = 1166
                         message[0] = "* YES, I HAD TO SCAN YOU#  TO REMEMBER."
                         message[1] = "* IT IS STANDARD#  PROCEDURE AFTER A#  RECHARGE."
                         message[2] = "* AH, THE PRECIOUS#  MEMORIES ARE FLOODING#  BACK."
@@ -53,7 +53,7 @@ if (global.route == 1 && global.sworks_flag[61] == 0)
                 case 2:
                     with (msg)
                     {
-                        talker[0] = 1165
+                        talker[0] = 1166
                         message[0] = "* SAY, WHERE DOES A BOT#  FIND A HAT LIKE YOURS?"
                         message[1] = "* I WOULD ROCK A CAP LIKE#  THAT."
                         message[2] = "* MIGHT TURN SOME HEADS,#  YOU KNOW?"
@@ -77,7 +77,7 @@ if (global.route == 1 && global.sworks_flag[61] == 0)
                 case 3:
                     with (msg)
                     {
-                        talker[0] = 1165
+                        talker[0] = 1166
                         message[0] = "* HAVE FUN IN THE#  STEAMWORKS, HUMAN."
                         message[1] = "* IF YOU PLAN TO TAKE A#  SWIM IN THE BOILING#  LAKE, BRING FLOATIES."
                         message[2] = "* THE LIFEGUARD WAS#  RECENTLY PROMOTED TO A#  DEATHGUARD."
@@ -108,7 +108,7 @@ if (global.route == 1 && global.sworks_flag[61] == 0)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1165
+                talker[0] = 1166
                 message[0] = "* AH, HELLO \"HATTED#  HUMAN.\""
                 message[1] = "* HOPE YOU ARE WELL THIS#  FINE EVENING."
                 prt[0] = 473
@@ -132,7 +132,7 @@ else if ((global.route == 2 || global.sworks_flag[61] == 1) && scene == 1)
         case 0:
             with (msg)
             {
-                talker[0] = 1165
+                talker[0] = 1166
                 message[0] = "* HELLO, HUMAN."
                 message[1] = "* YOU CAUGHT ME ON A DATE#  WITH THE LOVELY."
                 message[2] = "* TURNS OUT I DID NOT#  HAVE TO RECHARGE."
@@ -153,7 +153,7 @@ else if ((global.route == 2 || global.sworks_flag[61] == 1) && scene == 1)
         case 1:
             with (msg)
             {
-                talker[0] = 1165
+                talker[0] = 1166
                 message[0] = "* HOW INFORMAL OF ME."
                 message[1] = "* I DID NOT INTRODUCE YOU#  TO MY SPOUSE."
                 message[2] = "* THIS IS DAISY. "
@@ -178,7 +178,7 @@ else if ((global.route == 2 || global.sworks_flag[61] == 1) && scene == 1)
         case 2:
             with (msg)
             {
-                talker[0] = 1165
+                talker[0] = 1166
                 message[0] = "* SOONER OR LATER..."
                 message[1] = "* I SUPPOSE WE WILL HAVE#  TO ESTABLISH OUR NEW#  SOCIETY."
                 message[2] = "* THAT WILL BE TRICKY."
@@ -244,7 +244,7 @@ else if ((global.route == 2 || global.sworks_flag[61] == 1) && scene == 1)
         case 4:
             with (msg)
             {
-                talker[0] = 1165
+                talker[0] = 1166
                 message[0] = "* THAT IS ALL THE#  \"CATCHING UP\" I HAD#  PLANNED."
                 message[1] = "* HOPE YOUR LIFE TURNS#  OUT AS SICK AS MINE."
                 message[2] = "* GOODBYE, HUMAN."

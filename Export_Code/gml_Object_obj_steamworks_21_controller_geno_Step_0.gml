@@ -26,7 +26,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* N0.. ."
             message[1] = "* R- R3TREATING!"
             prt[0] = 3282

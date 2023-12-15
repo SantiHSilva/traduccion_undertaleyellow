@@ -40,5 +40,9 @@ if (state == 1 || state == 2)
         instance_destroy(bullet_spawner)
     }
     if (state != 2)
+    {
         homing_speed += 0.1
+        if (global.hotland_flag[2] == 3)
+            homing_speed += 0.1
+    }
 }

@@ -17,7 +17,7 @@ if (global.route == 2)
             cutscene_instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
             break
         case 3:
-            cutscene_npc_walk(1167, 1300, 520, 3, "x", "left")
+            cutscene_npc_walk(1168, 1300, 520, 3, "x", "left")
             scene++
             break
         case 4:
@@ -33,7 +33,7 @@ if (global.route == 2)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* Ugh, it's a dead end."
                 prt[0] = 368
             }
@@ -51,7 +51,7 @@ if (global.route == 2)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* It looks like we're#  gonna have to-"
                 prt[0] = 394
                 skippable = 0
@@ -121,7 +121,7 @@ if (global.route == 2)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* This bot doesn't seem#  malicious. That's new."
                 message[1] = "* I say we give it a go."
                 prt[0] = 393
@@ -174,7 +174,7 @@ else if (global.route == 1)
             cutscene_instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
             break
         case 2:
-            cutscene_npc_walk(1167, 1300, 520, 3, "x", "left")
+            cutscene_npc_walk(1168, 1300, 520, 3, "x", "left")
             scene++
             break
         case 3:
@@ -247,7 +247,7 @@ else if (global.route == 3)
             cutscene_instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
             break
         case 2:
-            cutscene_npc_walk(1167, 1300, 520, 3, "x", "left")
+            cutscene_npc_walk(1168, 1300, 520, 3, "x", "left")
             scene++
             break
         case 3:

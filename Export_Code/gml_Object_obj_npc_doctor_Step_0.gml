@@ -119,7 +119,7 @@ if (interact_hold == 1)
                 with (msg)
                 {
                     ch_msg = 1
-                    ch[1] = "Sí"
+                    ch[1] = "Yes"
                     ch[2] = "No thanks"
                     talker[0] = other.object_index
                     message[0] = "* Hello again!"

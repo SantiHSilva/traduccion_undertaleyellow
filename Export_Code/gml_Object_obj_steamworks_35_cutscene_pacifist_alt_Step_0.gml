@@ -33,7 +33,7 @@ switch scene
             scene = 3
         break
     case 3:
-        cutscene_npc_walk(1160, 750, obj_pl.y, 3, "x", "left")
+        cutscene_npc_walk(1161, 750, obj_pl.y, 3, "x", "left")
         break
     case 4:
         cutscene_sfx_play(snd_playerjump, 1)
@@ -43,13 +43,13 @@ switch scene
         cutscene_npc_path_start(obj_ceroba_npc, pt_small_jump, 3)
         break
     case 6:
-        cutscene_npc_walk(1160, (obj_pl.x + 40), obj_pl.y, 4, "x", "up")
+        cutscene_npc_walk(1161, (obj_pl.x + 40), obj_pl.y, 4, "x", "up")
         break
     case 7:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Clover... You..."
             message[1] = "* How could you..."
             message[2] = "* This wasn't the plan!!"
@@ -85,7 +85,7 @@ switch scene
             message[1] = "* This is your fault."
             prt[0] = 2987
             prt[1] = 609
-            talker[0] = 1160
+            talker[0] = 1161
         }
         break
     case 11:
@@ -95,7 +95,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* I never want to see you#  again."
             prt[0] = 609
         }
@@ -104,7 +104,7 @@ switch scene
         cutscene_npc_set_sprites(obj_ceroba_npc, 81, 80, 78, 79, 61, 65, 60, 63)
         break
     case 14:
-        cutscene_npc_walk(1160, 860, obj_pl.y, 4, "x", "right")
+        cutscene_npc_walk(1161, 860, obj_pl.y, 4, "x", "right")
         break
     case 15:
         cutscene_wait(1)
@@ -140,7 +140,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Aaaand there it is!"
             message[1] = "* She was totally using#  you, pal."
             message[2] = "* As soon as you act in#  self-defense for once,#  she freaks!"
@@ -160,7 +160,7 @@ switch scene
         }
         break
     case 22:
-        if cutscene_npc_action_sprite_reverse(3193, 242, 0.2, 1, 0)
+        if cutscene_npc_action_sprite_reverse(3194, 242, 0.2, 1, 0)
             instance_destroy(obj_flowey_npc)
         break
     case 23:

@@ -1,7 +1,7 @@
 if live_call()
     return global.live_result;
 damage_number = scr_determine_damage_number_enemy("ceroba", "void", "void")
-var battle_box = 3153
+var battle_box = 3154
 image_alpha = 0
 scene = 0
 cutscene_timer = 0

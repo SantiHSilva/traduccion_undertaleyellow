@@ -8,7 +8,7 @@ if interact
         {
             with (msg)
             {
-                talker[0] = 1169
+                talker[0] = 1170
                 sndfnt = 102
                 message[0] = "* Ah... I see...."
                 message[1] = "* An oak base with iron#  nails holding it#  together..."
@@ -25,7 +25,7 @@ if interact
         {
             with (msg)
             {
-                talker[0] = 1169
+                talker[0] = 1170
                 sndfnt = 102
                 message[0] = "* We can move on, I've#  seen enough."
                 prt[0] = 312

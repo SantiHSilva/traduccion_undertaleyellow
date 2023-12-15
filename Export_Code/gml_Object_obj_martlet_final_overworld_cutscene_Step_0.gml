@@ -83,9 +83,9 @@ switch scene
         with (msg)
         {
             talker[0] = 92
-            talker[2] = 1163
+            talker[2] = 1164
             talker[4] = 92
-            talker[5] = 1163
+            talker[5] = 1164
             talker[6] = 92
             message[0] = "* Is that my title now?"
             message[1] = "* It's not like I pay you#  to help me."
@@ -128,15 +128,15 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             talker[2] = 92
-            talker[3] = 1163
+            talker[3] = 1164
             talker[5] = 92
-            talker[7] = 1163
+            talker[7] = 1164
             talker[8] = 92
-            talker[9] = 1163
+            talker[9] = 1164
             talker[10] = 92
-            talker[11] = 1163
+            talker[11] = 1164
             message[0] = "* Oh, I meant to tell#  you..."
             message[1] = "* We'll probably have to#  cut back on our hangouts#  soon."
             message[2] = "* Hm?"
@@ -215,19 +215,19 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             talker[1] = 92
-            talker[4] = 1163
+            talker[4] = 1164
             talker[5] = 92
-            talker[8] = 1163
+            talker[8] = 1164
             talker[11] = 92
-            talker[15] = 1163
+            talker[15] = 1164
             talker[21] = 92
-            talker[22] = 1163
+            talker[22] = 1164
             talker[23] = 92
-            talker[25] = 1163
+            talker[25] = 1164
             talker[27] = 92
-            talker[28] = 1163
+            talker[28] = 1164
             talker[29] = 92
             message[0] = "* I signed up for the#  Royal Guard."
             message[1] = "* The..."
@@ -413,9 +413,9 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             talker[5] = 92
-            talker[6] = 1163
+            talker[6] = 1164
             talker[7] = 92
             message[0] = "* ..."
             message[1] = "* If it makes you feel#  better..."
@@ -463,7 +463,7 @@ switch scene
         with (msg)
         {
             talker[0] = 92
-            talker[1] = 1163
+            talker[1] = 1164
             message[0] = "* Why don't we just call#  it a day?"
             message[1] = "* Yeah..."
             message[2] = "* Probably for the#  best..."

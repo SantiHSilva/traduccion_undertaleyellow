@@ -23,14 +23,14 @@ switch scene
         cutscene_follower_into_actor()
         break
     case 4:
-        cutscene_npc_walk(1167, 120, 340, 3, "x", "down")
+        cutscene_npc_walk(1168, 120, 340, 3, "x", "down")
         scene++
         break
     case 5:
         cutscene_wait(0.25)
         break
     case 6:
-        cutscene_npc_walk(1160, 120, 340, 3, "x", "up")
+        cutscene_npc_walk(1161, 120, 340, 3, "x", "up")
         scene++
         break
     case 7:

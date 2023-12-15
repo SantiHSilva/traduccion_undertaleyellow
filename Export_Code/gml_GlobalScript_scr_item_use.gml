@@ -385,7 +385,7 @@ function scr_item_use(argument0, argument1) //gml_Script_scr_item_use
         case "Missing Poster":
         case "Necklace":
             item_type = 0
-            use_msg[0] = "* (No puedes utilizar este objeto.)"
+            use_msg[0] = "* (You cannot use this item.)"
             break
         case "Lukewarm Coffee":
             item_type = 0

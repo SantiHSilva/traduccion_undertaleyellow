@@ -12,7 +12,7 @@ if (global.sworks_flag[0] == 2)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* Guess I should've#  expected this."
                 prt[0] = 377
             }
@@ -27,7 +27,7 @@ if (global.sworks_flag[0] == 2)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* In its prime, this was#  the main power source of#  the Underground."
                 message[1] = "* That, obviously, was#  many years ago."
                 message[2] = "* Until we breathe life#  back into this thing, we#  can't progress."
@@ -55,7 +55,7 @@ if (global.sworks_flag[0] == 2)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* There's some kinda#  console here."
                 message[1] = "* Maybe one of Chujin's#  codes will work? Just#  give me a second."
                 message[2] = "* In the meantime, you#  can... wait over in the#  corner or something."
@@ -73,7 +73,7 @@ if (global.sworks_flag[0] == 2)
             global.sworks_flag[0] = 3
             scr_cutscene_end()
             cutscene_advance()
-            __view_set((9 << 0), 0, 1030)
+            __view_set((9 << 0), 0, 1031)
             break
     }
 
@@ -88,7 +88,7 @@ with (actor_ceroba)
             case 0:
                 with (msg)
                 {
-                    talker[0] = 1160
+                    talker[0] = 1161
                     message[0] = "* I need to concentrate#  right now."
                     prt[0] = 370
                 }
@@ -96,7 +96,7 @@ with (actor_ceroba)
             case 1:
                 with (msg)
                 {
-                    talker[0] = 1160
+                    talker[0] = 1161
                     message[0] = "* I think I'm getting#  somewhere. Hold on."
                     prt[0] = 370
                 }
@@ -104,7 +104,7 @@ with (actor_ceroba)
             case 2:
                 with (msg)
                 {
-                    talker[0] = 1160
+                    talker[0] = 1161
                     message[0] = "* Almost got it! Didn't#  think this would#  actually work!"
                     prt[0] = 370
                 }
@@ -120,7 +120,7 @@ if (global.sworks_flag[1] == 3)
         case 0:
             instance_create(obj_ceroba_npc.x, 300, obj_camera)
             obj_camera.move = 0
-            __view_set((9 << 0), 0, 1119)
+            __view_set((9 << 0), 0, 1120)
             audio_stop_sound(snd_machinery)
             obj_steamworks_04_generator.image_speed = 0
             cutscene_advance()
@@ -151,14 +151,14 @@ if (global.sworks_flag[1] == 4)
     switch scene
     {
         case 0:
-            __view_set((9 << 0), 0, 1160)
+            __view_set((9 << 0), 0, 1161)
             cutscene_advance()
             break
         case 1:
             cutscene_instance_create(330, 200, obj_player_npc)
             break
         case 2:
-            cutscene_npc_walk(1167, 300, obj_ceroba_npc.y, 3, "y", "left", 0)
+            cutscene_npc_walk(1168, 300, obj_ceroba_npc.y, 3, "y", "left", 0)
             break
         case 3:
             cutscene_npc_direction(obj_ceroba_npc, "right")
@@ -170,7 +170,7 @@ if (global.sworks_flag[1] == 4)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* It's working!"
                 message[1] = "* Wait... What have you#  been up to?"
                 prt[0] = 372
@@ -208,7 +208,7 @@ if (global.sworks_flag[1] == 4)
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* Oh..."
                 message[1] = "* I... wasn't actually#  doing anything this#  whole time was I?"
                 message[2] = "* Ugh, alright. You're#  clearly more capable of#  problem solving."
@@ -227,16 +227,16 @@ if (global.sworks_flag[1] == 4)
             cutscene_advance()
             break
         case 17:
-            cutscene_npc_walk(1160, ceroba_x_dest, obj_player_npc.y, 3, "y", ceroba_end_dir)
+            cutscene_npc_walk(1161, ceroba_x_dest, obj_player_npc.y, 3, "y", ceroba_end_dir)
             break
         case 18:
             cutscene_camera_move(obj_pl.x, obj_pl.y, 2)
             break
         case 19:
             obj_pl.image_alpha = 1
-            __view_set((9 << 0), 0, 1030)
+            __view_set((9 << 0), 0, 1031)
             instance_destroy(obj_player_npc)
-            global.party_member = 1170
+            global.party_member = 1171
             scr_actor_into_follower(obj_ceroba_npc, obj_ceroba_follower)
             global.sworks_flag[1] = 5
             scr_cutscene_end()

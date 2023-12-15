@@ -16,4 +16,4 @@ if instance_exists(obj_transition)
 scr_cutscene_start()
 scene = 0
 timer = 10
-actor_martlet = 1492
+actor_martlet = 1493

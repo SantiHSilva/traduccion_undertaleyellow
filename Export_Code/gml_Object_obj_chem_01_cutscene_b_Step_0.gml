@@ -22,7 +22,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Hey! That's a real#  piece of art you made#  there!"
             message[1] = "* Give it a go!"
             prt[0] = 348
@@ -36,7 +36,7 @@ switch scene
         cutscene_wait(0.75)
         break
     case 6:
-        cutscene_npc_walk(1167, 150, obj_player_npc.y, 2, "x", "up")
+        cutscene_npc_walk(1168, 150, obj_player_npc.y, 2, "x", "up")
         break
     case 7:
         cutscene_wait(1)
@@ -53,7 +53,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Wouldja look at that!#  Worked like a charm."
             message[1] = "* I might have to#  personally commission#  you someday, haha!"
             prt[0] = 348
@@ -64,10 +64,10 @@ switch scene
         cutscene_wait(0.5)
         break
     case 12:
-        if cutscene_npc_action_sprite_reverse(3193, 242, 0.4, 1, 0)
+        if cutscene_npc_action_sprite_reverse(3194, 242, 0.4, 1, 0)
         {
+            instance_destroy(105301)
             instance_destroy(105300)
-            instance_destroy(105299)
             instance_destroy(obj_flowey_npc)
             cutscene_end()
             global.sworks_flag[26] = 2

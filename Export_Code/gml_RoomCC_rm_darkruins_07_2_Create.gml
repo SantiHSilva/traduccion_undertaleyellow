@@ -1,1 +1,1 @@
-message = "* Propiedad privada.#* Prohibido el paso."
+message = "* Private property.#* No trespassing."

@@ -31,7 +31,7 @@ if (room == rm_dunes_20)
     end_direction = "right"
 else
     end_direction = "left"
-walk_collider = 1680
+walk_collider = 1681
 destination_count = 0
 can_walk = 1
 player_fade_out = 0

@@ -47,13 +47,13 @@ switch scene
         obj_axis_npc.depth = (layer_get_depth("tiles_outside") - 50)
         break
     case 9:
-        cutscene_npc_walk(1165, 1690, 90, 3, "y", "down")
+        cutscene_npc_walk(1166, 1690, 90, 3, "y", "down")
         break
     case 10:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* FOUND YOU."
             prt[0] = 2916
         }
@@ -84,7 +84,7 @@ switch scene
             obj_steamworks_22_axis_throwing.alarm[0] = -1
             instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
             obj_player_npc.left_sprite = 17
-            cutscene_npc_walk(1167, 60, 140, 5, "x", "right", 1160)
+            cutscene_npc_walk(1168, 60, 140, 5, "x", "right", 1161)
             cutscene_advance()
         }
         break
@@ -103,7 +103,7 @@ switch scene
         cutscene_instance_create(360, 140, obj_axis_npc)
         break
     case 18:
-        cutscene_npc_walk(1165, 240, 140, 4, "x", "left")
+        cutscene_npc_walk(1166, 240, 140, 4, "x", "left")
         break
     case 19:
         cutscene_wait(0.5)
@@ -112,17 +112,17 @@ switch scene
         cutscene_music_start(219)
         break
     case 21:
-        cutscene_npc_action_sprite(1165, 2693, 1, 1)
+        cutscene_npc_action_sprite(1166, 2693, 1, 1)
         break
     case 22:
-        cutscene_npc_action_sprite(1165, 3312, 1, 1, 1)
+        cutscene_npc_action_sprite(1166, 3312, 1, 1, 1)
         cutscene_advance(23)
         break
     case 23:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* YOU ARE CORNERED,#  HUMAN."
             message[1] = "* I DID NOT WANT TO HURT#  YOU BUT YOU FORCED MY#  GLOVE."
             message[2] = "* PREPARE FOR PAIN."
@@ -161,7 +161,7 @@ switch scene
         }
         break
     case 27:
-        cutscene_npc_action_sprite(1165, 3170, 1, 1, 0)
+        cutscene_npc_action_sprite(1166, 3170, 1, 1, 0)
         break
     case 28:
         cutscene_wait(2)
@@ -170,7 +170,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* OH."
             prt[0] = 473
         }
@@ -182,7 +182,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* THIS IS A PROBLEM."
             message[1] = "* LOOKS LIKE YOU WIN THIS#  TIME."
             message[2] = "* I WILL RETURN TO#  CAPTURE YOU SOON."
@@ -194,10 +194,10 @@ switch scene
         }
         break
     case 32:
-        cutscene_npc_action_sprite(1165, 3571, 1, 1, 0, 60, 0)
+        cutscene_npc_action_sprite(1166, 3571, 1, 1, 0, 60, 0)
         break
     case 33:
-        cutscene_npc_action_sprite(1165, 3319, 1, 0, 0)
+        cutscene_npc_action_sprite(1166, 3319, 1, 0, 0)
         cutscene_advance()
         break
     case 34:

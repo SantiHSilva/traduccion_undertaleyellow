@@ -1,6 +1,6 @@
 if live_call()
     return global.live_result;
-var offset = 19
+var offset = 18
 draw_set_color(c_white)
 draw_set_font(fnt_main)
 draw_set_halign(fa_center)
@@ -20,7 +20,7 @@ for (i = 0; i < array_length(credits_entry_two); i++)
         draw_set_color(c_yellow)
     else
         draw_set_color(c_white)
-    draw_text((camera_border_x - 90), ((camera_border_y - credits_y_offset) + ((i + 36) * offset)), credits_entry_two[i])
+    draw_text((camera_border_x - 90), ((camera_border_y - credits_y_offset) + ((i + 37) * offset)), credits_entry_two[i])
 }
 draw_set_alpha(credits_final_alpha)
 for (i = 0; i < array_length(credits_entry_three); i++)

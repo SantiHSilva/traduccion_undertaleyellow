@@ -14,12 +14,12 @@ if (global.geno_complete[3] == 1)
     if (global.sworks_flag[28] == 0)
         ds_list_clear(global.encounter_list)
     global.sworks_flag[28] = 1
-    instance_destroy(105662)
+    instance_destroy(105663)
     return;
 }
 if (global.sworks_flag[28] >= 1)
 {
     obj_steamworks_33_bridge.x = 0
-    instance_destroy(105662)
+    instance_destroy(105663)
     return;
 }

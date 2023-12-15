@@ -263,7 +263,7 @@ switch scene
         cutscene_screenshake(1, 2)
         break
     case 40:
-        cutscene_action_sprite(1957, 1105, (1/3), 1, 0, 631, 0)
+        cutscene_action_sprite(1958, 1105, (1/3), 1, 0, 631, 0)
         break
     case 41:
         cutscene_wait(1)
@@ -319,7 +319,7 @@ switch scene
         with (msg)
         {
             talker[0] = -4
-            talker[1] = 1168
+            talker[1] = 1169
             sndfnt_array[0] = 391
             sndfnt_array[1] = 107
             message[0] = "* (You got the Deputy#  Badge!)"
@@ -345,7 +345,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1168
+            talker[0] = 1169
             message[0] = "* I'm so proud!"
             prt[0] = 413
         }

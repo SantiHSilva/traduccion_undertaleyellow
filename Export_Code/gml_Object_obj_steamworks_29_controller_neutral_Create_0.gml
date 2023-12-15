@@ -11,7 +11,7 @@ if (global.sworks_flag[20] == 1)
     obj_steamworks_29_gardener_bot.image_speed = 1
     instance_create(170, (obj_steamworks_29_gardener_bot.y + 20), obj_camera)
     obj_camera.move = 0
-    camera_set_view_target(view_camera[0], 1119)
+    camera_set_view_target(view_camera[0], 1120)
     scr_radio_fade(0, 0)
     global.cutscene = true
     scene = 20

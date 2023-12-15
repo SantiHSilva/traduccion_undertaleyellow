@@ -7,7 +7,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             if (global.sworks_flag[12] == 0)
             {
                 if (global.route == 2)
@@ -40,7 +40,7 @@ switch scene
         cutscene_wait(0.5)
         break
     case 3:
-        cutscene_npc_walk(1165, 160, 345, 3, "y", "down")
+        cutscene_npc_walk(1166, 160, 345, 3, "y", "down")
         break
     case 4:
         with (obj_axis_npc)

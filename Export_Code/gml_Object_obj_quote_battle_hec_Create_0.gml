@@ -75,7 +75,7 @@ if (execute_normal == 1)
             random_number = irandom_range(0, 2)
             if (random_number == 0)
             {
-                message[0] = "I finally feel#like my own monster. It's liberating."
+                message[0] = "I finally feel#like my own#monster. It's#liberating."
                 message_end = 0
             }
             else if (random_number == 1)

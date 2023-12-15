@@ -14,7 +14,7 @@ if (waiter == 1)
         }
         message[0] = "* (There appears to be something#  interesting on this rock.)"
         message[1] = "* (Touch it?)"
-        ch[1] = "Sí"
+        ch[1] = "Yes"
         ch[2] = "No"
         ch_msg = 1
         if (outcome == 1 && message_current == 1)

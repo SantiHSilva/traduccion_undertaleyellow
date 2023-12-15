@@ -11,12 +11,12 @@ switch scene
         obj_player_npc.npc_direction = "up"
         break
     case 1:
-        cutscene_npc_walk(1163, 160, 185, 2, "y", "up")
+        cutscene_npc_walk(1164, 160, 185, 2, "y", "up")
         if (abs((obj_martlet_npc.y - obj_player_npc.y)) > 30)
             scene = 2
         break
     case 2:
-        cutscene_npc_walk(1167, 160, 220, 2, "x", "up")
+        cutscene_npc_walk(1168, 160, 220, 2, "x", "up")
         break
     case 3:
         cutscene_camera_move(160, 160, 2)
@@ -31,7 +31,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1163
+            talker[0] = 1164
             message[0] = "* I should've asked where#  the \"papers and tapes\"#  are located, huh?"
             message[1] = "* Hmm... I guess we can#  take a look around."
             message[2] = "* Should be an office#  somewhere..."
@@ -43,7 +43,7 @@ switch scene
         }
         break
     case 7:
-        cutscene_npc_walk(1163, obj_player_npc.x, (obj_player_npc.y + 20), 3, "y", "up")
+        cutscene_npc_walk(1164, obj_player_npc.x, (obj_player_npc.y + 20), 3, "y", "up")
         break
     case 8:
         cutscene_actor_into_follower()
@@ -75,7 +75,7 @@ switch scene
         }
         break
     case 13:
-        cutscene_npc_walk(1167, obj_pl.x, 250, 3, "y", "up")
+        cutscene_npc_walk(1168, obj_pl.x, 250, 3, "y", "up")
         break
     case 14:
         scr_cutscene_end()

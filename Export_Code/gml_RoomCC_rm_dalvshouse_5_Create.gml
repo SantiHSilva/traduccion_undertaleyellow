@@ -1,4 +1,4 @@
 if (global.route == 3)
-    message[0] = "* (Una mesa.)"
-message[0] = "* (En un rincón hay una#  mesita para una persona.)"
-message[1] = "* (No puede dejar de notar su#  fina artesanía.)"
+    message[0] = "* (A table.)"
+message[0] = "* (A small table for one sits in#  the corner.)"
+message[1] = "* (You can't help but notice its#  fine craftsmanship.)"

@@ -2,8 +2,8 @@ if (global.fun_value >= 24 && global.fun_value <= 26)
     instance_destroy()
 if (global.route != 3)
 {
-    message = "* (Parece que hay un dibujo#  de un gato garabateado.)"
-    message2 = "* (¿Esto lo convierte#  en una oruga?)"
+    message = "* (There appears to be a drawing#  of a cat scribbled on it.)"
+    message2 = "* (Does this make it a#  caterpillar?)"
 }
 else
-    message = "* (Garabatos.)"
+    message = "* (Scribblings.)"

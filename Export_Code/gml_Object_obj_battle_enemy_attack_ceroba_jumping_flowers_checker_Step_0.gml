@@ -2,7 +2,7 @@ switch counter_current
 {
     case 0:
         with (instance_create(320, (room_height + 60), obj_battle_enemy_attack_ceroba_jumping_flower))
-            ring_object = 2724
+            ring_object = 2725
         counter_timer = 35
         counter_current++
         break
@@ -13,7 +13,7 @@ switch counter_current
             return;
         }
         with (instance_create(370, (room_height + 60), obj_battle_enemy_attack_ceroba_jumping_flower))
-            ring_object = 2726
+            ring_object = 2727
         counter_timer = 20
         counter_current++
         break
@@ -24,7 +24,7 @@ switch counter_current
             return;
         }
         with (instance_create(270, (room_height + 60), obj_battle_enemy_attack_ceroba_jumping_flower))
-            ring_object = 2724
+            ring_object = 2725
         counter_timer = 40
         counter_current++
         break
@@ -35,9 +35,9 @@ switch counter_current
             return;
         }
         with (instance_create(250, (room_height + 60), obj_battle_enemy_attack_ceroba_jumping_flower))
-            ring_object = 2726
+            ring_object = 2727
         with (instance_create(390, (room_height + 60), obj_battle_enemy_attack_ceroba_jumping_flower))
-            ring_object = 2724
+            ring_object = 2725
         counter_timer = 130
         counter_current++
         break

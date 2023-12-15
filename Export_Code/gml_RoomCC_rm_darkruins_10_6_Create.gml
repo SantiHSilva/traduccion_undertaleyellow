@@ -1,1 +1,1 @@
-message[0] = "* Amigo:#* No temas a lo desconocido.#* A veces son agradables."
+message[0] = "* Friend:#* Do not fear the unknown.#* Sometimes they're nice."

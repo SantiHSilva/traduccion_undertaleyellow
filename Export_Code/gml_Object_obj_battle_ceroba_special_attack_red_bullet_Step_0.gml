@@ -1,6 +1,6 @@
 if live_call()
     return global.live_result;
-var player_soul = 2978
+var player_soul = 2979
 if (!instance_exists(obj_dialogue_box_battle_transformation_any))
 {
     instance_destroy()

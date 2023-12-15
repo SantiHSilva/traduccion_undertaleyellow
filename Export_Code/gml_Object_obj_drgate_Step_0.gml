@@ -8,8 +8,8 @@ if keyboard_multicheck_pressed(0)
         {
             sndfnt = 99
             portrait = 0
-            message[0] = "* (Empujas la puerta.)"
-            message[1] = "* (No se mueve.)"
+            message[0] = "* (You jostle the gate.)"
+            message[1] = "* (It doesn't budge.)"
         }
     }
 }

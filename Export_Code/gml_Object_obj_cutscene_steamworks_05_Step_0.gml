@@ -24,8 +24,8 @@ switch scene
         with (msg)
         {
             sndfnt = 96
-            talker[0] = 1995
-            message[0] = "* ¡Buenas!"
+            talker[0] = 1996
+            message[0] = "* Howdy!"
             message[1] = "* Another team-up? You're#  wasting your time,#  buddy."
             message[2] = "* So far, these monsters#  have only brought you#  misfortune."
             message[3] = "* I feel like following#  that lady's orders won't#  end any differently."

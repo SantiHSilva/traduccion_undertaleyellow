@@ -30,7 +30,7 @@ switch scene
         cutscene_wait(0.5)
         break
     case 7:
-        cutscene_npc_walk(1165, 148, 120, 4, "x", "up")
+        cutscene_npc_walk(1166, 148, 120, 4, "x", "up")
         break
     case 8:
         cutscene_wait(0.5)
@@ -41,7 +41,7 @@ switch scene
         cutscene_advance()
         break
     case 10:
-        cutscene_npc_walk(1165, 120, 100, 4, "x", "up")
+        cutscene_npc_walk(1166, 120, 100, 4, "x", "up")
         break
     case 11:
         obj_axis_npc.image_alpha -= 0.15
@@ -60,8 +60,8 @@ switch scene
     case 14:
         global.sworks_flag[26] = 2
         cutscene_camera_reset()
+        instance_destroy(105301)
         instance_destroy(105300)
-        instance_destroy(105299)
         cutscene_end()
         break
 }

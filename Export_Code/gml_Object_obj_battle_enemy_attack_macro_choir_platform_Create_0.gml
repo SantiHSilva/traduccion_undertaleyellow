@@ -8,7 +8,7 @@ if (irandom(4) == 1)
     spawn_frog = obj_battle_enemy_attack_macro_choir_frog_orange
 if (obj_battle_enemy_attack_macro_frog_choir_creator.spawn_green_frog == 1)
 {
-    spawn_frog = 477
+    spawn_frog = 478
     obj_battle_enemy_attack_macro_frog_choir_creator.spawn_green_frog = 0
 }
 my_frog = instance_create_depth(x, (y - 1), (depth - 1), spawn_frog)

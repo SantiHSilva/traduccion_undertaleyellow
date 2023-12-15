@@ -27,7 +27,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Well done, Clover! That#  stuff might just melt#  the lock!"
             message[1] = "* Make sure to be extra#  careful handling it!"
             prt[0] = 348
@@ -38,7 +38,7 @@ switch scene
         cutscene_wait(0.5)
         break
     case 5:
-        if cutscene_npc_action_sprite_reverse(3193, 242, 0.15, 1, 0)
+        if cutscene_npc_action_sprite_reverse(3194, 242, 0.15, 1, 0)
         {
             global.sworks_flag[25] = 4
             instance_destroy(obj_flowey_npc)

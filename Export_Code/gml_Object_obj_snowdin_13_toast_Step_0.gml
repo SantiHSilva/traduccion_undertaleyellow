@@ -41,7 +41,7 @@ if (global.snowdin_flag[8] == 5)
         scr_text()
         with (msg)
         {
-            talker[0] = 1436
+            talker[0] = 1437
             message[0] = "* You're in the Shufflers#  neighborhood now."
             message[1] = "* Ya wanna pass through here, ya#  gonna have to get through us."
             message[2] = "* We got a real hard game for you."

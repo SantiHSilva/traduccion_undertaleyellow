@@ -1,8 +1,8 @@
 var actor_starlo = obj_starlo_npc
 var actor_ed = obj_ed_npc
-var actor_ace = 1157
+var actor_ace = 1158
 var actor_mooch = obj_mooch_npc
-var actor_moray = 1166
+var actor_moray = 1167
 var actor_ceroba = obj_ceroba_npc
 var actor_clover = obj_player_npc
 switch scene
@@ -594,7 +594,7 @@ switch scene
         scr_cutscene_end()
         instance_create(720, 380, obj_determination)
         instance_destroy(actor_clover)
-        __view_set((9 << 0), 0, 1030)
+        __view_set((9 << 0), 0, 1031)
         instance_destroy()
         global.dunes_flag[20] = 7
         scr_radio_restart()

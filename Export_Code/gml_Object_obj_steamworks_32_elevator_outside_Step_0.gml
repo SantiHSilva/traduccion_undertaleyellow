@@ -20,7 +20,7 @@ switch scene
             scene++
         break
     case 2:
-        if cutscene_npc_walk(1167, 800, 290, 3, "y", "left")
+        if cutscene_npc_walk(1168, 800, 290, 3, "y", "left")
         {
             if (global.party_member != -4)
                 scene = 3
@@ -91,7 +91,7 @@ switch scene
         cutscene_advance()
         break
     case 11:
-        if cutscene_npc_walk(1167, 840, 260, 3, "x", "up")
+        if cutscene_npc_walk(1168, 840, 260, 3, "x", "up")
         {
             if (global.party_member != -4)
                 scene = 12

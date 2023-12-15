@@ -127,7 +127,7 @@ else
                 obj_battle_enemy_attack_asgore_soul_capsule.image_index = 0
                 obj_battle_enemy_attack_asgore_soul_capsule.soul_color = make_color_rgb(255, 255, 0)
                 var new_soul = instance_create_depth(obj_battle_enemy_attack_asgore_soul_capsule.x, obj_battle_enemy_attack_asgore_soul_capsule.y, -1000, obj_barrier_soul_battle)
-                new_soul.spawner = 2883
+                new_soul.spawner = 2884
                 new_soul.image_alpha = 1
                 new_soul.image_xscale = 2
                 new_soul.image_yscale = 2

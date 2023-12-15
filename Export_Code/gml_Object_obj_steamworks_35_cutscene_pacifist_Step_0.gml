@@ -3,8 +3,8 @@ if live_call()
 switch scene
 {
     case 0:
-        cutscene_npc_walk(1167, 900, 140, 3, "x", "left")
-        cutscene_npc_walk(1160, 900, 140, 3, "x", "left")
+        cutscene_npc_walk(1168, 900, 140, 3, "x", "left")
+        cutscene_npc_walk(1161, 900, 140, 3, "x", "left")
         scene++
         break
     case 1:
@@ -50,7 +50,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Hey!"
             message[1] = "* Who did that!?"
             message[2] = "* Clover! You can hear me, right?"
@@ -58,7 +58,7 @@ switch scene
         }
         break
     case 6:
-        cutscene_npc_walk(1167, 940, 140, 3, "x", "right")
+        cutscene_npc_walk(1168, 940, 140, 3, "x", "right")
         break
     case 7:
         cutscene_wait(0.5)
@@ -96,7 +96,7 @@ switch scene
         }
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* It's gonna take a lot to break#  through!"
             message[1] = "* And to think we were almost#  free of this place..."
             message[2] = "* Um, just look around for a#  switch or keypad!"
@@ -130,18 +130,18 @@ switch scene
         {
             color = 1
             col_modif[0] = 16711935
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* [MAIN POWER SOURCE NOT FOUND_]"
             message[1] = "* [INITIATING EMERGENCY BACKUP#  POWER_]"
             message_col[0][0] = "* [MAIN POWER SOURCE NOT FOUND_]"
             message_col[1][0] = "* [INITIATING EMERGENCY BACKUP#  POWER_]"
-            talker[2] = 1160
+            talker[2] = 1161
             message[2] = "* What was that?"
             message[3] = "* Did I just hear Axis!?"
         }
         break
     case 22:
-        cutscene_npc_action_sprite(1165, 2989, 0.5, 0)
+        cutscene_npc_action_sprite(1166, 2989, 0.5, 0)
         obj_axis_npc.npc_direction = "down"
         break
     case 23:
@@ -154,7 +154,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* H-H-HUMA-N."
             message[1] = "* Y-YOU TRIED TO SHUT ME#  DOWN."
             message[2] = "* I HAVE HAD IT WITH YOU#  AND YOUR FRIEND#  THWARTING MY PLANS."
@@ -181,8 +181,8 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
-            talker[4] = 1165
+            talker[0] = 1161
+            talker[4] = 1166
             message[0] = "* Hey Clover!"
             message[1] = "* I don't think we can outrun#  this guy any longer!"
             message[2] = "* Please try to find a peaceful#  way to outwit him!"
@@ -227,7 +227,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* WHAT."
             message[1] = "* MY PROGRAMMING IS#  PREVENTING ME FROM#  ATTACK."
             message[2] = "* IT SAYS YOU ARE NOT A#  CURRENT THREAT OR#  RESISTING ARREST."
@@ -247,13 +247,13 @@ switch scene
         cutscene_advance(35)
         break
     case 35:
-        cutscene_npc_walk(1165, (obj_steamworks_35_trashcan.x + 20), (obj_steamworks_35_trashcan.y - 1), 4, "x", "left")
+        cutscene_npc_walk(1166, (obj_steamworks_35_trashcan.x + 20), (obj_steamworks_35_trashcan.y - 1), 4, "x", "left")
         break
     case 36:
         cutscene_wait(0.5)
         break
     case 37:
-        if cutscene_npc_action_sprite(1165, 1393, 1, 1)
+        if cutscene_npc_action_sprite(1166, 1393, 1, 1)
         {
             obj_steamworks_35_trashcan.image_index = 1
             obj_axis_npc.action_sprite = 0
@@ -262,7 +262,7 @@ switch scene
         }
         break
     case 38:
-        cutscene_npc_walk(1165, obj_player_npc.x, obj_axis_npc.y, 4, "x", "down")
+        cutscene_npc_walk(1166, obj_player_npc.x, obj_axis_npc.y, 4, "x", "down")
     case 39:
         cutscene_camera_move(obj_player_npc.x, obj_player_npc.y, 4)
         break
@@ -270,13 +270,13 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* HOLD THIS, IT SUITS#  YOU."
             prt[0] = 473
         }
         break
     case 41:
-        cutscene_npc_walk(1165, obj_pl.x, clamp((obj_pl.y - 20), 90, 10000), 3, "y", "down")
+        cutscene_npc_walk(1166, obj_pl.x, clamp((obj_pl.y - 20), 90, 10000), 3, "y", "down")
         break
     case 42:
         cutscene_wait(0.5)
@@ -289,13 +289,13 @@ switch scene
         cutscene_npc_set_sprites(obj_axis_npc, 488, 487, 484, 486, 488, 487, 484, 486)
         break
     case 45:
-        cutscene_npc_walk(1165, obj_pl.x, clamp((obj_pl.y - 40), 90, 10000), 4, "y", "down")
+        cutscene_npc_walk(1166, obj_pl.x, clamp((obj_pl.y - 40), 90, 10000), 4, "y", "down")
         break
     case 46:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* THERE. NOW YOU HAVE A#  DRAWN \"WEAPON.\""
             message[1] = "* LOOPHOLES ARE#  WONDERFUL, ARE THEY NOT?"
             message[2] = "* NOW, TIME TO DIE."
@@ -340,10 +340,10 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
-            talker[4] = 1165
-            talker[3] = 1160
-            talker[5] = 1160
+            talker[0] = 1166
+            talker[4] = 1166
+            talker[3] = 1161
+            talker[5] = 1161
             message[0] = "* THIS EMOTION, IT FEELS#  SO NICE."
             message[1] = "* I MUST THANK YOU FOR#  OPENING MY EYES."
             message[2] = "* I HAD NO IDEA SUCH#  WONDROUS SIGHTS EXISTED."
@@ -362,17 +362,17 @@ switch scene
         }
         break
     case 53:
-        cutscene_npc_walk(1160, obj_axis_npc.x, (obj_axis_npc.y + 20), 3, "y", "up")
+        cutscene_npc_walk(1161, obj_axis_npc.x, (obj_axis_npc.y + 20), 3, "y", "up")
         break
     case 54:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
-            talker[2] = 1160
-            talker[6] = 1160
-            talker[1] = 1165
-            talker[5] = 1165
+            talker[0] = 1161
+            talker[2] = 1161
+            talker[6] = 1161
+            talker[1] = 1166
+            talker[5] = 1166
             message[0] = "* (Do you wanna know a#  secret?)"
             message[1] = "* YES I WOULD LIKE TO KNOW#  A SECRET."
             message[2] = "* (They told me that they#  like you but will only#  go out if it's casual.)"
@@ -394,7 +394,7 @@ switch scene
         cutscene_npc_direction(obj_axis_npc, "left")
         break
     case 56:
-        cutscene_npc_walk(1160, obj_axis_npc.x, (obj_axis_npc.y + 50), 3, "y", "up")
+        cutscene_npc_walk(1161, obj_axis_npc.x, (obj_axis_npc.y + 50), 3, "y", "up")
         break
     case 57:
         cutscene_wait(1)
@@ -404,12 +404,12 @@ switch scene
         with (msg)
         {
             position = 0
-            talker[0] = 1165
-            talker[1] = 1165
-            talker[2] = 1165
-            talker[3] = 1160
-            talker[4] = 1165
-            talker[5] = 1165
+            talker[0] = 1166
+            talker[1] = 1166
+            talker[2] = 1166
+            talker[3] = 1161
+            talker[4] = 1166
+            talker[5] = 1166
             message[0] = "* HELLO MY NAME IS AXIS#  WHAT IS YOUR NAME?"
             message[1] = "* . . ."
             message[2] = "* HA HA YOU ARE SO FUNNY#  WANT TO GET MARRIED???"
@@ -445,12 +445,12 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
-            talker[3] = 1160
-            talker[7] = 1160
-            talker[1] = 1165
-            talker[6] = 1165
-            talker[8] = 1165
+            talker[0] = 1161
+            talker[3] = 1161
+            talker[7] = 1161
+            talker[1] = 1166
+            talker[6] = 1166
+            talker[8] = 1166
             message[0] = "* What?"
             message[1] = "* I AM HONESTLY JUST AS#  SURPRISED AS YOU."
             message[2] = "* THIS ROCKS."
@@ -507,12 +507,12 @@ switch scene
             color = 1
             message_col[0][0] = ""
             col_modif[0] = 16711935
-            talker[0] = 1165
-            talker[1] = 1165
-            talker[3] = 1165
-            talker[4] = 1165
-            talker[5] = 1160
-            talker[7] = 1165
+            talker[0] = 1166
+            talker[1] = 1166
+            talker[3] = 1166
+            talker[4] = 1166
+            talker[5] = 1161
+            talker[7] = 1166
             message[0] = "  BACKUP BATTERY EXTREMELY#  LOW. PLEASE RECHARGE."
             message_col[0][0] = "  BACKUP BATTERY EXTREMELY#  LOW. PLEASE RECHARGE."
             message[1] = "* OH, SUPPOSE I SHOULD GO#  DO THAT."
@@ -536,7 +536,7 @@ switch scene
         cutscene_wait(0.75)
         break
     case 69:
-        cutscene_npc_walk(1165, obj_steamworks_13_robuild_complete.x, (obj_steamworks_13_robuild_complete.y + 20), 4, "y", "up")
+        cutscene_npc_walk(1166, obj_steamworks_13_robuild_complete.x, (obj_steamworks_13_robuild_complete.y + 20), 4, "y", "up")
         break
     case 70:
         obj_axis_npc.action_sprite = 1
@@ -557,7 +557,7 @@ switch scene
         break
     case 74:
         obj_axis_npc.npc_direction = "right"
-        cutscene_npc_walk(1165, 760, obj_axis_npc.y, 2, "x", "right", 1030, 760, 140)
+        cutscene_npc_walk(1166, 760, obj_axis_npc.y, 2, "x", "right", 1031, 760, 140)
         if (obj_axis_npc.x > (obj_pl.x + 10))
         {
             obj_ceroba_npc.npc_direction = "right"
@@ -580,11 +580,11 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
-            talker[1] = 1160
-            talker[2] = 1165
-            talker[5] = 1160
-            talker[7] = 1165
+            talker[0] = 1166
+            talker[1] = 1161
+            talker[2] = 1166
+            talker[5] = 1161
+            talker[7] = 1166
             message[0] = "* OH, ONE MORE THING."
             message[1] = "* Hm?"
             message[2] = "* YOU SAID YOUR HUSBAND#  WAS MY CREATOR?"
@@ -607,16 +607,16 @@ switch scene
         }
         break
     case 78:
-        cutscene_npc_walk(1165, 880, obj_axis_npc.y, 2, "x", "right")
+        cutscene_npc_walk(1166, 880, obj_axis_npc.y, 2, "x", "right")
         break
     case 79:
         cutscene_advance()
         break
     case 80:
         if (global.sworks_flag[41] == 0)
-            cutscene_npc_walk(1160, (obj_pl.x - 20), obj_pl.y, 3, "x", "right")
+            cutscene_npc_walk(1161, (obj_pl.x - 20), obj_pl.y, 3, "x", "right")
         else
-            cutscene_npc_walk(1160, obj_ceroba_npc.x, obj_pl.y, 2, "x", "left")
+            cutscene_npc_walk(1161, obj_ceroba_npc.x, obj_pl.y, 2, "x", "left")
         scene = 81
         break
     case 81:
@@ -627,8 +627,8 @@ switch scene
         cutscene_camera_reset()
         if (global.sworks_flag[41] == 0)
         {
-            actor_follower = 1160
-            global.party_member = 1170
+            actor_follower = 1161
+            global.party_member = 1171
             cutscene_actor_into_follower()
             scr_cutscene_end()
             cutscene_advance(83)
@@ -659,7 +659,7 @@ switch scene
         cutscene_instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
         break
     case 85:
-        cutscene_npc_walk_relative(1167, -20, 0, 3, "x", "left")
+        cutscene_npc_walk_relative(1168, -20, 0, 3, "x", "left")
         break
     case 86:
         instance_destroy(obj_player_npc)
@@ -675,7 +675,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* ..."
             message[1] = "* About Hotland."
             message[2] = "* The truth is..."
@@ -717,13 +717,13 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Goodbye, Clover."
             prt[0] = 609
         }
         break
     case 93:
-        cutscene_npc_walk(1160, 860, 140, 3, "y", "right")
+        cutscene_npc_walk(1161, 860, 140, 3, "y", "right")
         break
     case 94:
         cutscene_wait(1.5)
@@ -758,7 +758,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Aaaand there it is!"
             message[1] = "* She was totally using#  you, pal."
             prt[0] = 349
@@ -774,7 +774,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 3193
+            talker[0] = 3194
             message[0] = "* Hey, cheer up!"
             message[1] = "* Self-defense. That's#  all it was."
             message[2] = "* ..."
@@ -794,7 +794,7 @@ switch scene
         }
         break
     case 103:
-        if cutscene_npc_action_sprite_reverse(3193, 242, 0.2, 1, 0)
+        if cutscene_npc_action_sprite_reverse(3194, 242, 0.2, 1, 0)
             instance_destroy(obj_flowey_npc)
         break
     case 104:

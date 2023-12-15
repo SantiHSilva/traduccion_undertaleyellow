@@ -17,7 +17,7 @@ switch scene
         with (msg)
         {
             sndfnt = 96
-            message[0] = "* ¡Buenas!	"
+            message[0] = "* Howdy!	"
             message[1] = "* Gee, looks like we're#  getting close to an exit#  from this place.	"
             message[2] = "* Aside from those mines,#  time has been pretty#  friendly to us.	"
             message[3] = "* Should be a simple#  journey from here on ou-"
@@ -165,7 +165,7 @@ switch scene
     case 9:
         with (instance_create(martlet.x, martlet.y, obj_martlet_follower))
             npc_reset = 1
-        global.party_member = 1169
+        global.party_member = 1170
         instance_destroy(martlet)
         audio_sound_gain(obj_radio.current_song, 1, 800)
         scene++

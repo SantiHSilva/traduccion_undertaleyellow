@@ -6,7 +6,7 @@ if (global.sworks_flag[20] == 1)
 {
     instance_create(195, 365, obj_ceroba_npc)
     obj_ceroba_npc.npc_direction = "up"
-    actor_follower = 1160
+    actor_follower = 1161
     obj_pl.x = 170
     obj_pl.y = 365
     obj_pl.direction = 90
@@ -14,7 +14,7 @@ if (global.sworks_flag[20] == 1)
     obj_steamworks_29_gardener_bot.image_speed = 1
     instance_create(170, (obj_steamworks_29_gardener_bot.y + 20), obj_camera)
     obj_camera.move = 0
-    camera_set_view_target(view_camera[0], 1119)
+    camera_set_view_target(view_camera[0], 1120)
     scr_radio_fade(0, 0)
     global.cutscene = true
     scene = 24
@@ -25,7 +25,7 @@ else if (global.sworks_flag[20] >= 2)
     {
         instance_create(195, 360, obj_ceroba_npc)
         obj_ceroba_npc.npc_direction = "up"
-        actor_follower = 1160
+        actor_follower = 1161
         obj_pl.x = 170
         obj_pl.y = 360
         obj_pl.direction = 90

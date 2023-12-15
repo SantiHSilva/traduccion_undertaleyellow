@@ -19,8 +19,8 @@ for (var i = 0; i < instance_number(all); i += 1)
 
     switch object_get_parent(inst.object_index)
     {
-        case 1129:
-        case 1132:
+        case 1130:
+        case 1133:
             shadow_actor[j] = inst
             shadow_active[j] = 0
             light_amount[j] = 0

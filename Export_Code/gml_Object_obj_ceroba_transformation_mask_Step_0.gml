@@ -56,7 +56,7 @@ if instance_exists(obj_ceroba_body_pacifist_phase_1)
     {
         case spr_ceroba_transformation_p1_7:
             attach_points = [[-400, -400], [148, 114], [149, 110], [149, 106], [148, 140], [147, 146], [147, 150], [147, 146], [147, 150], [147, 150], [147, 146], [147, 150], [147, 150], [147, 146], [147, 150], [147, 150], [147, 146], [147, 150], [-400, -400], [-400, -400], [-400, -400], [-400, -400], [-400, -400], [145, 86], [145, 86], [145, 86], [145, 86], [145, 86], [145, 84], [145, 84], [145, 82]]
-            scr_point_attach(attach_points, 772)
+            scr_point_attach(attach_points, 773)
             break
         default:
             break
@@ -91,5 +91,5 @@ if instance_exists(obj_ceroba_body_pacifist_phase_2)
             break
     }
 
-    scr_point_attach(attach_points, 2832)
+    scr_point_attach(attach_points, 2833)
 }

@@ -19,18 +19,18 @@ switch attack_tick
         break
     case 115:
         with (instance_create_depth(320, (room_height + 60), -200, obj_battle_enemy_attack_ceroba_jumping_flower))
-            ring_object = 2724
+            ring_object = 2725
         break
     case 125:
         alarm[0] = 1
         break
     case 145:
         with (instance_create_depth(240, (room_height + 60), -200, obj_battle_enemy_attack_ceroba_jumping_flower))
-            ring_object = 2724
+            ring_object = 2725
         break
     case 165:
         with (instance_create_depth(400, (room_height + 60), -200, obj_battle_enemy_attack_ceroba_jumping_flower))
-            ring_object = 2726
+            ring_object = 2727
         break
     case 285:
         instance_destroy()

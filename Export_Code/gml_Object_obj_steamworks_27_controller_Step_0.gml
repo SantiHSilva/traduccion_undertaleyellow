@@ -13,7 +13,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Holy..."
             message[1] = "* What happened here?"
             message[2] = "* Hope this stuff is okay#  to touch..."

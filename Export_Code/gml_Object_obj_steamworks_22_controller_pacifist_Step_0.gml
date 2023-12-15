@@ -54,13 +54,13 @@ switch scene
         obj_axis_npc.depth = 850
         break
     case 10:
-        cutscene_npc_walk(1165, 1690, 90, 3, "y", "down")
+        cutscene_npc_walk(1166, 1690, 90, 3, "y", "down")
         break
     case 11:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* FOUND YOU."
             prt[0] = 2916
         }
@@ -69,7 +69,7 @@ switch scene
         cutscene_npc_set_sprites(obj_ceroba_npc, 81, 80, 78, 79, 61, 65, 60, 63)
         break
     case 13:
-        cutscene_npc_walk(1160, 60, 120, 7, "x", "right")
+        cutscene_npc_walk(1161, 60, 120, 7, "x", "right")
         obj_ceroba_npc.solid = 0
         cutscene_advance()
         break
@@ -99,7 +99,7 @@ switch scene
             obj_steamworks_22_axis_throwing.alarm[0] = -1
             instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
             obj_player_npc.left_sprite = 17
-            cutscene_npc_walk(1167, 60, 140, 5, "x", "right", 1160)
+            cutscene_npc_walk(1168, 60, 140, 5, "x", "right", 1161)
             cutscene_advance()
         }
         break
@@ -115,7 +115,7 @@ switch scene
         cutscene_wait(1)
         break
     case 20:
-        cutscene_npc_walk(1160, (obj_pl.x + 20), obj_pl.y, 3, "x", "right")
+        cutscene_npc_walk(1161, (obj_pl.x + 20), obj_pl.y, 3, "x", "right")
         break
     case 21:
         cutscene_wait(1.5)
@@ -127,7 +127,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Looks like he's go-     "
             prt[0] = 381
             if (cutoff >= string_length(message[message_current]))
@@ -158,7 +158,7 @@ switch scene
     case 28:
         instance_destroy(obj_cutscene_ex)
         obj_ceroba_npc.x = (ceroba_x_original + 6)
-        cutscene_npc_action_sprite(1160, 1268, 1, 1, 0)
+        cutscene_npc_action_sprite(1161, 1268, 1, 1, 0)
         if (obj_ceroba_npc.image_index >= 6 && energy_ball_deflect_noloop == 0)
         {
             audio_play_sound(snd_ring, 1, false)
@@ -171,13 +171,13 @@ switch scene
         cutscene_wait(1.5)
         break
     case 30:
-        cutscene_npc_reset_sprite(1160, "right")
+        cutscene_npc_reset_sprite(1161, "right")
         break
     case 31:
         cutscene_instance_create(360, 140, obj_axis_npc)
         break
     case 32:
-        cutscene_npc_walk(1165, 240, 140, 4, "x", "left")
+        cutscene_npc_walk(1166, 240, 140, 4, "x", "left")
         break
     case 33:
         cutscene_wait(0.5)
@@ -186,26 +186,26 @@ switch scene
         cutscene_music_start(219)
         break
     case 35:
-        cutscene_npc_action_sprite(1165, 2693, 1, 1)
+        cutscene_npc_action_sprite(1166, 2693, 1, 1)
         break
     case 36:
-        cutscene_npc_action_sprite(1165, 3312, 1, 1, 1)
+        cutscene_npc_action_sprite(1166, 3312, 1, 1, 1)
         cutscene_advance()
         break
     case 37:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Axis, hold on a second!"
             prt[0] = 381
         }
         break
     case 38:
-        cutscene_npc_action_sprite(1165, 2768, 1, 0, 0)
+        cutscene_npc_action_sprite(1166, 2768, 1, 0, 0)
         break
     case 39:
-        cutscene_npc_reset_sprite(1165, "left")
+        cutscene_npc_reset_sprite(1166, "left")
         break
     case 40:
         cutscene_wait(1)
@@ -214,24 +214,24 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* ONE."
             prt[0] = 473
         }
         break
     case 42:
-        cutscene_npc_action_sprite(1165, 1975, 1, 1, 0)
+        cutscene_npc_action_sprite(1166, 1975, 1, 1, 0)
         break
     case 43:
-        cutscene_npc_action_sprite(1165, 3312, 1, 1, 1)
+        cutscene_npc_action_sprite(1166, 3312, 1, 1, 1)
     case 44:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
-            talker[1] = 1165
-            talker[2] = 1165
-            talker[3] = 1160
+            talker[0] = 1161
+            talker[1] = 1166
+            talker[2] = 1166
+            talker[3] = 1161
             message[0] = "* UH - ONE MILLION#  SECONDS!"
             message[1] = "* I DO NOT HAVE THE#  KNOWLEDGE TO COUNT THAT#  HIGH."
             message[2] = "* WHAT IS THIS#  ABOUT?"
@@ -243,14 +243,14 @@ switch scene
         }
         break
     case 45:
-        cutscene_npc_action_sprite(1165, 2768, 1, 0, 0)
+        cutscene_npc_action_sprite(1166, 2768, 1, 0, 0)
         break
     case 46:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
-            talker[2] = 1160
+            talker[0] = 1166
+            talker[2] = 1161
             message[0] = "* I WILL ADMIT, YOU HAVE#  MY ATTENTION."
             message[1] = "* PROCEED."
             message[2] = "* I have for you, your#  very own robot#  companion!"
@@ -273,7 +273,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* A sleek, top of the#  line model!"
             message[1] = "* Aren't they beautiful?"
             prt[0] = 398
@@ -301,7 +301,7 @@ switch scene
         }
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* NO."
             message[1] = "* NOT IN THE MOOD."
             message[2] = "* MY EYES ARE ONLY SET ON#  YOUR APPREHENSION."
@@ -313,17 +313,17 @@ switch scene
         }
         break
     case 53:
-        cutscene_npc_action_sprite(1165, 1772, 1, 1, 0)
+        cutscene_npc_action_sprite(1166, 1772, 1, 1, 0)
         break
     case 54:
-        cutscene_npc_action_sprite(1165, 3312, 1, 1, 1)
+        cutscene_npc_action_sprite(1166, 3312, 1, 1, 1)
         break
     case 55:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
-            talker[2] = 1165
+            talker[0] = 1161
+            talker[2] = 1166
             message[0] = "* You're making them cry,#  Axis!"
             message[1] = "* Come on, now!"
             message[2] = "* ROBOTS CANNOT CRY. I#  HAVE TRIED."
@@ -341,7 +341,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Well, it was worth a#  shot."
             message[1] = "* Plan C it is!"
             prt[0] = 377
@@ -349,13 +349,13 @@ switch scene
         }
         break
     case 58:
-        cutscene_npc_action_sprite(1160, 3699, 1, 1, 0)
+        cutscene_npc_action_sprite(1161, 3699, 1, 1, 0)
         break
     case 59:
         cutscene_instance_create(obj_steamworks_13_robuild_complete.x, obj_steamworks_13_robuild_complete.y, obj_ceroba_shield)
         break
     case 60:
-        cutscene_npc_action_sprite(1165, 3525, 1, 0, 0)
+        cutscene_npc_action_sprite(1166, 3525, 1, 0, 0)
         break
     case 61:
         break
@@ -371,7 +371,7 @@ switch scene
         }
         if (!instance_exists(obj_steamworks_22_energy_ball_fake_2))
         {
-            cutscene_npc_action_sprite(1165, 3170, 1, 1, 0)
+            cutscene_npc_action_sprite(1166, 3170, 1, 1, 0)
             obj_axis_npc.npc_dynamic_depth = 0
             obj_axis_npc.depth = -999
         }
@@ -383,9 +383,9 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
-            talker[1] = 1160
-            talker[2] = 1165
+            talker[0] = 1166
+            talker[1] = 1161
+            talker[2] = 1166
             message[0] = "* I AM IMMOBILE."
             message[1] = "* If you went with our#  surprise, it wouldn't#  have gotten messy."
             message[2] = "* DO NOT MOCK MY#  JUDGMENT."
@@ -402,10 +402,10 @@ switch scene
         cutscene_wait(0.5)
         break
     case 66:
-        cutscene_npc_action_sprite(1165, 3571, 1, 1, 0, 60, 0)
+        cutscene_npc_action_sprite(1166, 3571, 1, 1, 0, 60, 0)
         break
     case 67:
-        cutscene_npc_action_sprite(1165, 3319, 1, 0, 0)
+        cutscene_npc_action_sprite(1166, 3319, 1, 0, 0)
         cutscene_advance()
         break
     case 68:
@@ -417,7 +417,7 @@ switch scene
         cutscene_wait(0.5)
         break
     case 70:
-        cutscene_npc_action_sprite(1160, 3168, 1, 0, 0)
+        cutscene_npc_action_sprite(1161, 3168, 1, 0, 0)
         break
     case 71:
         cutscene_npc_direction(obj_ceroba_npc, "left")
@@ -426,7 +426,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Phew, I'm spent."
             message[1] = "* Next chair we see, I'm#  taking a breather."
             prt[0] = 377
@@ -434,7 +434,7 @@ switch scene
         }
         break
     case 73:
-        cutscene_npc_walk(1160, obj_ceroba_npc.x, (obj_steamworks_13_robuild_complete.y + 20), 3, "x", "left", -4, obj_steamworks_13_robuild_complete.x, (obj_steamworks_13_robuild_complete.y + 20))
+        cutscene_npc_walk(1161, obj_ceroba_npc.x, (obj_steamworks_13_robuild_complete.y + 20), 3, "x", "left", -4, obj_steamworks_13_robuild_complete.x, (obj_steamworks_13_robuild_complete.y + 20))
         break
     case 74:
         obj_ceroba_npc.action_sprite = 1
@@ -450,16 +450,16 @@ switch scene
         cutscene_advance()
         break
     case 77:
-        cutscene_npc_reset_sprite(1160, "left")
+        cutscene_npc_reset_sprite(1161, "left")
         break
     case 78:
         cutscene_sfx_play(snd_steamworks_13_robot, 1)
         break
     case 79:
-        cutscene_npc_walk(1160, (obj_pl.x + 30), obj_pl.y, 3, "x", "left")
+        cutscene_npc_walk(1161, (obj_pl.x + 30), obj_pl.y, 3, "x", "left")
         break
     case 80:
-        actor_follower = 1160
+        actor_follower = 1161
         cutscene_actor_into_follower()
         with (global.party_member)
             sprite_index = left_sprite_idle

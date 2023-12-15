@@ -36,7 +36,7 @@ else
                 scene++
             break
         case 2:
-            if cutscene_npc_walk(1167, obj_player_npc.x, 140, 3, "y", "down")
+            if cutscene_npc_walk(1168, obj_player_npc.x, 140, 3, "y", "down")
             {
                 if (global.party_member != -4)
                     scene = 3
@@ -50,7 +50,7 @@ else
                 scene++
             break
         case 4:
-            cutscene_npc_walk(1163, obj_player_npc.x, (obj_pl.y - 1), 3, "y", "down")
+            cutscene_npc_walk(1164, obj_player_npc.x, (obj_pl.y - 1), 3, "y", "down")
             break
         case 5:
             obj_pl.direction = 270
@@ -106,7 +106,7 @@ else
                 cutscene_advance()
             break
         case 11:
-            if cutscene_npc_walk(1167, 260, 100, 3, "x", "down")
+            if cutscene_npc_walk(1168, 260, 100, 3, "x", "down")
             {
                 if (global.party_member != -4)
                     scene = 12
@@ -117,7 +117,7 @@ else
                 obj_player_npc.image_alpha -= 0.2
             break
         case 12:
-            cutscene_npc_walk(1163, obj_player_npc.x, 135, 3, "x", "up")
+            cutscene_npc_walk(1164, obj_player_npc.x, 135, 3, "x", "up")
             if (obj_martlet_npc.y < 140 && obj_martlet_npc.image_alpha > 0)
                 obj_martlet_npc.image_alpha -= 0.2
             break

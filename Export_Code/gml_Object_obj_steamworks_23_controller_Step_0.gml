@@ -13,13 +13,13 @@ switch scene
         cutscene_follower_into_actor()
         break
     case 2:
-        cutscene_npc_walk(1160, 450, obj_ceroba_npc.y, 3, "x", "up")
+        cutscene_npc_walk(1161, 450, obj_ceroba_npc.y, 3, "x", "up")
         break
     case 3:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Well, there we go."
             message[1] = "* Definitely what I need#  after that madness."
             prt[0] = 395
@@ -34,11 +34,11 @@ switch scene
         cutscene_advance()
         break
     case 6:
-        cutscene_npc_walk(1160, 408, 160, 3, "y", "down")
+        cutscene_npc_walk(1161, 408, 160, 3, "y", "down")
         cutscene_advance()
         break
     case 7:
-        cutscene_npc_walk(1167, 408, 210, 3, "x", "up")
+        cutscene_npc_walk(1168, 408, 210, 3, "x", "up")
         cutscene_advance()
         break
     case 8:
@@ -52,7 +52,7 @@ switch scene
         obj_player_npc.x = 408
         obj_player_npc.y = 196
         obj_player_npc.npc_action_sprite = 1
-        cutscene_npc_action_sprite(1167, 3483, 1, 1, 0)
+        cutscene_npc_action_sprite(1168, 3483, 1, 1, 0)
         break
     case 10:
         cutscene_audio_fade(obj_radio.current_song, 0, 500, 0.18, 0, 1)
@@ -64,7 +64,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* ..."
             message[1] = "* I wonder what Starlo's#  up to right now?"
             message[2] = "* Probably on some Feisty#  Five quest with a smile#  on his face."
@@ -106,7 +106,7 @@ switch scene
         }
         break
     case 13:
-        cutscene_npc_action_sprite(1160, 2583, 1, 1, 0)
+        cutscene_npc_action_sprite(1161, 2583, 1, 1, 0)
         break
     case 14:
         cutscene_wait(0.5)
@@ -127,7 +127,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Look at that smile.#  Definitely her father's."
             message[1] = "* ..."
             message[2] = "* Gifted like her father#  too. She's a..."
@@ -154,7 +154,7 @@ switch scene
         }
         break
     case 19:
-        cutscene_npc_action_sprite_reverse(1160, 2583, 1, 0)
+        cutscene_npc_action_sprite_reverse(1161, 2583, 1, 0)
         break
     case 20:
         cutscene_wait(0.25)
@@ -163,7 +163,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* I apologize for my#  vagueness."
             message[1] = "* I prefer to keep the#  bad memories to myself."
             prt[0] = 377
@@ -177,7 +177,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Anyway, the Lab#  shouldn't be horribly#  far from here."
             message[1] = "* We WILL get to the#  bottom of this, Clover."
             message[2] = "* In the meantime, you#  can scout ahead. I'm#  gonna rest a bit longer."
@@ -187,7 +187,7 @@ switch scene
         }
         break
     case 24:
-        if cutscene_npc_action_sprite_reverse(1167, 3483, 0.5, 0)
+        if cutscene_npc_action_sprite_reverse(1168, 3483, 0.5, 0)
         {
             instance_destroy(obj_player_npc)
             obj_pl.x = 389
@@ -200,8 +200,8 @@ switch scene
     case 26:
         cutscene_advance()
         scr_cutscene_end()
-        camera_set_view_target(view_camera[0], 1030)
-        104949.y = 240
+        camera_set_view_target(view_camera[0], 1031)
+        104950.y = 240
         global.sworks_flag[14] = 1
         global.party_member = -4
         scr_radio_restart()
@@ -214,7 +214,7 @@ switch scene
                 scr_text()
                 with (msg)
                 {
-                    talker[0] = 1160
+                    talker[0] = 1161
                     message[0] = "* Go on."
                     message[1] = "* Just scream if#  something makes an#  attempt on your life."
                     prt[0] = 370

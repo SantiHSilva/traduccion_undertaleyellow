@@ -12,7 +12,7 @@ if (active == 2)
     camera_end = 0
     global.cutscene = false
     obj_pl.alarm[0] = 5
-    __view_set((9 << 0), 0, 1030)
+    __view_set((9 << 0), 0, 1031)
     obj_snowdin06_lever_overworld_yellow.waiter = 0
     if (global.snowdin_flag[2] < 2)
         instance_create(230, 110, obj_molten_rock_overworld_yellow)

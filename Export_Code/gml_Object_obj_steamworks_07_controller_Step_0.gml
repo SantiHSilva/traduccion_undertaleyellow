@@ -19,7 +19,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* What luck."
             message[1] = "* Turn the power on and#  the whole facility goes#  insane!"
             message[2] = "* Since you're now the#  leader and all... "
@@ -50,7 +50,7 @@ switch scene
             scr_text()
             with (msg)
             {
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* I know you're skilled#  enough for this small#  task."
                 message[1] = "* Go on."
                 prt[0] = 395
@@ -71,7 +71,7 @@ switch scene
         cutscene_instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
         break
     case 11:
-        cutscene_npc_walk(1167, 80, 105, 3, "x", "up")
+        cutscene_npc_walk(1168, 80, 105, 3, "x", "up")
         break
     case 12:
         cutscene_wait(0.5)
@@ -109,21 +109,21 @@ switch scene
         cutscene_npc_set_sprites(obj_ceroba_npc, 81, 80, 78, 79, 61, 65, 60, 63)
         break
     case 20:
-        cutscene_npc_walk(1160, (obj_pl.x + 20), obj_pl.y, 4, "x", "left")
+        cutscene_npc_walk(1161, (obj_pl.x + 20), obj_pl.y, 4, "x", "left")
         break
     case 21:
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* See? No sweat."
             prt[0] = 395
         }
         break
     case 22:
         obj_pl.direction = 180
-        global.party_member = 1170
-        actor_follower = 1160
+        global.party_member = 1171
+        actor_follower = 1161
         cutscene_actor_into_follower()
         break
     case 23:

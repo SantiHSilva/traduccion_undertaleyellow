@@ -49,9 +49,9 @@ if (inst_number != inst_number_last)
 
             switch object_get_parent(inst.object_index)
             {
-                case 1129:
-                case 1132:
-                case 1190:
+                case 1130:
+                case 1133:
+                case 1191:
                     shadow_actor = inst
                     shadow_drawer = instance_create_depth(inst.x, inst.y, inst.depth, drawer_object)
                     object_found = 1
@@ -77,7 +77,7 @@ if (inst_number != inst_number_last)
 }
 if (instance_exists(obj_savefl) && save_flowey_noloop == 0)
 {
-    shadow_actor = 1191
+    shadow_actor = 1192
     shadow_drawer = instance_create_depth(obj_savefl.x, obj_savefl.y, obj_savefl.depth, drawer_object)
     save_flowey_noloop = 1
 }

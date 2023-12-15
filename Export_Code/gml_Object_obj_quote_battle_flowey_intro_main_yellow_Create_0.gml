@@ -1,10 +1,10 @@
-message[0] = "¿Ves ese corazón? Esa#es tu ALMA. ¡La#culminación de#tu ser!"
-message[1] = "Tu LV representa#tu AMOR... es..."
-message[2] = "Je... Estoy seguro#de que no tendrás que#preocuparte por eso."
-message[3] = "En el subsuelo,#los monstruos pueden intentar#¡atacarte!"
-message[4] = "Si ves balas#como estas..."
-message[5] = "¡Tienes que evitarlos#a toda costa!"
-message[6] = "¡Intenta esquivar mis#balas ahora! ¡Aquí#vienen!"
+message[0] = "See that heart? That#is your SOUL. The#very culmination of#your being!"
+message[1] = "Your LV represents#your LOVE... it's..."
+message[2] = "Heh... I'm sure you#won't have to worry#about that."
+message[3] = "In the Underground,#monsters may try#to attack you!"
+message[4] = "If you see bullets#like these..."
+message[5] = "You need to avoid#them at all costs!"
+message[6] = "Try dodging my#bullets now! Here#they come!"
 portrait[0] = 1934
 portrait[1] = 1936
 portrait[2] = 1945

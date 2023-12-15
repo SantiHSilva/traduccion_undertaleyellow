@@ -1,7 +1,7 @@
 if live_call()
     return global.live_result;
 damage_number = scr_determine_damage_number_enemy("axis", "void", "void")
-var battle_box = 3153
+var battle_box = 3154
 var heart = obj_heart_battle_fighting_parent
 image_index = 0
 image_alpha = 0

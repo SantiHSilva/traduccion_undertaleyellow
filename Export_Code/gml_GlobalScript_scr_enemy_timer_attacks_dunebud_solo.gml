@@ -7,7 +7,7 @@ function scr_enemy_timer_attacks_dunebud_solo() //gml_Script_scr_enemy_timer_att
         {
             var chosen_dunebud = obj_dunebud_a
             if (instance_exists(obj_dunebud_b) && (global.enemy_spared || global.enemy_dead))
-                chosen_dunebud = 3192
+                chosen_dunebud = 3193
             instance_create(chosen_dunebud.x, chosen_dunebud.y, obj_battle_enemy_attack_dunebud_chase_enemy)
         }
         else if (enemy_attack == "Dunebud Sandcastle" && (!instance_exists(obj_battle_enemy_attack_dunebud_sandcastle_bucket)) && (!instance_exists(obj_battle_enemy_attack_dunebud_sandcastle_sandcastle)))

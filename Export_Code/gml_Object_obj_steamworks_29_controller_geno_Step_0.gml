@@ -17,7 +17,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* ST4Y pUT, OK?"
             message[1] = "* YoUR'E s-SAFE."
             prt[0] = 3282
@@ -26,14 +26,14 @@ switch scene
         }
         break
     case 3:
-        cutscene_npc_walk(1165, obj_axis_npc.x, 0, 4, "y", "up")
+        cutscene_npc_walk(1166, obj_axis_npc.x, 0, 4, "y", "up")
         cutscene_advance()
         break
     case 4:
         cutscene_wait(0.5)
         break
     case 5:
-        cutscene_npc_walk(1167, obj_player_npc.x, 380, 2, "y", "up")
+        cutscene_npc_walk(1168, obj_player_npc.x, 380, 2, "y", "up")
         break
     case 6:
         audio_play_sound(snd_encounter, 1, false)

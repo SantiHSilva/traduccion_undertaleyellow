@@ -53,7 +53,7 @@ switch scene
         instance_destroy(obj_factory_03_minigame)
         if (obj_axis_npc.x > 400)
         {
-            if cutscene_npc_walk(1165, 400, obj_axis_npc.y, 4, "x", "left")
+            if cutscene_npc_walk(1166, 400, obj_axis_npc.y, 4, "x", "left")
                 cutscene_advance(8)
         }
         else
@@ -95,7 +95,7 @@ switch scene
         cutscene_wait(0.5)
         break
     case 13:
-        cutscene_npc_walk(1160, (obj_pl.x - 30), obj_pl.y, 3, "x", "right")
+        cutscene_npc_walk(1161, (obj_pl.x - 30), obj_pl.y, 3, "x", "right")
         if (obj_ceroba_npc.x < obj_player_npc.x)
             obj_player_npc.npc_direction = "left"
         break
@@ -104,7 +104,7 @@ switch scene
         with (msg)
         {
             skippable = 0
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Okay! Let's head#  upstairs before Axis- "
             prt[0] = 377
             if (cutoff >= string_length(message[message_current]))
@@ -134,18 +134,18 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
-            talker[1] = 1160
-            talker[4] = 1165
-            talker[7] = 1160
-            talker[9] = 1165
-            talker[13] = 1160
-            talker[14] = 1165
-            talker[15] = 1160
-            talker[16] = 1165
-            talker[17] = 1160
-            talker[19] = 1165
-            talker[20] = 1160
+            talker[0] = 1166
+            talker[1] = 1161
+            talker[4] = 1166
+            talker[7] = 1161
+            talker[9] = 1166
+            talker[13] = 1161
+            talker[14] = 1166
+            talker[15] = 1161
+            talker[16] = 1166
+            talker[17] = 1161
+            talker[19] = 1166
+            talker[20] = 1161
             message[0] = "* HELLO."
             message[1] = "* Axis!"
             message[2] = "* ...Juuust the bot I was#  looking for!"
@@ -205,8 +205,8 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
-            talker[1] = 1160
+            talker[0] = 1166
+            talker[1] = 1161
             message[0] = "* . . ."
             message[1] = "* . . ."
             prt[0] = 473
@@ -223,11 +223,11 @@ switch scene
         cutscene_npc_set_sprites(obj_ceroba_npc, 81, 80, 78, 79, 61, 65, 60, 63)
         break
     case 23:
-        cutscene_npc_walk(1167, 740, 710, 4, "x", "up")
+        cutscene_npc_walk(1168, 740, 710, 4, "x", "up")
         cutscene_advance()
         break
     case 24:
-        cutscene_npc_walk(1160, 740, 710, 4, "x", "up")
+        cutscene_npc_walk(1161, 740, 710, 4, "x", "up")
         cutscene_advance()
         break
     case 25:
@@ -256,7 +256,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             message[0] = "* COOL."
             prt[0] = 473
         }

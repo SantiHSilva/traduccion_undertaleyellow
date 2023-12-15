@@ -222,7 +222,7 @@ else
             break
         case 21:
             obj_flowey_npc.image_alpha = 1
-            cutscene_npc_action_sprite(3193, 242, 0.2, 0)
+            cutscene_npc_action_sprite(3194, 242, 0.2, 0)
             break
         case 22:
             cutscene_wait(0.25)
@@ -231,7 +231,7 @@ else
             cutscene_dialogue()
             with (msg)
             {
-                talker[0] = 3193
+                talker[0] = 3194
                 message[0] = "* Gee, wonder how that#  came to be?"
                 message[1] = "* I think I'm gonna start#  praying for our safety."
                 message[2] = "* Ya know, in case the#  facility explodes while#  we're knee deep in it."
@@ -241,7 +241,7 @@ else
             }
             break
         case 24:
-            if cutscene_npc_action_sprite(3193, 245, 0.2, 0)
+            if cutscene_npc_action_sprite(3194, 245, 0.2, 0)
                 instance_destroy(obj_flowey_npc)
             break
         case 25:

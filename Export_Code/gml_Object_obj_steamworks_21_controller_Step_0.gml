@@ -166,12 +166,14 @@ switch scene
         }
         break
     case 13:
-        cutscene_npc_walk(1167, 210, 700, 4, "y", "up")
+        cutscene_npc_walk(1168, 210, 700, 4, "y", "up")
         break
     case 14:
         cutscene_advance()
         break
     case 15:
+        if (obj_axis_npc.path_position < 0.95)
+            obj_axis_npc.path_position = 0.95
         if (global.route == 2)
             cutscene_wait(0.75)
         else if (axis_is_running == 0 && cutscene_wait(0.75))
@@ -208,11 +210,11 @@ switch scene
         }
         break
     case 19:
-        cutscene_npc_walk(1160, 76, 740, 4, "y", "up")
+        cutscene_npc_walk(1161, 76, 740, 4, "y", "up")
         cutscene_advance()
         break
     case 20:
-        cutscene_npc_walk(1167, 117, 735, 4, "y", "up")
+        cutscene_npc_walk(1168, 117, 735, 4, "y", "up")
         cutscene_advance()
         break
     case 21:
@@ -331,7 +333,7 @@ switch scene
         cutscene_wait(0.25)
         break
     case 36:
-        cutscene_npc_walk(1165, -40, obj_axis_npc.y, 3, "x", "left")
+        cutscene_npc_walk(1166, -40, obj_axis_npc.y, 3, "x", "left")
         break
     case 37:
         cutscene_wait(1)
@@ -386,7 +388,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Huff... Huff..."
             message[1] = "* This guy means#  business!"
             message[2] = "* My husband was one hell#  of an engineer."
@@ -407,11 +409,11 @@ switch scene
         break
     case 43:
         scr_actor_into_follower(obj_ceroba_npc, obj_ceroba_follower)
-        global.party_member = 1170
+        global.party_member = 1171
         cutscene_advance()
         break
     case 44:
-        camera_set_view_target(view_camera[0], 1030)
+        camera_set_view_target(view_camera[0], 1031)
         tile_layer_hide(-99999)
         cutscene_end()
         global.sworks_flag[12] = 2
@@ -423,7 +425,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1165
+            talker[0] = 1166
             if (global.sworks_flag[12] == 0)
             {
                 message[0] = "* HALT."
@@ -479,6 +481,7 @@ switch scene
                     action_sprite = 0
                     other.axis_is_running = 0
                     other.scene = 45
+                    global.sworks_flag[43] += 1
                 }
                 else
                 {
@@ -520,7 +523,7 @@ switch scene
         }
         break
     case 59:
-        cutscene_npc_walk(1165, -40, obj_axis_npc.y, 3, "x", "left")
+        cutscene_npc_walk(1166, -40, obj_axis_npc.y, 3, "x", "left")
         break
     case 60:
         cutscene_wait(0.5)
@@ -601,6 +604,7 @@ if (axis_is_running == 1)
             {
                 scr_audio_fade_out(other.event_music, 300)
                 other.scene = 45
+                global.sworks_flag[43] += 1
             }
         }
         else if (sprite_index != spr_axis_down_bonk && other.scene < 20)
@@ -624,6 +628,7 @@ if (scene >= 47 && obj_steamworks_21_locker.waiter == 0)
             action_sprite = 0
             axis_is_running = 0
             other.scene = 45
+            global.sworks_flag[43] += 1
         }
     }
 }

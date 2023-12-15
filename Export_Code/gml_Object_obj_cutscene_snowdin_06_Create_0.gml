@@ -7,4 +7,4 @@ if (global.snowdin_flag[16] > 0)
 scene = 0
 timer = 10
 cutscene_timer = 0
-actor_martlet = 1373
+actor_martlet = 1374

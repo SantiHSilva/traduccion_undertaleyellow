@@ -50,7 +50,7 @@ if key_select
     else if (outline < small_circle && outline > (small_circle * 0.5))
     {
         shot_type = "medium"
-        hit_object = 2911
+        hit_object = 2912
         shot_sound = audio_play_sound(snd_attackhit, 1, false)
     }
     else

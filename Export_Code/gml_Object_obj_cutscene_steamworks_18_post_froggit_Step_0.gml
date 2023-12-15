@@ -57,7 +57,7 @@ switch scene
         cutscene_dialogue()
         with (msg)
         {
-            talker[0] = 1160
+            talker[0] = 1161
             message[0] = "* Clover? You okay?"
             message[1] = "* Did you faint or#  something?"
             message[2] = "* Hey, we can take a#  break soon, alright?	"
@@ -70,10 +70,10 @@ switch scene
         break
     case 7:
         obj_player_npc.npc_direction = "right"
-        cutscene_npc_walk(1160, (obj_player_npc.x - 20), obj_player_npc.y, 3, "y", "right")
+        cutscene_npc_walk(1161, (obj_player_npc.x - 20), obj_player_npc.y, 3, "y", "right")
         break
     case 8:
-        actor_follower = 1160
+        actor_follower = 1161
         obj_pl.direction = 0
         cutscene_actor_into_follower()
         cutscene_camera_reset(1)

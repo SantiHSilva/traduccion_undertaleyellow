@@ -624,11 +624,12 @@ function scr_battle_core_directory_action_2_selected_event() //gml_Script_scr_ba
         }
         else if (battle_enemy_name == "martlet genocide final")
         {
-            global.action_2_selected_count += 1
-            global.enemy_attacking = 1
-            global.current_hp_self = clamp((global.current_hp_self + 20), 0, global.max_hp_self)
-            audio_play_sound(snd_battle_item_eat, 1, false)
-            instance_destroy()
+            if ((!instance_exists(obj_martlet_final_act_helper)) || obj_martlet_final_act_helper.can_skip == 1)
+            {
+                global.action_2_selected_count += 1
+                global.enemy_attacking = 1
+                instance_destroy()
+            }
             return;
         }
     }

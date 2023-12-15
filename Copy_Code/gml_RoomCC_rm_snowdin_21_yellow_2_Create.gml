@@ -1,5 +1,0 @@
-message[0] = "* (Hay una nota clavada en el#  poste del quiosco.#  Dice así,)"
-message[1] = "* \"¡Hola, viajero! Debido a#  descansos poco frecuentes voy#  a darme una siesta en el trabajo.\""
-message[2] = "* Si lees estoy y estoy#  dormida, ¡por favoor no pases#  desde este punto de control!"
-message[3] = "* ¡Seguramente me descuenten más!#* Así que toca el timbre#  en su lugar, gracias.\""
-message[4] = "* - Martlet Guardiana Real#  División Snowdin del Subsuelo."

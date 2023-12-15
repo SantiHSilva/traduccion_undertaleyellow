@@ -1,6 +1,6 @@
 if live_call()
     return global.live_result;
-var box = 3153
+var box = 3154
 switch scene
 {
     case 0:

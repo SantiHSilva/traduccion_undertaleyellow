@@ -48,12 +48,12 @@ if key_select
     else if (outline <= (small_circle * 0.6) && outline > (small_circle * 0.25))
     {
         shot_type = "medium"
-        hit_object = 2911
+        hit_object = 2912
     }
     else if (outline < small_circle && outline > (small_circle * 0.6))
     {
         shot_type = "weak"
-        hit_object = 2910
+        hit_object = 2911
     }
     instance_create(enemy_target_x, enemy_target_y, hit_object)
     shrink = 0

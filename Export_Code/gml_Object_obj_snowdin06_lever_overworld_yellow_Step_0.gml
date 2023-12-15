@@ -5,7 +5,7 @@ if (keyboard_multicheck_pressed(0) && scr_interact())
         if (global.snowdin_flag[2] < 2 && obj_puzzle_water_meter_overworld_yellow.fill < 2)
         {
             cam = instance_create(obj_pl.x, obj_pl.y, obj_camera)
-            __view_set((9 << 0), 0, 1119)
+            __view_set((9 << 0), 0, 1120)
             direction = 0
             obj_pl.state = gml_Script_scr_frozen_state
             global.cutscene = true
@@ -20,7 +20,7 @@ if (keyboard_multicheck_pressed(0) && scr_interact())
             {
                 sndfnt = 99
                 portrait = 0
-                message[0] = "* El interruptor ya no se mueve."
+                message[0] = "* The switch won't budge anymore."
             }
             waiter = 5
         }

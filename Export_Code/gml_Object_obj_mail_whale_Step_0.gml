@@ -151,7 +151,7 @@ switch scene
             var yy = (y + 40)
             if (room == rm_steamworks_32)
                 yy = (y + 20)
-            cutscene_npc_walk(1167, x, yy, 2, "nothing", "up")
+            cutscene_npc_walk(1168, x, yy, 2, "nothing", "up")
         }
         break
     case 7:

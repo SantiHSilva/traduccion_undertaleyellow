@@ -65,7 +65,7 @@ switch scene
             scene = 4
         break
     case 4:
-        if cutscene_npc_walk(1544, 440, obj_martlet_snowdin_22.y, 3, "x", "down", 0)
+        if cutscene_npc_walk(1545, 440, obj_martlet_snowdin_22.y, 3, "x", "down", 0)
         {
             scene = 5
             timer = 15
@@ -108,7 +108,7 @@ switch scene
     case 8:
         if scr_camera_move(obj_pl.x, obj_pl.y, 2)
         {
-            __view_set((9 << 0), 0, 1030)
+            __view_set((9 << 0), 0, 1031)
             timer = 5
             scene++
         }

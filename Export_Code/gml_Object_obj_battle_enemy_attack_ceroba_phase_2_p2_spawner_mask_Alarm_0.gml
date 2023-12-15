@@ -1,5 +1,11 @@
 if live_call()
     return global.live_result;
+if (attack_stop == 1)
+{
+    with (obj_ceroba_attack_bullet_trail_mask)
+        scene = 2
+    return;
+}
 var xx = 0
 var yy = 0
 var spawn_corner = irandom_range(1, 4)
@@ -48,6 +54,8 @@ spawn_direction_last = spawn_direction
 mask = instance_create_depth(xx, yy, -100, obj_ceroba_attack_bullet_trail_mask)
 with (mask)
     direction = spawn_direction
-alarm[0] = 25
+alarm[0] = 30
+if (global.hotland_flag[2] == 2)
+    alarm[0] = 25
 if (global.hotland_flag[2] == 3)
-    alarm[0] = 45
+    alarm[0] = 20

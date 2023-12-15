@@ -8,7 +8,7 @@ if (act == 1)
             cutscene_instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
             break
         case 1:
-            cutscene_npc_walk(1167, 160, 120, 3, "x", "down")
+            cutscene_npc_walk(1168, 160, 120, 3, "x", "down")
             break
         case 2:
             cutscene_wait(0.5)
@@ -55,7 +55,7 @@ if (act == 1)
             cutscene_wait(0.25)
             break
         case 14:
-            cutscene_npc_walk(1167, 160, 220, 3, "x", "down")
+            cutscene_npc_walk(1168, 160, 220, 3, "x", "down")
             break
         case 15:
             audio_stop_all()
@@ -91,7 +91,7 @@ else
             cutscene_instance_create(obj_pl.x, obj_pl.y, obj_player_npc)
             break
         case 1:
-            cutscene_npc_walk(1167, 160, 120, 2, "x", "down")
+            cutscene_npc_walk(1168, 160, 120, 2, "x", "down")
             break
         case 2:
             cutscene_wait(2)
@@ -165,7 +165,7 @@ else
             cutscene_wait(0.55)
             break
         case 22:
-            cutscene_npc_walk(1167, 160, 220, 2, "x", "down")
+            cutscene_npc_walk(1168, 160, 220, 2, "x", "down")
             break
         case 23:
             instance_destroy(obj_player_npc)

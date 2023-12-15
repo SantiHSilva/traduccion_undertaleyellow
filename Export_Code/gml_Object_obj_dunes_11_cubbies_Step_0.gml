@@ -12,7 +12,7 @@ if (global.dunes_flag[5] == 0)
         with (msg)
         {
             ch_msg = 2
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
             message[0] = "* (A set of cubbies dividing the#  miners' personal belongings.)"
             message[1] = "* (You notice a discarded belt#  buckle lying in one of the#  compartments.)"

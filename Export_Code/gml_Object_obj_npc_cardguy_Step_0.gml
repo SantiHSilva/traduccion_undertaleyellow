@@ -44,7 +44,7 @@ if (interact_hold == 1)
             else if (other.npc_flag == 1)
             {
                 ch_msg = 0
-                ch[1] = "Sí"
+                ch[1] = "Yes"
                 ch[2] = "No thanks"
                 message[0] = "* Are you interested in a round#  of Six-Shooter?"
                 if (outcome == 1)
@@ -69,7 +69,7 @@ if (interact_hold == 1)
         with (msg)
         {
             ch_msg = 11
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
             message[0] = "* A stack of 36 cards will be#  split into 20, then laid on the#  table separately."
             message[1] = "* There are six card types, each#  with a different familiar face."

@@ -40,7 +40,7 @@ switch scene
             {
                 position = 1
                 ch_msg = 2
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* Ow..."
                 message[1] = "* I am so tired of this#  \"falling\" thing. "
                 message[2] = "* How about you?"
@@ -68,14 +68,14 @@ switch scene
             with (msg)
             {
                 position = 1
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* Ugh..."
                 prt[0] = 370
             }
         }
         break
     case 4:
-        cutscene_npc_reset_sprite(1160, "down")
+        cutscene_npc_reset_sprite(1161, "down")
         audio_play_sound(snd_playerjump, 1, false)
         with (obj_ceroba_npc)
             path_start(pt_pljump, 2, path_action_stop, 0)
@@ -95,7 +95,7 @@ switch scene
             with (msg)
             {
                 position = 1
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* Come on, get up. We can#  do this."
                 prt[0] = 370
             }
@@ -105,14 +105,14 @@ switch scene
             with (msg)
             {
                 position = 1
-                talker[0] = 1160
+                talker[0] = 1161
                 message[0] = "* Gotta try again."
                 prt[0] = 370
             }
         }
         break
     case 7:
-        cutscene_npc_reset_sprite(1167, "down")
+        cutscene_npc_reset_sprite(1168, "down")
         audio_play_sound(snd_playerjump, 1, false)
         with (obj_player_npc)
             path_start(pt_pljump, 2, path_action_stop, 0)

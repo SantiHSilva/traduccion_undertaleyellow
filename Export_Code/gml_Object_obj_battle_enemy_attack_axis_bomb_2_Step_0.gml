@@ -45,7 +45,7 @@ if (noloop == 1)
         if instance_exists(obj_battlebox_controller_axis)
             obj_battlebox_controller_axis.axis_trash_meter = clamp((obj_battlebox_controller_axis.axis_trash_meter + 10), 0, 100)
         obj_battle_enemy_attack_axis_shield.shield_hit = 1
-        var shield = 510
+        var shield = 511
         direction = other.direction
         bomb_speed = 15
         destroy_check = 1

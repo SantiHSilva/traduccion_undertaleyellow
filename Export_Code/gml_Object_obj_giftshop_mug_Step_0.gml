@@ -13,7 +13,7 @@ if (sprite_index == spr_mug_broken)
         {
             message[0] = "* (Take the mug shards?)"
             ch_msg = 0
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
             if (outcome == 1)
             {

@@ -1,5 +1,5 @@
 var counter_timer_max = 0
-var player_soul = 2978
+var player_soul = 2979
 var box = obj_dialogue_box_battle_transformation_any
 switch counter_current
 {

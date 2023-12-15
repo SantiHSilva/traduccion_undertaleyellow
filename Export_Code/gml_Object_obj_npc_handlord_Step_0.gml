@@ -20,9 +20,9 @@ if (waiter == 1)
                 message[4] = "* And please tell them not to be#  so reckless in my#  establishment."
                 message[5] = "* Stresses out the residents."
                 prt[3] = 312
-                talker[0] = 421
+                talker[0] = 422
                 talker[3] = -4
-                talker[4] = 421
+                talker[4] = 422
                 sndfnt_array[0] = 99
                 sndfnt_array[3] = 102
                 sndfnt_array[4] = 99

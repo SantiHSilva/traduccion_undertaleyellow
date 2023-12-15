@@ -1,9 +1,15 @@
 if live_call()
     return global.live_result;
+if (instance_exists(obj_ceroba_attack_bullet_spawner_spawner) && obj_ceroba_attack_bullet_spawner_spawner.attack_stop == 1)
+    fade_out = 1
 if (!fade_out)
 {
     if (image_alpha < 1)
+    {
         image_alpha += 0.1
+        if (global.hotland_flag[2] >= 2)
+            image_alpha += 0.1
+    }
     else
     {
         hspeed = lerp(hspeed, hspeed_target, 0.15)

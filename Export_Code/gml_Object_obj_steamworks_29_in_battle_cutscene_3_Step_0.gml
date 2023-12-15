@@ -35,7 +35,7 @@ switch scene
             scene++
         break
     case 5:
-        global.party_member = 1170
+        global.party_member = 1171
         obj_heart_battle_fighting_parent.image_alpha = 1
         instance_create(402, 68, obj_quote_bubble_battle_yellow_2)
         instance_create(0, 0, obj_quote_battle_guardener)

@@ -20,7 +20,7 @@ switch global.hotland_flag[2]
         move_speed_max = 8
         break
     case 3:
-        move_speed_max = 6
+        move_speed_max = 9
         break
 }
 

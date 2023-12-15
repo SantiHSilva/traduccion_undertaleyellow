@@ -56,6 +56,18 @@ if keyboard_multicheck_pressed(0)
             else
                 global.option_autoshoot = 1
             break
+        case 6:
+            if (global.option_autorhythm == 1)
+                global.option_autorhythm = 0
+            else
+                global.option_autorhythm = 1
+            break
+        case 7:
+            if (global.option_easymode == 1)
+                global.option_easymode = 0
+            else
+                global.option_easymode = 1
+            break
     }
 
 }
