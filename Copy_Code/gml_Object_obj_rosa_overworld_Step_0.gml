@@ -9,7 +9,7 @@ if (waiter == 1)
         case 0:
             with (msg)
             {
-                talker[0] = other
+                talker[0] = -2
                 message[0] = "* Yo, how are'ya?"
                 message[1] = "* Wait, are you from the Wild#  East? That's hilarious!"
                 message[2] = "* Say \"howdy!\" Come on, DO IT!"
@@ -40,7 +40,7 @@ if (waiter == 1)
         case 1:
             with (msg)
             {
-                talker[0] = other
+                talker[0] = -2
                 message[0] = "* Have you met my sisters?#  They're kinda annoying."
                 message[1] = "* Pedla's like, WAY too happy#  all the time."
                 message[2] = "* Just be normal and fake your#  happiness, like me!"
@@ -54,7 +54,7 @@ if (waiter == 1)
         case 2:
             with (msg)
             {
-                talker[0] = other
+                talker[0] = -2
                 message[0] = "* I got work to do so I'll see#  ya."
                 message[1] = "* Remember to eat your veggies,#  stay hydrated, and say \"howdy\"#  more often."
                 message[2] = "* That's very important."

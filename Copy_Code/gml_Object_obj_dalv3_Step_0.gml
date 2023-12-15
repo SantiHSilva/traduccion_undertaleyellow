@@ -19,7 +19,7 @@ if (global.route == 2 && global.flag[21] == 0)
             message[8] = "* Pero creo que estoy#  listo para darle otra#  oportunidad al Subsuelo."
             message[9] = "* Tengo tanta#  creatividad acumulada."
             message[10] = "* Por fin estoy listo#  para mostrar mi talento."
-            message[11] = "* Puedo publicar mi novela,# tener un concierto de#  órganos."
+            message[11] = "* Puedo publicar mi novela,#  tener un concierto de#  órganos."
             message[12] = "* ¡Incluso podría hacer#  otro amigo!"
             message[13] = "* Qué mundo sería#  si tuviera dos amigos#  enteros."
             message[14] = "* Iré por ahí y pondré#  maíz en todas las#  puertas."
@@ -104,7 +104,7 @@ if (global.route == 2 && global.flag[21] == 0)
             ch_msg = 2
             ch[1] = "Clover"
             message[0] = "* Ya está.#  Ya está todo listo."
-            message[1] = "* Oh, antes de que lo# olvide, ¡nunca pregunté#  por tu nombre!"
+            message[1] = "* Oh, antes de que lo#  olvide, ¡nunca pregunté#  por tu nombre!"
             message[2] = "* ¿Te importaría#  informarme?"
             message[3] = "* ¿Clover? Qué bonito#  nombre."
             message[4] = "* Bueno, Clover,#  muchas gracias."
@@ -250,7 +250,7 @@ else if (global.route == 2 && global.flag[21] == 1)
             ch_msg = 2
             ch[1] = "Clover"
             message[0] = "* Ya está.#  Ya está todo listo."
-            message[1] = "* Oh, antes de que lo# olvide, ¡nunca pregunté#  por tu nombre!"
+            message[1] = "* Oh, antes de que lo#  olvide, ¡nunca pregunté#  por tu nombre!"
             message[2] = "* ¿Te importaría#  informarme?"
             message[3] = "* ¿Clover? Qué bonito#  nombre."
             message[4] = "* Bueno, Clover,#  deberías irte."
@@ -405,7 +405,7 @@ else if (global.route == 1 && global.flag[21] == 0)
             portrait = 1
             sndfnt = 100
             message[0] = "* Ya está.#  Ya está todo listo."
-            message[1] = "* Oh, antes de que lo# olvide, ¡nunca pregunté#  por tu nombre!"
+            message[1] = "* Oh, antes de que lo#  olvide, ¡nunca pregunté#  por tu nombre!"
             message[2] = "* ¿Te importaría#  informarme?"
             message[3] = "* ¿Clover? Qué bonito#  nombre."
             message[4] = "* Bueno, Clover,#  deberías irte."
@@ -555,7 +555,7 @@ else if (global.route == 1 && global.flag[21] == 1)
             ch_msg = 2
             ch[1] = "Clover"
             message[0] = "* Ya está.#  Ya está todo listo."
-            message[1] = "* Oh, antes de que lo# olvide, ¡nunca pregunté#  por tu nombre!"
+            message[1] = "* Oh, antes de que lo#  olvide, ¡nunca pregunté#  por tu nombre!"
             message[2] = "* ¿Te importaría#  informarme?"
             message[3] = "* ¿Clover? Qué bonito#  nombre."
             message[4] = "* Bueno, Clover,#  deberías irte."
