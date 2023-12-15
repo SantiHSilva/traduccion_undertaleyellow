@@ -1,0 +1,21 @@
+scene = 0
+cutscene_timer = 0
+cutscene_music = 0
+instance_create(720, 375, obj_starlo_npc)
+instance_create(700, 375, obj_player_npc)
+obj_player_npc.npc_direction = "down"
+__view_set((9 << 0), 0, 1168)
+instance_create(460, 400, obj_ceroba_npc)
+instance_create(-118, 469, obj_ed_npc)
+instance_create(-37, 515, obj_moray_npc)
+instance_create(-37, 492, obj_ace_npc)
+instance_create(-37, 469, obj_mooch_npc)
+instance_create(-37, 532, obj_npc_kangarufus_tied)
+instance_create(-37, 561, obj_npc_owen_tied)
+instance_create(-37, 584, obj_npc_stresso_tied)
+instance_create(-37, 604, obj_npc_koala_tied)
+obj_ed_npc.down_sprite_idle = 159
+obj_moray_npc.down_sprite_idle = 172
+obj_mooch_npc.down_sprite_idle = 191
+obj_ace_npc.down_sprite_idle = 136
+global.radio_pause = 1

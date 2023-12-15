@@ -1,0 +1,12 @@
+message[0] = "* To: Science Division"
+message[1] = "* The plants should suffice as a#  temporary solution.	"
+message[2] = "* I've heard one of our top#  scientists is working toward a#  new compound.	"
+message[3] = "* One made from special energy.#  It could be the key we need.	"
+message[4] = "* Much more time is necessary to#  develop it properly, however.	"
+message[5] = "* As for the proposed \"Greenhouse#  Division\", I have an idea.	"
+message[6] = "* Cheaper, more efficient, and#  trustworthy.	"
+message[7] = "* I'll send you some blueprints#  shortly. Thank you for your#  time and research.	"
+message[8] = "* - Head Office"
+color = 1
+message_col[0][0] = "      Science Division"
+col_modif[0] = 8421376
