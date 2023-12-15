@@ -97,7 +97,7 @@ if (dialogue_is_minishop == 1)
             continue
         }
     }
-    draw_text(217, 100, string_hash_to_newline((((("$ - " + string(global.player_gold)) + "#SPACE - ") + string((item_count - 1))) + "/8")))
+    draw_text(217, 100, string_hash_to_newline((((("$ORO - " + string(global.player_gold)) + "#ESPACIO - ") + string((item_count - 1))) + "/8")))
 }
 if (choice == 0)
     return;

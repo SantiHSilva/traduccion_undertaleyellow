@@ -5,9 +5,9 @@ if (keyboard_multicheck_pressed(0) && scr_interact() == 1)
     {
         sndfnt = 99
         portrait = 0
-        message[0] = "* (You notice a dark path beyond#  the rocks but you can't squeeze#  past them.)"
+        message[0] = "* (Ves un camino oscuro más alla#  de las rocas pero no#  puedes pasarlas.)"
         if (global.route == 3)
-            message[0] = "* (Rocks block this path.)"
+            message[0] = "* (Las rocas bloquean el camino.)"
     }
 }
 if (global.tinypuzzle == 0)

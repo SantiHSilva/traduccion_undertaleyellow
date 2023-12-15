@@ -26,7 +26,7 @@ else if (waiter == 1)
         message[1] = "* (They seemed to be in the#  middle of creating a new#  Steamworks ID.)"
         message[2] = "* (Finish their work?)"
         ch_msg = 2
-        ch[1] = "Yes"
+        ch[1] = "Sí"
         ch[2] = "No"
         if (outcome == 1)
         {

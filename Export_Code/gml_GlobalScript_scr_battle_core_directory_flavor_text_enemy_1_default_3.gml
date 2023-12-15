@@ -33,7 +33,7 @@ function scr_battle_core_directory_flavor_text_enemy_1_default_3() //gml_Script_
         else if (battle_enemy_name == "rorrim solo")
             message[0] = "* Rorrim mimics your movements."
         else if (battle_enemy_name == "dalv")
-            message[0] = "* Dalv assumes an intimidating#  facade."
+            message[0] = "* Dalv adapta una pose#  intimidadora."
         else if (battle_enemy_name == "micro froggit")
             message[0] = "* You momentarily lose track of#  Micro Froggit."
         else if (battle_enemy_name == "insomnitot solo")
@@ -176,7 +176,7 @@ function scr_battle_core_directory_flavor_text_enemy_1_default_3() //gml_Script_
         {
             message[0] = "* The enemy prepares to attack."
             if (global.hotland_flag[9] >= 2)
-                message[0] = "* Home."
+                message[0] = "* Hogar."
         }
     }
 }

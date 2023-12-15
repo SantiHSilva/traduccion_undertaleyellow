@@ -18,7 +18,7 @@ if (waiter == 1)
                     message[1] = "* Will you sign my needle? "
                     message[2] = "* Please do!"
                     ch_msg = 2
-                    ch[1] = "Yes"
+                    ch[1] = "Sí"
                     ch[2] = "No"
                     if (outcome == 1)
                     {

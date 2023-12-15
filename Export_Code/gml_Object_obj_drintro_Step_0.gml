@@ -8,14 +8,14 @@ if (waiter == 30)
     {
         sndfnt = 97
         portrait = 0
-        message[0] = "* My child!"
-        message[1] = "* Are you all right?"
+        message[0] = "* ¡Mi niño!"
+        message[1] = "* ¿Está todo bien ahí?"
         message[2] = "* ..."
-        message[3] = "* Oh dear... I am afraid I cannot#  reach you..."
-        message[4] = "* I must leave for a moment. You#  will stay there, will you not?"
-        message[5] = "* Do not wander, many monsters#  are unfriendly towards humans."
-        message[6] = "* Fret not, my child, I will#  protect you!"
-        message[7] = "* Please... wait there."
+        message[3] = "* Oh cariño... Me temo que#  no puedo llegar#  hasta ti..."
+        message[4] = "* Debo irme un momento. Tu#  te quedaras ahi, ¿verdad?"
+        message[5] = "* No pasees por ahí, hay#  monstruos que no son amistosos#  con todos los humanos."
+        message[6] = "* No temas, mi niño, ¡Yo te#  protegere!"
+        message[7] = "* Por favor... espera ahí."
     }
     waiter = 31
 }

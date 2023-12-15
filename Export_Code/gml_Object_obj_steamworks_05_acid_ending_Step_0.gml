@@ -8,7 +8,7 @@ switch scene
         {
             message[0] = "* (Are you sure you want to#  drink the acid?)"
             ch_msg = 0
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             if (outcome == 1)
                 other.scene++
             ch[2] = "No"

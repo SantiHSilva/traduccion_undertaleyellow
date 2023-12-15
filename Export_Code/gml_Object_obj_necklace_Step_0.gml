@@ -23,7 +23,7 @@ if (waiter == 1)
         if (!global.dialogue_open)
             other.waiter = 0
         ch_msg = 2
-        ch[1] = "Yes"
+        ch[1] = "Sí"
         ch[2] = "No"
         if (outcome == 1)
         {

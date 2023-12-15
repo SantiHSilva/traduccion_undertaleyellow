@@ -162,7 +162,7 @@ function scr_save_flowey_steamworks() //gml_Script_scr_save_flowey_steamworks
                         switch global.flowey_flag[24]
                         {
                             case 0:
-                                message[0] = "* Howdy!"
+                                message[0] = "* ¡Buenas!"
                                 message[1] = "* You seem to be#  progressing well!"
                                 message[2] = "* Not that I expected#  anything else."
                                 message[3] = "* Let's get out there and#  see what this place has#  to offer!"
@@ -200,7 +200,7 @@ function scr_save_flowey_steamworks() //gml_Script_scr_save_flowey_steamworks
                         switch global.flowey_flag[25]
                         {
                             case 0:
-                                message[0] = "* Howdy!"
+                                message[0] = "* ¡Buenas!"
                                 message[1] = "* So it's truly just you#  and me in this place,#  huh?"
                                 message[2] = "* Bit of an anticlimax#  after everything we've#  been through."
                                 message[3] = "* I'm thankful though, the#  Dunes were draining!"
@@ -225,7 +225,7 @@ function scr_save_flowey_steamworks() //gml_Script_scr_save_flowey_steamworks
                         switch global.flowey_flag[26]
                         {
                             case 0:
-                                message[0] = "* Howdy!"
+                                message[0] = "* ¡Buenas!"
                                 message[1] = "* Glad to see you out and#  about!	"
                                 message[2] = "* Axis' brain must be#  rusted through.	"
                                 message[3] = "* Didn't take much to#  escape his \"trap.\"	"
@@ -254,7 +254,7 @@ function scr_save_flowey_steamworks() //gml_Script_scr_save_flowey_steamworks
                         switch global.flowey_flag[27]
                         {
                             case 0:
-                                message[0] = "* Howdy!"
+                                message[0] = "* ¡Buenas!"
                                 message[1] = "* Look at you sailing#  across a blazing lake#  with ease!"
                                 message[2] = "* These robots aren't#  useless after all!"
                                 prt[0] = 348
@@ -288,7 +288,7 @@ function scr_save_flowey_steamworks() //gml_Script_scr_save_flowey_steamworks
                         switch global.flowey_flag[28]
                         {
                             case 0:
-                                message[0] = "* Howdy!	"
+                                message[0] = "* ¡Buenas!	"
                                 message[1] = "* Not a fan of this area's#  bleak vibe, honestly."
                                 message[2] = "* I got my fill of this#  kinda stuff with the#  Ruins."
                                 message[3] = "* Guess I'm not freezing#  or choking on sand so..."
@@ -317,7 +317,7 @@ function scr_save_flowey_steamworks() //gml_Script_scr_save_flowey_steamworks
                         switch global.flowey_flag[29]
                         {
                             case 0:
-                                message[0] = "* Howdy!"
+                                message[0] = "* ¡Buenas!"
                                 message[1] = "* What IS all this stuff?"
                                 message[2] = "* It certainly isn't#  natural."
                                 message[3] = "* I mean, if anyone knows#  flowers, it's me."
@@ -353,7 +353,7 @@ function scr_save_flowey_steamworks() //gml_Script_scr_save_flowey_steamworks
                         switch global.flowey_flag[30]
                         {
                             case 0:
-                                message[0] = "* Howdy!"
+                                message[0] = "* ¡Buenas!"
                                 message[1] = "* Golly, that bot sure was#  a handful!"
                                 message[2] = "* Not to mention a total#  rip-off.	"
                                 message[3] = "* Flowers and vines are my#  shtick!"
@@ -390,7 +390,7 @@ function scr_save_flowey_steamworks() //gml_Script_scr_save_flowey_steamworks
                         switch global.flowey_flag[31]
                         {
                             case 0:
-                                message[0] = "* Howdy!	"
+                                message[0] = "* ¡Buenas!	"
                                 message[1] = "* Who knew the Steamworks#  were so dense!	"
                                 message[2] = "* Like, where are we now?	"
                                 message[3] = "* I see test tubes...#  microscopes..."
@@ -428,7 +428,7 @@ function scr_save_flowey_steamworks() //gml_Script_scr_save_flowey_steamworks
                         switch global.flowey_flag[32]
                         {
                             case 0:
-                                message[0] = "* Howdy!"
+                                message[0] = "* ¡Buenas!"
                                 message[1] = "* Just when I thought Axis#  couldn't get any more#  clumsy.	"
                                 message[2] = "* Glad he's gone! 	"
                                 message[3] = "* It's down to us yet#  again, the unwavering#  duo!"
@@ -488,7 +488,7 @@ function scr_save_flowey_steamworks() //gml_Script_scr_save_flowey_steamworks
                         switch global.flowey_flag[34]
                         {
                             case 0:
-                                message[0] = "* Howdy!"
+                                message[0] = "* ¡Buenas!"
                                 message[1] = "* Can you smell that?#  Magma and steel!"
                                 message[2] = "* Newer... steel. Point#  is, we're almost outta#  here, pal! "
                                 message[3] = "* This journey is about to#  pay off big time thanks#  to you!"

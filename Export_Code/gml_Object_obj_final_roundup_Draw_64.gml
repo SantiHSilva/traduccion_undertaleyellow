@@ -8,11 +8,11 @@ draw_text(40, 120, string_hash_to_newline(((("COMPLETION TIME:   " + string_minu
 draw_text(40, 150, string_hash_to_newline(("TOTAL DEATHS:   " + string(global.death_count_total))))
 var dalv_killed = "No"
 if (global.flag[17] == 2)
-    dalv_killed = "Yes"
+    dalv_killed = "Sí"
 draw_text(40, 180, string_hash_to_newline(("DALV KILLED:   " + dalv_killed)))
 var martlet_killed = "No"
 if (global.snowdin_flag[13] == 2)
-    martlet_killed = "Yes"
+    martlet_killed = "Sí"
 draw_text(40, 220, string_hash_to_newline(("MARTLET CHASED OFF:   " + martlet_killed)))
 var enemies_killed = 0
 for (var i = 0; i < array_length_1d(global.kill_number); i++)

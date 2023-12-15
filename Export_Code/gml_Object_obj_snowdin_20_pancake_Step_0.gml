@@ -8,7 +8,7 @@ if (waiter == 1)
         if (other.npc_flag == 0)
         {
             ch_msg = 1
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             message[0] = "* (You notice a fresh pancake#  lying under the bench.)"
             message[1] = "* (Take it?)"

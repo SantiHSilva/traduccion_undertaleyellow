@@ -6,7 +6,7 @@ if (scene == 1)
     with (msg)
     {
         ch_msg = 0
-        ch[1] = "Yes"
+        ch[1] = "Sí"
         ch[2] = "No"
         message[0] = "* Get on the boat?"
         if (outcome == 1)

@@ -33,7 +33,7 @@ switch scene
             if (global.route == 1 && global.geno_complete[3] == 0)
             {
                 talker[0] = 3194
-                message[0] = "* Howdy!"
+                message[0] = "* ¡Buenas!"
                 message[1] = "* I know I usually let you#  handle imminent threats#  but..."
                 message[2] = "* ...You really looked#  cornered back there!"
                 message[3] = "* My friendliness pellets#  sure come in handy in#  tight spots!"

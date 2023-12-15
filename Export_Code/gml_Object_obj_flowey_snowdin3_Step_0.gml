@@ -8,15 +8,15 @@ if (global.route != 3)
         with (msg)
         {
             sndfnt = 96
-            message[0] = "* Howdy!"
-            message[1] = "* Congratulations on being#  rid of those old ruins#  for good!"
-            message[2] = "* You couldn't even go#  back if you wanted#  to now!"
-            message[3] = "* Isn't the thought of#  fresh air exciting?"
-            message[4] = "* Well, don't get ahead#  of yourself."
-            message[5] = "* You're still in the#  Underground."
-            message[6] = "* We won't be anywhere#  near your fancy Surface#  air for a while!"
-            message[7] = "* Now, let's get moving#  before my petals freeze."
-            message[8] = "* Hop to it, bud!"
+            message[0] = "* ¡Buenas!"
+            message[1] = "* ¡Felicidades por haberte#  librado de esas viejas#  ruinas para siempre!"
+            message[2] = "* ¡Ni siquiera podrías#  volver atrás si quisieras#  ahora!"
+            message[3] = "* ¿No es emocionante#  pensar en aire fresco?"
+            message[4] = "* Bueno, no te#  adelantes."
+            message[5] = "* Sigues en el#  subsuelo."
+            message[6] = "* ¡No estaremos cerca de#  tu elegante aire de#  superficie por un tiempo!"
+            message[7] = "* Ahora, en marcha#  antes de que se me#  congelen los pétalos."
+            message[8] = "* ¡Adelante, amigo!"
             prt[0] = 348
             prt[1] = 357
             prt[2] = 347
@@ -41,15 +41,15 @@ if (global.route != 3)
         with (msg)
         {
             sndfnt = 96
-            message[0] = "* Actually, what was your#  name again?"
-            message[1] = "* It isn't bud."
-            message[2] = "* It's... Gun... hat...?"
+            message[0] = "* En realidad,#  ¿cuál era tu nombre?"
+            message[1] = "* No es amigo"
+            message[2] = "* ¿Es... Sombrero...#  de Pistolero...?"
             prt[0] = 348
             prt[1] = 352
             prt[2] = 348
             ch_msg = 2
-            ch[1] = "It's\nClover"
-            ch[2] = "That's\nRight"
+            ch[1] = "Es\nClover"
+            ch[2] = "Así\nEs"
             if (outcome == 1 && message_current == 2)
             {
                 message[3] = "* Clover."
@@ -59,7 +59,7 @@ if (global.route != 3)
             }
             else if (outcome == 2 && message_current == 2)
             {
-                message[3] = "* It is?"
+                message[3] = "* ¿En serio?"
                 prt[3] = 352
                 other.choice = 1
                 other.waiter = 6
@@ -80,8 +80,8 @@ if (global.route != 3)
             if (other.choice == 1)
             {
                 sndfnt = 96
-                message[0] = "* Well, Gun-hat.#  Enough talk."
-                message[1] = "* See ya."
+                message[0] = "* Bueno, Sombrero de Pistolero.#  Basta de charla."
+                message[1] = "* Nos vemos."
                 prt[0] = 352
                 prt[1] = 348
                 global.snowdin_flag[15] = 2
@@ -89,10 +89,10 @@ if (global.route != 3)
             else if (other.choice == 2)
             {
                 sndfnt = 96
-                message[0] = "* Nice name there."
-                message[1] = "* I thought I was the#  only flower around here."
-                message[2] = "* Well then, 'Clover.'#  Let's get a move on."
-                message[3] = "* I'll see you up ahead,#  hopefully somewhere#  warmer."
+                message[0] = "* Bonito nombre."
+                message[1] = "* Pensé que era la#  única flor por aquí."
+                message[2] = "* Ok, 'Clover.'#  Vamos a seguir adelante."
+                message[3] = "* Te veré más adelante,#  espero que en algún#  lugar más cálido."
                 prt[0] = 347
                 prt[1] = 348
                 prt[2] = 348
@@ -111,19 +111,19 @@ else if (global.route == 3)
         with (msg)
         {
             sndfnt = 96
-            message[0] = "* Howdy!"
-            message[1] = "* Enjoying the scenery?"
-            message[2] = "* Before you continue, I#  just wanted to let you#  know."
-            message[3] = "* No one from out here#  really goes in the#  Ruins."
-            message[4] = "* Now that we're out here,#  well, how should I put#  it?"
-            message[5] = "* No one will ever notice#  a few missing monsters#  and a little extra dust."
-            message[6] = "* All your actions up#  'til now, they're as#  good as sealed away."
-            message[7] = "* Our little secret."
-            message[8] = "* So, if you want, you#  could change everything#  right now."
-            message[9] = "* Run around the rest of#  the Underground like#  nothing happened."
-            message[10] = "* Just remember, killing#  some lonely ruins#  residents was one thing."
-            message[11] = "* But you're outside now#  pal."
-            message[12] = "* There's no erasing#  anymore, so think#  carefully."
+            message[0] = "* ¡Buenas!"
+            message[1] = "* ¿Disfrutando del#  paisaje?"
+            message[2] = "* Antes de que continúes,#  sólo quería que lo supieras."
+            message[3] = "* Nadie de aquí va#  realmente a las Ruinas."
+            message[4] = "* Ahora que estamos#  aquí, bueno,#  ¿cómo decirlo?"
+            message[5] = "* Nadie se dará cuenta#  de que faltan algunos monstruos#  y sobra un poco de polvo."
+            message[6] = "* Todas tus acciones#  hasta ahora, están#  como selladas."
+            message[7] = "* Nuestro pequeño secreto."
+            message[8] = "* Así que, si quieres,#  puedes cambiarlo todo#  ahora mismo."
+            message[9] = "* Corre por el resto#  del Subsuelo como si nada#  hubiera pasado."
+            message[10] = "* Sólo recuerda, matar a#  algunos residentes solitarios#  de las ruinas era una cosa."
+            message[11] = "* Pero ahora estás fuera#  amigo."
+            message[12] = "* Ya no se puede borrar,#  así que piénsalo bien."
             prt[0] = 348
             prt[1] = 348
             prt[2] = 347
@@ -149,8 +149,8 @@ else if (global.route == 3)
         with (msg)
         {
             sndfnt = 96
-            message[0] = "* Or don't, 'cause that#  sounds boring."
-            message[1] = "* Whatever you pick, I'm#  rootin' for ya, pal!"
+            message[0] = "* O no, porque eso#  suena aburrido."
+            message[1] = "* Elijas lo que elijas,#  ¡te apoyo, amigo!"
             prt[0] = 349
             prt[1] = 348
         }
