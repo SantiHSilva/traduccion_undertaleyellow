@@ -14,11 +14,11 @@ if (global.route != 3)
             {
                 portrait = 0
                 sndfnt = 99
-                message[0] = "* (It's a gramophone.)"
-                message[1] = "* (It looks pretty old.)"
-                message[2] = "* (Maybe it's a grandmaphone.)"
-                message[3] = "* (A record labeled \"Dalv Organ#  Demo\" is queued up to play.)"
-                message[4] = "* (Play it?)"
+                message[0] = "* (Es un gramófono.)"
+                message[1] = "* (Parece bastante viejo.)"
+                message[2] = "* (Tal vez sea un abuelitáfono.)"
+                message[3] = "* (Un disco llamado #  \"Prueba de Organo de Dalv\" está en cola para escuchar.)"
+                message[4] = "* (¿Escuchar?)"
                 if (outcome >= 1 && outcome <= 2 && message_current == 4)
                 {
                     if (outcome == 1)
@@ -29,7 +29,7 @@ if (global.route != 3)
                 if ((message_current + 1) == 4)
                 {
                     ch_msg = 4
-                    ch[1] = "Yes"
+                    ch[1] = "Sí"
                     ch[2] = "No"
                 }
             }
@@ -78,8 +78,8 @@ if (global.route != 3)
                     instance_create(0, 0, obj_dialoguebox_dummy)
                 portrait = 0
                 sndfnt = 99
-                message[0] = "* (The record must be damaged or#  broken.)"
-                message[1] = "* (Stop this wretched music?)"
+                message[0] = "* (El disco debe estar dañado o# roto.)"
+                message[1] = "* (¿Poner fin a esta#  música miserable?)"
                 if (outcome >= 1 && outcome <= 2 && message_current == 1)
                 {
                     if (outcome == 1)
@@ -90,7 +90,7 @@ if (global.route != 3)
                 if ((message_current + 1) == 1)
                 {
                     ch_msg = 1
-                    ch[1] = "Yes"
+                    ch[1] = "Sí"
                     ch[2] = "No"
                 }
             }
@@ -102,8 +102,8 @@ if (global.route != 3)
             {
                 portrait = 0
                 sndfnt = 99
-                message[0] = "* (You turn off the gramophone.)"
-                message[1] = "* (Maybe it's a work in#  progress.)"
+                message[0] = "* (Apagas el gramófono.)"
+                message[1] = "* (Tal vez sea un trabajo en#  progreso.)"
                 choice = 0
             }
             audio_sound_gain(mus_dalventertainer, 0, 1000)
@@ -148,8 +148,8 @@ else
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (An old gramophone.)"
-            message[1] = "* (You spare yourself by not#  playing the record on it.)"
+            message[0] = "* (Un viejo gramófono.)"
+            message[1] = "* (Te ahorras no#  ponerle el disco.)"
         }
         waiter++
     }

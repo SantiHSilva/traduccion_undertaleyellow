@@ -20,7 +20,7 @@ if (waiter == 1)
         message[1] = "* (A few G's from a past tip#  catch your eye.)"
         message[2] = "* (Take it?)"
         ch_msg = 2
-        ch[1] = "Yes"
+        ch[1] = "Sí"
         ch[2] = "No"
         if (outcome == 1)
         {

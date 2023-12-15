@@ -23,7 +23,7 @@ if (global.flag[17] == 1)
                     instance_create(0, 0, obj_dialoguebox_dummy)
                 portrait = 0
                 sndfnt = 99
-                message[0] = "* (It's a flower pot full of#  dirt.)"
+                message[0] = "* (Es una maceta llena de#  tierra.)"
             }
             else
             {
@@ -53,10 +53,10 @@ if (global.flag[17] == 1)
         {
             portrait = 1
             sndfnt = 100
-            message[0] = "* That's my turnip plant!"
-            message[1] = "* He should be sprouting#  up any day now!"
-            message[2] = "* ... He's really taking#  his time..."
-            message[3] = "* But I don't rush him."
+            message[0] = "* ¡Esa es mi planta de#  nabos!"
+            message[1] = "* ¡Debería estar brotando#  en cualquier momento!"
+            message[2] = "* ... Realmente se está#  tomando su tiempo..."
+            message[3] = "* Pero no lo apresuro."
             prt[0] = 1776
             prt[1] = 1776
             prt[2] = 1780
@@ -91,7 +91,7 @@ else if (global.flag[17] != 1 && global.route != 3)
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (It's a flower pot full of#  dirt.)"
+            message[0] = "* (Es una maceta llena de#  tierra.)"
             obj_flower_pot.waiter = 2
         }
     }
@@ -113,7 +113,7 @@ else if (global.route == 3)
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (Dirt.)"
+            message[0] = "* (Tierra.)"
             obj_flower_pot.waiter = 2
         }
     }

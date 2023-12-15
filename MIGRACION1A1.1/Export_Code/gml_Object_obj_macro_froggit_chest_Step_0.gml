@@ -15,7 +15,7 @@ if (waiter == 1)
         message[1] = "* (You found a Golden Bandana!)"
         message[2] = "* (Take it?)"
         ch_msg = 2
-        ch[1] = "Yes"
+        ch[1] = "Sí"
         ch[2] = "No"
         if (message_current == 1)
             other.image_index = 1

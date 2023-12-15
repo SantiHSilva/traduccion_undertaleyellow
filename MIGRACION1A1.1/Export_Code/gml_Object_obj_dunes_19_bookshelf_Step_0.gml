@@ -12,7 +12,7 @@ if interacted_with
         with (msg)
         {
             ch_msg = 2
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             message[0] = "* (The shelf is lined with#  several books, some educational,#  some recreational.)"
             message[1] = "* (A book titled \"Gemstone Fever\"#  catches your eye.)"
@@ -44,7 +44,7 @@ if interacted_with
             message[1] = "* Yet only four types have been#  discovered."
             message[2] = "* The Swelterstone - Hue, Yellow"
             message_col[2][0] = "  The Swelterstone              "
-            message[3] = "* This stone emits immense heat,#  sum depending on its size."
+            message[3] = "* This stone emmits immense heat,#  sum depending on its size."
             message[4] = "* It is also the brightest stone,#  frequently used to illuminate#  various Underground locations."
             message[5] = "* The Glacialstone - Hue, Blue"
             message_col[5][1] = "  The Glacialstone"

@@ -53,7 +53,7 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Talk"
+            battle_menu_option_string = "* Hablar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "ms mettaton")
@@ -63,21 +63,21 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
             {
                 battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
                 battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-                battle_menu_option_string = "* Whoops!"
+                battle_menu_option_string = "* Oops!"
                 script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
             }
             else if (turns_passed == 4)
             {
                 battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
                 battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-                battle_menu_option_string = "* Charm"
+                battle_menu_option_string = "* Cautivar"
                 script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
             }
             else if (turns_passed > 4)
             {
                 battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
                 battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-                battle_menu_option_string = "* Cry"
+                battle_menu_option_string = "* Llorar"
                 script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
             }
         }
@@ -88,140 +88,140 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Compliment"
+            battle_menu_option_string = "* Elogiar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "flier a" || battle_enemy_name == "flier b" || battle_enemy_name == "flier c")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Comfort"
+            battle_menu_option_string = "* Consolar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "penilla a" || battle_enemy_name == "penilla b")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Compliment"
+            battle_menu_option_string = "* Elogiar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "sweet corn a" || battle_enemy_name == "sweet corn b")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Lick"
+            battle_menu_option_string = "* Lamer"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "crispy scroll a")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Transform"
+            battle_menu_option_string = "* Transformar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "rorrim a")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Adjust"
+            battle_menu_option_string = "* Ajustar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "decibat")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Talk"
+            battle_menu_option_string = "* Hablar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "dalv")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Talk"
+            battle_menu_option_string = "* Hablar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "micro froggit")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Compliment"
+            battle_menu_option_string = "* Elogiar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "insomnitot a" || battle_enemy_name == "insomnitot b")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Sing"
+            battle_menu_option_string = "* Cantar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "know cone a" || battle_enemy_name == "know cone b")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Encourage"
+            battle_menu_option_string = "* Alentar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "frostermit a")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Inspect"
+            battle_menu_option_string = "* Inspeccionar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "trihecta")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Push"
+            battle_menu_option_string = "* Empujar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "tri" || battle_enemy_name == "hec" || battle_enemy_name == "ta")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Laugh"
+            battle_menu_option_string = "* Reír"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "martlet pacifist")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Rush"
+            battle_menu_option_string = "* Apurar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "martlet genocide")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Apologize"
+            battle_menu_option_string = "* Disculparse"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "dunebud a" || battle_enemy_name == "dunebud b")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Pat"
+            battle_menu_option_string = "* Palmadita"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "cactony a")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Touch"
+            battle_menu_option_string = "* Tocar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "slither a" || battle_enemy_name == "slither b")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Challenge"
+            battle_menu_option_string = "* Desafiar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "bowll a")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Clean"
+            battle_menu_option_string = "* Limpiar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "el bailador")
@@ -229,9 +229,9 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
             if (global.route != 3)
-                battle_menu_option_string = "* Twirl"
+                battle_menu_option_string = "* Girar"
             else
-                battle_menu_option_string = "* Stare"
+                battle_menu_option_string = "* Mirar fijamente"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "flower girls")
@@ -241,13 +241,13 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
             switch global.dunes_flag[31]
             {
                 case 1:
-                    battle_menu_option_string = "* Flatter"
+                    battle_menu_option_string = "* Adular"
                     break
                 case 2:
-                    battle_menu_option_string = "* Accept"
+                    battle_menu_option_string = "* Aceptar"
                     break
                 case 3:
-                    battle_menu_option_string = "* Flatter"
+                    battle_menu_option_string = "* Adular"
                     break
             }
 
@@ -257,14 +257,14 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Talk"
+            battle_menu_option_string = "* Hablar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "ceroba genocide")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Resist"
+            battle_menu_option_string = "* Resistir"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "starlo")
@@ -273,21 +273,21 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
             {
                 battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
                 battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-                battle_menu_option_string = "* Struggle"
+                battle_menu_option_string = "* Forcejear"
                 script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
             }
             else if (global.turns_passed >= 18)
             {
                 battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
                 battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-                battle_menu_option_string = "* Surrender"
+                battle_menu_option_string = "* Rendirse"
                 script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
             }
             else
             {
                 battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
                 battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-                battle_menu_option_string = "* Spin"
+                battle_menu_option_string = "* Dar Vueltas"
                 script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
             }
         }
@@ -295,21 +295,21 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Steady"
+            battle_menu_option_string = "* Estabilizar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "jandroid a" || battle_enemy_name == "jandroid b")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Question"
+            battle_menu_option_string = "* Questionar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "tellyvis a")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Watch"
+            battle_menu_option_string = "* Mirar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "goosic a" || battle_enemy_name == "goosic b")
@@ -326,13 +326,13 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
             switch global.enemy_mode
             {
                 case 0:
-                    battle_menu_option_string = "* Crack"
+                    battle_menu_option_string = "* Partir"
                     break
                 case 1:
-                    battle_menu_option_string = "* Boil"
+                    battle_menu_option_string = "* Hervir"
                     break
                 case 2:
-                    battle_menu_option_string = "* Refrigerate"
+                    battle_menu_option_string = "* Refrigerar"
                     break
             }
 
@@ -346,7 +346,7 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
             if (global.action_1_important == 1)
             {
                 if (global.route == 1)
-                    battle_menu_option_string = "* Compliment"
+                    battle_menu_option_string = "* Elogiar"
                 else if (global.route == 2)
                     battle_menu_option_string = "* Plan B"
             }
@@ -357,7 +357,7 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
             if (global.turns_passed == 0)
-                battle_menu_option_string = "* Compliment"
+                battle_menu_option_string = "* Elogiar"
             else
                 battle_menu_option_string = "* Frog"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
@@ -366,14 +366,14 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Push"
+            battle_menu_option_string = "* Empujar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "guardener")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Gather"
+            battle_menu_option_string = "* Recolectar"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "flowey")
@@ -383,19 +383,19 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
             switch global.flowey_act[0]
             {
                 case 0:
-                    battle_menu_option_string = "* Forget"
+                    battle_menu_option_string = "* Olvidar"
                     break
                 case 1:
-                    battle_menu_option_string = "* Scream"
+                    battle_menu_option_string = "* Gritar"
                     break
                 case 2:
-                    battle_menu_option_string = "* Suffocate"
+                    battle_menu_option_string = "* Sofocar"
                     break
                 case 3:
-                    battle_menu_option_string = "* Hide"
+                    battle_menu_option_string = "* Esconderse"
                     break
                 case 4:
-                    battle_menu_option_string = "* Persist"
+                    battle_menu_option_string = "* Persistir"
                     break
             }
 
@@ -408,10 +408,10 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
             switch global.hotland_flag[2]
             {
                 case 0:
-                    battle_menu_option_string = "* Negotiate"
+                    battle_menu_option_string = "* Negociar"
                     break
                 default:
-                    battle_menu_option_string = "* Hope"
+                    battle_menu_option_string = "* Esperanzarse"
                     break
             }
 
@@ -421,9 +421,9 @@ function scr_battle_core_directory_action_1_name(argument0, argument1) //gml_Scr
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Remind"
+            battle_menu_option_string = "* Recordar"
             if (global.hotland_flag[9] >= 2)
-                battle_menu_option_string = "* Focus"
+                battle_menu_option_string = "* Concentrarse"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
     }

@@ -13,8 +13,8 @@ if (global.route != 3)
                 instance_create(0, 0, obj_dialoguebox_dummy)
             portrait = 0
             sndfnt = 99
-            message[0] = "* (A fine oak chest.)"
-            message[1] = "* (Open it?)"
+            message[0] = "* (Un cofre de roble fino.)"
+            message[1] = "* (¿Abrirlo?)"
             if (outcome == 1 && message_current == 1)
                 obj_dalvsroom_chest.waiter = 2
             else if (outcome == 2 && message_current == 1)
@@ -22,7 +22,7 @@ if (global.route != 3)
             if ((message_current + 1) == 1)
             {
                 ch_msg = 1
-                ch[1] = "Yes"
+                ch[1] = "Sí"
                 ch[2] = "No"
             }
         }
@@ -38,13 +38,13 @@ if (global.route != 3)
             sndfnt = 99
             if (global.interaction_count_dalvsroom_chest == 0)
             {
-                message[0] = "* (Wow! It's lined with high#  quality satin!)"
+                message[0] = "* (Vaya! ¡Está cubierto#  de satén de alta calidad!)"
                 global.interaction_count_dalvsroom_chest++
             }
             else
             {
-                message[0] = "* (You check again.)"
-                message[1] = "* (It's still a cool chest.)"
+                message[0] = "* (Vuelves a comprobarlo.)"
+                message[1] = "* (Sigue siendo un cofre genial.)"
             }
             with (obj_dalvsroom_chest)
                 waiter++
@@ -70,7 +70,7 @@ else
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (A fine oak chest.)"
+            message[0] = "* (Un cofre de roble fino.)"
         }
         waiter++
     }

@@ -43,7 +43,7 @@ if (waiter == 3)
             portrait = 1
             sndfnt = 100
             message[0] = "* ..."
-            message[1] = "* Let's look at something#  else, okay?"
+            message[1] = "* Veamos otra cosa,#  ¿de acuerdo?"
             prt[0] = 1763
             prt[1] = 1780
         }

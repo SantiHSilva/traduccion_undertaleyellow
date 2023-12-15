@@ -5,16 +5,16 @@ function scr_battle_core_directory_flavor_text_enemy_1_action_3() //gml_Script_s
     if (game_mode == "customs")
     {
         if (battle_enemy_name == "craniex")
-            message[0] = "* Craniex seems to be getting#  tired of your jokes."
+            message[0] = "* Craniex parece estar#  cansÃ¡ndose de tus chistes."
     }
     else if (game_mode == "yellow")
     {
         if (battle_enemy_name == "insomnitot solo")
-            message[0] = "* Insomnitot struggles to#  maintain consciousness."
+            message[0] = "* A Insomnitot se le dificulta#  mantenerse consciente."
         else if (battle_enemy_name == "insomnitot duo")
-            message[0] = "* Insomnitot struggles to#  maintain consciousness."
+            message[0] = "* A Insomnitot se le dificulta#  mantenerse consciente."
         else if (battle_enemy_name == "bowll solo")
-            message[0] = "* Bowll is beginning to put the#  pieces together."
+            message[0] = "* Bowll empiaza a juntar las#  piezas."
     }
 }
 

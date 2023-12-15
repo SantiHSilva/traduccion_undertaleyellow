@@ -8,9 +8,9 @@ function scr_battle_core_directory_flavor_text_enemy_1_special_2() //gml_Script_
     else if (game_mode == "yellow")
     {
         if (battle_enemy_name == "martlet pacifist")
-            message[0] = "* Martlet is searching her guide#  book for first-aid#  procedures."
+            message[0] = "* Martlet está buscando en su#  guía procedimientos de#  primeros auxilios."
         else if (battle_enemy_name == "axis")
-            message[0] = "* Axis feels something..."
+            message[0] = "* Axis está sientendo algo..."
     }
 }
 

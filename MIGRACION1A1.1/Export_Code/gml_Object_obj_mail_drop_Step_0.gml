@@ -13,7 +13,7 @@ with (msg)
     }
     message[0] = "* Are you sure you want to#  drop the mail?"
     ch_msg = 0
-    ch[1] = "Yes"
+    ch[1] = "Sí"
     ch[2] = "No"
     if (outcome == 1)
     {

@@ -118,7 +118,7 @@ if (waiter == 1)
         message[7] = "* Of course! I know your type!"
         message[8] = "* So, you want this here#  beverage?"
         ch_msg = 8
-        ch[1] = "Yes"
+        ch[1] = "Sí"
         ch[2] = "No"
         if (outcome == 1 && message_current == 8)
         {

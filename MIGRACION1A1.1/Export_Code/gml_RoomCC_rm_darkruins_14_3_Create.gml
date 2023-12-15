@@ -1,1 +1,1 @@
-message = "* What I remembered...#* It seems is now forgotten..."
+message = "* Lo que recordaba...#* Parece que ahora está#  olvidado..."

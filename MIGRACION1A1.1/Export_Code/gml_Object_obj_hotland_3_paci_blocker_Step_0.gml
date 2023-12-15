@@ -20,7 +20,7 @@ switch scene
             message[1] = "* (Continue?)"
             ch_msg = 1
             ch[1] = "Turn back"
-            ch[2] = "Continue"
+            ch[2] = "Continuar"
             if (outcome == 2)
             {
                 instance_destroy(other)

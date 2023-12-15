@@ -23,7 +23,7 @@ if (waiter == 1)
             message[0] = "* (Some food lies within the#  robotic husk.)"
         message[1] = "* (Take it?)"
         ch_msg = 1
-        ch[1] = "Yes"
+        ch[1] = "Sí"
         ch[2] = "No"
         if (outcome == 1)
         {
