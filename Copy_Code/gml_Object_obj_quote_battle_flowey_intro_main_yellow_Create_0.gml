@@ -1,0 +1,22 @@
+message[0] = "¿Ves ese corazón? Esa#es tu ALMA. ¡La#culminación de#tu ser!"
+message[1] = "Tu LV representa#tu AMOR... es..."
+message[2] = "Je... Estoy seguro#de que no tendrás que#preocuparte por eso."
+message[3] = "En el subsuelo,#los monstruos pueden intentar#¡atacarte!"
+message[4] = "Si ves balas#como estas..."
+message[5] = "¡Tienes que evitarlos#a toda costa!"
+message[6] = "¡Intenta esquivar mis#balas ahora! ¡Aquí#vienen!"
+portrait[0] = 1934
+portrait[1] = 1936
+portrait[2] = 1945
+portrait[3] = 1934
+portrait[4] = 1936
+portrait[5] = 1934
+portrait[6] = 1934
+message_end = 6
+message_current = 0
+message_draw = ""
+increase = global.text_speed
+characters = 0
+hold = 0
+message_length = string_length(message[message_current])
+script_execute(gml_Script_scr_generate_text_counters)
