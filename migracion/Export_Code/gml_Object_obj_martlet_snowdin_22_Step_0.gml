@@ -18,7 +18,7 @@ if (scene == 1)
             color = 1
             col_modif[0] = 255
             ch_msg = 11
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             message[0] = "* If my map and memory#  serve, this river should#  lead directly to Hotland."
             message_col[0][0] = "                      #                          #                   Hotland "
@@ -53,7 +53,7 @@ if (scene == 1)
         else if (global.snowdin_flag[14] == 3)
         {
             ch_msg = 3
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             message[0] = "* I suppose another#  \"sorry\" isn't gonna#  cut it?"
             message[1] = "* Can you trust me to get#  you to ASGORE safely?"
@@ -71,7 +71,7 @@ if (scene == 1)
         else if (global.snowdin_flag[14] == 4)
         {
             ch_msg = 0
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             message[0] = "* Shall we be off then?"
             prt[0] = 328
@@ -97,7 +97,7 @@ else if (scene == 2)
     with (msg)
     {
         ch_msg = 10
-        ch[1] = "Yes"
+        ch[1] = "Sí"
         ch[2] = "No"
         message[0] = "* Yay! Don't worry, your#  trust is in good#  hands!"
         message[1] = "* Or wings, as the case#  may be!"

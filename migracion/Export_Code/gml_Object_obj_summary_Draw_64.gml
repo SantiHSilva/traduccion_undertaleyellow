@@ -16,7 +16,7 @@ if (global.snowdin_flag[15] != 1)
     fullname = "Gun-Hat"
 var slurpy = "No..."
 if (global.snowdin_flag[3] == 2)
-    slurpy = "Yes"
+    slurpy = "Sí"
 var enemies_killed = 0
 for (var i = 1; i < array_length_1d(global.kill_number); i++)
     enemies_killed += (20 - global.kill_number[i])

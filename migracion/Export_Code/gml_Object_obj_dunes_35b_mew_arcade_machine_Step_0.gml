@@ -9,7 +9,7 @@ if active
     {
         message[0] = "* (Spend 3G to play?)"
         ch_msg = 0
-        ch[1] = "Yes"
+        ch[1] = "Sí"
         ch[2] = "No"
         if (outcome == 1)
         {

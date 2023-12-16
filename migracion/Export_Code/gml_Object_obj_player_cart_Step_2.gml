@@ -11,7 +11,7 @@ if (waiter == 1)
         message[0] = "* (An empty cart sits#  on the rails.)"
         message[1] = "* (Hop in?)"
         ch_msg = 1
-        ch[1] = "Yes"
+        ch[1] = "Sí"
         ch[2] = "No"
         if (outcome == 1)
         {

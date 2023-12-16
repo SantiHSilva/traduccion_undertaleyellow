@@ -9,8 +9,8 @@ if (global.route != 3)
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (It's an organ.)"
-            message[1] = "* (The musical kind.)"
+            message[0] = "* (Es un órgano.)"
+            message[1] = "* (De tipo musical.)"
         }
         waiter++
     }
@@ -33,8 +33,8 @@ else
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (An organ.)"
-            message[1] = "* (It seems horribly out of#  tune.)"
+            message[0] = "* (Es un órgano.)"
+            message[1] = "* (Parece horriblemente desafinado.)"
         }
         waiter++
     }

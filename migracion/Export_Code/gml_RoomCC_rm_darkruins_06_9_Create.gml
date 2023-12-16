@@ -1,3 +1,3 @@
-message[0] = "* Stuck? Press this for a do-over."
-message[1] = "* Or don't."
+message[0] = "* ¿Atascado? Presiona#  aquí para repetirlo."
+message[1] = "* O no."
 target_direction = 90

@@ -1,2 +1,2 @@
-message[0] = "* (The remains of your recent#  chaotic escapade.)"
-message[1] = "* (You hope Ava gets well soon,#  poor thing.)"
+message[0] = "* (Los restos de su reciente#  escapada caótica.)"
+message[1] = "* (Esperas que Ava se#  recupere pronto, pobrecita.)"

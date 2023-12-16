@@ -1,1 +1,1 @@
-message = "* So then nevermind I guess."
+message = "* Así que no importa, supongo."

@@ -22,7 +22,7 @@ if (scene == 1)
             message[1] = "* (Take it?)"
         }
         ch_msg = 1
-        ch[1] = "Yes"
+        ch[1] = "Sí"
         ch[2] = "No"
         if (outcome == 1)
         {

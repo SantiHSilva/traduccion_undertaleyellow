@@ -80,7 +80,7 @@ if (waiter == 1)
                     message[0] = "* (You take out the matches.)"
                     message[1] = "* Are those matches? Can I have#  them?"
                     ch_msg = 1
-                    ch[1] = "Yes"
+                    ch[1] = "Sí"
                     ch[2] = "No"
                     if (message_current == 0 || message_current == 6)
                         other.is_talking = 0

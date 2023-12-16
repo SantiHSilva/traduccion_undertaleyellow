@@ -8,7 +8,7 @@ with (other)
     {
         if (p[1] == 1)
             draw_set_color(c_yellow)
-        draw_text((__view_get((0 << 0), 0) + 85), 120, string_hash_to_newline("Continue"))
+        draw_text((__view_get((0 << 0), 0) + 85), 120, string_hash_to_newline("Continuar"))
         draw_set_color(c_white)
         if (p[2] == 1)
             draw_set_color(c_yellow)

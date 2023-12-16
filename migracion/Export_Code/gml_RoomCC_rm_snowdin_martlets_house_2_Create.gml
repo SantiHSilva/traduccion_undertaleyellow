@@ -1,2 +1,2 @@
-message[0] = "* (A well-used tool bench.)"
-message[1] = "* (You can smell the sawdust#  that covers the surface.)"
+message[0] = "* (Un banco de herramientas#  bien usado.)"
+message[1] = "* (Se puede oler el polvo#  de la sierra que cubre#  la superficie.)"

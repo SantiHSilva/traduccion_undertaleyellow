@@ -9,8 +9,8 @@ switch scene
         with (msg)
         {
             talker[0] = actor_toriel
-            message[0] = "* In this room, you will#  need to trigger several#  switches."
-            message[1] = "* Do not worry, I have#  labelled the ones that#  you need to flip."
+            message[0] = "* En esta sala, deberás#  de activar varios#  interruptores."
+            message[1] = "* No te preocupes, he#  marcado los que#  necesitas activar."
             prt[0] = 343
             prt[1] = 343
         }
@@ -30,8 +30,8 @@ switch scene
             with (msg)
             {
                 talker[0] = actor_toriel
-                message[0] = "* Oh, do you need some#  help?"
-                message[1] = "* Please flip the switch#  on the north wall."
+                message[0] = "* Oh, ¿Necesitas#  ayuda?"
+                message[1] = "* Por favor, activa#  el interruptor en la#  pared norte."
                 prt[0] = 340
                 prt[1] = 343
             }
@@ -52,7 +52,7 @@ switch scene
         with (msg)
         {
             talker[0] = actor_toriel
-            message[0] = "* Splendid! I am proud#  of you my child. "
+            message[0] = "* ¡Magnífico! Estoy#  orgulloso de ti#  mi niño."
             prt[0] = 343
         }
         actor_toriel.npc_direction = "up"
@@ -68,8 +68,8 @@ switch scene
             with (msg)
             {
                 talker[0] = actor_toriel
-                message[0] = "* Go on, I believe in#  you!"
-                message[1] = "* Only one more switch#  remains."
+                message[0] = "* Vamos, ¡yo creo en ti!"
+                message[1] = "* Sólo queda un#  interruptor más."
                 prt[0] = 343
                 prt[1] = 343
             }
@@ -92,8 +92,8 @@ switch scene
                 with (msg)
                 {
                     talker[0] = actor_toriel
-                    message[0] = "* Oh no, my child! That#  is the wrong switch."
-                    message[1] = "* I have labelled the one#  you need to flip."
+                    message[0] = "* ¡Oh no, mi niño! Ese#  es el interruptor#  equivocado."
+                    message[1] = "* Yo te señale#  el que necesitas activar."
                     prt[0] = 340
                     prt[1] = 343
                 }
@@ -107,8 +107,8 @@ switch scene
                 with (msg)
                 {
                     talker[0] = actor_toriel
-                    message[0] = "* That switch has already#  been flipped."
-                    message[1] = "* Why don't you come back#  across the bridge?"
+                    message[0] = "* Ese interruptor#  ya esta activado."
+                    message[1] = "* ¿Por qué no vuelvas#  a cruzar el puente?"
                     prt[0] = 340
                     prt[1] = 343
                 }
@@ -126,9 +126,9 @@ switch scene
         with (msg)
         {
             talker[0] = actor_toriel
-            message[0] = "* ...It should have opened#  by now..."
-            message[1] = "* I am sure I labelled the#  correct lever..."
-            message[2] = "* Ah, do not worry, little#  one! Try flipping the#  other switch."
+            message[0] = "* ...Ya debería#  haberse abierto..."
+            message[1] = "* Estoy segura de haber#  señalado el interruptor#  correcto..."
+            message[2] = "* ¡Ah, no te preocupes,#  pequeño! Intenta activar#  el otro interruptor."
             prt[0] = 340
             prt[1] = 340
             prt[2] = 343
@@ -145,8 +145,8 @@ switch scene
             with (msg)
             {
                 talker[0] = actor_toriel
-                message[0] = "* I am unsure as to why#  this switch is not#  working..."
-                message[1] = "* Please, try flipping#  the other switch."
+                message[0] = "* No estoy seguro de#  por qué ese interruptor#  no funciona..."
+                message[1] = "* Por favor, intenta #  activar el otro#  interruptor."
                 prt[0] = 340
                 prt[1] = 343
             }
@@ -169,9 +169,9 @@ switch scene
                 with (msg)
                 {
                     talker[0] = actor_toriel
-                    message[0] = "* I must have labelled the#  wrong switch."
-                    message[1] = "* I apologize if I have#  confused you, my child."
-                    message[2] = "* Please flip the switch#  that is not labelled."
+                    message[0] = "* Debo de haber marcado#  mal el interruptor."
+                    message[1] = "* Me disculpo si te he#  confundido, mi niño."
+                    message[2] = "* Por favor,#  activa el interruptor#  no marcado."
                     prt[0] = 340
                     prt[1] = 340
                     prt[2] = 343
@@ -187,8 +187,8 @@ switch scene
                 {
                     talker[0] = actor_toriel
                     message[0] = "* Um..."
-                    message[1] = "* That is not what I#  meant."
-                    message[2] = "* You need to flip the#  switch you have not#  flipped yet."
+                    message[1] = "* No me referia a eso."
+                    message[2] = "* Tienes que activar#  el interruptor que#  no has activado."
                     prt[0] = 340
                     prt[1] = 340
                     prt[2] = 343

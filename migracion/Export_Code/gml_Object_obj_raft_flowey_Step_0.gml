@@ -15,7 +15,7 @@ switch scene
         {
             message[0] = "* (Get on?)"
             ch_msg = 0
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             if (outcome == 1)
             {

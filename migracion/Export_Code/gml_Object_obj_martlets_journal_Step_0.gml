@@ -12,7 +12,7 @@ if interacted_with
         with (msg)
         {
             ch_msg = 2
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             message[0] = "* (The leatherbound book's title#  reads: Martlet's Day to Day!)"
             message[1] = "* (You flip to an early page and#  see an entry.)"
@@ -48,7 +48,7 @@ if interacted_with
             sndfnt_array[9] = 391
             message[9] = "* (Continue?)"
             ch_msg = 9
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             if (outcome == 1)
             {
@@ -87,7 +87,7 @@ if interacted_with
             sndfnt_array[9] = 391
             message[9] = "* (Continue?)"
             ch_msg = 9
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             if (outcome == 1)
             {
@@ -134,7 +134,7 @@ if interacted_with
             sndfnt_array[17] = 391
             message[17] = "* (Continue?)"
             ch_msg = 17
-            ch[1] = "Yes"
+            ch[1] = "Sí"
             ch[2] = "No"
             if (outcome == 1)
             {

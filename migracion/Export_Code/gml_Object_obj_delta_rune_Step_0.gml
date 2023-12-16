@@ -9,23 +9,23 @@ if (waiter == 1)
         sndfnt = 99
         if (global.route == 3)
         {
-            message[0] = "* (A large rock with a symbol#  carved into it.)"
+            message[0] = "* (Una gran roca con un#  símbolo grabado en ella)."
             other.waiter++
         }
-        message[0] = "* (There appears to be something#  interesting on this rock.)"
-        message[1] = "* (Touch it?)"
-        ch[1] = "Yes"
+        message[0] = "* (Parece que hay algo#  interesante en esta roca.)"
+        message[1] = "* (¿Tocarlo?)"
+        ch[1] = "Sí"
         ch[2] = "No"
         ch_msg = 1
         if (outcome == 1 && message_current == 1)
         {
-            message[2] = "* (It was just some dirt in the#  snow.)"
-            message[3] = "* (You wipe off your hand on a#  suspicious carving in the rock#  face.)"
+            message[2] = "* (Era sólo un poco de#  suciedad en la nieve.)"
+            message[3] = "* (Te limpias la mano#  en una sospechosa marca#  en la pared de roca.)"
             other.waiter++
         }
         else if (outcome == 2 && message_current == 1)
         {
-            message[2] = "* (It takes considerable#  self-discipline, but you ignore#  the interesting rock.)"
+            message[2] = "* (Requiere una autodisciplina#  considerable, pero ignoras#  la roca interesante.)"
             other.waiter++
         }
     }

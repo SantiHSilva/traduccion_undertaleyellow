@@ -1,2 +1,2 @@
 message_length = 1
-message[0] = "* 10 steps to the West - 2nd Sign"
+message[0] = "* 10 pasos hacia el Oeste - 2a Señal"
