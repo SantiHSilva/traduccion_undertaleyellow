@@ -18,8 +18,8 @@ if (keyboard_multicheck_pressed(0) && scr_interact() == 1 && waiter == 0 && (!in
             sndfnt = 99
             portrait = 0
             if (global.route == 3)
-                message[0] = "* (It's a tree. Nothing special.)"
-            message[0] = "* (An old and fragile tree.)"
+                message[0] = "* (Es un árbol.#  Nada especial.)"
+            message[0] = "* (Un árbol viejo y frágil.)"
         }
         waiter = 2
     }
@@ -46,7 +46,7 @@ if (waiter == 3)
     {
         sndfnt = 99
         portrait = 0
-        message[0] = "* (Take the Ice Pellets?)"
+        message[0] = "* (¿Tomar los Ice Pellets?)"
         ch_msg = 0
         ch[1] = "Sí"
         ch[2] = "No"
@@ -55,13 +55,13 @@ if (waiter == 3)
             if scr_item("Ice Pellets")
             {
                 global.snowdin_flag[4] = 2
-                message[1] = "* (Obtained Ice Pellets!)"
+                message[1] = "* (¡Obtuviste Ice Pellets!)"
                 other.sprite_index = spr_crystal_tree_no_pellets_snowdin_yellow
             }
             else
             {
                 audio_play_sound(snd_fail, 10, false)
-                message[1] = "* (Not enough space.)"
+                message[1] = "* (No hay espacio#  suficiente.)"
             }
             other.waiter = 2
         }

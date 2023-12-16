@@ -9,21 +9,21 @@ if (scr_interact() && keyboard_multicheck_pressed(0))
         {
             with (msg)
             {
-                message[0] = "* I thaw ethweone dwunning away#  throm thomething."
-                message[1] = "* I thwant to thollow them...#  but I can't."
-                message[2] = "* I'm scayed..."
+                message[0] = "* Yo descongelo a los que huyen#  de algo."
+                message[1] = "* Quiero seguirlos...#  pero no puedo."
+                message[2] = "* Estoy asustado..."
             }
         }
         with (msg)
         {
             portrait = 0
-            message[0] = "* Hey! You!"
-            message[1] = "* Can you hep ne ofth thith pole?"
-            message[2] = "* I'ff been hewe fo two howas now."
-            message[3] = "* Thwee dogs came up and#  dauwd me to lick it."
-            message[4] = "* Due to the cold weatha,#  I'm now thtuck!"
-            message[5] = "* Ny nom told me to be back#  in dime for lunth too."
-            message[6] = "* Pweasth hep."
+            message[0] = "* ¡Oye! ¡Tú!"
+            message[1] = "* ¿Puedes ayudarme con esto?"
+            message[2] = "* He estado afquí por dos howas."
+            message[3] = "* Trefs perros se acercaron#  y me ofbligaron a lamerlo."
+            message[4] = "* Debido al frdío,#  ¡ahora estoy aftascado!"
+            message[5] = "* Ni nadre también me#  dijo que volviera a diempo#  para cormer."
+            message[6] = "* Pwo fasvort ayuame."
             other.slurpy_menu_open = 1
             global.snowdin_flag[3] = 1
         }
@@ -65,9 +65,9 @@ if (waiter == 5)
     {
         if (message_current == 1)
             other.talk = 1
-        message[1] = "* Hey, hwat er you, crathy?"
-        message[2] = "* Thath thin iv thteaming!"
-        message[3] = "* I need thomething hot, but not#  THAT hot!"
+        message[1] = "* Oye, ¿ehwat lotco?"
+        message[2] = "* ¡Efto eh mu chatiemte!"
+        message[3] = "* Necesito algo caliente,#  ¡pero no TAN caliente!\n"
     }
     if (!global.dialogue_open)
     {
@@ -93,14 +93,14 @@ else if (timer != -1)
         with (msg)
         {
             portrait = 0
-            message[0] = "* At last! I am liberated!"
-            message[1] = "* I cannot thank you enough!#  You are a wonderful samaritan!"
-            message[2] = "* Here, a token of my gratitude."
-            message[3] = "* (You got a Silver Scarf.)"
-            message[4] = "* Knitted by my auntie with#  abundant passion!"
-            message[5] = "* May it warm your skin, and#  your SOUL good fellow!"
-            message[6] = "* Now, I must get home post-haste!#  Mother is bound to be#  perturbed already!"
-            message[7] = "* Farewell!"
+            message[0] = "* ¡Por fin!#  Me he liberado."
+            message[1] = "* ¡No puedo agradecértelo lo suficiente!#  ¡Eres un samaritano maravilloso!"
+            message[2] = "* Toma, una muestra de#  mi gratitud."
+            message[3] = "* (Obtuviste un Silver Scarf.)"
+            message[4] = "* ¡Tejido por mi tía con#  abundante pasión!"
+            message[5] = "* Que te caliente la piel#  y el ALMA, buen amigo."
+            message[6] = "* ¡Tengo que volver a casa#  cuanto antes! ¡Mamá ya#  debe estar preocupada!"
+            message[7] = "* ¡Hasta la vista!"
             if (message_current == 3)
             {
                 if (!(scr_item_exists_check("Silver Scarf")))
@@ -139,17 +139,17 @@ if (global.item_used_overworld != undefined)
         switch global.item_used_overworld
         {
             case "Lukewarm Coffee":
-                message[0] = "* (You pour the warm coffee#  onto the pole. The ice starts#  to melt.)"
+                message[0] = "* (Viertes el café caliente#  en el palo. El hielo#  empieza a derretirse.)"
                 other.waiter = 1
                 scr_item_remove("Lukewarm Coffee")
                 break
             case "Hndw Coffee":
                 other.talk = 0
-                message[0] = "* (You take out the cup of#  coffee.)"
+                message[0] = "* (Sacas la taza de#  café.)"
                 other.waiter = 5
                 break
             default:
-                message[0] = "* Naybe thome waum cawfee will#  fwee ny poor tongue."
+                message[0] = "* Nal vez efe café waliente#  libwere ni pobre lengua."
                 other.talk = 1
                 other.waiter = 0
                 global.cutscene = false

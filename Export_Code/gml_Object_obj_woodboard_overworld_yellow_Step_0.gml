@@ -10,9 +10,9 @@ if (waiter == 1)
         portrait = 0
         sndfnt = 99
         if (global.route == 3)
-            message[0] = "* A tube full of water."
+            message[0] = "* Un tubo lleno de agua."
         else
-            message[0] = "* The water-meter is full of#  liquid ice."
+            message[0] = "* El medidor de agua#  está lleno de hielo#  líquido."
     }
     waiter = 2
 }

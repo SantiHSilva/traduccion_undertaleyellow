@@ -10,9 +10,9 @@ if interact
             {
                 portrait = 0
                 sndfnt = 99
-                message[0] = "* I read something in a book once."
-                message[1] = (("* It said, \"If life comes at you#  too fast, press " + global.cancel_key) + " and take it#  slow.\"")
-                message[2] = "* Whatever that means."
+                message[0] = "* Leí algo en un libro una vez."
+                message[1] = (("* Decía, \"Si la vida te viene#  demasiado deprisa, pulsa " + global.cancel_key) + "#  y ve  despacio.\"")
+                message[2] = "* Signifique lo#  que signifique."
             }
             npc_flag = 1
             break
@@ -21,9 +21,9 @@ if interact
             {
                 portrait = 0
                 sndfnt = 99
-                message[0] = "* You know, I read something else#  in that same book."
-                message[1] = "* It said, \"Eat food to stay#  strong and healthy!\""
-                message[2] = "* That one is plain obvious."
+                message[0] = "* Sabes, leí algo más#  en ese mismo libro.."
+                message[1] = "* Decia, \"Come para#  mantenerte fuerte y sano!\""
+                message[2] = "* Eso es obvio."
             }
             npc_flag = 2
             break
@@ -32,9 +32,9 @@ if interact
             {
                 portrait = 0
                 sndfnt = 99
-                message[0] = "* Wanna know another excerpt from#  that book?"
-                message[1] = "* It said, \"Please stop talking#  to me, I've exhausted my book#  quotes.\""
-                message[2] = "* A very wise book, indeed."
+                message[0] = "* ¿Quieres saber otro fragmento#  de ese libro?"
+                message[1] = "* Decia, \"Por favor para de#  hablarme, agote las#  citas de mi libro.\""
+                message[2] = "* Un libro muy sabio,#  sin duda."
             }
             npc_flag = 3
             break
@@ -43,7 +43,7 @@ if interact
             {
                 portrait = 0
                 sndfnt = 99
-                message[0] = "* Please leave me alone."
+                message[0] = "* Por favor, déjame en paz."
             }
     }
 
