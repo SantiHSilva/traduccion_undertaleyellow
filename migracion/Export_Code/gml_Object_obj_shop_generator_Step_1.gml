@@ -1,0 +1,1 @@
+script_execute(gml_Script_scr_game_time_add)
