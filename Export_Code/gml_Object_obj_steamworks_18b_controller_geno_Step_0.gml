@@ -56,8 +56,8 @@ switch scene
         with (msg)
         {
             talker[0] = 2063
-            message[0] = "* Bam!"
-            message[1] = "* You know who it is, right?"
+            message[0] = "* ¡Bam!"
+            message[1] = "* Sabes quién es, ¿verdad?"
             message[2] = "* It's ya boy"
             if (message_current == 2)
                 message_timer = 10

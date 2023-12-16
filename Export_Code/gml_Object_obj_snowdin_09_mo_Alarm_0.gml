@@ -11,6 +11,6 @@ with (msg)
     skippable = 0
     portrait = 0
     position = 0
-    message[0] = "* What's this?"
-    message[1] = "* A new customer?"
+    message[0] = "* ¿Qué es esto?"
+    message[1] = "* ¿Un nuevo cliente?"
 }
