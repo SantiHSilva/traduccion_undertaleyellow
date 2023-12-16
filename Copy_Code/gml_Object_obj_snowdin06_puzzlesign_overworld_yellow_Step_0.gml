@@ -28,7 +28,7 @@ if (waiter == 1)
         message[2] = "* De acuerdo con el libro guía#  de la Royal Guard#  sección 4, párrafo dos,"
         message[3] = "* Este puzzle pretende#  impedir el avance de un#  intruso (probablemente tú),"
         message[4] = "* Entretener a los residentes#  de los alrededores (Snowdin),"
-        message[5] = "* E intimidar a posibles intrusos o malhechores,"
+        message[5] = "* E intimidar a posibles intrusos#  o malhechores,"
         message[6] = "* (No me queda claro lo#  que quieren decir#  con eso, pero adelante)."
         message[7] = "* Para superar este reto,#  debes derretir el cubo#  de hielo."
         message[8] = "* Asegúrate de que la#  bola llegue al fondo#  sin romperse."
@@ -57,10 +57,10 @@ if (waiter == 3)
     {
         sndfnt = 99
         portrait = 0
-        message[0] = "* P.S."
-        message[1] = "* If one of the logs gets stuck,#  just jiggle it a little."
-        message[2] = "* I noticed it was sticking the#  other day, but you know how it#  is with D.I.Y. projects."
-        message[3] = "* Always something has to go#  wrong!"
+        message[0] = "* P.D."
+        message[1] = "* Si uno de los troncos#  se atasca, basta con#  sacudirlo un poco."
+        message[2] = "* El otro día me di cuenta#  que se atascaba, pero ya#  sabes como es D.I.Y."
+        message[3] = "* Siempre tiene que salir#  algo mal."
         message[4] = "* So yeah, just a quick jiggle#  will do!"
         message[5] = "* P.P.S."
         message[6] = "* I just realized that you might#  not be able to reach the log to#  jiggle it!"

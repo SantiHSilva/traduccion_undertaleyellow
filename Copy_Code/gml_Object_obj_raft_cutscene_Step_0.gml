@@ -557,6 +557,16 @@ if (global.snowdin_flag[13] == 1)
                     sprite_index = spr_martlet_wind
                 }
                 scene++
+                if (transition_x > -660)
+                    transition_x -= 9
+                else
+                {
+                    LAVA_TRANSITION = 0
+                    timer = 60
+                    transition_x = 320
+                    scene++
+                }
+                break
             }
         case 22:
             if (transition_x > -660)
@@ -752,6 +762,16 @@ else
             {
                 room_goto(rm_lava_tubes)
                 scene++
+                if (transition_x > -660)
+                    transition_x -= 9
+                else
+                {
+                    LAVA_TRANSITION = 0
+                    timer = 180
+                    transition_x = 320
+                    scene++
+                }
+                break
             }
         case 7:
             if (transition_x > -660)
