@@ -52,7 +52,6 @@ function scr_save_flowey_steamworks() //gml_Script_scr_save_flowey_steamworks
             {
                 with (other)
                     scr_save_flowey_steamworks()
-                return;
             }
             message[0] = "* These undead piles of#  junk aren't very#  threatening."
             message[1] = "* Not really worth the#  trouble."
@@ -66,7 +65,6 @@ function scr_save_flowey_steamworks() //gml_Script_scr_save_flowey_steamworks
             {
                 with (other)
                     scr_save_flowey_steamworks()
-                return;
             }
             message[0] = "* Still at it, huh?"
             message[1] = "* Sorry but I'm runnin'#  low on witty comments at#  this point."
@@ -80,7 +78,6 @@ function scr_save_flowey_steamworks() //gml_Script_scr_save_flowey_steamworks
             {
                 with (other)
                     scr_save_flowey_steamworks()
-                return;
             }
             message[0] = "* ...What? You want me to#  keep inflating your ego?"
             message[1] = "* This was novel back in#  like, Snowdin, but now?"
@@ -100,7 +97,6 @@ function scr_save_flowey_steamworks() //gml_Script_scr_save_flowey_steamworks
             {
                 with (other)
                     scr_save_flowey_steamworks()
-                return;
             }
             message[0] = "* Wow! I am constantly#  astonished by your#  abilities!"
             message[1] = "* The skill it must've#  taken to shoot a bunch#  of tin cans!"

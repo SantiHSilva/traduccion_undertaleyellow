@@ -11,7 +11,7 @@ if (waiter == 1)
             {
                 portrait = 0
                 sndfnt = 434
-                talker[0] = other
+                talker[0] = -2
                 ch_msg = 4
                 ch[1] = "Casa"
                 ch[2] = "Futuro"
@@ -72,7 +72,7 @@ if (waiter == 1)
             {
                 portrait = 0
                 sndfnt = 434
-                talker[0] = other
+                talker[0] = -2
                 message[0] = "* No lo había pensado# hasta ahora pero..."
                 message[1] = "* Podríamos tener una crisis#  entre manos."
                 message[2] = "* La mitad de mi equipaje aquí#  está lleno de maíz."
@@ -102,7 +102,7 @@ if (waiter == 1)
             {
                 portrait = 0
                 sndfnt = 434
-                talker[0] = other
+                talker[0] = -2
                 message[0] = "* Así que, ¿has estado# viajando por el# Subsuelo?"
                 message[1] = "* ¡Tu valentía es# inspiradora!"
                 message[2] = "* Las Ruinas fueron sólo el# principio de sus# obstáculos, estoy seguro."
@@ -130,7 +130,7 @@ if (waiter == 1)
             {
                 portrait = 0
                 sndfnt = 434
-                talker[0] = other
+                talker[0] = -2
                 message[0] = "* Sabes, me parece extraño."
                 message[1] = "* Nos conocimos hace sólo#  unas horas, pero por#  alguna razón..."
                 message[2] = "* Siento como si te#  conociera desde hace años."
@@ -148,7 +148,7 @@ if (waiter == 1)
             {
                 portrait = 0
                 sndfnt = 434
-                talker[0] = other
+                talker[0] = -2
                 message[0] = "* Bueno, será mejor#  que vuelva."
                 message[1] = "* ¡Te deseo toda la suerte#  del mundo, Clover!"
                 message[2] = "* ¡Haz por los demás#  lo que hiciste por mí!"
