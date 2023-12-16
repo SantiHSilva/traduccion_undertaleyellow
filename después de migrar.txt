@@ -1,0 +1,5 @@
+
+De este archivo:
+gml_Object_obj_dialogue_Draw_64
+
+Traducir el oro y el espacio que no se pone por un bug de compilación.
