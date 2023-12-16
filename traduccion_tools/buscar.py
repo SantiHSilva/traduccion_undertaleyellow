@@ -18,7 +18,7 @@ if __name__ == '__main__':
         print('Uso: python buscar.py <palabra>')
         sys.exit(1)
 
-    directorio = "C:\\Users\\Silva\\Documents\\Undertale Yellow\\Export_Code"
+    directorio = "C:\\Users\\Silva\\Documents\\Undertale Yellow\\traduccion_undertaleyellow\\Export_Code"
     
     secuencia = ""
     for i in range(1, len(sys.argv)):

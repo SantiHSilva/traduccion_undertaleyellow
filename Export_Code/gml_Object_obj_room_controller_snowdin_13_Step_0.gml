@@ -218,7 +218,7 @@ else if (global.snowdin_flag[8] == 1)
             with (msg)
             {
                 portrait = 0
-                ch[1] = "Sí"
+                ch[1] = "Yes"
                 ch[2] = "No"
                 ch_msg = 0
                 talker[0] = rephil
@@ -321,7 +321,7 @@ if ((global.snowdin_flag[8] == 2 || global.snowdin_flag[8] == 3) && (!failure))
                 if (global.snowdin_flag[8] == 2)
                 {
                     portrait = 0
-                    ch[1] = "Sí"
+                    ch[1] = "Yes"
                     ch[2] = "No"
                     ch_msg = 2
                     talker[0] = rephil

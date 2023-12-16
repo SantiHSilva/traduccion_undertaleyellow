@@ -125,10 +125,10 @@ with (other)
                 {
                     sndfnt = 100
                     message[0] = "* Bienvenido de nuevo."
-                    message[1] = "* Um... I'm not sure what#  to say..."
-                    message[2] = "* I had some cards made#  for emergency friend#  situations...#"
-                    message[3] = "* ...but I've misplaced#  them."
-                    message[4] = "* Make yourself at home...#  again."
+                    message[1] = "* Um... No estoy seguro#  de qué#  decir..."
+                    message[2] = "* Hice algunas tarjetas para#  situaciones de emergencia#  con amigos..."
+                    message[3] = "* ...pero los#  he perdido."
+                    message[4] = "* Siéntete como en casa...#  otra vez."
                     prt[0] = 1769
                     prt[1] = 1780
                     prt[2] = 1763

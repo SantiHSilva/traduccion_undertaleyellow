@@ -18,7 +18,6 @@ function scr_save_flowey_dunes() //gml_Script_scr_save_flowey_dunes
             {
                 instance_destroy()
                 scr_save_flowey_dunes()
-                return;
             }
             message[0] = "* Always a treat to see#  your gunslinging skills!"
             message[1] = "* Let's get you saved!"
@@ -32,7 +31,6 @@ function scr_save_flowey_dunes() //gml_Script_scr_save_flowey_dunes
             {
                 instance_destroy()
                 scr_save_flowey_dunes()
-                return;
             }
             message[0] = "* Golly, monsters 'round#  here sure have it out#  for you!"
             message[1] = "* How could they keep#  attacking a poor human#  so willingly?	"
@@ -48,7 +46,6 @@ function scr_save_flowey_dunes() //gml_Script_scr_save_flowey_dunes
             {
                 instance_destroy()
                 scr_save_flowey_dunes()
-                return;
             }
             message[0] = "* I don't see many more#  enemies roaming about."
             message[1] = "* Once you encounter the#  rest, show 'em who's#  boss!"
