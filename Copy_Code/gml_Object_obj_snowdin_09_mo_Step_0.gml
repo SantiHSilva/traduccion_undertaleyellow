@@ -107,29 +107,29 @@ if (waiter == 1)
         position = 0
         color = 1
         col_modif[0] = make_color_rgb(72, 132, 212)
-        message[0] = "* Bam!"
-        message[1] = "* Who am I? Nobody of note. Ya#  know."
-        message[2] = "* JUST THE BEST DARN SALESMAN#  EVER!"
-        message[3] = "* WAM! I'm Mo!"
-        message_col[3][0] = "           Mo "
-        message[4] = "* Anyways..."
-        message[5] = "* The fact that you tried to get#  your mitts on this mug could#  only mean one thing."
-        message[6] = "* You're looking for a delicious#  little something to hit the#  spot, right?"
-        message[7] = "* Of course! I know your type!"
-        message[8] = "* So, you want this here#  beverage?"
+        message[0] = "* ¡Bam!"
+        message[1] = "* ¿Quién soy yo? Nadie#  importante. Ya sabes."
+        message[2] = "* ¡EL MEJOR VENDEDOR#  DE LA HISTORIA!"
+        message[3] = "* ¡WAM! ¡Yo soy Mo!"
+        message_col[3][0] = "              Mo "
+        message[4] = "* De todas formas..."
+        message[5] = "* El hecho de que hayas intentado#  hacerte con esta taza sólo#  puede significar una cosa."
+        message[6] = "* Buscas algo delicioso#  para dar en el blanco,#  ¿verdad?"
+        message[7] = "* ¡Claro que sí!#  Conozco a los de tu tipo."
+        message[8] = "* Entonces,#  ¿quieres esta bebida?"
         ch_msg = 8
         ch[1] = "Sí"
         ch[2] = "No"
         if (outcome == 1 && message_current == 8)
         {
-            message[9] = "* No you don't!"
+            message[9] = "* ¡No es verdad!"
             other.waiter = 2
         }
         if (outcome == 2 && message_current == 8)
         {
-            message[9] = "* Of course not."
-            message[10] = "* You and I, we're on the same#  page here."
-            message[11] = "* This thing? Gross. No one wants#  that."
+            message[9] = "* Pues claro que no."
+            message[10] = "* Tú y yo, estamos en#  la misma página aquí."
+            message[11] = "* ¿Esto? Qué asco.#  Nadie quiere eso."
             other.waiter = 2
         }
     }
@@ -148,31 +148,31 @@ if (waiter == 3)
     {
         portrait = 0
         position = 0
-        message[0] = "* Liquids? So last season!"
-        message[1] = "* Solids? PAH! Season before!"
-        message[2] = "* You want to be fresh and#  revolutionary? I got the latest#  thing!"
-        message[3] = "* Solids that USED to be liquids!"
-        message[4] = "* ...And, ya know, haven't been#  sitting out in the forest for#  three weeks."
-        message[5] = "* I have invented the next big#  thing here!"
-        message[6] = "* For the incredibly low price of#  15G, you can have your very own#  Hot Chocolate Pop!"
-        message[7] = "* It was once boring old hot#  chocolate, but now it's frozen#  to the perfect temperature!"
-        message[8] = "* Have I piqued your interest#  yet?"
+        message[0] = "* ¿Líquidos?#  ¡Tan de la temporada pasada!"
+        message[1] = "* ¿Sólidos? ¡PAH!#  ¡Temporada anterior!"
+        message[2] = "* ¿Quieres ser fresco y#  revolucionario? ¡Tengo#  lo último!"
+        message[3] = "* ¡Sólidos que ANTES eran#  líquidos!"
+        message[4] = "* ...Y, ya sabes, no he estado#  sentado en el bosque durante#  tres semanas."
+        message[5] = "* ¡He inventado la próxima#  gran cosa!"
+        message[6] = "* ¡Por el increíble precio#  de 15 de oro, puedes tener tu#  propio chocolate caliente Pop!"
+        message[7] = "* Antes era el viejo y aburrido#  chocolate caliente, ¡pero ahora está#  congelado a la temperatura perfecta!"
+        message[8] = "* ¿He despertado ya tu#  interés?"
         ch_msg = 8
-        ch[1] = "I'm Sold"
-        ch[2] = "No Thanks"
+        ch[1] = "Vendido"
+        ch[2] = "No Gracias"
         if (outcome == 1 && message_current == 8)
         {
-            message[9] = "* I knew you would be! Dang, I'm#  good!"
-            message[10] = "* Let's get down to business."
+            message[9] = "* ¡Sabía que lo serías!#  ¡Maldición, soy bueno!"
+            message[10] = "* Vayamos al grano."
             other.waiter = 4
         }
         if (outcome == 2 && message_current == 8)
         {
-            message[9] = "* You sure you don't want one?"
-            message[10] = "* You have to keep up with the#  times, pal! Here, I have an#  idea."
-            message[11] = "* I'll let you look at them for#  free. Call it a 'holiday#  special.'"
-            message[12] = "* I don't get a lot of shipments,#  so I only have one of each."
-            message[13] = "* Let's get down to business."
+            message[9] = "* ¿Seguro que no quieres uno?"
+            message[10] = "* ¡Tienes que mantenerte al día,#  amigo! Aquí, tengo una idea."
+            message[11] = "* Te dejaré verlos gratis.#  Llámalo 'especial de vacaciones.'"
+            message[12] = "* No recibo muchos envíos,#  así que solo tengo uno#  de cada uno."
+            message[13] = "* Vayamos al grano."
             other.waiter = 4
         }
     }
@@ -200,18 +200,18 @@ if (waiter == 5 && path_position == 1)
         ch[1] = "Hot Pop"
         ch[2] = "Lukewarm Pop"
         ch[3] = "Cold Pop"
-        ch[4] = "Cancel"
+        ch[4] = "Cancelar"
         if (global.extra_flag[1] == 1)
-            ch[1] = "-SOLD OUT-"
+            ch[1] = "-VENDIDO-"
         if (global.extra_flag[2] == 1)
-            ch[2] = "-SOLD OUT-"
+            ch[2] = "-VENDIDO-"
         if (global.extra_flag[3] == 1)
-            ch[3] = "-SOLD OUT-"
-        message[0] = "* Here's what I got. (15 G)"
+            ch[3] = "-VENDIDO-"
+        message[0] = "* Esto es lo que tengo.#  (15 de ORO)"
         if (global.snowdin_flag[5] == 1)
         {
             ch_msg = 2
-            message[0] = "* Couldn't stay away?"
+            message[0] = "* ¿No pudiste mantenerte#  alejado?"
             message[1] = "* Well-BAM-Take your pick."
             message[2] = "* Here's what I got. (15 G)"
         }

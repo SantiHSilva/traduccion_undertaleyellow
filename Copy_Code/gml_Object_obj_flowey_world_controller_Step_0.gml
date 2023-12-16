@@ -214,7 +214,7 @@ switch scene
             with (msg)
             {
                 talker[0] = 1159
-                message[0] = "* Estás aprendiendo#  mucho, my niño!"
+                message[0] = "* Estás aprendiendo#  mucho, mi niño!"
                 soundfont = 97
             }
         }

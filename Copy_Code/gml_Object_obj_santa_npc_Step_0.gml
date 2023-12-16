@@ -11,7 +11,7 @@ if interact
                 portrait = 0
                 sndfnt = 99
                 message[0] = "* Leí algo en un libro una vez."
-                message[1] = (("* Decía, \"Si la vida te viene#  demasiado deprisa, pulsa " + global.cancel_key) + "#  y ve  despacio.\"")
+                message[1] = (("* Decía, \"Si la vida te viene#  demasiado deprisa, pulsa " + global.cancel_key) + "#  y ve despacio.\"")
                 message[2] = "* Signifique lo#  que signifique."
             }
             npc_flag = 1
