@@ -201,7 +201,8 @@ switch scene
             global.snowdin_flag[16] = 1
             instance_destroy()
             instance_destroy(actor_martlet)
-            instance_destroy(obj_camera)
+            //Linea eliminada por bug de que no encuentra la instancia ya borrada?
+            //instance_destroy(obj_camera)
         }
         obj_camera.axis_priority = "y"
         break
