@@ -10,7 +10,7 @@ if (waiter == 1)
         message[0] = "* (A lonesome Safety Jacket#  hangs on the wall.)"
         message[1] = "* (Take it?)"
         ch_msg = 1
-        ch[1] = "Sí"
+        ch[1] = "Yes"
         ch[2] = "No"
         if (outcome == 1)
         {

@@ -12,7 +12,7 @@ switch scene
             message[0] = "* Are ya ready to begin?"
             prt[0] = 417
             ch_msg = 0
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
             if (outcome == 1)
             {

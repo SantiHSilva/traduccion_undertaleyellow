@@ -454,7 +454,7 @@ switch scene
         with (msg)
         {
             talker[0] = 3194
-            message[0] = "* ¡Buenas!"
+            message[0] = "* Howdy!"
             message[1] = "* Long time no see,#  buddy!"
             message[2] = "* I've been wantin' to#  tell ya something."
             message[3] = "* It's been weighing on#  my mind so I truly mean#  it when I say..."

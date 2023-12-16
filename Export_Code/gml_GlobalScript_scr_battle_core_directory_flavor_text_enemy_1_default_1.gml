@@ -35,7 +35,7 @@ function scr_battle_core_directory_flavor_text_enemy_1_default_1() //gml_Script_
         else if (battle_enemy_name == "decibat")
             message[0] = "* Decibat is not enjoying the#  music."
         else if (battle_enemy_name == "dalv")
-            message[0] = "* Dalv parece temer su próximo#  ataque."
+            message[0] = "* Dalv seems to be dreading his#  next attack."
         else if (battle_enemy_name == "micro froggit")
             message[0] = "* A gentle breeze causes#  Micro Froggit to lose its#  balance."
         else if (battle_enemy_name == "insomnitot solo")

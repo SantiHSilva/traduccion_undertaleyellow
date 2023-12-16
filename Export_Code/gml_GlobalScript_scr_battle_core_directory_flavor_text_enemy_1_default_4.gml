@@ -31,7 +31,7 @@ function scr_battle_core_directory_flavor_text_enemy_1_default_4() //gml_Script_
         else if (battle_enemy_name == "rorrim solo")
             message[0] = "* Rorrim is looking around."
         else if (battle_enemy_name == "dalv")
-            message[0] = "* Dalv parece estar en conflicto#  con su lado más humano."
+            message[0] = "* Dalv seems to be in conflict#  with his more humane side."
         else if (battle_enemy_name == "micro froggit")
             message[0] = "* If you squint, Micro Froggit#  looks happy."
         else if (battle_enemy_name == "insomnitot solo")

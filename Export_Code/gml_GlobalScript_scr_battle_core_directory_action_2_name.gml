@@ -74,14 +74,14 @@ function scr_battle_core_directory_action_2_name(argument0, argument1) //gml_Scr
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Amenazar"
+            battle_menu_option_string = "* Threat"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "flier a" || battle_enemy_name == "flier b" || battle_enemy_name == "flier c")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Elogiar"
+            battle_menu_option_string = "* Compliment"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "penilla a" || battle_enemy_name == "penilla b")
@@ -116,14 +116,14 @@ function scr_battle_core_directory_action_2_name(argument0, argument1) //gml_Scr
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Mirar"
+            battle_menu_option_string = "* Watch"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "dalv")
         {
             battle_menu_option_x = (obj_dialogue_box_battle.x + argument0)
             battle_menu_option_y = (obj_dialogue_box_battle.y + argument1)
-            battle_menu_option_string = "* Apretón de manos"
+            battle_menu_option_string = "* Handshake"
             script_execute(gml_Script_scr_draw_text_effect_twitchy_textbox_battle_menu_options)
         }
         else if (battle_enemy_name == "micro froggit")

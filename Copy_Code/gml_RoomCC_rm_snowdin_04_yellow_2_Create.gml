@@ -1,9 +1,0 @@
-message_length = 8
-message[0] = "* Esto es una caja."
-message[1] = "* Es una caja estúpida."
-message[2] = "* Puedes poner objetos en él#  y se quedarán ahí."
-message[3] = "* Hasta que lo sacas,#  entonces no estara ahí."
-message[4] = "* Y hay más de#  estas cajas después."
-message[5] = "* Puedes usarlas para#  recuperar las cosas que#  pusiste en esta caja."
-message[6] = "* Es supertonto."
-message[7] = "* Sinceramente,#  un hater de las cajas."

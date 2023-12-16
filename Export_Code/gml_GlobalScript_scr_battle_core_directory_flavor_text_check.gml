@@ -8,7 +8,7 @@ function scr_battle_core_directory_flavor_text_check() //gml_Script_scr_battle_c
     else if (game_mode == "yellow")
     {
         if (battle_enemy_name == "flier solo")
-            message[0] = "* Flier no siente nada."
+            message[0] = "* Flier feels nothing."
     }
 }
 

@@ -1,1 +1,1 @@
-message[0] = "* (El agua está bloqueada#  por las escaleras.)"
+message[0] = "* (The water is blocked by#  stairs.)"

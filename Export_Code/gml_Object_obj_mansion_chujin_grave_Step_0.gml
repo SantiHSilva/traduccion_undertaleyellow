@@ -23,7 +23,7 @@ if (waiter == 1)
                 if (message_current == 0)
                 {
                     ch_msg = 1
-                    ch[1] = "Sí"
+                    ch[1] = "Yes"
                     ch[2] = "No"
                 }
                 message[0] = "* (You notice a subtle indention#  in the dirt behind the#  gravestone.)"
@@ -36,7 +36,7 @@ if (waiter == 1)
                         message[3] = "* (It's a videotape with a blank#  label.)"
                         message[4] = "* (Take it?)"
                         ch_msg = 4
-                        ch[1] = "Sí"
+                        ch[1] = "Yes"
                         ch[2] = "No"
                     }
                     else if scr_item("Videotape")

@@ -1,3 +1,3 @@
-message[0] = "* (¡Es un castillo de nieve!#  ¡Qué bonito!)"
+message[0] = "* (It's a snowcastle! How cute!)"
 if (global.route == 3)
-    message[0] = "* (Castillo de nieve.)"
+    message[0] = "* (Snowcastle.)"

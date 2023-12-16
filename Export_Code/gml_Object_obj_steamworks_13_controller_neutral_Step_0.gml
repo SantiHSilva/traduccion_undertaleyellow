@@ -92,7 +92,7 @@ switch scene
         with (msg)
         {
             talker[0] = 3194
-            message[0] = "* ¡Buenas!"
+            message[0] = "* Howdy!"
             message[1] = "* Glad I was able to catch#  ya in time!"
             message[2] = "* What is this, the third#  tumble you've survived#  on your journey?"
             message[3] = "* For having the name#  \"Clover\" you sure aren't#  lucky!"

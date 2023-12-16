@@ -1,1 +1,1 @@
-message = "* Me parece recordar lo que#  una vez vi tan#  frecuente..."
+message = "* I seem to recall#  what I once saw so often..."

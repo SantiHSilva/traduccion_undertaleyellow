@@ -30,7 +30,7 @@ if (waiter == 1)
         message[0] = "* (You would like some Cake but#  you'd rather not alert Axis.)"
         message[1] = "* (Risk it?)"
         ch_msg = 1
-        ch[1] = "Sí"
+        ch[1] = "Yes"
         ch[2] = "No"
         if (outcome == 1)
         {

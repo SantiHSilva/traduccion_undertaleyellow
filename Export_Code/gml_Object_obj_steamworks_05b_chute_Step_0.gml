@@ -26,7 +26,7 @@ if (waiter == 1)
         with (msg)
         {
             message[0] = "* (Climb to the top?)"
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
             ch_msg = 0
             if (outcome == 1)

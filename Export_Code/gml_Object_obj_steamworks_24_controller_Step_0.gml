@@ -37,7 +37,7 @@ switch scene
         with (msg)
         {
             talker[0] = 3194
-            message[0] = "* ¡Buenas!"
+            message[0] = "* Howdy!"
             message[1] = "* Boy am I glad that fox#  lady let you roam free#  for a bit."
             message[2] = "* Not being able to talk#  to my pal has been#  torture!"
             message[3] = "* Now, I know she roped#  ya into some Lab detour#  but..."

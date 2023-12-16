@@ -16,7 +16,7 @@ if rhythm_enabled
 }
 if autofire_enabled
 {
-    draw_text(320, 400, string_hash_to_newline(string("AUTO-FIRE ({0}):", global.pause_key)))
+    draw_text(320, 400, string_hash_to_newline((("AUTO-FIRE (" + global.pause_key) + "):")))
     if global.option_autoshoot
         option = "ON"
     else

@@ -17,7 +17,7 @@ if (global.dunes_flag[18] < 2)
             if (global.dunes_flag[18] == 0)
             {
                 ch_msg = 1
-                ch[1] = "Sí"
+                ch[1] = "Yes"
                 ch[2] = "No"
                 message[0] = "* (A wishing well with a large#  amount of G inside.)"
                 message[1] = "* (Take the G?)"
@@ -50,7 +50,7 @@ if (global.dunes_flag[18] < 2)
         {
             sndfnt = 102
             ch_msg = 2
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
             talker[0] = 1170
             message[0] = "* Well well well, what do#  we have here?"

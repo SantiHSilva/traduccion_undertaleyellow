@@ -18,7 +18,7 @@ switch scene
             prt[2] = 418
             prt[3] = 417
             ch_msg = 3
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
             if (outcome == 1)
             {

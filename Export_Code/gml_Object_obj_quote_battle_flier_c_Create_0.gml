@@ -4,8 +4,8 @@ if (global.battle_enemy_name == "flier trio")
 {
     if (((global.enemy_dead == 1 && global.fight_number == 1) || (global.enemy_dead_2 == 1 && global.fight_number == 2)) && global.battle_menu_number == 1)
     {
-        message[0] = "¡Ese era mi hermano!"
-        message[1] = "¡Tenía metas en#la vida!"
+        message[0] = "That was my bro!"
+        message[1] = "He had goals in#life!"
         message_end = 1
     }
     else
@@ -17,7 +17,7 @@ if (execute_normal == 1)
 {
     if (global.last_action_selected_3 == "Action 1 Low HP")
     {
-        message[0] = "¡No te me acerques!"
+        message[0] = "Don't come near#me!"
         message_end = 0
     }
     else if (global.last_action_selected_3 == "Action 1 Message 0")
@@ -25,18 +25,18 @@ if (execute_normal == 1)
         random_number = irandom_range(0, 1)
         if (random_number == 0)
         {
-            message[0] = "Yo... Este no soy#realmente yo..."
+            message[0] = "I... This isn't#really me..."
             message_end = 0
         }
         else if (random_number == 1)
         {
-            message[0] = "Tienes razón.#Algo tiene#que cambiar."
+            message[0] = "You're right.#Something needs#to change."
             message_end = 0
         }
     }
     else if (global.last_action_selected_3 == "Action 2 Low HP")
     {
-        message[0] = "No lo acepto."
+        message[0] = "I don't accept."
         message_end = 0
     }
     else if (global.last_action_selected_3 == "Action 2 Message 0")
@@ -44,18 +44,18 @@ if (execute_normal == 1)
         random_number = irandom_range(0, 1)
         if (random_number == 0)
         {
-            message[0] = "¡Así es!#¡Sabía que te diste cuenta!"
+            message[0] = "That's right! I#knew you noticed!"
             message_end = 0
         }
         else if (random_number == 1)
         {
-            message[0] = "Si, totalmente#de acuerdo."
+            message[0] = "Yeah, I totally#agree."
             message_end = 0
         }
     }
     else if (global.last_action_selected_3 == "Action 3 Low HP")
     {
-        message[0] = "Lo mismo#digo."
+        message[0] = "Right back at#you."
         message_end = 0
     }
     else if (global.last_action_selected_3 == "Action 3 Message 0")
@@ -63,12 +63,12 @@ if (execute_normal == 1)
         random_number = irandom_range(0, 1)
         if (random_number == 0)
         {
-            message[0] = "¡No tienes sentido#de las tendencias#de la moda moderna!"
+            message[0] = "You just have no#sense of modern#fashion trends!"
             message_end = 0
         }
         else if (random_number == 1)
         {
-            message[0] = "Eso me dolio#en un nivel personal."
+            message[0] = "That hurts me on#a personal level."
             message_end = 0
         }
     }
@@ -77,12 +77,12 @@ if (execute_normal == 1)
         random_number = irandom_range(0, 1)
         if (random_number == 0)
         {
-            message[0] = "Solo hay que#mantenerlo... fresco."
+            message[0] = "Just gotta keep#it... cool."
             message_end = 0
         }
         else if (random_number == 1)
         {
-            message[0] = "¿Así es como#acaba?"
+            message[0] = "So this is how it#ends?"
             message_end = 0
         }
     }
@@ -95,17 +95,17 @@ if (execute_normal == 1)
                 random_number = irandom_range(0, 2)
                 if (random_number == 0)
                 {
-                    message[0] = "¿Quién quiere hacer#una barbacoa?"
+                    message[0] = "Who wants to have#a cookout?"
                     message_end = 0
                 }
                 else if (random_number == 1)
                 {
-                    message[0] = "Oigan todos, miren#mi nuevo auto#B)"
+                    message[0] = "Hey guys, check#out my new ride#B)"
                     message_end = 0
                 }
                 else if (random_number == 2)
                 {
-                    message[0] = "¡Por fin! ¡Monstruos#que me atrapan!"
+                    message[0] = "Finally! Monsters#that get me!"
                     message_end = 0
                 }
             }
@@ -119,17 +119,17 @@ if (execute_normal == 1)
             random_number = irandom_range(0, 2)
             if (random_number == 0)
             {
-                message[0] = "¡Estoy buscando a# alguien que venda un#barco!# ¿Sabes de alguien?"
+                message[0] = "I'm looking to#buy a boat! Know#anyone selling?"
                 message_end = 0
             }
             else if (random_number == 1)
             {
-                message[0] = "¡Estuve haciendo#ejercicio! No es gran cosa#; )"
+                message[0] = "I've been working#out! No big deal#; )"
                 message_end = 0
             }
             else if (random_number == 2)
             {
-                message[0] = "¡El otro día#descubrí un nuevo#grupo genial!"
+                message[0] = "I found this#great new band#the other day!"
                 message_end = 0
             }
         }

@@ -1,4 +1,4 @@
-message[0] = "* Escapaste..."
+message[0] = "* Escaped..."
 message_current = 0
 message_end = 0
 message_draw = ""

@@ -81,8 +81,8 @@ with (other)
             with (msg)
             {
                 sndfnt = 100
-                message[0] = "* De acuerdo, sé que#  probablemente quieras#  ponerte en marcha."
-                message[1] = "* Pero siéntete libre#  de quedarte todo el#  tiempo que quieras."
+                message[0] = "* Alright, I know you're#  probably eager to get#  going."
+                message[1] = "* But feel free to#  stay as long as#  you like."
                 prt[0] = 1755
                 prt[1] = 1769
             }
@@ -124,11 +124,11 @@ with (other)
                 with (msg)
                 {
                     sndfnt = 100
-                    message[0] = "* Bienvenido de nuevo."
-                    message[1] = "* Um... No estoy seguro#  de qué#  decir..."
-                    message[2] = "* Hice algunas tarjetas para#  situaciones de emergencia#  con amigos..."
-                    message[3] = "* ...pero los#  he perdido."
-                    message[4] = "* Siéntete como en casa...#  otra vez."
+                    message[0] = "* Welcome back."
+                    message[1] = "* Um... I'm not sure what#  to say..."
+                    message[2] = "* I had some cards made#  for emergency friend#  situations...#"
+                    message[3] = "* ...but I've misplaced#  them."
+                    message[4] = "* Make yourself at home...#  again."
                     prt[0] = 1769
                     prt[1] = 1780
                     prt[2] = 1763
@@ -309,14 +309,14 @@ if (dalv_talk_waiter == 2)
                 instance_create(0, 0, obj_dialoguebox_dummy)
             portrait = 1
             sndfnt = 100
-            message[0] = "* ¿Estás listo para irte?"
+            message[0] = "* Are you ready to leave?"
             prt[0] = 1755
         }
         else
         {
             portrait = 1
             sndfnt = 100
-            message[0] = "* ¡Espero haber sido#  un buen anfitrión!"
+            message[0] = "* I hope I'm being a good#  host!"
             prt[0] = 1769
         }
     }
@@ -336,7 +336,7 @@ if (dalv_talk_waiter == 4)
     {
         portrait = 0
         sndfnt = 99
-        message[0] = "* ¿Salir de casa de Dalv?"
+        message[0] = "* Leave Dalv's house?"
         if (outcome == 1 && message_current == 0)
         {
             obj_dalv2.response = "yes"
@@ -348,7 +348,7 @@ if (dalv_talk_waiter == 4)
             obj_dalv2.dalv_talk_waiter++
         }
         ch_msg = 0
-        ch[1] = "Sí"
+        ch[1] = "Yes"
         ch[2] = "No"
     }
 }
@@ -363,14 +363,14 @@ if (dalv_talk_waiter == 6)
         {
             portrait = 1
             sndfnt = 100
-            message[0] = "* Si eso es lo que quieres,#  yo te guiaré."
+            message[0] = "* If that's what you want,#  I'll lead the way."
             prt[0] = 1776
         }
         else if (obj_dalv2.response == "no")
         {
             portrait = 1
             sndfnt = 100
-            message[0] = "* Muy bien, tómate el#  tiempo que quieras."
+            message[0] = "* Alright, take as long as#  you like."
             prt[0] = 1776
         }
     }

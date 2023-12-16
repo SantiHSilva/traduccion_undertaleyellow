@@ -295,7 +295,7 @@ switch scene
         {
             position = 0
             ch_msg = 4
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
             talker[0] = mo
             message[0] = "* Thaaat's right!"
@@ -533,7 +533,7 @@ switch scene
             if (global.dunes_flag[3] == 1)
             {
                 message[0] = "* BAM!"
-                message[1] = "* ¡Bienvenido de vuelta!"
+                message[1] = "* Welcome back!"
                 message[2] = "* Here's what I got. (20 G)"
                 ch_msg = 2
             }

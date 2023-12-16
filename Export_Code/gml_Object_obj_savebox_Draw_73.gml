@@ -23,13 +23,13 @@ if (p1 == 1)
     draw_set_font(fnt_main)
     if (statBox == 0 && itemBox == 0)
         draw_sprite(encounter_heart, 0, (x - 90), (y + 23))
-    draw_text((x - 80), (y + 15), string_hash_to_newline("Guardar"))
+    draw_text((x - 80), (y + 15), string_hash_to_newline("Save"))
 }
 if (p1 == 0)
 {
     draw_set_color(color2)
     draw_set_font(fnt_main)
-    draw_text((x - 80), (y + 15), string_hash_to_newline("Guardar"))
+    draw_text((x - 80), (y + 15), string_hash_to_newline("Save"))
 }
 if (p2 == 1)
 {
@@ -37,11 +37,11 @@ if (p2 == 1)
     draw_set_font(fnt_main)
     if (statBox == 0 && itemBox == 0)
         draw_sprite(encounter_heart, 0, x, (y + 23))
-    draw_text((x + 10), (y + 15), string_hash_to_newline("Regresar"))
+    draw_text((x + 10), (y + 15), string_hash_to_newline("Return"))
 }
 if (p2 == 0)
 {
     draw_set_color(color2)
     draw_set_font(fnt_main)
-    draw_text((x + 10), (y + 15), string_hash_to_newline("Regresar"))
+    draw_text((x + 10), (y + 15), string_hash_to_newline("Return"))
 }

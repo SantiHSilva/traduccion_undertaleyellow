@@ -29,9 +29,9 @@ switch scene
             var msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
             with (msg)
             {
-                message[0] = "* Verás, te he estado#  observando durante#  un tiempo."
-                message[1] = "* Dios, ¿Qué carrera es esto?#  Deben haber demasiados."
-                message[2] = "* ¡Casi pierdo la cuenta!#  Jajaja..."
+                message[0] = "* You see, I've been#  watching you for a#  while."
+                message[1] = "* Gosh, what run is it?#  Gotta be in the hundreds."
+                message[2] = "* I've almost lost count!#  Haha..."
                 soundfont = 96
             }
         }
@@ -64,10 +64,10 @@ switch scene
             with (msg)
             {
                 talker[0] = 1159
-                message[0] = "* ¡Ah! ¡Buenas!"
-                message[1] = "* ¿Estás bien?"
-                message[2] = "* Te estaras preguntando#  qué está pasando..."
-                message[3] = "* Me llamo TORIEL, cuidadora#  de las RUINAS."
+                message[0] = "* Ah! Hello!"
+                message[1] = "* Are you all right?"
+                message[2] = "* You must be wondering#  what is going on..."
+                message[3] = "* I am TORIEL, caretaker#  of the RUINS."
                 soundfont = 97
             }
         }
@@ -98,7 +98,7 @@ switch scene
             msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
             with (msg)
             {
-                message[0] = "* Te he dejado#  seguir tu camino#  tantas veces."
+                message[0] = "* I let you carry on#  your merry way so#  many times."
                 soundfont = 96
             }
         }
@@ -120,14 +120,14 @@ switch scene
                     if (other.tori_dialogue == 0)
                     {
                         other.tori_dialogue = 1
-                        message[0] = "* Vamos, presiona#  el interruptor de la izquierda."
+                        message[0] = "* Go on, press the#  switch on the left."
                         talker[0] = 1159
                         skippable = 1
                     }
                     else
                     {
-                        message[0] = "* Sabes cuál#  es el camino de la izquierda, #  ¿Verdad?"
-                        message[1] = "* Presiona el interruptor #  que te he marcado."
+                        message[0] = "* You do know which#  way left is, do#  you not?"
+                        message[1] = "* Press the switch that#  I labelled for you."
                         talker[0] = 1159
                         skippable = 1
                     }
@@ -156,8 +156,8 @@ switch scene
                 with (msg)
                 {
                     talker[0] = 1159
-                    message[0] = "* ¡Esplendido!"
-                    message[1] = "* Estoy orgulloso de ti,#  pequeño."
+                    message[0] = "* Splendid!"
+                    message[1] = "* I am proud of you,#  little one."
                     soundfont = 97
                 }
             }
@@ -188,7 +188,7 @@ switch scene
                 msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
                 with (msg)
                 {
-                    message[0] = "* ¡Adelante,#  empuja la roca!"
+                    message[0] = "* Go ahead and#  push the rock!"
                     talker[0] = 1159
                     skippable = 1
                     soundfont = 97
@@ -214,7 +214,7 @@ switch scene
             with (msg)
             {
                 talker[0] = 1159
-                message[0] = "* Estás aprendiendo#  mucho, my niño!"
+                message[0] = "* You are learning#  so much, my child!"
                 soundfont = 97
             }
         }
@@ -245,7 +245,7 @@ switch scene
             msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
             with (msg)
             {
-                message[0] = "* He visto#  el mismo comportamiento#  infantil..."
+                message[0] = "* I watched the same#  childish behavior play#  out over..."
                 soundfont = 96
             }
         }
@@ -277,7 +277,7 @@ switch scene
             msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
             with (msg)
             {
-                message[0] = "* Y más de..."
+                message[0] = "* And over..."
                 soundfont = 96
             }
         }
@@ -323,7 +323,7 @@ switch scene
             msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
             with (msg)
             {
-                message[0] = "* Y más de."
+                message[0] = "* And over."
                 soundfont = 96
             }
         }
@@ -348,7 +348,7 @@ switch scene
             msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
             with (msg)
             {
-                message[0] = "* Claro, pequeñas decisiones#  aquí y allá#  variarían pero..."
+                message[0] = "* Sure, small decisions#  here and there would#  vary but..."
                 soundfont = 96
             }
         }
@@ -382,8 +382,8 @@ switch scene
             msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
             with (msg)
             {
-                message[0] = "* El viaje siempre#  terminaría contigo#  viviendo ignorantemente con Toriel."
-                message[1] = "* Tenía que intervenir."
+                message[0] = "* The journey would always#  end with you ignorantly#  living with Toriel."
+                message[1] = "* I had to interfere."
                 soundfont = 96
             }
         }
@@ -409,7 +409,7 @@ switch scene
             msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
             with (msg)
             {
-                message[0] = "* Al principio, mis esfuerzos#  parecían funcionar."
+                message[0] = "* At first, my efforts#  seemed to work."
                 soundfont = 96
             }
         }
@@ -445,8 +445,8 @@ switch scene
             msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
             with (msg)
             {
-                message[0] = "* Las tensiones aumentaron#  y abandonaron las Ruinas."
-                message[1] = "* Pero luego, #  aparecieron otros problemas..."
+                message[0] = "* Tensions rose and you#  left the Ruins."
+                message[1] = "* But then, other#  issues crept up..."
             }
         }
         else if (obj_flowey_world_text.message_current >= 1 && (!music_stop_noloop))
@@ -478,7 +478,7 @@ switch scene
             msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
             with (msg)
             {
-                message[0] = "* No importa cuántas veces#  hayas viajado por..."
+                message[0] = "* No matter how many#  times you journeyed on..."
                 keep_on_screen = 1
             }
         }
@@ -520,7 +520,7 @@ switch scene
             msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
             with (msg)
             {
-                message[0] = "* Siempre morías."
+                message[0] = "* You always died."
                 keep_on_screen = 1
             }
         }
@@ -606,7 +606,7 @@ switch scene
         {
             msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
             with (msg)
-                message[0] = "* Tenia que apartarte#  del camino del fracaso#  lo antes posible."
+                message[0] = "* I had to steer you#  off the path of failure#  as early as possible."
         }
         if cutscene_wait(3.5)
             global.dialogue_open = 0
@@ -642,8 +642,8 @@ switch scene
             msg = instance_create_depth(0, 0, -9999, obj_flowey_world_text)
             with (msg)
             {
-                message[0] = "* Asi que manipulé#  un pequeño interruptor y..."
-                message[1] = "* Bueno, ¡el resto#  es historia!"
+                message[0] = "* So I tampered with#  a little switch and..."
+                message[1] = "* Well, the rest#  is history!"
             }
         }
         if (!global.dialogue_open)
@@ -686,11 +686,11 @@ switch scene
         {
             sndfnt = 96
             message[0] = "* ..."
-            message[1] = "* ¡Oh, vamos! ¿Todavía estás aquí?"
-            message[2] = "* ¡Pensé que almenos mi historia#  te aburriría tanto#  que te rendirías!"
-            message[3] = "* ¿De verdad quieres hacer esto#  por las malas? "
-            message[4] = "* Jajaja, ¡de acuerdo!"
-            message[5] = "* ¡Divirtámonos un poco antes de#  que absorba tu ALMA para siempre!"
+            message[1] = "* Oh come on! You're still here?"
+            message[2] = "* I thought at least my story#  might bore you so much that#  you'd give in!"
+            message[3] = "* You really wanna do this the#  hard way? "
+            message[4] = "* Haha, alright then!"
+            message[5] = "* Let's have a little fun before#  I absorb your SOUL for good!"
             switch message_current
             {
                 case 0:

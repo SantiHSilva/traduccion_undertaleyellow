@@ -1,1 +1,1 @@
-message[0] = "* ¡Por aquí se va#  a las aguas termales!"
+message[0] = "* This way to the hot spring!"

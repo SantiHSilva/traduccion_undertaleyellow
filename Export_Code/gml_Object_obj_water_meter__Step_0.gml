@@ -9,7 +9,7 @@ if (waiter == 1)
         sndfnt = 99
         message[0] = "* Seems like the base of a#  snowdog."
         message[1] = "* Touch it?"
-        ch[1] = "Sí"
+        ch[1] = "Yes"
         ch[2] = "No"
         ch_msg = 1
         if (outcome == 1 && message_current == 1)
