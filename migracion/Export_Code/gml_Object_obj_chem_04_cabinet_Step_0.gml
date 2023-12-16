@@ -23,7 +23,7 @@ switch scene
                 message[0] = "* (You notice wall cracks peeking#  out from behind the cabinet.)	"
                 message[1] = "* (Move it?)"
                 ch_msg = 1
-                ch[1] = "Sí"
+                ch[1] = "Yes"
                 ch[2] = "No"
                 if (outcome == 1)
                     other.scene++

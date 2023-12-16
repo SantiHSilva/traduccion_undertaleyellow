@@ -14,7 +14,7 @@ if (waiter == 1)
                 message[1] = "* Wait, are you from the Wild#  East? That's hilarious!"
                 message[2] = "* Say \"howdy!\" Come on, DO IT!"
                 ch_msg = 2
-                ch[1] = "¡Buenas!"
+                ch[1] = "Howdy!"
                 ch[2] = "No way"
                 if (outcome == 1)
                 {

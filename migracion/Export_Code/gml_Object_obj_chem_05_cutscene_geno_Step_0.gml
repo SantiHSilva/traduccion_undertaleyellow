@@ -123,7 +123,7 @@ switch scene
             prt[2] = 347
             if (global.route != 3)
             {
-                message[3] = "* Ok veamos..."
+                message[3] = "* Okay let's see..."
                 prt[3] = 348
                 if (message_current == 0)
                     obj_player_npc.npc_direction = "down"
@@ -147,7 +147,7 @@ switch scene
             message[0] = "* It's called \"humor.\"#  Don't suppose you've#  heard of it."
             message[1] = "* (Geez, and I thought I#  was soulless.)"
             message[2] = "* Sigh..."
-            message[3] = "* Ok veamos..."
+            message[3] = "* Okay let's see..."
             prt[0] = 3640
             prt[1] = 3692
             prt[2] = 353

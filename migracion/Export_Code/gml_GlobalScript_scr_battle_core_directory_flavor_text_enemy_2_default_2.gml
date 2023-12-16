@@ -15,9 +15,9 @@ function scr_battle_core_directory_flavor_text_enemy_2_default_2() //gml_Script_
         else if (battle_enemy_name == "crispy scroll penilla duo")
             message[0] = "* Penilla scraps her drawing and#  starts over."
         else if (battle_enemy_name == "know cone insomnitot duo")
-            message[0] = "* El olor a patatas fritas#  pasa a tu lado."
+            message[0] = "* The smell of french fries wafts#  past you."
         else if (battle_enemy_name == "frostermit know cone duo")
-            message[0] = "* Know Cone empieza a hacer#  un baile primitivo."
+            message[0] = "* Know Cone starts doing a#  primitive dance."
         else if (battle_enemy_name == "trihecta separated")
             message[0] = "* Hec seems slightly relieved#  that the others are on the#  ground."
         else if (battle_enemy_name == "dunebud duo")

@@ -19,21 +19,21 @@ if (global.flag[17] == 1)
             {
                 portrait = 1
                 sndfnt = 100
-                message[0] = "* Alguien me lo hizo#  hace un tiempo."
-                message[1] = "* Es un solo maíz del#  campo de maíz de las#  Ruinas."
-                message[2] = "* Empecé ese campo a#  partir de un trozo de#  maíz."
-                message[3] = "* Antes de cerrar la#  puerta a Snowdin,#  algo pasó."
-                message[4] = "* Seguía encontrando maíz#  en la puerta de mi casa."
-                message[5] = "* Todas las mañanas#  estaba ahí."
-                message[6] = "* No sabía quién lo dejaba#  pero..."
-                message[7] = "* De alguna manera pensé#  que eran mis amigos."
-                message[8] = "* Siempre quise#  recompensar sus buenas#  acciones, pero..."
-                message[9] = "* Nunca se me ocurrió nada#  que dejar a cambio."
-                message[10] = "* Y un día simplemente#  dejaron de aparecer."
-                message[11] = "* Fue entonces cuando#  decidí esconderme."
-                message[12] = "* Pero planté la última#  mazorca de maíz que#  tenía aquí abajo."
-                message[13] = "* Se ha adaptado al#  entorno#  sorprendentemente bien."
-                message[14] = "* Siempre me ha parecido#  bastante inspirador."
+                message[0] = "* Someone made that for me#  a while back."
+                message[1] = "* It's a single corn from#  the corn field out in#  the Ruins."
+                message[2] = "* I started that field#  from one piece of corn."
+                message[3] = "* Before I closed off the#  door to Snowdin,#  something happened."
+                message[4] = "* I kept finding corn#  sitting on my doorstep."
+                message[5] = "* Every morning it was#  just, there."
+                message[6] = "* I didn't know who was#  leaving it but..."
+                message[7] = "* Somehow I thought they#  were my friend."
+                message[8] = "* I always wanted to repay#  their kind deeds but..."
+                message[9] = "* I never could think of#  anything to leave in#  return."
+                message[10] = "* And one day they just#  stopped showing up."
+                message[11] = "* That's when I decided to#  hide away."
+                message[12] = "* But I planted the last#  cob of corn I had down#  here."
+                message[13] = "* It's taken to the#  environment surprisingly#  well."
+                message[14] = "* I always found it rather#  inspiring."
                 prt[0] = 1769
                 prt[1] = 1769
                 prt[2] = 1776
@@ -95,8 +95,8 @@ else if (global.flag[17] != 1 && global.route != 3)
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (Es una bonita pintura de una#  mazorca pequeña y solitaria.)"
-            message[1] = "* (Una firma que dice#  \"Penilla\", está#  escrito en la esquina.)"
+            message[0] = "* (It's a nice painting of a#  small, lonely cob.)"
+            message[1] = "* (A signature that reads#  \"Penilla\", is written in the#  corner.)"
             obj_painting.waiter = 2
         }
     }
@@ -118,8 +118,8 @@ else if (global.route == 3)
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (Una pintura.)"
-            message[1] = "* (Le falta realismo maicero.)"
+            message[0] = "* (A painting.)"
+            message[1] = "* (It's lacking corn realism.)"
             obj_painting.waiter = 2
         }
     }

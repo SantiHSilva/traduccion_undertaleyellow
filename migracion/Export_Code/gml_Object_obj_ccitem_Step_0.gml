@@ -9,25 +9,25 @@ if (waiter > 0)
     {
         portrait = 0
         sndfnt = 99
-        message[0] = "* (Es un trozo de maíz rechazado.)"
-        message[1] = "* (¿Tomarlo?)"
+        message[0] = "* (It's a rejected piece of corn.)"
+        message[1] = "* (Take it?)"
         if (outcome == 1 && message_current == 1)
         {
             scr_item("Candy Corn")
-            message[2] = "* (¡Obtuviste un Candy Corn!)"
+            message[2] = "* (Obtained Candy Corn!)"
             with (obj_ccitem)
                 instance_destroy()
             global.flag[8] = 1
         }
         if (outcome == 2 && message_current == 1)
         {
-            message[2] = "* (Probablmente no sea#  lo suficientemente bueno#  para ti.)"
+            message[2] = "* (It's probably not good#  enough for you.)"
             obj_ccitem.waiter = 0
         }
         if ((message_current + 1) == 1)
         {
             ch_msg = 1
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
         }
     }

@@ -13,14 +13,14 @@ function scr_dialogue_battle_action_selected_action_2_flier_b() //gml_Script_scr
         random_number = irandom_range(0, 1)
         if (random_number == 0)
         {
-            message[0] = "* Le dices a Flier que#  parece orgulloso."
+            message[0] = "* You tell Flier he looks proud."
             global.last_action_selected = "Nothing"
             global.last_action_selected_2 = "Action 2 Message 0"
             global.last_action_selected_3 = "Nothing"
         }
         else if (random_number == 1)
         {
-            message[0] = "* Le dices a Flier que#  parece orgulloso."
+            message[0] = "* You tell Flier he looks proud."
             global.last_action_selected = "Nothing"
             global.last_action_selected_2 = "Action 2 Message 0"
             global.last_action_selected_3 = "Nothing"

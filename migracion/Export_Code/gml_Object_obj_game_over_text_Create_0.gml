@@ -6,7 +6,7 @@ if (global.sworks_flag[45] == 1)
     global.battling_boss = 0
     message[0] = "* . . ."
     message[1] = "* . . ."
-    message[2] = "* ¿Por qué?"
+    message[2] = "* Why?"
     message_end = 2
 }
 else
@@ -17,20 +17,20 @@ else
             var random_number = irandom_range(1, 3)
             if (random_number == 1)
             {
-                message[0] = "* Je, ¡eso sí#que lo he oido!"
-                message[1] = "* Pero no quiero volver#a oirlo, ¿de acuerdo?"
+                message[0] = "* Heh, I sure heard#that!"
+                message[1] = "* But I don't wanna#hear it again, okay?"
                 message_end = 1
             }
             if (random_number == 2)
             {
-                message[0] = "Esta cosa odia el#ruido, ¿verdad?"
-                message[1] = "¡Utilizalo#a tu favor!"
+                message[0] = "This thing hates#noise, right?"
+                message[1] = "Use that fact to#your advantage!"
                 message_end = 1
             }
             if (random_number == 3)
             {
-                message[0] = "¿Una solución permantente#, ¿eh?"
-                message[1] = "Lastima que#deshacerlo, ¡jaja!"
+                message[0] = "Quite the permanent#solution, eh?"
+                message[1] = "Too bad I can#undo it, haha!"
                 message_end = 1
             }
             break

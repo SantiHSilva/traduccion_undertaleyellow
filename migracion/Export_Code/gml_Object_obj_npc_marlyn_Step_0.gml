@@ -12,7 +12,7 @@ if (is_active == true)
             with (msg)
             {
                 ch_msg = 3
-                ch[1] = "Sí"
+                ch[1] = "Yes"
                 ch[2] = "No"
                 talker[0] = other.object_index
                 message[0] = "* Haha... hah..."

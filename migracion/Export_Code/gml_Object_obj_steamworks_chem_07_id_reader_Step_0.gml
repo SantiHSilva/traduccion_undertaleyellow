@@ -24,7 +24,7 @@ switch scene
         {
             message[0] = "* (Swipe your ID?)"
             ch_msg = 0
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
             if (outcome == 1)
                 other.scene++

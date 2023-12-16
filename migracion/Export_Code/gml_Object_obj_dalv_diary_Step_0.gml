@@ -8,27 +8,27 @@ if (waiter == 1)
     with (msg)
     {
         ch_msg = 2
-        ch[1] = "Sí"
+        ch[1] = "Yes"
         ch[2] = "No"
         portrait = 0
         sndfnt = 99
         if (other.npc_flag == 0)
         {
-            message[0] = "* (Parece el diario de Dalv.)"
-            message[1] = "* (Puede contener información privada.)"
-            message[2] = "* (¿Leer?)"
+            message[0] = "* (It looks like Dalv's diary.)"
+            message[1] = "* (This could contain private#  information.)"
+            message[2] = "* (Read it?)"
         }
         else
         {
             if (message_current == 0)
                 message_current = 1
-            message[1] = "* (Es el diario de Dalv.)"
-            message[2] = "* (¿Leer?)"
+            message[1] = "* (It's Dalv's diary.)"
+            message[2] = "* (Read it?)"
         }
         if (outcome == 1)
         {
-            message[3] = "* (Abres el diario.)"
-            message[4] = "* (Sólo hay una entrada.#  Parece nueva.)"
+            message[3] = "* (You open the diary up.)"
+            message[4] = "* (There's only one entry. It#  seems new.)"
             other.waiter = 2
             other.timer = 30
         }
@@ -61,36 +61,36 @@ if (waiter == 3)
     {
         sndfnt = 100
         portrait = 0
-        message[0] = "* Hoy empezó como cualquier otro# día."
-        message[1] = "* Me levanté de la cama, me#  cepillé los colmillos y#  desayuné un buen tazón de maíz."
-        message[2] = "* Pops hizo un chiste muy#  gracioso a costa de Broom#  y todos nos reímos."
-        message[3] = "* Me puse mi capa y#  salí a dar mi paseo diario."
-        message[4] = "* Me he dado cuenta de que#  hoy ha aparecido otro maíz#  azul en tu maizal."
-        message[5] = "* Siempre me siento mal por# desechar el maíz especial, pero# no puedo arriesgarme a enfermar."
-        message[6] = "* De todas formas..."
-        message[7] = "* Algo interesante ocurrió#  un poco más tarde."
-        message[8] = "* Escuché a Flier y Penilla# hablando de mí..."
-        message[9] = "* Acerca de nosotros..."
-        message[10] = "* Dijeron que estaban#  preocupados por mí."
-        message[11] = "* Dicen que hablo solo."
+        message[0] = "* Today began like every other#  day."
+        message[1] = "* I got out of bed, brushed my#  fangs, and had a nice bowl of#  corn for breakfast."
+        message[2] = "* Pops made a very funny joke at#  Broom's expense and we all had#  a laugh."
+        message[3] = "* I put on my cloak and went out#  for my daily walk."
+        message[4] = "* I noticed another blue corn had#  popped up in your cornfield#  today."
+        message[5] = "* I always feel bad for#  discarding the special corn but#  I can't risk getting sick."
+        message[6] = "* Anyways..."
+        message[7] = "* Something interesting happened#  a bit later."
+        message[8] = "* I overheard Flier and Penilla#  talking about me..."
+        message[9] = "* About us..."
+        message[10] = "* They said they were concerned#  for me."
+        message[11] = "* They said I talk to myself."
         message[12] = "* ..."
-        message[13] = "* Penilla then chimed in and#  commented on my advice#  and gifts to you."
-        message[14] = "* Mis carteles."
-        message[15] = "* Dijeron que no existías..."
-        message[16] = "* Eso no es verdad."
-        message[17] = "* Lo sabes."
-        message[18] = "* Lo sé."
-        message[19] = "* Me diste la mano#  cuando más lo necesitaba."
-        message[20] = "* ...me ayudaste a sobrellevar# el pasado..."
-        message[21] = "* ¿Cómo pueden ser tan malos?"
-        message[22] = "* ¿Qué saben ellos?"
-        message[23] = "* No los necesito."
-        message[24] = "* Porque..."
-        message[25] = "* Porque te tengo a ti."
+        message[13] = "* Penilla then chimed in and#  commented on my advice and#  gifts to you."
+        message[14] = "* My signs."
+        message[15] = "* They said you don't exist..."
+        message[16] = "* That isn't true."
+        message[17] = "* You do."
+        message[18] = "* I know you do."
+        message[19] = "* You reached out to me when I#  needed it most."
+        message[20] = "* ...Helped me cope with the#  past..."
+        message[21] = "* How could they be so mean?"
+        message[22] = "* What do they know?"
+        message[23] = "* I don't need them."
+        message[24] = "* Because..."
+        message[25] = "* Because I have you."
         message[26] = "* ..."
-        message[27] = "* Ha pasado un año."
+        message[27] = "* It's been one year."
         message[28] = "* ..."
-        message[29] = "* Aún estoy esperando."
+        message[29] = "* I'm still waiting."
     }
     if (!global.dialogue_open)
     {
@@ -107,7 +107,7 @@ if (waiter == 4)
     {
         sndfnt = 99
         portrait = 0
-        message[0] = "* (La entrada termina ahí.)"
+        message[0] = "* (The entry ends there.)"
     }
     if (!global.dialogue_open)
         waiter = 5

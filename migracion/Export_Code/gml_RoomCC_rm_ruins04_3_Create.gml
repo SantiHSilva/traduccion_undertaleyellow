@@ -1,1 +1,1 @@
-message = (("* \"Presiona [" + global.action_key) + "] para leer#  los carteles!\"")
+message = (("* \"Press [" + global.action_key) + "] to read signs!\"")

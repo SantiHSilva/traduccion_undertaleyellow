@@ -11,15 +11,15 @@ with (other)
                 with (msg)
                 {
                     dialogue_is_minishop = 1
-                    message[0] = "* (Según la lista de precios,#  es un puesto de limonada:#  5 de oro el vaso.)"
-                    message[1] = "* (¿Tomar un poco?)"
+                    message[0] = "* (According to the price list,#  it's a lemonade stand: 5g a#  glass.)"
+                    message[1] = "* (Take some?)"
                     ch_msg = 1
-                    ch[1] = "Sí"
+                    ch[1] = "Yes"
                     ch[2] = "No"
                     if (outcome == 1)
                     {
-                        message[2] = "* (Te sirves un vaso pero#  no hay ningún colaborador que#  coja tu dinero. Mal servicio.)"
-                        message[3] = "* (¿Dejar una propina?)"
+                        message[2] = "* (You pour yourself a glass but#  there is no attendant to take#  your money. What poor service.)"
+                        message[3] = "* (Leave a tip?)"
                         scr_item("Lemonade")
                         global.flag[0] = 1
                         other.image_index = 1
@@ -34,7 +34,7 @@ with (other)
                 with (msg)
                 {
                     dialogue_is_minishop = 1
-                    message[0] = "* (Ya no queda limonada.)"
+                    message[0] = "* (There's no lemonade left.)"
                 }
             }
             break
@@ -43,11 +43,11 @@ with (other)
             {
                 dialogue_is_minishop = 1
                 ch_msg = 3
-                ch[1] = "Sí"
+                ch[1] = "Yes"
                 ch[2] = "No"
                 if (outcome == 1)
                 {
-                    message[4] = "* (¿Cuánto?)"
+                    message[4] = "* (How much?)"
                     other.scene++
                 }
                 if (outcome == 2)
@@ -59,22 +59,22 @@ with (other)
             {
                 dialogue_is_minishop = 1
                 ch_msg = 4
-                ch[1] = "Importe\nGrande"
-                ch[2] = "Importe\nPequeño"
+                ch[1] = "Large\nAmount"
+                ch[2] = "Small\nAmount"
                 if (outcome == 1)
                 {
                     if (global.player_gold > 5)
                     {
                         global.player_gold -= 5
-                        message[5] = "* (Dejas 5 de oro en el#  frasco de propinas. Tu#  conciencia se siente como pluma.)"
+                        message[5] = "* (You leave 5g in the tip jar.#  Your conscience feels light as#  a feather.)"
                     }
                     else if (global.player_gold < 5 && global.player_gold > 0)
                     {
                         global.player_gold -= global.player_gold
-                        message[5] = "* (Dejas todo lo que tienes#  en el frasco de las propinas.)"
+                        message[5] = "* (You leave all you have in the#  tip jar.)"
                     }
                     else if (global.player_gold <= 0)
-                        message[5] = "* (No tienes oro.)"
+                        message[5] = "* (You have no gold.)"
                     other.scene++
                 }
                 if (outcome == 2)
@@ -82,11 +82,11 @@ with (other)
                     if (global.player_gold >= 1)
                     {
                         global.player_gold -= 1
-                        message[5] = "* (Partes una moneda a la mitad#  y debates que mitad tirar#  antes de lanzar una al azar.)"
-                        message[6] = "* (Ambos son inútiles de todas#  formas asi que no te importa#  realmente.)"
+                        message[5] = "* (You break a coin in half and#  debate which half to throw in#  before tossing one at random.)"
+                        message[6] = "* (They are both worthless anyway#  so it doesn't really matter.)"
                     }
                     else if (global.player_gold <= 0)
-                        message[5] = "* (No tienes oro.)"
+                        message[5] = "* (You have no gold.)"
                     other.scene++
                 }
             }

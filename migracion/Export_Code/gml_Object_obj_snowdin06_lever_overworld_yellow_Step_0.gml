@@ -20,7 +20,7 @@ if (keyboard_multicheck_pressed(0) && scr_interact())
             {
                 sndfnt = 99
                 portrait = 0
-                message[0] = "* El interruptor ya no se mueve."
+                message[0] = "* The switch won't budge anymore."
             }
             waiter = 5
         }

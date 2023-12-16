@@ -1,7 +1,7 @@
 if (global.route != 3)
 {
-    message[0] = "* (Es una mesita con un#  cajón incorporado.)"
-    message[1] = "* (Parece que está bloqueado.)"
+    message[0] = "* (It's a little table with a#  built-in drawer.)"
+    message[1] = "* (It seems to be locked.)"
 }
 else
-    message[0] = "* (Una mesita con un cajón.)"
+    message[0] = "* (A little table with a drawer.)"

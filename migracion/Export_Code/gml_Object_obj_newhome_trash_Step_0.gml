@@ -27,7 +27,7 @@ if waiter
         {
             sndfnt_array[0] = 391
             ch_msg = 1
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
             message[0] = "* (You dig around the bin and#  find a bottle of Sizzlin'#  Soda.)	"
             message[1] = "* (Take it?)"

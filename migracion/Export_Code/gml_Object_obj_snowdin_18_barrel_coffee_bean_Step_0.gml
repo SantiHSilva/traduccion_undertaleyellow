@@ -8,7 +8,7 @@ if (waiter == 1)
         if (other.npc_flag == 0)
         {
             ch_msg = 1
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
             message[0] = "* You take a look inside the#  barrel and find some Coffee#  Beans."
             message[1] = "* (Take it?)"

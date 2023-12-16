@@ -14,8 +14,8 @@ if (waiter == 3)
     {
         portrait = 0
         sndfnt = 99
-        message[0] = "* (No hay respuesta...)"
-        message[1] = "* (Al otro lado se#  oye débilmente un órgano.)"
+        message[0] = "* (No answer...)"
+        message[1] = "* (You hear an organ faintly#  playing on the other side.)"
     }
     waiter++
 }

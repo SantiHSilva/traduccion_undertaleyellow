@@ -11,9 +11,9 @@ if (global.route != 3)
                 instance_create(0, 0, obj_dialoguebox_dummy)
             portrait = 0
             sndfnt = 99
-            message[0] = "* (Hay un libro de párrafos#  bien escritos sobre el escritorio.)"
-            message[1] = "* (Todas parecen ser muy similares.)"
-            message[2] = "* (¿Lees uno?)"
+            message[0] = "* (There is a book of neatly#  written paragraphs on#  the desk.)"
+            message[1] = "* (They all appear to be very#  similar.)"
+            message[2] = "* (Read one?)"
             if (outcome == 1 && message_current == 2)
             {
                 obj_dalvsroom_desk.waiter = 2
@@ -24,7 +24,7 @@ if (global.route != 3)
             if ((message_current + 1) == 2)
             {
                 ch_msg = 2
-                ch[1] = "Sí"
+                ch[1] = "Yes"
                 ch[2] = "No"
             }
         }
@@ -38,11 +38,11 @@ if (global.route != 3)
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* Dalv es un solitario que vive en# las ruinas del Hogar."
-            message[1] = "* Le gusta pasear tranquilamente en oscuridad,#  limpiar y mejorar las canciones#  de su órgano."
-            message[2] = "* Quiere compartir con la# juventud del Subsuelo..."
-            message[3] = "* ...la importancia de#  aceptar y respetar# los deseos de los demás."
-            message[4] = "* El resto de la página está#  garabateada."
+            message[0] = "* Dalv is a loner living in#  the ruins of Home."
+            message[1] = "* He enjoys quiet walks in the#  dark, cleaning, and improving#  songs on his organ."
+            message[2] = "* He wants to share with the#  youth of the Underground..."
+            message[3] = "* ...the importance of being#  accepting and respecting#  the wishes of others. "
+            message[4] = "* The rest of the page is#  scribbled out."
             with (obj_dalvsroom_desk)
                 waiter++
         }
@@ -67,8 +67,8 @@ else
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (Hay un libro de párrafos#  bien escritos sobre el escritorio.)"
-            message[1] = "* (Todos parecen ser muy#  similares.)"
+            message[0] = "* (There is a book of neatly#  written paragraphs on the#  desk.)"
+            message[1] = "* (They all appear to be very#  similar.)"
         }
         waiter++
     }

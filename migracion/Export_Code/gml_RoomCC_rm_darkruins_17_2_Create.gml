@@ -1,1 +1,1 @@
-message = "* No pises las flores."
+message = "* Don't step on the flowers."

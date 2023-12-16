@@ -3,41 +3,41 @@ execute_random = 0
 color_count = 0
 if (global.enemy_low_hp == 1)
 {
-    message[0] = "¡NO NO! ¡EL RUIDO#MOLESTA! ¡EL RUIDO#MOLESTA!"
+    message[0] = "NO NO! NOISE#HURTS! NOISE#HURTS!"
     message_end = 0
     audio_sound_gain(mus_decibat_yellow, 1, 1500)
 }
 else if ((global.action_1_selected_count + global.action_3_selected_count) == 5)
 {
-    message[0] = "¿Demasiado alto#aquí! HUSHH#HUSHH!"
+    message[0] = "Getting too loud#here! HUSHH#HUSHH!"
     message_end = 0
 }
 else if (global.action_2_selected_count == 5)
 {
-    message[0] = "Dulce silencio..."
+    message[0] = "Sweet silence..."
     message_end = 0
 }
 else if (global.action_2_selected_count == 4)
 {
-    message[0] = "¿Tú eescuchas#esto?#¿No? Bien..."
+    message[0] = "You hhear that?#No? Good..."
     message_end = 0
 }
 else if (global.action_2_selected_count == 3)
 {
-    message[0] = "Más silencio#por favor..."
+    message[0] = "More quiet#please..."
     message_end = 0
 }
 else if (global.enemy_attack == "Decibat Wave Blue")
 {
-    message[0] = "           #No hagas#ruido.#Hush hushh!"
-    message_2[0] = "No te muevas.#            #      #             "
+    message[0] = "           #Don't make a#sound.#Hush hushh!"
+    message_2[0] = "Don't move.#            #      #             "
     message_end = 0
     color_count = 1
 }
 else if (global.enemy_attack == "Decibat Wave Orange")
 {
-    message[0] = "Muevete#En silencio.#Hushh hushh!"
-    message_2[0] = "Muevete"
+    message[0] = "     in silence.#Hushh hushh!"
+    message_2[0] = "Move            #            "
     message_end = 0
     color_count = 1
 }
@@ -46,17 +46,17 @@ else
     random_number = irandom_range(0, 2)
     if (random_number == 0)
     {
-        message[0] = "No te vayas.#Hushh hushh!"
+        message[0] = "Don't shhy away.#Hushh hushh!"
         message_end = 0
     }
     else if (random_number == 1)
     {
-        message[0] = "Solo fantasmas#por favor. Hushh#hushh!"
+        message[0] = "Whhispers only#please. Hushh#hushh!"
         message_end = 0
     }
     else if (random_number == 2)
     {
-        message[0] = "¡Hushh cachorro!"
+        message[0] = "Hushh puppy!"
         message_end = 0
     }
 }

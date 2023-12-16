@@ -1,4 +1,4 @@
-message[0] = "Dulce silencio..."
+message[0] = "Sweet silence..."
 message_end = 0
 message_current = 0
 message_draw = ""

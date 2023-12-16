@@ -5,8 +5,8 @@ if (keyboard_multicheck_pressed(0) && scr_interact() == 1 && (!instance_exists(o
     {
         portrait = 0
         sndfnt = 99
-        message[0] = "* (Hay maíz en la#  telaraña.)"
+        message[0] = "* (There's corn on the#  cobweb.)"
         if (global.route == 3)
-            message[0] = "* (Una mazorca de maíz.)"
+            message[0] = "* (A corn cob.)"
     }
 }

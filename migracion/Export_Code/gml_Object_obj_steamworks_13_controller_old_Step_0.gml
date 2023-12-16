@@ -16,7 +16,7 @@ switch scene
         with (msg)
         {
             ch_msg = 15
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
             talker[0] = 1161
             message[0] = "* Ouch... Can't say I was#  prepared for that."

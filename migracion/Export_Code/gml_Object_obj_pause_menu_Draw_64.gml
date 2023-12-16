@@ -15,7 +15,7 @@ draw_set_colour(c_white)
 draw_set_font(fnt_stats)
 draw_text((xx - 28), (yy - 2.5), string_hash_to_newline(("LV " + string(global.player_level))))
 draw_text((xx - 28), (yy + 5), string_hash_to_newline(((("HP " + string(global.current_hp_self)) + "/") + string(global.max_hp_self))))
-draw_text((xx - 28), (yy + 12.5), string_hash_to_newline(("ORO " + string(global.player_gold))))
+draw_text((xx - 28), (yy + 12.5), string_hash_to_newline(("G   " + string(global.player_gold))))
 draw_set_font(fnt_battle)
 draw_text((xx - 28), (yy - 22), string_hash_to_newline(string(global.player_name)))
 if ((!inventory_open) && (!stats_open) && (!mail_open))
@@ -58,17 +58,17 @@ if (stats_open == 1)
     draw_text((xx + 57.2), (yy + 10), string_hash_to_newline(((("HP " + string(global.current_hp_self)) + " / ") + string(global.max_hp_self))))
     draw_text((xx + 57.2), (yy + 35), string_hash_to_newline((((("AT " + string(global.player_attack)) + "(") + string(global.player_weapon_modifier_attack)) + ")")))
     draw_text((xx + 57.2), (yy + 50), string_hash_to_newline((((("DF " + string(global.player_defense)) + "(") + string((global.player_armor_modifier_defense + global.player_armor_defense))) + ")")))
-    draw_text((xx + 130), (yy + 35), string_hash_to_newline(("XP " + string(global.player_exp))))
+    draw_text((xx + 130), (yy + 35), string_hash_to_newline(("EXP " + string(global.player_exp))))
     var level_up_treshhold = (global.player_exp_next[global.player_level] - global.player_exp)
-    draw_text((xx + 130), (yy + 50), string_hash_to_newline(("SIG. " + string(level_up_treshhold))))
-    draw_text((xx + 57.2), (yy + 70), string_hash_to_newline(("ARMA: " + global.player_weapon)))
-    draw_text((xx + 57.2), (yy + 85), string_hash_to_newline(("ARMADURA: " + global.player_armor)))
+    draw_text((xx + 130), (yy + 50), string_hash_to_newline(("NEXT " + string(level_up_treshhold))))
+    draw_text((xx + 57.2), (yy + 70), string_hash_to_newline(("WEAPON: " + global.player_weapon)))
+    draw_text((xx + 57.2), (yy + 85), string_hash_to_newline(("ARMOR: " + global.player_armor)))
     var drawn_ammo = global.player_weapon_modifier
     if (drawn_ammo == "Friendliness Pellets")
         drawn_ammo = "F. Pellets"
-    draw_text((xx + 57.2), (yy + 105), string_hash_to_newline(("MUNICIÓN: " + drawn_ammo)))
-    draw_text((xx + 57.2), (yy + 120), string_hash_to_newline(("MODIFICADOR: " + global.player_armor_modifier)))
-    draw_text((xx + 57.2), (yy + 140), string_hash_to_newline(("ORO: " + string(global.player_gold))))
+    draw_text((xx + 57.2), (yy + 105), string_hash_to_newline(("AMMO: " + drawn_ammo)))
+    draw_text((xx + 57.2), (yy + 120), string_hash_to_newline(("ACCE: " + global.player_armor_modifier)))
+    draw_text((xx + 57.2), (yy + 140), string_hash_to_newline(("GOLD: " + string(global.player_gold))))
 }
 if inventory_open
 {
@@ -88,9 +88,9 @@ if inventory_open
                 draw_text((xx + 65), ((yy - 30) + (n * 15)), string_hash_to_newline(global.item_slot[n]))
         }
     }
-    draw_text((xx + 65), (yy + 115), string_hash_to_newline("USAR"))
-    draw_text((xx + 110), (yy + 115), string_hash_to_newline("INFO."))
-    draw_text((xx + 160), (yy + 115), string_hash_to_newline("TIRAR"))
+    draw_text((xx + 65), (yy + 115), string_hash_to_newline("USE"))
+    draw_text((xx + 110), (yy + 115), string_hash_to_newline("INFO"))
+    draw_text((xx + 160), (yy + 115), string_hash_to_newline("DROP"))
     if (item_inspect == 0)
         draw_sprite(encounter_heart, 0, (xx + 55), ((yy - 22) + (15 * item_selected)))
 }
@@ -127,9 +127,9 @@ if mail_open
             draw_text((xx + 65), ((yy - 15) + (n * 15)), string_hash_to_newline(mail_name))
     }
     draw_set_color(c_white)
-    draw_text((xx + 65), (yy + 115), string_hash_to_newline("LEER"))
+    draw_text((xx + 65), (yy + 115), string_hash_to_newline("READ"))
     draw_text((xx + 110), (yy + 115), string_hash_to_newline("PIN"))
-    draw_text((xx + 160), (yy + 115), string_hash_to_newline("BORRAR"))
+    draw_text((xx + 160), (yy + 115), string_hash_to_newline("DROP"))
     if (mail_inspect == 0)
         draw_sprite(encounter_heart, 0, (xx + 55), ((yy - 22) + (15 * (mail_selected + 1))))
     if (mail_offset > 0)

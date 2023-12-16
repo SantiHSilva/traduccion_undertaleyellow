@@ -5,7 +5,7 @@ if (scr_determine_item_droppable_yellow(current_item) == 1)
     {
         message[0] = (("* Are you sure you want to#  drop the " + other.current_item) + "?")
         ch_msg = 0
-        ch[1] = "Sí"
+        ch[1] = "Yes"
         ch[2] = "No"
         if (outcome == 1)
         {

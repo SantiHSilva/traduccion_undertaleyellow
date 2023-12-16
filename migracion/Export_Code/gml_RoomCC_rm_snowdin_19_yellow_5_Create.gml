@@ -1,3 +1,3 @@
-message[0] = "* (Algunos restos de la#  construcción de este puzzle.)"
+message[0] = "* (Some leftovers from this#  puzzle's construction.)"
 if (global.route == 3)
-    message[0] = "* (Sólo algo de basura.)"
+    message[0] = "* (Just some junk.)"

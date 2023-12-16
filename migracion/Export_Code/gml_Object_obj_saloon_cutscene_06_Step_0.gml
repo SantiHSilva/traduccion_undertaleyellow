@@ -11,7 +11,7 @@ switch scene
             color = 1
             col_modif[0] = 65535
             talker[0] = starlo
-            message[0] = "* ¡Buenas!"
+            message[0] = "* Howdy!"
             message[1] = "* Man, am I excited for#  this."
             message[2] = "* Have you done#  everythin' you wanted?"
             message[3] = "* Caught some bandits?#  SAVED some lives?"
@@ -21,7 +21,7 @@ switch scene
             prt[2] = 417
             prt[3] = 417
             ch_msg = 3
-            ch[1] = "Sí"
+            ch[1] = "Yes"
             ch[2] = "No"
             if (outcome == 1)
             {

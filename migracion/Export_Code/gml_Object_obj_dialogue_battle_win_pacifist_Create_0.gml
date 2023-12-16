@@ -1,19 +1,19 @@
 global.player_gold += global.enemy_gold
 if (global.game_mode == "customs")
-    message[0] = (("* ¡GANASTE!#* Conseguiste 0 XP y " + string(global.enemy_gold)) + " de oro.")
+    message[0] = (("* YOU WON!#* You earned 0 XP and " + string(global.enemy_gold)) + " gold.")
 else if (global.game_mode == "yellow")
 {
     if (global.battle_enemy_name == "froggit intro")
-        message[0] = "* (La misteriosa señora cabra#  asusto a Froggit.)"
+        message[0] = "* (The mysterious goat lady#  scared the Froggit away.)"
     else if (global.battle_enemy_name == "decibat")
     {
         if (global.enemy_sparing == 1)
-            message[0] = "* Dulce silencio..."
+            message[0] = "* Sweet silence..."
         else
-            message[0] = "* Decibat se aleja para encontrar#  un lugar más tranquilo."
+            message[0] = "* Decibat flaps away to find#  someplace quieter."
     }
     else
-        message[0] = (("* ¡GANASTE!#* Obtuviste 0 XP y " + string(global.enemy_gold)) + " de oro.")
+        message[0] = (("* YOU WON!#* You earned 0 XP and " + string(global.enemy_gold)) + " gold.")
 }
 message_current = 0
 message_end = 0
