@@ -31,9 +31,9 @@ if (global.flag[17] == 1)
                     instance_create(0, 0, obj_dialoguebox_dummy)
                 portrait = 1
                 sndfnt = 100
-                message[0] = "* You like those?"
-                message[1] = "* Those are my projects."
-                message[2] = "* I sometimes try to write#  books. Like for kids and#  stuff..."
+                message[0] = "* ¿Te gustan?"
+                message[1] = "* Estos son mis proyectos."
+                message[2] = "* A veces intento escribir#  libros. Para niños y#  cosas así..."
                 prt[0] = 1776
                 prt[1] = 1769
                 prt[2] = 1761
@@ -65,7 +65,7 @@ if (global.flag[17] == 1)
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (The table is covered in#  colorful pencils and pages#  strewn with cute pictures.)"
+            message[0] = "* (La mesa está cubierta de#  colores y páginas de#  simpáticos dibujos.)"
         }
         waiter++
     }
@@ -78,11 +78,11 @@ if (global.flag[17] == 1)
         {
             portrait = 1
             sndfnt = 100
-            message[0] = "* I sometimes kinda forget#  what colors things are#  outside this place..."
-            message[1] = "* So I just make them up!"
-            message[2] = "* I think the kids will#  find it more interesting#  like that anyway!"
+            message[0] = "* A veces olvido de qué#  color son las cosas#  fuera de este lugar..."
+            message[1] = "* ¡Así que me los imagino!"
+            message[2] = "* Creo que a los niños les#  parecerá más interesante#  así."
             message[3] = "* ..."
-            message[4] = "* It might not be as#  educational though..."
+            message[4] = "* Aunque puede que no sea#  tan educativo..."
             prt[0] = 1780
             prt[1] = 1776
             prt[2] = 1761
@@ -118,7 +118,7 @@ else if (global.flag[17] != 1 && global.route != 3)
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (The table is covered in#  colorful pencils and pages#  strewn with cute pictures.)"
+            message[0] = "* (La mesa está cubierta de#  colores y páginas de#  simpáticos dibujos.)"
             obj_books.waiter = 2
         }
     }
@@ -140,7 +140,7 @@ else if (global.route == 3)
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (Childish pictures scattered on#  the table.)"
+            message[0] = "* (Dibujos infantiles esparcidos sobre#  la mesa.)"
             obj_books.waiter = 2
         }
     }

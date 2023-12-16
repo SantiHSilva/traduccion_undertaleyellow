@@ -1,1 +1,1 @@
-message[0] = "* (A wooden bench.)"
+message[0] = "* (Un banco de madera.)"

@@ -29,11 +29,11 @@ if (global.flag[17] == 1)
                     instance_create(0, 0, obj_dialoguebox_dummy)
                 portrait = 1
                 sndfnt = 100
-                message[0] = "* I don't exactly have a#  huge selection of food."
-                message[1] = "* I don't get out much... "
-                message[2] = "* Oh wait!  I have some#  leftovers you can take#  with you."
-                message[3] = "* I hope you like it! I#  made it for my birthday."
-                message[4] = "* Sponge Cake is my#  favorite!"
+                message[0] = "* No tengo exactamente#  una gran selección de#  comida."
+                message[1] = "* No salgo mucho... "
+                message[2] = "* ¡Oh, espera! Tengo#  algunas sobras que#  puedes llevarte."
+                message[3] = "* Espero que os guste.#  Lo hice para mi#  cumpleaños."
+                message[4] = "* ¡El Sponge Cake#  es mi favorito!"
                 prt[0] = 1763
                 prt[1] = 1780
                 prt[2] = 1769
@@ -67,8 +67,8 @@ if (global.flag[17] == 1)
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (It's a sponge covered in#  frosting.)"
-            message[1] = "* (Take it?)"
+            message[0] = "* (Es una Sponge Cake cubierta#  de caramelo)."
+            message[1] = "* (¿Lo tomas?)"
             if (outcome == 1 && message_current == 1)
             {
                 with (obj_fridge)
@@ -85,7 +85,7 @@ if (global.flag[17] == 1)
             if ((message_current + 1) == 1)
             {
                 ch_msg = 1
-                ch[1] = "Yes"
+                ch[1] = "Sí"
                 ch[2] = "No"
             }
         }
@@ -104,10 +104,10 @@ if (global.flag[17] == 1)
                 sndfnt_array[1] = 434
                 sndfnt_array[2] = 434
                 sndfnt_array[3] = 434
-                message[0] = "* (You got the Sponge Cake!)"
+                message[0] = "* (¡Obtuviste un Sponge Cake!)"
                 message[1] = "* ..."
-                message[2] = "* Sorry I didn't invite#  you, it was last week."
-                message[3] = "* You can come next year!"
+                message[2] = "* Siento no haberte#  invitado, fue la#  semana pasada."
+                message[3] = "* ¡Puedes venir el año que#  viene!"
                 prt[1] = 1755
                 prt[2] = 1763
                 prt[3] = 1769
@@ -119,9 +119,9 @@ if (global.flag[17] == 1)
             {
                 portrait = 1
                 sndfnt = 100
-                message[0] = "* No?"
-                message[1] = "* Alright then."
-                message[2] = "* More for me I suppose."
+                message[0] = "* ¿No?"
+                message[1] = "* Muy bien."
+                message[2] = "* Más para mí, supongo."
                 prt[0] = 1755
                 prt[1] = 1755
                 prt[2] = 1776
@@ -159,8 +159,8 @@ else if (global.flag[17] != 1 && global.route != 3)
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (It's a mini fridge.)"
-            message[1] = "* (It's mostly empty.)"
+            message[0] = "* (Es una mini nevera.)"
+            message[1] = "* (Está casi vacío.)"
             obj_fridge.waiter = 2
         }
     }
@@ -182,8 +182,8 @@ else if (global.route == 3)
         {
             portrait = 0
             sndfnt = 99
-            message[0] = "* (A cheap mini fridge.)"
-            message[1] = "* (Nothing inside looks remotely#  edible.)"
+            message[0] = "* (Una mini nevera barata.)"
+            message[1] = "* (Nada de lo que hay dentro#  parece ni remotamente comestible.)"
             obj_fridge.waiter = 2
         }
     }

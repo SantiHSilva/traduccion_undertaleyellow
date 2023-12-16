@@ -28,7 +28,7 @@ switch scene
         with (msg)
         {
             talker[0] = 3194
-            message[0] = "* Howdy!"
+            message[0] = "* ¡Buenas!"
             message[1] = "* What do we have here..."
             prt[0] = 348
             prt[1] = 347

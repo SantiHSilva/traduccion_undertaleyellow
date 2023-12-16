@@ -33,7 +33,7 @@ switch scene
         with (msg)
         {
             talker[0] = 3194
-            message[0] = "* Howdy!"
+            message[0] = "* ¡Buenas!"
             message[1] = "* Looks like things are#  heating up!"
             message[2] = "* Literally, that is."
             message[3] = "* Since you shut the bots#  down, it should be an#  easy stroll to the exit."

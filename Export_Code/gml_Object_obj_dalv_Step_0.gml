@@ -39,14 +39,14 @@ if (room == rm_darkruins_07)
                 with (msg)
                 {
                     sndfnt = 100
-                    message[0] = "* Hello..."
-                    message[1] = "* I'm happy to finally meet you#  face to face."
-                    message[2] = "* How long has it been?"
-                    message[3] = "* I was wondering if you'd ever#  come back..."
+                    message[0] = "* Hola..."
+                    message[1] = "* Me alegro de conocerte#  por fin cara a cara."
+                    message[2] = "* ¿Cuanto tiempo ha pasado?"
+                    message[3] = "* Me preguntaba si#  alguna vez volverías..."
                     message[4] = "* ..."
-                    message[5] = "* No... too forward."
-                    message[6] = "* Who am I kidding? I'll never#  be able to meet you in this#  state."
-                    message[7] = "* I just hope you know... I had#  no choice. It must be this way."
+                    message[5] = "* No... demasiado adelantado."
+                    message[6] = "* ¿A quién quiero engañar? Nunca#  podré conocerte en este#  estado."
+                    message[7] = "* Solo quiero que sepas... que#  no tuve opción. Debe ser así."
                     portrait = 0
                 }
                 timer++
@@ -67,7 +67,7 @@ if (room == rm_darkruins_07)
                 {
                     sndfnt = 100
                     message[0] = "* ..."
-                    message[1] = "* Huh?"
+                    message[1] = "* ¿Eh?"
                     portrait = 0
                 }
                 timer++
@@ -88,8 +88,8 @@ if (room == rm_darkruins_07)
             {
                 portrait = 0
                 sndfnt = 100
-                message[0] = "* Who...?"
-                message[1] = "* I-I must be seeing things..."
+                message[0] = "* ¿Quién...?"
+                message[1] = "* Yo-yo debo estar viendo cosas..."
             }
             timer++
         }
@@ -159,7 +159,7 @@ if (room == rm_darkruins_10 && global.flag[3] == 0)
             with (msg)
             {
                 sndfnt = 100
-                message[0] = "* Is it wrong to hold doubt in#  my actions?"
+                message[0] = "* ¿Es malo dudar de#  mis acciones?"
                 portrait = 0
             }
             timer++
@@ -182,8 +182,8 @@ if (room == rm_darkruins_10 && global.flag[3] == 0)
             {
                 sndfnt = 100
                 position = 1
-                message[0] = "* I enjoyed life before... I#  did... But I can't go back."
-                message[1] = "* What happened that day would#  only repeat."
+                message[0] = "* Disfrutaba de la vida antes...#  Lo hice... Pero no puedo#  volver atrás."
+                message[1] = "* Lo que pasó ese día#  solo se repetiría."
                 message[2] = "* ..."
                 portrait = 0
             }
@@ -206,10 +206,10 @@ if (room == rm_darkruins_10 && global.flag[3] == 0)
             {
                 sndfnt = 100
                 position = 1
-                message[0] = "* !"
-                message[1] = "* What is this?"
-                message[2] = "* Why do they appear every time#  I start monologuing? "
-                message[3] = "* I need more rest."
+                message[0] = "* ¡!"
+                message[1] = "* ¿Qué es esto?"
+                message[2] = "* ¿Por qué aparecen cada vez#  más que empiezo a monologar? "
+                message[3] = "* Necesito descansar más."
                 portrait = 0
             }
             timer++
@@ -301,7 +301,7 @@ if (room == rm_darkruins_16 && global.flag[26] == 0)
         with (msg)
         {
             sndfnt = 100
-            message[0] = "* Ah!"
+            message[0] = "* ¡Ah!"
             portrait = 0
         }
         speed = 0
@@ -357,8 +357,8 @@ if (room == rm_darkruins_16 && global.flag[26] == 0)
         {
             sndfnt = 100
             portrait = 0
-            message[0] = "* I don't know who you are but I#  ask you..."
-            message[1] = "* Please leave!"
+            message[0] = "* No sé quién eres pero..."
+            message[1] = "* ¡Por favor, largate!"
         }
         timer++
     }
@@ -421,8 +421,8 @@ if (room == rm_darkruins_18 && global.flag[27] == 0)
             with (msg)
             {
                 sndfnt = 100
-                message[0] = "* You're... still following me?"
-                message[1] = "* I thought I made it clear that#  I want to be left alone."
+                message[0] = "* ¿Todavia... me sigues?"
+                message[1] = "* Pensé que habia dejado#  claro que quiero que#  me dejen en paz"
                 portrait = 0
                 position = 0
             }
@@ -437,12 +437,12 @@ if (room == rm_darkruins_18 && global.flag[27] == 0)
             with (msg)
             {
                 sndfnt = 100
-                message[0] = "* I don't understand... You...#  you look just like them."
-                message[1] = "* Is this some sort of haunting?#  Or have you come to finish the#  job?"
-                message[2] = "* Retreating here wasn't enough#  so you hunted me down..."
-                message[3] = "* Right?"
+                message[0] = "* No entiendo... Tu...#  te pareces a ellos."
+                message[1] = "* ¿Es algún tipo de hechizo?#  ¿O has venido a#  terminar el trabajo?"
+                message[2] = "* Retirarme aquí no fue#  suficiente,#  así que me cazaste..."
+                message[3] = "* ¿Verdad?"
                 ch_msg = 3
-                ch[1] = "What?"
+                ch[1] = "¿Qué?"
                 ch[2] = "..."
                 portrait = 0
                 position = 0
@@ -459,10 +459,10 @@ if (room == rm_darkruins_18 && global.flag[27] == 0)
             with (msg)
             {
                 sndfnt = 100
-                message[0] = "* And I was just starting to#  accept my reality.#  The cruelty..."
+                message[0] = "* Y estaba empezando a#  aceptar mi realidad.#  La crueldad..."
                 message[1] = "* ..."
-                message[2] = "* Whatever I did to you that day#  was not my intention, I was#  only..."
-                message[3] = "* Nevermind. Words aren't#  enough."
+                message[2] = "* Lo que te hice ese día#  no fue mi intención,#  yo solo..."
+                message[3] = "* No importa. Las palabras#  no son suficientes."
                 portrait = 0
                 position = 0
             }
@@ -482,8 +482,8 @@ if (room == rm_darkruins_18 && global.flag[27] == 0)
             with (msg)
             {
                 sndfnt = 100
-                message[0] = "* I... I don't want to fight#  anybody, but you've invaded#  my home."
-                message[1] = "* The exit is blocked and you#  can't stay here. I will not#  allow it."
+                message[0] = "* Yo... No quiero pelear#  con nadie, pero#  has invadido mi casa."
+                message[1] = "* La salida está bloqueada#  y no puedes quedarte aquí.#  No lo permitiré."
                 portrait = 0
                 position = 0
             }
@@ -514,7 +514,7 @@ if (room == rm_darkruins_18 && global.flag[27] == 0)
             with (msg)
             {
                 sndfnt = 100
-                message[0] = "* Only one thing to#  do..."
+                message[0] = "* Sólo hay una cosa#  que hacer..."
                 prt[0] = 1759
                 portrait = 1
                 position = 0
@@ -545,9 +545,9 @@ if (room == rm_darkruins_18 && global.flag[27] == 0)
                     message[0] = "* ..."
                     message[1] = "* ..."
                     message[2] = "* ..."
-                    message[3] = "* What do friends do#  actually?"
-                    message[4] = "* Do you want to, um,#  see my house?#  Or something?"
-                    message[5] = "* I have to go there#  anyway so I guess stop#  by if you have time. "
+                    message[3] = "* ¿Qué hacen realmente#  los amigos?"
+                    message[4] = "* ¿Quieres...#  ver mi casa?#  ¿O algo así?"
+                    message[5] = "* Tengo que ir allí asi#  que supongo que pasa#  pasa por alli pronto."
                     prt[0] = 1755
                     prt[1] = 1780
                     prt[2] = 1763
@@ -580,18 +580,18 @@ if (room == rm_darkruins_18 && global.flag[27] == 0)
                 with (msg)
                 {
                     sndfnt = 100
-                    message[0] = "You're... sparing me?"
-                    message[1] = "But... what about them?"
-                    message[2] = "Why only me?"
-                    message[3] = "What makes me so#special!"
-                    message[4] = "Or is this how you#plan to hurt me?"
-                    message[5] = "By taking them all#away..."
+                    message[0] = "¿Me estás... perdonando?"
+                    message[1] = "Pero... ¿qué pasa con ellos?"
+                    message[2] = "¿Por qué solo yo?"
+                    message[3] = "¡Qué me hace tan#especial!"
+                    message[4] = "¿O es así como#  planeas hacerme daño?"
+                    message[5] = "Llevándoselos a todos..."
                     message[6] = "..."
-                    message[7] = "...I don't need them.#I'll be fine on my own."
-                    message[8] = "I've been doing it#long enough..."
+                    message[7] = "...No los necesito.#Estare bien por mi cuenta."
+                    message[8] = "Lo he estado haciendo#lo suficiente..."
                     message[9] = "..."
-                    message[10] = "I think you should leave."
-                    message[11] = "You've already done#enough damage here."
+                    message[10] = "Creo que deberías irte."
+                    message[11] = "Ya has hecho#suficiente daño aquí."
                     prt[0] = 1763
                     prt[1] = 1764
                     prt[2] = 1763
@@ -626,7 +626,7 @@ if (room == rm_darkruins_18 && global.flag[27] == 0)
                 {
                     sndfnt = 100
                     message[0] = "* ..."
-                    message[1] = "* I guess... I truly am#  alone now..."
+                    message[1] = "* Supongo que... Realmente#  estoy solo ahora..."
                     portrait = 0
                     position = 0
                 }
@@ -654,10 +654,10 @@ if (room == rm_darkruins_18 && global.flag[27] == 0)
             with (msg)
             {
                 sndfnt = 100
-                message[0] = "* This was all a#  misunderstanding, right?"
+                message[0] = "* Todo esto fue un#  malentendido, ¿verdad?"
                 message[1] = "* ..."
-                message[2] = "* I'll be waiting in my#  house."
-                message[3] = "* Come whenever you feel#  like it."
+                message[2] = "* Estaré esperando en#  mi casa."
+                message[3] = "* Ven cuanto te#  apetezca."
                 prt[0] = 1755
                 prt[1] = 1780
                 prt[2] = 1755
@@ -705,13 +705,13 @@ if (room == rm_dalvshouse && global.flag[28] == 0)
                 global.route = 1
                 genoCount = 0
                 sndfnt = 100
-                message[0] = "* Welcome..."
-                message[1] = "* Make yourself at home."
-                message[2] = "* I'm going to my room to#  rest."
-                message[3] = "* I feel a bit ill."
-                message[4] = "* We're... friends now#  so..."
-                message[5] = "* Look at whatever you#  like."
-                message[6] = "* See you... later."
+                message[0] = "* Bienvenido..."
+                message[1] = "* Siéntete como en casa."
+                message[2] = "* Me voy a mi habitación#  a descansar."
+                message[3] = "* Me siento un poco mal."
+                message[4] = "* Somos...  amigos ahora#  así que..."
+                message[5] = "* Mira lo que quieras"
+                message[6] = "* Nos vemos... más tarde."
                 prt[0] = 1780
                 prt[1] = 1755
                 prt[2] = 1780
@@ -723,11 +723,11 @@ if (room == rm_dalvshouse && global.flag[28] == 0)
             else if (global.dalv_house_enter_count == 0)
             {
                 sndfnt = 100
-                message[0] = "* I have to um...#  fix something in the#  other room."
-                message[1] = "* Sit down,#  get comfortable,#  take your shoes off."
+                message[0] = "* Tengo que...#  arreglar algo en#  otra habitación."
+                message[1] = "* Sientate,#  ponte cómodo,#  quítate los zapatos."
                 message[2] = "* ..."
-                message[3] = "* Actually please leave#  them on, the floors are#  a bit dirty."
-                message[4] = "* I haven't swept since #  this morning."
+                message[3] = "* En realidad por favor,#  dejalas puestas el suelo#  está un poco sucio."
+                message[4] = "* No he barrido desde#  esta mañana."
                 prt[0] = 1780
                 prt[1] = 1776
                 prt[2] = 1755
@@ -737,12 +737,12 @@ if (room == rm_dalvshouse && global.flag[28] == 0)
             else if (global.dalv_house_enter_count == 1)
             {
                 sndfnt = 100
-                message[0] = "* It seems like you#  took your time."
-                message[1] = "* Oh, but don't worry, I'm#  used to standing around#  by my lonesome."
-                message[2] = "* I keep myself occupied#  by cleaning around#  the house."
-                message[3] = "* It's my hourly routine!"
+                message[0] = "* Parece que te tomaste#  tu tiempo."
+                message[1] = "* Oh, pero no te preocupes#  estoy acostumbrado#  a estar solo."
+                message[2] = "* Me entretengo#  limpiando la casa."
+                message[3] = "* ¡Es mi rutina de#  cada hora!"
                 message[4] = "* ..."
-                message[5] = "* I have to um...#  fix something..."
+                message[5] = "* Tengo que um...#  arreglar algo..."
                 prt[0] = 1755
                 prt[1] = 1780
                 prt[2] = 1776

@@ -20,8 +20,8 @@ if (keyboard_multicheck_pressed(0) && scr_interact() == 1)
             {
                 portrait = 0
                 sndfnt = 99
-                message[0] = "* Now I can fulfill my dreams#  of opening a free hugs#  booth!"
-                message[1] = "* I'll get to see everyone's#  smiling faces! "
+                message[0] = "* Ahora puedo cumplir mi#  sueño de abrir una parada#  de abrazos gratis."
+                message[1] = "* Veré las caras#  sonrientes de todo el#  mundo. "
             }
             global.sideNpc[2] = 1
             break
@@ -30,9 +30,9 @@ if (keyboard_multicheck_pressed(0) && scr_interact() == 1)
             {
                 portrait = 0
                 sndfnt = 99
-                message[0] = "* Watch out Dalv! You're#  well overdue for a big#  hug! "
-                message[1] = "* Everyone needs a good hug#  now and then! "
-                message[2] = "* Especially big mopey mopes#  like Dalv! "
+                message[0] = "* ¡Ten cuidado con Dalv!#  Ya deberías haber recibido#  un gran abrazo. "
+                message[1] = "* Todos necesitamos un#  buen abrazo de vez en cuando. "
+                message[2] = "* ¡Especialmente los#  grandes deprimidos como Dalv!"
             }
             global.sideNpc[2] = 2
             break
@@ -41,9 +41,9 @@ if (keyboard_multicheck_pressed(0) && scr_interact() == 1)
             {
                 portrait = 0
                 sndfnt = 99
-                message[0] = "* If you ever turn into a#  big mopey mope like Dalv#  call my new business!"
-                message[1] = "* Sweet Corn's Perennial Hugs!"
-                message[2] = "* No really! Give me your#  phone and I'll give#  you the number!"
+                message[0] = "* ¡Si alguna vez te conviertes#  en un gran deprimido como Dalv,#  llama a mi nuevo negocio!"
+                message[1] = "* ¡Los abrazos eternos de Sweet Corn!"
+                message[2] = "* ¡No, en serio!#  ¡Dame tu teléfono y#  te daré el número!"
             }
             global.sideNpc[2] = 3
             break
@@ -52,7 +52,7 @@ if (keyboard_multicheck_pressed(0) && scr_interact() == 1)
             {
                 portrait = 0
                 sndfnt = 99
-                message[0] = "* Hugs make the world#  go 'round!"
+                message[0] = "* ¡Los abrazos hacen girar el mundo!"
             }
             break
     }

@@ -5,9 +5,9 @@ if scr_timer()
     with (msg)
     {
         sndfnt = 97
-        message[0] = "* Hello?"
-        message[1] = "* Are you still present,#  little one?"
-        message[2] = "* I am going to rescue#  you! Come!"
+        message[0] = "* ¿Hola?"
+        message[1] = "* ¿Sigues presente,#  pequeño?"
+        message[2] = "* ¡Voy a rescatarte!#  ¡Ven!"
         prt[0] = 343
         prt[1] = 340
         prt[2] = 343

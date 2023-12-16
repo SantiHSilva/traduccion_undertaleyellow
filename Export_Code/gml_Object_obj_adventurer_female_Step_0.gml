@@ -15,22 +15,22 @@ if (waiter == 1)
         sndfnt = 99
         if (global.route == 3 && geno_snowdin == 0)
         {
-            message[0] = "* The atmosphere seems colder#  than expected around here."
-            message[1] = "* Maybe this trip wasn't a good#  idea..."
+            message[0] = "* La atmósfera parece más#  fría de lo esperado por aquí."
+            message[1] = "* Tal vez este viaje no#  fue una buena idea..."
         }
         else
         {
             switch global.snowdin_flag[1]
             {
                 case 0:
-                    message[0] = "* Hello friend!"
-                    message[1] = "* My husband and I have been#  exploring the Underground."
-                    message[2] = "* Many secrets lie throughout#  these lands."
-                    message[3] = "* It makes for a great and exotic#  honeymoon."
+                    message[0] = "* ¡Hola amigo!"
+                    message[1] = "* Mi marido y yo hemos#  estado explorando el#  Subsuelo."
+                    message[2] = "* Hay muchos secretos en#  estas tierras."
+                    message[3] = "* Es una luna de miel#  estupenda y exótica."
                     message[4] = "* ..."
-                    message[5] = "* Unfortunately, we're a bit lost#  at the moment."
-                    message[6] = "* He says he knows where we are,#  but I think he's just#  embarrassed."
-                    message[7] = "* Any idea where we could#  get a map?"
+                    message[5] = "* Por desgracia, estamos#  un poco perdidos en#  este momento."
+                    message[6] = "* Dice que sabe dónde#  estamos, pero creo que#  sólo está avergonzado."
+                    message[7] = "* ¿Alguna idea de dónde#  podríamos conseguir un mapa?"
                     global.snowdin_flag[1] = 1
                     other.waiter = 0
                     break
@@ -49,29 +49,29 @@ if (waiter == 1)
                             other.is_talking = 0
                             other.waiter = 0
                         }
-                        message[0] = "* (You take out the map.)"
-                        message[1] = "* A map? Splendid! "
-                        message[2] = "* Did you make this just#  for us?"
-                        message[3] = "* I wish I had something#  as heartfelt to give#  in return..."
-                        message[4] = "* Would you like some#  extra matches?"
-                        message[5] = "* I've been holding onto them in#  case we needed a fire."
-                        message[6] = "* We won't need one anymore."
-                        message[7] = "* Our love will keep us warm!"
-                        message[8] = "* Sorry, that's a little#  cliche, isn't it."
-                        message[9] = "* Well, I wish you the best.#  Don't use all those#  matches in one place. "
-                        message[10] = "* (Received some Matches!)"
+                        message[0] = "* (Sacas el mapa.)"
+                        message[1] = "* ¿Un mapa?#  ¡Fantástico! "
+                        message[2] = "* ¿Hiciste esto sólo para#  nosotros?"
+                        message[3] = "* Ojalá tuviera algo tan#  sincero que dar a#  cambio..."
+                        message[4] = "* ¿Quieres unos fosforos extra?"
+                        message[5] = "* Los he estado guardando#  por si necesitábamos un#  incendio."
+                        message[6] = "* Ya no la necesitaremos."
+                        message[7] = "* ¡Nuestro amor nos#  mantendrá calientes!"
+                        message[8] = "* Lo siento, eso es un#  poco cliché, ¿no?"
+                        message[9] = "* Bueno, te deseo lo mejor.#  No uses todos esos fósforos#  en un solo lugar."
+                        message[10] = "* (¡Recibiste algunos Matches!)"
                     }
                     else
                     {
-                        message[0] = "* Next stop on our trip is#  supposed to be Waterfall."
-                        message[1] = "* I hear there are glittering#  stones in the ceiling."
-                        message[2] = "* It should be breath-taking#  and romantic."
-                        message[3] = "* ...If we ever find it, that#  is..."
+                        message[0] = "* La siguiente parada de#  nuestro viaje se supone#  que es Waterfall."
+                        message[1] = "* He oído que hay piedras#  brillantes en el techo."
+                        message[2] = "* Debe ser impresionante#  y romántico."
+                        message[3] = "* ...si alguna vez lo#  encontramos, claro..."
                     }
                     break
                 case 2:
-                    message[0] = "* This blocked off cave looks#  absolutely stunning."
-                    message[1] = "* I hope they clear the#  way soon. I can't wait#  to get moving again."
+                    message[0] = "* Esta cueva bloqueada#  es absolutamente#  impresionante."
+                    message[1] = "* Espero que despejen el#  camino pronto. No veo#  la hora de volver a moverme."
                     break
             }
 

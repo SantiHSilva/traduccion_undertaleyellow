@@ -1,7 +1,7 @@
 if (global.route != 3)
 {
-    message[0] = "* (A pile of crates, all#  containing corn.)"
-    message[1] = "* (You're getting tired of the#  stuff.)"
+    message[0] = "* (Una pila de cajas,#  todas conteniendo maíz.)"
+    message[1] = "* (Te estás cansando#  de esas cosas.)"
 }
 else
-    message[0] = "* (Some crates.)"
+    message[0] = "* (Algunas cajas.)"

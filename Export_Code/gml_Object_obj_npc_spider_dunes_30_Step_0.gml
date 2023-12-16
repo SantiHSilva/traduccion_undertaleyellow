@@ -21,7 +21,7 @@ if (can_talk == 1)
         message[2] = "* All proceeds go to spiders in#  need!"
         message[3] = "* Will you buy a Spider Donut for#  7G?"
         ch_msg = 3
-        ch[1] = "Yes"
+        ch[1] = "Sí"
         ch[2] = "No"
         if (outcome == 1)
         {

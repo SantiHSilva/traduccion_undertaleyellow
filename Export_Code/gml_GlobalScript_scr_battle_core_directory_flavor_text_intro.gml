@@ -17,9 +17,9 @@ function scr_battle_core_directory_flavor_text_intro() //gml_Script_scr_battle_c
     else if (game_mode == "yellow")
     {
         if (battle_enemy_name == "froggit intro")
-            message[0] = "* Froggit hopped close!"
+            message[0] = "* ¡Froggit saltó cerca!"
         else if (battle_enemy_name == "flier solo")
-            message[0] = "* Flier is giving fighting a try!"
+            message[0] = "* ¡Flier está intentando luchar!"
         else if (battle_enemy_name == "flier trio")
             message[0] = "* You are overwhelmed by#  depressing vibes."
         else if (battle_enemy_name == "penilla solo")
@@ -39,9 +39,9 @@ function scr_battle_core_directory_flavor_text_intro() //gml_Script_scr_battle_c
         else if (battle_enemy_name == "rorrim solo")
             message[0] = "* Rorrim encounters you!"
         else if (battle_enemy_name == "decibat")
-            message[0] = "* Decibat makes his presence#  known."
+            message[0] = "* Decibat hace notar#  su presencia."
         else if (battle_enemy_name == "dalv")
-            message[0] = "* Dalv musters his fighting#  spirit."
+            message[0] = "* Dalv reúne su espiritu de lucha."
         else if (battle_enemy_name == "micro froggit")
             message[0] = "* You notice Micro Froggit#  attacking you!"
         else if (battle_enemy_name == "insomnitot solo")

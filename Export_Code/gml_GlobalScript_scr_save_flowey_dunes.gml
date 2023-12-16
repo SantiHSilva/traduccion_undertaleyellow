@@ -155,7 +155,7 @@ function scr_save_flowey_dunes() //gml_Script_scr_save_flowey_dunes
                     switch global.flowey_flag[16]
                     {
                         case 0:
-                            message[0] = "* Howdy!"
+                            message[0] = "* ¡Buenas!"
                             message[1] = "* Strange sight, huh?"
                             message[2] = "* Who knew something#  could actually grow#  here?"
                             message[3] = "* Anyway, great job so#  far!"
@@ -212,7 +212,7 @@ function scr_save_flowey_dunes() //gml_Script_scr_save_flowey_dunes
                     switch global.flowey_flag[18]
                     {
                         case 0:
-                            message[0] = "* Howdy!"
+                            message[0] = "* ¡Buenas!"
                             message[1] = "* This cave sure is#  ginormous!"
                             message[2] = "* I hope this rail leads#  to an exit cause it's#  getting stuffy in here."
                             message[3] = "* Enjoy the ride, pal!"
@@ -260,7 +260,7 @@ function scr_save_flowey_dunes() //gml_Script_scr_save_flowey_dunes
                     switch global.flowey_flag[20]
                     {
                         case 0:
-                            message[0] = "* Howdy!"
+                            message[0] = "* ¡Buenas!"
                             message[1] = "* Looks like we're back#  on solid ground!"
                             message[2] = "* That mine sure was a#  detour!"
                             message[3] = "* What a buncha slackers!"
@@ -296,7 +296,7 @@ function scr_save_flowey_dunes() //gml_Script_scr_save_flowey_dunes
                     switch global.flowey_flag[21]
                     {
                         case 0:
-                            message[0] = "* Howdy!"
+                            message[0] = "* ¡Buenas!"
                             message[1] = "* Gee, seems like my#  greeting has found its#  home."
                             message[2] = "* Like the hat? It's a#  disguise."
                             message[3] = "* This area is pretty#  populated so I picked#  this up to be safe!"
@@ -326,11 +326,11 @@ function scr_save_flowey_dunes() //gml_Script_scr_save_flowey_dunes
                             global.flowey_flag[21] += 1
                             break
                         case 2:
-                            message[0] = "* Howdy!"
+                            message[0] = "* ¡Buenas!"
                             prt[0] = 348
                             break
                         case 3:
-                            message[0] = "* Howdy!"
+                            message[0] = "* ¡Buenas!"
                             message[1] = "* ..."
                             message[2] = "* Okay, my patience is#  only so strong, Clover."
                             message[3] = "* I hope you're not#  planning to actually#  stay here."
@@ -351,7 +351,7 @@ function scr_save_flowey_dunes() //gml_Script_scr_save_flowey_dunes
                             prt[0] = 348
                             break
                         case 5:
-                            message[0] = "* Howdy!"
+                            message[0] = "* ¡Buenas!"
                             message[1] = "* I was afraid things#  would escalate."
                             message[2] = "* Nothing you're not#  fully used to by now!"
                             message[3] = "* This is probably a good#  time to get outta here."
@@ -378,7 +378,7 @@ function scr_save_flowey_dunes() //gml_Script_scr_save_flowey_dunes
                         switch global.flowey_flag[22]
                         {
                             case 0:
-                                message[0] = "* Howdy!"
+                                message[0] = "* ¡Buenas!"
                                 message[1] = "* I was hoping Starlo ran#  to his parents or#  somethin'."
                                 message[2] = "* Looks like you'll have#  to confront him."
                                 message[3] = "* Do what you do best!#  I'm always rootin' for#  ya!"
@@ -409,7 +409,7 @@ function scr_save_flowey_dunes() //gml_Script_scr_save_flowey_dunes
                     switch global.flowey_flag[23]
                     {
                         case 0:
-                            message[0] = "* Howdy!	"
+                            message[0] = "* ¡Buenas!	"
                             message[1] = "* You're becoming a pro#  at this, buddy!	"
                             message[2] = "* At this rate, you'll be#  able to confront ASGORE#  himself!"
                             prt[0] = 348

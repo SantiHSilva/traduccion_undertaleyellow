@@ -1,4 +1,4 @@
-message[0] = "* Welcome to the Honeydew Resort!"
-message[1] = "* North: The Honeydew Lodge"
-message[2] = "* Northwest: The Honeydew#  Hotspring"
-message[3] = "* East: Exit to Snowdin"
+message[0] = "* ¡Bienvenido al#  Shopkeeper Honeydew!"
+message[1] = "* Norte: El Honeydew Lodge"
+message[2] = "* Noroeste: El Hotspring#  de Honeydew"
+message[3] = "* Este: Salida a Snowdin"

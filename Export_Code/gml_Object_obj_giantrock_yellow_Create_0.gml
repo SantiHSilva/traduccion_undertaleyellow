@@ -1,14 +1,14 @@
 event_inherited()
 if (global.route != 3)
 {
-    message[0] = "* (It's a big and imposing rock.)"
-    message[1] = "* (It seems to be perfectly#  blocking the cave entrance.)"
-    message[2] = "* (Passing looks impossible for#  the time being.)"
+    message[0] = "* (Es una roca grande#  e impresionante.)"
+    message[1] = "* (Parece estar perfectamente#  bloqueando la entrada#  de la cueva.)"
+    message[2] = "* (Pasar parece imposible#  por el momento.)"
     message_length = 3
 }
 else
 {
-    message[0] = "* (An annoying boulder blocks the#  cave.)"
+    message[0] = "* (Una molesta roca#  bloquea la cueva.)"
     message_length = 1
 }
 depth = (-y)

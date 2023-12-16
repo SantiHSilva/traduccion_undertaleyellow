@@ -36,7 +36,7 @@ switch scene
         with (msg)
         {
             talker[0] = 3194
-            message[0] = "* Howdy!"
+            message[0] = "* ¡Hola!"
             message[1] = "* Regular monsters are#  one thing but..."
             message[2] = "* That fox lady you just#  killed was a piece of#  work, huh?"
             message[3] = "* If you bested her,#  ASGORE doesn't stand a#  chance!"

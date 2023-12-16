@@ -24,10 +24,10 @@ if (waiter == 30)
     {
         sndfnt = 99
         portrait = 0
-        message[0] = "* I declare you an honorary#  sentinel of silence."
-        message[1] = "* I trust you to keep peace#  and order hhear."
-        message[2] = "* I shall go conquer new lands#  in the name of quiet."
-        message[3] = "* This is a very hhigh#  honor so keep it#  hhush hhush."
+        message[0] = "* Te declaro#  centinela del silencio."
+        message[1] = "* Confío para mantener la paz#  y el orden del ruido."
+        message[2] = "* Iré a conquistar nuevas#  tierras en el nombre#  de la tranquilidad."
+        message[3] = "* Esto es un hhonor muy grande#  así que mantenlo secreto#  hhush hhush."
     }
     waiter = 31
 }

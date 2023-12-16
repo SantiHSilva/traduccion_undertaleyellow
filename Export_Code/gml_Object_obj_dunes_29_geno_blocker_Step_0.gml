@@ -19,7 +19,7 @@ switch scene
             message[0] = "* (There are still enemies to#  bring justice on.)"
             ch_msg = 0
             ch[1] = "Turn back"
-            ch[2] = "Continue"
+            ch[2] = "Continuar"
             if (outcome == 2)
             {
                 scr_cutscene_end()
