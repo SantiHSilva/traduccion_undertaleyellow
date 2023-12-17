@@ -4,3 +4,7 @@ gml_Object_obj_lemonadestand_Step_0
 
 Traducir Large Amount y Small Acount
 	 Gran Cantidad  Poca Cantidad
+
+gml_Object_obj_flowey_snowdin3_Step_0
+Traducir It's Clove That's Right
+	 Clover	    Correcto

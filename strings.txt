@@ -2422,7 +2422,7 @@ gml_Script_scr_save_flowey_snowdin
 * Estaría bien#  pasar por aquí#  sin molestias.
 * Supongo que el#  mundo no funciona así.
 * Así son los monstruos,#  nunca pueden ocuparse#  de sus propios asuntos.
-* En cualquier caso,#  ¡lo estás haciendo muy bien!
+* En cualquier caso,#  ¡lo estás haciendo#  muy bien!
 * ¡Sigue así, amigo!
 * Sigues haciéndolo#  muy bien, amigo.
 * ¿Supongo que necesitabas#  una confirmación extra?
@@ -2511,7 +2511,7 @@ gml_Script_scr_determine_world_value_yellow
 * ¡Parece que lo estás#  haciendo bien!
 * ¡Solo 
  muertes!#* ¡Experto en el#  Dark Souls!
-* ¡Solo 1 death!
+* ¡Solo 1 muerte!
 * ¡No has muerto#  ni una vez!
 * No es que pensara#  que lo harias, ¡pero#  está bien estar listo!
 * ¿Viste? ¿¡No te alegra#  tenerme cerca!?
@@ -2521,7 +2521,7 @@ gml_Script_scr_determine_world_value_yellow
 * ¡Vamonos, amigo!
 * ¡Puedes guardar#  después!
 * ¡Ya falta menos!
-* ¡Solo tengo que#  lidiar con ese bajón!
+* ¡Solo tienes que#  lidiar con ese bicho!
 * ¡Entonces saldrás#  de las Ruinas!
 * ¡Nos vemos en el#  otro lado, amigo!
 * ¿Qué?
@@ -3386,7 +3386,7 @@ scr_battle_core_directory_flavor_text_enemy_1_action_3
 * Decibat mueve sus grandes orejas.
 * Decibat se está#  duermiendo.
 * Decibat disfruta del silencio.
-* Decibat te hace un gesto de# aprobación.
+* Decibat te hace un gesto de#  aprobación.
 * Decibat se ve un poco más#  en paz.
 * Dalv se ve inseguro de que hacer.
 * Micro Froggit está impresionado#  de que pudiste golpearle.
@@ -5394,7 +5394,7 @@ audio_extend_music
 scr_generate_battle_dalv
 scr_recreate_heart_battle_menu_text_dalv
 * Parece que Dalv está#  demasiado concentrado para#  oirte.
-* Dalv parece no valorar# la comunicación.
+* Dalv parece no valorar#  la comunicación.
 * Dalv no quiere oírte.
 scr_dialogue_battle_action_selected_action_1_dalv
 * Dalv acepta tu oferta de#  buena voluntad.
@@ -9061,7 +9061,7 @@ reverse
 * Con un nuevo diseño#  vertical, ¡puedes ver#  lo que controlas!
 * Sin embargo, las#  piezas pueden seguir#  atascándose.
 * Por favor, consulta#  mis instrucciones en el#  primer puzzle si eso ocurre.
-* Firmado: Martlet de la#  Underground Royal#  del Subsuelo.
+* Firmado: Martlet de la# Guardia Real Subterránea
 * (Algunos restos de la#  construcción de este puzzle.)
 * (Sólo algo de basura.)
 * (Un banco de madera.)
@@ -16003,13 +16003,13 @@ PRUEBA DEL CONTROL
 , RB
 , LB
 * Leí algo en un libro una vez.
-* Decia, "Si la vida te viene#  demasiado deprisa, pulsa X and take it#  slow."
+* Decia, "Si la vida te viene#  demasiado deprisa, pulsa X#  y tomatelo con calma."
 * Signifique lo#  que signifique.
 * Sabes, leí algo más#  en ese mismo libro.
 * Decia, "Come para#  mantenerte fuerte y sano!"
 * Eso es obvio.
 * ¿Quieres saber otro fragmento#  de ese libro?
-* Decia, \"Por favor para de#  hablarme, agote las#  citas de mi libro."
+* Decia, "Por favor para de#  hablarme, agote las#  citas de mi libro."
 * Un libro muy sabio,#  sin duda.
 * Por favor, déjame en paz.
 Aww, I would#be honored!
@@ -17400,7 +17400,7 @@ draw_triangle
 * No es amigo
 * ¿Es... Sombrero...#  de Pistolero...?
 * ¿En serio?
-* Bueno, Sombrero de Pistolero.#  Basta de charla.
+* Bueno, Sombrero de#  Pistolero. Basta#  de charla.
 * Nos vemos.
 * Bonito nombre.
 * Pensé que era la#  única flor por aquí.
@@ -17472,7 +17472,7 @@ geno_snowdin
 * No dejaré que eso#  ocurra.
 * No dejaré que mi#  nueva esposa tenga#  una mala luna de miel.
 * No podemos perdernos
-* Ella no puede saber#  que estamos# perdidos,#  ¿de acuerdo?
+* Ella no puede saber#  que estamos perdidos,#  ¿de acuerdo?
 * ¡Gracias por el mapa!
 * Pero no lo necesitamos.
 * Tenía todo bajo control,#  lo juro.
@@ -17631,10 +17631,10 @@ slurpy_solution
 * ...Unfortunately not of the#  prior variety, but you know...#  notice.
 * (Es un árbol.#  Nada especial.)
 * (Un árbol viejo y frágil.)
-* (¿Tomar los Ice Pellets?)
-* (¡Obtuviste Ice Pellets!)
+* (¿Tomar un Ice Pellets?)
+* (¡Obtuviste un Ice Pellets!)
 * Decia, "Si la vida te viene#  demasiado deprisa, pulsa 
- y tomatelo#  con calma."
+ y#  tomatelo  con calma."
 kiosk_hsp
 mo_change_depth
 mo_menu_fall
@@ -17667,12 +17667,12 @@ mo_leave
 mo_can_walk
 * ¿Qué es esto?
 * ¿Un nuevo cliente?
-* Much as I'd love to keep#  sellin' pops, I'm all out!
-* Until next time!
+* Por mucho que me gustaría#  seguir vendiendo pops,#  ¡no me quedan!
+* ¡Hasta la próxima!
 * ¿Quién soy yo? Nadie#  importante. Ya sabes.
 * ¡EL MEJOR VENDEDOR#  DE LA HISTORIA!
 * ¡WAM! ¡Yo soy Mo!
-              Mo 
+                Mo 
 * El hecho de que hayas intentado#  hacerte con esta taza sólo#  puede significar una cosa.
 * Buscas algo delicioso#  para dar en el blanco,#  ¿verdad?
 * ¡Claro que sí!#  Conozco a los de tu tipo.
@@ -17684,11 +17684,11 @@ mo_can_walk
 * ¿Líquidos?#  ¡Tan de la temporada pasada!
 * ¿Sólidos? ¡PAH!#  ¡Temporada anterior!
 * ¿Quieres ser fresco y#  revolucionario? ¡Tengo#  lo último!
-* Solids that USED to be liquids!
+* ¡Sólidos que SOLÍAN ser#  líquidos!
 * ...Y, ya sabes, no he estado#  sentado en el bosque durante#  tres semanas.
 * ¡He inventado la próxima#  gran cosa!
 * ¡Por el increíble precio#  de 15 de oro, puedes tener tu#  propio chocolate caliente Pop!
-* Antes era el viejo y aburrido#  chocolate caliente, ¡pero ahora está#  congelado a la temperatura perfecta!
+* Antes era el viejo y aburrido#  chocolate caliente, ¡pero ya está#  congelado a temperatura ideal!
 * ¿He despertado ya tu#  interés?
 Vendido
 No Gracias
@@ -17700,24 +17700,24 @@ No Gracias
 * No recibo muchos envíos,#  así que solo tengo uno#  de cada uno.
 Cancelar
 -VENDIDO-
-* Here's what I got. (15 G)
+* Esto es lo que tengo. (15 de ORO)
 * ¿No pudiste mantenerte#  alejado?
-* Well-BAM-Take your pick.
-* Great choice.
-* You enjoy that Pop, buddy.
-* Sorry, buddy. I'm gonna#  need more G than that.
-* Uh-oh, looks like you've got no#  space for this item.
-* Come back when you've made some#  more room.
-* What a popular item! I wish I#  could sell you more, but I'm#  fresh out.
-* Hey, what are ya doing there!
-* That ain't no Pop!
-* You leavin' me? Not interested#  in my wares?
-* Do I not have your favorite#  temperature?
-* Oh, I see. You need some time#  to think about it.
-* Well, I'll always be here for#  your gol-
-* ...Business.
-* I said business.
-* Mo out!
+* Bueno-BAM-Tome su elección.
+* Gran elección.
+* Disfruta de ese Pop, amigo.
+* Lo siento, amigo.#  Voy a necesitar más#  ORO que eso.
+* Uh-oh, parece que#  no tienes espacio para#  este item.
+* Vuelve cuando hayas#  hecho algo más de#  espacio.
+* ¡Qué artículo tan popular!#  Ojalá pudiera venderte más,#  pero se me han acabado.
+* ¡Eh, qué haces ahí!
+* ¡Eso no es un Pop!
+* ¿Me estás abandonando?#  ¿No te interesan mis#  mercancías?
+* ¿No tengo tu temperatura#  preferida?
+* Ah, ya veo. Necesitas algo#  de tiempo para pensarlo.
+* Bueno, siempre estaré#  aquí para tu or-
+* ...Negocios.
+* Dije Negocios.
+* ¡Mo fuera!
 snow_cutscene
 * (It's a snowcastle!#* How... cute?)
 * (You open the doors.)
@@ -22593,8 +22593,8 @@ mus_gameover
 * Pero no quiero volver#a oirlo, ¿de acuerdo?
 Esta cosa odia el#ruido, ¿verdad?
 ¡Utilizalo#a tu favor!
-¿Una solución permantente#, ¿eh?
-Lastima que#deshacerlo, ¡jaja!
+¿Una solución permanente,# ¿eh?
+Lastima que puedo# deshacerlo, ¡jaja!
 ¡Este solitario#pega fuerte!
 ¡Nada que no puedas#manejar!
 La última vez que lo#comprobé, a nadie le#gustan los humanos fritos.
@@ -23462,7 +23462,7 @@ Podría ser que...#No, no es#posible.
 Pareces tan#indefenso. Diferente.
 ¿Pero es una#excusa?
 No... No estás#tratando de hacerme#daño...
-Tú... You aren't#who I believed you#to be, are you?
+Tú... No eres#quien yo creía que#eras, ¿verdad?
 ...¿Cómo he podido#ser tan tonto?
 Me disculpo.#De verdad que sí.
 Esto se me#fue de las manos...
