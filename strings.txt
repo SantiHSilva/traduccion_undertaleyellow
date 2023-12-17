@@ -8947,7 +8947,7 @@ nextroom
 Press this switch,#please! #     -Toriel
 Also press this switch,#please! #     -Toriel
 * "Presiona [
-] to read signs!"
+] para leer#  carteles!"
 * (Este cartel #  está oculto por las#  hojas.)
 * (Sólo se ven algunas#  palabras.)
 * Precaución... 
@@ -10142,7 +10142,7 @@ correct_item
 * It'll all work out in#  the end, pal! 
 * (You open the storage cabinet#  and find some Dihydrogen#  Monoxide.)
 * (There's some water inside.)
-* (Take it?)
+* (¿Tomarlo?)
 Sí
 No
 * (You got Dihydrogen Monoxide!)
@@ -14678,7 +14678,7 @@ hurtbox
 charge_state
 world_value
 Reset
-Config
+Configuración
 play_time
 Room Name
 RESET
@@ -15991,7 +15991,7 @@ pressedText
 pressedButton
 3(X)
 [PRESS BUTTON]
-CONFIG. DE JOYSTICK
+CONFIG. JOYSTICK
 Volver
 CONFIRMAR - [Z, ENTER]::
 CANCELAR  - [X, SHIFT]::
@@ -16711,9 +16711,9 @@ distance_to_clover
 * No te preocupes, he#  marcado los que#  necesitas activar.
 * Oh, ¿Necesitas#  ayuda?
 * Por favor, activa#  el interruptor en la#  pared norte.
-* ¡Esplendido! I am proud#  of you my child. 
+* ¡Esplendido! Estoy orgulloso#  de ti, mi niño. 
 * Vamos, ¡yo creo en ti!
-* ¡Solo one more switch#  remains.
+* ¡Solo un interruptor#  más!
 * ¡Oh no, mi niño! Ese#  es el interruptor#  equivocado.
 * Yo te señale#  el que necesitas activar.
 * Ese interruptor#  ya esta activado.
@@ -16747,7 +16747,7 @@ destroy
 * Creo que a los niños les#  parecerá más interesante#  así.
 * Aunque puede que no sea#  tan educativo...
 * (Dibujos infantiles esparcidos sobre#  la mesa.)
-* Gee, looks like we're#  getting close to an exit#  from this place.	
+* Gee, looks like we're#  getting close to an exit#  from this place.
 * Aside from those mines,#  time has been pretty#  friendly to us.	
 * Should be a simple#  journey from here on ou-
 * Hey! Human!
@@ -17262,22 +17262,22 @@ Get ready for my#strongest atta-
         #      FLOWEY  #   FLOWEY    FLOR 
 * Probablemente quieras#  irte a casa, ¿verdad?
 * ¡Pues te espera un #  largo viaje!
-* Si alguna vez necesitas que,#  guarde ¡buscame!
+* Si alguna vez necesitas#  guardar ¡buscame!
 * Dejaré estas #  pequeñas cosas por ahí.
 * Bueno, supongo que eso#  es todo.
 * ¡A por ellos, amigo!
 * Bueno, ¡eso es todo!
-* Así es fácil#  encontrarme!
-* Si ves uno,#  no dudes en llamarme! 
-* Y entonces te salvare.#  ¡Como acabo de guardar#  ahora!
-* There's one more...
+* ¡Así de fácil es#  encontrarme!
+* ¡Si ves uno,#  no dudes en llamarme! 
+* Y entonces guardare.#  ¡Como acabo de guardar#  ahora!
+* Hay una cosa más...
 * El rey de todos los#  monstruos, ASGORE...
 * Ha estado matando#  humanos.
 * La única salida es#  matarlo y... #  bueno...
 * Eres bastante pequeño...
 * Aunque eso no importa#  demasiado.
 * ¡Lo que importa es#  que me tienes de tu#  lado!
-* Te dejaré ir,#  pero por favor ten cuidado.
+* Te dejaré ir,#  pero por favor ten#  cuidado.
 * Hay todo tipo de#  trampas peligrosas#  aquí abajo.
 * Y algunos monstruos #  de este lugar...
 * Escuche que no les gusta#  las visitas. #  ¡Buena suerte!
@@ -23203,11 +23203,11 @@ attack_start
 ¿Ves ese corazón? Esa#es tu ALMA. ¡La#culminación de#tu ser!
 Tu LV representa#tu AMOR... es...
 Je... Estoy seguro#de que no tendrás que#preocuparte por eso.
-En el subsuelo,#los monstruos pueden intentar#¡atacarte!
+En el subsuelo,#los monstruos pueden#intentar#¡atacarte!
 Si ves balas#como estas...
 ¡Tienes que evitarlos#a toda costa!
 ¡Intenta esquivar mis#balas ahora! ¡Aquí#vienen!
-¡Buen trabajo,#amigo! En caso de que#te golpeen, ¡puedo#GUARDAR tu progreso!
+¡Buen trabajo,#amigo! En caso de que#te golpeen,¡puedo#GUARDAR tu progreso!
 Eso significa que#si pasa algo malo,# puedo hacer#que no te pase a ti.
 spin_radius_speed
 spin_radius_speed_multiplier

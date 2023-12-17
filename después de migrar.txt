@@ -1,5 +1,6 @@
 
 De este archivo:
-gml_Object_obj_dialogue_Draw_64
+gml_Object_obj_lemonadestand_Step_0
 
-Traducir el oro y el espacio que no se pone por un bug de compilación.
+Traducir Large Amount y Small Acount
+	 Gran Cantidad  Poca Cantidad
