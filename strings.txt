@@ -2435,8 +2435,8 @@ gml_Script_scr_save_flowey_snowdin
 * Colorido.
 * Realmente no puedo#  pasar dos segundos#  sin ser acosado aquí.
 * ¿Nadie ha oído hablar#  del espacio personal?
-* A menos que alguien nos#  envie por correo hacia ASGORE,#  no los necesitamos.
-* En fin, sigamos adelante.#  Estamos perdiendo el tiempo.
+* A menos que alguien nos#  envie por correo hacia#  ASGORE, no lo necesitamos.
+* En fin, sigamos adelante.#  Estamos perdiendo#  el tiempo.
 * ¿Qué estás esperando?
 * Tienes un trabajo#  que hacer.
 * Mira, lo entiendo,#  quieres ser cuidadoso.
@@ -9040,7 +9040,7 @@ reverse
 * (Probablemente no debería#  molestar su negocio.)
 * (Los restos de un#  muñeco de nieve.)
 * (Una vez lleno de vida.)
-* (Ahora lleno de potencial#  para una nueva# vida.)
+* (Ahora lleno de potencial#  para una nueva vida.)
 * ¡Bienvenido al#  Shopkeeper Honeydew!
 * Norte: El Honeydew Lodge
 * Noroeste: El Hotspring#  de Honeydew
@@ -15851,7 +15851,7 @@ Aquellos que lo hicieron...#no se les volvió#a ver.
 stats_open
 ITEM
 STATS
-MAIL
+CORREO
 NOTHING
 item_selected
 item_inspect
@@ -15896,7 +15896,7 @@ INFO.
 BORRAR
 mail_name
 LEER
-PIN
+FIJAR
 itemBox
 statBox
 p1
@@ -16668,28 +16668,28 @@ mail_whale_shadow_alpha
 mail_whale_travel_noloop
 mail_whale_mail_noloop
 transition
-* Hello -  greetings - hip hip#  hooray!
-* What can I do for you today?
-Travel
-* You have a watch? If you don't,#  that's fine!
-* Cause you know what time it is?#  Mail time! Mail time! 
-* Do you have mail to claim?
-* Let's take a look. You don't!#  What a shame.
-* If you want to check again,#  just ring the bell!
-* Until we meet again; I bid you#  farewell!
-* (You received mail!)
-* I truly hope you like your#  mail!
-* As for me, I must set sail!
-* Where in the world would you#  like to fly?
-* Just choose the place and the#  UGPS sign!
-* Hello again, friend! Do you#  have mail to claim?
+* Hola -  saludos - hip hip#  ¡hurra!
+* ¿Qué puedo hacer hoy por ti?
+Aventura
+* ¿Tienes reloj? Si no tienes,#  ¡no pasa nada!
+* ¿Porque sabes qué hora es?#  ¡Hora del correo!#  ¡Hora del correo! 
+* ¿Tiene correo que reclamar?
+* Echemos un vistazo.#  ¡No tienes! Qué pena.
+* Si quieres comprobarlo de#  nuevo, ¡sólo tienes que tocar#  el timbre!
+* Hasta que nos volvamos#  a ver; ¡me despido!
+* (¡Recibiste un correo!)
+* ¡Espero de verdad que le guste#  su correo!
+* En cuanto a mí, ¡debo partir!
+* ¿En qué parte del mundo#  le gustaría volar?
+* Sólo tiene que elegir el lugar#  y el signo SPSS
+* ¡Hola de nuevo, amigo!#  ¿Tienes correo para reclamar?
 * OOF.
-* A very fine choice, I cannot#  scoff!
-* Hop into my basket and we'll#  takeoff!
-* We have arrived without a#  scratch!
-* The journey was fun but it's#  time to dispatch!
-* Just ring the bell for any#  further assistance!
-* The UGPS will be there with#  little resistance!
+* Una elección muy acertada,#  ¡no puedo burlarme!
+* ¡Sube a mi cesta y#  despegaremos!
+* ¡Hemos llegado sin un#  rasguño!
+* La aventura fue divertida,#  ¡pero ha llegado la hora de partir!
+* ¡Si necesita más ayuda,#  llame al timbre!
+* ¡La SPSS estará allí con poca resistencia!
 mail_station_blocked
 * ¡Ah! Hola.
 * Paso por aquí#  todos los días para ver#  si alguien se ha caído.
@@ -17688,7 +17688,7 @@ mo_can_walk
 * ...Y, ya sabes, no he estado#  sentado en el bosque durante#  tres semanas.
 * ¡He inventado la próxima#  gran cosa!
 * ¡Por el increíble precio#  de 15 de oro, puedes tener tu#  propio chocolate caliente Pop!
-* Antes era el viejo y aburrido#  chocolate caliente, ¡pero ya está#  congelado a temperatura ideal!
+* Antes era el viejo y aburrido#  chocolate caliente, ¡pero ahora#  congelado a temperatura ideal!
 * ¿He despertado ya tu#  interés?
 Vendido
 No Gracias
@@ -17700,7 +17700,7 @@ No Gracias
 * No recibo muchos envíos,#  así que solo tengo uno#  de cada uno.
 Cancelar
 -VENDIDO-
-* Esto es lo que tengo. (15 de ORO)
+* Esto es lo que tengo. (15 ORO)
 * ¿No pudiste mantenerte#  alejado?
 * Bueno-BAM-Tome su elección.
 * Gran elección.
@@ -17719,53 +17719,53 @@ Cancelar
 * Dije Negocios.
 * ¡Mo fuera!
 snow_cutscene
-* (It's a snowcastle!#* How... cute?)
-* (You open the doors.)
-* (You open the drawbridge.)
-* (Your head hurts too much to#  keep going.)
-* (It's a snowcastles.)
+* (¡Es un castillo de nieve!#* Qué... ¿tierno?)
+* (Abres las puertas.)
+* (Abres el puente levadizo.)
+* (Te duele demasiado la#  cabeza para seguir.)
+* (Es un castillo de nieve.)
 sprite_x_offset
 sprite_y_offset
 rotation_angle
-* Huumpf! 238...
-* Huumpf! 239...
-* At this pace, Ice Wolf#  is ready for new job#  in no time!
-* New job is very important#  for Ice Wolf.
-* Ice Wolf needs money for#  new pants.
-* Huumpf!
+* ¡Huumpf! 238...
+* ¡Huumpf! 239...
+* A este ritmo, ¡Ice Wolf#  está listo para un nuevo#  trabajo en poco tiempo!
+* El nuevo trabajo es muy#  importante para Ice Wolf.
+* Ice Wolf necesita#  dinero para pantalones nuevos.
+* ¡Huumpf!
 needle_count
 spawn_dir_current
 needle
-* (No matter how much they throw#  this ice into the river, the#  pile never lessens.)
+* (Por mucho que echen#  este hielo al río, el#  montón nunca disminuye).
 image_alpha_current
 snip_sound
-* Oh boy, oh gee, a customer!#* I'm nervous!
-* I'm a Mail Whale from the#  Underground Postal Service!
-* Haven't heard of us? We're the#  best!
-* For short, just call us UGPS!
-* So I hear you're new to the#  Underground!
-* How you ask? Well, word sure#  gets around!
-* The Underground is great and it#  keeps getting better.
-* 'Cause I brought for you your#  very first letter!
-* (YOU RECEIVED MAIL!)
-* That was a special letter, from#  us to you!
-* Do you feel welcome now? I hope#  you do!
-* Isn't the mail system a#  wonderful innovation?
-* If you ever want to use it,#  just come to a station!
-* They look just like this and#  they're scattered all about!
-* If you want to receive some#  mail, find one, and give a#  shout!
-* We assure you, they are#  conveniently situated!
-* Here at UGPS, we're anything#  but dated!
-* Talking and sharing, all using#  mail!
-* From your Underground friends,#  but that's all for this whale!
-* Now, I must be off! The mail#  mustn't be late!
-* See you later on in your#  journey, mate!
-* STAY HERE WHILE I GET#  THE TALL LADY.
-* DO NOT TOUCH ANYTHING.
-* STAY HERE, I MUST GO#  BACK ON PATROL.
-* DO YOU HAVE THE ABILITY#  TO COOPERATE?
-* OR ARE YOU TOYING WITH#  ME ON PURPOSE?
-* EITHER WAY, I AM#  STARTING TO [really]#  HATE YOU.
+* ¡Vaya, vaya, un cliente!#  ¡Estoy nerviosa!
+* ¡Soy una ballena correo#  del Servicio Postal Subsuelo!
+* ¿No nos conoce?#  ¡Somos los mejores!
+* Para abreviar,#  ¡llámenos SPSS!
+* ¡He oído que eres nuevo#  en el Subsuelo!
+* ¿Cómo? ¡Pues porque se#  corre la voz!
+* El Subuselo es genial y#  sigue mejorando.
+* ¡Porque te he traído#  tu primera carta!
+* (¡HA RECIBIDO UN#  CORREO!)
+* Ha sido una carta#  especial,de nosotros#  para ti.
+* ¿Te sientes bienvenido#  ahora? ¡Espero que sí!
+* ¿No es el sistema de#  correo una innovación#  maravillosa?
+* Si alguna vez quieres#  usarlo, ¡sólo tienes que#  venir a una estación!
+* ¡Tienen este aspecto y#  están esparcidos por todas#  partes!
+* Si quieres recibir un#  correo, busca uno y#  ¡dale un toque!
+* Le aseguramos que están#  convenientemente situados.
+* En la SPSS no somos nada#  anticuados.
+* Hablar y compartir,#  ¡todo por correo!
+* De tus amigos del subsuelo,#  ¡pero eso es todo para#  esta ballena!
+* ¡Ahora, debo irme! ¡El correo#  no debe llegar tarde!
+* ¡Nos vemos más adelante en tu#  viaje, amigo!
+* QUÉDATE AQUÍ MIENTRAS#  BUSCO A LA SEÑORA ALTA.
+* NO TOQUES NADA.
+* QUÉDATE AQUÍ, DEBO VOLVER#  A PATRULLAR.
+* ¿TIENE LA CAPACIDAD#  DE COOPERAR?
+* ¿O ESTÁS JUGANDO CONMIGO#  A PROPÓSITO?
+* DE CUALQUIER MANERA,#  ESTOY COMENZANDO A [realmente]#  ODIARTE.
 toast
 swig
 shufflers_turn
@@ -17773,16 +17773,16 @@ shufflers_turn_away
 toast_col
 swig_col
 rephil_col
-* Hey, watch it!
-* Oh ho ho. Wouldya look at that.
-* I think this chump wants to#  pass.
-* {0}! Toast! Come over here!
-* Yeah boss?
-* What's up? You need a shave#  again?
-* We got ourselves some fresh#  meat.
-* Ha! You ain't gettin' nowhere,#  small fry!
-* Yeah! Not nowhere!
-* Will you two put a lid on it?
+* ¡Eh, cuidado!
+* Oh ho ho. Mira eso.
+* Creo que este tonto quiere#  pasar.
+* ¡{0}! ¡Toast! ¡Vengan aquí!
+* ¿Sí, jefe?
+* ¿Que pasa? ¿Necesitas#  afeitarte otra vez?
+* Tenemos carne fresca.
+* ¡Ja! ¡No llegarás a ninguna parte, pequeñín!
+* ¡Sí! ¡En ninguna parte!
+* ¿Podrian ustedes ponerle#  una tapa?
 * Ahm.
 * Anyway.
 * The name's Rephil.
