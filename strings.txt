@@ -5189,7 +5189,7 @@ scr_clover_defragment
 * You inform Flier that you#  understand his struggle.
 * You inform Flier that his life#  isn't half over, he has a whole#  half left to go!
 scr_dialogue_battle_action_selected_action_1_flier_a
-* You compliment Flier's choice#  of outfits.
+* Felicitas a Flier por#  su elección de atuendos.
 * Le dices a Flier que#  parece orgulloso.
 scr_dialogue_battle_action_selected_action_2_flier_a
 * You tell Flier that he is#  depressing.
@@ -11183,7 +11183,7 @@ narrator
 * I'm only joking, of#  course!
 * I can't judge anyone's#  culinary preferences#  after today...
 * (You got some Adult Soda!)
-* (Not enough space.)
+* (No hay espacio#  suficiente.)
 bullet_spread
 current_position
 bullet_spread_inc
@@ -12509,7 +12509,7 @@ actor_toriel
 * Sabes cuál#  es el camino de la izquierda, #  ¿Verdad?
 * Presiona el interruptor #  que te he marcado.
 x_offset_prev
-* Estoy orgulloso de ti,#  pequeño.
+* Estoy orgulloso de ti,#  mi niño.
 * ¡Adelante,#  empuja la roca!
 * Estás aprendiendo#  mucho, mi niño!
 * He visto#  el mismo comportamiento#  infantil...
@@ -12521,7 +12521,7 @@ current_destination
 * Tenía que intervenir.
 * Al principio, mis esfuerzos#  parecían funcionar.
 music_stop_noloop
-* Las tensiones aumentaron#  y abandonaron las Ruinas.
+* Las tensión aumentaba#  y abandonabas las Ruinas.
 * Pero luego, #  aparecieron otros problemas...
 * No importa cuántas veces#  hayas viajado por...
 keep_on_screen
@@ -14677,7 +14677,7 @@ hp
 hurtbox
 charge_state
 world_value
-Reset
+Reiniciar
 Configuración
 play_time
 Room Name
@@ -15199,7 +15199,7 @@ image_scale_inc_max
 interacted_with
 * (You examine the#  bookshelf...)	
 * (A title called "Mysteries of#  the Underground" catches your#  eye.)	
-* (Read it?)
+* (¿Leer?)
 * Chapter One: Blunko's#  Blunder.
 * Located in Oasis Valley, in a#  modern cafe you can't miss,#  lies an arcade cabinet.
 * Painted blue and coated with a#  thick layer of dust, it sits#  there, out of order.
@@ -17298,7 +17298,7 @@ Get ready for my#strongest atta-
 dr
 * (Es un trozo de maíz rechazado.)
 * (¡Obtuviste un Candy Corn!)
-* (Probablmente no sea#  lo suficientemente bueno#  para ti.)
+* (Probablemente no sea#  lo suficientemente bueno#  para ti.)
 * (A beautiful, delicious-looking#  Golden Pear catches your eye.)
 * (You got the Golden Pear!)
 * (Beauty is in the eye#  of the beholder anyway.)
@@ -17306,19 +17306,19 @@ dr
 * (Obtained Pebbles!)
 * (Pebbles are too dangerous.)
 * (Es una pluma perdida.)
-* (¡Tienes una Stray Feather!)
+* (¡Ahoras tienes una#  Stray Feather!)
 * (Lo ignoras.#* Lo callejero no son más#  que problemas.)
 footstep_counter
 pitch
 ms
 new_petal
-* (It's a crate with "special#  corn"#  escrito en crayón rosa.)
+* (Es una caja con maíz "especial"#  escrito en crayón rosa.)
 * (No queda nada útil.)
 * (Hay un Corn Dog escondido#  entre las mazorcas de maíz.)
 * ¡Obtuviste un Corn Dog!
 * (Podría morderte.)
-* Yo... get the impression#  you like to roll solo.
-* Ya know, with you never#  taking me up on my#  "save".
+* Tengo la impresión#  de que te gusta#  rodar solo.
+* Ya sabes, aún no#  acepta mi oferta#  de "guardar".
 * Pero mira, ¿ves esos#  tablones destrozados en el#  suelo?	
 * Puedo serte de gran#  ayuda en tiempos# difíciles.
 * Tal vez tengas#  problemas de confianza#  pero...
@@ -22595,12 +22595,12 @@ Esta cosa odia el#ruido, ¿verdad?
 ¡Utilizalo#a tu favor!
 ¿Una solución permantente#, ¿eh?
 Lastima que#deshacerlo, ¡jaja!
-This loner packs#a punch!
-Nothing you can't#handle, though!
-Last time I checked,#no one likes a fried#human.
-Get back out there!
-Blah blah blah,#what a whiner!
-Let's hurry up and#deal with this recluse!
+¡Este solitario#pega fuerte!
+¡Nada que no puedas#manejar!
+La última vez que lo#comprobé, a nadie le#gustan los humanos fritos.
+¡Vuelve ahí fuera!
+Bla, bla, bla,#¡qué llorón!
+¡Démonos prisa y#ocupémonos de este bicho!
 I'm not sure she even#meant to kill you there.
 Impressive...?
 Come on, you lost#to this rookie?
