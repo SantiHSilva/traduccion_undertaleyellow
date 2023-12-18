@@ -14898,7 +14898,7 @@ half_width
 half_height
 loop_prevention
 peek_distance
-* As a slime, I'm busy.
+* Como slime, estoy ocupado.
 impact
 dmg
 hp_self_last
@@ -14911,7 +14911,7 @@ door_open
 wall
 crayon_y_offset
 new_offset
-* You hear sounds coming from the#  plant.
+* Se oyen sonidos viniendo de la planta.
 bullet_list
 wave_number
 bul_spawn
@@ -17885,75 +17885,75 @@ toastSlideSpeed
 * Lo siento por eso...
 destination
 ballRollSpeed
-* (You stare at the log.)
-* (Nothing happens.)
-* I saw everything.
-* Nothing like avoiding life's#  responsibilities by lounging#  all day.
-* Been here for two weeks, hit#  this same spot everyday.
-* It's so easy to lose yourself#  out here.
-* I don't even know if I have a#  job to go back to.
-* It's pretty great.
-* Maybe it would be nice if I was#  fired.
-* I'll just go live in the wild#  and find my own food.
-* That should be everyone's goal#  in life.
-* I'm gonna be here a while.
-* Know any good campfire songs?
-* (The other way.)
-* Hey, have you seen those#  loiterers outside?
-* They keep telling me they're a#  well-renowned gang.
-* But I've never heard of them#  before.
-* Maybe I really am getting to be#  out of the loop.
-* Maybe I'll check out the band#  inside.
-* I hear they're pretty kickin'.
-* I hope I'm hip enough to#  appreciate them at least.
-* (A cozy-looking campfire.)
-* (The sweet scent of honeysuckle#  is wafting from the flames.)
-* (A campfire.)
-* (Looks like the fire was#  snuffed out.)
-* (Looks like this bear fell#  asleep on its way to the#  resort.)
-* (It has jars of honey tied to#  its back.)
-* (They're getting cold.)
+* (Te quedas mirando el#  tronco.)
+* (No ocurre nada.)
+* He visto de todo.
+* Nada como evitar las#  responsabilidades de la vida#  relajándose todo el día.
+* He estado aquí por dos#  semanas, golpeando este mismo#  lugar todos los días.
+* Es tan fácil perderse#  aquí.
+* Ni siquiera sé si tengo un#  trabajo al que volver.
+* Es bastante genial.
+* Quizá estaría bien#  que me despidieran.
+* Me iré a vivir a la naturaleza#  y me buscaré mi propia#  comida.
+* Ese debería ser el objetivo#  de todos en la vida.
+* Estaré aquí un tiempo.
+* ¿Conoces alguna buena#  canción de campamento?
+* (Por otro lado.)
+* Oye, ¿has visto a esos#  vagabundos de ahí fuera?
+* No paran de decirme#  que son una banda muy#  conocida.
+* Pero nunca había oído hablar#  de ellos.
+* Puede que realmente me esté#  quedando fuera de lugar.
+* Quizá vaya a ver la banda#  que hay dentro.
+* He oído que son muy buenos.
+* Espero estar lo suficientemente#  a la moda como para#  apreciarlos al menos.
+* (Una hoguera acogedora.)
+* (Las llamas desprenden el#  dulce aroma de la madreselva.)
+* (Una hoguera.)
+* (Parece que el fuego#  se apagó.)
+* (Parece que este oso se#  durmió de camino al resort.)
+* (Lleva tarros de miel#  atados a la espalda.)
+* (Se están enfriando.)
 Honeydew Resort Normal
-* I was called over to break#  down this large boulder but...
-* Man, it looks real tiring.
-* It'll probably be a while#  before anyone can enter.
-* ...Mostly because I don't#  wanna start.
-* As I said, this could take a#  while.
-* Just the journey to get here#  took all my energy.
-* Patience, buddy.
-* You know why they told me to go#  on this vacation:
-* Well, 'cause I come off as#  stressed, but you know why that#  is:
-* I have a theory see:
-* 'Cause there are just so many#  things in life to worry about:
-* Work, an' laundry, an-an'#  imminent starvation, an' so on:
-* Those are important back home,#  but here:
-* Still important!
-* Monsters pretend they're not#  though, an' you know what that#  is:
-* Despicable, irresponsible,#  shameful behavior!
-* You know how much part I'll#  have in it:
-* None. Zip, zero, zilch:
-* An' that's how much you should#  have too!
-* I just realized something:
-* This, this anti-stress thing,#  you know what this is:
-* The downfall of the Underground,#  that's what it is, see:
-* Soon Monsters will stop doing#  the important things:
-* The work, an' laundry, an'#  such:
-* Completely undone, an' you know#  why:
-* Too much to worry about, that's#  what they'll say!
-* Toxic, toxic behavior!
-* Can't wait until this vacation#  is over, you see:
-* At this altitude:
-* So much to worry about,#  like-like:
-* Dehydration, you know what that#  causes:
-* Altitude sickness!
-* Now don't you go drinking that#  coffee:
-* Dries you right out!
-* Confession time:
-* I claim to be a musician,
-* but I know nothing about#  reading sheet music, scales,#  intervals, or any of that.
-* That's why I just hit things#  with sticks rhythmically for a#  living.
-* Just goes to show, you don't#  need smarts to be a Cool Dude
-* Drums give me a rhythmic#  purpose in life.
+* Me llamaron para derribar#  una gran roca, pero...
+* Hombre, parece realmente#  agotador.
+* Probablemente pasará#  un tiempo antes de que#  alguien pueda entrar.
+* ...Más que nada porque no#  quiero empezar.
+* Como he dicho, esto#  podría llevar un tiempo.
+* Sólo el viaje para llegar#  hasta aquí requirió toda#  mi energía.
+* Paciencia, amigo.
+* Sabes por qué me#  dijeron que me fuera#  de vacaciones:
+* Porque parezco estresado,#  pero ya sabes por qué:
+* Tengo una teoría, mira:
+* Porque hay tantas cosas#  en la vida de las que#  preocuparse:
+* Trabajo, lavandería,#  inminente desnutrición,#  etcétera:
+* Esos son importantes#  en casa, pero aquí:
+* ¡Sigue siendo importante!
+* Pero los monstruos fingen#  que no lo son, y ya sabes#  lo que es eso:
+* ¡Comportamiento despreciable,#  irresponsable y vergonzoso!
+* Ya sabes la parte que#  me tocará:
+* Nada. Zip, cero, zilch:
+* ¡Y eso es lo que#  tú deberías tener#  también!
+* Me acabo de dar cuenta#  de algo:
+* Esto, esta cosa anti-estrés,#  sabes lo que es:
+* La caída del Subsuelo,#  eso es lo que es, mira:
+* Pronto los monstruos#  dejarán de hacer las#  cosas importantes:
+* El trabajo, la lavandería#  y esas cosas:
+* Completamente deshecho,#  y sabes por qué:
+* Demasiado de lo que preocuparse,#  ¡eso es lo que dirán!
+* ¡Comportamiento tóxico,#  tóxico!
+* No puedo esperar a que#  terminen estas vacaciones:
+* A esta altura:
+* Hay mucho de qué preocuparse,#  como-como:
+* Deshidratación,#  ya sabes lo que causa:
+* ¡El mal de altura!
+* Ahora no vayas a#  beberte ese café:
+* ¡Te seca enseguida!
+* Hora de confesar:
+* Yo pretendo ser músico,
+* pero no sé nada de leer#  partituras, escalas, intervalos#  ni nada de eso.
+* Por eso me gano la vida#  golpeando cosas rítmicamente#  con palos.
+* Lo que demuestra que no#  necesitas inteligencia para#  ser un Tipo Agradable.
+* La batería me da un#  propósito rítmico en la vida.
 Major
 Minor
 * Glad you could stop by for a#  listen.
@@ -17976,24 +17976,24 @@ Minor
 * Maybe one day you'll grow to#  love minor scales like me.
 * You're pretty cool.
 * We should jam sometime.
-* How's it hangin'?
-* The name's Rodney. I'm the#  leader of our little band here.
-* We travel all around the#  Underground performing for the#  monsters.
-* This resort is a regular gig.
-* Care to hear a tune?
-* Care for a tune, my dude?
-* Alright, nice.
-* Hmm... let me work up somethin'#  special.
-* This one's for the fluffy#  trouble makers out there.
+* ¿Cómo te va?
+* Me llamo Rodney.#  Soy el líder de nuestra#  pequeña banda.
+* Viajamos por todo el#  Subsuelo actuando para#  los monstruos.
+* Este complejo es#  un concierto habitual.
+* ¿Quieres oír una melodía?
+* ¿Te apetece una#  canción, amigo?
+* Muy bien.
+* Hmm...#  déjame preparar algo especial.
+* Esta es para los#  peludos más problemáticos.
 ransong_new
-* Sounds good, buddy.
-* Here's a mysterious song full#  of new discoveries.
-* Right on, dude.
-* This is a chilly song you can#  curl up by the fireplace to.
-* Sounds good, friend.
-* Here's one for the monsters#  that like a little time to#  themselves.
-* Well, uh, I can't comply with#  that, considering we've been#  hired to play here.
-* If you wanna hear something#  different, just talk to me,#  alright?
+* Suena bien, amigo.
+* He aquí una misteriosa#  canción llena de nuevos#  descubrimientos.
+* Eso es, amigo.
+* Es una canción para#  acurrucarse junto a la chimenea.
+* Suena bien, amigo.
+* Aquí va una para los monstruos#  a los que les gusta tener un#  poco de tiempo para sí mismos.
+* Bueno, eh, no puedo cumplir con#  eso, teniendo en cuenta que#  estamos aquí para jugar.
+* Si quieres oír algo# diferente, sólo habla conmigo,#  ¿de acuerdo?
 * A cooler full of honey, ready#  for drinking. 
 * ...Yum?
 * Look who it is!
@@ -18055,16 +18055,16 @@ x_normal
 * I ought to go into#  entrepreneurship, don't you#  think Charles?
 * I'll invent many useful#  things, like a new attitude for#  you!
 For the future#of Monsterkind!!!
-* 'Ay kid. The getup.
-* I'm guessin' you're from the#  Dunes eh?
-                              #  Dunes    
-* Wacky place that is.
-* I'm probably the only other one#  'ere that's been around those#  parts.
-* Some monsters avoid it due to#  the dryness and high#  temperature.
-* What's a kid like you doin'#  hangin' with those wild guys,#  eh?
-* Don't look so confused, I'm#  just messin' with ya, heh heh.
-* You've gotta try the pancakes#  'ere.
-* They're the main reason I#  traveled all this way.
+* Ay niño. El atuendo.
+* Supongo que eres de las#  Dunas, ¿eh?
+#  Dunas
+* Un lugar de locos.
+* Probablemente soy el único#  que ha estado por aquí.
+* Algunos monstruos la evitan#  debido a la sequedad y a#  las altas temperaturas.
+* ¿Qué hace un niño como#  tú con esos salvajes, eh?
+* No pongas esa cara de#  confusión, sólo estoy#  bromeando.
+* Tienes que probar los#  panqueques de aquí.
+* Son la razón principal#  por la que viajé hasta aquí.
 item_got
 fav_song
 * (You got the band merch pin.)
