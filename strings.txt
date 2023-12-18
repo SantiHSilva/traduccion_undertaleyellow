@@ -1995,7 +1995,7 @@ gml_Script_scr_item_use
 scr_item_use
 * Info message
 info
-* "Lemonade" - Heals 7 HP#* (Doesn't smell too appetizing.)
+* "Lemonade" - Cura 7 HP#* (Doesn't smell too appetizing.)
 * "Pebbles" - Weapon AT 3#* (Like rocks, but smaller.#* Good makeshift ammo.)
 * "Silver Ammo" - Weapon AT 3#* (A pack of reflective pellets.)
 * (They'd fit nicely in#  a six-shooter.)
@@ -2010,54 +2010,54 @@ info
 * (The grim reminder of#  your mission. Justice#  is needed.)
 * (Makes you invulnerable#  for a pear of hits.)
 * "Rubber Ammo" - Weapon AT 0#* (Small, safe, non-toxic#  rubber pellets.)
-* "Sponge Cake" - Heals 14 HP
+* "Sponge Cake" - Cura 14 HP
 * (A delicious sponge that doesn't#  scratch AND has 2x the#  absorption!)
-*"Hndw Coffee" - Heals 14 HP#* (It would take true bravery to#  drink something this hot!)
-* "Hndw Pancake" - Heals 16 HP #* (An off-the-griddle pancake with#  honey-syrup.)
-* "G.B. Bear" - Heals 20 HP#* (A cookie made to look like#  someone's face.)
+*"Hndw Coffee" - Cura 14 HP#* (It would take true bravery to#  drink something this hot!)
+* "Hndw Pancake" - Cura 16 HP #* (An off-the-griddle pancake with#  honey-syrup.)
+* "G.B. Bear" - Cura 20 HP#* (A cookie made to look like#  someone's face.)
 * (What a creative and original#  idea!)
-* "Hot Pop" - Heals 14 HP#* (Piping hot chocolate, frozen,#  then reheated.)
-* "Lukewarm Pop" - Heals 8 HP#* (Piping hot chocolate cooled to#  lukewarm status.)
-* "Cold Pop" - Heals 12 HP#* (Piping hot chocolate, cooled#  cold.)
+* "Hot Pop" - Cura 14 HP#* (Piping hot chocolate, frozen,#  then reheated.)
+* "Lukewarm Pop" - Cura 8 HP#* (Piping hot chocolate cooled to#  lukewarm status.)
+* "Cold Pop" - Cura 12 HP#* (Piping hot chocolate, cooled#  cold.)
 * "G. Coffee" - (Halves the#  weight of your soul, giving you#  a speed boost for three turns.)
 * (Half delicious beverage, half#  transition metal.)
 * (Just smells like#  coffee, though.)
-* "G. Cactus" - (Heals 15 HP#  for 3 turns. The first#  bite hurts for 5 HP.)
+* "G. Cactus" - (Cura 15 HP#  for 3 turns. The first#  bite hurts for 5 HP.)
 * (The forbidden snack.)
-* "Adult Soda" - Heals ??? HP#* (A transparent liquid#  with no smell.)
-* "Packing Peanuts" - Heals 10 HP
+* "Adult Soda" - Cura ??? HP#* (A transparent liquid#  with no smell.)
+* "Packing Peanuts" - Cura 10 HP
 * (Ideal for preventing damage or#  destruction of fragile stomach#  contents.)
-* "Trail Mix" - Heals 13 HP"
+* "Trail Mix" - Cura 13 HP"
 * (Everything but the raisins#  has been picked out.)
-* "Ice Tea" - Heals 20 HP"#* (A glass of warm sweet tea.)
+* "Ice Tea" - Cura 20 HP"#* (A glass of warm sweet tea.)
 * (A label with a sketch of Mo#  grinning is glued to the side.)
- "Green Tea" - Heals 21 HP"#* (Ice tea but dyed green. +1 HP#  for style.)
- "Sea Tea" - Heals 10 HP"#* (Glowing tea that'll jolt#  your system.)
+ "Green Tea" - Cura 21 HP"#* (Ice tea but dyed green. +1 HP#  for style.)
+ "Sea Tea" - Cura 10 HP"#* (Glowing tea that'll jolt#  your system.)
 * (A label reading "The real#  deal!" is stuck on the glass.)
- "Fruitcake" - Heals 25 HP"#* (Somewhat dried fruitcake with#  a few gemstones inside.)
- "Spider Donut" - Heals 12 HP"#* (A donut made with Spider#  Cider in the batter.)
- "Icewater" - Heals 15 HP#* (The prequel to ice tea.)
- "Oasis Latte" - Heals 25 HP#* (Coffee but fancier.)
- "Cnm. Cookie" - Heals 35 HP#* (One of the baked good#  greats..)
- "Root Beer" - Heals 18 HP"#* (It's family friendly!)
- "Gunpowder" - Heals ??? HP"#* (The forbidden spice.)
- "Moss Salad" - Heals 17 HP"#* (Looks like it could be from#  another world...) 
- "Grassy Fries" - Heals 14 HP"#* (A pile of thin strings with a#  layer of fuzz overtop.)
- "Flower Stew" - Heals 20 HP"#* (A cup of aromatic broth with#  a floral garnish.)
- "Gravity Granola" - Heals 30 HP"#* ("The taste is out of this#  world!" ...Uh huh.) 
- "H2O" - Heals 20 HP"#* (Chemically inclined liquid.)
- "Popato Chisps" - Heals 13HP"#* (Regular old popato chisps.)
- "Beef Jerky" - Heals 16 HP"#* (A convenience store#  delicacy.)
- "Cake" - Heals 30 HP"#* (A lemon cake with cherries on#  top.)
- "Floral Cupcake" - Heals 50 HP"
+ "Fruitcake" - Cura 25 HP"#* (Somewhat dried fruitcake with#  a few gemstones inside.)
+ "Spider Donut" - Cura 12 HP"#* (A donut made with Spider#  Cider in the batter.)
+ "Icewater" - Cura 15 HP#* (The prequel to ice tea.)
+ "Oasis Latte" - Cura 25 HP#* (Coffee but fancier.)
+ "Cnm. Cookie" - Cura 35 HP#* (One of the baked good#  greats..)
+ "Root Beer" - Cura 18 HP"#* (It's family friendly!)
+ "Gunpowder" - Cura ??? HP"#* (The forbidden spice.)
+ "Moss Salad" - Cura 17 HP"#* (Looks like it could be from#  another world...) 
+ "Grassy Fries" - Cura 14 HP"#* (A pile of thin strings with a#  layer of fuzz overtop.)
+ "Flower Stew" - Cura 20 HP"#* (A cup of aromatic broth with#  a floral garnish.)
+ "Gravity Granola" - Cura 30 HP"#* ("The taste is out of this#  world!" ...Uh huh.) 
+ "H2O" - Cura 20 HP"#* (Chemically inclined liquid.)
+ "Popato Chisps" - Cura 13HP"#* (Regular old popato chisps.)
+ "Beef Jerky" - Cura 16 HP"#* (A convenience store#  delicacy.)
+ "Cake" - Cura 30 HP"#* (A lemon cake with cherries on#  top.)
+ "Floral Cupcake" - Cura 50 HP"
 * (A beautiful pastry, crowned#  with a golden flower made of#  icing.)
- "Hot Dog" - Heals 20 HP"#* (A food representative of your#  go-to insult.)
- "Monster Candy" - Heals 10 HP"
+ "Hot Dog" - Cura 20 HP"#* (A food representative of your#  go-to insult.)
+ "Monster Candy" - Cura 10 HP"
 * (The sweet smell of#  butterscotch wafts from the#  wrapper.)
- "Monster Candy+" - Heals 15 HP"#* (A tasty treat with#  twice-enriched Sugar Flavor.)
- "C-B Strudel" - Heals 30 HP"#* (Made from fresh cinnamon and#  butterscotch.)
- "Corn Chowder" - Heals 15 HP"#* (Weeks-old leftovers from#  Ceroba's fridge.)
- "Feisty Slider" - Heals 30 HP"
+ "Monster Candy+" - Cura 15 HP"#* (A tasty treat with#  twice-enriched Sugar Flavor.)
+ "C-B Strudel" - Cura 30 HP"#* (Made from fresh cinnamon and#  butterscotch.)
+ "Corn Chowder" - Cura 15 HP"#* (Weeks-old leftovers from#  Ceroba's fridge.)
+ "Feisty Slider" - Cura 30 HP"
 * (A small burger with big#  flavor! Just 30G at the#  Saloon!)
 * (...Says an ad printed on its#  wrapper.)
 * "Honeydew Pin" - Armor DF 4#* (A pin advertising the Honeydew#  Resort in Snowdin.)
@@ -6009,7 +6009,7 @@ story_item
 * (It was probably left sitting in#  the snow a while.)
 * (A belt buckle made of steel.)
 item_value
-Heals 
+Cura 
  HP#* (Doesn't smell too appetizing.)
  HP#* (Your teeth hurt just looking#  at it.)
  HP#* * (A genuine Corn Dog with#  soft, fluffy ears.)
@@ -6023,15 +6023,15 @@ Heals
  HP#* (An off-the-griddle pancake with#  honey-syrup.)
  HP#* (A cookie made to look like#  someone's face.)
  HP
-* (Everything but the raisins#  has been picked out. Heals 13#  HP.)
- "Sea Tea" - Heals 10 HP"#* (Glowing tea that'll jolt your system.)
- "Floral Cupcake" - Heals ?? HP
- "Root Beer" - Heals 25 HP"#* (It's family friendly!)
+* (Everything but the raisins#  has been picked out. Cura 13#  HP.)
+ "Sea Tea" - Cura 10 HP"#* (Glowing tea that'll jolt your system.)
+ "Floral Cupcake" - Cura ?? HP
+ "Root Beer" - Cura 25 HP"#* (It's family friendly!)
 Grants 
  PP#* (Makes you invulnerable#  for a pear of hits.)
  SP
 * (Halves the weight of your soul, giving you a speed boost for three enemy attacks.)
-Heals 15 HP for 3 turns
+Cura 15 HP for 3 turns
 The first bite hurts for 5 HP.
 Weapon AT 
 #* (No description.)
@@ -10516,7 +10516,7 @@ actor_ceroba
 * It's nice to meet you,#  Dalv.
 * Thanks for coming.
 * Of course.
-* Well...
+* Bueno...
 * No more stalling.
 * Everyone ready?
 * I believe so.
@@ -14911,7 +14911,7 @@ door_open
 wall
 crayon_y_offset
 new_offset
-* Se oyen sonidos viniendo de la planta.
+* Se oyen sonidos viniendo de#  la planta.
 bullet_list
 wave_number
 bul_spawn
@@ -17981,7 +17981,7 @@ Minor
 * Viajamos por todo el#  Subsuelo actuando para#  los monstruos.
 * Este complejo es#  un concierto habitual.
 * ¿Quieres oír una melodía?
-* ¿Te apetece una#  canción, amigo?
+* ¿Te apetece una canción amigo?
 * Muy bien.
 * Hmm...#  déjame preparar algo especial.
 * Esta es para los#  peludos más problemáticos.
@@ -17992,10 +17992,10 @@ ransong_new
 * Es una canción para#  acurrucarse junto a la chimenea.
 * Suena bien, amigo.
 * Aquí va una para los monstruos#  a los que les gusta tener un#  poco de tiempo para sí mismos.
-* Bueno, eh, no puedo cumplir con#  eso, teniendo en cuenta que#  estamos aquí para jugar.
-* Si quieres oír algo# diferente, sólo habla conmigo,#  ¿de acuerdo?
-* A cooler full of honey, ready#  for drinking. 
-* ...Yum?
+* Bueno, eh, no puedo cumplir con#  eso, teniendo en cuenta que#  estamos aquí para tocar.
+* Si quieres oír algo#  diferente, sólo habla conmigo,#  ¿de acuerdo?
+* Una nevera llena de miel,#  lista para beber. 
+* ¿...Ñam?
 * Look who it is!
 * Didn't think I'd see you back#  here before the boss.
 * He left on business...
@@ -18037,10 +18037,10 @@ is_caught
 tongue_parent
 jitter
 x_normal
-* (A space heater.)
-* (Nice and cozy!)
-* (You notice a sticker on the#  heater.)
-* Crafted with love by#  Chujin & Martlet!
+* (Un calentador.)
+* (¡Bonito y acogedor!)
+* (Ves una pegatina en#  el calentador.)
+* ¡Hecho a mano con amor#  por Chujin & Martlet!
 * I think this elevator#  goes to the Castle.
 * Probably the last place#  Ceroba would run to.
 * Let's keep searching#  this area for now.
@@ -18067,46 +18067,46 @@ For the future#of Monsterkind!!!
 * Son la razón principal#  por la que viajé hasta aquí.
 item_got
 fav_song
-* (You got the band merch pin.)
+* (Tienes la insignia de#  la banda.)
 message_repeating
-* That one's super rare, so don't#  you lose it!
-* ¡Solo was sold at the concert#  they did at the dump that one#  time!
-* Man, that was so grungy...
-* Are you enjoying the tunes as#  much as I am?
-* Actually. Don't answer that.#  You're not.
-* I used to be one of those#  superfans you hear about.
-* Followed the band around from#  place to place,
-* Learned all the aliases they#  used in hotels,
-* Watched them buy their favorite#  brands of cereal.
-* I'm reformed now though.
-* Now I'm content to sit and#  listen.
-* Nothing could beat this...
-* Actually. That's a lie.
-* If they were playing my#  favorite song,
-* That would beat this easy.
-* Mind asking them to play it for#  me?
-* I'll make it worth your while.
-* Hmm, nice tune.
-* Boy, do I remember the first#  time I heard this song.
-* Not my favorite though.
-* My gosh, I haven't heard this#  song in forever!
-* Definitely my favorite! Hands#  down!
-* Thank you so so so much!
-* What can I give you...
-* I know! Here! You can put it on#  your hat!
-  (Inventory Full)
-* Wait... are you telling me you#  have too much stuff to take#  this?
-* You think the boring stuff you#  have can possibly compare to#  this?!
-* This is a concert exclusive#  piece of memorabilia!
-* Come back when you can#  appreciate that, okay bozo?
-* Oh, have you come to your#  senses?
-* Fine, the pin is yours.
-* You better be thankful for that,#  you got that?
-* Still no space?
-* This day is the best.
-* I wish I could go to their next#  concert too...
-* Actually. No. That's how you#  get addicted.
-* Guess I'll just have to be#  content here.
+* Ese es súper raro,#  ¡así que no lo pierdas!
+* ¡Solo se vendió en el concierto#  que hicieron en el vertedero#  aquella vez!
+* Hombre, eso fue tan sucio...
+* ¿Disfrutas tanto como yo de#  las melodías?
+* En realidad. No respondas#  a eso. No lo haces.
+* Yo solía ser uno de esos#  superfans de los que#  oyes hablar.
+* Seguí a la banda de un#  lugar a otro,
+* Aprendí todos los alias#  que usaban en los hoteles,
+* Observaba cómo compraban#  sus marcas favoritas de#  cereales.
+* Pero ya me he reformado.
+* Ahora me conformo con#  sentarme y escuchar.
+* Nada podría superar#  esto...
+* En realidad. Es mentira.
+* Si estuvieran tocando mi#  canción favorita,
+* Eso lo ganaría fácilmente.
+* ¿Te importaria pedirles que#  la reproduzcan?
+* Haré que valga la pena.
+* Hmm, bonita melodía.
+* Recuerdo la primera vez#  que oí esta canción.
+* Aunque no es mi favorito.
+* ¡Dios mío, hacía siglos#  que no oía esta canción!
+* ¡Definitivamente mi favorito!#  ¡Sin lugar a dudas!
+* ¡Muchas muchas muchas#  gracias!
+* Qué puedo darte...
+* ¡Ya se! ¡Toma! ¡Puedes#  ponerlo en el sombrero!
+  (Inventario Lleno)
+* Espera... ¿me estás diciendo#  que tienes demasiadas cosas#  para tomar esto?
+* ¡¿Crees que las cosas aburridas#  que tienes pueden compararse#  con esto?!
+* ¡Se trata de un recuerdo#  exclusivo de un concierto!
+* Vuelve cuando puedas#  apreciarlo, ¿vale ignorante?
+* Oh, ¿has entrado en razón?
+* Bien, el pin es tuyo.
+* Será mejor que lo agradezcas,#  ¿lo entiendes?
+* ¿Aún no hay espacio?
+* Este día es lo mejor.
+* A mí también me gustaría#  poder ir a su próximo#  concierto...
+* En realidad. No. Así es#  como te vuelves adicto.
+* Supongo que tendré#  que contentarme aquí.
 dist
 wsprite
 hsprite
@@ -18214,10 +18214,10 @@ jump
 cast
 can_cast
 gml_Script_state_switch_gml_Object_obj_battle_enemy_attack_macro_knight_Step_0
-* (A beautiful, delicious-looking#  Golden Coffee catches your eye.)
-* (It's a cup of coffee.)
-* (Obtained Golden Coffee!)
-* Beauty is in the eye#  of the beholder anyway.
+* (Un hermoso y delicioso#  Golden Coffee llama tu atención.)
+* (Es una taza de café.)
+* (¡Obtuviste un Golden Coffee!)
+* De todos modos, la#  belleza está en el ojo#  del que mira.
 * Wow. It's colder today than#  usual, huh?
 * If I wasn't extremely lazy, I'd#  go to the Honeydew Resort and#  get some hot coffee.
 * For me? How can I ever thank#  you!
@@ -18237,9 +18237,9 @@ gml_Script_state_switch_gml_Object_obj_battle_enemy_attack_macro_knight_Step_0
 * Why am I still standing here,#  idle?
 * I've frozen. I cannot move my#  body anymore.
 * Don't worry, this is nature's#  way of letting me be lazy.
-* Honeydew Resort: Family owned#  and operated
-* All travelers are welcome!
-* Bridge slippery during#  snowfall - NO RUNNING.
+* Honeydew Resort: Propiedad#  y gestión familiar
+* ¡Todos los viajeros#  son bienvenidos!
+* Puente resbaladizo durante#  nevada - NO CORRER.
 platform
 chain
 fall
@@ -19783,7 +19783,7 @@ clover_npc
 * IT HAS BEEN ON THIS TRUSTY#  SHELF FOR THIRTEEN YEARS!
 * DEMAND IS DEPRESSINGLY LOW SO#  TAKE ADVANTAGE OF THIS OFFER#  NOW!!
 * ONLY 40G BUCKO!!
-Buy
+Comprar
 Bye
 * Wait... seriously?
 * I MEAN, YES OF COURSE!!
@@ -20941,8 +20941,8 @@ alt_alpha_new
 alt_alpha_timer
 glitch_chance
 current_attack
-Sell
-Talk
+Vender
+Hablar
 * More steam. Fantastic.
 * One more time, Clover.
 * You got this.
@@ -21762,31 +21762,31 @@ action_follow_up
 action_script_follow_up
 main_shop_screen_number
 Mart-2-Go
-* Hey, you gonna buy#  an item or what?
+* Oye, ¿vas a comprar#  un artículo o qué?
 spr_author_head_normal_new_shop
 portrait_author_head
 spr_author_torso_normal_new_shop
 portrait_author_torso
-* Uhh... so how did you get here, anyway?
-* W-welcome to the#  Honeydew Resort!#  Please, look around.#  (was that the line?)
-* Greetings!#* Take a gander! Just#  don't touch anything.
-* Howdy howdy, human!#  Take a gander at my#  wares.#* Hard-hittin' stuff is#  off limits!
-* Unauthorized child#  detected. Go away.
-* How may I be of#  service?
-* Welcome to Bits &#  Bites!
-* Welcome to Bits &#  Bites!#* < Buy something,#  will ya? >
+* Uh... ¿Cómo has llegado#  hasta aquí?
+* ¡B-bienvenido al#  Honeydew Resort!#  Por favor, mira#  alrededor.#  (¿Era esa la frase?)
+* ¡Saludos! #* ¡Echa un vistazo!#  Pero no toques nada.
+* ¡Buenas buenas, humano!#  Echa un vistazo a mis# mercancías. #* ¡Las cosas duras están# fuera de los límites!
+* Niño no autorizado#  detectado. Váyase.
+* ¿En qué puedo servirle?
+* ¡Bienvenido a Bits & Bites!
+* ¡Bienvenido a Bits & Bites!#* < Compra algo,#  ¿quieres? >
 message_alt
 message_draw_alt
 message_alt_length
 Take
 item_max_count
-G
-Anything#look good?
-Thanks,#stranger!
-Sorry, you#need more#money...
-Looks like#you're full...
-Does it#look bad?
-You w-want#to talk?
+ ORO
+¿Algo#se ve bien?
+¡Gracias,#extraño!
+Lo siento,#necesitas más#dinero...
+Parece que#estás lleno...
+¿Se ve#mal?
+¿Q-quieres#hablar?
 Interested#in anything?
 I thank#you!
 I need#the proper#sum.
@@ -21816,146 +21816,146 @@ Appreciate#it!
 < Money.#We need#it. >
 < You're#carryin'#WAY too#much!>
 What's on#your mind?
-Buy it for#
-G ?
-G - 
+Comprarlo por#
+ de ORO?
+de ORO - 
 shop_talk
 y_finish
 item_draw_disjoint_x
 item_draw_disjoint_y
-Heals 14HP
-Heals 14HP#It'll warm you#right up!
-Heals 16HP
-Heals 16HP#Comes with#honey-syrup!
-Heals 20HP
-Heals 20HP#It's shaped#like my face!
+Cura 14HP
+Cura 14HP#¡Te#calentará!
+Cura 16HP
+Cura 16HP#¡Viene con#jarabe de#miel!
+Cura 20HP
+Cura 20HP#¡Tiene la#forma de mi#cara!
 equip_value
 draw_value
 +
 draw_string
-Acce: 4DF
-Acce: 4DF#That would go#g-great on#your hat!
-Heals 15HP
-Heals 25HP
-Heals 35HP
-Heals ???
-Heals ???#It may be#edible.
+Modif.: 4DF
+Modif.: 4DF#¡Eso iría#g-genial en#tu sombrero!
+Cura 15HP
+Cura 25HP
+Cura 35HP
+Cura ???
+Cura ???#It may be#edible.
 Ammo: 3AT
 Ammo: 3AT#Finely#crafted!
 Acce: 8DF
 Acce: 8DF#Made from#leather!
 You're too#young.
-Heals 15HP#
-Heals 15HP#Straight from#the tap!
-Heals ???#
-Heals ???#No way.
-Heals 18HP
-Heals 18HP#It's family#friendly!
-Heals 30HP
-Heals 30HP#A lil'#baby burger!
-Heals 30HP#_
-Heals 30HP#This will#kill you.
-Heals 30HP#Crunchy#sustenance!
-Heals 20HP#_
-Heals 20HP#Unfiltered.#Dirt. Bad.
-Heals 20HP#Also called#"water."
-Heals 13HP#_
-Heals 13HP#Tastes like#plastic.
-Heals 13HP#Perfectly#salted!
+Cura 15HP#
+Cura 15HP#Straight from#the tap!
+Cura ???#
+Cura ???#No way.
+Cura 18HP
+Cura 18HP#It's family#friendly!
+Cura 30HP
+Cura 30HP#A lil'#baby burger!
+Cura 30HP#_
+Cura 30HP#This will#kill you.
+Cura 30HP#Crunchy#sustenance!
+Cura 20HP#_
+Cura 20HP#Unfiltered.#Dirt. Bad.
+Cura 20HP#Also called#"water."
+Cura 13HP#_
+Cura 13HP#Tastes like#plastic.
+Cura 13HP#Perfectly#salted!
 Acce: 9DF#Stop...
 Acce: 9DF#Will blind#you.
 Acce: 9DF#Important!!!
           #< Highly#addictive! >
-Heals 30HP#A taste fit#for a king!
-Heals 50HP
+Cura 30HP#A taste fit#for a king!
+Cura 50HP
           #< Made with#extra flour ;) >
 Acce: 10DF
 Acce: 10DF#Represent the#Underground!.
 box_portait
 autoskip
-* This resort has been a family#  business for years.
-* We use local honey in all of our#  goodies while providing a warm#  place to visit.
-* It was started by my#  great-great-uncle back in...
-* Or was it my#  great-great-grandfather...
-* I can't answer this customer's#  simple question!
-* I'm not cut out for this job.
-This resort (NEW)
-* So uhh, more about this#  place...
-* Our amenities are neat!
-* The honey cooler, our coveted#  latte machine... Oh, and the#  space heater! That's a special#  one!
-* It was donated to us by a real#  nice engineer by the name of#  Chujin! His apprentice helped#  as well.
-* He worked in the Steamworks#  ages ago when it was, ya#  know... operational.
-* Of course, everyone around#  here knew him for his#  generosity and soft smile.
-* Always wanted to make people#  feel welcome!
-* The heat from that machine#  often reminds me of those days...
-* I hope it does you too! If...#  you were there, which you#  weren't... 
-* I'll shut up now.
-This resort
-* It's better than ever.
-* This is the place to be in#  Snowdin!
-* Some come for the band, some for#  the hotspring...
-* But the monsters love our coffee#  the most.
-* I don't blame them one bit.
-* It's a sweet blend of coffee#  beans, hazelnut creamer, and#  honey, straight from the forest.
-* I've already had thirteen cups#  this morning!
-* The band?
+* Este resort ha sido un#  negocio familiar durante#  años.
+* Utilizamos miel local en#  todas nuestras delicias,#  a la vez que ofrecemos#  un lugar cálido para#  visitar.
+* La fundó mi tío#  tatarabuelo en...
+* O fue mi#  tatara-tatara-abuelo...
+* No puedo responder#  a la simple pregunta#  de este cliente.
+* No estoy hecha#  para este trabajo.
+Este resort (NUEVO)
+* Así que uhh, más#  sobre este lugar...
+* ¡Nuestros servicios#  son geniales!
+* El enfriador de miel,#  nuestra codiciada máquina de#  café con leche... ¡Oh, y el#  calentador!#  ¡Ése sí que es especial!
+* Nos lo donó un ingeniero#  muy simpático llamado Chujin.#  Su aprendiz también ayudó.
+* Trabajó en la Fábrica de Vapores#  hace años cuando era, ya#  sabes... operativa.
+* Por supuesto, todo el mundo por#  aquí le conocía por su#  generosidad y su suave sonrisa.
+* ¡Siempre quise hacer#  que la gente se sintiera#  bienvenida!
+* El calor de esa máquina#  me recuerda a aquellos días...
+* Espero que a ti también.#  Si... estuvieras allí,#  que no estabas... 
+* Me callo ya.
+Este resort.
+* Está mejor que nunca.
+* ¡Este es el lugar para#  estar en Snowdin!
+* Algunos vienen por la banda,#  otros por la hotspring...
+* Pero a los monstruos lo#  que más les gusta es#  nuestro café.
+* No les culpo en absoluto.
+* Es una dulce mezcla de granos#  de café, crema de avellanas y#  miel, directamente del bosque.
+* ¡Ya me he tomado trece#  tazas esta mañana!
+* ¿La banda?
 * Veamos...
-* We have a few acts that come#  here to play.
-* The band is a very popular one#  from Hotland.
-* Oh! You should TOTALLY hear#  their new single.
-* I especially love the chorus!
-* It's so good and-
-* and...
+* Tenemos algunas actuaciones#  que vienen aquí a tocar.
+* La banda es muy popular en#  Hotland.
+* ¡Oh! Deberías escuchar#  TOTALMENTE su nuevo single.
+* ¡Me encanta especialmente#  el estribillo!
+* Es tan bueno y...
+* y...
 * Oh no.
-* I've just been talking about#  what I like.
-* You must be so bored...
-* This is why I don't like#  conversations.
-* That name rings a bell.
-* Oh, I remember!
-* Strange little guy.
-* He would often visit here, sit#  down, and watch the band.
-* It looked like he was in a#  trance every time he watched#  them.
-* I always wanted to talk to him,#  but...
-* The thought of socializing that#  much always scared me...
-* Before I could muster the#  courage, he suddenly#  stopped visiting.
-* I wonder where he went?
-* If you see him, be sure to tell#  him he's always welcome here!
-* You don't know what the Royal#  Guard is?#
-* Why they're the peacekeepers#  of the Underground!#
-* They set up stations all#  around and keep watch for#  wrongdoers.#
-* Typically, they handle small#  stuff. Schemers and scammers,#  you know.#
-* But then there are the big#  jobs. Jobs that don't come#  around very often.#
-* I... don't think you've#  learned about that particular#  subject in school yet, by the#  looks of you.#
-* You gotta be REALLY mature#  before that enters the#  curriculum. Like... a#  highschooler.#
-* Sooo... sorry! I wouldn't want#  to spoil your homework!
-* "Mo?"
-* Ohhh! "More!", You want more of#  something?#
-* Coffee? Live music? Let me#  know and I'll see what I can#  do!
+* Sólo he hablado de#  lo que me gusta.
+* Debes estar tan aburrido...
+* Por eso no me gustan#  las conversaciones.
+* Ese nombre me suena.
+* ¡Oh, ya me acuerdo!
+* Un tipo pequeño y extraño.
+* A menudo venía aquí, se#  sentaba y miraba a la banda.
+* Parecía que estaba en#  trance cada vez que#  los miraba.
+* Siempre quise hablar con él,#  pero...
+* La idea de socializar tanto#  siempre me asustó...
+* Antes de que pudiera armarme#  de valor, de repente dejó#  de visitarme.
+* ¿Me pregunto adónde habrá ido?
+* Si lo ves, ¡no deje de decirle#  que aquí siempre es bienvenido!
+* ¿No sabes lo que es#  la Guardia Real?
+* ¡Porque son los#  pacificadores del subsuelo!
+* Instalan puestos por todas#  partes y vigilan a los#  malhechores.
+* Normalmente, se encargan de#  cosas pequeñas. Conspiradores y#  estafadores, ya sabes.
+* Pero luego están los grandes#  trabajos. Trabajos que no se#  hacen muy a menudo.
+* Yo... no creo que hayas#  aprendido sobre ese tema en#  particular en la escuela#  todavía, por lo que parece.
+* Tienes que ser REALMENTE maduro#  antes de que eso entre en el#  plan de estudios. Como...#  un estudiante de secundaria.
+* Así que... ¡lo siento!#  No quisiera dañar#  tus tareas.
+* "¿Mo?"
+* ¡Ohhh! "¡Más!",#  ¿Quieres más de algo?
+* ¿Café? ¿Música en directo?#  Dímelo y veré lo que#  puedo hacer.
 No, Mo
-* No more? Um, alright then...#
-* ...¿Qué? #
-* Something wrong? You look#  annoyed...#
-* I-I didn't mean to upset you#  if I did!#
-* (How in the world do I#  communicate with children???)#
-* Uhhh - do you like video#  games? There's an arcade#  located in the Dunes!#
-* You should ask your parents to#  take you there!#
-* (Did that work?)
+* ¿No más? Um,#  de acuerdo entonces...
+* ...¿Qué?
+* ¿Pasa algo?#  Pareces molesto...
+* ¡Y-yo no quería molestarte#  si lo hice!
+* (¿¿¿Cómo diablos me#  comunico con los niños???)
+* ¿Te gustan los videojuegos?#  ¡En las Dunas hay un arcade!
+* ¡Deberías pedir a tus#  padres que te lleven allí!
+* (¿Funcionó?)
 Mo
-* The snow should stop falling#  soon. Usually lasts a day at a#  time.#
-* It's all super interesting!#
-* The Underground is large#  enough to house its own#  ecosystem, did you know that?#
-* That's why snow covers the#  ground and plant life surrounds#  us despite the obvious lack of#  sunlight.#
-* There's also these gemstone#  things but that's a whole other#  can of snails...#
-* Oh, s-sorry for the lecture!#
-* I kind of want to be a teacher#  when I get older... It's not#  important......
-* You want to h-hear a joke???#
-* (The things I do for#  customers...)#
-* Alright, uh... Let me think...#
-* Okay, here's one:#
-* Why did the dishonest monster#  get fired from his job?#
-* He was caught lying around!#  Heh...#
-* ...Not even a chuckle? Man...#
-* Definitely keeping this off#  the daily report.
+* La nieve debería dejar de caer#  pronto. Suele durar un#  día cada vez.
+* ¡Es todo super interesante!
+* El Subsuelo es lo suficientemente#  grande como para albergar#  su propio ecosistema,#  ¿lo sabía?
+* Por eso la nieve cubre el#  suelo y la vida vegetal nos rodea#  a pesar de la evidente#  falta de luz solar.
+* También están las piedras preciosas, pero eso ya es otro cantar...
+* ¡Oh, p-perdón por el discurso!
+* De mayor quiero ser#  profesora... No es#  importante......
+* ¿Quieres o-oír un chiste?
+* (Las cosas que hago por#  clientes...)#
+* Muy bien, eh...#  Déjame pensar...
+* Vale, aquí hay uno:
+* ¿Por qué despidieron#  al monstruo deshonesto?
+* ¡Lo agarraron por ahí mintiendo!#  Je...
+* ...¿Ni siquiera una risita?#  Hombre...
+* Definitivamente mantener#  esto fuera el informe diario.
 * What occured in the square?	
 * North Star just walked by my#  shop while staring at the#  ground.
 * It isn't a trouble of mine#  but... maybe you should check in#  on him?	
@@ -22235,27 +22235,27 @@ Toriel? (NEW)
 * ...The um...
 * ...The um...#* < ... >#
 * Yeah... I do wish Toriel the#  best. I'm sure she's made a#  fine life for herself.
-Toriel?
+¿Toriel?
 other_talker
-* Alright, catch you on the flip#  side!#* Peace out!
-* See ya! Thanks for being so#  kind!
-* I wish you good travels!
-* Have fun out there!
-* Yes, bye, thanks for nothing.
-* Thank you for using the Vendy#  service!
-* Thanks for your time!
-* Thanks for your time!#* < Don't let the door hit ya on#  the way out! >
+* ¡Muy bien, nos vemos#  en el otro lado!#  ¡Paz!
+* ¡Nos vemos! ¡Gracias por#  ser tan amable!
+* ¡Le deseo un buen viaje!
+* ¡Diviértete ahí fuera!
+* Sí, adiós, gracias por nada.
+* ¡Gracias por utilizar#  el servicio Vendy!
+* ¡Gracias por su tiempo!
+* ¡Gracias por su tiempo!#* < ¡Que no te golpee#  la puerta al salir! >
 shop_audio
 obj_scanlines
 sell_shop_screen_number
 sell_count
 shop_geno
-How's business?
-The band
+¿Qué tal el negocio?
+La banda
 Dalv
-Royal Guard
-Weather
-Joke
+Guardia Real
+Clima
+Broma
 bg_index
 The Feisty Five
 Your Wares
@@ -22287,14 +22287,14 @@ draw_surface_part
 * You gotta give me more credit#  than that!#* You'll have better luck looking#  elsewhere.
 * Look, if you are in need of some#  money, why not build a fangame,#  set up a Gamejolt or itch.io#  page, and hope for donations?
 * I wonder if it's even legal to#  accept donations from fangames...
-* I appreciate the offer, but...
-* My dad would ground me if I#  bought items off strangers.
-* That's what he always told me.
-* "Don't buy items off strangers."
+* Agradezco la oferta, pero...
+* Mi padre me castigaba#  si compraba cosas a#  desconocidos.
+* Eso es lo que siempre me decía.
+* "No compres artículos a desconocidos."
 * Heh heh... heh...
-* I already declined...
-* Was... was I not nice enough?
-* Over a year of working here and#  I still screw everything up.
+* Ya me negué...
+* ¿No... no fui lo suficientemente amable?
+* Más de un año trabajando aquí y#  sigo metiendo la pata en todo.
 * This is a bar, not a marketplace.
 * Try Blackjack down the road#  if you wanna barter.
 * I already told ya to ask#  Blackjack about sellin'.
@@ -22447,24 +22447,24 @@ text_separation_overworld
 obj_dialogue_box_overworld
 text_vdisjoint_overworld_normal
 text_hdisjoint_overworld_normal
-Heals 10 HP#* Has a distinct,#  non-licorice flavor.
+Cura 10 HP#* Has a distinct,#  non-licorice flavor.
 Croquet Roll
-Heals 15 HP#* Fried dough traditionally served with a mallet.
+Cura 15 HP#* Fried dough traditionally served with a mallet.
 Stick
 Weapon AT 0#* Its bark is worse than#  its bite.
 Bandage
-Heals 10 HP#* It has already been used several times.
+Cura 10 HP#* It has already been used several times.
 Rock Candy
-Heals 1 HP#* Here is a recipe to make this at home: 1. Find a rock
+Cura 1 HP#* Here is a recipe to make this at home: 1. Find a rock
 Pumpkin Rings
-Heals 8 HP#* A small pumpkin cooked like onion rings.
-Heals 12 HP#* A donut made with Spider Cider in the batter.
+Cura 8 HP#* A small pumpkin cooked like onion rings.
+Cura 12 HP#* A donut made with Spider Cider in the batter.
 Stoic Onion
-Heals 5 HP#* Even eating it raw, the tears just won't come.
+Cura 5 HP#* Even eating it raw, the tears just won't come.
 Ghost Fruit
-Heals 16 HP#* If eaten, it will never pass to the other side.
+Cura 16 HP#* If eaten, it will never pass to the other side.
 Spider Cider
-Heals 24 HP#* Made with whole spiders, not just the juice.
+Cura 24 HP#* Made with whole spiders, not just the juice.
 Butterscotch Pie
 All HP#* Butterscotch-cinnamon pie, one slice.
 Faded Ribbon
@@ -22475,21 +22475,21 @@ Weapon AT 5#* A worn pink leather glove. For five-fingered folk.
 Manly Bandanna
 Armor DF 7#* It has seen some wear. It has abs drawn on it.
 Snowman Piece
-Heals 45 HP#* Please take this to the ends of the earth.
+Cura 45 HP#* Please take this to the ends of the earth.
 Nice Cream
-Heals 15 HP#* Instead of a joke, the wrapper says something nice.
+Cura 15 HP#* Instead of a joke, the wrapper says something nice.
 Puppydough Icecream
-Heals 28 HP#* Made by young pups.
+Cura 28 HP#* Made by young pups.
 Bisicle
-Heals 11 HP#* It's a two-pronged popsicle, so you can eat it twice.
+Cura 11 HP#* It's a two-pronged popsicle, so you can eat it twice.
 Unisicle
-Heals 11 HP#* It's a SINGLE-pronged popsicle. Wait, that's just normal...
+Cura 11 HP#* It's a SINGLE-pronged popsicle. Wait, that's just normal...
 Cinnamon Bun
-Heals 22 HP#* A cinnamon roll in the shape of a bunny.
+Cura 22 HP#* A cinnamon roll in the shape of a bunny.
 Temmie Flakes
-Heals 2 HP#* It's just torn up pieces of colored construction paper.
+Cura 2 HP#* It's just torn up pieces of colored construction paper.
 Abandoned Quiche
-Heals 34 HP#* A psychologically damaged spinach egg pie.
+Cura 34 HP#* A psychologically damaged spinach egg pie.
 Old Tutu
 Armor DF 10#* Finally, a protective piece of armor.
 Ballet Shoes
@@ -22499,7 +22499,7 @@ Battle Item#* Use to make punching attacks stronger in one battle. Use outside o
 Annoying Dog
 Dog A little white dog. It's fast
 Dog Salad
-Heals ?? HP#* Recovers HP. (Hit Poodles.)
+Cura ?? HP#* Recovers HP. (Hit Poodles.)
 Dog Residue
 Dog Item Shiny trail left behind by a dog.
 Dog Item Dog-shaped husk shed from a dog's carapace.
@@ -22508,27 +22508,27 @@ Dog Item Glowing crystals secreted by a dog.
 Dog Item Jigsaw puzzle left unfinished by a dog.
 Dog Item Web spun by a dog to ensnare prey.
 Astronaut Food
-Heals 21 HP#* For feeding a pet astronaut.
+Cura 21 HP#* For feeding a pet astronaut.
 Instant Noodles
-Heals HP#* Comes with everything you need for a quick meal!
+Cura HP#* Comes with everything you need for a quick meal!
 Crab Apple
-Heals 18 HP#* An aquatic fruit that resembles a crustacean.
-Heals 20 HP#* The "meat" is made of something#  called a "water sausage."
+Cura 18 HP#* An aquatic fruit that resembles a crustacean.
+Cura 20 HP#* The "meat" is made of something#  called a "water sausage."
 Hot Cat
-Heals 21 HP#* Like a hot dog, but with little cat ears on the end.
+Cura 21 HP#* Like a hot dog, but with little cat ears on the end.
 Glamburger
-Heals 27 HP#* A hamburger made of edible glitter and sequins.
-Heals 10 HP#* Made from glowing marshwater. Increases SPEED for one battle.
+Cura 27 HP#* A hamburger made of edible glitter and sequins.
+Cura 10 HP#* Made from glowing marshwater. Increases SPEED for one battle.
 Starfait
-Heals 14 HP#* A sweet treat made of sparkling stars.
+Cura 14 HP#* A sweet treat made of sparkling stars.
 Legendary Hero
-Heals 40 HP#* Sandwich shaped like a sword. Increases ATTACK when eaten.
+Cura 40 HP#* Sandwich shaped like a sword. Increases ATTACK when eaten.
 Butty Glasses
 Armor DF 6#* Glasses marred with wear. Increases INV by 9. (After you get hurt by an attack, you stay invulnerable for longer.)
 Torn Notebook
 Weapon AT 2#* Contains illegible scrawls. Increases INV by 6. (After you get hurt by an attack, you stay invulnerable for longer.)
 Stained Apron
-Armor DF 11#* Heals 1 HP every other turn.
+Armor DF 11#* Cura 1 HP every other turn.
 Burnt Pan
 Weapon AT 10#* Damage is rather consistent. Consumable items heal 4 more HP.
 Cowboy Hat
@@ -22546,22 +22546,22 @@ Armor DF 99#* You can feel it beating.
 Bad Memory
 Hurts 1 HP#* ?????
 Dream
-Heals 12 HP#* The goal of "Determination."
+Cura 12 HP#* The goal of "Determination."
 Undyne's Letter
 Unique Letter written for Dr. Alphys.
 Undyne Letter EX
 Unique It has DON'T DROP IT written on it.
-Heals 13 HP#* Regular old popato chisps.
+Cura 13 HP#* Regular old popato chisps.
 Junk Food
-Heals 17 HP#* Food that was probably once thrown away.
+Cura 17 HP#* Food that was probably once thrown away.
 Mystery Key
 Unique It is too bent to fit on your keychain.
 Face Steak
-Heals 60 HP#* Huge steak in the shape of Mettaton's face. (You don't feel like it's made of real meat...)
+Cura 60 HP#* Huge steak in the shape of Mettaton's face. (You don't feel like it's made of real meat...)
 Hush Puppy
-Heals 65 HP#* This wonderful spell will stop a dog from casting magic.
+Cura 65 HP#* This wonderful spell will stop a dog from casting magic.
 Snail Pie
-Heals Some HP#* An acquired taste.
+Cura Some HP#* An acquired taste.
 temy armor
 Armor DF 20#* The things you can do with a college education! Raises ATTACK when worn. Recovers HP every other turn. INV up slightly.
 * "
@@ -24304,7 +24304,7 @@ I mean, there's gotta#be a better way,#right?
 I'll uhhh... I'll come#up with something!
 I'll find you again,#small human!
 With a new and#improved plan of#action!
-Well...
+Bueno...
 Here we are again. Of#course.
 I could accept this#outcome and wait.
 Who knows how long#that will take and#even worse,
