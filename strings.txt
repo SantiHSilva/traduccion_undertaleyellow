@@ -10542,80 +10542,80 @@ camera_border_y
 camera_border_x
 THE END
 * Dum dee dum...
-* Um... Excuse me?
-* King?
+* Um... Disculpe?
+* Rey?
 * Oh?
-* A visitor? At this#  hour?
-* H-Hello Mr. King, sir.
-* It is an honor to be   
-* No need to be so#  formal.
-* You can just call me#  "Asgore" if you like.
-* Right!
-* Asgore, King, sir.
-* I am Martlet of the#  Royal Guard Snowdin#  Division.
-* Ah yes! One of our#  courageous guards.
-* Thank you for your#  service to the#  Underground!
-* What brings you to the#  Castle so late?
-* W-Well...
-* This human brings me to#  the Castle.
-* Their name is#  Clover.
+* Una visita? A esta#  hora?
+* H-Hola Sr. Rey, señor.
+* Es un honor el estar   
+* No hay porque ser tan#  formal.
+* Puedes simplemente llamarme#  "Asgore" si deseas.
+* Claro!
+* Asgore, Rey, señor.
+* Soy Martlet de la Guardia#  Real de la División Snowdinn.
+* Ah sí! Una de nuestras#  guardias valientes.
+* Gracias por tus servicios#  para el Subsuelo!
+* Qué te trae al castillo#  tan tarde?
+* B-Bueno...
+* Este humano me trae#  al Castillo.
+* Su nombre es#  Clover.
 * Clover...
-* What a lovely name...
-* I apologize for the#  lack of notice!
-* I know this may be a#  shock but...
-* Were you, by chance,#  not given a Royal Guard#  handbook?
-* A handbook?
-* Sure, I was given a#  handbook.
-* Not sure I'm following.
+* Que lindo nombre...
+* Me disculpo por la falta#  de anticipación!
+* Se que esto puede ser#  una sorpresa pero...
+* De casualidad, no te fue#  entregado un manual de los#  Guardias Reales?
+* Un manual?
+* Claro, me dieron un#  manual.
+* No creo que lo esté siguiendo.
 * Ah...
 * Hmm... 
-* So you are familiar#  with the protocol...
-* Yet... here you are.
-* I know how it looks.
-* But you see...
-* Clover is not a bad#  person.
-* I-In fact, they are one#  of the kindest souls#  around!
-* So many have attacked#  them with ill intent... 
-* But Clover is peaceful.
-* ...As much as one can#  be in such situations.
-* What I'm trying to say#  is... 
-* Clover believes in#  what's best for others.#  Even monsters.
-* And... 
-* They need to go home.#  Back to the#  Surface.
-* Back to the Surface...
-* If only such a thing#  were so easy.
-* But you of all monsters#  must know the reality.
-* Clover is different!
-* This is different!
-* Regrettably...
-* The one thing these#  encounters never are is#  "different."
-* Not in the end.
-* Wh... What are you#  saying?
-* You aren't going to#  kill Clover are you!?
-* If that is the result#  of our battle...
-* It must be.
+* Entonces estás familiarizada#  con el protocolo...
+* Sin embargo... aquí estás.
+* Se lo que parece.
+* Pero verá...
+* Clover no es una mala#  persona.
+* D-de hecho, es una de#  las almas más amables#  que he conocido!
+* Tantos le han atacado#  con intenciones de lastimarle... 
+* Pero Clover opta por la paz.
+* ...Tanto como uno puede al#  estar en tales situaciones.
+* Lo que intento decir#  es... 
+* Clover cree en lo que#  es mejor para otros.#  Incluso monstruos.
+* Y... 
+* Necesita ir a casa.#  devuelta a la Superficie.
+* Devuelta a la Superficie...
+* Si tan solo fuera así#  de sencillo.
+* Pero tú de todos los#  monstruos debes saber la#  realidad.
+* Clover es diferente!
+* Esto es diferente!
+* Desgraciadamente...
+* Lo único que estos#  encuentros nunca son es#  "differente."
+* No en el final.
+* Qu... Que está diciendo?
+* No va a matar a#  Clover verdad!?
+* Si ese es el resultado de#  nuestra batalla...
+* Así tendrá que ser.
 * NO!!
-* You can't do that!!
+* No puede hacer eso!!
 * ¡Clover!
-* Plead your case! Come#  on!!
-* What are you doing??
-* Say something!
+* Defiende tu caso!#  Por favor!!
+* Que estás haciendo??
+* Di algo!
 noloop_count
-* You're...
-* You can't...
-* The human has spoken.
-* I am sorry.
+* Estás...
+* No puedes...
+* El humano ha hablado.
+* Lo siento.
 * N-No...
-* This isn't how this...
-* L-Let's go back.
-* Back to Snowdin.
-* You can live w-with me.
-* Like nothing ever#  happened...
+* Así no es como funciona...
+* R-regresemos.
+* Regresemos a Snowdin.
+* Podrás vivir c-conmigo.
+* Como si nada hubiera#  pasado...
 * Yo......
 * Hm.
-* You are a decisive one.
-* Then you know what we#  must do.
-* Please... follow me#  into the next room.
+* Eres alguien decisivo.
+* Entonces sabes lo que#  se debe hacer.
+* Por favor... sígueme#  a la siguiente habitación.
 textWidth
 textSep
 message_actual
@@ -12706,17 +12706,17 @@ yscale
 wing
 gml_Script_martlet_wing_spawn_gml_Object_obj_fmartlet_spawner_wings_Step_0
 soul_array
-* This is the barrier.
-* This is what keeps us trapped#  underground.
-* I feel it is important#  I show you something.
-* How tense...
-* The feeling you are#  experiencing at this#  moment.
-* I know it well.
-* The world can be a#  cruel place.
-* It takes and gives as#  it chooses.
-* I suppose I have talked#  long enough.
-* I will make this quick.
-* No need to worry.
+* Esta es la barrera.
+* Esto es lo que nos mantiene#  atrapados en el subsuelo.
+* Creo que es importante que#  te muestre algo.
+* Que tenso...
+* Lo que estás sintiendo#  en este momento.
+* Lo conozco bien.
+* El mundo puede ser un#  lugar cruel.
+* Toma y otorga como quiera.
+* Supongo que ya he hablado#  suficiente.
+* Haré esto rápido.
+* No tienes que preocuparte.
 attack_beam_width
 attack_beam_width_current
 attack_beam_width_inc
