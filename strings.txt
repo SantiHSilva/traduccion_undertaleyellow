@@ -18110,101 +18110,101 @@ message_repeating
 dist
 wsprite
 hsprite
-* We were in the middle of our#  set when everyone started#  leaving.
-* At first I thought our music#  was that bad, but then they#  said there was danger.
-* Surely it's not what I think#  it is...	
-* Not again...
-* Uh... yeah, sorry we had to#  cancel the show.
-* We have a gig in Waterfall#  next week. Catch us later.
-* This is a strange turn of#  events.
-* I wonder where everyone ran off#  to?
-* I don't suppose you know.
-* I hope this evacuation doesn't#  last too long.
-* I wanna get back up there and#  jam.
-* This whole situation is#  terrible.
-* It's too depressing to play#  music now.
-* I hope everyone's okay.
-* We probably should've left#  with the others but Rodney#  insisted we stay.
-* Think he's in denial or#  something...
+* Estábamos en medio de nuestro#  set cuando todo el mundo#  empezó a irse.
+* Al principio pensé que nuestra#  música era tan mala, luego#  dijeron que había peligro.
+* Seguro que no es lo que#  creo que es...	
+* Otra vez no...
+* Uh... sí, lo siento tuvimos que cancelar el show.
+* Tenemos un concierto en#  Waterfall la semana que viene.#  Nos vemos más tarde.
+* Es un extraño giro#  de los acontecimientos.
+* ¿Me pregunto adónde se#  habrán ido todos?
+* Supongo que no lo sabes.
+* Espero que esta evacuación#  no dure demasiado.
+* Quiero volver a#  subir y tocar.
+* Toda esta situación#  es terrible.
+* Es demasiado deprimente#  para poner música ahora.
+* Espero que todo el#  mundo esté bien.
+* Probablemente deberíamos habernos#  ido con los demás, pero Rodney#  insistió en que nos quedáramos.
+* Creo que está en#  negación o algo así...
 hand_displacement_y_multiplier
 time_elapsed_decrease_hand
 T10 Appear Ed
 time_elapsed_hand
 sign_modifier_hand
 hand_displacement_y
-* I'm missing a mitten.
-* You would expect my right hand#  would feel more cozy than my#  left, but...
-* I don't feel cozy at all.
-* (There's a single mitten on#  the ground.)
-* (It seems as if it was recently#  discarded.)
-* I wish my left hand was as cozy#  as my right.
-* Normally I have two mittens so#  my warmth is symmetrical.
-* But I think my left mitten took#  a vacation or something.
-* It just left me.
-* (You take out the soggy mitten.)
-* That's my missing mitten!
-* Just in time too!
-* My left hand was getting so#  jealous! I just can't live with#  that much civil unrest!
-* I should really pay you back...
-* But I don't think I have#  anything worth as much as my#  mitten...
-* I know! Take this. It's a map#  of Snowdin!
-* (You got a Snowdin map. It's#  drawn in crayon.)
-* My left mitten is more damp#  than I remembered...
-* It's okay.
-* I'll just leave my right mitten#  in the snow until it's just as#  soggy!
+* Me falta un guante.
+* Uno esperaría que mi mano derecha#se sintiera más cómoda#  que la izquierda, pero...
+* No me siento cómoda#  en absoluto.
+* (Hay un solo#  guante en el suelo.)
+* (Parece como si hubiera#  sido recientemente descartado.)
+* Ojalá mi mano izquierda#  fuera tan cómoda como#  la derecha.
+* Normalmente tengo dos#  guantes para que#  mi calor sea simétrico.
+* Pero creo que mi guante#  izquierdo se tomó unas#  vacaciones o algo así.
+* Simplemente me dejó.
+* (Sacas el guante empapado.)
+* ¡Es el guante que me#  faltaba!
+* ¡Justo a tiempo también!
+* ¡Mi mano izquierda se puso#  tan celosa! ¡No puedo#  vivir con tanto desorden civil!
+* Realmente debería pagarte...
+* Pero no creo que tenga#  nada que valga tanto como#  mi guante...
+* ¡Ya sé! Toma esto.#  ¡Es un mapa de Snowdin!
+* (Obtuviste un mapa de Snowdin.#  Está dibujado con crayón.)
+* Mi guante izquierdo está#  más húmeda de lo que#  recordaba...
+* No hay problema.
+* ¡Dejaré mi guante derecho#  en la nieve hasta que#  esté igual de empapada!
 swimmer_hsp
 max_swimmer_hsp
 swimmer_dir
 swimmer_accel
-* Swimming is a great full-body#  workout.
-* Are you seeing these limbs?#  I've never been so toned!
-* On top of that, I've dropped a#  whole goggle size!
-* Sorry, can't talk anymore.
-* I've got swimming to do.
-* Those pounds don't drop#  themselves.
-* Are you enjoying the warm#  atmosphere that can only be#  brought by a torch?
-* Is it pleasant?
-* Is it sentimental?
-* Is it... attractive?
-* Man, I love being a torch!
-* It's a regular torch.
-* You know this job has a high#  turnover rate?
-* Crazy, right?
-* Apparently most monsters don't#  like having their head lit on#  fire.
-* But, you see my head? That's#  natural flame, baby!
-* Best. Job. Ever!!!
-* I love being a torch!
-* There is a torch on one side...
-* But not on the other...
-* The feng shui of this place is#  terrible.
-* WHAT IF THERE IS A DEEPER#  MEANING TO IT?
-* THE TORCH IS A METAPHOR FOR THE#  INCOMPLETE NATURE OF LIFE.
-* I'LL NEVER LOOK AT THE#  UNDERGROUND THE SAME WAY AGAIN.
+* La natación es un excelente#  ejercicio para todo#  el cuerpo.
+* ¿Estás viendo estas#  extremidades? ¡Nunca he#  estado tan tonificada!
+* Además, ¡he bajado#  una talla de gafa entera!
+* Lo siento, ya no#  puedo hablar más.
+* Tengo que nadar.
+* Esos kilos no#  se bajan solos.
+* ¿Disfruta del cálido#  ambiente que sólo puede#  aportar una antorcha?
+* ¿Es agradable?
+* ¿Es sentimental?
+* ¿Es... atractivo?
+* Hombre, ¡me encanta#  ser una antorcha!
+* Es una antorcha normal.
+* ¿Sabes que este# trabajo tiene un alto#  índice de rotación?
+* Una locura, ¿verdad?
+* Parece que a la mayoría#  de los monstruos no les gusta#  que les prendan fuego en la cabeza.
+* Pero, ¿ves mi cabeza?#  ¡Es una llama natural, nena!
+* ¡¡¡El. mejor. trabajo!!!
+* ¡Me encanta ser una#  antorcha!
+* Hay una antorcha en un#  lado...
+* Pero no en el otro...
+* El feng shui de este#  lugar es terrible.
+* ¿Y SI TIENE UN SIGNIFICADO#  MÁS PROFUNDO?
+* LA ANTORCHA ES UNA METÁFORA#  DE LA NATURALEZA#  INCOMPLETA DE LA VIDA.
+* NUNCA VOLVERÉ A VER#  EL SUBSUELO DE LA MISMA#  MANERA.
 * HNNNNGGGGHHHHH
-* This is the hottest spot in#  Snowdin. Quite literally.
-* I've wanted to come here for#  forever and this is finally my#  chance.
-* It was worth the wait. This is#  complete bliss.
-* You know what the best part of#  this place is?
-* No one knows why the water is#  so hot here!
-* It's a mystery! Not a monster#  alive could tell you!
-* There are all sorts of theories#  of course.
-* Some say it's heated by hot#  rocks deep underground.
-* Some say it's caused by#  volcanic activity.
-* Some say it's heated by runoff#  from the Core in Hotland.
-* Whatever it is, the water is so#  relaxing that folks don't seem#  to care.
-* At least I know I don't.#  Everything just melts away.
+* Este es el lugar más#  caliente en Snowdin.#  Literalmente.
+* He querido venir aquí#  desde siempre y por fin#  es mi oportunidad.
+* La espera ha merecido#  la pena. Esto es#  una completa felicidad.
+* ¿Sabes qué es lo mejor#  de este sitio?
+* ¡Nadie sabe por qué el#  agua está tan caliente#  aquí!
+* ¡Es un misterio!#  ¡Ni un monstruo vivo#  podría decírtelo!
+* Hay todo tipo de teorías,#  por supuesto.
+* Algunos dicen que es#  calentada por rocas calientes#  del Subsuelo.
+* Algunos dicen que es#  causado por actividad volcánica.
+* Algunos dicen que es#  calentada por la escorrentía del#  núcleo de Tierra Caliente.
+* Sea lo que sea, el#  agua es tan relajante que a la gente#  no parece importarle.
+# Al menos yo no.#  Todo se derrite.
 * Ahhhh.
-* So nice and warm.
+* Tan agradable y#  cálido.
 * A small hot spring.
-* The water is getting cold.
-* (How quaint!
-* (Several Micro Froggits are#  enjoying themselves at their#  very own hot spring.)
-* (One of them even brought#  micro-floaties!)
-* (Another sips its micro-coffee#  then waves at you.)
-* (Looks like the Honeydew Resort#  thought of everyone!)
-* You watch as one Micro Froggit#  swims back and forth.
-* It's swimming at an incredible#  speed of 140,000 centimeters#  per hour!
-* The Micro Froggits would like#  some privacy now.
+* El agua se#  está enfriando.
+* (¡Qué pintoresco!)
+* (Varios Micro Froggits están# disfrutando en su# propia fuente termal).
+* (¡Uno de ellos incluso ha traído# microflotadores!)
+* (Otro sorbe su micro-café# y te saluda.)
+* (¡Parece que el Honeydew Resort# pensó en todos!)
+* Observas como una Micro Froggit# nada de un lado a otro.
+* Está nadando a una increíble velocidad de 140.000 centímetros por hora.
+* A los Micro Froggits les gustaría# un poco de privacidad ahora.
 hsp_max
 floored
 run_switch_count
@@ -18218,25 +18218,25 @@ gml_Script_state_switch_gml_Object_obj_battle_enemy_attack_macro_knight_Step_0
 * (Es una taza de café.)
 * (¡Obtuviste un Golden Coffee!)
 * De todos modos, la#  belleza está en el ojo#  del que mira.
-* Wow. It's colder today than#  usual, huh?
-* If I wasn't extremely lazy, I'd#  go to the Honeydew Resort and#  get some hot coffee.
-* For me? How can I ever thank#  you!
-* Here, I found this in the snow.#  It was probably out there for#  ages.
-* (You got a Soggy Mitten.)
-* The coffee is a little hot.
-* I'm going to let it cool down.#  I'm not crazy, ya know.
-* In the meantime, I'll get to#  making a campfire so I don't#  freeze.
-* (You take out the matches.)
-* Are those matches? Can I have#  them?
-* You're a lifesaver! I really#  need help with this fire!
-* I, uh... I don't really have#  anything else to give you.
-* Here, take your coffee back, I#  guess.
-* It got cold while I was working#  anyway.
-* (You got a cup of lukewarm#  coffee.)
-* Awww... I really thought they#  were matches...
-* Why am I still standing here,#  idle?
-* I've frozen. I cannot move my#  body anymore.
-* Don't worry, this is nature's#  way of letting me be lazy.
+* Vaya. Hoy hace más frío#  de lo habitual, ¿eh?
+* Si no fuera muy perezoso,#  iría al Honeydew Resort y me#  tomaría un café caliente.
+* ¿Por mí? ¿Cómo#  podré agradecértelo?
+* Toma, encontré esto en#  la nieve. Probablemente#  estuvo allí por años.
+* (Obtuviste un Soggy Mitten.)
+* El café está un poco caliente.
+* Voy a dejarlo enfriar.#  No estoy loco, sabes.
+* Mientras tanto, me pondré#  a hacer una fogata para#  no congelarme.
+* (Sacas las cerillas.)
+* ¿Son compatibles?#  ¿Puedo quedármelas?
+* ¡Eres un salvavidas!#  ¡Realmente necesito ayuda#  con este fuego!
+* Yo... realmente no tengo#  nada más para darte.
+* Toma, llévate tu café, supongo.
+* De todas formas se enfrió#  mientras trabajaba.
+* (Obtuviste un lukewarm#  coffee.)
+* Awww... Realmente pensé#  que eran compatibles...
+* ¿Por qué sigo aquí de pie,#  sin hacer nada?
+* Me he congelado. Ya no#  puedo mover mi cuerpo.
+* No te preocupes, es la forma#  que tiene la naturaleza de#  dejarme ser perezoso.
 * Honeydew Resort: Propiedad#  y gestión familiar
 * ¡Todos los viajeros#  son bienvenidos!
 * Puente resbaladizo durante#  nevada - NO CORRER.
