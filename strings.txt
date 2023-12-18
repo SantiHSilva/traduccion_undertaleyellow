@@ -1723,10 +1723,10 @@ shufflers_round
 victory
 shufflers_win
 portrait
-* Nice eye, kid.
-* Keep it up.
-* You're doin' good, kid.
-* Now don't let it go to#  ya head.
+* Buen ojo, niño.
+* Sigue así.
+* Lo estás haciendo#  bien, niño.
+* Ahora no dejes que#  se te suba a la cabeza.
 failure
 shufflers_failsafe
 shuffle_speed
@@ -2444,8 +2444,8 @@ gml_Script_scr_save_flowey_snowdin
 * Tenemos lugares que ver,#  la mayoría son calidos.
 * ¡Adelante!
 * ¡Esto es de lo#  que hablo!
-* Un lugar perfecto para#  relajarse y desestresarse.
-* Bueno, no perfecto,#  un poco lleno para mi gusto.
+* Un lugar perfecto para#  relajarse y#  desestresarse.
+* Bueno, no perfecto,#  un poco lleno para#  mi gusto.
 * Al menos eso mantiene#  las cosas interesantes.
 * Siéntete libre de#  holgazanear durante un#  tiempo, niño.
 * Estaré aquí comprobando#  las aguas termales.
@@ -9044,7 +9044,7 @@ reverse
 * ¡Bienvenido al#  Shopkeeper Honeydew!
 * Norte: El Honeydew Lodge
 * Noroeste: El Hotspring#  de Honeydew
-* East: Volver a Snowdin
+* Este: Volver a Snowdin
 * ¡Por aquí se va#  a las aguas termales!
 * (El agua está bloqueada#  por las escaleras.)
 * (El suelo está#  ligeramente húmedo.)
@@ -17780,109 +17780,109 @@ rephil_col
 * ¿Sí, jefe?
 * ¿Que pasa? ¿Necesitas#  afeitarte otra vez?
 * Tenemos carne fresca.
-* ¡Ja! ¡No llegarás a ninguna parte, pequeñín!
+* ¡Ja! ¡No llegarás a ninguna#  parte, pequeñín!
 * ¡Sí! ¡En ninguna parte!
 * ¿Podrian ustedes ponerle#  una tapa?
 * Ahm.
-* Anyway.
-* The name's Rephil.
-* I'm the boss of the#  world-renowned gang, The#  Shufflers.
-* We rule this town.
-* If you wanna pass, you're gonna#  have to go through us!
-* Geez.
-* We Shufflers prefer to settle#  things in a more dignified#  manner.
-* Ya catch my drift?
-* We would like to propose a#  challenge.
-* A game of sorts.
+* De todas formas.
+* Mi nombre es Rephil.
+* Soy el jefe de la#  banda mundialmente conocida,#  The Shufflers.
+* Nosotros mandamos en esta#  ciudad.
+* ¡Si quieres pasar, tendrás#  que pasar por nosotros!
+* Caray.
+* Los Shufflers preferimos#  arreglar las cosas de una#  manera más digna.
+* ¿Me entiendes?
+* Nos gustaría proponer un#  reto.
+* Un tipo de juego.
 ball_arrived
-* We'll take this ball 'ere, and#  hide it under one of us.
-* Next, we'll shuffle around.
-* When we finish, you'll have to#  guess who has the ball.
-* We'll do this three times in a#  row.
-* You win?
-* You can pass.
-* You lose?
-* We'll sit here blockin' ya for#  all eternity.
-* Ya pickin' up what I'm puttin'#  down?
-* That makes things easy, then.
-* Here we go!
-* Well ain't you just some#  unwanted coffee dregs.
-* Yeah, dregs.
-* Now, now. If ya don't get#  somethin', ya don't get it.
-* It ain't the kid's fault.
-* Tell ya what. Give that head of#  yours a nice break.
-* Mull over the rules. Make sure#  ya get 'em good an' proper.
-* Until then, the Shufflers'll be#  on path blockin' duty.
-* Ain't that right boys?
-* Yeah boss. Duty!
-* 'Ey, look who's back!
-* That's the type of stand-up kid#  I like to see.
-* You ready to play?
+* Cogeremos esta pelota y#  la esconderemos debajo de#  uno de nosotros.
+* A continuación,#  vamos a mezclar.
+* Cuando terminemos, tendrás que#  adivinar quién tiene la pelota.
+* Vamos a hacer esto tres veces#  seguidas.
+* ¿Ganas?
+* Puedes pasar.
+* ¿Perdiste?
+* Nos sentaremos aquí#  bloqueándote por toda la#  eternidad.
+* ¿Captas lo que digo?
+* Eso facilita las cosas.
+* ¡Allá vamos!
+* Bueno, no eres más que#  un poso de café#  no deseado.
+* Sí, escoria.
+* Ya, ya. Si no entiendes#  algo, no lo entiendes.
+* No es culpa del niño.
+* Te diré algo.#  Dale a tu cabeza un#  buen descanso. 
+* Reflexiona sobre las reglas.#  Asegúrate de que las entiendes#  bien.
+* Hasta entonces, los Shufflers#  estarán de guardia bloqueando#  caminos.
+* ¿No es verdad, chicos?
+* ¡Sí jefe. Duty!
+* ¡Miren quién volvió!
+* Ése es el tipo de niño#  que me gusta ver.
+* ¿Listo para jugar?
 color_noloop
-* Fine then.
-* Think you can pass this time?#  Let's find out!
-* Well, ain't that a pity.
-* Why don't you take a while an'#  come back when you're ready to#  try again?
-* Take some time to practice by#  yourself if ya can.
-* Maybe then you'll be a bit more#  of a challenge.
-* Until then, we ain't movin'.#  Right boys?
-* Yeah boss, we'll stay right#  'ere.
-* Yeah. We ain't got anywhere#  better to go.
-* Uhh, hey there, kid.
-* We've been at this a while, ya#  know?
-* Ain't you gettin' tired of this?
-* Even we're gettin' pretty tired.
-* We don't usually have this much#  exercise.
-* See, we don't get many#  customers tryin' to come#  through.
-* They must have heard how#  intimidatin' we can be, right#  boys?
-* Yeah, boss!
-* Ain't nobody messin' with us!
-* Mess!
-* Tell ya what, kid.
-* Challengin' us again an' again,
-* Failin' over an' over,
-* 'Specially when you're so#  clearly outmatched,
-* Takes a lot outta ya.
-* You gotta have a ton of#  perseverance to pull that off.
-* That, or you're one of the#  stupidest monsters I ever met.
-* Either way, I think you've#  earned your way through.
-* Come on, boys.
-* Boss, I think the little punk#  beat us.
-* That must've been a lucky#  guess!
-* There's no way a glass of#  spoiled milk like you could#  beat us!
-* Now, now, Toast. Let's simmer#  down.
-* There ain't nothing to get#  heated over.
-* The kid beat us fair n' square.
-* The Shufflers ain't nothing if#  not true to their word.
-* Ain't that right?
-* Yeah boss, a Shuffler always#  keeps their word.
-* Yeah, always.
-* Now, kid, we'll let you pass on#  through.
-* You've earned ya self a#  powerful friend in the#  Shufflers today.
-* All ya gotta do is remember the#  name,
-* An' we'll be on ya side if ya#  ever need us.
-* The Shufflers always protect a#  friend, right boys?
-* Yeah, you got a problem, we can#  handle it.
-* Yeah, handle.
+* Muy bien.
+* ¿Crees que puedes aprobar esta#  vez? ¡Vamos a averiguarlo!
+* Vaya, qué pena.
+* ¿Por qué no te tomas un tiempo#  y vuelves cuando estés listo#  para volver a intentarlo?
+* Si puedes, tómate un#  tiempo para practicar.
+* Tal vez entonces seas#  un poco más desafiante.
+* Hasta entonces, no nos#  moveremos. ¿Verdad, chicos?
+* Sí jefe, nos quedaremos#  aquí.
+* Sí. No tenemos ningún#  sitio mejor al que ir.
+* Uhh, hola, niño.
+* Llevamos tiempo en esto,#  ¿sabes?
+* ¿No te cansas de esto?
+* Incluso nosotros#  estamos bastante cansados.
+* No solemos hacer tanto#  ejercicio.
+* Verá, no tenemos muchos#  clientes que intenten pasar.
+* Deben haber oído lo#  intimidantes que podemos ser,#  ¿verdad, chicos?
+* ¡Sí, jefe!
+* ¡Nadie se mete con nosotros!
+* ¡Maldición!
+* Te diré algo, niño.
+* Desafiándonos una y otra vez,
+* Fallando una y otra vez,
+* Especialmente cuando#  estás tan claramente superado,
+* Te saca mucho de ti.
+* Hay que tener mucha#  perseverancia para conseguirlo.
+* Eso, o eres uno de los#  monstruos más estúpidos que#  he conocido.
+* En cualquier caso,#  creo que te has ganado el#  puesto.
+* Vamos, muchachos.
+* Jefe, creo que el#  pequeño punk nos ganó.
+* ¡Debe haber sido un golpe#  de suerte!
+* ¡Es imposible que#  un vaso de leche estropeada#  como tú nos gane!
+* Vamos, vamos, Toast.#  Vamos a calmarnos.
+* No hay nada por lo que#  enfadarse.
+* El niño nos ganó limpiamente.
+* Los Shufflers no son nada#  si no son fieles a su palabra.
+* ¿No es así?
+* Sí jefe, un Shuffler siempre#  cumple su palabra.
+* Sí, siempre.
+* Ahora, niño, te#  dejaremos pasar.
+* Hoy te has ganado un#  amigo poderoso en#  los Shufflers.
+* Todo lo que tienes que#  hacer es recordar el nombre,
+* Y estaremos a tu lado#  si alguna vez nos necesitas.
+* Los Shufflers siempre#  protegen a un amigo,#  ¿verdad chicos?
+* Sí tienes un problema,#  podemos encargarnos.
+* Si, encargarnos.
 new_col
-* You spreadin' the word of the#  Shufflers reign yet?
-* It's pretty nice knowin' we got#  someone out there, ya know?
-* It's stressful, havin' to run#  the gang an' run our publicity#  too.
-* An' remember, you ever need#  anything, we'll be here.
-* There's always more monsters#  that need an inconveniencing,#  ya get me?
+* ¿Ya has corrido#  la voz del reinado de#  los Shufflers?
+* Es muy agradable saber#  que tenemos a alguien#  ahí fuera, ¿sabes?
+* Es estresante, tener#  que dirigir la banda y también#  nuestra publicidad.
+* Y recuerda, si alguna#  vez necesitas algo,#  estaremos aquí.
+* Siempre hay más monstruos#  que necesitan un inconveniente,#  ¿me entiendes?
 swigSlideSpeed
-* Ya best be behavin' out there,#  kid.
-* Do the Shufflers proud.
-* If ya don't, you might wind up#  an old, discarded tea bag.
-* Where are you going?
+* Será mejor que te#  portes bien, niño.
+* Enorgullece a los Shufflers.
+* Si no lo haces,#  puedes acabar siendo una vieja#  bolsa de té desechada.
+* ¿Adónde vas?
 flag_check
 toastSlideSpeed
-* You're in the Shufflers#  neighborhood now.
-* Ya wanna pass through here, ya#  gonna have to get through us.
-* We got a real hard game for you.
-* Only one monster eva got past#  us.
-* Oh, that was you, wasn't it.
-* Sorry 'bout that...
+* Ahora estás en el#  barrio de los Shufflers.
+* Si quieres pasar#  por aquí, tendrás que pasar#  por nosotros.
+* Tenemos un juego muy duro#  para ti.
+* Sólo un monstruo nos#  ha superado.
+* Oh, eras tú, ¿no?
+* Lo siento por eso...
 destination
 ballRollSpeed
 * (Te quedas mirando el#  tronco.)
@@ -24566,33 +24566,33 @@ radtodeg
 colliders_nobridge
 colliders_bridge
 ast_shortcut_railing
-Whoa whoa whoa!
-No need to start a#fight! Let's be#civil 'ere.
-Do you attempt to#attack everyone you#encounter?
-Calm down, will ya?
-Why have you#done this?
-Is it because#of some personal#crusade?
-Your species already#imprisoned us here.#You won.
-I don't understand...
-Chujin was right#all along.
-Humans want to rule#over us;#control our lives...
-Even if we freed#ourselves, they would#only wage war again.
-If only I stayed#here and didn't#run off, I could've#protected St-
-Enough talk.
-Starlo was the...#the only friend#I had left.
-What you've done#is unforgivable.
+¡Whoa whoa whoa!
+¡No hay necesidad de#empezar una pelea!#Seamos civilizados.
+¿Intentas#atacar a todo#el que te#encuentras?
+Cálmate, ¿quieres?
+¿Por qué has#hecho esto?
+¿Se debe a una#crisis personal?
+Tu especie ya nos#encarceló aquí.#Ustedes ganaron.
+No lo entiendo...
+Chujin siempre#tuvo razón.
+Los humanos quieren gobernar#sobre nosotros;#controlar nuestras vidas...
+Aunque nos liberáramos,#volverían a hacer la#guerra.
+Si me hubiera quedado#aquí y no hubiera huido,#podría haber protegido#a St...
+Basta de charla.
+Starlo era el...#el único amigo#que me quedaba.
+Lo que has hecho#es imperdonable.
 ... 
-You WILL know the#pain you have caused.
-Look.
-Look at me, coward!
-The fruits of your#labor.
-Does this make#you happy?
-Maybe if I were to#beg for mercy.
-Make you feel bad#about your actions?
-Once you wipe#us out...
-...I hope you choke on#the dust that will#fill the air.
-...In the meantime...
-Go to Hell.
+Tú SABRÁS el#dolor que has causado.
+Mira.
+¡Mírame, cobarde!
+Los frutos de tu#trabajo.
+¿Esto te hace#feliz?
+Tal vez si#yo rogara piedad.
+¿Haria que te#sintieras mal por#tus acciones?
+Una vez que nos#elimines...
+...Espero que te ahogues#con el polvo que llenará#el aire.
+...Mientras tanto...
+Vete al infierno.
 color_blue
 counter_circle_number
 auto_advance_timer
