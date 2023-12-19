@@ -9049,9 +9049,9 @@ reverse
 * (El agua está bloqueada#  por las escaleras.)
 * (El suelo está#  ligeramente húmedo.)
 * (¡Ayuda, no#  puedo derretirme!)
-* 10 pasos hacia el Este - 3a Señal#* 10 pasos hacia el Oeste - 1a Señal
-* 10 pasos hacia el Oeste - 2a Señal
-* 10 pasos hacia el Este - 2a Señal
+* 10 pasos hacia el Este-3a Señal#* 10 pasos hacia el Oeste-1a Señal
+* 10 pasos hacia el Oeste - 2a#  Señal
+* 10 pasos hacia el Este - 2a#  Señal
 * A quien corresponda:
 * Me di cuenta de un fallo#  fatal del primer puzzle#  en su diseño.
 * ¿Cómo se supone que#  un intruso lo vería?
@@ -9061,7 +9061,7 @@ reverse
 * Con un nuevo diseño#  vertical, ¡puedes ver#  lo que controlas!
 * Sin embargo, las#  piezas pueden seguir#  atascándose.
 * Por favor, consulta#  mis instrucciones en el#  primer puzzle si eso ocurre.
-* Firmado: Martlet de la# Guardia Real Subterránea
+* Firmado: Martlet de la#  Guardia Real Subterránea
 * (Algunos restos de la#  construcción de este puzzle.)
 * (Sólo algo de basura.)
 * (Un banco de madera.)
@@ -18168,9 +18168,9 @@ swimmer_accel
 * ¿Es... atractivo?
 * Hombre, ¡me encanta#  ser una antorcha!
 * Es una antorcha normal.
-* ¿Sabes que este# trabajo tiene un alto#  índice de rotación?
+* ¿Sabes que este#  trabajo tiene un alto#  índice de rotación?
 * Una locura, ¿verdad?
-* Parece que a la mayoría#  de los monstruos no les gusta#  que les prendan fuego en la cabeza.
+* Parece que a la mayoría#  de los monstruos no les gusta#  que les prendan fuego.
 * Pero, ¿ves mi cabeza?#  ¡Es una llama natural, nena!
 * ¡¡¡El. mejor. trabajo!!!
 * ¡Me encanta ser una#  antorcha!
@@ -18190,21 +18190,21 @@ swimmer_accel
 * Hay todo tipo de teorías,#  por supuesto.
 * Algunos dicen que es#  calentada por rocas calientes#  del Subsuelo.
 * Algunos dicen que es#  causado por actividad volcánica.
-* Algunos dicen que es#  calentada por la escorrentía del#  núcleo de Tierra Caliente.
-* Sea lo que sea, el#  agua es tan relajante que a la gente#  no parece importarle.
-# Al menos yo no.#  Todo se derrite.
+* Algunos dicen que se calienta#  por la salida de agua del#  núcleo de Hotland.
+* Sea lo que sea, el agua es#  tan relajante que a la gente#  no parece importarle.
+# Al menos a mi no.#  Todo se derrite.
 * Ahhhh.
 * Tan agradable y#  cálido.
-* A small hot spring.
+* Una pequeña fuente termal.
 * El agua se#  está enfriando.
-* (¡Qué pintoresco!)
-* (Varios Micro Froggits están# disfrutando en su# propia fuente termal).
-* (¡Uno de ellos incluso ha traído# microflotadores!)
-* (Otro sorbe su micro-café# y te saluda.)
-* (¡Parece que el Honeydew Resort# pensó en todos!)
-* Observas como una Micro Froggit# nada de un lado a otro.
-* Está nadando a una increíble velocidad de 140.000 centímetros por hora.
-* A los Micro Froggits les gustaría# un poco de privacidad ahora.
+* (¡Qué curioso!)
+* (Varios Micro Froggits están#  disfrutando en su#  propia fuente termal).
+* (¡Uno de ellos incluso ha traído#  microflotadores!)
+* (Otro da un sorbo a su#  microcafé y te saluda.)
+* (¡Parece que el Honeydew Resort#  pensó en todos!)
+* Observas como un Micro#  Froggit nada de un lado a otro.
+* ¡Está nadando a una#  increíble velocidad de#  140.000 centímetros por hora!
+* A los Micro Froggits#  les gustaría un poco#  de privacidad ahora.
 hsp_max
 floored
 run_switch_count
@@ -18244,25 +18244,25 @@ platform
 chain
 fall
 Silver [Ag]
-* The element of disappointment.
+* El elemento de la decepción.
 clover_fall
-* Strange.
-* That wasn't a handsome bridge#  last I looked.
-* Was it always that way?
-* Where am I?
-* Royal Guards. Thinking they're#  all special.
-* They don't have screening#  processes like they used to.
-* How do they interview these#  bozos?
-* "Do you want to be a member of#  the Royal Guard? Sí?"
-* "Here's a uniform, you start#  Monday."
-* Just look at this puzzle! It#  was a perfectly nice bridge#  once!
-* I remember what it looked like#  as a bridge.
-* I would have called it a pretty#  handsome bridge.
-* Now, you can say homemade is#  "charming" or whatever,
-* But you can't call it handsome.#  No way, no way.
-* You can't just hire anyone for#  a position like this.
-* What do they do? Advertise for#  free Royal Guard posts in the#  mail?
-* Despicable.
+* Extraño.
+* No era un puente#  bonito la última vez#  que miré.
+* ¿Siempre ha sido así?
+* ¿Dónde estoy?
+* Guardias Reales. Pensando#  que son todos especiales.
+* No tienen procesos de#  selección como antes.
+* ¿Cómo entrevistan a#  estos payasos?
+* "¿Quieres ser miembro de#  la Guardia Real? ¿Sí?"
+* "Aquí tienes un uniforme,#  empiezas el lunes."
+* ¡Mira este puzze! ¡Una vez#  fue un puente perfectamente bonito!
+* Recuerdo cómo era un puente.
+* Yo lo habría llamado#  un puente bastante bonito.
+* Ahora, puedes decir#  que lo hogareño es#  "encantador" o lo que sea,
+* Pero no puedes llamarlo#  bonito. De ninguna manera.
+* No se puede contratar#  a cualquiera para un#  puesto así.
+* ¿A qué se dedican?#  ¿Publicitar puestos gratuitos#  de la Guardia Real por correo?
+* Despreciable.
 phy_position_x
 x_original_phy
 phy_position_y
@@ -18280,8 +18280,8 @@ icecube
 ball_collider
 phy_active
 compound
-* (You notice a fresh pancake#  lying under the bench.)
-* (Obtained Honeydew Pancake!)
+* (Te das cuenta de que#  hay un pancake fresca#  debajo del banco.)
+* (¡Obtuviste un Honeydew Pancake!)
 * Hm? Oh, uh, hello!
 * Sorry, I don't know#  where my head was right#  there.
 * It seems I have#  a summer home in lala#  land these days!
@@ -24319,9 +24319,9 @@ My cozy uniforms, my#Royal Guard discount#at the movies, my nice#insurance rates
 When they find out how#much I hesitated here,#I'm doomed!
 I mean, they#specifically said#don't hesitate!
 I GOT IT!
-* You take a look inside the#  barrel and find some Coffee#  Beans.
-* (You got the Coffee Bean#  Ammo!)
-* (An empty barrel.)
+* Echas un vistazo dentro#  del barril y encuentras#  algunos granos de café.
+* (¡Obtuviste munición#  de Coffee Bean!)
+* (Un barril vacío.)
 Okay, what is going#on?!
 I mean, don't get#me wrong, being#attacked hurts!
 Like, did I have a#bad first impression#with you?
