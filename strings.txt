@@ -18168,9 +18168,9 @@ swimmer_accel
 * ¿Es... atractivo?
 * Hombre, ¡me encanta#  ser una antorcha!
 * Es una antorcha normal.
-* ¿Sabes que este# trabajo tiene un alto#  índice de rotación?
+* ¿Sabes que este#  trabajo tiene un alto#  índice de rotación?
 * Una locura, ¿verdad?
-* Parece que a la mayoría#  de los monstruos no les gusta#  que les prendan fuego en la cabeza.
+* Parece que a la mayoría#  de los monstruos no les gusta#  que les prendan fuego.
 * Pero, ¿ves mi cabeza?#  ¡Es una llama natural, nena!
 * ¡¡¡El. mejor. trabajo!!!
 * ¡Me encanta ser una#  antorcha!
@@ -18190,21 +18190,21 @@ swimmer_accel
 * Hay todo tipo de teorías,#  por supuesto.
 * Algunos dicen que es#  calentada por rocas calientes#  del Subsuelo.
 * Algunos dicen que es#  causado por actividad volcánica.
-* Algunos dicen que es#  calentada por la escorrentía del#  núcleo de Tierra Caliente.
-* Sea lo que sea, el#  agua es tan relajante que a la gente#  no parece importarle.
-# Al menos yo no.#  Todo se derrite.
+* Algunos dicen que se calienta#  por la salida de agua del#  núcleo de Hotland.
+* Sea lo que sea, el agua es#  tan relajante que a la gente#  no parece importarle.
+# Al menos a mi no.#  Todo se derrite.
 * Ahhhh.
 * Tan agradable y#  cálido.
-* A small hot spring.
+* Una pequeña fuente termal.
 * El agua se#  está enfriando.
-* (¡Qué pintoresco!)
-* (Varios Micro Froggits están# disfrutando en su# propia fuente termal).
-* (¡Uno de ellos incluso ha traído# microflotadores!)
-* (Otro sorbe su micro-café# y te saluda.)
-* (¡Parece que el Honeydew Resort# pensó en todos!)
-* Observas como una Micro Froggit# nada de un lado a otro.
-* Está nadando a una increíble velocidad de 140.000 centímetros por hora.
-* A los Micro Froggits les gustaría# un poco de privacidad ahora.
+* (¡Qué curioso!)
+* (Varios Micro Froggits están#  disfrutando en su#  propia fuente termal).
+* (¡Uno de ellos incluso ha traído#  microflotadores!)
+* (Otro da un sorbo a su#  microcafé y te saluda.)
+* (¡Parece que el Honeydew Resort#  pensó en todos!)
+* Observas como un Micro#  Froggit nada de un lado a otro.
+* ¡Está nadando a una#  increíble velocidad de#  140.000 centímetros por hora!
+* A los Micro Froggits#  les gustaría un poco#  de privacidad ahora.
 hsp_max
 floored
 run_switch_count
