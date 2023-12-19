@@ -10552,7 +10552,7 @@ THE END
 * Puedes simplemente#  llamarme "Asgore" si#  deseas.
 * Claro!
 * Asgore, Rey, señor.
-* Soy Martlet de la#  Guardia Real de la#  División Snowdinn.
+* Soy Martlet de la#  Guardia Real de la#  División Snowdin.
 * Ah sí! Una de nuestras#  guardias valientes.
 * Gracias por tus#  servicios para el#  Subsuelo!
 * Qué te trae al castillo#  tan tarde?
