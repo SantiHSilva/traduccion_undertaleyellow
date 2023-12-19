@@ -13591,20 +13591,20 @@ steamworks_22_event_axis_stop_throwing
 steamworks_22_event_deflect
 energy_ball
 fly_time
-* Wait.
-* Before we enter, I just#  wanna say...
-* Thanks for today.
-* For putting up with me.
-* I guess...
-* In the big picture of#  my life, you're only#  gonna be a blip.
-* But oftentimes...
-* Those "blips" make the#  biggest impacts, you#  know?
-* Oh, what am I saying?
-* I'll see you again once#  monsterkind is free,#  remember?
-* Wherever you are when#  that time comes,
-* I will search you out!#  Guaranteed!
-* Guess it's time.
-* Just follow my lead.
+* Espera.
+* Antes de entrar, quería#  decirte...
+* Gracias por este día.
+* Por aguantarme.
+* Creo que...
+* En lo larga que sea#  mi vida, tú solo#  serás un destello.
+* Pero en ocasiones...
+* Esos "destellos" hacen los#  mayores impactos, sabes?
+* Oh, qué estoy diciendo?
+* Te volveré a ver#  cuando mi raza sea#  libre, recuerdas?
+* Donde sea que estés#  cuando eso ocurra,
+* Iré a buscarte!#  Te lo garantizo!
+* Supongo que es la hora.
+* Sólo sígueme.
 * (A drawer full of#  videotapes.)
 * (A label on the front#  reads: "Home movies.")
 * While I'm sure these#  are adorable...
