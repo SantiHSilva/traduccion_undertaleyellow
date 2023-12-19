@@ -950,22 +950,22 @@ rm_mansion_entrance
 rm_hotland_complex_1
 rm_newhome_02
 rm_newhome_03
-Dark Ruins - Entrance
+Ruinas Oscuras - Entrada
 saveroom
-Dark Ruins - Atrium
-Dark Ruins - Cliff
-Dark Ruins - Puzzle
-Dark Ruins - Hall
+Ruinas Oscuras - Atrio
+Ruinas Oscuras - Acantilado
+Ruinas Oscuras - Puzzle
+Ruinas Oscuras - Vestíbulo
 Snowdin - Delta Rock
 Snowdin - Ruined Shack
 Snowdin - Pathway
 Snowdin - Resort
-Snowdin - Corridor
-Dunes - Cave
-Dunes - Tree
-Mines - Elevator
-Mines - Minecart
-Dunes - Mountaintop
+Snowdin - Corredor
+Dunes - Cueva
+Dunes - Árbol
+Minas - Elevador
+Minas - Minecart
+Dunes - Cima de montaña
 Dunes - Playground
 Dunes - Well
 Wild East - Town
@@ -2475,24 +2475,24 @@ gml_Script_scr_determine_world_value_yellow
 * Tengo que decir, es#  un poco agradable#  no tener molestias.
 * Bueno, no queda nada#  que hacer por aquí,#  supongo. ¡Sigamos!
 * ¡Sigamos avanzando!
-* ¡Buenas!#* ¡Parece que#  lo conseguiste!  
+* ¡Buenas!#* ¡Parece que lo#  conseguiste!  
 * ¿Por qué la cara larga,#  amigo?
 * No te preocupes, ¡este#  sitio es mucho mejor#  que allí arriba!
-* ¡Esa vieja#  nos habría arruinado#  la diversión!
-* ¡Vamos, no nos quedemos#  aquí todo el día!
+* ¡Esa vieja nos#  habría arruinado#  la diversión!
+* ¡Vamos, no nos quedémos#  aquí todo el día!
 * Tú... solo necesitas#  guardar una vez...
 * ¿No confías en mi#  o algo así?
 * ¡Por favor!#* ¡Soy tu amigo!#* ¡Soy heroico en Free Fire!
-* ¡Yo te cubro#  las espaldas!
+* ¡Yo te cubro la#  espalda!
 * Deberías ponerte#  en marcha...
 * ¿Enserio?#* ¿De qué se trata esto?
-* Ya te lo dije,#  ¡No necesitas a esa#  estupida señora cabra!
-* ¡Ella no podría#  haberte protegido#  de todas formas!
+* Ya te lo dije,#  ¡No necesitas a esa#  estúpida señora cabra!
+* ¡Ella no hubiera#  podido protegerte#  de todas formas!
 * ¡Me tienes a mí! #* ¡Soy mucho mejor!
 * ¡Soy tu amigo, Flowey!
 * ¡Soy el único amigo #  que necesitarás!
-* ¿Toriel te ayuda a guardar?#* ¡NO!
-* ¡Asi que salgamos#  de aquí mientras#  seamos jovenes!
+* ¿Toriel te ayuda a#  guardar?#* ¡NO!
+* ¡Asi que salgamos#  de aquí mientras#  seamos jóvenes!
 * ¡Veo que sigues#  en una pieza!
 * Viste a ese bicho#  raro ¿verdad?
 * Si quieres salir de#  aquí tendras que#  pasar por él.
@@ -3303,7 +3303,7 @@ scr_battle_core_directory_no_attack
 * ¡Froggit saltó cerca!
 * ¡Flier está intentando luchar!
 * You are overwhelmed by#  depressing vibes.
-* Penilla draws near!
+* Penilla se acerca dibujando!
 * Penilla seems to be dreading#  this battle.
 * Sweet Corn hops up excitedly.
 * You can already feel the#  cavities.
@@ -3466,7 +3466,7 @@ gml_Script_scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * Smells like freshly opened#  textbooks!
 * Ms. Mettaton.
-* Everything has that new car#  smell with a faint whiff of#  bodyspray.
+* Todo tiene ese aroma a#  carro nuevo con un poco de#  perfume.
 * Penilla is drawing a practice#  sketch of you.
 * It smells like burning candle#  wax.
 * Crispy Scroll is asking if he#  can get a picture with you.
@@ -3610,8 +3610,8 @@ gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_3
 scr_battle_core_directory_flavor_text_enemy_1_default_3
 * So much information overload!
 * You know what I'm saying?!
-* Flier is caught up in old#  memories.
-* Penilla signs her sketch and#  starts a new one.
+* Flier está envuelto en viejas#  memorias.
+* Penilla firma su sketch#  y empieza uno nuevo.
 * Your ears are ringing from the#  chatter.
 * Sweet Corn makes her signature#  squeaky toy noise.
 * Crispy Scroll is talking in#  circles.
@@ -3764,8 +3764,8 @@ gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_9
 scr_battle_core_directory_flavor_text_enemy_1_default_9
 * Craniex is sparing you.
 * Ms. Mettaton is totally sparing you!
-* Flier is ready to return to his#  regular life.
-* Penilla is packing up her art#  supplies for the day.
+* Flier está listo para volver a#  su vida regular.
+* Penilla está recogiendo sus#  utensilios de arte para hoy.
 * Sweet Corn is smiling#  contentedly.
 * Crispy Mode 2k!!
 * Rorrim is looking for his next#  big project.
@@ -3835,8 +3835,8 @@ scr_battle_core_directory_flavor_text_enemy_2_default_4
 * Insomnitot wants to leave, but doesn't want to move.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_2_default_5
 scr_battle_core_directory_flavor_text_enemy_2_default_5
-* Penilla is overwhelmed with cutscenes.
-* Penilla tries to draw in an anime artstyle to make Crispy Scroll calm down.
+* Penilla está abrumada con secuencias.
+* Penilla intenta dibujar al estilo anime para calmar a Crispy Scroll.
 * Insomnitot kicks a rock.#* Know Cone retrieves it with his mouth.
 * Cactony would rather be alone#  right now.
 * The duo's robotic voices grate#  on your ears like rusty saw#  blades.
@@ -3846,9 +3846,9 @@ gml_Script_scr_battle_core_directory_flavor_text_enemy_2_sparing_1
 scr_battle_core_directory_flavor_text_enemy_2_sparing_1
 gml_Script_scr_battle_core_directory_flavor_text_enemy_2_sparing_2
 scr_battle_core_directory_flavor_text_enemy_2_sparing_2
-* Penilla frantically scraps her#  flier sketch.
+* Penilla raya frenéticamente#  su boceto de Flier.
 * The sweet vibes vanish.
-* Penilla finishes her anime#  drawing in honor of Crispy.
+* Penilla termina su dibujo#  de anime en honor a Crispy.
 * Insomnitot thinks it was a#  dream.
 * Know Cone face-plants into#  the ground and yells.
 * Sir Slither pivots their full#  attention to you.
@@ -4021,7 +4021,7 @@ action_2_color_3
 * Insult
 * Ogle
 * Amenazar
-* Distract
+* Distraer
 * Hug
 * Yell
 * Critique
@@ -4042,7 +4042,7 @@ action_2_color_3
 * Calm
 * Glare
 * Nap
-* Criticize
+* Critcar
 * Fry
 * Pet
 * Scrutinize
@@ -4104,96 +4104,96 @@ scr_battle_core_directory_action_5_name
 enemy_attack_stat_3
 enemy_defense_stat_3
 enemy_low_hp_3
-* CRANIEX -- ATK 
+* CRANIEX -- ATQ 
  DEF 
 #* Dotada lógicamente, terco emocionalmente.
-* MS. METTATON -- ATK 
+* MS. METTATON -- ATQ 
 #* Su velocidad la hace invulnerable al ataque..
-* MS. METTATON EX ATK 
+* MS. METTATON EX ATQ 
 #* La robot asesina definitiva, aunque imperfecta!
-* FROGGIT -- ATK 
+* FROGGIT -- ATQ 
 #* La vida es dificil para este enemigo.
-* FLIER -- ATK 
+* FLIER -- ATQ 
 #* Flier siente nada.
-* PENILLA -- ATK 
+* PENILLA -- ATQ 
 #* Un personaje incompleto.
-* SWEET CORN -- ATK 
+* SWEET CORN -- ATQ 
 #* Constantemente en una carrera de azucar.
-* CRISPY SCROLL -- ATK 
+* CRISPY SCROLL -- ATQ 
 #* Buscando alguien que pueda ser retador de su entusiasmo.
-* RORRIM -- ATK 
+* RORRIM -- ATQ 
 #* La expresión de Rorrim#  está en blanco.
-* DECIBAT -- ATK 
+* DECIBAT -- ATQ 
 #* Extrañando su tranquila soledad.
-* DALV -- ATK 
+* DALV -- ATQ 
 #* Quiere que lo dejen solo.
 #* Actuando sombrío.
 #* Finalmente solo...
-* MICRO FROGGIT -- ATK 
+* MICRO FROGGIT -- ATQ 
 #* A menudo pasa desapercibido.
-* INSOMNITOT -- ATK 
+* INSOMNITOT -- ATQ 
 #* Más allá de su hora de dormir.
-* KNOW CONE -- ATK 
+* KNOW CONE -- ATQ 
 #* Un esquí menos que una moto de nieve.
 #* Una mente ansiosa llena de una pasión ardiente.
-* FROSTERMIT -- ATK 
+* FROSTERMIT -- ATQ 
 #* Siempre como en casa.
 #* Un sospechoso igloo.
-* TRIHECTA -- ATK 
+* TRIHECTA -- ATQ 
 #* Intimidantemente alto.
-* TRI -- ATK 
+* TRI -- ATQ 
 #* Ya no intimida.
 #* Tomando las cosas un paso a la vez.
-* HEC -- ATK 
+* HEC -- ATQ 
 #* El dia esta mejorando.
-* TA -- ATK 
+* TA -- ATQ 
 #* Saltos de emoción!!
-* MARTLET -- ATK 
+* MARTLET -- ATQ 
 #* Un poco atolondrado.
 #* Manteniendome Firme.
 #* Atolondrado.
-* DUNEBUD -- ATK 
+* DUNEBUD -- ATQ 
 #* Cuestionandome.
 #* Buscando algo de diversión.
-* CACTONY -- ATK 
+* CACTONY -- ATQ 
 #* Carece de cariño físico.
-* SLITHER -- ATK 
+* SLITHER -- ATQ 
 #* Colocando un pie sobre el mundo!!!.
-* BOWLL -- ATK 
+* BOWLL -- ATQ 
 #* Una fachada frágil.
-* EL BAILADOR -- ATK 
+* EL BAILADOR -- ATQ 
 #* La definición de pasión!
 #* Otro obstáculo.
-* Violetta -- ATK 
+* Violetta -- ATQ 
 #* No es alguien para una conversación.
-* Pedla -- ATK 
+* Pedla -- ATQ 
 #* Le encanta regalar flores.
-* Rosa -- ATK 
+* Rosa -- ATQ 
 #* Le gusta un buen reto.
-* DUMMY -- ATK ? DEF ?#* Just a dummy.
-* CEROBA -- ATK 
+* DUMMY -- ATQ ? DEF ?#* Just a dummy.
+* CEROBA -- ATQ 
 #* No queda nada.
-* STARLO -- ATK 
+* STARLO -- ATQ 
 #* El almirante Sheriff.
 #* El no-tan-almirante Sheriff.
-* ED -- ATK 
+* ED -- ATQ 
 #* El equipo ensueño!
-* MORAY -- ATK 
-* ACE -- ATK 
-* MOOCH -- ATK 
-* TELLYVIS -- ATK 
+* MORAY -- ATQ 
+* ACE -- ATQ 
+* MOOCH -- ATQ 
+* TELLYVIS -- ATQ 
 #* No puedo vivir con o sin el otro.
-* JANDROID -- ATK 
+* JANDROID -- ATQ 
 #* "Hygiene" No esta en su vocabulario.
-* GOOSIC -- ATK 
+* GOOSIC -- ATQ 
 #* Music dirige el animo.
-* SOUSBORG -- ATK 
+* SOUSBORG -- ATQ 
 #* Una receta para el desastre.
-* AXIS -- ATK 
+* AXIS -- ATQ 
 #* Hoy significara la superficie.
-* MACRO FROGGIT -- ATK 
+* MACRO FROGGIT -- ATQ 
 #* Grande rana.
-* GUARDENER -- ATK 
+* GUARDENER -- ATQ 
 #* Atrapa a los delincuentes para una aprehensión fácil.
 #* Debería bajar su ira un poco.
 * Tu mejor amigo!
@@ -5186,15 +5186,15 @@ target_x
 target_y
 gml_Script_scr_clover_defragment
 scr_clover_defragment
-* You inform Flier that you#  understand his struggle.
-* You inform Flier that his life#  isn't half over, he has a whole#  half left to go!
+* Le informas a Flier que#  entiendes sus dificultades.
+* Le informas a Flier que su vida#  no está medio acabada, que él#  tiene una mitad entera!
 scr_dialogue_battle_action_selected_action_1_flier_a
 * Felicitas a Flier por#  su elección de atuendos.
 * Le dices a Flier que#  parece orgulloso.
 scr_dialogue_battle_action_selected_action_2_flier_a
-* You tell Flier that he is#  depressing.
-* Flier is reconsidering his#  reconsiderations.
-* You insult Flier's choice of#  outfits.
+* Le dices a Flier que es#  depresivo.
+* Flier está reconsiderando sus#  reconsideraciones.
+* Insultas la moda de Flier.
 scr_dialogue_battle_action_selected_action_3_flier_a
 scr_dialogue_battle_action_selected_action_1_flier_b
 scr_dialogue_battle_action_selected_action_2_flier_b
@@ -5246,11 +5246,11 @@ scr_start_enemy_attacking_flier_trio
 scr_enemy_timer_attacks_flier_trio
 scr_generate_battle_penilla_solo
 scr_recreate_heart_battle_menu_text_penilla_solo
-* You compliment Penilla's#  shading skills.#* She is displeased.
-* You compliment Penilla's work.#* She looks a little#  uncomfortable.
+* Felicitas a Penilla y#  su técnica de sombras.#* Ella está disgustada.
+* Felicitas el trabajo de Penilla.#* Se la nota un poco#  incómoda.
 scr_dialogue_battle_action_selected_action_1_penilla_a
-* You tell Penilla that she's#  wasting her time.
-* You put yourself in between#  Penilla and her work.
+* Le dices a Penilla que está#  perdiendo su tiempo.
+* Te paras en medio de#  Penilla y su trabajo.
 scr_dialogue_battle_action_selected_action_2_penilla_a
 scr_dialogue_battle_action_selected_action_1_penilla_b
 scr_dialogue_battle_action_selected_action_2_penilla_b
@@ -8945,7 +8945,7 @@ nextroom
 * Solo los valientes proceden.#* Valientes, tontos.#* Ninguno camina por el medio.
 * Mantente en el camino.
 Presiona este interruptor,#por favor! #     -Toriel
-También presiona este# interruptor, please! #     -Toriel
+También presiona este#interruptor, por favor! #     -Toriel
 * "Presiona [
 ] para leer#  carteles!"
 * (Este cartel está oculto#  por las hojas.)
@@ -8956,7 +8956,7 @@ También presiona este# interruptor, please! #     -Toriel
 row
 disabled
 enc_name
-* (Es un cartel.)#* (Dice EXPOSICIÓN en letras#  grandes amigables.)
+* (Es un cartel.)#* (Dice EXPOSICIÓN en letras#  grandes y amigables.)
 color
 #        EXPOSICIÓN
 target_direction
@@ -8964,8 +8964,8 @@ target_direction
 * (You shouldn't risk jumping#  over them.)
 flag01
 turn
-* Haz que lo oscuro,#  sea brillante.
-* Haz lo que sea oscuro,#  sea claro.
+* Haz que lo oscuro, sea#  brillante.
+* Haz que lo oscuro, sea#  claro.
 * ¿Atascado? Presiona#  aquí para repetirlo.
 * O no.
 * Propiedad privada.#* Prohibido el paso.
@@ -15606,8 +15606,8 @@ blast_sound
 death_sound
 bg_destroyed
 can_interact
-* Do not wander off.
-* It's dangerous in here.
+* No te pierdas.
+* Es peligroso aquí.
 user_event_0_activated
 no_loop_autowalk
 * Veamos otra cosa,#  ¿de acuerdo?
@@ -15901,7 +15901,7 @@ itemBox
 statBox
 p1
 p2
-Dark Ruins - Hallway
+Ruinas Oscuras - Pasillo
 roomname
 color2
 done
@@ -15910,7 +15910,7 @@ leavesprite
 Guardar
 Regresar
 point_selected
-Snowdin - Forest
+Snowdin - Bosque
 Dunes - West Mines
 Dunes - Oasis Valley
 Wild East - Farm
@@ -16704,9 +16704,9 @@ distance_to_clover
 * Las RUINAS están llenas#  de puzzles.
 * Fusiones antiguas entre#  distracciones y llaves#  para abrir la puerta.
 * Y así pasar de sala#  a sala.
-* Permitame que te#  demuestre.
+* Permíteme que te#  demuestre.
 * Somos libres de#  proceder ahora. 
-* Sigueme, mi niño.#* Hay más puzzles por#  delante.
+* Sígueme, mi niño.#* Hay más puzzles por#  delante.
 * En esta sala, deberás#  de activar varios#  interruptores.
 * No te preocupes, he#  marcado los que#  necesitas activar.
 * Oh, ¿Necesitas#  ayuda?
@@ -16715,7 +16715,7 @@ distance_to_clover
 * Vamos, ¡yo creo en ti!
 * ¡Solo un interruptor#  más!
 * ¡Oh no, mi niño! Ese#  es el interruptor#  equivocado.
-* Yo te señale#  el que necesitas activar.
+* Yo te señalé#  el que necesitas#  activar.
 * Ese interruptor#  ya esta activado.
 * ¿Por qué no vuelves#  a cruzar el puente?
 * ...Ya debería#  haberse abierto...
@@ -16930,15 +16930,15 @@ spritelock
 door_open_alarm_counter
 genoCount
 * Hola...
-* Me alegro de conocerte#  por fin cara a cara.
-* ¿Cuanto tiempo ha pasado?
-* Me preguntaba si#  alguna vez volverías...
-* No... demasiado adelantado.
+* Me alegro de por fin#  conocerte cara a cara.
+* ¿Cuánto tiempo ha pasado?
+* Me preguntaba si alguna#  vez volverías...
+* No... demasiado directo.
 * ¿A quién quiero engañar? Nunca#  podré conocerte en este#  estado.
-* Solo quiero que sepas... que#  no tuve opción. Debe ser así.
+* Solo quiero que sepas... que#  no tuve opción. Debe ser#  de esta manera.
 * ¿Eh?
 * ¿Quién...?
-* Yo-yo debo estar viendo cosas...
+* D-debo estar viendo cosas...
 cam2
 * ¿Es malo dudar de#  mis acciones?
 * Disfrutaba de la vida antes...#  Lo hice... Pero no puedo#  volver atrás.
@@ -17227,12 +17227,12 @@ Get ready for my#strongest atta-
 * ¡FLOWEY la FLOR!
    FLOWEY    FLOR 
 * Pareces una persona#  bastante segura de#  sí misma.
-* No debería renerte#  aquí todo el día,#  ¿verdad?
+* No debería tenerte#  aquí todo el día,#  ¿verdad?
 * ¡No quisiera ser#  un estorbo!
 * Te dejaré ir#  pero al menos deberías#  saber esto:
 * El rey ASGORE es#  el responsable#  de todo.
-           ASGORE                                   
-* Búscalo y haz#  lo que debas.
+         ASGORE                                   
+* Búscalo y haz lo#  que debas.
 * También...
 * Si alguna vez tienes#  problemas, ¡yo puedo#  ayudarte a GUARDAR!
 * ¡Ven a buscar estás#  cosas y allí#  estaré!
@@ -17243,7 +17243,7 @@ Get ready for my#strongest atta-
 * Supongo que el#  pequeño y viejo yo#  tendrá que hacerlo.
 * ¿Quieres que yo#  te enseñe?
 * Entiendo...
-* Ir con cabeza - ¡me#  gusta!
+* Ir de cabeza - ¡me#  gusta!
 * Bueno al menos deberías#  saber esto:
 * ¿Esos humanos que#  buscas?
 * Lo siento, pero...
@@ -17259,7 +17259,7 @@ Get ready for my#strongest atta-
 * Hmm... #* ¡Pareces confundido!
 * ¡Toriel deberia haberte #  enseñado cómo funcionan #  las cosas por aquí!
 * Supongo que el viejo yo#  tendrá que hacerlo.#* ¿Listo? ¡Allá vamos!
-        #      FLOWEY  #   FLOWEY    FLOR 
+        #        FLOWEY  #   FLOWEY    FLOR 
 * Probablemente quieras#  irte a casa, ¿verdad?
 * ¡Pues te espera un #  largo viaje!
 * Si alguna vez necesitas#  guardar ¡buscame!
@@ -22877,10 +22877,10 @@ st_critical_2
 st_critical_3
 st_critical_4
 spr_critical
-* YOU WON!#* Obtuviste 
+* GANÁSTE!#* Obtuviste 
  XP y 
  de oro.
-#* Your LOVE increased.
+#* Tu AMOR incrementó.
 can_check_display_text
 display_text
 direc
@@ -23248,11 +23248,11 @@ Ella era mi amiga#(creo).
 Yo... Este no soy#realmente yo...
 Tienes razón.#Algo tiene#que cambiar.
 No lo acepto.
-¡Así es!#¡Sabía que te diste cuenta!
+¡Así es!#¡Sabía que te diste#cuenta!
 Si, totalmente#de acuerdo.
 Lo mismo#digo.
 ¡No tienes sentido#de las tendencias#de la moda moderna!
-Eso me dolio#en un nivel personal.
+Eso me dolió#a un nivel personal.
 Solo hay que#mantenerlo... fresco.
 ¿Así es como#acaba?
 ¿Quién quiere hacer#una barbacoa?
@@ -23323,26 +23323,26 @@ This is fun,#right?
 Ha...
 Ha......
 .........
-You got some#nerve.
-You're just#saying that#because you feel#obligated.
-I don't really#think it's ready#for people yet.
-Maybe art isn't#the right path#for me.
-I suppose I#could use a#break.
-I have been at#this for a#while...
-I'll just...#tape it back#together.
-A sharpener#would come in#handy right#about now...
-Gotta keep my#skills sharp!
-The artist's#life is one of#solitude.
-So all my hand#work leads to#this?
-2B or not 2B?
-I wanted him#gone but not#that way!
-But she was so#sweet!
-He didn't#deserve to die!
-My motivation is#really dying#here.
-Aww! How#adorable!
-Finally, someone#to get along with!
-Sorry, I don't#draw requests.
-Can we talk#about something#else?
+Tienes valor.
+Solo dices#eso porque#te sientes#obligado.
+No creo que#esté lista para#la gente aún.
+Tal vez el#arte no es#lo mío.
+Supongo que#podría tener#un descanso.
+He estado en#esto por un#tiempo...
+Entonces...#lo pegaré de#nuevo.
+Un sacapuntas#sería útil#en estos#momentos...
+Debo mantener#filosas mis#habilidades!
+La vida del#artista es una#de soledad.
+Así que mi#trabajo a mano#llevó a esto?
+Zer o no Zer?
+Quería que él#se fuera, pero#no así!
+Pero ella era#tan dulce!
+Él no merecía#morir!
+Mi motivación#realmente se#está muriendo.
+Aww! Que#adorable!
+Finalmente, alguien#con quien llevarse!
+Lo siento, No#dibujo solicitudes.
+Podemos hablar#acerca de#algo más?
 penilla c
 can_fade
 can_rotate
