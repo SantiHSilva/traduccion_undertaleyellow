@@ -2376,7 +2376,7 @@ scr_savecontrols
 * Vayamos al río#  más adelante.
 * Pronto nos#  iremos de aquí.
 * Gran trabajo, una#  vez más.
-* Odio que los monstruos#  te ataquen sin#  piedad,
+* Odio que los monstruos#  te ataquen sin piedad,
 * ¡Pero lo estás#  manejando con estilo!
 * No estoy seguro de#  confiar en ella.
 * Por suerte para nosotros,#  ella no parece demasiada#  preparada.
@@ -3322,8 +3322,8 @@ scr_battle_core_directory_no_attack
 * Know Cone encounters you, and#  an igloo.
 * Trihecta wobbles forward!
 * Trihecta regroups, then bickers.
-* Martlet of the Royal Guard is#  waiting for your turn.
-* Martlet seems puzzled.
+* Martlet de la Guardia Real#  está esperando tu turno.
+* Martlet parece desconcertada.
 * Dunebud popped out of the sand!
 * Double trouble!
 * Cactony comes to share his pain.
@@ -3400,17 +3400,17 @@ scr_battle_core_directory_flavor_text_enemy_1_special
 * Axis está sientendo algo...
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_special_2
 scr_battle_core_directory_flavor_text_enemy_1_special_2
-* Martlet is nursing her wounds.
-* The feeling grows!
+* Martlet está curando sus heridas.
+* ¡El sentimiento crece!
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_special_3
 scr_battle_core_directory_flavor_text_enemy_1_special_3
-* Martlet has dropped her#  fighting stance.
+* Martlet ha abandonado su#  postura de lucha.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_special_4
 scr_battle_core_directory_flavor_text_enemy_1_special_4
-* Martlet is flipping through her#  guide book again.
+* Martlet vuelve a hojear su#  guía.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_special_5
 scr_battle_core_directory_flavor_text_enemy_1_special_5
-* All this lack of movement makes#  you realize how cold it is.
+* Toda esta falta de movimiento hace#  que te des cuenta del frío que hace.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_special_6
 scr_battle_core_directory_flavor_text_enemy_1_special_6
 * Flier is reconsidering his life#  choices.
@@ -3480,10 +3480,10 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * Frostermit seems to be#  contemplating hiding again.
 * Trihecta bickers amongst itself.
 * Tri is exploring their newfound#  freedom.
-* Martlet is blinking a lot.#* Maybe it's a code.#* It probably isn't.
+* Martlet está parpadeando mucho. #* Tal vez sea un código. #* Probablemente no lo sea.
 * Feathers litter the ground.
-* Martlet is deep in thought.
-* Martlet looks disheveled.
+* Martlet está pensativa.
+* Martlet parece despeinada.
 * Dunebud shifts this way and#  that.
 * Cactony would like to cry, but#  it's too hot.
 * Sir Slither does his iconic#  side-eyed smirk.
@@ -3526,7 +3526,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_1
 * Frostermit está saliendo#  un poco de su caparazón.
 * Trihecta parece estar#  presionando los botones#  de otro.
 * Tri se preocupa por los golpes#  y de los moretones#  de los demas.
-* Todo huele a semillas# de ave con un toque#   de vainilla y naranja.
+* Todo huele a semillas#  de ave con un toque#  de vainilla y naranja.
 * Martlet busca su#  guía de primeros#  auxilios.
 * Martlet marca el paso.
 * Martlet mira paranoicamente#  a su alrededor.
@@ -3575,7 +3575,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_2
 * Frostermit is tapping out a#  rhythm with his pincers.
 * A gust of wind threatens to#  topple Trihecta's pile.
 * Tri, Hec, and Ta are friendly#  and free.
-* A gust of wind blows a little#  blue feather in your face.#* Martlet looks embarrassed.
+* Una ráfaga de viento sopla una#  pequeña pluma azul en su cara.#* Martlet parece avergonzada.
 * The sound of the chilled wind#  surrounds you.
 * Dunebud begins to gargle a song.
 * Cactony tries to gather some#  needles he dropped.
@@ -3623,8 +3623,8 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * Something smells fishy.
 * Frostermit is doing a#  crusta-shuffle.
 * Trihecta is considering#  purchasing a long trench coat.
-* Martlet is trying to strike a#  pose that looks professional#  and imposing.
-* Martlet is holding back tears.
+* Martlet intenta adoptar una pose#  que parezca profesional#  e imponente.
+* Martlet está conteniendo las#  lágrimas.
 * Smells like sandpaper.
 * Cactony gives you an empty look.
 * You hear some jingling as Sir#  Slither rattles inside his pot.#  
@@ -3663,8 +3663,8 @@ scr_battle_core_directory_flavor_text_enemy_1_default_4
 * One Insomnitot starts to drift#  off but the other pokes its#  friend awake again.
 * Know Cone takes a break from#  hunting for fire to gather some#  berries.
 * Frostermit is considering a#  renovation.
-* Martlet catches herself getting#  lost in the music.
-* Martlet prepares her next#  attack.
+* Martlet se descubre a sí#  misma perdiéndose en la música.
+* Martlet prepara su próximo#  ataque.
 * Sir Slither is trying to#  butter Cactony up.
 * All the flashing lights make#  you dizzy.
 * Goosic's music is making#  Jandroid extra energetic.
@@ -3698,8 +3698,8 @@ scr_battle_core_directory_flavor_text_enemy_1_default_5
 * Know Cone is chasing Insomintot's sheep.
 * Know Cone punches the igloo to#  test its durability.
 * Frostermit is contemplating a return into his fortress.
-* Martlet is nervously consulting#  her Royal Guard guide book.
-* You're unsure if this#  situation is healthy. For#  anyone.
+* Martlet consulta nerviosa#  su guía de la Guardia Real.
+* No estás seguro de que esta#situación sea saludable.#  Para cualquiera.
 * El Bailador throws sand in the#  air like confetti.
 * You hear nothing but gunshots,#  whip cracks, and a mighty#  acoustic guitar.
 * You begin to sweat under the#  immense heat.
@@ -4018,7 +4018,7 @@ gml_Script_scr_battle_core_directory_action_1_name
 scr_battle_core_directory_action_1_name
 action_2_important_3
 action_2_color_3
-* Insult
+* Insultar
 * Ogle
 * Amenazar
 * Distraer
@@ -4031,7 +4031,7 @@ action_2_color_3
 * Educate
 * Dance
 * Pull
-* Ignore
+* Ignorar
 * Endure
 * Jiggle
 * Avoid
@@ -4149,9 +4149,9 @@ enemy_low_hp_3
 * TA -- ATQ 
 #* Saltos de emoción!!
 * MARTLET -- ATQ 
-#* Un poco atolondrado.
+#* Un poco atolondrada.
 #* Manteniendome Firme.
-#* Atolondrado.
+#* Atolondrada.
 * DUNEBUD -- ATQ 
 #* Cuestionandome.
 #* Buscando algo de diversión.
@@ -5710,16 +5710,16 @@ scr_enemy_attack_know_cone_blueberries_zzz
 scr_enemy_attack_know_cone_oranges_stars
 scr_generate_battle_martlet_pacifist
 scr_recreate_heart_battle_menu_text_martlet_pacifist
-* You tap your foot on the ground.#* Martlet tries talking even#  faster.
-* You fake a yawn.#* Martlet starts talking faster#  still.
-* You tap your wrist impatiently.#* Martlet looks apologetic and#  tries to talk a little faster.
+* Golpeas el suelo con el pie.#* Martlet intenta hablar aún#  más rápido.
+* Finges un bostezo. #* Martlet empieza a hablar#  más rápido todavía.
+* Golpeas tu muñeca impacienciente.#* Martlet parece arrepentida y#  intenta hablar un más rápido.
 scr_dialogue_battle_action_selected_action_1_martlet_pacifist
-* You ignore Martlet's rambling.#* It doesn't look like she's#  noticed.
+* Ignoras las tonterías de Martlet.#* No parece que se haya#  dado cuenta.
 scr_dialogue_battle_action_selected_action_2_martlet_pacifist
-* You insult Martlet's job#  performance.
+* Insultas el rendimiento laboral#  de Martlet.
 Action 3 Phase 3
-* You forcibly tell Martlet you#  don't like her clothes.
-* You call Martlet a weenie.
+* Le dices a la fuerza#  a Martlet que no te#  gusta su ropa.
+* Llamas mariquita a Martlet.
 scr_dialogue_battle_action_selected_action_3_martlet_pacifist
 reset_counters
 Fight 1
@@ -9065,14 +9065,14 @@ reverse
 * (Algunos restos de la#  construcción de este puzzle.)
 * (Sólo algo de basura.)
 * (Un banco de madera.)
-* (Hay una nota clavada en el#  poste del quiosco.#  Dice así,)
-* "¡Hola, viajero! Debido a#  descansos poco frecuentes voy#  a darme una siesta en el trabajo."
+* (Hay una nota clavada en el#  poste del puesto.#  Dice así,)
+* "¡Hola, viajero! Debido a#  descansos poco frecuentes voy#  a darme una siesta."
 * Si lees estoy y estoy#  dormida, ¡por favoor no pases#  desde este punto de control!
 * ¡Seguramente me descuenten más!#* Así que toca el timbre#  en su lugar, gracias."
 * - Martlet Guardiana Real#  División Snowdin del Subsuelo.
 * (Un quiosco abandonado con nieve# acumulándose lentamente#  en su interior.)
 * (Observas cómo la brisa amarga#  y silbante agita el cuaderno#  que hay sobre la mesa.)
-* (Hay un cuaderno en el#  mostrador, titulado,#  'Mis planos de Puzzle'.)
+* (Hay un cuaderno en el#  mostrador, titulado,#  "Mis planos de Puzzle".)
 * (Aquí debe ser donde#  Martlet boceta sus ideas#  de puzzles.)
 fixedbridge
 brokebridge
@@ -11215,7 +11215,7 @@ HP!
 * ...Sigh.
 * Why are we in this#  situation to begin with?
 * I thought Axis said he#  was the last of his#  kind...
-* Wait... 
+* Espera... 
 * He introduced himself#  as "Model 014".
 * There must have been 13#  other guard-bot#  prototypes.
 * I suppose only one is#  still functioning.
@@ -11283,7 +11283,7 @@ default
 * Don't worry about us.
 * Best to leave this type-a#  business to the Shufflers.
 * Yeah, Shufflers.
-* Wait...
+* Espera...
 dance_timer_max
 dance_timer
 AH.
@@ -16770,7 +16770,7 @@ Uh...
 * I kinda let you escape#  in Snowdin so... I'm in#  too deep.
 * I'm sure I could pull#  my weight! I'll even let#  you lead! 
 * I won't leave your side#  to ensure your safety!
-* Please?
+* ¿Por favor?
 * Sí!
 * I'll take that as a#  yes!
 * This will be super fun!
@@ -18282,133 +18282,133 @@ phy_active
 compound
 * (Te das cuenta de que#  hay un pancake fresca#  debajo del banco.)
 * (¡Obtuviste un Honeydew Pancake!)
-* Hm? Oh, uh, hello!
-* Sorry, I don't know#  where my head was right#  there.
-* It seems I have#  a summer home in lala#  land these days!
-* You look a bit lost,#  are you looking for#  directions?
-* I'll let you in on a#  little secret,
-* I'm not actually an#  information kiosk!
-* I know this place like#  the back of my wing#  though!
-* I don't get#  lost much at all#  anymore!
-* I can get you#  wherever you want to go!
-* I'm gonna take a shot#  in the dark here, but...
-* You're human! Right?
-* I knew it! I knew I'd#  find a human! You must#  be human! Right? Right? 
-* You look just like this#  guy on this poster I#  saw once!
-* He had a hat#  just like you!
-* And he was totally human,#  so, like,
-* transitive property or#  something like that?
-* Actually, I think he#  was from space... are#  there space humans?
-* You know what, I'll#  have plenty of time to#  ask you questions later.
-* Are you ready for some#  Royal Guard protocol?
-* I hope you are, 'cause#  I memorized it!
-* If the Royal Guard#  doesn't know you're#  here...
-* ...they won't know I#  broke protocol!
-* Instead, we'll just get#  you home before any of#  them see you!
-* You'll be home in time#  for dinner!
-* I mean... maybe not#  TODAY'S dinner, but for#  sure A dinner!
-* Anyway, we'll bypass the#  Royal Guard and plead#  your case to ASGORE!
-* There's no way he can#  say no to a cute little#  face like yours!
-* Meet me up ahead and#  I'll show you my plan#  to get you home!
+* ¿Hm? Oh, uh, ¡hola!
+* Lo siento, no sé#  dónde tenía la cabeza.
+* ¡Parece que estos días#  tengo una casa en el#  país de los sueños!
+* Pareces un poco perdido,#  ¿estás buscando#  direcciones?
+* Te contaré un pequeño#  secreto,
+* ¡En realidad no soy#  un punto de información!
+* ¡Pero conozco este#  sitio como la palma#  de mi mano!
+* ¡Ya no me pierdo mucho!
+* ¡Puedo llevarte a#  donde quieras ir!
+* Voy a arriesgarme, pero...
+* ¡Eres humano! ¿Verdad?
+* ¡Lo sabía! ¡Sabía que#  encontraría un humano!#  ¡Tú eres humano! ¿Verdad?
+* ¡Te pareces a este#  tipo del póster que#  vi una vez!
+* ¡Tenía un sombrero#  igual que tú!
+* Y era totalmente humano,#  así que...
+* ¿Propiedad transitiva#  o algo así?
+* En realidad, creo que#  era del espacio... ¿hay#  humanos del espacio?
+* Sabes qué, tendré mucho#  tiempo para hacerte#  preguntas más tarde.
+* ¿Estás listo para#  el protocolo de la#  Guardia Real?
+* Espero que sí,#  ¡porque lo memoricé!
+* Si la Guardia Real#  no sabe que estás aquí...
+* ...¡no sabrán que#  rompí el protocolo!
+* ¡En vez de eso, te#  llevare a casa antes#  de que te vean!
+* ¡Estarás en casa a#  tiempo para la#  cena!
+* Quiero decir... quizá ¡no#  la cena de hoy, pero#  seguro que una cena!
+* De todos modos, pasare#  por alto la Guardia Real y#  te defendere ante ASGORE.
+* ¡No hay forma de que#  pueda decir que no a una#  carita tan linda como tú!
+* ¡Reúnete conmigo más#  adelante y veremos mi#  plan para ir a casa!
 battle_flag
-* Oh my goodness! Did you#  get left behind?
-* Might I ask your name?
-* Hmm... not on the#  resident list...
-* Ummm... see, this is#  tough. I can't leave my#  post.
-* I'm supposed to wait#  here until this bad#  person comes.
-* The troublemaker who#  caused all this, ya#  know?
-* But I can't just leave#  you to find the others#  alone!
-* You're a child! I could#  never do that!
-* Okay, how 'bout we#  hurry and catch up#  with the others...
-* Then I come back and#  no one will ever#  know!
-* Yo... I have no idea how#  to handle this.
-* ASGORE would know what#  to do.
-* You should go talk to#  him.
-* There's a river up#  ahead. A raft is docked#  there.
-* The current should lead#  to Hotland.
-* I'll meet up with you#  once you get there.
-* In the meantime...#  I have work to#  attend to.
-* You're not off the#  hook, Clover.
-* Unless you decide right#  now to change your#  ways...
-* The Royal Guard will#  find you. 
-* It could be me or#  someone much, much#  worse.
-* How your life plays out#  from this moment is up#  to you.
-* I don't know what the#  humans taught you but...
-* A child your age#  shouldn't be corrupted#  by violence.
-* Please... Please choose#  wisely...
+* ¡Dios mío!#  ¿Te has quedado atrás?
+* ¿Puedo preguntarte#  tu nombre?
+* Hmm... no está en la#  lista de residentes...
+* Ummm... ves, esto es#  difícil. No puedo#  dejar mi puesto.
+* Se supone que debo esperar#  aquí hasta que venga#  esa persona mala.
+* El alborotador que#  causó todo esto, ¿sabes?
+* ¡Pero no puedo dejarte#  solo para que encuentres#  a los demás!
+* ¡Eres un niño!#  ¡Nunca podría hacer eso!
+* Bien, que tal si nos#  apuramos y alcanzamos a#  los otros...
+* ¡Entonces vuelvo#  y nadie lo sabrá!
+* Yo... No tengo ni idea de#  cómo manejar esto.
+* ASGORE sabría#  qué hacer.
+* Deberías ir a hablar#  con él.
+* Hay un río más adelante.#  Un bote está amarrado allí.
+* La corriente debería#  llevarnos a Hotland.
+* Me reuniré contigo#  cuando llegues allí.
+* Mientras tanto...#  tengo trabajo que atender.
+* No estás libre de#  sospecha, Clover.
+* A menos que decidas#  ahora mismo cambiar tus#  maneras...
+* La Guardia Real te#  encontrará. 
+* Podría ser yo o alguien#  mucho, mucho peor.
+* Cómo se desarrolle tu#  vida a partir de este#  momento depende de ti.
+* No sé qué te enseñaron#  los humanos pero...
+* Un niño de tu edad#  no debería ser corrompido#  por la violencia.
+* Por favor...#  Por favor, elige#  sabiamente...
 aviator_xspd
-* If my map and memory#  serve, this river should#  lead directly to Hotland.
-                      #                          #                   Hotland 
-* From there, it's a hop,#  skip, and a leap to#  ASGORE's Castle!
-* I'm not sure how we're#  getting in but...
-* We cross that bridge#  when we come to it,#  right?
-* I also wanted to#  apologize about, well,#  you know...
-* attacking you...
-* I meant no harm, honest!#  I just have to do my#  job, is all!
-* And, well...
-* Oftentimes I don't know#  what the "right" action#  is until it's too late.
-* So... I know we just#  met and all...
-* But will you trust me#  on this?
-* I suppose another#  "sorry" isn't gonna#  cut it?
-* Can you trust me to get#  you to ASGORE safely?
-* I swear I can do it!#  I swear I can!
-* Shall we be off then?
-* Yay! Don't worry, your#  trust is in good#  hands!
-* Or wings, as the case#  may be!
-* I'll guard it with#  my SOUL!
-* And this means we get to#  have an adventure! This#  is so exciting!
-* I mean, nothing this#  exciting ever happens#  around here.
-* At least, while I've#  been here it hasn't.
-* Think of all the fun#  we'll have!
-* I mean, there's a chance#  I might be fired for#  this,
-* And lose all of my#  life's work and#  belongings, but hey,
-* What's life without a#  little risk?
-* So shall we be off#  then?
-* Wait, hold on!
-* I was supposed to be on#  Ava with you!
-* Yeah, that's fair, I#  guess.
-* Well I'll hang around#  a while.
-* In case you, ya know,#  change your mind.
-* I mean, I put all this#  work into finishing the#  UG Aviator so.
-* If she doesn't get to#  sail free,
-* I can at least#  give her company a#  while.
-* Until I find a better#  place for her, ya know?
+* Si mi mapa y memoria no#  fallan, este río debería#  llevarnos a Hotland.
+##
+* Desde allí, ¡hay que#  dar un salto hasta el#  castillo de ASGORE!
+* No estoy seguro#  de cómo vamos a#  entrar pero...
+* Cruzaremos ese puente#  cuando lleguemos a él,#  ¿ok?
+* También quería#  disculparme por,#  bueno, ya sabes...
+* atacarte...
+* ¡No quise hacer daño,#  en serio! ¡Era#  mi trabajo, eso es todo!
+* Y, bueno...
+* A veces no sé qué es#  lo "correcto" hasta#  que es demasiado tarde.
+* Así que... sé que#  acabamos de conocernos#  y todo eso...
+* ¿Pero confiarás en#  mí en esto?
+* ¿Supongo que otro#  "lo siento" no#  va a servir?
+* ¿Puedes confiar en que#  te llevaré a ASGORE#  sano y salvo?
+* ¡Juro que puedo#  hacerlo! ¡Juro#  que puedo!
+* ¿Nos vamos entonces?
+* ¡Yay! No te preocupes,#  ¡tu confianza está#  en buenas manos!#
+* O alas, ¡según el caso!
+* ¡La protegeré con#  mi ALMA!
+* ¡Y eso significa que#  vamos a una aventura!#  ¡Esto es tan emocionante!
+* Quiero decir, nunca#  pasa nada tan#  emocionante por aquí.
+* Al menos, mientras#  yo he estado aquí#  no ha sido así.
+* Piensa en lo bien#  que lo pasaremos.
+* Hay una posibilidad#  de que me despidan# por esto,
+* Y perder todo el trabajo#  de mi vida y mis#  pertenencias, pero hey,
+* ¿Qué es la vida#  sin un poco de riesgo?
+* Entonces, ¿nos vamos?
+* ¡Espera, aguanta!
+* ¡Se suponía que#  iba a estar en Ava#  contigo!
+* Sí, es justo,#  supongo.
+* Bueno, me quedaré#  por aquí un rato.
+* En caso de que,#  ya sabes, cambies#  de opinión.
+* Quiero decir, puse todo#  este trabajo en terminar#  el UG Aviator así que.
+* Si no consigue#  navegar libremente,
+* Al menos podré hacerle#  compañía un rato.
+* Hasta que encuentre#  un lugar mejor para#  ella, ¿entiendes?
 * Oh... Okay...
-* Oh. You have something#  to do?
-* I didn't realize you#  were so busy and#  popular!
-* That's fine! I'll be#  here.
-* Take all the time in#  the world!
-* ...Actually, if you#  wouldn't mind,#  don't take, like,
-* all the#  time in the world.
-* We want to have time#  left for the journey,#  ya know?
-* Wowie, what a day!
-* Congrats, pal.
-* You beat your first#  Royal Guard.
-* Though, I'm not sure#  how she got promoted#  past feather-duster.
-* Have to give her some#  credit though,
-* This boat looks like#  your ticket out of the#  cold.
-* If you follow this#  current...
-* You'll be living it up#  in Hotland before you#  know it.
-* Now there's no time to#  waste.
-* See you later,#  Clover!
-* See you later,#  Gun-hat!
-* Okay, I've been#  thinking. 
-* Gun-hat can't be your#  real name.
-* You can't pull one over#  on old Flowey.
-* Whatever your real name#  is,
-* I've decided I don't#  care.
-* Just know, friends#  shouldn't do that to one#  another.
-* I wouldn't do that to#  you, now would I,#  Clover?
-* Hey there, so here's#  the plan!
-* I'm sorry, I think that#  I went a little#  overboard but...
-* I can't help it! This#  is all too exciting!
-* So, I've been saving#  this for a rainy day.
-* Ya know, figuratively...#  We don't really have#  those...
-* Either way! Behold! The#  UG Aviator!
-* (In the water sits an#  old-looking raft with just#  enough room for two passengers.)
-* Isn't she a beauty?#* Boats are shes, ya know.
-* I call her Ava for#  short! Isn't that cute?
-* Get on the boat?
+* Oh. ¿Tienes algo#  que hacer?
+* ¡No sabía que fueras#  tan ocupado y fueras#  tan popular!
+* ¡Está bien! Estaré#  aquí.
+* ¡Tómate todo el#  tiempo del mundo!
+* ...En realidad, si#  no te importa,#  no tomes, como,
+* todo el#  tiempo del mundo.
+* Queremos que nos#  quede tiempo para#  el viaje, ¿sabes?
+* ¡Wowie, qué día!
+* Felicidades, amigo.
+* Has vencido a tu primer#  Guardia Real.
+* Aunque no estoy seguro#  de cómo la ascendieron#  más allá de plumero.
+* Aunque hay que darle#  algo de crédito,
+* Este barco parece#  ser tu boleto para#  salir del frío.
+* Si sigues esta#  corriente...
+* Estarás viviendo#  en Hotland antes de#  que te des cuenta.
+* Ahora no hay#  tiempo que perder.
+* ¡Hasta luego,#  Clover!
+* ¡Hasta luego,#  Sombrero-Pistolero!
+* Vale, he estado#  pensando. 
+* Sombrero-Pistolero no puede#  ser tu nombre real.
+* No puedes engañar#  al viejo Flowey.
+* Cualquiera que#  sea tu verdadero nombre,
+* He decidido que#  no me importa.
+* Que sepas que los#  amigos no deberían#  hacerse eso.
+* Yo no te haría eso,#  ¿verdad, Clover?
+* Hola,#  ¡este es el plan!
+* Lo siento,#  creo que me he pasado#  un poco pero...
+* ¡No puedo evitarlo!#  ¡Esto es demasiado#  emocionante!
+* Así que he estado#  guardando esto para#  un día lluvioso.
+* Ya sabes, en sentido#  figurado... Realmente#  no tenemos esos...
+* ¡De cualquier manera!#  ¡Contemplen!#  ¡El UG Aviator!
+* (En el agua hay una balsa#  de aspecto viejo con espacio#  suficiente para dos pasajeros.)
+* ¿No es una belleza?#* Los barcos son naves,#  ya sabes.
+* La llamo Ava para#  abreviar. ¿No es lindo?
+* ¿Subir al barco?
 * YOU LISTEN! KNOW CONE HAS PLAN!
 * GONNA GO TO TOP OF BIG HILL!#  BIG BIG HILL! 
 * CAN SEE HOTLANDS FROM BIG HILL!
@@ -18479,61 +18479,61 @@ tile_x
 tile_width
 tile_shift
 diff_x
-* So, hi!
-* So I was thinking.
-* If Ava doesn't have#  sails,
-* Does this still count as#  sailing?
-* Pretty smooth ride,#  yeah?    
-* My woodworking skills#  aren't too shabby!    
-* I suppose I should#  thank my mentor.    
-* Older fella by the name#  of Chujin. Taught me#  everything!
-* He... Well... Nevermind.
-* Hey, so would you mind#  answering a few#  questions for me?
-* It's nothing big, it's#  just a little quality#  assurance questionnaire.
-* Will you try it?
-* Great!
-* Question one:
-* Oh, yeah, no, that's#  fine.
-* It's just that, you#  know, it might help me#  keep my job.
-* Even a bad review, it#  just can't be, um, no#  review.
-* Look, I'll even fill it#  out for you!
-* You won't even notice#  I'm doing it, it'll#  be fun!
-* Okay, question one:
-* On a scale from 1-3...
-* How would you rate your#  encounter with the#  Royal Guard?
-* Please answer honestly!
-* Oh... was it that bad?#  I'm sorry.
-* Well, maybe it wasn't#  really as bad as you#  think it was!
-* It's one of those "bad#  in the moment but a good#  laugh later" things!
-* Let's keep going, maybe#  you'll change your mind!
-* That sounds fair.
-* I think 2 out of 3 is#  an accurate rating of#  my performance.
-* Ya know, just in#  general.
-* Where were we?
-* Wait, really!?
-* I got a three!
-* I've never gotten a#  three before!
-* Oh my goodly goodness!#  I can't believe it I#  got a three!
-* I have to tell#  absolutely everyone!
-* Okay, sorry, got#  carried away.
-* Let's keep going!
-* Question two:
-* On a scale from 1-2,#  how would you rate...
-* ...the puzzles deployed#  in Snowdin.
-* Oh. Yeah I was gonna,#  like, complain about#  that, or something.
-* They don't really, um,#  acknowledge my requests#  for materials anymore.
-* I wanted the molten#  rocks to be way bigger.#  It's a shame.
-* How am I supposed to#  make a quality puzzle#  without materials!
-* I mean... the concepts#  were good at least...#  right?
-* You know what, let's#  just move on.
-* Really!
-* Thanks, I made them#  myself!
-* There's a reason I was#  assigned to work under#  the Royal Scientist!
-                        #                        #      Royal Scientist 
-* I mean, it's because I#  got last choice of#  station, but still!
-* You pick up a few#  things guardin' all#  that science stuff!
-* Anyway, back on topic!
-* Question three:
+* Así que, ¡hola!
+* Así que estaba#  pensando.
+* Si Ava no tiene#  velas,
+* ¿Sigue contando como#  navegación?
+* Un viaje bastante suave,#  ¿no?    
+* Mis habilidades con#  la madera no están#  nada mal.    
+* Supongo que debería#  agradecer a mi mentor.  
+* Un tipo mayor#  llamado Chujin.#  ¡Me enseñó todo!
+* Él... Bueno...#  No importa.
+* ¿Te importaría#  responderme a unas preguntas?
+* No es nada importante,#  es sólo un pequeño cuestionario#  de control de calidad.
+* ¿Quieres probarlo?
+* ¡Genial!
+* Primera pregunta:
+* Sí, no, está bien.
+* Es sólo que, ya sabes,#  podría ayudarme a#  mantener mi trabajo.
+* Incluso una mala crítica,#  simplemente no puede ser,#  um, ninguna crítica.
+* Mira, ¡incluso lo#  rellenaré por ti!
+* Ni siquiera notarás#  que lo estoy haciendo,#  ¡será divertido!
+* Bien, primera pregunta:
+* En una escala del 1-3...
+* ¿Cómo calificaría#  su encuentro con la#  Guardia Real?
+* Por favor,#  ¡responda con sinceridad!
+* Oh...#  ¿tan malo fue?#  Lo siento.
+* Bueno, ¡quizás no#  fue tan malo como#  crees!
+* Es una de esas cosas#  "malas en el momento pero#  de las que te ríes después".
+* Sigamos,#  ¡quizá cambies de opinión!
+* Eso suena justo.
+* Creo que 2 de 3 es#  una valoración exacta de#  mi actuación.
+* Ya sabes,#  en general.
+* ¿Dónde estábamos?
+* Espera, ¿de verdad?
+* ¡Tengo un tres!
+* ¡Nunca me habían#  dado un 3!
+* ¡Dios mío!#  ¡No me lo puedo creer!,#  ¡he sacado un tres!
+* ¡Tengo que decírselo#  a todo el mundo!
+* Ok, lo siento,#  me dejé llevar.
+* ¡Sigamos!
+* Segunda pregunta:
+* En una escala del 1 al 2,#  ¿cómo calificaría...
+* ...los puzzles desplegados#  en Snowdin.
+* Oh. Sí, yo iba a,#  como, quejarme de eso,#  o algo así.
+* Ellos en realidad, um,#  ya no aceptan mis#  peticiones de material.
+* Quería que las rocas#  fundidas fueran mucho más#  grandes. Es una pena.
+* ¿Cómo voy a hacer un#  puzzle de calidad sin#  materiales?
+* Quiero decir...#  los conceptos eran#  buenos al menos... ¿no?
+* ¿Sabes qué?#  Sigamos adelante.
+* ¡De verdad!
+* Gracias,#  ¡los hice yo misma!
+* ¡Por algo me asignaron#  a trabajar bajo las órdenes#  del Científico Real!
+                        #                             #      Científico Real
+* Quiero decir, es porque#  tengo la última opción#  de estación, ¡pero aún así!
+* ¡Coges unas cuantas cosas#  guardando todo ese#  material científico!
+* En fin,#  ¡volvamos al tema!
+* Tercera pregunta:
 * On a scale 1-4, how#  would you rate the#  au-di-tory ambi-an-#
 * What does that mean?
 * Okay, that's a new#  question. Why do they#  keep updating this?
@@ -18569,7 +18569,7 @@ wid
 bg_image_index
 layer_scroll_speed
 hotland_background_
-* (The door is locked.)
+* (La puerta está#  bloqueada.)
 adt
 lava_tube_sep
 lava_tube_x
@@ -22601,12 +22601,12 @@ La última vez que lo#comprobé, a nadie le#gustan los humanos fritos.
 ¡Vuelve ahí fuera!
 Bla, bla, bla,#¡qué llorón!
 ¡Démonos prisa y#ocupémonos de este bicho!
-I'm not sure she even#meant to kill you there.
-Impressive...?
-Come on, you lost#to this rookie?
-Step it up, pal!
-Talk about "freezing#up" haha!
-...Oh right, you can't#laugh because... Yeah.
+No estoy seguro de#que quisiera matarte.
+¿Impresionante...?
+Vamos, ¿perdiste con#esta novata?
+¡Acelera, amigo!
+Hablando de "congelarse",#¡jaja!
+...Oh cierto, no puedes#reirte porque... Sí.
 Come on, buddy!
 Surely you can dance#better than THAT!
 Do you have good#rhythm?
@@ -24184,254 +24184,254 @@ execute_change
 * I sometimes wonder what that#  bat got up to? Probably lives#  in some Snowdin cave.
 * If I were you, I would let#  loose and dance with us!
 * One never knows when they dance#  their last!
-Martlet of the Royal#Guard has encountered#a human!
-Prepare to apprehend!
-Protocol one, be#courteous and allow#your opponent the#first attack!
-Martlet                                            
-Aww, you missed!#That's not fair!
-You could've had this#great attack and -#ZOOM!
-Just goes right by#without even leaving#a mark.
-Tell ya what, I'll#give you a chance to#try again!
-Take your best shot!
-But that was so close!
-One more try!
-Take your time with#aiming this one, I'm#in no rush!
-Uh... you don't mind#if I take my turn,#right?
-I mean, I want you to#get to hit me, I#really do!
-But I think this is#starting to break#protocol, and, well...
-I'm on thin ice as it#is with that, ya know?
-Okay, one more shot!#But make it count!
-Okay, what is going on?!
-I mean, don't get me wrong, being attacked hurts!
-And you had a good#thing going there with#the not hurting#me thing, but...
-I just can't follow#your logic!
-Like, did I have a bad#first impression on#you?
-Did I mess something#up? Did I say#something wrong here?
-If I did, I'm sorry,#but violence really#isn't the answer#to your problems,#you know.
-It's important to be#able to talk through#our issues with words.
-Don't call in the#cavalry for the small#stuff.
-Okay, wait, I'm really#confused!
-First of all: Ow! Why?#Why do you keep#hitting me?!
-I mean, yes, I am#attacking you, but‒OW!
-At least be consistent#please!
-Like, if you attack me#a bunch and then it's#your turn again...
-Well, then I expect#you to attack,#and I can ready#myself, you know?
-But when you keep#going back and forth#like this...
-You're giving me#whiplash!
-Plus, I don't know#how to feel right#now!
-You attacked me, so#I should have no#qualms with#apprehending you!
-...but then you#stopped attacking me,#so I thought:
-"Hey, maybe you#overreacted, Martlet!"
-"Being a human isn't#such a serious crime!"
-"Maybe just let the#kid off with a#warning this time!"
-"If you catch them#being human again,#that's when you#arrest them!"
-But then you hit me#again, and now#everything is all#muddled!
-And now all I#know is OWWW it#hurt.
-There you go! Just#like that!
-Oh, it's my turn!#Sorry!
-See, the guidebook#didn't say it would#hurt really...
-Well, whatever, back#to protocol! Now it's#my turn!
-Okay, finally, now for#protocol two:#attack back!
-Good, now for protocol#two: attack back!
-It is time to show you#the true strength of a#Royal Guard!
-Ow! That kinda#hurt...
-Uh-I'm sorry, it's#just, see, my#guidebook...
-It didn't really say#being attacked would#hurt this much...
-I guess it makes#sense, but still...
+¡Martlet de la Guardia#Real encontro un#humano!
+¡Prepárense#para la captura!
+Protocolo uno, ¡sé#cordial y permite#a tu oponente#el primer ataque!
+ Martlet                                            
+¡Aww, te lo#perdiste! ¡Eso#no es justo!
+Podrías haber#tenido este#gran ataque y#-¡ZOOM!
+Pasa sin#dejar huella.
+Te diré algo,#¡te daré la#oportunidad de#volver a#intentarlo!
+¡Da lo mejor#de ti!
+¡Pero estuvo#tan cerca!
+¡Un intento más!
+Tómate tu tiempo#para apuntar#esta vez,#¡no tengo#prisa!
+Uh... no te#importa si#tomo mi turno,#¿verdad?
+Quiero decir,#quiero que me#dispares, ¡de#verdad!
+Pero creo que#esto está#empezando a romper#el#protocolo, y,#bueno...
+Ya estoy sobre#hielo delgado con#eso, ¿sabes?
+¡Vale, un disparo#más! ¡Pero haz#que cuente!
+Vale, ¿¡qué#está pasando!?
+Quiero decir,#no me#malinterpretes,#¡ser atacado#duele!
+Y tenías algo#bueno ahí con lo#de no hacerme daño,#pero...
+¡No puedo seguir#tu lógica!
+Como, ¿te he#dado una mala#primera impresión?
+¿He hecho algo#mal? ¿He dicho#algo mal?
+Si lo hice,#lo siento, pero la#violencia realmente no#es la respuesta a#tus problemas, sabes.
+Es importante poder#hablar de nuestros#problemas con palabras.
+No llames a la#artilleria por#las cosas pequeñas.
+Vale, espera,#¡estoy realmente#confundida!
+En primer lugar:#¡Ay! ¡¿Por qué?!#¡¿Por qué sigues#golpeándome?!
+Quiero decir, sí,#te estoy#atacando, pero-¡OW!
+Al menos sé coherente#¡por favor!
+Es como, si#me atacas mucho#y luego es tu#turno otra vez...
+Bueno, entonces#espero que ataques,#y pueda prepararme,#¿sabes?
+Pero cuando#sigues yendo y#viniendo así...
+¡Me estás dando#latigazos!
+Además, ¡no sé#cómo sentirme#ahora mismo!
+¡Tú me atacaste,#así que no debería#tener ningún#problema en#detenerte!
+...pero luego#dejaste de atacarme,#eso pensé:
+"¡Oye, tal vez#exageraste, Martlet!"
+"¡Ser humano no#es un delito#tan grave!"
+"¡Quizás esta vez#dejemos que el#niño se vaya con#una advertencia!"
+"¡Si los descubres#siendo humanos de#nuevo, entonces es#cuando los arrestas!"
+Pero entonces me#golpeaste de nuevo,#¡y ahora todo#está revuelto!
+Y ahora todo#lo que sé es#que duele.
+¡Ya está!#¡Así de fácil!
+¡Oh, es mi turno!#¡Lo siento!
+Verás, la guía#no decía que#dolería mucho...
+Bueno, como sea,#¡vamos al protocolo!#¡Ahora es mi turno!
+Bien, finalmente,#ahora el protocolo#dos: ¡contraataca!
+Bien, ahora el#protocolo número#dos: ¡contraatacar!
+¡Ha llegado el momento#de mostrate la#verdadera fuerza#de una Guardia#Real!
+¡Ow!#Eso duele...
+Uh, lo siento,#es que, mira,#mi guía...
+En realidad no#decía que ser#atacado dolería tanto...
+Supongo que tiene#sentido, pero aún#así...
 ...ow...
-Ow!!
-Does it hurt this#much when I attack#you?
-'Cause I'm scared I'm#gonna break a wing#here!
-I don't want you to#feel like this!
-I wouldn't want anyone#to feel like this!
-...For the Royal#Guard I guess...
-Ow!!!
-Okay, okay, ow, this#cannot be right!
-I mean - OW - I'm#gonna be all black#and blue tomorrow!
-It hurts you too,#right?
-Like, it's impressive#you don't show it,#but...
-Ow!
-...?
-Come on, dig into#some deep aggression!
-Break down my self#esteem until it is#a pile of#metaphorical rubble!
-Crush my mental health#like a bug under#your shoe!
-Wait... do you crush#bugs?
-Umm... I don't think#I'm supposed to be#helping you, but...#that was supposed to#be your turn...
-It's okay, I space#out and miss stuff#like that all the#time! I'll let you go#again!
-Uh... I - h-hold on,#I have the guide book#on me.
-I'll check what to do#when someone doesn't#actually attack.
-You can just...#uhhhh...
-Take another turn! Go#for it! Hit me as#hard as you can!
-Uh-okay, I'm really#sorry for the wait.#I'm looking.
-I'm not the best Royal#Guard ya know, but#I'm really trying to#be better!
-Last week I#apprehended this girl:
-Total human!
-Oh, I think it's your#turn.
-Aha! Royal Guards are#to proceed to the next#step without#hesitation!
-Oh... does that count#as hesitation?
-What? Protocol two!#My attack!
-Alright, intruder!
-Prepare for the Royal#Guard Gauntlet!
-That was only a#warmup.
-Hi-YA!
-Take this, intruder!
-Phew!
-This is a real#workout.
-Keep it up, Martlet!
-See, when I#apprehended that girl,#I didn't have this#problem.
-Well... I guess she#didn't attack me per#se...
-But she scolded me and#got real aggressive,#like:
-"What are you on#about?! I'm not human!#Clear the feathers out#of your head!"
-Would you mind being#aggressive like her?
-That's more like it!
-What kind of Royal#Guard wears rags like#these, right?
-It's not like I stayed#up all night#sewing them or#anything, haha...
-Oh, right, it's my#turn.
-Give it another try!
-I believe in you!
-Aww! That was#adorable! 
-I don't even feel#insulted!
-I feel like I've been#honored! You put so#much work into that!
-You aren't making#this easy here!
-Here I go... protocol#and all that... for#the Royal Guard!
-Come on! Get#aggressive!
-I can take it, I#swear!
-Sticks and stones may#break my bones, but#words can only make#me sad!
+¡¡Ow!!
+¿Te duele tanto#cuando te ataco?
+¡Porque tengo#miedo de romperme#un ala aquí!
+¡No quiero que#te sientas así!
+¡No quiero que#nadie se sienta así!
+...para la Guardia#Real, supongo...
+¡¡¡Ow!!!
+Vale, vale, ow,#¡esto no puede#estar bien!
+Quiero decir - OW -,#¡voy a estar toda#negra y azul mañana!
+A ti también#te duele,#¿verdad?
+Es impresionante#no lo demuestras,#pero...
+¡Ow!
+¿...?
+Vamos, ¡hay que#profundizar en la#agresión!
+Derribar mi autoestima#hasta convertirla en#un montón de escombros#metafóricos.
+¡Aplasta mi salud#mental como un#bicho bajo tu#zapato!
+Espera... ¿aplastas#bichos?
+Umm... No creo que#deba ayudarte, pero...#se suponía que#era tu turno...
+No pasa nada, ¡me#pierdo cosas así todo#el tiempo! ¡Te#dejaré ir de nuevo!
+Uh... Yo - e-espera,#tengo la guía#conmigo.
+Revisaré qué hacer#cuando alguien no#ataque.
+Puedes...#uhhhh...
+¡Tomar otro turno!#¡Vamos!#¡Golpéame tan fuerte#como puedas!
+Uh-ok,#lo siento mucho#por la espera.#Estoy mirando.
+No soy la mejor#guardia real,#pero intento mejorar.
+La semana#pasada detuve a#esta chica:
+¡Totalmente#humano!
+Oh, creo que#es tu turno.
+¡Ajá! ¡Los Guardias#Reales deben pasar#al siguiente paso#sin dudarlo!
+¿Eso cuenta#como dudarlo?
+¿Qué?#¡Protocolo dos!#¡Mi ataque!
+¡Muy bien,#intruso!
+¡Prepárate para#el Guantelete#de la Guardia Real!
+Eso fue sólo un#calentamiento.
+¡Hi-YA!
+¡Toma esto,#intruso!
+¡Phew!
+Este es un verdadero#entrenamiento.
+¡Sigue así,#Martlet!
+Verás, cuando detuve#a esa chica, no#tuve este problema.
+Bueno... Supongo#que no me atacó #en si...
+Pero me regañó#y se puso muy#agresiva:
+"¡¿De qué hablas?!#¡No soy humana!#¡Quítate las plumas#de la cabeza!"
+¿Te importaría#ser agresivo#como ella?
+¡Así me gusta!
+¿Qué clase de#Guardia Real lleva#harapos como#estos, verdad?
+No es que me haya#pasado toda la noche#cosiéndolos ni nada#de eso, jaja...
+Oh, cierto, es mi#turno.
+¡Inténtalo de nuevo!
+¡Creo en ti!
+¡Aww! ¡Eso fue#adorable! 
+¡Ni siquiera#me siento#insultada!
+¡Me siento como si#me hubieran honrada!#¡Te esforzaste#tanto!
+¡No lo estás#poniendo fácil!
+Allá voy...#protocolo y#todo eso...#¡para la Guardia Real!
+¡Vamos! ¡Ponte#agresivo!
+¡Puedo soportarlo,#lo juro!
+Los palos y las piedras#pueden romperme#los huesos, pero las#palabras sólo pueden#entristecerme.
 image_angle_speed
-Alright, uhhh...
-Martlet of the#Underground Royal#Guard is hereby#retreating.
-I mean, there's gotta#be a better way,#right?
-I'll uhhh... I'll come#up with something!
-I'll find you again,#small human!
-With a new and#improved plan of#action!
+Muy bien, uhhh...
+Martlet de la#Guardia Real Subsuelo#se retira.
+Tiene que haber una#forma mejor, ¿no?
+Yo uhhh...#¡Ya se me#ocurrirá algo!
+¡Te encontraré de#nuevo, pequeño#humano!
+¡Con un plan de#acción nuevo y#mejorado!
 Bueno...
-Here we are again. Of#course.
-I could accept this#outcome and wait.
-Who knows how long#that will take and#even worse,
-If the next human would#have the will to do what#Clover couldn't.
-Decisions decisions...
-Let me think...
-I have to say, you're#not wrong about that#one.
-I've kinda been on#probation for...#a while.
-One more misstep and#I can say goodbye to#Royal Guard-dom.
-And all the nice perks#that come with it...
-My cozy uniforms, my#Royal Guard discount#at the movies, my nice#insurance rates!
-When they find out how#much I hesitated here,#I'm doomed!
-I mean, they#specifically said#don't hesitate!
-I GOT IT!
+Aquí estamos#de nuevo. Por#supuesto.
+Podría aceptar#este resultado#y esperar.
+Quién sabe#cuánto tiempo#tardará y aún#peor,
+Si el próximo humano#tuviera la voluntad#de hacer lo que Clover#no pudo.
+Decisiones decisiones...
+Déjame pensar...
+Tengo que decir#que en eso no te#equivocas.
+He estado a#prueba durante...#un tiempo.
+Un paso en falso#más y puedo despedirme#del reino de la#Guardia Real.
+Y todas las#ventajas que#conlleva...
+¡Mis cómodos uniformes#mi descuento de la#Guardia Real en el#cine, mis bonitas#tarifas del seguro!
+¡Cuando sepan cuánto#he dudado aquí,#estare condenada!
+Quiero decir,#dijeron#específicamente#"no lo dudes".
+¡LO TENGO!
 * Echas un vistazo dentro#  del barril y encuentras#  algunos granos de café.
 * (¡Obtuviste munición#  de Coffee Bean!)
 * (Un barril vacío.)
-Okay, what is going#on?!
-I mean, don't get#me wrong, being#attacked hurts!
-Like, did I have a#bad first impression#with you?
-If I did, I'm sorry,#but violence really#isn't the answer to#your problems, you#know.
-First of all: Ow! Why? #Why do you keep#hitting me?!
-Wait, wait, before you#hit me again...#or don't hit me#again...
-Actually, what are you#trying to do here?
-Nevermind that,#answers to serious#questions are above#my pay grade.
-The other guards said#no interrogating#or getting emotionally#invested.
-And I think I know#what that means!#Maybe!
-Either way you seem#like a good kid.
-Well, some of the time#at least.
-And some of the time#is good enough for#me!
-Oh, I have a great#idea!
-What if I help you get#through Snowdin before#you become an adorable#popsicle?!
-And, along the way,#I can teach you#to be a better citizen#of the Underground!
-It'll be fun! It#happens in movies all#the time!
-A grumpy little human#enters and then two#or three montages#later...
-TA-DA!
-Okay, I'll be right#back! I need to#go figure how#to trigger a montage!
-* (Currently on break, admiring#  a hard day's work.)
-Umm... Hold on, I'm#checking this one more#time.
-That can't be right!#You're not fighting#back!
-I don't want to hurt#you! You're all cute#and stuff!
-You go on and have#your turn, I'm gonna#check that handbook#again.
-Hey, what are you#doing?
-There's no need for#fighting now!
-We have to get going#if we wanna catch up!#Come on!
-We gotta stop wasting#time!
-It's not safe here!
-This is serious! Let's#get you out of here!
-I don't know how long#we have before...#let's hurry okay?
-I'm sorry to rush you#like this but...
-We really gotta get#going!
-Wha-what are you#saying?
-This isn't your fault.#It-it can't be.
-There's no way you...
-You're just a child.
-So...
-You're just#apologizing?
-Is it that simple?
-You destroyed lives!
-The monsters of#Snowdin are terrified!
-And you're just...#apologizing?
-Is, well, what else#can you do, I suppose?
-I mean, everyone is#allowed to make#mistakes but...
-This is a little more#than a mistake.
-You're really sorry,#aren't you?
-You're scared...
-This was probably self#defense.
-I understand. No need#to keep apologizing.
-Take it.
+Vale, ¡¿qué#está pasando?!
+Quiero decir,#no me malinterpretes,#¡ser atacada duele!
+Como, ¿tuve una#mala primera impresión#contigo?
+Si lo hice,#lo siento, pero la#violencia realmente no#es la respuesta a tus#problemas, ya sabes.
+En primer lugar:#¡Ow! ¿Por qué?#¡¿Por qué sigues#golpeándome?!
+Espera, espera,#antes de que me#pegues otra vez...#o no me pegues#otra vez...
+En realidad,#¿qué estás#intentando hacer?
+No importa,#las respuestas a#preguntas serias están#por encima de mi#nivel salarial.
+Los otros guardias#dijeron que nada de#interrogatorios ni de#implicarse emocionalmente.
+¡Y creo que sé#lo que significa!#¡Quizás!
+En cualquier caso,#pareces un buen niño.
+Bueno, al menos#algunas veces.
+Y algunas veces#me basta.
+¡Oh, tengo una gran#idea!
+¡¿Y si te ayudo a#pasar por Snowdin antes de#que te conviertas en#una adorable paleta?!
+Y, por el camino,#¡puedo enseñarte a#ser un mejor#ciudadano del#Subsuelo!
+¡Será divertido!#¡Sucede en las#películas todo el#tiempo!
+Entra un pequeño#humano gruñón y#dos o tres montajes#después...
+¡TA-DA!
+Vale, ¡ahora vuelvo!#¡Tengo que ir a#averiguar cómo activar#un montaje!
+* (Actualmente en el descanso,#  admirando un duro día#  de trabajo.)
+Umm... Espera, estoy#comprobando esto una#vez más.
+¡No puede ser!#¡No te estás#defendiendo!
+¡No quiero hacerte#daño! ¡Eres todo#lindo y todo eso!
+Sigue con tu turno,#voy a volver a#mirar el manual.
+Oye, ¿qué#haces?
+¡No hay necesidad de#peleas ahora!
+¡Tenemos que#ponernos en marcha si#queremos descubrirlo!#¡Vamos!
+¡Tenemos que#dejar de perder#el tiempo!
+¡No es seguro#aquí!
+¡Esto es serio!#¡Vamos a sacarte#de aquí!
+No sé cuánto tiempo#tenemos antes...#démonos prisa,#¿vale?
+Lamento apresurarte#así pero...
+¡Tenemos que ponernos#en marcha!
+¿Qué... qué estás...#diciendo?
+Esto no es culpa#tuya. No-no#puede serlo.
+No hay forma#de que...
+Sólo eres un niño.
+Así que...
+¿Te estás#disculpando?
+¿Tan sencillo es?
+¡Destruiste vidas!
+¡Los monstruos de#Snowdin están#aterrorizados!
+Y tú sólo...#¿te disculpas?
+Es que, bueno,#¿qué otra cosa#se puede hacer,#supongo?
+Quiero decir, todo el#mundo puede cometer#errores, pero...
+Esto es algo#más que un error.
+Realmente lo#sientes, ¿no?
+Tienes miedo...
+Probablemente fue#en defensa propia.
+Comprendo. No hace#falta que sigas#disculpándote.
+Toma.
 transforming
 transform
-Of course. I see how#it is.
-So you can take a hit.
-I'm sorry to hear#that.
-That means I'll just#have to hit harder!
-You know, I'm almost#glad you attacked#me	when you did.
-If you had waited,#I might have told you#where the others went.
-But now you'll never#find them.
-This whole thing is a#tragedy.
-And the saddest part#is that there was no#need for it.
-They say monsters are#made of love, hope,#and compassion.
-We would have agreed#to help you in a#heartbeat!
-But you wouldn't#understand that.
-You're no monster.
-I know what you are...
-...and it's something#I fear is much#worse.
-It's that hat of#yours that gives#you away.
-You're a human through#and through.
-I want you to know,#I don't hate your#kind.
-There's gotta be#nice humans out#there.
-Or at least#somewhat reasonable#humans.
-I hoped that was#you...
-You're still trying?
-Pretty... determined#there, aren't you.
-Luckily, so am I.
-Why... won't you back#down?
+Por supuesto.#Ya veo cómo es.
+Así que puedes#recibir un golpe.
+Siento oír eso.
+¡Eso significa que#tendré que golpear#más fuerte!
+Sabes, casi me#alegro de que me#atacaras cuando lo#hiciste.
+Si hubieras esperado,#podría haberte dicho#adónde fueron los otros.
+Pero ahora nunca#los encontrarás.
+Todo esto es una#tragedia.
+Y lo más triste#es que no era#necesario.
+Dicen que los#monstruos están#hechos de amor,#esperanza y compasión.
+Habríamos aceptado#ayudarte sin pensarlo#dos veces.
+Pero no lo entenderías.
+No eres un monstruo.
+Sé lo que eres...
+...y es algo#que me temo que#es mucho peor.
+Es ese sombrero#tuyo el que te#delata.
+Eres un ser#humano de pies a#cabeza.
+Quiero que sepas#que no odio a los#de tu clase.
+Tiene que haber#humanos buenos por#ahí.
+O al menos#humanos#algo razonables.
+Esperaba que#fueras tú...
+¿Sigues intentándolo?
+Bastante...#determinado ahí,#¿no?
+Por suerte,#yo también.
+¿Por qué...#no te echas#atrás?
 *huff* *huff*
-Ow! What are you#doing?!
-I understand if you're#scared, but you have#to trust me!
-I'm with the Royal#Guard! It's my job to#make sure you're safe!
-Ow ow ow! Look, I get#it!
-You're scared and#don't know what to do,#everyone is!
-But you can't take#that out on me!
-If you go around#hurting everyone all#the time, well...
-No one will ever#help you!
-Hey! Snap out of it!
-Do you do this to#everyone who tries to#be nice to you?!
-You... you do, don't#you.
-You're the one they're#all running from,#aren't you?
-I-I don't know what to#do... I've been so...#naive.
-You're just a kid.
-Well, I'll be honest#with you.
-My handbook says#nothing about this#specific	situation.
-However...
-I do know that#something similar has#happened before.
-They put a stop to#that so...
-It's up to me to put#a stop to this!
+¡Ow! ¡¿Qué estás#haciendo?!
+Entiendo si estás#asustado, ¡pero#tienes que confiar#en mí!
+¡Soy de la Guardia#Real! Mi trabajo es#asegurarme de que#estés a salvo.
+¡Ow ow ow! Mira,#¡lo entiendo!
+Tienes miedo y#no sabes qué hacer,#¡todo el mundo#lo tiene!
+¡Pero no puedes#desquitarte conmigo!
+Si vas por ahí#hiriendo a todo el mundo#todo el tiempo, bueno...
+¡Nadie te#ayudará nunca!
+¡Oye!#¡Despierta!
+¡¿Le haces esto a#todo el que intenta#ser amable contigo?!
+Tú...#tú lo haces,#¿verdad?
+Tú eres de quien#todos huyen,#¿verdad?
+Y-yo no se#que hacer...#He sido tan...#ingenua.
+Sólo eres un niño.
+Bueno, seré#honesto contigo.
+Mi manual no dice#nada sobre esta#situación específica.
+No obstante...
+Sé que ya ha#ocurrido algo#parecido.
+Pusieron fin a#eso así que...
+¡De mí depende#poner fin a esto!
 Okay...
-You win...
-I'm done attacking,#so please...
-Lower your weapon.
-...Thank you...
-My handbook says#this thing...
-"There's no shame#in a tactical#retreat."
-I've never... been#sure what that applied#to but...
-I think... huff#...that time is#  now.
-My turn! My turn!
+Tú ganas...
+He terminado#de atacar,#así que por favor...
+Baja tu arma.
+...Gracias...
+Mi manual dice#esto...
+"No hay vergüenza#en una retirada#táctica".
+Nunca he estado#segura de a qué se#aplicaba, pero...
+Creo que... huff...#ese momento es# ahora.
+¡Mi turno! ¡Mi turno!
 creation_state
 fcreate_max
 fcreate_minus
@@ -25280,7 +25280,7 @@ Check 3
 * And reset and reset and reset#  and reset and reset and reset#  and reset and
 * Why do we keep ending up here?
 * Every time you make certain#  choices, it's the rooftop.
-* Martlet always convinces you#  to go with her.
+* Martlet siempre te convence#  para que vayas con ella.
 * Am I supposed to just... let#  that happen?
 * No... I've seen you surrender#  and adapt before.
 * It doesn't lead anywhere.
