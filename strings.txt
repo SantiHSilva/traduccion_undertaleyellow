@@ -5828,9 +5828,9 @@ scr_enemy_attack_trihecta_circle_stack
 scr_generate_battle_nobody_came_yellow
 scr_generate_battle_froggit_intro_yellow
 scr_recreate_heart_battle_menu_text_froggit_intro_yellow
-* Froggit didn't understand what#  you said, but was flattered#  anyway.
+* Froggit no entendió que#  le dijiste, pero se#  sonrojó de todas formas.
 scr_dialogue_battle_action_selected_action_1_froggit_intro_yellow
-* Froggit didn't understand what#  you said, but was scared#  anyway.
+* Froggit no entendió que#  le dijiste, pero se#  asustó de todas formas.
 scr_dialogue_battle_action_selected_action_2_froggit_intro_yellow
 battle_box_resize_midfight
 battle_box_target_xscale
@@ -8942,15 +8942,15 @@ layer_end
 gml_Script__effect_blend
 _effect_blend
 nextroom
-* Solo los valientes proceden.#* Valientes, tontos.#* Ambos no caminan por el medio.
+* Solo los valientes proceden.#* Valientes, tontos.#* Ninguno camina por el medio.
 * Mantente en el camino.
-Press this switch,#please! #     -Toriel
-Also press this switch,#please! #     -Toriel
+Presiona este interruptor,#por favor! #     -Toriel
+También presiona este# interruptor, please! #     -Toriel
 * "Presiona [
 ] para leer#  carteles!"
-* (Este cartel #  está oculto por las#  hojas.)
+* (Este cartel está oculto#  por las hojas.)
 * (Sólo se ven algunas#  palabras.)
-* Precaución... 
+* Advertencia... 
 ... Corre...
 ... Camina...
 row
@@ -10581,7 +10581,7 @@ THE END
 * Lo que intento decir#  es... 
 * Clover cree en lo que#  es mejor para otros.#  Incluso monstruos.
 * Y... 
-* Necesita ir a casa.#  devuelta a la Superficie.
+* Necesita ir a casa.#  Devuelta a la Superficie.
 * Devuelta a la#  Superficie...
 * Si tan solo fuera así#  de sencillo.
 * Pero tú de todos los#  monstruos debes saber la#  realidad.
@@ -10924,8 +10924,8 @@ flash_alpha
 new_soul
 new_capsule
 yellow_col
-       Rest well, young one.
-           I am sorry.
+       Descansa, jóven.
+           Lo siento.
 box_width
 eq_bar_number
 eq_bar_gap
@@ -12713,7 +12713,7 @@ soul_array
 * Lo que estás sintiendo#  en este momento.
 * Lo conozco bien.
 * El mundo puede ser un#  lugar cruel.
-* Toma y otorga como quiera.
+* Toma y otorga como#  quiera.
 * Supongo que ya he hablado#  suficiente.
 * Haré esto rápido.
 * No tienes que preocuparte.
@@ -16692,9 +16692,9 @@ Aventura
 * ¡La SPSS estará allí con poca resistencia!
 mail_station_blocked
 * ¡Ah! Hola.
-* Paso por aquí#  todos los días para ver#  si alguien se ha caído.
+* Paso por aquí todos#  los días para ver si#  alguien se ha caído.
 * No ocurre con#  frecuencia.
-* Eres el primero en venir#  aquí en mucho#  tiempo.
+* Eres el primero en venir#  aquí en mucho tiempo.
 * No tengas miedo,#  pequeño.
 * Haré todo lo posible#  para protegerte aquí.
 * ¡Ven! Te guiaré#  a tu nuevo hogar.
@@ -16703,25 +16703,25 @@ mail_station_blocked
 distance_to_clover
 * Las RUINAS están llenas#  de puzzles.
 * Fusiones antiguas entre#  distracciones y llaves#  para abrir la puerta.
-* Para pasar de sala#  a sala.
-* Permitame que#  le demuestre.
-* Ahora somos libres para #  proceder ahora. 
-* Sigueme, mi niño.#* Hay más puzzles#  por delante.
+* Y así pasar de sala#  a sala.
+* Permitame que te#  demuestre.
+* Somos libres de#  proceder ahora. 
+* Sigueme, mi niño.#* Hay más puzzles por#  delante.
 * En esta sala, deberás#  de activar varios#  interruptores.
 * No te preocupes, he#  marcado los que#  necesitas activar.
 * Oh, ¿Necesitas#  ayuda?
 * Por favor, activa#  el interruptor en la#  pared norte.
-* ¡Esplendido! Estoy orgulloso#  de ti, mi niño. 
+* ¡Esplendido! Estoy#  orgullosa de ti,#  mi niño. 
 * Vamos, ¡yo creo en ti!
 * ¡Solo un interruptor#  más!
 * ¡Oh no, mi niño! Ese#  es el interruptor#  equivocado.
 * Yo te señale#  el que necesitas activar.
 * Ese interruptor#  ya esta activado.
-* ¿Por qué no vuelvas#  a cruzar el puente?
+* ¿Por qué no vuelves#  a cruzar el puente?
 * ...Ya debería#  haberse abierto...
 * Estoy segura de haber#  señalado el interruptor#  correcto...
 * ¡Ah, no te preocupes,#  pequeño! Intenta activar#  el otro interruptor.
-* No estoy seguro de#  por qué ese interruptor#  no funciona...
+* No estoy segura de#  por qué ese interruptor#  no funciona...
 * Por favor, intenta #  activar el otro#  interruptor.
 * Debo de haber marcado#  mal el interruptor.
 * Me disculpo si te he#  confundido, mi niño.
@@ -16733,10 +16733,10 @@ distance_to_clover
 switched
 destroy
 * ¡Mi niño!
-* Oh cariño... Me temo que#  no puedo llegar#  hasta ti...
-* Debo irme un momento. Tu#  te quedaras ahi, ¿verdad?
+* Oh cariño... Me temo que#  no puedo llegar hasta ti...
+* Debo irme un momento. Tu#  te quedarás ahí, ¿verdad?
 * No pasees por ahí, hay#  monstruos que no son amistosos#  con todos los humanos.
-* No temas, mi niño, ¡Yo te#  protegere!
+* No temas, mi niño, ¡Yo te#  protegeré!
 * Por favor... espera ahí.
 * ¿Te gustan?
 * Estos son mis proyectos.
@@ -17238,22 +17238,22 @@ Get ready for my#strongest atta-
 * ¡Ven a buscar estás#  cosas y allí#  estaré!
 * Hmmm...
 * Pareces confundido.
-* ¡Toriel debería haberte#  enseñado cómo funcionan#  las cosas por aquí!
+* ¡Toriel debió haberte#  enseñado cómo funcionan#  las cosas por aquí!
 * ¿No lo hizo?
 * Supongo que el#  pequeño y viejo yo#  tendrá que hacerlo.
 * ¿Quieres que yo#  te enseñe?
 * Entiendo...
 * Ir con cabeza - ¡me#  gusta!
-* Bueno almenos deberías#  saber esto al menos:
+* Bueno al menos deberías#  saber esto:
 * ¿Esos humanos que#  buscas?
 * Lo siento, pero...
 * El rey ASGORE ya ha#  llegado a ellos.
          ASGORE                             
 * Por el lado bueno,#  escuche que sus ALMAS#  están en espera.
 * Haz lo que quieras#  con esa información.
-* Dondequiera que estes#  y necesites ayuda,#  Yo te ayudare a GUARDAR!
-* Eso significa que si#  pasa algo malo, ¡puedo#  hacer que no pase!
-* Asi que si alguna vez#  necesitas ayuda,#  ¡ven a buscarme!
+* Donde quiera que estés#  y necesites ayuda,#  Yo te ayudaré a GUARDAR!
+* Eso significa que si#  pasa algo malo, ¡puedo#  revertirlo!
+* Así que si alguna vez#  necesitas ayuda,#  ¡ven a buscarme!
 * Te dejaré estas cositas#  por aquí.
 * ¡Buenas!#* Soy FLOWEY. #* ¡FLOWEY la FLOR!
 * Hmm... #* ¡Pareces confundido!
@@ -24018,7 +24018,7 @@ frostermit b
 fall_max
 * Clover? You're back?
 * I appreciate you#  thinking of us but...
-* You should go.
+* Deberías irte.
 * Sorry, I don't mean to#  be rude. It's just a#  personal situation.
 * I've found a road to#  contentment in this#  group...
 * I don't want to be#  given false hope and#  slip back into...
