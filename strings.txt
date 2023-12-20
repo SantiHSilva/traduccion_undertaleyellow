@@ -1787,9 +1787,9 @@ Corn Dog
 Patch
 Feather
 G. Bandana
-Pebble Ammo
+Munición de piedra
 Silver Ammo
-Rubber Ammo
+Munición de goma
 Glass Ammo
 Flint
 Sponge Cake
@@ -1867,8 +1867,8 @@ H. Acid
 * (It gives you a proud feeling.)
 * (With a shimmer, you tie the#  Golden Bandana around your#  neck.)
 * (You feel like you can take on#  anything now.)
-* (You load the pebbles into your#  gun.)
-* (It feels a little heavier#  now.)
+* (Cargas tu pistola con#  las piedras.)
+* (Ahora se siente más#  pesada.)
 * (You load the Silver Ammo#  into your gun.)
 * (The pellets shimmer#  in the light.)
 * (You load the rubber ammo into#  your weapon.)
@@ -1995,7 +1995,7 @@ gml_Script_scr_item_use
 scr_item_use
 * Info message
 info
-* "Lemonade" - Cura 7 HP#* (Doesn't smell too appetizing.)
+* "Lemonade" - Cura 7 PV#* (Doesn't smell too appetizing.)
 * "Pebbles" - Weapon AT 3#* (Like rocks, but smaller.#* Good makeshift ammo.)
 * "Silver Ammo" - Weapon AT 3#* (A pack of reflective pellets.)
 * (They'd fit nicely in#  a six-shooter.)
@@ -2478,13 +2478,13 @@ gml_Script_scr_determine_world_value_yellow
 * ¡Buenas!#* ¡Parece que lo#  conseguiste!  
 * ¿Por qué la cara larga,#  amigo?
 * No te preocupes, ¡este#  sitio es mucho mejor#  que allí arriba!
-* ¡Esa vieja nos#  habría arruinado#  la diversión!
+* ¡Esa vieja nos#  habría arruinado la#  diversión!
 * ¡Vamos, no nos quedémos#  aquí todo el día!
-* Tú... solo necesitas#  guardar una vez...
+* Emm... solo necesitas#  guardar una vez...
 * ¿No confías en mi#  o algo así?
 * ¡Por favor!#* ¡Soy tu amigo!#* ¡Soy heroico en Free Fire!
 * ¡Yo te cubro la#  espalda!
-* Deberías ponerte#  en marcha...
+* Deberías ponerte en#  marcha...
 * ¿Enserio?#* ¿De qué se trata esto?
 * Ya te lo dije,#  ¡No necesitas a esa#  estúpida señora cabra!
 * ¡Ella no hubiera#  podido protegerte#  de todas formas!
@@ -2496,7 +2496,7 @@ gml_Script_scr_determine_world_value_yellow
 * ¡Veo que sigues en#  una pieza!
 * Viste a ese bicho#  raro ¿verdad?
 * Si quieres salir de#  aquí tendras que#  pasar por él.
-* Aunque no deberia ser#  un problema.
+* Aunque no debería ser#  un problema.
 * Y si lo fuera,#  ¡Yo estoy aquí!
 * ¿Otra vez?
 * Vale, ¡estás doblemente#  guardando!
@@ -3305,7 +3305,7 @@ scr_battle_core_directory_no_attack
 * Estás abrumado por las#  vibras depresivas.
 * Penilla se acerca dibujando!
 * Penilla le tiene temor#  a esta batalla.
-* Sweet Corn saltá emocionado.
+* Sweet Corn saltá emocionada.
 * Ya puedes sentir las caries.
 * Penilla te encuentra.#* Sweet Corn aparece de la#  nada con emoción.
 * Crispy Scroll está buscando#  con quien hablar.
@@ -3563,11 +3563,11 @@ gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_2
 scr_battle_core_directory_flavor_text_enemy_1_default_2
 * You are nervous about the next#  midterm.
 * Glitz and glamour.
-* Flier doesn't think the#  position of "enemy" fits him.
-* The battlefield is covered in#  eraser shavings.
-* Sweet Corn tries to encourage#  you to smile.
-* Crispy Scroll is trying to be#  cute.
-* Rorrim mimics your movements.
+* Flier piensa que la#  posición de enemigo no#  le queda.
+* El campo de batalla está#  lleno de trozos de borrador.
+* Sweet Corn intenta animarte#  a que sonrías.
+* Crispy Scroll intenta ser#  adorable.
+* Rorrim imita tus movimientos.
 * Dalv adapta una pose#  intimidadora.
 * You momentarily lose track of#  Micro Froggit.
 * Insomnitot catches itself#  nodding off.
@@ -3611,7 +3611,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * So much information overload!
 * You know what I'm saying?!
 * Flier está envuelto en viejas#  memorias.
-* Penilla firma su sketch#  y empieza uno nuevo.
+* Penilla firma su sketch y#  empieza uno nuevo.
 * Your ears are ringing from the#  chatter.
 * Sweet Corn makes her signature#  squeaky toy noise.
 * Crispy Scroll is talking in#  circles.
@@ -3654,7 +3654,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_4
 scr_battle_core_directory_flavor_text_enemy_1_default_4
 * Flier is telling the other#  monsters about his cool new#  ride.
-* Penilla seems busy drawing.
+* Penilla se ve ocupada#  dibujando.
 * Penilla rolls her eyes.
 * The Sweet Corns hop to the#  rhythm.
 * Crispy Scroll can't decide what#  genre to role play.
@@ -5187,7 +5187,7 @@ target_y
 gml_Script_scr_clover_defragment
 scr_clover_defragment
 * Le informas a Flier que#  entiendes sus dificultades.
-* Le informas a Flier que su vida#  no está medio acabada, que él#  tiene una mitad entera!
+* Le informas a Flier que su vida#  no está medio acabada, que él#  tiene otra mitad entera!
 scr_dialogue_battle_action_selected_action_1_flier_a
 * Felicitas a Flier por#  su elección de atuendos.
 * Le dices a Flier que#  parece orgulloso.
@@ -5275,7 +5275,7 @@ scr_recreate_heart_battle_menu_text_sweet_corn_solo
 * Todo lo que saboreas es azúcar.
 scr_dialogue_battle_action_selected_action_1_sweet_corn_a
 * Le das un largo e incómodo#  abrazo a Sweet Corn.#* No le ha gustado.
-* Le das un gran abrazo a Sweet Corn.#* Brevemente se atora en tu camiseta.
+* Le das un gran abrazo a Sweet#  Corn.#* Se atora en tu camiseta.
 scr_dialogue_battle_action_selected_action_2_sweet_corn_a
 * Le ofreces un regalo a Sweet Corn.
 * Le das a Sweet Corn tu#  Candy Corn.
@@ -5828,9 +5828,9 @@ scr_enemy_attack_trihecta_circle_stack
 scr_generate_battle_nobody_came_yellow
 scr_generate_battle_froggit_intro_yellow
 scr_recreate_heart_battle_menu_text_froggit_intro_yellow
-* Froggit no entendió que#  le dijiste, pero se#  sonrojó de todas formas.
+* Froggit no entendió que#  dijiste, pero se sonrojó#  de todas formas.
 scr_dialogue_battle_action_selected_action_1_froggit_intro_yellow
-* Froggit no entendió que#  le dijiste, pero se#  asustó de todas formas.
+* Froggit no entendió que#  le dijiste, pero se asustó#  de todas formas.
 scr_dialogue_battle_action_selected_action_2_froggit_intro_yellow
 battle_box_resize_midfight
 battle_box_target_xscale
@@ -16697,14 +16697,14 @@ mail_station_blocked
 * Eres el primero en venir#  aquí en mucho tiempo.
 * No tengas miedo,#  pequeño.
 * Haré todo lo posible#  para protegerte.
-* ¡Ven! Te guiaré a#  tu nuevo hogar.
+* ¡Ven! Te guiaré a#  tú nuevo hogar.
          TORIEL                           
                         #         RUINAS 
 distance_to_clover
 * Las RUINAS están llenas#  de puzzles.
-* Fusiones antiguas entre#  distracciones y llaves#  para abrir la puerta.
+* Fusiones antiguas entre#  distracciones y llaves#  para abrir puertas.
 * Y así pasar de sala#  a sala.
-* Permíteme que te#  demuestre.
+* Permíteme demostrarlo.
 * Somos libres de#  proceder ahora. 
 * Sígueme mi niño.#* Hay más puzzles por#  delante.
 * En esta sala, deberás#  de activar varios#  interruptores.
@@ -16734,8 +16734,8 @@ switched
 destroy
 * ¡Mi niño!
 * Oh cariño... Me temo que#  no puedo llegar hasta ti...
-* Debo irme un momento. Tu#  te quedarás ahí, ¿verdad?
-* No pasees por ahí, hay#  monstruos que no son amistosos#  con todos los humanos.
+* Debo irme un momento. Te#  quedarás ahí, ¿verdad?
+* No pasees por ahí, hay#  monstruos que no son amigables#  con los humanos.
 * No temas, mi niño, ¡Yo te#  protegeré!
 * Por favor... espera ahí.
 * ¿Te gustan?
@@ -16932,18 +16932,18 @@ genoCount
 * Hola...
 * Me alegro de por fin#  conocerte cara a cara.
 * ¿Cuánto tiempo ha pasado?
-* Me preguntaba si alguna#  vez volverías...
+* Me preguntaba si alguna vez#  volverías...
 * No... demasiado directo.
 * ¿A quién quiero engañar? Nunca#  podré conocerte en este#  estado.
-* Solo quiero que sepas... que#  no tuve opción. Debe ser de#  esta manera.
+* Solo quiero que sepas... que#  no tuve opción. Así debe#  de ser.
 * ¿Eh?
 * ¿Quién...?
 * D-debo estar alucinando...
 cam2
 * ¿Es malo dudar de mis#  acciones?
-* Disfrutaba de la vida antes...#  Lo hacía... Pero no puedo#  volver atrás.
+* Antes disfrutaba la vida...#  Lo hacía... Pero no hay#  vuelta atrás.
 * Lo que pasó ese día solo#  se repetiría.
-* ¿Por qué aparecen cada vez#  que empiezo a monologar? 
+* ¿Por qué apareces cada vez#  que empiezo a monologar? 
 * Necesito descansar más.
 * ¡Ah!
 * No sé quien eres pero...
@@ -17226,10 +17226,10 @@ Get ready for my#strongest atta-
       FLOWEY  
 * ¡FLOWEY la FLOR!
    FLOWEY    FLOR 
-* Pareces una persona#  bastante segura de#  sí misma.
+* Pareces una persona#  bastante segura de#  si misma.
 * No debería tenerte#  aquí todo el día,#  ¿verdad?
-* ¡No quisiera ser#  un estorbo!
-* Te dejaré ir pero#  al menos deberías#  saber esto:
+* ¡No quisiera ser un#  estorbo!
+* Te dejaré ir pero#  al menos debes#  saber esto:
 * El rey ASGORE es#  el responsable de#  todo.
          ASGORE                                   
 * Búscalo y haz lo que#  debas.
@@ -17302,7 +17302,7 @@ dr
 * (A beautiful, delicious-looking#  Golden Pear catches your eye.)
 * (You got the Golden Pear!)
 * (Beauty is in the eye#  of the beholder anyway.)
-* (Una pequeña pila de piedras#  convenientemente en forma de bala.)
+* (Una pequeña pila de piedras#  convenientemente en forma de#  bala.)
 * (Obtuviste Piedras!)
 * (Las piedras son muy#  peligrosas.)
 * (Es una pluma perdida.)
@@ -23245,8 +23245,8 @@ Fine! I'll just stop#sending them then.
 ¡Tenía metas en#la vida!
 Ella era mi amiga#(creo).
 ¡No te me acerques!
-Yo... Este no soy#realmente yo...
-Tienes razón.#Algo tiene#que cambiar.
+Emm... Yo no soy#realmente yo...
+Tienes razón.#Algo tiene que#cambiar.
 No lo acepto.
 ¡Así es!#¡Sabía que te darías#cuenta!
 Si, totalmente#de acuerdo.
@@ -23260,7 +23260,7 @@ Oigan todos, miren#mi nuevo auto#B)
 ¡Por fin! ¡Monstruos#que me atrapan!
 ¿Es el arte lo que#les gusta a los#niños hoy en día?
 ¡Estoy buscando a# alguien que venda un#barco!# ¿Sabes de alguien?
-¡Estuve haciendo#ejercicio! No es gran#cosa; )
+¡Estuve haciendo#ejercicio! No es gran#cosa ;)
 ¡El otro día#descubrí un nuevo#grupo genial!
 no_loop_switch
 can_vanish
@@ -23324,15 +23324,15 @@ Ha...
 Ha......
 .........
 Tienes valor.
-Solo dices#eso porque#te sientes#obligado.
+Solo dices eso# porque te#sientes obligado.
 No creo que#esté lista para#la gente aún.
 Tal vez el#arte no es#lo mío.
 Supongo que#podría descansar.
-He estado en#esto por un#tiempo...
+He estado#haciendo esto#por un tiempo...
 Entonces...#lo pegaré de#nuevo.
 Un sacapuntas#sería útil#en estos#momentos...
 Debo mantener#filosas mis#habilidades!
-La vida del#artista es una#de soledad.
+La vida del#artista es pura#soledad.
 Así que mi#trabajo a mano#llevó a esto?
 Zer o no Zer?
 Quería que él#se fuera, pero#no así!
@@ -23350,11 +23350,11 @@ stop_image_speed
 Qué fue#ese#sonido?
 *Chirrido#espontáneo*
 L-lo que#te haga#feliz.
-Ahora#solo estás#invadiendo#mi espacio.
+Ahora#solo#invades mi#espacio.
 Lo que#te haga#feliz!#supongo...
 Lo que#te haga#feliz!
 No puedo#sentir tu#amor.
-Amo los#abrazos! <3
+Amo los#abrazos!#<3
 Estoy#sintiendo#el amor~
 Solo#quiero#ver una#sonrisa.
 EN SERIO?!?
