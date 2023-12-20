@@ -147,7 +147,7 @@ enemy_low_hp
 message
 Action 3 Low HP
 last_action_selected
-Nothing
+Nada
 last_action_selected_2
 last_action_selected_3
 * You refuse to let Sir Slither#  become a main character.
@@ -2592,7 +2592,7 @@ gml_Script_scr_save_flowey_dunes
 * Dios, los emblemas de#  estos uniformes mineros#  son muy interesantes.
 * ¡Supongo que soy#  el jefe por aquí!
 * Dejemos las bromas,#  ¡eres muy listo!
-* Arreglado el ascensor#  con facilidad.
+* Arreglaste el ascensor#  con facilidad.
 * ¡Estoy orgulloso de ti!
 * Me pregunto cuál es#  el objetivo de esta#  mina.	
 * Sea lo que sea,#  nadie parece saber#  lo que hace, jaja.
@@ -9095,19 +9095,19 @@ storm_x_start
 storm_y_start
 * (La pintura está#  aún húmeda.)
 * (Perrito.....)
-* (A heap of fallen rocks block#  your path.)
-* (What an inconvenience.)
-* (A set of cubbies dividing the#  miners' personal belongings.)
-* (A bowtie, a snowglobe, trivia#  books, cobwebs... all very#  useful.)
-* (A bunch of junk sits in some#  cubbies.)
-* (Several racks line the wall,#  ready to bear various pickaxes#  and hardhats.)
-* (Nothing useful here.)
-* In case the conveyor belt#  ceases to work, fix it.
-* (A conveyor belt sending#  several rocks and gems to a#  sorting machine.)
-* (A large, dirty sticker can be#  seen on the side.)
-* Assembled by Steamworks#  Engineers - 20XX
-* In case of fire, use#  stairs.
-* In case of water, swim.
+* (Un montón de rocas#  caídas bloquean tu camino.)
+* (Qué inconveniente.)
+* (Un conjunto de cubículos que#  dividen las pertenencias#  personales de los mineros.)
+* (Una pajarita, un globo de#  nieve, libros de trivia,#  telarañas... todo muy útil.)
+* (Un montón de basura se#  sienta en algunos cubículos.)
+* (Varias estanterías se alinean#  en la pared, listas para llevar#  varias piquetas y cascos.)
+* (Aquí no hay nada útil.)
+* En caso de que la cinta#  transportadora deje de#  funcionar, arréglela.
+* (Una cinta transportadora envía#  varias rocas y gemas a una#  máquina clasificadora.)
+* (Se puede ver una#  pegatina grande y sucia#  en el lateral.)
+* Ensamblado por Steamworks#  Engineers - 20XX
+* En caso de incendio,#  utilice las escaleras.
+* En caso de agua,#  nada.
 blue
 cart_color
 minecart_direction
@@ -12958,7 +12958,7 @@ door_fade_out
 * (A roadblock.)
 * (A complex lock mechanism#  blocks your exit.)
 * (What could open it up?)
-* (You can't think of a way to#  make this work.)
+* (No se te ocurre cómo#  hacer que esto funcione.)
 * (You use the ACID to ACID#  away at the DOOR.)
 * HELLO.
 * I HAD TROUBLE LOCATING#  YOU AFTER OUR LAST#  ENCOUNTER.
@@ -18650,7 +18650,7 @@ vine_pause
 * (¡Obtuviste un Packing Peanuts!)
 * (Obtuviste un Packing Peanuts.)
 * (No hay nada aquí de#  utilidad concebible para#  tí.)
-* (Ves una piedra oscura y#  desprendida entre este#  montón de# rocas.)
+* (Ves una piedra oscura y#  desprendida entre este#  montón de rocas.)
 * (¡Tienes algo de#  pedernal!)
 * (Ahora es sólo una roca.)
 storm_alpha
@@ -18935,25 +18935,25 @@ arrow_alpha
 soul_dir
 * East Mines.
 Astatine [At]
-. . . How did you even get#  this?
-* (You notice a discarded belt#  buckle lying in one of the#  compartments.)
-* (You "borrowed" a steel belt#  buckle!)
-* (You took the steel belt#  buckle.)
-* (Taking anything else would#  definitely be theft.)
+. . . ¿Cómo has conseguido#  esto?
+* (Observas una hebilla de#  cinturón desechada en uno#  de los compartimentos.)
+* (¡Has "tomado prestada"#  una hebilla de acero!)
+* (Tomaste la hebilla#  del cinturón de acero.)
+* (Tomar cualquier otra#  cosa sería definitivamente#  un robo.)
 elevator_menu_open
 elevator_solution
-* (A piece of wood is lodged#  in-between the elevator doors.)
-* (What could fix this poor#  elevator?)
-* (You use the pickaxe to hack#  away at the wood.)
-* (You start rubbing the steel#  buckle against the flint.)
+* (Un trozo de madera está#  alojado entre las puertas#  del ascensor.)
+* (¿Qué podría arreglar#  este pobre ascensor?)
+* (Usas el pico para#  cortar la madera.)
+* (Empiezas a frotar la#  hebilla de acero contra#  el pedernal.)
 Flint & Steel
-* (You strike a match on the#  piece of wood.)
+* (Enciendes una cerilla#  en el trozo de madera.)
 newsprite
-* (The pickaxe broke.)
+* (El pico se rompió.)
 newmessage
 newsound
-* (The flint crumbled away and#  the buckle melted.)
-* (The whole box of matches#  caught fire and burnt up.)
+* (El pedernal se desmenuzó#  y la hebilla se derritió.)
+* (Toda la caja de cerillas#  descubrió el fuego y se quemó.)
 party_noloop
 trs
 elevator_shake_screen
@@ -18963,7 +18963,7 @@ choice_alpha
 STAY
 puzzle_count
 puzzle_finished
-* (The path has been opened.)
+* (El camino se ha abierto.)
 top-right
 track_id
 rail_switch
@@ -19535,7 +19535,7 @@ current_mus
 * Gilbert, please. We've#  been married 27 years.
 * You can handle the#  questions yourself.
 Firing
-Elevator
+Elevador
 * C-certainly dear!
 * If you're gonna ask#  about the hot#  conditions...
 * I'm ordering more#  Glacialstone Cold Packs#  later today.
@@ -19692,142 +19692,142 @@ I work here
 * My break is almost over, it#  seems.
 * Oh well.
 dialogue_type
-* Haven't seen you around the#  mines, friend!
-* Welcome to the greatest place#  in the Underground!
-* I love it here!
-* Everyone is so nice and works#  hard; we're a real family!
-* I like these mines so much that#  I never leave!
-* Everyone tells me to go home#  but I find the cold, rocky#  floor very comfortable!
-* And no, they do not pay me for#  overtime!
-* (Whistling)
-* Don't worry about returning my#  pickaxe!
-* I'll just mine with my hands!
-* Empty your some of your#  belongings and come back!
-* (Obtained Pickaxe!)
-* There's gotta be another way#  you can fix the elevator!
-* What can I do you for, friend?
-* Holler if you need something!
-* Oh fiddlesticks!
-* I've seen a few pickles in my#  day and this is certainly one#  of them!
-* Tell you what, I'll give you my#  trusty pickaxe here, if you...
-* Win a monster trivia game!!
-* Oooh boy, this will be fun!
-* All you have to do is answer#  these three questions correctly!
-* You only get one try so do your#  best!
-* Question one!
-* Who is the current Royal#  Scientist?
-* Choose the correct name!
+* ¡No te he visto por#  las minas, amigo!
+* ¡Bienvenido al mejor lugar#  del Subsuelo!
+* ¡Me encanta estar aquí!
+* Todo el mundo es muy amable#  y trabaja muy duro; ¡somos#  una auténtica familia!
+* Me gustan tanto estas minas#  que ¡nunca me ire!
+* Todo el mundo me dice que me#  vaya a casa ¡pero el suelo# frío y rocoso es muy cómodo!
+* Y no, ¡no me pagan por#  horas extras!
+* (Silbidos)
+* ¡No te preocupes por#  devolverme mi pico!
+* ¡Sólo lo haré con mis#  manos!
+* ¡Vacía algunas de tus#  pertenencias y vuelve!
+* (¡Pico obtenido!)
+* ¡Tiene que haber otra#  forma de arreglar#  el ascensor!
+* ¿Qué puedo hacer por#  ti, amigo?
+* ¡Grita si necesitas algo!
+* ¡Ay, tonterías!
+* He visto unos cuantos pepinillos#  en mi vida y éste es sin#  duda uno de ellos.
+* Te diré algo, te daré mi#  fiel pico aquí, si tú...
+* ¡¡Ganas una trivia de#  monstruos!!
+* Oooh chico, ¡esto va#  a ser divertido!
+* Todo lo que tienes que#  hacer es responder correctamente#  a estas tres preguntas.
+* Sólo tienes un intento,#  ¡así que hazlo lo#  mejor que puedas!
+* ¡Pregunta uno!
+* ¿Quién es el actual#  Científico Real?
+* ¡Elige el nombre correcto!
 ASGORE
 Alphys
-Dr. Science
-* Correct!
-* Question two!
-* What is most monster food made#  out of?
-* Only one answer is correct!
-Magic
-Ingredients
-Snails
-* Good job!
-* Final question!
-* How many more SOULs does ASGORE#  need to shatter the barrier?
-* Pick the number of SOULs!
-* Congratulations!
-* You really know your stuff!
-* Here's my pick as promised!
-* Aww! Looks like my pick would#  only weigh you down.
-* I'm sorry, that was not correct!
-* I'm sure you tried your best,#  though!
-* Hey, just in time!
-* I'm sure you noticed all this#  mining mumbo jumbo lying around,#  yea?
-* Well, Corporate said we have to#  solve puzzles as we work to#  exercise the ol' noggin.
-* They even made the Foreman lock#  the door until work's done.
-* Pretty unnecessary if you ask#  me.
-* Seeing as I'm on my permanent#  smoke break, could you solve it#  for me?
-* You look like a smart kid. Give#  it a shot.
-* What do ya need?
-Can you help me?
-* You're not gonna solve the#  puzzle by talking to me.
-* Kids these days are so#  lazy, I swear.
-* Great job! I knew you could do#  it, kid!
-* Won't be another job until#  tomorrow.
-* I can spend the rest of my#  workday doing absolutely#  nothing.
-* Oh wait, I already was.
-* You gotta wonder when ol'#  ASGORE is gonna call off this#  excavation.
-* Mining Co. has been in business#  for decades!
-* How-How-How am I gonna get to#  my station now?
-* The elevator door is jammed,#  man! JAMMED!!!
-* Do you know where everyone#  went???
-* Feeling mad anxious right now.
-* I'm calm!
-* I'm calm, okay??
-* That was a LIE I am FREAKING#  OUT!!!
-* Either my co-workers are#  planning a surprise b-day party#  for me or...
-* No, it's fine. I'm fine!
-* That would be silly! Heh...
-* You gotta help me!!
-* Wait, who are you?
-* Please leave me to my corner#  of worry.
-* Hey, thanks for saving me back#  there!
-* Now I can stand in place at a#  higher elevation.
-* Work is rad.
+Dr. Ciencia
+* ¡Correcto!
+* ¡Pregunta dos!
+* ¿De qué está hecha la#  mayoría de la comida#  para monstruos?
+* ¡Sólo hay una respuesta!
+Magia
+Ingredientes
+Caracoles
+* ¡Buen trabajo!
+* ¡Pregunta final!
+* ¿Cuántas ALMAS más necesita#  ASGORE para romper#  la barrera?
+* ¡Elige el número de ALMAS!
+* ¡Felicidades!
+* ¡Realmente sabes lo que haces!
+* Aquí está mi elección,#  como prometí.
+* ¡Oh! Parece que mi#  elección sólo te agobiaria.
+* Lo siento, ¡no era correcto!
+* ¡Estoy seguro de que#  hiciste lo mejor que pudiste!
+* ¡Hey, justo a tiempo!
+* Seguro que te has dado cuenta#  de toda esta palabrería minera#  que hay por ahí, ¿no?
+* Bueno, Corporate dijo que tenemos#  que resolver puzzles mientras#  trabajamos el cerebro.
+* Incluso hicieron que el capataz#  cerrara la puerta hasta que#  terminara el trabajo.
+* Bastante innecesario si me#  preguntas.
+* Ya que estoy en mi descanso#  permanente para fumar,#  ¿podrías resolverlo por mí?
+* Pareces un niño listo.#  Inténtalo.
+* ¿Qué necesitas?
+¿Puedes ayudarme?
+* No vas a resolver el# puzzle hablando conmigo.
+* Los niños de hoy en día#  son tan vagos, te lo juro.
+* ¡Buen trabajo! ¡Sabía que#  podías hacerlo, niño!
+* No habrá otro trabajo#  hasta mañana.
+* Puedo pasar el resto de mi#  jornada laboral sin hacer#  absolutamente nada.
+* Oh, espera, ya lo estaba.
+* Tienes que preguntarte cuando#  el viejo ASGORE va a#  cancelar esta excavación.
+* ¡Mining Co. lleva décadas en el negocio!
+* ¿Cómo-cómo-cómo voy a#  llegar a mi estación ahora?
+* ¡La puerta del ascensor#  está atascada, hombre!#  ¡¡¡ATASCADA!!!
+* ¿Sabes a dónde fueron todos?
+* Me siento muy ansioso en#  este momento.
+* ¡Estoy tranquilo!
+* Estoy tranquilo, ¿¿vale??
+* Eso fue una MENTIRA#  ¡¡¡Estoy ALUCINANDO!!!
+* O mis compañeros están#  planeando una fiesta sorpresa#  para mí o...
+* No, está bien. ¡Estoy bien!
+* ¡Eso sería una tontería!#  Je...
+* ¡¡Tienes que ayudarme!!
+* Espera, ¿quién eres?
+* Por favor, déjame en mi#  rincón de preocupaciones.
+* Oye, ¡gracias por salvarme#  ahí atrás!
+* Ahora puedo mantenerme#  en pie a mayor altura.
+* El trabajo es radical.
 clover_cup_cutscene
 music_reset
-* ENJOY YOUR SHARDS OF GLASS!!
-* NO CHARGE ANYMORE BUDDY!
-* YOU BREAK IT, YOU DO NOT BUY#  IT!!
+* ¡¡DISFRUTA DE TUS#  FRAGMENTOS DE CRISTAL!!
+* ¡YA NO SE COBRA MÁS AMIGO!
+* ¡¡SI LO ROMPES, NO LO#  COMPRAS!!
 clover_npc
-* STEP RIIIIGHT UP!!
-* WE GOT A BLOWOUT SALE GOING#  ON!!
-* IT MAY LOOK LIKE WE'RE#  ALMOST SOLD OUT BUT QUITE#  THE CONTRARY!
-* WE ONLY ORDERED ONE STOCK OF#  MUG!
-* IT HAS BEEN ON THIS TRUSTY#  SHELF FOR THIRTEEN YEARS!
-* DEMAND IS DEPRESSINGLY LOW SO#  TAKE ADVANTAGE OF THIS OFFER#  NOW!!
-* ONLY 40G BUCKO!!
+* ¡¡PASO A LA DEREEEECHA!!
+* ¡¡¡ESTAMOS DE REBAJAS!!!
+* PUEDE PARECER QUE ESTAMOS#  CASI AGOTADOS, ¡PERO ES#  TODO LO CONTRARIO!
+* ¡SÓLO PEDIMOS UNA RESERVA#  DE TAZA!
+* ¡LLEVA TRECE AÑOS EN ESTA#  ESTANTERÍA DE CONFIANZA!
+* LA DEMANDA ES DEPRIMENTEMENTE#  BAJA ASÍ QUE ¡¡¡APROVECHA#  ESTA OFERTA AHORA!!!
+* ¡¡SOLO 40 DE OROSITO!!
 Comprar
-Bye
-* Wait... seriously?
-* I MEAN, YES OF COURSE!!
-* AHA!! AHAHAHA!!!
-* GO FETCH IT OFF THE SHELF AND#  I'LL RING YOU UP!
-* DISAPPOINTED BUT NOT SURPRISED!
-* SINCE YOU BOUGHT THE MUG, I'LL#  HAVE TO SELL THE SHELVES#  THEMSELVES!!
-* THE SALE IS OVER!
-* YOU HAD YOUR CHANCE TO BUY THE#  PREMIUM MUG BUT REFUSED!
-* LOOKS LIKE IT WON'T FIND A#  HOME ANYTIME SOON!
-* SORRY, I DON'T MAKE THE RULES#  TO ECONOMICS!
-* THERE IS NOTHING FOR YOU#  HERE.
-* As a slime, I'm outraged.
-* As a slime, I'm overjoyed.
+Chao
+* Espera... ¿en serio?
+* QUIERO DECIR,#  ¡¡SI POR SUPUESTO!!
+* ¡¡AHA!! ¡¡¡AHAHAHA!!!
+* ¡VE A BUSCARLO A LA#  ESTANTERÍA Y TE LLAMARÉ!
+* ¡DECEPCIONADO PERO NO#  SORPRENDIDO!
+* YA QUE HAS COMPRADO LA TAZA,#  ¡¡¡TENDRÉ QUE VENDER#  LAS ESTANTERÍAS!!!
+* ¡LAS REBAJAS HAN TERMINADO!
+* ¡TUVISTE LA OPORTUNIDAD DE#  COMPRAR LA TAZA PREMIUM#  PERO LA RECHAZASTE!
+* ¡PARECE QUE NO VA A#  ENCONTRAR UN HOGAR PRONTO!
+* LO SIENTO, ¡YO NO#  PONGO LAS REGLAS A#  LA ECONOMÍA!
+* AQUÍ NO HAY NADA#  PARA TI.
+* Como slime, estoy indignado.
+* Como slime, estoy encantado.
 branch
-* (He's too wrapped up in his#  work to speak with you.)
-* You a new hire?
-* If I were you, I'd turn back#  now.
-* I've been workin' this job for#  twelve years and I've about had#  enough.
-* I'm probably the only monster#  that does their job 'round here.
-* If you need work, go talk to#  the Foreman on the third level.
-* Not sure you'll get far with#  him, though.
-* What do ya want?
-* It's jammed again?
-* I swear, nothing ever works#  here.
-* I'm busy, kid.
-* Go bug someone else then.
-* Ugh. Fine.
-* I'll lend you my pickaxe...#  for a price.
-* How's 30G sound?
-* 30G, kid.
-Good
-No way
-* Verrry nice!
-* Here ya go!
-* Keep it. I don't need it no#  more.
-* Cause I have a spare! Heh heh.
-* You can't lug around a pick!
-* Go lighten your load.
-* Quit wastin' my time.
-* Come back when you have the G.
-* Then I can't help ya.
-* Find another way to fix it.
-* Thanks for the G, kid.
+* (Está demasiado ocupado#  en su trabajo para#  hablar contigo).
+* ¿Eres nuevo?
+* Si yo fuera tú, daría#  marcha atrás ahora.
+* Llevo doce años en este#  trabajo y ya estoy harto.
+* Probablemente sea el único#  monstruo que hace su trabajo#  por aquí.
+* Si necesitas trabajo, ve a#  hablar con el capataz en#  el tercer nivel.
+* Aunque no estoy seguro#  de que llegues lejos#  con él.
+* ¿Qué quieres?
+* ¿Se ha atascado otra vez?
+* Lo juro, aquí nunca#  funciona nada.
+* Estoy ocupado, niño.
+* Pues vete a molestar#  a otro.
+* Ugh. Bien.
+* Te prestaré mi pico...#  por un precio.
+* ¿Qué tal 30 de ORO?
+* 30 de ORO, niño.
+Bien
+Ni hablar.
+* ¡Muyyy bonito!
+* ¡Aquí tienes!
+* Quédatelo. Ya no#  lo necesito.
+* ¡Porque tengo uno de#  repuesto! Je je.
+* ¡No puedes cargar con#  un pico!
+* Ve y aligera tu carga.
+* Deja de perder mi tiempo.
+* Vuelve cuando tengas ORO.
+* Entonces no puedo ayudarte.
+* Busca otra forma de arreglarlo.
+* Gracias por el ORO, niño.
 * (A rickety bed.)
 * (A nap sounds nice...#  taken anywhere but here.)
 * I was locked up for usin' my#  cell phone in the saloon.	
