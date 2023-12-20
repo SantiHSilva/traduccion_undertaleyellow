@@ -147,7 +147,7 @@ enemy_low_hp
 message
 Action 3 Low HP
 last_action_selected
-Nada
+Nothing
 last_action_selected_2
 last_action_selected_3
 * You refuse to let Sir Slither#  become a main character.
