@@ -2513,7 +2513,7 @@ gml_Script_scr_determine_world_value_yellow
  muertes!#* ¡Experto en el#  Dark Souls!
 * ¡Solo 1 muerte!
 * ¡No has muerto ni#  una vez!
-* No es que pensara#  que morirías, ¡pero#  está bien estar listo!
+* No es que pensara#  que morirías, ¡pero#  es bueno estar listo!
 * ¿Viste? ¿¡No te alegra#  tenerme cerca!?
 * ¡Es genial ser un#  amigo necesario!
 * ¿Qué? No estás contento#  con tu cuenta de muertes?
@@ -2522,14 +2522,14 @@ gml_Script_scr_determine_world_value_yellow
 * ¡Puedes guardar#  después!
 * ¡Ya falta menos!
 * ¡Solo tienes que#  lidiar con ese bicho!
-* ¡Entonces saldrás#  de las Ruinas!
+* ¡Y podrás salir#  de las Ruinas!
 * ¡Nos vemos en el#  otro lado, amigo!
 * ¿Qué?
-* ¿Te asusta ese#  tipo pesimista?
-* Mira, ¡solo tienes que#  pasar encima de#  él!
+* ¿Te asusta ese tipo#  pesimista?
+* Mira, ¡solo tienes que#  pasar encima de él!
 * ¡Caerá facilmente!
 * Y por si no te#  diste cuenta...
-* ¡No se le echará#  de menos!
+* ¡No se le echará de#  menos!
 * ¡Así que vamos por él!
 * ¡Vamos, niño!#* ¡Demuéstrale quién#  manda!
 * Bueno, es todo.
@@ -3388,7 +3388,7 @@ scr_battle_core_directory_flavor_text_enemy_1_action_3
 * Decibat disfruta del silencio.
 * Decibat te hace un gesto de#  aprobación.
 * Decibat se ve un poco más#  en paz.
-* Dalv se ve inseguro de que hacer.
+* Dalv se ve inseguro de que#  hacer.
 * Micro Froggit está impresionado#  de que pudiste golpearle.
 * ¡Know Cone sabía que había#  alguien allí!
 * Un par de plumas ensucian el#  suelo.
@@ -3518,7 +3518,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_1
 * Crispy Scroll hace una#  oscura referencia.
 * Rorrim reflexiona sobre#  sus actuales circustancias.
 * Decibat susurra algo#  demasiado bajo para oírlo.
-* Dalv hace una pausa para#  cepillarse la capa.
+* Dalv hace una pausa para#  limpiar la capa.
 * Captas un leve olor#  a semilla de mostaza.
 * El olor a patatas fritas#  pasa a tu lado.
 * Know Cone empieza a hacer#  un baile primitivo.
@@ -3568,7 +3568,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_2
 * Sweet Corn intenta animarte#  a que sonrías.
 * Crispy Scroll intenta ser#  adorable.
 * Rorrim imita tus movimientos.
-* Dalv adapta una pose#  intimidadora.
+* Dalv adapta una pose#  imponente.
 * You momentarily lose track of#  Micro Froggit.
 * Insomnitot catches itself#  nodding off.
 * Know Cone is yelling random#  noises that sound like they#  could be a made-up language.
@@ -4025,7 +4025,7 @@ action_2_color_3
 * Abrazar
 * Gritar
 * Criticar
-* Apretón de manos
+* Estrechar la mano
 * Amenazar
 * Lecture
 * Educate
@@ -5393,8 +5393,8 @@ audio_initial_music
 audio_extend_music
 scr_generate_battle_dalv
 scr_recreate_heart_battle_menu_text_dalv
-* Parece que Dalv está#  demasiado concentrado para#  oirte.
-* Dalv parece no valorar#  la comunicación.
+* Parece que Dalv está#  demasiado concentrado como#  para oirte.
+* Dalv parece no valorar la#  comunicación.
 * Dalv no quiere oírte.
 scr_dialogue_battle_action_selected_action_1_dalv
 * Dalv acepta tu oferta de#  buena voluntad.
@@ -5959,7 +5959,7 @@ item_category
 * (Its accuracy seems#  compromised.)
 * (You aren't sure how to start a#  fire with these safely.)
 * (Better not drink it.)
-* (You drink the 
+* (Tomas la 
 consumable
 healing
 item_number
@@ -5989,8 +5989,8 @@ heart_battle_fighting_y
 You equip the 
 message_add
 cmsgn
-* (You recovered 
- HP!)
+* (Recuperaste 
+ PV!)
 * (Your HP was maxed out.)
 * (You gained 
  PP!)
@@ -8983,19 +8983,19 @@ message2
 * (A familiar figure.)
 * (An unknown entity.)
 * (Somebody's... SOUL?)
-* Me parece recordar lo que#  una vez vi tan#  frecuente...
+* Me parece recordar lo que#  una vez vi tan frecuente...
 * Lo que recordaba...#* Parece que ahora está#  olvidado...
 * Así que no importa, supongo.
-* (Es una antorcha de madera con una# gran llama apoyada en#  la parte superior.)
+* (Es una antorcha de madera con#  una gran llama apoyada en#  la parte superior.)
 * (Una antorcha.)
 * (Está profundamente dormido. #* Tal vez no deberías#  molestarlo.)
 * (El agua parece#  refrescantemente sucia.)
 * (Agua.)
 * Propiedad de Dalv#  (El monstruo de la capa.)#* ¡NO PASAR!
                Dalv
-* No pises las flores.
+* No pisar las flores.
 * (Una pila de cajas,#  todas conteniendo maíz.)
-* (Te estás cansando#  de esas cosas.)
+* (Te estás cansando de esas#  cosas.)
 * (Algunas cajas.)
 * (Es una mesita con un#  cajón incorporado.)
 * (Parece que está bloqueado.)
@@ -15840,14 +15840,14 @@ slide_count
 fade_direction
 in
 out
-Por años, los monstruos#han sido sellados #por un poderoso hechizo.
+Por años, los monstruos#han sido sellados por#un poderoso hechizo.
 Un hechizo que solo podía#romperse con siete#ALMAS humanas.
-Su rey era pacífico#y deseaba evitar#más conflictos...
+Su rey era pacífico y#deseaba evitar más#conflictos...
 Pero eventualmente declaró#que cualquier humano que#cayera...
 Moriría...
 Monte Ebott...
 Pocos humanos han desafiado#esta montaña.
-Aquellos que lo hicieron...#no se les volvió#a ver.
+Aquellos que lo hicieron...#no se les volvió a ver.
 stats_open
 ITEM
 STATS
@@ -16948,19 +16948,19 @@ cam2
 * ¡Ah!
 * No sé quien eres pero...
 * ¡Por favor, lárgate!
-* ¿Todavia... me sigues?
-* Pensé que habia dejado#  claro que quiero que#  me dejen en paz
+* ¿Todavía... me sigues?
+* Pensé que habia dejado en#  claro que quiero estar#  en paz
 * No entiendo... Tu...#  te pareces a ellos.
-* ¿Es algún tipo de hechizo?#  ¿O has venido a#  terminar el trabajo?
-* Retirarme aquí no fue#  suficiente,#  así que me cazaste...
+* ¿Es algún tipo de hechizo?#  ¿O has venido a terminar#  el trabajo?
+* Atraparme aquí no fue#  suficiente, así que me#  quieres cazar...
 * ¿Verdad?
 ¿Qué?
 * Y estaba empezando a#  aceptar mi realidad.#  La crueldad...
 * Lo que te hice ese día#  no fue mi intención,#  yo solo...
 * No importa. Las palabras#  no son suficientes.
-* Yo... No quiero pelear#  con nadie, pero#  has invadido mi casa.
+* Yo... No quiero pelear con#  nadie, pero has invadido#  mi casa.
 * La salida está bloqueada#  y no puedes quedarte aquí.#  No lo permitiré.
-* Solo hay una cosa#  que hacer...
+* Solo hay una cosa#  por hacer...
 * ¿Qué hacen realmente#  los amigos?
 * ¿Quieres...#  ver mi casa?#  ¿O algo así?
 * Tengo que ir allí asi#  que supongo que pasa#  pasa por alli pronto.
@@ -17220,7 +17220,7 @@ part_system_position
 * Not yet.
 We ain't done yet!
 Get ready for my#strongest atta-
-* (Hay maíz en la#  telaraña.)
+* (Hay maíz en la telaraña.)
 * (Una mazorca de maíz.)
 * Soy FLOWEY. 
       FLOWEY  
@@ -23424,7 +23424,7 @@ move_speed_current
 ¡NO NO! ¡EL RUIDO#MOLESTA! ¡EL RUIDO#MOLESTA!
 ¿Demasiado alto#aquí! HUSHH#HUSHH!
 Dulce silencio...
-¿Eescuchas esto?#¿No? Bien...
+¿Escuchhas esto?#¿No? Bien...
 Más silencio#por favor...
            #No hagas ruido.#Hush hushh!
 No te muevas.#            #      #             
@@ -23446,27 +23446,27 @@ instance_change
 Supongo que no#puedes irte como#entraste, ¿verdad?
 Sería más fácil#para ambos.
 ¿De dónde vienes?
-No hay#entradas#accesibles...
-Todo lo que sé es#que de alguna manera...#me encontraste.
+No hay entradas#accesibles...
+Todo lo que sé es que#de alguna manera...#me encontraste.
 Siento poner las#cosas difíciles, pero#esta vez no me voy#a acobardar..
 Los otros monstruos...#¿Los molestaste#también?
-No es que me importe#mucho seguir su#actividad...
+No es que me importe#mucho saber que#hacen...
 Esta región de las#Ruinas es mi hogar.
-Y mi casa tiene reglas.#Los residentes#lo entienden.
+Y mi casa tiene#reglas.#Los residentes lo#entienden.
 Pero parece que#nunca recibiste el#memorándum.
-Eso, o estás#ignorando mis#deseos a#propósito.
-¿A qué viene#esa cara de#tristeza?
+Eso, o estás#ignorando mis#deseos a propósito.
+¿A qué viene esa#cara de tristeza?
 ¿No lo entiendes?#¿No te acuerdas de mí?
 Sé que no eres#un fantasma pero...
-Podría ser que...#No, no es#posible.
+Podría ser que...#No, no es posible.
 Pareces tan#indefenso. Diferente.
-¿Pero es una#excusa?
+¿Acaso será una#excusa?
 No... No estás#tratando de hacerme#daño...
 Tú... No eres#quien yo creía que#eras, ¿verdad?
 ...¿Cómo he podido#ser tan tonto?
 Me disculpo.#De verdad que sí.
-Esto se me#fue de las manos...
-Yo... No sé#cómo hacer#las cosas ahora...
+Esto se me fue de#las manos...
+Yo... No sé como#hacer las cosas#ahora...
 Temía que esto#ocurriera.#Qué mala suerte.
 Sabes, a pesar de#tus pensamientos...
 Los monstruos#no son malos.
@@ -23531,13 +23531,13 @@ Le dije que no lo#volviera a hacer...
 Eran lo más parecido#a amigos que#había tenido...
 Y ahora...
 ¿Quieres que...#te... estreche#la mano?
-¿Incluso después#de que te#atacara sin razón?
-Pero eso es...#un signo#de amistad...
+¿Incluso después#de que te atacara#sin razón?
+Pero eso es...#una señal de#amistad...
 Eres humano,#¿verdad?#¿Es lo mismo de#donde vienes?
 No estoy seguro...#Nunca esperé#encontrarme con#otro humano.
-Y mucho menos#hacerme amigo#de ellos...
+Y mucho menos#hacerme amigo de#aquel...
 ¡No me#malinterpretes!#¡Me encantaría#tener un amigo!
-...quiero decir. No#recuerdo lo que#implicaba...
+...quiero decir. No#recuerdo lo que#implicaba tenerlo...
 Supongo que lo#intentaré.
 move_speed_increase
 distance_create
@@ -25344,7 +25344,7 @@ Check 3
 * Wow... Must've been#  awesome to have him as a#  dad.
 orbit_direction
 orbit_speed
-* Dulce silencio...#* You earned 
+* Dulce silencio...#* Obtuviste 
 * ¡GANASTE!#* Obtuviste 0 XP y 0 de oro.
 enemy_dead_count
 geno_count
