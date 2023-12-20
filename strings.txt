@@ -3530,7 +3530,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_1
 * Martlet busca su#  guía de primeros#  auxilios.
 * Martlet marca el paso.
 * Martlet mira paranoicamente#  a su alrededor.
-* Dunebud se está poniendo nervioso.
+* Dunebud se está poniendo#  nervioso.
 * Cactony mira fijamente tu alma.
 * Sir Slither perdio el acceso#  a su cuenta bancaria. Se#  pregunta si puedes prestar la tuya.
 * Bowll observa un objeto rojo#  pero lucha contra la tentación#  de correr hacia él.
@@ -9085,16 +9085,16 @@ brokebridge
 * (Algunas cajas pesadas#  reposan en la tierra.)	
 * (Parece que llevan#  aquí mucho tiempo.)
 * (Algunas cajas.)
-* The West Mines.
+* Las West Mines.
 * Propiedad de Mining Co.
 layer_current
-* ALERT!#  WARNING SIGN AHEAD!
-* WARNING!#  DANGER SIGN AHEAD!
-* DANGER!#  SANDSTORM AHEAD!#  TAKE COVER!
+* ¡ALERTA!#  ¡SEÑAL DE ADVERTENCIA!
+* ADVERTENCIA#  ¡SEÑAL DE PELIGRO!
+* ¡PELIGRO!#  ¡TORMENTA DE ARENA!#  ¡CÚBRANSE!
 storm_x_start
 storm_y_start
-* (The paint is still wet.)
-* (Doggy.....)
+* (La pintura está#  aún húmeda.)
+* (Perrito.....)
 * (A heap of fallen rocks block#  your path.)
 * (What an inconvenience.)
 * (A set of cubbies dividing the#  miners' personal belongings.)
@@ -9116,150 +9116,150 @@ bottom-left
 rotation
 top-left
 bottom-right
-* (A well-crafted, steel mine#  cart.)
-* (A set of mostly empty#  cubbies.)
-* (Nothing too interesting.)
-* CAUTION! FALLING ROCKS!
-* (This cactus does not need#  love.)
-* (A plain cactus.)
-* It has been - 002 - days#  without a workplace accident!
-* It has been - 000 - days#  without a workplace accident.
-* (You notice the UGPS logo on#  the crates.)
-* (It appears they can handle#  more than letters.)
-* (A crate.)
-* (A rusty conveyor belt carrying#  various gems and stones.)
-* (You hear gooey noises coming#  from the crates.)
-* (The crate only contains a few#  peanuts.)
-* (Nothing useful.)
-* (The second ground-encased mine#  cart you've seen today.)
-* (What luck!)
+* (Un carro de mina#  de acero bien#  hecho.)
+* (Un conjunto de#  cubículos casi vacíos.)
+* (Nada demasiado interesante.)
+* ¡CUIDADO! ¡CAEN ROCAS!
+* (Este cactus no necesita#  amor.)
+* (Un cactus sencillo.)
+* ¡Han pasado - 002 - días#  sin accidentes laborales!
+* Han pasado - 000 - días#  sin accidentes laborales.
+* (Observas el logotipo#  de SPSS en las cajas.)
+* (Parece que pueden con#  más que las cartas.)
+* (Un cajón.)
+* (Una cinta transportadora# oxidada que transporta#  varias gemas y piedras.)
+* (Se oyen ruidos#  pegajosos de las cajas.)
+* (La caja sólo contiene#  unos cuantos cacahuetes.)
+* (Nada útil.)
+* (El segundo carro#  minero de tierra que#  has visto hoy.)
+* (¡Qué suerte!)
 vertical
-* To the mountaintop.
-* (Cool shades recommended.)
+* A la cima de la montaña.
+* (Se recomienda usar#  tonos fríos.)
 elevator_next_room
-* (A classic Rock-Dropper 900.)
-* (Technology is amazing...)
-* (A large boulder machine.)
-* (You wonder how you turn it#  back on.)
-* (A piece of paper is stapled#  to the machine.)
-* "Built to order by Hotland#  Mechanics."
-* "Signature of Ownership:#  "North Star."
-* ATTENTION!#  Gift shop ahead!
-* Pinch-Pinch~ hehe.
+* (Un Rock-Dropper 900#  clásico.)
+* (La tecnología es#  asombrosa...)
+* (Una máquina de#  grandes rocas.)
+* (Te preguntas cómo#  lo vuelves a encender.)
+* (Se grapa un trozo#  de papel a la máquina.)
+* "Construido a medida por Hotland Mechanics."
+* "Firma del propietario:#  "North Star.""
+* ¡ATENCIÓN!# ¡Tienda de regalos#  adelante!
+* Pinch-Pinch~ jeje.
 self_message
-* Beware of my pincers,#  traveler!
-* I do not have any treasure#  hidden within my shell.
-* Why do monsters keep asking me#  that?
-* We are not caged within these#  fences, traveler.
-* It is a choice.
-* It is nice to live in a#  familiar place with the pack.
-* It is also nice to be fed and#  taken pictures of.
-* (Your reflection sparkles and#  distorts in the pool of water.)
-* (You notice a high-tech#  filtration system keeping it#  drinkable.)
-* (Locked.)
-* (A large, ornate gate.)	
-* (Unfortunately, it's locked.)
-* (A painting of a location#  you've already seen.)
-* (Above the table is a painting#  of a large swelterstone.)
-* (It's almost as if the heat#  leaps right off of the canvas.)
-* The Dunes wishing well.
-* Hold a G close to your chest,#  think of what you want most,#  and toss it in!
-* You never know. If enough#  monsters wish for something, it#  may come true!
-* Out of order - Please stop#  feeding it money.
-* (A child's drawing depicting#  three happy monsters.)	
-* My precious family - by me :)
-* (It's grounded. How#  disappointing.)
-* (The window is much too dusty#  to see through.)
-* (A dirty window.)
-* (There is nothing of note#  inside.)
-* (You peer through the#  window...)
-* (You see a monster putting#  random liquids in several#  syringes.)
-* (You peer through the window...)
-* (You see the doctor using a#  defibrillator to wake a monster#  up.)
-* (You see a monster#  color-coordinating their#  pills.)
-* (You see the doctor cowering#  in a corner as another monster#  eats an apple.)
-* (You see the doctor holding a#  buzzsaw... He's making a new#  bed.)
-* (You see several monsters on#  their way to full health.)
-* (A tall structure carrying#  mostly purified water.)
-* (It's good to stay hydrated!)
-* (A box of bottles.)
-* (Dozens of unopened bottles#  sit within the boxes.)	
-* (You can't take one without#  making a ruckus.)
-* (The stage.)
-* (A stage ready for#  performance.)
-* (Too bad there aren't any gigs#  today.)
-* (What a lonely box.)
-* (A box.)
-* (A place to sleep.)
-* (There's a hole in the floor.#  How comfy!)
-* (A firm sleeping bag sits#  in the corner, threatening#  to restrict free sleepers.)
-* (Weird... You haven't seen#  any cats around.)
-* (Mooch's throne.)
-* (You push the hammock.#  Its sway is hypnotizing.)
-* (A couch not unfit for a#  thrift store.)
-* (These cramped living#  conditions are bringing back#  unpleasant memories.)
-* (A surprisingly clean#  kitchen. Impressive.)
-* (This house is a wreck.)
-* (A couple black rectangles.)
-* (A few videotapes with custom#  labels stuck on them.)
-* "My favorite movie :)"
-* "My second favorite movie :)"
-* "Don't watch this one 0/10 :("
-* (Bullseye.)
-* (A target with darts of#  various shapes and sizes suck#  into it.)
-* (Some kind of berry-plant. You#  notice a few berries are#  missing.)
-* (You press on the mattress and#  watch your hand get swallowed#  by the memory foam.)
-* (So soft!)
-* (There are no hay puns#  to be made here.)
+* ¡Cuidado con mis pinzas,#  viajero!
+* No tengo ningún tesoro#  escondido dentro de#  mi caparazón.
+* ¿Por qué los monstruos#  siguen preguntándome eso?
+* No estamos enjaulados#  dentro de estas vallas,#  viajero.
+* Es una elección.
+* Es agradable vivir en#  un lugar familiar con#  la manada.
+* También es agradable#  que le den de comer y#  le hagan fotos.
+* (Tu reflejo brilla y#  se distorsiona en el charco#  de agua.)
+* (Se nota un sistema de#  filtración de alta tecnología#  que lo mantiene potable.)
+* (Bloqueado.)
+* (Una puerta grande#  y adornada.)	
+* (Por desgracia,#  está cerrado.)
+* (Un cuadro de un lugar#  que ya has visto.)
+* (Encima de la mesa#  hay un cuadro de un#  gran swelterstone.)
+* (Es casi como#  si el calor saltara#  del lienzo.)
+* El pozo de los#  deseos de las Dunas.
+* Sujeta una G contra#  tu pecho, piensa en lo#  que más quieres y ¡lánzala!
+* Nunca se sabe. Si#  suficientes monstruos desean#  algo, puede que se haga.
+* Fuera de servicio#  - Por favor, deje#  de darle dinero.
+* (Un dibujo infantil#  que representa#  a tres monstruos felices.)	
+* Mi preciosa familia#  - por mí :)
+* (Está castigado.#  Qué decepción.)
+* (La ventana está#  demasiada sucia para ver#  a través de ella.)
+* (Una ventana sucia.)
+* (No hay nada importante#  en el interior.)
+* (Te asomas por la#  ventana...)
+* (Ves a un monstruo poniendo # líquidos aleatorios en varias#  jeringuillas.)
+* (Miras por la ventana...)
+* (Ves al doctor usando un#  desfibrilador para#  despertar un monstruo.)
+* (Ves a un monstruo#  coordinando los colores#  de sus pastillas.)
+* (Se ve al doctor acobardado#  en un rincón mientras#  otro se come una manzana.)
+* (Ves al doctor sosteniendo#  una sierra... Está haciendo#  una cama nueva.)
+* (Ves a varios monstruos#  en su camino a la#  salud completa.)
+* (Una estructura alta que#  transporta agua purificada#  en su mayor parte.)
+* (¡Es bueno mantenerse#  hidratado!)
+* (Una caja de botellas.)
+* (En las cajas hay#  decenas de botellas sin#  abrir.)	
+* (No se puede coger#  uno sin# armar un escandalo.)
+* (El escenario.)
+* (Un escenario listo para#  actuar.)
+* (Lástima que hoy no#  haya conciertos.)
+* (Qué caja más solitaria.)
+* (Una caja.)
+* (Un lugar donde dormir.)
+* (Hay un agujero en el#  suelo. ¡Qué cómodo!)
+* (En un rincón hay un saco de#  dormir que amenaza con restringir#  a quienes duermen libremente.)
+* (Raro... No has#  visto ningún gato por aquí.)
+* (El trono de Mooch.)
+* (Empujas la hamaca.#  Su balanceo es#  hipnotizante.)
+* (Un sofá no impropio de una#  tienda de segunda mano.)
+* (Estas condiciones de#  alojamiento traen recuerdos#  desagradables.)
+* (Una cocina#  sorprendentemente limpia.#  Impresionante.)
+* (Esta casa es una ruina.)
+* (Un par de rectángulos#  negros.)
+* (Algunas cintas de#  vídeo con etiquetas#  personalizadas.)
+* "Mi película favorita :)"
+* "Mi segunda película#  favorita :)"
+* "No veas este 0/10 :("
+* (Una Diana.)
+* (Una diana con dardos de#  diversas formas y tamaños#  aspiran en ella.)
+* (Algún tipo de planta de#  bayas. Notas que#  faltan algunas bayas.)
+* (Presionas el colchón y ves#  cómo la espuma viscoelástica#  se traga tu mano.)
+* (¡Qué suave!)
+* (Aquí no hay juegos#  de palabras.)
 * (Hay.)
-* (A couple boxes.)
-* (The boxes seem to#  be full of oats and#  carrots.)
-* (It all looks highly inedible.)
-* (A grimey dresser.)
-* (Several odd smells seep#  from the dresser.)
-* (You decide not to inspect#  it further.)
-* (A closet.)
-* (A closet with some cleaning#  supplies inside.)
-* (They all look brand new.)
-* (You don't know what you're#  looking at, but it's probably#  dangerous.)
-* (A dresser.)
-* (The drawers are filled with#  clean...ish sheets and#  pillowcases.)
-* (An unfinished game of#  "Go Fish" lies on the table.)
-* (Guess they followed through.)
-* (A dilapidated building.)
-* (A fancy but dilapidated#  building.)
-* (This confuses you.)
-* (Two boxes of rubber pellets#  sit on the desk.)	
-* (Best leave them for someone#  who needs them.)
-* (Just some rubber pellets.)
-* Got junk?
-* Sell it right here at#  Blackjack's!
-* Today's Special: Fancy Holster#  (great for defense!)
-* (A dusty coat rack.)
-* (A dirty hat similar to#  Starlo's rests on the rack.)	
-* (Always good to have a#  backup!)
-* (The stove is still warm.)
-* (The stove is oddly#  high-tech.)
-* (You feel a slight heat over#  its surface.)
-* (An old couch.)
-* (You check in-between the#  cushions for loose change.)	
-* (All you find are crumbs and#  corn kernels.)
-* (The fireplace is riddled with#  cobwebs. Regular cobwebs.)
-* (An unused fireplace.)
-* (A painting of a lush valley#  surrounded by mountains.)
-* (A painting of an unfamiliar#  place.)
-* (Nothing special. Just a#  lamp.)
-* (A lamp.)
+* (Un par de cajas.)
+* (Las cajas parecen estar#  llenas de avena#  y zanahorias.)
+* (Todo parece altamente#  incomestible.)
+* (Un tocador mugriento.)
+* (Varios olores extraños#  se filtran desde#  el tocador.)
+* (Decides no#  inspeccionarlo más.)
+* (Un armario.)
+* (Un armario con artículos#  de limpieza dentro.)
+* (Todos parecen nuevos.)
+* (No sabes lo que estás#  mirando, pero probablemente#  sea peligroso).
+* (Un tocador.)
+* (Los cajones están llenos#  de sábanas y fundas de#  almohada limpias.)
+* (Una partida inacabada de#  "Go Fish" está sobre la mesa.)
+* (Supongo que siguieron#  adelante.)
+* (Un edificio en ruinas.)
+* (Un edificio lujoso#  pero en ruinas.)
+* (Esto te confunde.)
+* (Sobre el escritorio#  hay dos cajas de bolas#  de goma.)	
+* (Mejor déjaselos#  a alguien que los#  necesite.)
+* (Sólo unas bolitas de#  goma.)
+* ¿Tienes basura?
+* ¡Véndelo aquí mismo en#  el Blackjack!
+* Especial de hoy:#  Fancy Holster (¡genial#  para defensa!)
+* (Un perchero#  polvoriento.)
+* (Un sombrero sucio similar#  al de Starlo descansa en#  el perchero.)	
+* (¡Siempre es bueno tener#  un respaldo!)
+* (La estufa aún está#  caliente.)
+* (La estufa es extrañamente#  alta tecnología.)
+* (Sientes un ligero calor#  sobre su superficie.)
+* (Un viejo sofá.)
+* (Buscas dinero suelto#  entre los cojines.)	
+* (Todo lo que encuentras#  son migas y granos#  de maíz.)
+* (La chimenea está plagada#  de telarañas. Telarañas#  normales.)
+* (Una chimenea sin usar.)
+* (Un cuadro de un#  hermoso valle rodeado#  de montañas.)
+* (Un cuadro de un#  lugar desconocido.)
+* (Nada especial.#  Sólo una lámpara.)
+* (Una lámpara.)
 shadow
 conveyor_belts_off
 tv_off
-* (The door is jammed shut.)
-* (Old machines.)
-* (The smell of the old,#  unwashed clothes makes you feel#  queasy.)
-* (Discarded clothes.)
-* (A pair of cargo jeans is#  stuck to the table. It's been#  there a while.)
-* (You peer inside the#  chamber...)	
-* (It's far too dark to make#  anything out.)
+* (La puerta está#  atascada).
+* (Máquinas antiguas.)
+* (El olor de la ropa vieja,#  sin lavar te hace#  sentir mareado.)
+* (Ropa desechada.)
+* (Un par de vaqueros cargo#  están pegados a la mesa.#  Lleva ahí un rato.)
+* (Miras dentro de#  la cámara...)	
+* (Está demasiado oscuro#  para distinguir algo.)
 steam_interval
 steam_delay
 new_dir
@@ -18645,14 +18645,14 @@ spikes
 weakpoint_position
 spike_spawn
 vine_pause
-* (There are some Packing Peanuts#  in the box.)
-* (Will you take them?)
-* (You got Packing Peanuts!)
-* (You got Packing Peanuts.)
-* (There is nothing here of#  conceivable use to you.)
-* (You spot a dark, dislodged#  stone among this pile of#  rocks.)
-* (You got some flint!)
-* (It's just a rock now.)
+* (Hay algunos Packing#  Peanuts en la caja.)
+* (¿Te los llevarás?)
+* (¡Obtuviste un Packing Peanuts!)
+* (Obtuviste un Packing Peanuts.)
+* (No hay nada aquí de#  utilidad concebible para#  tí.)
+* (Ves una piedra oscura y#  desprendida entre este#  montón de# rocas.)
+* (¡Tienes algo de#  pedernal!)
+* (Ahora es sólo una roca.)
 storm_alpha
 storm_alpha_current
 storm_delay
@@ -18669,31 +18669,31 @@ x_goal
 in_safezone
 sandstorm_sound
 fadein_time
-* I'm not up to anything#  suspicious, okay?
-* There is no treasure behind#  this wall, okay?
-* Don't rat me out, okay?
-* This is my TNT, okay?
-* I didn't steal it from my#  brother at the mines, okay?
-* This X was here before I#  arrived, okay?
-* I'm just waiting out the storm,#  okay?
-* Get off my case......
-* please.
-* I can't standstorm this#  sandstorm.
-* I couldn't standstorm that#  sandstorm.
-* I entered this cave to find#  treasure but I found these#  fellas instead.	
-* They hopped up to me and#  now... I guess we're buddies?	
-* Is that how that works???	
-* In any case, nice.
-* If there's any treasure#  around, you can have it.	
-* I think these funky frogs are#  all I need now.	
-* Oh, and my brother, I guess.#  He's okay.
-* Sometimes, happiness is just a#  couple of pals chilling in a#  cave.	
-* Other times, it's more#  complicated.	
-* Mine is definitely the former#  cause I can't even spell the#  word complicated! 
-* On your way out, say hi to my#  brother for me, eh?
+* No estoy haciendo nada#  sospechoso, ¿vale?
+* No hay ningún tesoro#  detrás de este muro,#  ¿vale?
+* No me delates, ¿vale?
+* Esta es mi TNT, ¿vale?
+* No se lo robé a mi#  hermano de las minas,#  ¿vale?
+* Esta X estaba aquí#  antes de que yo llegara,# ¿vale?
+* Sólo estoy esperando#  a que pase la tormenta,#  ¿vale?
+* Sal de mi caso......
+* por favor.
+* No soporto esta tormenta#  de arena.
+* No podría soportar#  esa tormenta de arena.
+* Entré en esta cueva para#  encontrar un tesoro, pero en#  su lugar encontré a estos tipos.	
+* Saltaron hacia mí y#  ahora... ¿Supongo que#  somos amigos?	
+* ¿Es así como funciona?	
+* En cualquier caso, bien.
+* Si hay algún tesoro3  por ahí, puedes quedártelo.	
+* Creo que estas ranas#  funky son todo lo#  que necesito ahora.
+* Oh, y mi hermano, creo. Que está bien.
+* A veces, la felicidad es#  sólo un par de amigos#  relajándose en una cueva.	
+* Otras veces, es más#  complicado.	
+* ¡Me identifico más con la#  opción anterior porque no#  puedo deletrear "complicado"!
+* Cuando salgas,#  saluda a mi hermano#  de mi parte.
 mf_sound
-* (A beautiful, delicious-looking#  Golden Cactus catches your eye.)
-* (You got the Golden#  Cactus!)
+* (Un hermoso Golden Cactus#  de aspecto delicioso#  te descubre.)
+* (¡Has conseguido#  el Golden Cactus!)
 shifting_tiles
 shifting_bridge
 shifting_bridge_2
@@ -18813,21 +18813,21 @@ y_override
 starlo_overlay_white
 starlo_overlay_black
 starlo_overlay_off
-* (Turn it off?)
-* Built to order by Hotland#  Mechanics.
-* Super Seal of Hotland Quality:
-* (The seal is drawn in permanent#  marker.)
-* (It's probably better to#  leave it turned off.)
-* Aa-aa-aa-hh-hh-hh!
-* So... hot...
-* Bro, what's your damage?
-* Can't a monster cool off every#  now and then?
-* You're such a killjoy, bro.
-* Sorry, I guess.
-* I get cranky when I don't get#  my fan time.
-* I like, found it here so I#  decided to put it to use.
-* I should move to Waterfall,#  bro.
-* Much cooler.
+* (¿Apagarlo?)
+* Construido a medida#  por Hotland Mechanics.
+* Súper Sello#  de Calidad Hotland:
+* (El sello está dibujado#  con marcador permanente.)
+* (Probablemente sea mejor#  dejarla apagada.)
+* ¡Aa-aa-aa-hh-hh-hh!
+* Tan... caliente...
+* Hermano,#  ¿quién te hizo daño?
+* ¿No puede un monstruo#  refrescarse de vez en#  cuando?
+* Eres un aguafiestas, hermano.
+* Lo siento, supongo.
+* Me pongo de mal humor#  cuando no consigo mi#  tiempo de ventilador.
+* Me gusta, lo encontré#  aquí así que decidí#  ponerlo en práctica.
+* Debería mudarme a#  Waterfall, hermano.
+* Mucho mejor.
 view_object_original
 x_orig
 y_orig
