@@ -953,9 +953,9 @@ rm_newhome_03
 Ruinas Oscuras - Entrada
 saveroom
 Ruinas Oscuras - Atrio
-Ruinas Oscuras - Acantilado
+Ruinas Oscuras - Abismo
 Ruinas Oscuras - Puzzle
-Ruinas Oscuras - Vestíbulo
+Ruinas Oscuras - Salón
 Snowdin - Delta Rock
 Snowdin - Ruined Shack
 Snowdin - Pathway
@@ -1853,8 +1853,8 @@ Matches
 Snowdin Map
 Videotape
 H. Acid
-* (You drink the Lemonade.)
-* (It's very sour.)
+* (Bebes la limonada.)
+* (Está muy ácida.)
 * (You eat the Candy Corn.)
 * (You now know why it was#  discarded.)
 * (You eat the Golden Pear.)
@@ -1976,8 +1976,8 @@ H. Acid
 * (You can't think of a use for#  this.)
 msg_number
 * Healed 
- HP!
-* HP maxed out.
+ PV!
+* PV al máximo.
 * You gained 
  PP!
 * PP maxed out.
@@ -2389,7 +2389,7 @@ gml_Script_scr_save_flowey_snowdin
 * Supongo que te#  atacaron primero.
 * No puedes meterte#  en problemas por#  defensa propia.
 * Me pareció ver algo de#  polvo por ahí.
-* Podría haber sido sólo#  la nieve.
+* Podría haber sido solo#  la nieve.
 * Al menos, eso es#  lo que pensarían#  los demás.
 * ¡Wow, chico!#  ¡Hablas en serio!
 * ¿Qué es eso?#  ¿Quince?#  ¿Dieciséis?
@@ -2412,7 +2412,7 @@ gml_Script_scr_save_flowey_snowdin
 * ¿Por qué pierdes#  el tiempo aquí?
 * ¿Te asusta la#  nueva zona?
 * ¡Vamos, puedes hacerlo!#  ¡Dudo que siquiera#  necesites un guardado!
-* Es sólo nieve, hielo,#  monstruos, y posible#  riesgo de congelación.
+* Es solo nieve, hielo,#  monstruos, y posible#  riesgo de congelación.
 * ¡Nada de eso, amigo!#  ¡Ahora sal ahí fuera!
 * Cuanto más tiempo#  estés hablando conmigo,
 * Cuanto mayor sea ese#  riesgo de congelación.
@@ -2467,7 +2467,7 @@ col_modif
 ##     ASGORE
 message_col
 * Realmente tienes#  pasión ahí.
-* Sólo quedan 
+* Solo quedan 
 gml_Script_scr_determine_world_value_yellow
  de los#  monstruos sin contar#  al bicho raro.
 * ¡Buena suerte, amigo!
@@ -2493,32 +2493,32 @@ gml_Script_scr_determine_world_value_yellow
 * ¡Soy el único amigo #  que necesitarás!
 * ¿Toriel te ayuda a#  guardar?#* ¡NO!
 * ¡Asi que salgamos#  de aquí mientras#  seamos jóvenes!
-* ¡Veo que sigues#  en una pieza!
+* ¡Veo que sigues en#  una pieza!
 * Viste a ese bicho#  raro ¿verdad?
 * Si quieres salir de#  aquí tendras que#  pasar por él.
-* Aunque no deberia#  ser un problema.
+* Aunque no deberia ser#  un problema.
 * Y si lo fuera,#  ¡Yo estoy aquí!
 * ¿Otra vez?
-* Vale, ¡estas doblemente#  guardando!
+* Vale, ¡estás doblemente#  guardando!
 * ¿En serio?
-* ¿Cuantos guardados #  necesitas?
+* ¿Cuántos guardados #  necesitas?
 * Caramba, ¡Este sitio#  está muerto!
-* Todos los monstruos#  están quietos y#  al acecho.
-* ¡Eso no es propio#  de los monstruos!
-* No dejes que esto#  arruine tu impresión#  del Subsuelo!
+* Todos los monstruos#  están al acecho.
+* ¡Eso no es propio de#  los monstruos!
+* No dejes que eso#  arruine tu impresión#  del Subsuelo!
 * ¡Pronto dejaremos#  este basurero!
-* Ya guardaste,#  ¡Vamonos!
+* Ya guardaste,#  ¡Vámonos!
 * ¡Parece que lo estás#  haciendo bien!
 * ¡Solo 
  muertes!#* ¡Experto en el#  Dark Souls!
 * ¡Solo 1 muerte!
-* ¡No has muerto#  ni una vez!
-* No es que pensara#  que lo harias, ¡pero#  está bien estar listo!
+* ¡No has muerto ni#  una vez!
+* No es que pensara#  que morirías, ¡pero#  está bien estar listo!
 * ¿Viste? ¿¡No te alegra#  tenerme cerca!?
 * ¡Es genial ser un#  amigo necesario!
 * ¿Qué? No estás contento#  con tu cuenta de muertes?
 * ¿Nunca escuchaste la#  frase: No le dispares#  al mensajero?
-* ¡Vamonos, amigo!
+* ¡Vámonos, amigo!
 * ¡Puedes guardar#  después!
 * ¡Ya falta menos!
 * ¡Solo tienes que#  lidiar con ese bicho!
@@ -2526,12 +2526,12 @@ gml_Script_scr_determine_world_value_yellow
 * ¡Nos vemos en el#  otro lado, amigo!
 * ¿Qué?
 * ¿Te asusta ese#  tipo pesimista?
-* Mira, ¡solo tienes que#  abrir un camino#  a través de él!
+* Mira, ¡solo tienes que#  pasar encima de#  él!
 * ¡Caerá facilmente!
 * Y por si no te#  diste cuenta...
-* ¡No se le echara#  de menos!
+* ¡No se le echará#  de menos!
 * ¡Así que vamos por él!
-* ¡Vamos, niño!#* ¡Demuéstrale quién manda!
+* ¡Vamos, niño!#* ¡Demuéstrale quién#  manda!
 * Bueno, es todo.
 * Vaya, qué comienzo#  de aventura.
 * No esperaba esto,#  pero es su#  elección.
@@ -3302,16 +3302,16 @@ scr_battle_core_directory_no_attack
 * Ms. Mettaton EX makes her grand#  debut!
 * ¡Froggit saltó cerca!
 * ¡Flier está intentando luchar!
-* You are overwhelmed by#  depressing vibes.
+* Estás abrumado por las#  vibras depresivas.
 * Penilla se acerca dibujando!
-* Penilla seems to be dreading#  this battle.
-* Sweet Corn hops up excitedly.
-* You can already feel the#  cavities.
-* Penilla encounters you.#* Sweet Corn comes out of nowhere#  acting excited.
-* Crispy Scroll is looking for#  someone to talk to.
+* Penilla le tiene temor#  a esta batalla.
+* Sweet Corn saltá emocionado.
+* Ya puedes sentir las caries.
+* Penilla te encuentra.#* Sweet Corn aparece de la#  nada con emoción.
+* Crispy Scroll está buscando#  con quien hablar.
 * A powerful lone warrior and his#  pencil companion encounter you!
-* Rorrim encounters you!
-* Decibat hace notar#  su presencia.
+* Rorrim te encuentra!
+* Decibat hace notar su#  presencia.
 * Dalv reúne su espiritu de lucha.
 * You notice Micro Froggit#  attacking you!
 * Insomnitot staggers forward.
@@ -3360,15 +3360,15 @@ gml_Script_scr_battle_core_directory_flavor_text_check
 scr_battle_core_directory_flavor_text_check
 * Parece que hablarle a Craniex#  lo hace ser más amigable#  hacia ti.
 * Haz mejorado el día#  de Crispy Scroll.
-* Crispy Scroll no se cree#  que eso acaba de #  ocurrir.
+* Crispy Scroll no cree lo#  que acaba de ocurrir.
 * Trihecta comienza a menearse#  hacia atrás y delante.
 * Trihecta se balancea.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_action_1
 scr_battle_core_directory_flavor_text_enemy_1_action_1
 * A Craniex no le hace#  gracia tus insultos.
 * ¡El poder de Crispy Scroll#  es sorprendente!
-* ¡Crispy Scroll llegó al 100%! ¡¡Ha#  alcanzado Modo Super Crispy 2K!!
-* Crispy Scroll está mejorado al 50%.
+* ¡Crispy Scroll llegó al 100%!#  ¡¡Ha alcanzado Modo#  Super Crispy 2K!!
+* Crispy Scroll está mejorado al#  50%.
 * Micro Froggit está intentando#  irse saltando.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_action_2
 scr_battle_core_directory_flavor_text_enemy_1_action_2
@@ -3378,12 +3378,12 @@ scr_battle_core_directory_flavor_text_enemy_1_action_2
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_action_3
 scr_battle_core_directory_flavor_text_enemy_1_action_3
 * It seems that Ms. Mettaton is#  getting bored of you.
-* Sweet Corn jumps up and down in#  celebration.
+* Sweet Corn salta de arriba a#  abajo en celebración.
 * Decibat tiembla de rabia.
 * Decibat rechina los dientes#  con rabia y se estremece#  por el alborto que causo.
 * Decibat no puede escuchar#  sus pensamientos.
 * Decibat está perdiendo la#  paciencia contigo.
-* Decibat mueve sus grandes orejas.
+* Decibat mueve sus grandes#  orejas.
 * Decibat se está#  duermiendo.
 * Decibat disfruta del silencio.
 * Decibat te hace un gesto de#  aprobación.
@@ -3439,7 +3439,7 @@ gml_Script_scr_battle_core_directory_flavor_text_enemy_1_low_hp_1
 scr_battle_core_directory_flavor_text_enemy_1_low_hp_1
 * Flier seems to have several#  regrets.
 * Penilla tries to bite the#  bullet.
-* Sweet Corn is trying to stay#  positive.
+* Sweet Corn intenta mantenerse#  positiva.
 * Crispy Scroll is trying to#  teleport away.
 * Rorrim regrets approaching you.
 * Insomnitot is drifting in and#  out of consciousness.
@@ -3470,7 +3470,7 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * Penilla is drawing a practice#  sketch of you.
 * It smells like burning candle#  wax.
 * Crispy Scroll is asking if he#  can get a picture with you.
-* You are momentarily blinded by#  Rorrim's dazzling shine.
+* Quedas cegado momentaneamente#  por el deslumbrante#  brillo de Rorrim.
 * Decibat is not enjoying the#  music.
 * Dalv parece temer su próximo#  ataque.
 * A gentle breeze causes#  Micro Froggit to lose its#  balance.
@@ -3522,7 +3522,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_1
 * Captas un leve olor#  a semilla de mostaza.
 * El olor a patatas fritas#  pasa a tu lado.
 * Know Cone empieza a hacer#  un baile primitivo.
-* El iglú se eleva sobre ti#  amenazadoramente.#* Es broma. Es sólo un iglú.
+* El iglú se eleva sobre ti#  amenazadoramente.#* Es broma. Es solo un iglú.
 * Frostermit está saliendo#  un poco de su caparazón.
 * Trihecta parece estar#  presionando los botones#  de otro.
 * Tri se preocupa por los golpes#  y de los moretones#  de los demas.
@@ -3615,7 +3615,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * Your ears are ringing from the#  chatter.
 * Sweet Corn makes her signature#  squeaky toy noise.
 * Crispy Scroll is talking in#  circles.
-* Rorrim is looking around.
+* Rorrim mira alrededor.
 * Dalv parece estar en conflicto#  con su lado más humano.
 * If you squint, Micro Froggit#  looks happy.
 * Insomnitot is trying to shake#  the sleepiness away.
@@ -3766,10 +3766,10 @@ scr_battle_core_directory_flavor_text_enemy_1_default_9
 * Ms. Mettaton is totally sparing you!
 * Flier está listo para volver a#  su vida regular.
 * Penilla está recogiendo sus#  utensilios de arte para hoy.
-* Sweet Corn is smiling#  contentedly.
+* Sweet Corn sonríe#  contentamente.
 * Crispy Mode 2k!!
-* Rorrim is looking for his next#  big project.
-* Decibat está listo para volver a#  dormir.
+* Rorrim está en búsqueda#  de su siguiente gran#  proyecto.
+* Decibat está listo para volver#  a dormir.
 * Dalv ha perdido toda esperanza.
 * Micro Froggit is waving goodbye.
 * Insomnitot is smiling at its#  dream.
@@ -3795,10 +3795,10 @@ scr_battle_core_directory_flavor_text_enemy_1_sparing_1
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_sparing_2
 scr_battle_core_directory_flavor_text_enemy_1_sparing_2
 enemy_mode_3
-* The Fliers aren't having a#  mid-life crisis, they're having#  an end-life crisis.
-* Flier is desperately looking#  for a new friend.
-* Sweet Corn is oblivious to her#  surroundings.
-* Sweet Corn didn't notice your#  action.
+* Los Fliers no están teniendo#  media crisis existencial, están#  teniendo una completa crisis.
+* Flier busca a un nuevo#  amigo desesperadamente.
+* Sweet Corn no es consciente de#  sus alrededores.
+* Sweet Corn no notó tu#  acción.
 * Crispy Scroll now has a tragic#  backstory.
 * Insomnitot is too tired to find#  the right words to honor its#  fallen friend.
 * Know Cone stomps the ground in#  a fit of rage.
@@ -4022,9 +4022,9 @@ action_2_color_3
 * Ogle
 * Amenazar
 * Distraer
-* Hug
-* Yell
-* Critique
+* Abrazar
+* Gritar
+* Criticar
 * Apretón de manos
 * Amenazar
 * Lecture
@@ -4056,8 +4056,8 @@ action_3_important_3
 action_3_color_3
 * Joke
 * Envy
-* Gift
-* Judge
+* Regalar
+* Juzgar
 * Ahuyentar
 * Stomp
 * Hypnotize
@@ -4118,13 +4118,13 @@ enemy_low_hp_3
 * PENILLA -- ATQ 
 #* Un personaje incompleto.
 * SWEET CORN -- ATQ 
-#* Constantemente en una carrera de azucar.
+#* Constantemente en un subidón de azúcar.
 * CRISPY SCROLL -- ATQ 
 #* Buscando alguien que pueda ser retador de su entusiasmo.
 * RORRIM -- ATQ 
-#* La expresión de Rorrim#  está en blanco.
+#* La expresión de Rorrim está#  en blanco.
 * DECIBAT -- ATQ 
-#* Extrañando su tranquila soledad.
+#* Extraña su tranquila soledad.
 * DALV -- ATQ 
 #* Quiere que lo dejen solo.
 #* Actuando sombrío.
@@ -4813,7 +4813,7 @@ WARNING NO KILL WORLD/ARENA PRESENT
 scr_determine_world_value_yellow
 player_world_value
 current_world_value
-Dark Ruins
+Ruinas Oscuras
 Lower Snowdin
 gml_Script_scr_determine_world_yellow
 scr_determine_world_yellow
@@ -5057,7 +5057,7 @@ Hot Dog...?
 * Matches
 * Lukewarm Cff
 * Soggy Mitten
-* Lemonade
+* Limonada
 * Candy Corn
 * Corn Dog
 * Sponge Cake
@@ -5247,10 +5247,10 @@ scr_enemy_timer_attacks_flier_trio
 scr_generate_battle_penilla_solo
 scr_recreate_heart_battle_menu_text_penilla_solo
 * Felicitas a Penilla y#  su técnica de sombras.#* Ella está disgustada.
-* Felicitas el trabajo de Penilla.#* Se la nota un poco#  incómoda.
+* Felicitas el trabajo de Penilla.#* Se la nota un poco incómoda.
 scr_dialogue_battle_action_selected_action_1_penilla_a
 * Le dices a Penilla que está#  perdiendo su tiempo.
-* Te paras en medio de#  Penilla y su trabajo.
+* Te paras en medio de Penilla#  y su trabajo.
 scr_dialogue_battle_action_selected_action_2_penilla_a
 scr_dialogue_battle_action_selected_action_1_penilla_b
 scr_dialogue_battle_action_selected_action_2_penilla_b
@@ -5271,16 +5271,16 @@ random_number_2
 scr_enemy_attack_flier_flies_drawing
 scr_generate_battle_sweet_corn_solo
 scr_recreate_heart_battle_menu_text_sweet_corn_solo
-* You walk up and lick Sweet Corn.#* She is creeped out.
-* All you can taste is sugar.
+* Te acercas y lames a Sweet Corn.#* Ella se nota espantada.
+* Todo lo que saboreas es azúcar.
 scr_dialogue_battle_action_selected_action_1_sweet_corn_a
-* You give Sweet Corn a long,#  awkward hug.#* She doesn't like it.
-* You give Sweet Corn a big hug.#* She briefly gets stuck to your#  shirt.
+* Le das un largo e incómodo#  abrazo a Sweet Corn.#* No le ha gustado.
+* Le das un gran abrazo a Sweet Corn.#* Brevemente se atora en tu camiseta.
 scr_dialogue_battle_action_selected_action_2_sweet_corn_a
-* You offer Sweet Corn a gift.
-* You give Sweet Corn your#  Candy Corn.
-* You give Sweet Corn your Corn#  Dog.
-* You can't think of a suitable#  gift.
+* Le ofreces un regalo a Sweet Corn.
+* Le das a Sweet Corn tu#  Candy Corn.
+* Le das a Sweet Corn tu Corn#  Dog.
+* No puedes pensar en un#  regalo para la ocasión.
 scr_dialogue_battle_action_selected_action_3_sweet_corn_a
 scr_dialogue_battle_action_selected_action_1_sweet_corn_b
 scr_dialogue_battle_action_selected_action_2_sweet_corn_b
@@ -5302,17 +5302,17 @@ scr_start_enemy_attacking_sweet_corn_penilla_duo
 scr_enemy_timer_attacks_sweet_corn_penilla_duo
 scr_generate_battle_crispy_scroll_solo
 scr_recreate_heart_battle_menu_text_crispy_scroll_solo
-* You haphazardly jump around#  while waving your arms.
-* Crispy Scroll can't handle the#  excitement and rolls away in a#  daze.
-* You and Crispy Scroll perform a#  magical transformation sequence.
+* Saltas por todos lados#  mientras alzas tus brazos.
+* Crispy Scroll no puede contener#  la emoción y se va#  aturdido.
+* Tu y Crispy Scroll realizan#  una secuenca de transformación#  mágica.
 scr_dialogue_battle_action_selected_action_1_crispy_scroll_a
-* You yell at Crispy Scroll.
-* You join Crispy Scroll in his#  excited yelling.
+* Le gritas a Crispy Scroll.
+* Te unes a Crispy Scroll en#  su griterío de emoción.
 scr_dialogue_battle_action_selected_action_2_crispy_scroll_a
 martlet_body
 scr_generate_battle_martlet_genocide_final_2
-* You mock Crispy's interests.#* He seems very offended.
-* You give Crispy Scroll a#  judgmental look.#* He seems offended.
+* Te burlas de los intereses#  de Crispy Scroll.#* Se ve muy ofendido.
+* Le das una mirada juiciosa#  a Crispy Scroll.#* Se ve ofendido.
 scr_dialogue_battle_action_selected_action_3_crispy_scroll_a
 scr_start_enemy_attacking_crispy_scroll_solo
 gml_Script_scr_enemy_attack_crispy_slash
@@ -5331,16 +5331,16 @@ scr_enemy_timer_attacks_crispy_scroll_penilla_duo
 scr_enemy_attack_crispy_slash_drawing_crispy_scroll
 scr_generate_battle_rorrim_solo
 scr_recreate_heart_battle_menu_text_rorrim_solo
-* You slowly adjust your hat.#* Rorrim seems distraught.
-* You adjust your hat.#* Rorrim seems pleased.
+* Ajustas tu sombrero lentamente.#* Rorrim parece angustiado.
+* Ajustas tu sombrero.#* Rorrim parece satisfecho.
 scr_dialogue_battle_action_selected_action_1_rorrim_a
-* You critique your appearance.#* Rorrim seems disgusted.
-* You critique your appearance.#* Rorrim is very pleased.
-* You critique your outfit.#* Rorrim seems annoyed.
+* Criticas tu apariencia.#* Rorrim parece angustiado.
+* Criticas tu apariencia.#* Rorrim parece satisfecho.
+* Criticas tu ropa.#* Rorrim parece molesto.
 scr_dialogue_battle_action_selected_action_2_rorrim_a
-* You give Rorrim a forced smile.
-* You smile bigger.
-* You give a slight smile.#* Rorrim smiles back.
+* Le das una risa forzada a Rorrim.
+* Sonríes más.
+* Le das una ligera sonrisa.#* Rorrim sonríe de vuelta.
 scr_dialogue_battle_action_selected_action_3_rorrim_a
 scr_start_enemy_attacking_rorrim_solo
 gml_Script_scr_enemy_attack_rorrim_mirror
@@ -5368,7 +5368,7 @@ scr_dialogue_battle_action_selected_action_1_decibat
 scr_dialogue_battle_action_selected_action_2_decibat
 * Te mueves hacia Decibat#* Se posa alegremente#  en tu hombro.
 Action 3 Sparing
-* Gritas y saltas#  tratando de ahuyentar a Decibat.#* No está contento.
+* Gritas y saltas tratando#  de ahuyentar a Decibat.#* No está contento.
 scr_dialogue_battle_action_selected_action_3_decibat
 gml_Script_scr_decibat_sparing
 scr_decibat_sparing
@@ -8949,7 +8949,7 @@ También presiona este#interruptor, por favor! #     -Toriel
 * "Presiona [
 ] para leer#  carteles!"
 * (Este cartel está oculto#  por las hojas.)
-* (Sólo se ven algunas#  palabras.)
+* (Solo se ven algunas#  palabras.)
 * Advertencia... 
 ... Corre...
 ... Camina...
@@ -8976,7 +8976,7 @@ turn
 * No es mucho, pero espero#  que te alegre el día.
 * Siempre alegró la mía.
 * (Parece que hay un dibujo#  de un gato garabateado.)
-* (¿Esto lo convierte#  en una oruga?)
+* (¿Esto lo convierte en#  una oruga?)
 message2
 * (Garabatos.)
 * Amigo:#* No temas a lo desconocido.#* A veces son agradables.
@@ -8988,7 +8988,7 @@ message2
 * Así que no importa, supongo.
 * (Es una antorcha de madera con una# gran llama apoyada en#  la parte superior.)
 * (Una antorcha.)
-* (Está profundamente dormido. #* Tal vez no deberías molestarlo.)
+* (Está profundamente dormido. #* Tal vez no deberías#  molestarlo.)
 * (El agua parece#  refrescantemente sucia.)
 * (Agua.)
 * Propiedad de Dalv#  (El monstruo de la capa.)#* ¡NO PASAR!
@@ -9063,7 +9063,7 @@ reverse
 * Por favor, consulta#  mis instrucciones en el#  primer puzzle si eso ocurre.
 * Firmado: Martlet de la#  Guardia Real Subterránea
 * (Algunos restos de la#  construcción de este puzzle.)
-* (Sólo algo de basura.)
+* (Solo algo de basura.)
 * (Un banco de madera.)
 * (Hay una nota clavada en el#  poste del quiosco.#  Dice así,)
 * "¡Hola, viajero! Debido a#  descansos poco frecuentes voy#  a darme una siesta en el trabajo."
@@ -11086,7 +11086,7 @@ flowey_face
 rand
 xspeed
 * (You peer into the box and find#  a bucket of nails.)	
-* (Take them?)
+* (Las tomas?)
 * (A bucket of nails. Could be#  useful.)
 * (You got Nails!)
 * (You got nails.)
@@ -12502,7 +12502,7 @@ soundfont
 actor_toriel
 * ¡Ah! ¡Hola!
 * ¿Estás bien?
-* Te estarás preguntando#  qué está pasando...
+* Te estarás preguntando#  que está pasando...
 * Yo soy TORIEL, cuidadora#  de las RUINAS.
 * Te he dejado#  seguir tu camino#  tantas veces.
 * Vamos, presiona#  el interruptor de la izquierda.
@@ -13604,7 +13604,7 @@ fly_time
 * Donde sea que estés#  cuando eso ocurra,
 * Iré a buscarte!#  Te lo garantizo!
 * Supongo que es la hora.
-* Sólo sígueme.
+* Solo sígueme.
 * (A drawer full of#  videotapes.)
 * (A label on the front#  reads: "Home movies.")
 * While I'm sure these#  are adorable...
@@ -15001,13 +15001,13 @@ Futuro
 * La mitad de mi equipaje aquí#  está lleno de maíz.
 * Suficiente para una semana#  como mucho, pero#  ¿después qué?
 * Supongo que podría#  volver a mi campo...
-* Pero aún así, eso sólo#  me llevará hasta#  cierto punto.
+* Pero aún así, eso solo#  me llevará hasta#  cierto punto.
 * ¡No quiero lidiar#  con la adicción al maíz!
 * Le daré vueltas a esto#  durante algún tiempo.
 * No te preocupes por mí.
 * Así que, ¿has estado# viajando por el# Subsuelo?
 * ¡Tu valentía es# inspiradora!
-* Las Ruinas fueron sólo el# principio de sus# obstáculos, estoy seguro.
+* Las Ruinas fueron solo el# principio de sus# obstáculos, estoy seguro.
 * Yo... do regret troubling#  you. Very much so.
 * Pero, con la mentalidad# del vaso medio lleno...
 * Luchar primero contra un#  monstruo de bajo nivel#  era un buen entrenamiento, ¿no?
@@ -15015,7 +15015,7 @@ Futuro
 * No soy nada comparado#  con ellos...
 * Así que, por favor, ¡mantente a salvo!
 * Sabes, me parece extraño.
-* Nos conocimos hace sólo#  unas horas, pero por#  alguna razón...
+* Nos conocimos hace solo#  unas horas, pero por#  alguna razón...
 * Siento como si te#  conociera desde hace años.
 * El tiempo es realmente el#  puzzle que nunca#  resolveremos.
 * Bueno, será mejor#  que vuelva.
@@ -15841,7 +15841,7 @@ fade_direction
 in
 out
 Por años, los monstruos#han sido sellados #por un poderoso hechizo.
-Un hechizo que sólo podía#romperse con siete#ALMAS humanas.
+Un hechizo que solo podía#romperse con siete#ALMAS humanas.
 Su rey era pacífico#y deseaba evitar#más conflictos...
 Pero eventualmente declaró#que cualquier humano que#cayera...
 Moriría...
@@ -16675,13 +16675,13 @@ Aventura
 * ¿Porque sabes qué hora es?#  ¡Hora del correo!#  ¡Hora del correo! 
 * ¿Tiene correo que reclamar?
 * Echemos un vistazo.#  ¡No tienes! Qué pena.
-* Si quieres comprobarlo de#  nuevo, ¡sólo tienes que tocar#  el timbre!
+* Si quieres comprobarlo de#  nuevo, ¡solo tienes que tocar#  el timbre!
 * Hasta que nos volvamos#  a ver; ¡me despido!
 * (¡Recibiste un correo!)
 * ¡Espero de verdad que le guste#  su correo!
 * En cuanto a mí, ¡debo partir!
 * ¿En qué parte del mundo#  le gustaría volar?
-* Sólo tiene que elegir el lugar#  y el signo SPSS
+* Solo tiene que elegir el lugar#  y el signo SPSS
 * ¡Hola de nuevo, amigo!#  ¿Tienes correo para reclamar?
 * OOF.
 * Una elección muy acertada,#  ¡no puedo burlarme!
@@ -16696,8 +16696,8 @@ mail_station_blocked
 * No ocurre con#  frecuencia.
 * Eres el primero en venir#  aquí en mucho tiempo.
 * No tengas miedo,#  pequeño.
-* Haré todo lo posible#  para protegerte aquí.
-* ¡Ven! Te guiaré#  a tu nuevo hogar.
+* Haré todo lo posible#  para protegerte.
+* ¡Ven! Te guiaré a#  tu nuevo hogar.
          TORIEL                           
                         #         RUINAS 
 distance_to_clover
@@ -16706,7 +16706,7 @@ distance_to_clover
 * Y así pasar de sala#  a sala.
 * Permíteme que te#  demuestre.
 * Somos libres de#  proceder ahora. 
-* Sígueme, mi niño.#* Hay más puzzles por#  delante.
+* Sígueme mi niño.#* Hay más puzzles por#  delante.
 * En esta sala, deberás#  de activar varios#  interruptores.
 * No te preocupes, he#  marcado los que#  necesitas activar.
 * Oh, ¿Necesitas#  ayuda?
@@ -16786,7 +16786,7 @@ diary_music
 * (Puede contener información privada.)
 * (Es el diario de Dalv.)
 * (Abres el diario.)
-* (Sólo hay una entrada.#  Parece nueva.)
+* (Solo hay una entrada.#  Parece nueva.)
 * Hoy empezó como cualquier otro# día.
 * Me levanté de la cama, me#  cepillé los colmillos y#  desayuné un buen tazón de maíz.
 * Pops hizo un chiste muy#  gracioso a costa de Broom#  y todos nos reímos.
@@ -16923,7 +16923,7 @@ maxbuttons
 dor
 * (You hear movement in the#  distance...)
 * (An intimidating presence fills#  the Ruins.)
-* (Ves un camino oscuro más alla#  de las rocas pero no#  puedes pasarlas.)
+* (Ves un camino oscuro más alla#  de las rocas, pero no#  puedes pasarlas.)
 * (Las rocas bloquean el camino.)
 hood
 spritelock
@@ -16935,19 +16935,19 @@ genoCount
 * Me preguntaba si alguna#  vez volverías...
 * No... demasiado directo.
 * ¿A quién quiero engañar? Nunca#  podré conocerte en este#  estado.
-* Solo quiero que sepas... que#  no tuve opción. Debe ser#  de esta manera.
+* Solo quiero que sepas... que#  no tuve opción. Debe ser de#  esta manera.
 * ¿Eh?
 * ¿Quién...?
-* D-debo estar viendo cosas...
+* D-debo estar alucinando...
 cam2
-* ¿Es malo dudar de#  mis acciones?
-* Disfrutaba de la vida antes...#  Lo hice... Pero no puedo#  volver atrás.
-* Lo que pasó ese día#  solo se repetiría.
-* ¿Por qué aparecen cada vez#  más que empiezo a monologar? 
+* ¿Es malo dudar de mis#  acciones?
+* Disfrutaba de la vida antes...#  Lo hacía... Pero no puedo#  volver atrás.
+* Lo que pasó ese día solo#  se repetiría.
+* ¿Por qué aparecen cada vez#  que empiezo a monologar? 
 * Necesito descansar más.
 * ¡Ah!
-* No sé quién eres pero...
-* ¡Por favor, largate!
+* No sé quien eres pero...
+* ¡Por favor, lárgate!
 * ¿Todavia... me sigues?
 * Pensé que habia dejado#  claro que quiero que#  me dejen en paz
 * No entiendo... Tu...#  te pareces a ellos.
@@ -16960,7 +16960,7 @@ cam2
 * No importa. Las palabras#  no son suficientes.
 * Yo... No quiero pelear#  con nadie, pero#  has invadido mi casa.
 * La salida está bloqueada#  y no puedes quedarte aquí.#  No lo permitiré.
-* Sólo hay una cosa#  que hacer...
+* Solo hay una cosa#  que hacer...
 * ¿Qué hacen realmente#  los amigos?
 * ¿Quieres...#  ver mi casa?#  ¿O algo así?
 * Tengo que ir allí asi#  que supongo que pasa#  pasa por alli pronto.
@@ -17099,9 +17099,9 @@ __b__
 * GO HOME!!!
 y1
 y2
-* Te declaro#  centinela del silencio.
-* Confío para mantener la paz#  y el orden del ruido.
-* Iré a conquistar nuevas#  tierras en el nombre#  de la tranquilidad.
+* Te declaro centinela#  del silencio.
+* Confío en ti para mantener#  la paz y el orden#  del ruido.
+* Iré a conquistar nuevas#  tierras en el nombre de#  la tranquilidad.
 * Esto es un hhonor muy grande#  así que mantenlo secreto#  hhush hhush.
 * Oh hey! I was just thinking...
 * I really have to show you#  this house I'm checking out!
@@ -17229,13 +17229,13 @@ Get ready for my#strongest atta-
 * Pareces una persona#  bastante segura de#  sí misma.
 * No debería tenerte#  aquí todo el día,#  ¿verdad?
 * ¡No quisiera ser#  un estorbo!
-* Te dejaré ir#  pero al menos deberías#  saber esto:
-* El rey ASGORE es#  el responsable#  de todo.
+* Te dejaré ir pero#  al menos deberías#  saber esto:
+* El rey ASGORE es#  el responsable de#  todo.
          ASGORE                                   
-* Búscalo y haz lo#  que debas.
+* Búscalo y haz lo que#  debas.
 * También...
 * Si alguna vez tienes#  problemas, ¡yo puedo#  ayudarte a GUARDAR!
-* ¡Ven a buscar estás#  cosas y allí#  estaré!
+* ¡Ven a buscar estas#  cosas y allí estaré!
 * Hmmm...
 * Pareces confundido.
 * ¡Toriel debió haberte#  enseñado cómo funcionan#  las cosas por aquí!
@@ -17296,15 +17296,15 @@ Get ready for my#strongest atta-
 * (Empujas la puerta.)
 * (No se mueve.)
 dr
-* (Es un trozo de maíz rechazado.)
+* (Es un trozo de maíz#  abandonado.)
 * (¡Obtuviste un Candy Corn!)
 * (Probablemente no sea#  lo suficientemente bueno#  para ti.)
 * (A beautiful, delicious-looking#  Golden Pear catches your eye.)
 * (You got the Golden Pear!)
 * (Beauty is in the eye#  of the beholder anyway.)
-* (A little pile of conveniently#  bullet shaped pebbles.)
-* (Obtained Pebbles!)
-* (Pebbles are too dangerous.)
+* (Una pequeña pila de piedras#  convenientemente en forma de bala.)
+* (Obtuviste Piedras!)
+* (Las piedras son muy#  peligrosas.)
 * (Es una pluma perdida.)
 * (¡Ahoras tienes una#  Stray Feather!)
 * (Lo ignoras.#* Lo callejero no son más#  que problemas.)
@@ -17331,7 +17331,7 @@ new_petal
 * Talvez lo olvidaste.
 * Espera...	
 * ¿Esto es por mi vaga#amenaza de antes?
-* ¡Sólo estaba bromeando¡#  ¡Ya me conoces!
+* ¡Solo estaba bromeando¡#  ¡Ya me conoces!
 * Oh, bueno,#supongo que todavía no.
 * Heh, que problema...
 * Todo lo que necesitas saber#es que tengo en mente#tus mejores intereses.
@@ -17371,7 +17371,7 @@ part_startEm
 * (Una gran roca con un#  símbolo grabado en ella).
 * (Parece que hay algo#  interesante en esta roca.)
 * (¿Tocarlo?)
-* (Era sólo un poco de#  suciedad en la nieve.)
+* (Era solo un poco de#  suciedad en la nieve.)
 * (Te limpias la mano#  en una sospechosa marca#  en la pared de roca.)
 * (Requiere una autodisciplina#  considerable, pero ignoras#  la roca interesante.)
 * Seems like the base of a#  snowdog.
@@ -17407,7 +17407,7 @@ draw_triangle
 * Ok, 'Clover.'#  Vamos a seguir adelante.
 * Te veré más adelante,#  espero que en algún#  lugar más cálido.
 * ¿Disfrutando del#  paisaje?
-* Antes de que continúes,#  sólo quería que lo supieras.
+* Antes de que continúes,#  solo quería que lo supieras.
 * Nadie de aquí va#  realmente a las Ruinas.
 * Ahora que estamos#  aquí, bueno,#  ¿cómo decirlo?
 * Nadie se dará cuenta#  de que faltan algunos monstruos#  y sobra un poco de polvo.
@@ -17415,7 +17415,7 @@ draw_triangle
 * Nuestro pequeño secreto.
 * Así que, si quieres,#  puedes cambiarlo todo#  ahora mismo.
 * Corre por el resto#  del Subsuelo como si nada#  hubiera pasado.
-* Sólo recuerda, matar a#  algunos residentes solitarios#  de las ruinas era una cosa.
+* Solo recuerda, matar a#  algunos residentes solitarios#  de las ruinas era una cosa.
 * Pero ahora estás fuera#  amigo.
 * Ya no se puede borrar,#  así que piénsalo bien.
 * O no, porque eso#  suena aburrido.
@@ -17433,11 +17433,11 @@ geno_snowdin
 * Hay muchos secretos en#  estas tierras.
 * Es una luna de miel#  estupenda y exótica.
 * Por desgracia, estamos#  un poco perdidos en#  este momento.
-* Dice que sabe dónde#  estamos, pero creo que#  sólo está avergonzado.
+* Dice que sabe dónde#  estamos, pero creo que#  solo está avergonzado.
 * ¿Alguna idea de dónde#  podríamos conseguir un mapa?
 * (Sacas el mapa.)
 * ¿Un mapa?#  ¡Fantástico! 
-* ¿Hiciste esto sólo para#  nosotros?
+* ¿Hiciste esto solo para#  nosotros?
 * Ojalá tuviera algo tan#  sincero que dar a#  cambio...
 * ¿Quieres unos fosforos extra?
 * Los he estado guardando#  por si necesitábamos un#  incendio.
@@ -17520,7 +17520,7 @@ piece_grav
 * ¡Acabo de darme cuenta de#  que quizá no puedas alcanzar#  el tronco para menearlo!
 * Quiero decir, ¡no todo el#  mundo puede volar, o es#  monstruosamente alto!
 * ¡Especialmente si eres#  un humano o algo así!
-* ¡Así que sólo espero#  que no se atasque!
+* ¡Así que solo espero#  que no se atasque!
 * P.P.P.D.
 * ¡Ya lo resolví!
 * Si se atasca, ¡espera!
@@ -17673,7 +17673,7 @@ mo_can_walk
 * ¡EL MEJOR VENDEDOR#  DE LA HISTORIA!
 * ¡WAM! ¡Yo soy Mo!
                 Mo 
-* El hecho de que hayas intentado#  hacerte con esta taza sólo#  puede significar una cosa.
+* El hecho de que hayas intentado#  hacerte con esta taza solo#  puede significar una cosa.
 * Buscas algo delicioso#  para dar en el blanco,#  ¿verdad?
 * ¡Claro que sí!#  Conozco a los de tu tipo.
 * Entonces,#  ¿quieres esta bebida?
@@ -17751,7 +17751,7 @@ snip_sound
 * Ha sido una carta#  especial,de nosotros#  para ti.
 * ¿Te sientes bienvenido#  ahora? ¡Espero que sí!
 * ¿No es el sistema de#  correo una innovación#  maravillosa?
-* Si alguna vez quieres#  usarlo, ¡sólo tienes que#  venir a una estación!
+* Si alguna vez quieres#  usarlo, ¡Solo tienes que#  venir a una estación!
 * ¡Tienen este aspecto y#  están esparcidos por todas#  partes!
 * Si quieres recibir un#  correo, busca uno y#  ¡dale un toque!
 * Le aseguramos que están#  convenientemente situados.
@@ -17880,7 +17880,7 @@ toastSlideSpeed
 * Ahora estás en el#  barrio de los Shufflers.
 * Si quieres pasar#  por aquí, tendrás que pasar#  por nosotros.
 * Tenemos un juego muy duro#  para ti.
-* Sólo un monstruo nos#  ha superado.
+* Solo un monstruo nos#  ha superado.
 * Oh, eras tú, ¿no?
 * Lo siento por eso...
 destination
@@ -17919,7 +17919,7 @@ Honeydew Resort Normal
 * Probablemente pasará#  un tiempo antes de que#  alguien pueda entrar.
 * ...Más que nada porque no#  quiero empezar.
 * Como he dicho, esto#  podría llevar un tiempo.
-* Sólo el viaje para llegar#  hasta aquí requirió toda#  mi energía.
+* Solo el viaje para llegar#  hasta aquí requirió toda#  mi energía.
 * Paciencia, amigo.
 * Sabes por qué me#  dijeron que me fuera#  de vacaciones:
 * Porque parezco estresado,#  pero ya sabes por qué:
@@ -17993,7 +17993,7 @@ ransong_new
 * Suena bien, amigo.
 * Aquí va una para los monstruos#  a los que les gusta tener un#  poco de tiempo para sí mismos.
 * Bueno, eh, no puedo cumplir con#  eso, teniendo en cuenta que#  estamos aquí para tocar.
-* Si quieres oír algo#  diferente, sólo habla conmigo,#  ¿de acuerdo?
+* Si quieres oír algo#  diferente, solo habla conmigo,#  ¿de acuerdo?
 * Una nevera llena de miel,#  lista para beber. 
 * ¿...Ñam?
 * Look who it is!
@@ -18062,7 +18062,7 @@ For the future#of Monsterkind!!!
 * Probablemente soy el único#  que ha estado por aquí.
 * Algunos monstruos la evitan#  debido a la sequedad y a#  las altas temperaturas.
 * ¿Qué hace un niño como#  tú con esos salvajes, eh?
-* No pongas esa cara de#  confusión, sólo estoy#  bromeando.
+* No pongas esa cara de#  confusión, solo estoy#  bromeando.
 * Tienes que probar los#  panqueques de aquí.
 * Son la razón principal#  por la que viajé hasta aquí.
 item_got
@@ -18162,7 +18162,7 @@ swimmer_accel
 * Lo siento, ya no#  puedo hablar más.
 * Tengo que nadar.
 * Esos kilos no#  se bajan solos.
-* ¿Disfruta del cálido#  ambiente que sólo puede#  aportar una antorcha?
+* ¿Disfruta del cálido#  ambiente que solo puede#  aportar una antorcha?
 * ¿Es agradable?
 * ¿Es sentimental?
 * ¿Es... atractivo?
@@ -21907,7 +21907,7 @@ Este resort.
 * Es tan bueno y...
 * y...
 * Oh no.
-* Sólo he hablado de#  lo que me gusta.
+* Solo he hablado de#  lo que me gusta.
 * Debes estar tan aburrido...
 * Por eso no me gustan#  las conversaciones.
 * Ese nombre me suena.
@@ -22394,15 +22394,15 @@ option
 [RESET]
 option_count
 SELECT OPTION:
-[RUINS]: 
-[DARK RUINS]: 
+[RUINAS]: 
+[RUINAS OSCURAS]: 
 [LOWER SNOWDIN]: 
 [DUNES]: 
 SELECT ROOM:
-[SPECIAL]:
+[ESPECIAL]:
 SELECT ENEMY:
 SELECT SHOP:
-[STORY]: 
+[HISTORIA]: 
 [HEAL]: 
 [PROTECT]: 
 [SPEED]: 
@@ -23248,11 +23248,11 @@ Ella era mi amiga#(creo).
 Yo... Este no soy#realmente yo...
 Tienes razón.#Algo tiene#que cambiar.
 No lo acepto.
-¡Así es!#¡Sabía que te diste#cuenta!
+¡Así es!#¡Sabía que te darías#cuenta!
 Si, totalmente#de acuerdo.
 Lo mismo#digo.
 ¡No tienes sentido#de las tendencias#de la moda moderna!
-Eso me dolió#a un nivel personal.
+Eso me dolió a#un nivel personal.
 Solo hay que#mantenerlo... fresco.
 ¿Así es como#acaba?
 ¿Quién quiere hacer#una barbacoa?
@@ -23260,7 +23260,7 @@ Oigan todos, miren#mi nuevo auto#B)
 ¡Por fin! ¡Monstruos#que me atrapan!
 ¿Es el arte lo que#les gusta a los#niños hoy en día?
 ¡Estoy buscando a# alguien que venda un#barco!# ¿Sabes de alguien?
-¡Estuve haciendo#ejercicio! No es gran cosa#; )
+¡Estuve haciendo#ejercicio! No es gran#cosa; )
 ¡El otro día#descubrí un nuevo#grupo genial!
 no_loop_switch
 can_vanish
@@ -23327,7 +23327,7 @@ Tienes valor.
 Solo dices#eso porque#te sientes#obligado.
 No creo que#esté lista para#la gente aún.
 Tal vez el#arte no es#lo mío.
-Supongo que#podría tener#un descanso.
+Supongo que#podría descansar.
 He estado en#esto por un#tiempo...
 Entonces...#lo pegaré de#nuevo.
 Un sacapuntas#sería útil#en estos#momentos...
@@ -23347,52 +23347,52 @@ penilla c
 can_fade
 can_rotate
 stop_image_speed
-What was#that#sound?
-*oblivious#squeak*
-W-whatever#makes you#happy.
-Now#you're#just#invading#my space.
-Whatever#makes you#happy! I#suppose...
-Whatever#makes you#happy!
-I can't#feel your#love.
-I love#hugs! <3
-I'm#feelin'#the love~
-I don't#want#anything#but a#smile.
-REALLY?!?
-*bark*#*bark*
-It's the#thought#that#counts!
-Why#aren't#you#happy?
-I feel...#hurt.
-I love#you so#much <3
-You're so#sweet <3
-A hug is#the best#medicine!
-Friend?
-*hums#along#with the#music*
-You're#doing#great,#Sweetie!
-*squeak*#*squeak*
-You can#do this!
-Remember,#I always#love you!#<3
+Qué fue#ese#sonido?
+*Chirrido#espontáneo*
+L-lo que#te haga#feliz.
+Ahora#solo estás#invadiendo#mi espacio.
+Lo que#te haga#feliz!#supongo...
+Lo que#te haga#feliz!
+No puedo#sentir tu#amor.
+Amo los#abrazos! <3
+Estoy#sintiendo#el amor~
+Solo#quiero#ver una#sonrisa.
+EN SERIO?!?
+*ladra*#*ladra*
+Es la#intención#lo que#cuenta!
+Por qué#no estás#feliz?
+Me siento...#lastimada.
+Te amo#tanto <3
+Eres tan#dulce <3
+Los abrazos#son la#mejor#medicina!
+Amigo?
+*tararea#junto a#la música*
+Lo estás#haciendo#genial,#Dulzura!
+*chirrido*#*chirrido*
+Puedes#hacerlo!
+Recuerda,#Siempre te#amo! <3
 block_vspeed
 sweet corn c
 app_sound
 hand2
-YOU BAKA~
-Do you even#watch anime?!
-I can't do it with monsters watching...
+BASTARDO~
+Al menos#ves anime?!
+No puedo hacerlo con monstruos mirando...
 AAAAAAAAAAAAAAAA#AAAAAAAAAAAAAAAA#AAAAAAAAAAAAAAAA#AAAAAAAAAAAAAAAA#AAAAAAAAAAAAAAAA
-I can't do it#with monsters#watching...
-You aren't even#doing it right!
-Wait! Do you#speak fluent#reference?
-I can feel the#power coursing#through my#ribbons!
-You have no#respect for the#artform.
-Hey! I don't#judge your#headcanons!
-I'm not giving#up!
-Live a hero, die#a hero.
-Can you draw#manga?
-You remind me of#this one anime I#saw.
-This isn't even#my final form!
-It isn't easy#being this#bishie!
-Don't go#tsundere on me#now!
-You must be the#antagonist!
+No puedo hacerlo#con monstruos#mirando...
+Ni siquiera#lo haces bien!
+Espera! Hablas#con fluidez#referencia?
+Puedo sentir el#poder recorriendo#mis cintas!
+No tienes#respeto por la#forma artística.
+Ey! Yo no#juzgo tus#headcanons!
+No voy#a rendirme!
+Vive siendo héroe,#muere siendo héroe.
+Puedes dibujar#un manga?
+Me recuerdas a#un anime que ví.
+Esta ni siquiera#es mi forma#final!
+No es fácil#ser así!
+No te pongas#tsundere conmigo!
+Tu has de#ser el antagonista!
 crispy scroll c
 crispy scroll b
 slash_angle
@@ -23402,20 +23402,20 @@ hsp_bounce
 terminal_velocity
 can_bounce
 random_pitch
-Everything seems#wrong.
-Lookin' good.
-Not bad, not bad.
-You look#horrible.
-It's missing#something.
-You look perfect.
-You can't phase#me.
-Smiles are never#out of style.
-Not scared of#bad luck?
-This isn't#good...
-Better check for#food in your#teeth.
-Yellow is the#new black.
-Who's the#fairest of them#all?
-Like what you#see?
+Todo se ve#mal.
+Te ves bien.
+Nada mal, nada mal.
+Te ves#horrible.
+Le falta#algo.
+Te ves perfecto.
+No puedes#fastidiarme.
+Las sonrisas#no pasan de#moda.
+No te asusta#la mala suerte?
+Esto no es#bueno...
+Mejor revisa#la comida en#tus dientes.
+Amarillo es#el nuevo negro.
+Quién es#el más justo#de todos?
+Te gusta#lo que ves?
 rorrim c
 rorrim b
 random_sound
@@ -23424,9 +23424,9 @@ move_speed_current
 ¡NO NO! ¡EL RUIDO#MOLESTA! ¡EL RUIDO#MOLESTA!
 ¿Demasiado alto#aquí! HUSHH#HUSHH!
 Dulce silencio...
-¿Tú eescuchas#esto?#¿No? Bien...
+¿Eescuchas esto?#¿No? Bien...
 Más silencio#por favor...
-           #No hagas#ruido.#Hush hushh!
+           #No hagas ruido.#Hush hushh!
 No te muevas.#            #      #             
 Muevete#En silencio.#Hushh hushh!
 Muevete
@@ -23471,7 +23471,7 @@ Temía que esto#ocurriera.#Qué mala suerte.
 Sabes, a pesar de#tus pensamientos...
 Los monstruos#no son malos.
 Monsterkind representa#la esperanza, el bien.
-Aquí todo el mundo#sólo intenta encontrar#un poco de alegría.
+Aquí todo el mundo#solo intenta encontrar#un poco de alegría.
 Pero... Supongo que#no estás para alegrías.
 ¿A quién quiero#engañar? No me creerias.
 Yo soy el que#se volvió hostil#primero.
@@ -23509,7 +23509,7 @@ Podemos hacer las paces#allí, como...#amigos.
 Sabes, ha estado más#tranquilo desde que#apareciste...
 Supongo que debería#agradecerte.
 Por fin se#cumplió mi deseo.
-O tal vez fue sólo una#casualidad.
+O tal vez fue solo una#casualidad.
 Allá donde voy el#polvo sigue pegado#a mi capa...
 Siento suponerlo,#pero...
 Todos se han ido,#¿no?
@@ -23517,9 +23517,9 @@ Sé que debo#agradecerte, y es#lo que pedí...
 ¡Pero nunca quise#herir a nadie!
 No puedo evitar#pensarlo#¡Es mi culpa!
 ¿Quizás mi deseo#te trajo aquí?
-Tal vez sólo necesito#tomar una siesta.
+Tal vez solo necesito#tomar una siesta.
 Cuando me despierte,#te habrás ido,#¿verdad?
-Sí, sólo eres un#fantasma de mis#recuerdos...
+Sí, solo eres un#fantasma de mis#recuerdos...
 Oye.
 Si no eres real...
 Entonces, ¿todo esto#es realmente culpa#mía?
@@ -25334,7 +25334,7 @@ Check 3
 * See ya later, Clover!
 * You check the sole of your boot#  for signs of squished Froggit.#* You only find your dusty boot.
 * ¡GANASTE!#* Obtuviste 0 XP y 
-* (La misteriosa señora cabra#  asusto a Froggit.)
+* (La misteriosa señora cabra#  asustó a Froggit.)
 * Dulce silencio...
 * Decibat se aleja para encontrar#  un lugar más tranquilo.
 * (An old TV and game console#  gathering dust.)
