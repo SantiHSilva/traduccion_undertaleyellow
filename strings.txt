@@ -2557,95 +2557,95 @@ gml_Script_scr_determine_world_value_yellow
 * No es que nadie#  vaya a echar de menos#  a ese pesimista.
 scr_save_flowey_dark_ruins
 gml_Script_scr_save_flowey_dunes
-* Always a treat to see#  your gunslinging skills!
-* Let's get you saved!
-* Golly, monsters 'round#  here sure have it out#  for you!
-* How could they keep#  attacking a poor human#  so willingly?	
-* We can't have that! Not#  at all!
-* I don't see many more#  enemies roaming about.
-* Once you encounter the#  rest, show 'em who's#  boss!
-* You are... whoa, haha.#  Talented, for sure!
-* You laid waste to this#  wasteland!
-* This place definitely#  wasn't big enough for#  the both of you!
-* Keep on movin', buddy!
-* We're getting ever so#  closer to your REAL#  target!
-* This cave is a little#  claustrophobic for my#  taste.
-* Get out there and see#  what we're really#  dealing with!
-* This area seems...#  different.
-* Let's hope there aren't#  as many distractions#  along the way.
-* I get that you may#  wanna wait for your#  friend,
-* But she's long#  gone.
-* She got you into this#  situation.
-* But you're#  gonna have to get#  yourself out.
-* I get that you might#  wanna rest after the#  wild ride back there...
-* But we have no time to#  waste!
-* I'll be waiting for ya#  up ahead when you#  decide to head out.
-* No more waiting around.
-* Go get 'em, Clover!
-* Strange sight, huh?
-* Who knew something#  could actually grow#  here?
-* Anyway, great job so#  far!
-* This place is much more#  treacherous than#  Snowdin!
-* Keep it up, Clover!
-* Let's get moving!
-* I'm gonna catch fire if#  I stay out too long!
-* Golly, the emblems on#  these miner uniforms are#  very interesting.
-* Guess I'm the boss#  'round here!
-* Jokes aside, you got#  some smarts!
-* Fixed that elevator#  with ease.
-* Proud of ya!
-* I wonder what the goal#  of this mine is?	
-* Whatever it is, no one#  seems to know what#  they're doing, haha.
-* Keep on, buddy!
-* This cave sure is#  ginormous!
-* I hope this rail leads#  to an exit cause it's#  getting stuffy in here.
-* Enjoy the ride, pal!
-* Come on, just hop in#  the cart!
-* You've been through#  much worse.
-* Gee, what a view.
-* Even though we aren't#  very close to the#  Castle...
-* It feels like we've#  accomplished so much as#  a team.
-* Wasn't that long ago#  that I was teachin' you#  how to dodge attacks.
-* A lot can happen in a#  short time.
-* As nice as this is, we#  do have places to be.
-* Let's keep a move on,#  Clover!
-* Looks like we're back#  on solid ground!
-* That mine sure was a#  detour!
-* What a buncha slackers!
-* Anyway, let's keep up#  the pace, buddy!
-* It isn't exactly#  flattering to live in a#  sandbox, by the way.
-* Let's get going before#  the local kids think#  I'm some new toy!
-* What's the holdup, pal?
-* Gee, seems like my#  greeting has found its#  home.
-* Like the hat? It's a#  disguise.
-* This area is pretty#  populated so I picked#  this up to be safe!
-* You being separated#  from Martlet is pretty#  lucky but...
-* I hope this Star guy#  doesn't hold you here#  for long.
-* I may have to#  intervene if he does!
-* I wasn't lying about#  being close to an exit#  earlier.
-* I just didn't expect...#  all of this.
-* On the bright side...
-* You may be able to#  obtain some gear#  upgrades here.
-* This roadblock isn't#  totally pointless,#  haha.
-* Okay, my patience is#  only so strong, Clover.
-* I hope you're not#  planning to actually#  stay here.
-* These bozos are below#  you.
-* I highly suggest that#  you make a run for it#  when the time's right.
-* Try not to let yourself#  get distracted from the#  real mission.
-* Gidde up, "partner"!
-* I was afraid things#  would escalate.
-* Nothing you're not#  fully used to by now!
-* This is probably a good#  time to get outta here.
-* It's all gone way too#  far, dont'cha think?
-* Whatever happens, I#  wish ya luck, Clover!
-* Let's put this place#  behind us, pal!
-* I was hoping Starlo ran#  to his parents or#  somethin'.
-* Looks like you'll have#  to confront him.
-* Do what you do best!#  I'm always rootin' for#  ya!
-* We're almost outta#  here!
-* Let's knock this Starlo#  drama out!
-* You're becoming a pro#  at this, buddy!	
-* At this rate, you'll be#  able to confront ASGORE#  himself!
+* Siempre es un placer#  ver tus habilidades#  con las armas.
+* ¡Vamos a guardar!
+* ¡Vaya, los monstruos#  de por aquí te tienen#  en la mira!
+* ¿Cómo pudieron seguir#  atacando a un pobre humano#  tan voluntariamente?	
+* ¡No podemos tener#  eso! ¡No!
+* No veo muchos#  más enemigos rondando.
+* Cuando te encuentres#  con el resto, ¡muéstrales#  quién manda!
+* Eres... guau,#  jaja. Talentoso,#  ¡seguro!
+* ¡Destruiste este#  páramo!
+* ¡Este lugar seguramente#  no era lo demasiado#  grande para los dos!
+* ¡Sigue moviéndote,#  amigo!
+* ¡Nos acercamos#  cada vez más a tu#  objetivo REAL!
+* Esta cueva es un#  poco claustrofóbica#  para mi gusto.
+* Salgamos ahí fuera y#  veamos a qué nos#  enfrentamos realmente.
+* Esta zona parece...#  diferente.
+* Esperemos que no haya#  tantas distracciones por#  el camino.
+* Entiendo que quieras#  esperar a tu amiga,
+* Pero hace tiempo#  que se fue.
+* Ella te metió#  en esta situación.
+* Pero vas a tener#  que salir tú mismo.
+* Entiendo que quieras#  descansar después del#  salvaje viaje...
+* ¡Pero no hay tiempo#  que perder!
+* Te estaré esperando#  más adelante cuando#  decidas salir.
+* Se acabó la espera.
+* ¡Vamos a por ellos,#  Clover!
+* Extraña vista, ¿eh?
+* ¿Quién iba a decir#  que algo podría#  crecer aquí?
+* De todos modos, ¡gran#  trabajo hasta ahora!
+* ¡Este lugar es mucho#  más traicionero que#  Snowdin!
+* ¡Sigue así, Clover!
+* ¡En marcha!
+* ¡Voy a descubrir el#  fuego si me quedo fuera#  mucho tiempo!
+* Dios, los emblemas de#  estos uniformes mineros#  son muy interesantes.
+* ¡Supongo que soy#  el jefe por aquí!
+* Dejemos las bromas,#  ¡eres muy listo!
+* Arreglado el ascensor#  con facilidad.
+* ¡Estoy orgulloso de ti!
+* Me pregunto cuál es#  el objetivo de esta#  mina.	
+* Sea lo que sea,#  nadie parece saber#  lo que hace, jaja.
+* ¡Sigue así, amigo!
+* ¡Esta cueva sí#  que es enorme!
+* Espero que esta vía#  nos lleve a la salida#  porque esto es sofocante.
+* ¡Disfruta del viaje,#  amigo!
+* ¡Vamos, súbete al#  carro!
+* Has pasado por cosas#  mucho peores.
+* Vaya, qué vista.
+* Aunque no estamos#  muy cerca del#  Castillo...
+* Parece que hemos#  conseguido mucho como#  equipo.
+* No hace tanto que#  te estaba enseñando#  a esquivar ataques.
+* Pueden pasar muchas#  cosas en poco tiempo.
+* Por muy bonito que#  sea, tenemos sitios#  en los que estar.
+* ¡Sigamos adelante,#  Clover!
+* Parece que volvemos#  a pisar tierra firme.
+* ¡Esa mina sí que#  fue un desvío!
+* ¡Qué montón de vagos!
+* En fin, ¡sigamos el#  ritmo, amigo!
+* Por cierto, no es#  precisamente halagador#  vivir en un cajón de arena.
+* Vámonos antes de que los#  niños del pueblo piensen#  que soy un juguete.
+* ¿A qué viene#  este retraso, amigo?
+* Vaya, parece que#  mi saludo ha encontrado#  su hogar.
+* ¿Te gusta el sombrero?#  Es un disfraz.
+* Esta zona está bastante#  poblada, así que cogí#  esto para estar seguro.
+* Que te hayas separado#  de Martlet es bastante#  afortunado pero...
+* Espero que este tipo#  Star no te retenga#  aquí mucho tiempo.
+* ¡Quizás tenga que#  intervenir si lo hace!
+* No estaba mintiendo#  acerca de estar cerca#  de una salida antes.
+* Simplemente no#  esperaba... todo esto.
+* Por el lado positivo...
+* Aquí podrás obtener#  algunas mejoras de#  equipo.
+* Este bloqueo no#  es del todo inútil,#  jaja.
+* Vale, mi paciencia#  tiene un límite, Clover.
+* Espero que no#  estés planeando quedarte#  aquí.
+* Estos payasos están#  debajo de ti.
+* Te sugiero#  encarecidamente que te lances#  cuando llegue el momento.
+* Intenta no distraerte#  de la verdadera misión.
+* ¡Ánimo, "socio"!
+* Temía que las#  cosas escalaran.
+* Nada a lo que no estés#  completamente acostumbrado#  a estas alturas.
+* Este es probablemente#  un buen momento para#  salir de aquí.
+* Todo ha ido#  demasiado lejos,#  ¿no crees?
+* Pase lo que pase,#  ¡te deseo suerte,#  Clover!
+* ¡Dejemos este lugar#  atrás, amigo!
+* Esperaba que Starlo#  huyera con sus padres#  o algo así.
+* Parece que tendrás#  que enfrentarte a él.
+* ¡Haz lo que mejor#  sabes hacer! ¡Siempre#  te apoyaré!
+* ¡Ya casi nos vamos!
+* ¡Acabemos con este#  drama de Starlo!
+* ¡Te estás convirtiendo#  en un profesional#  de esto, amigo!	
+* A este paso, ¡podrás#  enfrentarte al mismísimo#  ASGORE!
 scr_save_flowey_dunes
 Wild East Gunshop
 shop_name
@@ -5712,7 +5712,7 @@ scr_generate_battle_martlet_pacifist
 scr_recreate_heart_battle_menu_text_martlet_pacifist
 * Golpeas el suelo con el pie.#* Martlet intenta hablar aún#  más rápido.
 * Finges un bostezo. #* Martlet empieza a hablar#  más rápido todavía.
-* Golpeas tu muñeca impacienciente.#* Martlet parece arrepentida y#  intenta hablar un más rápido.
+* Golpeas tu muñeca impacienciente.#* Martlet parece arrepentida e#  intenta hablar un más rápido.
 scr_dialogue_battle_action_selected_action_1_martlet_pacifist
 * Ignoras las tonterías de Martlet.#* No parece que se haya#  dado cuenta.
 scr_dialogue_battle_action_selected_action_2_martlet_pacifist
@@ -9070,23 +9070,23 @@ reverse
 * Si lees estoy y estoy#  dormida, ¡por favoor no pases#  desde este punto de control!
 * ¡Seguramente me descuenten más!#* Así que toca el timbre#  en su lugar, gracias."
 * - Martlet Guardiana Real#  División Snowdin del Subsuelo.
-* (Un quiosco abandonado con nieve# acumulándose lentamente#  en su interior.)
+* (Un puesto abandonado con nieve# acumulándose lentamente#  en su interior.)
 * (Observas cómo la brisa amarga#  y silbante agita el cuaderno#  que hay sobre la mesa.)
 * (Hay un cuaderno en el#  mostrador, titulado,#  "Mis planos de Puzzle".)
 * (Aquí debe ser donde#  Martlet boceta sus ideas#  de puzzles.)
 fixedbridge
 brokebridge
-* (A container bearing a strange#  symbol.)
-* (The lid is bolted shut. It's#  impossible to open.)
-* Northern Caverns up ahead.
-* (A mine cart sits lodged into#  the ground.)
-* (You have no idea how this came#  to be.)
-* (A minecart.)
-* (Some hefty boxes lie in the#  dirt.)	
-* (They seem to have been here#  for a long time.)
-* (Some boxes.)
+* (Un contenedor con#  un símbolo extraño.)
+* (La tapa está atornillada.#  Es imposible abrirla.)
+* Northern Caverns más adelante.
+* (Una vagoneta minera#  se incrusta en el suelo.)
+* (No tienes ni idea de#  cómo llegó a ser esto.)
+* (Una vagoneta.)
+* (Algunas cajas pesadas#  reposan en la tierra.)	
+* (Parece que llevan#  aquí mucho tiempo.)
+* (Algunas cajas.)
 * The West Mines.
-* Property of Mining Co.
+* Propiedad de Mining Co.
 layer_current
 * ALERT!#  WARNING SIGN AHEAD!
 * WARNING!#  DANGER SIGN AHEAD!
@@ -16751,7 +16751,7 @@ destroy
 * Aside from those mines,#  time has been pretty#  friendly to us.	
 * Should be a simple#  journey from here on ou-
 * Hey! Human!
-It's Clover
+Es Clover
 * Don't attack me, I can#  explain why I'm here!
 * I said I would find you#  again, didn't I?
 * Well, after our#  encounter, I spotted you#  stealing Ava... My raft.
@@ -18360,7 +18360,7 @@ aviator_xspd
 * Quiero decir, nunca#  pasa nada tan#  emocionante por aquí.
 * Al menos, mientras#  yo he estado aquí#  no ha sido así.
 * Piensa en lo bien#  que lo pasaremos.
-* Hay una posibilidad#  de que me despidan# por esto,
+* Hay una posibilidad#  de que me despidan#  por esto,
 * Y perder todo el trabajo#  de mi vida y mis#  pertenencias, pero hey,
 * ¿Qué es la vida#  sin un poco de riesgo?
 * Entonces, ¿nos vamos?
@@ -18488,8 +18488,8 @@ diff_x
 * Supongo que debería#  agradecer a mi mentor.  
 * Un tipo mayor#  llamado Chujin.#  ¡Me enseñó todo!
 * Él... Bueno...#  No importa.
-* ¿Te importaría#  responderme a unas preguntas?
-* No es nada importante,#  es sólo un pequeño cuestionario#  de control de calidad.
+* ¿Te importaría#  responderme a unas#  preguntas?
+* No es nada importante,#  es sólo un cuestionario#  de control de calidad.
 * ¿Quieres probarlo?
 * ¡Genial!
 * Primera pregunta:
@@ -18501,11 +18501,11 @@ diff_x
 * Bien, primera pregunta:
 * En una escala del 1-3...
 * ¿Cómo calificaría#  su encuentro con la#  Guardia Real?
-* Por favor,#  ¡responda con sinceridad!
+* Por favor, ¡responde!
 * Oh...#  ¿tan malo fue?#  Lo siento.
 * Bueno, ¡quizás no#  fue tan malo como#  crees!
-* Es una de esas cosas#  "malas en el momento pero#  de las que te ríes después".
-* Sigamos,#  ¡quizá cambies de opinión!
+* Es una de esas cosas#  "malas en el momento#  pero después te ríes".
+* Sigamos,#  ¡quizá cambies#  de opinión!
 * Eso suena justo.
 * Creo que 2 de 3 es#  una valoración exacta de#  mi actuación.
 * Ya sabes,#  en general.
@@ -18519,7 +18519,7 @@ diff_x
 * ¡Sigamos!
 * Segunda pregunta:
 * En una escala del 1 al 2,#  ¿cómo calificaría...
-* ...los puzzles desplegados#  en Snowdin.
+* ...los puzzles vistos#  en Snowdin.
 * Oh. Sí, yo iba a,#  como, quejarme de eso,#  o algo así.
 * Ellos en realidad, um,#  ya no aceptan mis#  peticiones de material.
 * Quería que las rocas#  fundidas fueran mucho más#  grandes. Es una pena.
@@ -18528,40 +18528,40 @@ diff_x
 * ¿Sabes qué?#  Sigamos adelante.
 * ¡De verdad!
 * Gracias,#  ¡los hice yo misma!
-* ¡Por algo me asignaron#  a trabajar bajo las órdenes#  del Científico Real!
-                        #                             #      Científico Real
-* Quiero decir, es porque#  tengo la última opción#  de estación, ¡pero aún así!
-* ¡Coges unas cuantas cosas#  guardando todo ese#  material científico!
+* ¡Por algo me asignaron#  a trabajar bajo órdenes#  del Científico Real!
+                        #                         #      Científico Real
+* Quiero decir, es porque#  tengo la última opción#  de estación, ¡pero igual!
+* ¡Coges unas cuantas#  cosas guardando todo ese#  material científico!
 * En fin,#  ¡volvamos al tema!
 * Tercera pregunta:
-* On a scale 1-4, how#  would you rate the#  au-di-tory ambi-an-#
-* What does that mean?
-* Okay, that's a new#  question. Why do they#  keep updating this?
-* Let's just forget the#  questionnaire.
-* I'll just put you#  down as dead center#  for the rest.
-* That sound good? Yeah#  that works.
-* Just a 2 there... and a#  3... and a 2.15 here...#  and 23, and we're done!
-* Oh, one more thing.
-* I'm gonna need your#  name for legal purposes.
-* You know how it gets.
-* What a unique name! I#  love it.
-* So, Clover, let's talk#  about Ava!
-* Isn't she great? I told#  ya, sails like a dream#  from a perfect lullaby!
-* Nice pace, pretty view,#  and not a single leak!
-* Oh, well there's a#  little one, but not too#  many leaks!
-* We can just sit back,#  and relax and-hey...
-* Do you hear an abnormal#  amount of running water?
-* Well, we are in#  Waterfall...
-* Is it just me or is the#  river getting faster?
-* Well, if anything it#  helps u-
-* UH OH!
+* En una escala del 1 al 4,#  ¿cómo calificaría el#  am-bie-nte au-dit-ivo?
+* ¿Qué significa eso?
+* Vale, esa es una nueva#  pregunta. ¿Por qué#  siguen actualizando esto?
+* Olvidemos el#  cuestionario.
+* Te pondré como#  punto muerto para#  el resto.
+* ¿Suena bien?#  Sí, eso funciona.
+* Sólo un 2 allí... y#  un 3... y un 2,15 aquí...#  y un 23, ¡y terminamos!
+* Oh, una cosa más.
+* Voy a necesitar#  tu nombre por motivos#  legales.
+* Ya sabes cómo es.
+* ¡Qué nombre tan#  único! Me encanta.
+* Así que, Clover,#  ¡hablemos de Ava!
+* ¿No es genial? ¡Te lo#  dije, navega como una#  melodía de cuna perfecta!
+* Buen ritmo, bonitas#  vistas, ¡y ni una sola#  gotera!
+* ¡Oh, bueno, hay una#  pequeña, pero no#  demasiadas fugas!
+* Podemos sentarnos,#  relajarnos y...
+* ¿Oyes una cantidad#  anormal de agua#  corriente?
+* Bueno, estamos en#  Waterfall...
+* ¿Soy yo o el#  río va cada vez#  más rápido?
+* Bueno, en todo#  caso te ayuda a--
+* ¡UH OH!
 * UM...
-* I might not have been#  down this route before!
-* Hold on to something!
-* Hey look it's Hotland!
-* This is our stop!
-* WAIT!
-* WE HAVE TO DOCK HERE,#  SLOW DOWN!!
+* Puede que no haya#  seguido esta ruta antes.
+* ¡Agárrate a algo!
+* ¡Mira, es Hotland!
+* ¡Esta es nuestra parada!
+* ¡ESPERA!
+* ¡¡TENEMOS QUE#  AMARRAR AQUÍ, DESPACIO!!
 * OHNO-OHNO-OHNO-OHNO-OHNO
 clover_launch
 martlet_book_sound
@@ -18578,63 +18578,63 @@ lava_tube_speed
 current_tube
 can_scroll
 cave_end_x
-* ¿Hola? Clover? Are you okay?
-* Ohno-ohno-ohno!
-* You stay right there! I'll go#  get help!
+* ¿Hola? Clover?#  ¿Estás bien?
+* ¡Ohno-ohno-ohno!
+* ¡Quédate ahí!#  ¡Iré a buscar ayuda!
 overlay_draw_alpha
 overlay_draw_enabled
 active_object
 pl_sprite
-* Howdy, Clover!
-* What a day this has#  been.
-* Thanks to that guard,#  we're totally off#  course!
-* It looks like she#  ditched you as well.
-* I guess it can't be#  helped now.
-* What's important is that#  you're alive!
-* There's gotta be#  another route to#  ASGORE's Castle here.
-                  #                  #           Castle      
-* Tough it out for now#  and we'll see where#  this new path takes us.
-* A little excitement#  never hurt anyone!
-* Well... except you. Let#  me heal you up.
-* Sorry about all this.
-* I'm usually pretty good#  at judging where to go#  next.
-* The raft must've been a#  trap set by that guard.
-* You outsmarted her,#  though! I'm impressed.
-* Even so, you look#  pretty beat up. Let me#  take care of that!
-* Doesn't look like#  she'll be an issue#  anymore, though.
-* You're far away from#  Snowdin now. Out of#  sight, out of mind!
-* Now we have to find a#  new way to ASGORE's#  Castle.
-                       #                     #  Castle 
-* I'll leave you to it#  but before you go, let#  me patch you up.
-* Okay, what is going on?
-* I've been trying to#  stay positive and#  supportive but...
-* Seriously?
-* Why won't you save?
-* Does that word scare#  you?
-* It can't hurt you, see?
-* S - A - V - E.	
-* Hey, you're still#  alive! It's a miracle!	
-* ...No? Okay.
-* I would hope I've#  proved my#  trustworthiness by now.	
-* But no, it's fine...	
-* Guess you don't#  appreciate me...	
-* Nothing? 	
-* It was worth a shot.	
-* Just know, you're#  running a HUGE risk by#  not saving.
-* (The waterlogged remains of an#  old chest.)
-* (You spy a small, dry, paper#  bag cradled in the interior of#  the lid.
-* (Will you take it?)
-* (You got some trail#  mix!)
-* (An old chest.)
-* (Gizmos and gadgets#  fill the deskspace.)
-* (Looming over it all...#  a map)
-* (On the map are several#  pinned locations of...)
-* This isn't what Ed was#  talking about, right?
-* I mean, this is clearly#  Chujin's office but...
-* I wouldn't say it's#  strange to keep track of#  where humans...
-* Sorry... I'm sure this#  is upsetting to look at.
-* Still, many monsters do#  keep up with it.
-* Those events are a big#  deal down here.
+* ¡Buenas, Clover!
+* Qué día ha sido éste.
+* ¡Gracias a esa guardia,#  estamos totalmente#  desviados!
+* Parece que ella#  también te abandonó.
+* Supongo que ya#  no puede ayudar.
+* ¡Lo importante es#  que estás vivo!
+* Tiene que haber otra#  ruta al Castillo#  de ASGORE aquí.
+                      #          Castillo
+* Resiste por ahora y#  ya veremos adónde nos#  lleva este nuevo camino.
+* ¡Un poco de emoción#  no hace daño a nadie!
+* Bueno...#  excepto a ti. Déjame#  curarte.
+* Perdón por todo esto.
+* Normalmente soy#  bastante bueno juzgando#  hacia dónde ir.
+* La balsa debe haber#  sido una trampa puesta#  por esa guardia.
+* ¡Pero fuiste más#  listo que ella! Estoy#  impresionado.
+* Aún así, te ves#  bastante golpeado. ¡Deja#  que me ocupe de eso!
+* Aunque parece que#  ya no será un problema.
+* Ahora estás lejos de#  Snowdin. ¡Fuera de la#  vista, fuera de la mente!
+* Ahora tenemos que#  encontrar un nuevo camino#  al Castillo de ASGORE.
+                       #                       #     Castillo
+* Te dejo con eso, pero#  antes de que te vayas,#  déjame ponerte un parche.
+* Bien, ¿qué está#  pasando?
+* He intentado ser#  positivo y apoyarte,#  pero...
+* ¿De verdad?
+* ¿Por qué no guardaste?
+* ¿Te asusta esa palabra?
+* No puede lastimarte,#  ¿ves?
+* G - U - A - R -#  D - A - R.	
+* ¡Oye, todavía#  estás vivo! ¡Es un#  milagro!
+* ...¿No? Ok.
+* Espero haber#  demostrado ya mi#  confianza.	
+* Pero si no,#  está bien...	
+* Supongo que no#  me aprecias...	
+* ¿Nada? 	
+* Valía la pena#  intentarlo.	
+* Que sepas que#  corres un riesgo#  ENORME si no guardas.
+* (Los restos#  encharcados de un#  viejo cofre.)
+* (Ves una pequeña bolsa#  de papel seca guardada#  en el interior.)
+* (¿Te lo llevarás?)
+* (¡Conseguiste un#  poco de trail mix!)
+* (Un viejo cofre.)
+* (Aparatos y artefactos#  llenan el espacio#  del escritorio.)
+* (Sobre todo ello...#  un mapa)
+* (En el mapa hay#  varias ubicaciones#  de...)
+* Esto no es de lo#  que hablaba Ed,#  ¿verdad?
+* Quiero decir, esto#  es claramente la oficina#  de Chujin pero...
+* Yo no diría que es#  extraño llevar la cuenta#  de dónde los humanos...
+* Lo siento... Estoy#  seguro de que esto#  es molesto de ver.
+* Aun así, muchos#  monstruos lo siguen.
+* Esos eventos son#  muy importantes aquí.
 shift_layers
 layer_active
 BridgeTop
