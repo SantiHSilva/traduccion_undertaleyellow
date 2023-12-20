@@ -147,7 +147,7 @@ enemy_low_hp
 message
 Action 3 Low HP
 last_action_selected
-Nothing
+Nada
 last_action_selected_2
 last_action_selected_3
 * You refuse to let Sir Slither#  become a main character.
@@ -1787,9 +1787,9 @@ Corn Dog
 Patch
 Feather
 G. Bandana
-Munición de piedra
+Pebble Ammo
 Silver Ammo
-Munición de goma
+Rubber Ammo
 Glass Ammo
 Flint
 Sponge Cake
