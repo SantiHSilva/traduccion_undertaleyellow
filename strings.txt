@@ -18833,67 +18833,67 @@ x_orig
 y_orig
 mo
 stand
-* Guess who it is?
-* That's right! It's Mo!
-* Long time no see!
-* How have ya been? Don't answer#  that, we don't have the time.
-* I'm here to make you a BRAND.#  NEW. OFFER!
-* A hot climate calls for a hot#  item!
-* Check it!
-* Bam! Wam! Shang-a-lang!
-* It's Mo time!
-* And you know what they say:
-* There's no time like MO TIME!
-* You're that uh... that human#  from Snowdin.
-* There's some pretty nasty#  rumors going on about you...
+* ¿Adivina quién es?
+* ¡Así es! ¡Es Mo!
+* ¡Cuánto tiempo!
+* ¿Cómo has estado?#  No contestes,#  no tenemos tiempo.
+* ¡Estoy aquí para hacerte#  una NUEVA. OFERTA!
+* ¡Un clima cálido#  requiere un artículo cálido!
+* ¡Compruébalo!
+* ¡Bam! ¡Wam! ¡Shang-a-lang!
+* ¡Es la hora de Mo!
+* Y ya sabes lo que dicen:
+* ¡No hay mejor MOMENTO#  que el de MO!
+* Tú eres ese...#  ese humano de Snowdin.
+* Hay rumores muy#  desagradables sobre ti...
 message_check
-* But come on! We've all#  committed a few felonies in our#  time, right?
-* For me, a pinch of petty#  theft, a sprinkle of tax#  fraud... Diet crime!
-* For you, disturbing the peace,#  battery, several...#  homicides...
-* ALLEGEDLY!
-* Who's got proof, right?#  Gossip's gotta gossip!
-* So, you're probably thinkin'#  “What's this handsome cat#  selling???”
-* First of all, I ain't a cat#  but I do appreciate the#  compliment!
-* I had this whole spiel about#  “Water” but, hey, for my best#  customer?
-* I'll skip RIGHT to the premium#  inventory!
-* Thaaat's right!
-* I went all out this time. This#  is a real delicacy 'round here!
-* It's called WATER. Catchy name,#  I know!
-* Lucky for you, I'm giving out#  free samples!
-* Want a glass?
-* Comin' right up!
-* Oh, come on, buddy!
-* Your tongue must be as dry as#  the ground!
-* Let me treat ya!
-* One moment.
-* If you know your boy Mo, you#  know I planned all of that.
-* Here's my REAL product:#  ICE TEA!
-* It's like the sequel to water.#  Way better!
-* Now, I'ma be real with you.
-* The tea doesn't have ice in it#  particularly.
-* It started as a glass of ice,#  but that melted.
-* All I had to do was throw a tea#  bag in there and WAM!
-* Don't worry! It tastes better#  this way.
-* Ice Tea, baby!
-* It's like the sequel to water!
-* This is the part where you#  spend the G that may or may not#  belong to you!
-* Hey, I ain't here to judge,#  I'm here to live!
-* Here's what I got. (20 G)
-* BAM!
-* Drink up!
-* Come on, pal.
-* I know my pitch was a little#  sloppy but I'm really tryin'.
-* If you change your mind, I'll#  be here.
-* The alphabet must have#  25 letters now, cause I'm#  fresh outta T!
-* I'm sure we'll meet#  again! Thanks for believin'#  in me!
-* MO, OUT!
-* That Mo is an odd one.	
-* I woulda talked to him#  but I don't know how...#  legal his business is.
-* Our conversation#  could've turned very#  awkward, very fast.
+* Pero, ¡vamos! Todos#  cometimos algún delito#  en nuestra vida, ¿verdad?
+* Para mí, una pizca de hurto,#  una pizca de fraude fiscal...#  ¡Delito dietético!
+* Para ti, alteración del#  orden público, agresión,#  varios... homicidios...
+* ¡SUPUESTAMENTE!
+* ¿Quién tiene pruebas,#  verdad? ¡Los chismes#  tienen que ser chismes!
+* Así que probablemente estés#  pensando: "¿Qué vende este#  gato tan guapo?".
+* En primer lugar, no soy un#  gato ¡pero agradezco#  el cumplido!
+* Tenía toda esta historia sobre#  el "Agua" pero, oye,#  ¿para mi mejor cliente?
+* ¡Voy a pasar DIRECTAMENTE#  al inventario premium#!
+* ¡Eeeeso es!
+* Esta vez lo hice todo. ¡Esto#  es un verdadero lujo por aquí!
+* Se llama AGUA. Nombre#  pegadizo, ¡lo sé!
+* Por suerte para ti, ¡estoy#  regalando muestras gratis!
+* ¿Quieres un vaso?
+* ¡Ahora mismo!
+* ¡Oh, vamos, amigo!
+* ¡Tu lengua debe estar tan#  seca como el suelo!
+* ¡Déjame que te invite!
+* Un momento.
+* Si conoces a tu chico#  Mo, sabes que planeé#  todo eso.
+* Aquí está mi producto REAL:#  ¡ICE TEA!
+* Es como la secuela del agua.#  ¡Pero mucho mejor!
+* Ahora, voy a ser realista#  contigo.
+* El té no lleva hielo#  particularmente.
+* Empezó como un vaso de hielo,#  pero se derritió.
+* Lo único que tuve que hacer#  fue echar una bolsita#  de té y ¡WAM!
+* ¡No te preocupes!#  Sabe mejor así.
+* ¡Ice Tea, nena!
+* ¡Es como la secuela del agua!
+* ¡Esta es la parte en la#  que gastas el ORO que#  pueden pertenecerte o no!
+* Hey, no estoy aquí para#  juzgar, ¡Estoy aquí#  para vivir!
+* Esto es lo que tengo. (20 ORO)
+* ¡BAM!
+* ¡Bebe!
+* Vamos, amigo.
+* Sé que mi tono fue un#  poco descuidado, pero#  lo intento de verdad.
+* Si cambias de opinión,#  estaré aquí.
+* El alfabeto debe tener#  ahora 25 letras, ¡porque#  me he quedado sin T!
+* ¡Estoy seguro de que nos#  volveremos a ver! ¡Gracias#  por creer en mí!
+* ¡MO, FUERA!
+* Ese Mo es raro.	
+* Habría hablado con él#  pero no sé cómo...#  de legal es su negocio.
+* Nuestra conversación podría#  haberse vuelto muy incómoda,#  muy rápido.
 anim_speed
 water_fly_away
-* Remember, the passcode is#  
-* No response.
+* Recuerda, la contraseña es#  
+* No hay respuesta.
 particle_emit
 audio_played
 rumble
@@ -18904,22 +18904,22 @@ tumbleweed_time0
 tumbleweed_time1
 tumbleweed_time2
 tumbleweed_time3
-* I appreciate your eagerness to#  help but this job is done!
-* Don't you worry, there is#  plenty more to do elsewhere!	
-* We reside in an industrial#  buffet of endless labor!!!
+* ¡Aprecio tu afán de#  ayudar pero este trabajo#  está hecho!
+* No se preocupe, ¡hay#  mucho más que hacer#  en otros lugares!	
+* ¡¡¡Residimos en un buffet#  industrial de mano de obra#  sin fin!!!
 switch_no_crawl
-* Watch it!
-* I have places to be!
-* Got a call about a job in#  Snowdin.
-* I was supposed to be there#  yesterday, but the walk is#  really far.
-* Wasn't feeling up to it.
-* Oh well. On I go!
-* Watch i- 
-* Sorry, didn't mean to block#  the path.
-* You... take care, I guess.
+* ¡Cuidado!
+* ¡Tengo sitios donde estar!
+* Recibí una llamada sobre#  un trabajo en Snowdin.
+* Tenía que haber ido ayer,#  pero el paseo es muy largo.
+* No me sentía con fuerzas.
+* Ah, bueno. ¡Adelante!
+* Mira es- 
+* Lo siento, no pretendía#  bloquear el camino.
+* Tú... cuídate, supongo.
 * (Yeesh...)
-* Can't talk right now.
-* I uh... gotta go.
+* No puedo hablar ahora.
+* Yo... tengo que irme.
 y_start
 y_end
 camera_height
