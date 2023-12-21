@@ -9004,7 +9004,7 @@ message2
 * (Perfecto para actividades#  emocionantes como sentarse.)
 * (Una mesa.)
 * (En un rincón hay una#  mesita para una persona.)
-* (No puede dejar de notar su#  fina artesanía.)
+* (No puedes dejar de notar su#  fina artesanía.)
 * (Esta silla es como#  la otra... pero mejor.)
 * (Una cama.)
 * (Es muy chillón.)
@@ -15614,7 +15614,7 @@ no_loop_autowalk
 * (No hay respuesta...)
 * (Al otro lado se#  oye débilmente un órgano.)
 * ¿Estás listo para irte?
-* ¿Dejar la casa de Dalv?
+* ¿Irse de la casa de Dalv?
 yes
 response
 * Si eso es lo que quieres,#  yo te guiaré.
@@ -16741,8 +16741,8 @@ destroy
 * ¿Te gustan?
 * Estos son mis proyectos.
 * A veces intento escribir#  libros. Para niños y#  cosas así...
-* (La mesa está cubierta de#  colores y páginas de#  simpáticos dibujos.)
-* A veces olvido de qué#  color son las cosas#  fuera de este lugar...
+* (La mesa está cubierta de#  colores y páginas de#  dibujos simpáticos.)
+* A veces olvido de que#  color son las cosas#  fuera de mi casa...
 * ¡Así que me los imagino!
 * Creo que a los niños les#  parecerá más interesante#  así.
 * Aunque puede que no sea#  tan educativo...
@@ -16850,18 +16850,18 @@ audio_sound_gain_gramophone
 * (Parece horriblemente desafinado.)
 * (Es una maceta llena de#  tierra.)
 * ¡Esa es mi planta de#  nabos!
-* ¡Debería estar brotando#  en cualquier momento!
+* ¡Debería brotar en#  cualquier momento!
 * ... Realmente se está#  tomando su tiempo...
 * Pero no lo apresuro.
 * (Tierra.)
-* No tengo exactamente#  una gran selección de#  comida.
+* No tengo precisamente#  una gran elección de#  comida.
 * No salgo mucho... 
 * ¡Oh, espera! Tengo#  algunas sobras que#  puedes llevarte.
-* Espero que os guste.#  Lo hice para mi#  cumpleaños.
-* ¡El Sponge Cake#  es mi favorito!
+* Espero que te guste.#  Lo hice para mi#  cumpleaños.
+* ¡El Sponge Cake es#  mi favorito!
 * (Es una Sponge Cake cubierta#  de caramelo).
 * (¡Obtuviste un Sponge Cake!)
-* Siento no haberte#  invitado, fue la#  semana pasada.
+* Siento no haberte#  brindado, fue la#  semana pasada.
 * ¡Puedes venir el año que#  viene!
 * ¿No?
 * Muy bien.
@@ -16889,8 +16889,8 @@ audio_sound_gain_gramophone
 * (Una firma que dice#  "Penilla", está#  escrito en la esquina.)
 * (Una pintura.)
 * (Le falta realismo maicero.)
-* (Es un guardarropa de aspecto#  intimidatorio.)
-* (Hay un globo flotando lentamente en#  su interior. Tiene dibujada una#  carita de felicidad.)
+* (Es un guardarropa con un#  aspecto intimidante.)
+* (Dentro hay un globo flotando#  lentamente. Tiene una#  carita feliz.)
 * (Respeta la privacidad de Dalv.)
 * Oye. ¿Te importaría#  darle a Pops su espacio?
 * Le gusta la oscuridad...
@@ -16963,7 +16963,7 @@ cam2
 * Solo hay una cosa#  por hacer...
 * ¿Qué hacen realmente#  los amigos?
 * ¿Quieres...#  ver mi casa?#  ¿O algo así?
-* Tengo que ir allí asi#  que supongo que pasa#  pasa por alli pronto.
+* Tengo que ir allí así#  que supongo que puedes#  ir si deseas.
 ¿Me estás... perdonando?
 Pero... ¿qué pasa con ellos?
 ¿Por qué solo yo?
@@ -16985,9 +16985,9 @@ Ya has hecho#suficiente daño aquí.
 * Somos...  amigos ahora#  así que...
 * Mira lo que quieras
 * Nos vemos... más tarde.
-* Tengo que...#  arreglar algo en#  otra habitación.
+* Tengo que...#  arreglar algo en otra#  habitación.
 * Sientate,#  ponte cómodo,#  quítate los zapatos.
-* En realidad por favor,#  dejalas puestas el suelo#  está un poco sucio.
+* En serio por favor,#  déjalos en el suelo#  están un poco sucios.
 * No he barrido desde#  esta mañana.
 * Parece que te tomaste#  tu tiempo.
 * Oh, pero no te preocupes#  estoy acostumbrado#  a estar solo.
@@ -17000,9 +17000,9 @@ no_loop_dalv_hallway
 * De acuerdo, sé que#  probablemente quieras#  ponerte en marcha.
 * Pero siéntete libre#  de quedarte todo el#  tiempo que quieras.
 * Bienvenido de nuevo.
-* Um... No estoy seguro#  de qué#  decir...
-* Hice algunas tarjetas para#  situaciones de emergencia#  con amigos...
-* ...pero los#  he perdido.
+* Um... No estoy seguro#  de qué decir...
+* Hice algunas tarjetas#  para situaciones de# emergencia con amigos...
+* ...pero los he#  perdido.
 * Siéntete como en casa...#  otra vez.
 * ¡Espero haber sido#  un buen anfitrión!
 __b__
@@ -17029,9 +17029,9 @@ __b__
 * Oh...
 * Parece que la salida#  está bloqueada...
 * Veamos.
-* Ya está.#  Ya está todo listo.
+* Ya está.#  Está todo listo.
 * Oh, antes de que lo#  olvide, ¡nunca pregunté#  por tu nombre!
-* ¿Te importaría#  informarme?
+* ¿Te importaría#  decírmelo?
 * ¿Clover? Qué bonito#  nombre.
 * Bueno, Clover,#  muchas gracias.
 * Nos vemos luego...
@@ -17059,7 +17059,7 @@ __b__
 * y Crispy Scroll podra#  mostrarme ese "anime".
 * Pensé en irme...
 * ¿Pero por qué irme#  cuando tengo una gran#  familia aquí mismo?
-* Además, realmente#  he dejado ir este lugar..
+* Además, realmente#  he abandonado este lugar..
 * ¡Una semana de#  limpieza sin parar!
 * Bueno... Debería#  sacarte de aquí.
 * Adiós...
