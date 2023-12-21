@@ -9127,7 +9127,7 @@ bottom-right
 * (Observas el logotipo#  de SPSS en las cajas.)
 * (Parece que pueden con#  más que las cartas.)
 * (Un cajón.)
-* (Una cinta transportadora# oxidada que transporta#  varias gemas y piedras.)
+* (Una cinta transportadora#  oxidada que transporta#  varias gemas y piedras.)
 * (Se oyen ruidos#  pegajosos de las cajas.)
 * (La caja sólo contiene#  unos cuantos cacahuetes.)
 * (Nada útil.)
@@ -14949,7 +14949,7 @@ song_change
 play_song
 ransong
 bark_song_chance
-* What's up?
+* ¿Qué hay?
 * You enjoying the tune we're#  currently bangin' out?
 * Hope you are 'cause it's the#  only one we're playing tonight.
 * No requests this time, sorry#  kid.
@@ -15478,48 +15478,48 @@ draw_ellipse_color
 organic_spawn_chance_max
 organic_spawn_chance_current
 cell
-* Gee, wouldja look at#  that...	
-* I can almost see the#  King's Castle from here!
+* Vaya, mira eso...	
+* ¡Casi puedo ver el#  Castillo del Rey#  desde aquí!
 * Heh, ASGORE...
-* Monsters shower him#  with praise but it's#  totally overblown.
-* See, he's what they#  call a 'Boss Monster'.
-                     #         'Boss Monster' 
-* Means he has special#  traits; more power than#  others...
-* When you take him down,#  his SOUL will stay#  intact.
-* But only for a moment#  before... BOOM! You win.
-* I've heard the guy's#  immortal too. Can't age#  a second!
-* At least, not anymore.	
-* Wild, huh?
-* When you inevitably#  kill him, his SOUL will#  stay intact.
-* But only for a moment#  before... BOOM! It's#  gone forever.
-* I'll let you in on a#  little secret though...
-* In that short window of#  time, you can reach out#  and take his SOUL.
-* With its power, you'll#  be able to cross the#  barrier and return home.
-* Your back turned on the#  Underground, your duty#  fulfilled.
-* Doesn't that sound#  nice?
-* Yes? No?
-* Come on, gimme#  something!	
-* Fine.
-* You're becoming harder#  and harder to read, you#  know that?	
-* A little too “broody”#  for my taste too.
-* Just keep your eyes on#  the Castle, okay?
-* Boss Monsters know how#  to cling to life, that's#  for sure.
-* Hey, don't let all that#  info scare ya!
-* Immortal doesn't mean#  invincible!
-* And still, a human SOUL#  is more powerful than a#  Boss Monster SOUL.
-* ASGORE may seem#  intimidating but it's#  all show.
-* Deep down, he's afraid#  of you. A true pushover.
-* Anyway, just thought#  I'd prepare my pal for#  what's to come!
+* Los monstruos le#  dedican elogios, pero#  son exagerados.
+* Mira, él es lo que#  llaman un "Boss Monster".
+                    #            "Boss Monster" 
+* Significa que tiene#  rasgos especiales; más#  poder que otros...
+* Cuando lo derribes,#  su ALMA permanecerá#  intacta.
+* Pero sólo por un#  momento antes de...#  ¡BUM! Tú ganas.
+* He oído que el tipo#  también es inmortal.#  ¡No envejece nunca!
+* Al menos, ya no.
+* Salvaje, ¿eh?
+* Cuando inevitablemente#  lo mates, su ALMA#  permanecerá intacta.
+* Pero sólo por un#  momento antes de...#  ¡BUM! Se fue para siempre.
+* Te contaré un#  secretito...
+* En ese corto espacio#  de tiempo, puedes ir#  y tomar su ALMA.
+* Con su poder, podrás#  cruzar la barrera#  y volver a casa.
+* Le das la espalda#  al Subsuelo, y#  misión cumpleta.
+* ¿No suena bien?
+* ¿Sí? ¿No?
+* ¡Vamos, dime algo!
+* Bien.
+* Cada vez es más#  difícil leerte,#  ¿lo sabías?	
+* Un poco demasiado#  "sentimental" para mi#  gusto también.
+* Sólo mantén tus ojos#  en el Castillo,#  ¿de acuerdo?
+* Los Boss Monsters saben#  cómo aferrarse a la#  vida, eso es seguro.
+* ¡Oye, no dejes que#  toda esa información#  te asuste!
+* ¡Inmortal no significa#  invencible!
+* Y aún así, un ALMA humana#  es más poderosa que un#  ALMA de Boss Monster.
+* ASGORE puede parecer#  intimidante, pero es#  todo un espectáculo.
+* En el fondo,#  te tiene miedo.#  Un verdadero débil.
+* De todos modos, ¡sólo#  pensé en preparar a#  mi amigo para después!
 line_col
 xx_1
 xx_2
 xx_3
 pain_sound
 * (...Phew.)
-* (A cake in its cage.)
-* (You would like some Cake but#  you'd rather not alert Axis.)
-* (Risk it?)
-* (Better safe than sorry.)
+* (Un pastel en su jaula.)
+* (Te gustaría un poco#  de Cake pero prefieres#  no alertar a Axis.)
+* (¿Arriesgarse?)
+* (Más vale prevenir#  que lamentar.)
 cood_x
 cood_y
 spawned_object
@@ -15533,9 +15533,9 @@ sword_spawn_timer
 sword_dist
 sword_spawn_x
 tape_present
-* (An old, dusty monitor with#  nothing but static hissing at#  you.)    
-* (This only brings you unease.)
-* (You load the mysterious tape#  into the slot underneath the#  screen...)
+* (Un monitor viejo y polvoriento#  con nada más que#  estática llamándote.)    
+* (Esto sólo te produce malestar.)
+* (Cargas la misteriosa cinta#  en la ranura debajo#  de la pantalla...)
 hitbox
 dir_variation
 blend_amount
@@ -15888,7 +15888,7 @@ ARMADURA:
 drawn_ammo
 F. Pellets
 MUNICIÓN: 
-MODIFICADOR: 
+MODIF.: 
 ORO: 
 H2O
 USAR
@@ -18984,70 +18984,70 @@ bumper
 parent_rail
 obj_mc_rails
 obj_mc_rail_horizontal
-What...
-What was that?
-Were you in my#head just now?
-You have NO#right!
+Que...
+¿Qué fue eso?
+¿Estabas en mi#cabeza hace#un momento?
+¡No tienes#NINGÚN#derecho!
 shadow_id
 shadow_index
 music_in_battle
 current_mus_pos
-* (The shelf is lined with#  several books, some educational,#  some recreational.)
-* (A book titled "Gemstone Fever"#  catches your eye.)
-* The Underground has been the#  home to thousands of gemstones,
-* Yet only four types have been#  discovered.
-* The Swelterstone - Hue, Yellow
-  The Swelterstone              
-* This stone emits immense heat,#  sum depending on its size.
-* It is also the brightest stone,#  frequently used to illuminate#  various Underground locations.
-* The Glacialstone - Hue, Blue
-  The Glacialstone
-* Opposite of the Swelterstone;#  emmits a frigid temperature.
-* This stone is abundant in#  cooler areas such as Snowdin#  and Waterfall.
-* The Aromaticstone - Hue, Green
-  The Aromaticstone
-* This rare stone smells like#  apples. That is all.
-* The Pinkstone  - Hue, in#  the name.
-  The Pinkstone
-* No trait for this stone has#  been discovered as of#  publication.
-* (You sift through the book and#  catch a couple more facts.)
-* With the temperature stones#  having higher quantities in#  certain areas,
-* They can be a large factor in#  determining their location's#  climate.
-* Gemstones do not have much#  monetary worth within the#  Underground Economy.
-* Instead, they are often#  utilized for their traits,#  jewelry, or other decoration.
-* The largest gemstone to be#  discovered is located in the#  Dunes.
-* It is approximated to be as big#  as 10,000 hardhats!
-* (You close the book and put it#  back.)
-* (You are now dizzy with#  gemstone fever.)
-* (An empty cart sits#  on the rails.)
-* (Hop in?)
-* You takin' a ride? No#  worries! I'll catch up!
+* (La estantería está llena de#  libros, algunos educativos#  y otros recreativos.)
+* (Un libro titulado#  "Gemstone Fever"#  llamo tu atención.)
+* El Subsuelo ha sido el#  hogar de miles de piedras#  preciosas,
+* Sin embargo, sólo se han#  descubierto cuatro tipos.
+* El Swelterstone - Tono, Amarillo
+  El Swelterstone              
+* Esta piedra emite un calor#  inmenso, suma en función#  de su tamaño.
+* También es una piedra que es,#  utilizada para iluminar#  diversos lugares del Subsuelo.
+* El Glacialstone - Tono, Azul
+  El Glacialstone
+* Enfrente de la Swelterstone;#  emite una temperatura helada.
+* Esta piedra abunda en zonas#  más frías como Snowdin#  y Waterfall.
+* El Aromaticstone - Tono, Verde
+  El Aromaticstone
+* Esta piedra rara huele a#  manzanas. Eso es todo.
+* El Pinkstone  - Tono, en#  el nombre.
+  El Pinkstone
+* No se ha descubierto ningún#  rasgo para esta piedra en el#  momento de la publicación.
+* (Hojeas el libro y descubres#  un par de datos más.)
+* Con la temperatura las piedras#  tienen mayores cantidades#  en ciertas zonas,
+* Pueden ser un factor vital#  a la hora de determinar#  el clima de su ubicación.
+* Las Gemstone no tienen mucho#  valor monetario dentro de#  la Economía del Subsuelo.
+* En cambio, se utilizan por#  sus rasgos, joyas u#  otros adornos.
+* La mayor gemstone descubierta#  se encuentra en las Dunes.
+* Se calcula que es tan grande#  como 10.000 cascos.
+* (Cierras el libro y lo#  vuelves a guardar.)
+* (Ahora estás mareado#  por la fiebre de las#  gemstone.)
+* (En los raíles hay#  un carro vacío.)
+* (¿Subir?)
+* ¿Vas a dar un paseo?#  ¡No hay problema!#  ¡Me pondré al día!
 end_player_alpha
-* Clover? You okay?
-* Did you faint or#  something?
-* Hey, we can take a#  break soon, alright?	
-* (That was strange...)
+* ¿Clover?#  ¿Estás bien?
+* ¿Te desmayaste o#  algo?
+* Oye, podemos tomar#  un descanso pronto,#  ¿vale?	
+* (Eso fue extraño...)
 est_timer
-* I'm guessing this is our#  ticket out of here.
-* Just have to... uh...
-* Why don't you take a#  stab at it?
-* Technology and I don't#  exactly mix well.
-* I hope that worked.
-* It's unfortunate Axis#  had to end up this way.
-* Maybe I should...
-* I wish Chujin's project#  could thrive but a line#  had to be drawn.
-* Can't dwell in the past#  any longer.
+* Supongo que este es#  nuestro boleto de#  salida.
+* Sólo tengo que...#  eh...
+* ¿Por qué no lo#  intentas tú?
+* La tecnología y yo#  no nos llevamos#  muy bien.
+* Espero que eso#  funcionara.
+* Es una pena que Axis#  tuviera que acabar#  así.
+* Tal vez debería...
+* Ojala que el proyecto#  de Chujin prospere, pero#  hay que trazar una línea.
+* No puedo seguir#  viviendo en el pasado.
 wall_x
-* What's out there? What's out#  there??
-* No! Follow the path. FOLLOW#  THE PATH.
-* WHO'S PULLING THE STRINGS,#  HUH???
-* A WILL AIN'T FREE. LOSS IS#  CERTAIN.
+* ¿Qué hay ahí fuera?#  ¿¿Qué hay ahí fuera??
+* ¡No! Sigue el#  camino. SIGUE#  EL CAMINO.
+* ¿¿¿QUIÉN MUEVE LOS HILOS,#  EH???
+* UN TESTAMENTO NO ES#  GRATIS. LA PÉRDIDA ES#  SEGURA.
 * hNNNNNNG.
 clovjump
-* Heyo!
-* (Just a bucket of trash.#  Fascinating.)
-* (Some stale fruitcake sits in a#  bucket, leftover from a Mining#  Co. holiday party.)
-* (You got fruitcake!)
+* ¡Heyo!
+* (Sólo un cubo de basura.#  Fascinante.)
+* (Un pastel de frutas viejo#  reposa en un cubo, sobrante#  de una fiesta de la Mining Co.)
+* (¡Obtuviste un fruitcake!)
 elevator_active
 elevator_can_collide
 act
@@ -19061,9 +19061,9 @@ ground_tiles
 grass_tiles
 rm_dunes_27
 snap_to_elevator
-* Let's not venture off#  the path.
-* I've had enough#  Steamworks for today.
-* (Return to the laundry#  room?)
+* No nos salgamos#  del camino.
+* Ya he tenido suficiente#  Steamworks por hoy.
+* (¿Volver a la lavandería?)
 spr_pulley_elevator_floor_dark
 obj_pulley_elevator_1
 obj_pulley_elevator_2
@@ -19526,134 +19526,134 @@ current_mus
 * Sure is a cool wagon!
 * We can move on, I've#  seen enough.
 * (An old, abandoned wagon.)
-* Welcome to the Mining#  Co. Mines! (I wasn't#  expecting visitors...)
-* If you have an inquiry,#  please take it up with#  my assistant.
-* I heard some rumblings#  of danger back west.
-* Sent everyone home for#  now.
-* Waiting to see if it#  was a false alarm or#  not.
-* Sure hope everything's#  okay...
-* Gilbert, please. We've#  been married 27 years.
-* You can handle the#  questions yourself.
-Firing
+* ¡Bienvenido a las Minas#  Co. Mines! (No esperaba#  visitas...)
+* Si tiene alguna consulta,#  por favor, hágala con#  mi asistente.
+* Oí algunos rumores#  de peligro en el oeste.
+* Envié a todos a casa#  por ahora.
+* Esperando a ver si era#  una falsa alarma o no.
+* Espero que todo#  esté bien...
+* Gilbert, por favor.#  Llevamos 27 años casados.
+* Puedes encargarte tú#  mismo de las preguntas.
+Despido
 Elevador
-* C-certainly dear!
-* If you're gonna ask#  about the hot#  conditions...
-* I'm ordering more#  Glacialstone Cold Packs#  later today.
-* And if you're gonna ask#  about the falling rocks,
-* I'm gonna investigate#  it soon!
-* No need to worry,#  everything is fine!
-* So... what is it?
-* The elevator was broken?#  That can't be right.
-* We refurbished it last#  month.
-* The company was given a#  repair budget for the#  whole mine.
-* Turns out marble walls#  and gold tiling adds up#  quick.
-* We ran out.
-* Gorgeous baseboard job,#  though. Totally worth#  it.
-* Someone isn't doing#  their job correctly?
-* Well I never!
-* They deserve a good#  slap on the wrist, that#  they do!
-* One more mistake and I#  might put them in the#  timeout corner!
-* I'll uh... send Angie#  down to confront them.
-* You won't fire them#  will you?
-* Of course not!
-* The only monster I ever#  fired was the health#  inspector.
-* Fired him before he#  arrived.
-* I take great pride in#  these mines.
-* Been supervising them#  for around thirty years!
-* Here every single day.
-* I did take a week off#  when my kiddo was born.
-* But was right back at#  it when the time came.
-* Strangely, the progress#  report for that week#  was above average.
-* Haven't had an#  emergency like this#  since the old cave in.
-* Abandoned a good#  facility that day.
-* If you ever see my kid# out there,
-* Tell 'em that their#  old man misses 'em!
-* If you're leaving, stay#  safe out there.
-* But I wouldn't#  recommend roaming around#  right now.
+* ¡C-Ciertamente#  querida!
+* Si vas a preguntar#  por las condiciones#  de calor...
+* Hoy mismo ordenare#  paquetes de#  Glacialstone.
+* Y si vas a preguntar#  sobre las rocas que caen,
+* Voy a investigar#  ¡pronto!
+* No hay necesidad de#  preocuparse, ¡todo#  está bien!
+* Así que... ¿qué pasa?
+* ¿El ascensor estaba#  roto? Eso no puede#  estar bien.
+* Lo renovamos el mes#  pasado.
+* La empresa recibió un#  presupuesto de para#  reparar toda la mina.
+* Resulta que las paredes#  de mármol y los suelos#  dorados se acumulan.
+* Nos quedamos sin nada.
+* Un trabajo de base#  precioso, sin embargo.#  Merece la pena.
+* ¿Alguien no hace#  bien su trabajo?
+* ¡Bueno, yo nunca!
+* Se merecen un buen#  jalón de orejas,#  ¡se lo merecen!
+* ¡Un error más y podría#  ponerlos en el rincón#  del tiempo muerto!
+* Yo uh... Enviaré a#  Angie a enfrentarlos.
+* No los despedirás,#  ¿verdad?
+* ¡Por supuesto que no!
+* El único monstruo al#  que despedí fue el#  inspector de salud.
+* Lo despedi antes de#  que llegara.
+* Estoy muy orgulloso#  de estas minas.
+* Llevo treinta años#  supervisándolos.
+* Aquí todos los días.
+* Me tomé una semana#  libre cuando nació#  mi hijo.
+* Pero cuando llegó el#  momento, volvi.
+* Curiosamente, el#  progreso de esa semana#  fue superior a la media.
+* No había tenido una#  emergencia como esta#  desde el viejo derrumbe.
+* Ese día abandonó#  una buena instalación.
+* Si alguna vez ves#  a mi niño por ahí,
+* ¡Diles que su viejo#  los echa de menos!
+* Si te vas, mantente#  a salvo ahí fuera.
+* Pero yo no#  recomendaría vagabundear# ahora mismo.
 hat_text
-* You... you found my hat!
-* You are a kind soul!
-* I don't have anything to give#  you... but I am eternally#  grateful.
-* I lost all of my TNT...
-* I have to tell the Foreman.
-* He'll fire me, I'm sure, but#  it's my fault.
-* I would go tell him right now,#  but I lost my hard hat as well.
-* I can't protect my dome from#  the hazardous rocks outside.
-* Today isn't my day...
-* I have a brother, you see.
-* I work at the Mines to provide#  for us.
-* He doesn't have a job. Mostly#  just gets into mischief.
-* But... he's happy, so I'm happy.
-* How will I be able to look him#  in the face after I get fired?
-* I know I said I would go tell#  the Foreman but...
-* I'm pretty scared.
-* A few more minutes in my#  uniform won't hurt.
-* (You got eternal gratitude!)
-Hazards
-Foreman
-* Hello there!
-* My name is Angie! I'm#  the receptionist of#  Mining Co.
-* How may I help you?
-* Sí, I am aware of the#  dangers that lie#  outside the mines.
-* I could investigate#  but...
-* My husband, Gillbert#  needs to take more#  initiative.
-* I asked him to do it,#  let's see... six hours#  ago.
-* Baby steps.
-* I've heard that several#  hazards have been seen#  around the Dunes.
-                         #                        #             Dunes 
-* I hope it isn't those#  Wild East monsters#  pulling pranks.
-                       #  Wild East         #                 
-* They tend to step out#  of line every now and#  then.
-* I can't help but feel#  they're a bad influence#  on Moray.
-* Ah, these matters don't#  pertain to you.#  I apologize.
-* The Foreman right over#  there is my husband,#  Gillbert.
-* He's the boss of the#  mines but I do more#  than him around here.
-* What was that?
-* I work harder than you.
-* Yeah, you're right.
-* It's a mutual#  understanding.
-* And I love you for it.
-* This business is more#  important than it may#  seem.
-* It isn't easy for#  monsters to find a job#  these days.
-* For that reason, we#  hire anyone who applies!
-* All except for children.#  I think that's illegal.
-* You have a good journey!
-* Heard it could get#  rocky!
-* Haha! Good one, dear!
-* I've been waiting to#  say that.
-* That's my Angie!
-* Hope you've had a good#  time at Mining Co.!
-* If you need a place to#  hide out right now, you#  can stay here.
-* Would hate a youngin#  like you to get into#  trouble.
-* I hope little Moray is#  alright...
-* Need to go to the Wild#  East as soon as I can.
+* Tú... ¡encontraste mi#  casco!
+* ¡Eres un alma amable!
+* No tengo nada que darte...#  pero estoy eternamente#  agradecido.
+* Perdí todo mi TNT...
+* Tengo que decírselo#  al capataz.
+* Me despedirá, estoy seguro,#  pero es culpa mía.
+* Iría a decírselo ahora#  mismo, pero también he#  perdido mi casco.
+* No puedo proteger mi refugio#  de las peligrosas rocas#  del exterior.
+* Hoy no es mi día...
+* Tengo un hermano, ya ves.
+* Trabajo en las minas#  para proveernos.
+* No tiene trabajo. La mayoría#  de las veces hace de#  las suyas.
+* Pero... él es feliz, así#  que yo soy feliz.
+* ¿Cómo podré mirarle a la#  cara cuando me despidan?
+* Sé que dije que iría a#  decírselo al capataz pero...
+* Tengo bastante miedo.
+* Unos minutos más con mi#  uniforme no me vendrán mal.
+* (¡Tienes la gratitud#  eterna!)
+Riesgos
+Capataz
+* ¡Buenos días!
+* Me llamo Angie. Soy la#  recepcionista de#  Mining Co.
+* ¿En qué puedo ayudarle?
+* Sí, Soy consciente#  del peligro fuera#  de las minas.
+* Podría investigar#  pero...
+* Mi marido, Gillbert#  necesita tomar más#  iniciativa.
+* Le pedí que lo hiciera,#  veamos...#  hace seis horas.
+* Pasos de bebe.
+* He oído que hay#  varios peligros#  alrededor de las Dunas.
+                 #                 #                   Dunas
+* Espero que no sean#  del Wild East#  gastando bromas.
+                    #      Wild East                 
+* Suelen salirse de#  la línea de vez#  en cuando.
+* No puedo evitar sentir#  que son una mala#  influencia para Moray.
+* Ah, estos asuntos no#  te interesan. Me#  disculpo.
+* El capataz de allí es#  mi marido, Gillbert.
+* Es el jefe de las#  minas, pero yo hago#  más que él aquí.
+* ¿Qué ha sido eso?
+* Yo trabajo más que tú.
+* Sí, tienes razón.
+* Es una comprensión#  mutua.
+* Y te amo por ello.
+* Este asunto es más#  importante de#  lo que parece.
+* No es fácil para los#  monstruos encontrar#  trabajo hoy en día.
+* Por eso, ¡contratamos#  a cualquiera que#  lo solicite!
+* Todos excepto los#  niños. Creo que#  eso es ilegal.
+* ¡Que tengas un buen#  viaje!
+* ¡He oído que podría#  ponerse rocoso!
+* ¡Jajaja! ¡Muy#  graciosa, querida!
+* He estado esperando#  a decir eso.
+* ¡Esa es mi Angie!
+* Espero que lo hayas#  pasado bien en#  la Mining Co.!
+* Si necesitas un lugar#  donde esconderte,#  puedes quedarte aquí.
+* Odiaría que un joven#  como tú se metiera#  en problemas.
+* Espero que el#  pequeño Moray#  esté bien...
+* Tengo que ir al#  Wild East en cuanto#  pueda.
 * Bruh...
 target_bounds_left
 target_bounds_right
 target_object
-* You saw nothing.
-* Hello, visitor.
-* Did you venture through the#  whole mine?
-* What a journey.
-* For your troubles, I'll let you#  in on a little secret.
-* You see, we aren't mining for#  gemstones at all.
-* Those things are everywhere;#  practically worthless.
-* We're actually mining for#  minerals like this one in front#  of me.
-* They're used for building#  materials around the#  Underground, you see.
-* They're also... very...
-* I'm famished.
-* I just ADORE mining!!
-* Mine mine mine mine mine mine#  day and night!!
-* Gonna find a whole buncha...#  SPARKLY GEmS!!
-* Do not doubt my work ethic for#  one sEcond!!
-* I work HARD and am nOT on thin#  ice with the Foreman!!
-* I am on the thickest ice of all#  tIME!!
-* Mining mining mining!!
-* Okay, I can't handle this!!
-* I'm on my fourteenth warning!!#  FOURTEENTH!!
-* I've heard rumors that the#  Foreman has a "sixteen strikes,#  you're out" policy!!
-* Couldn't he lighten up a#  little??
-* HahA!! This is fun!!
+* No viste nada.
+* Hola, visitante.
+* ¿Te aventuraste a#  través de toda#  la mina?
+* Qué viaje.
+* Por las molestias,#  te contaré un#  secretito.
+* Verás, no estamos#  extrayendo gemstones#  en absoluto.
+* Esas cosas están por todas#  partes; prácticamente#  sin valor.
+* En realidad estamos#  extrayendo minerales como#  este que tengo delante.
+* Se usan para materiales#  de construcción en#  el Subsuelo.
+* También son... muy...
+* Estoy hambriento.
+* ¡¡Simplemente ADORO la#  minería!!
+* Mino mino mino mino mino mino#  ¡¡día y noche!!
+* Voy a encontrar mucho de...#  SPARKLY GEmS!!
+* ¡No dudes de mi ética de#  trabajo ni por un sEgundo!
+* ¡¡Trabajo DURO y nO estoy en#  la cuerda floja con el capataz!!
+* ¡¡Estoy en el hielo más grueso#  de todos los tIEMPos!!
+* ¡¡Minería Minería Minería!!
+* Ok, ¡¡no puedo con esto!!
+* ¡Estoy en mi decimocuarta#  advertencia!#  ¡¡¡Cuarta decimocuarta!!!
+* ¡¡Escuche que el Capataz#  tiene política de "16#  strikes, estás fuera"!!
+* ¿¿No podría relajarse#  un poco??
+* ¡JajA!!#  ¡¡Esto es divertido!!
 * Oh my...
 * What... What is all of#  this?
 * Formulas... SOUL#  research...
@@ -19667,30 +19667,30 @@ target_object
 * Oh... Oh my gosh... 
 * I never knew... He#  never mentioned... 
 * Clover, we have to go.#  Right now.
-* You visiting, or are you lost?
-Visiting
-I work here
-* Ah, well, there's not much to#  see.
-* The cave's a real mess.
-* She does contain some beautiful#  stones though, I'll tell you#  that!
-* Hope you enjoy your visit!
-* Haha!
-* That's cute, but you can't pull#  one over on me!
-* The Foreman doesn't hire kids.
-* Though, several employees seem#  to have the brain of one.
-* I'm sorry! That was mean.
-* You're very smart, I'm sure.
-* Enjoy your visit!
-* My job is to send all gemstones#  we find on this floor down to#  the sorting machine.
-* From there... I'm not quite#  sure where they go.
-* That's the problem with this#  place. You have to figure most#  things out yourself.
-* It's an honest living, though!
-* Oh, I know of a fun activity#  for you on your visit!
-* There's a fortune teller set up#  in town.
-* I visit her every week to hear#  about my potential future.
-* Give her some business if you#  pass by the area, okay?
-* My break is almost over, it#  seems.
-* Oh well.
+* ¿Estás de visita o te perdiste?
+Visita
+Trabajo aquí
+* Ah, bueno, no hay mucho#  que ver.
+* La cueva es un verdadero#  desastre.
+* Pero tiene unas piedras#  preciosas, ¡te lo aseguro!
+* ¡Espero que disfrute la visita!
+* ¡Jaja!
+* Eso es lindo, ¡pero no#  puedes superarme!
+* El capataz no contrata niños.
+* Aunque, varios empleados#  parecen tener el cerebro#  de uno.
+* ¡Lo siento! Eso fue malo.
+* Eres muy inteligente,#  estoy seguro.
+* ¡Disfrute de su visita!
+* Mi trabajo consiste en enviar#  las piedras preciosas a#  la máquina clasificadora.
+* A partir de ahí...#  No estoy muy seguro#  de a dónde van.
+* Ese es el problema de este#  sitio. Tienes que averiguar#  las cosas por ti mismo.
+* ¡Pero es una vida honrada!
+* Oh, conozco una actividad#  divertida para tú visita!
+* Hay un adivino instalado#  en la ciudad.
+* La visito todas las semanas#  para oír hablar de mi#  posible futuro.
+* Hazle un favor si pasas#  por la zona, ¿vale?
+* Parece que mi descanso#  está a punto de terminar.
+* Oh, bueno.
 dialogue_type
 * ¡No te he visto por#  las minas, amigo!
 * ¡Bienvenido al mejor lugar#  del Subsuelo!
