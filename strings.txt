@@ -3330,8 +3330,8 @@ scr_battle_core_directory_no_attack
 * Sir Slither has a proposition!#  (real)
 * Bowll charges near you!
 * Cactony wandered in, Sir#  Slither closely following.
-* It's time to dance!
-* Another roadblock.
+* ¡Es hora de bailar!
+* Otro obstáculo.
 * Violetta passively approaches#  from the flowerbed.
 * Pedla approaches from the#  flowerbed, offering you a#  flower.
 * Rosa approaches from the#  flowerbed, twisting a flower in#  her hand.
@@ -3488,8 +3488,8 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * Cactony would like to cry, but#  it's too hot.
 * Sir Slither does his iconic#  side-eyed smirk.
 * Bowll is applying super glue to#  his head.
-* The enemy seems puzzled.
-* El Bailador glides around the#  dancefloor with ease.
+* El enemigo parece confundido.
+* El Bailador se desliza por la#  pista de baile con facilidad.
 * Sand covers the dummy.
 * The pleasant scent of flowers#  fills the air.
 * There is no hope.
@@ -3576,13 +3576,13 @@ scr_battle_core_directory_flavor_text_enemy_1_default_2
 * A gust of wind threatens to#  topple Trihecta's pile.
 * Tri, Hec, and Ta are friendly#  and free.
 * Una ráfaga de viento sopla una#  pequeña pluma azul en su cara.#* Martlet parece avergonzada.
-* The sound of the chilled wind#  surrounds you.
+* El sonido del viento helado#  te rodea.
 * Dunebud begins to gargle a song.
 * Cactony tries to gather some#  needles he dropped.
 * Sir Slither looks you up and#  down.
 * Huffs and puffs and other#  stuffs.
-* Get this over with.
-* Smells like disco.
+* Termina con esto.
+* Huele a discoteca.
 * Violetta nervously shuffles#  her feet.
 * Pedla wants you to know that#  you are loved!
 * Rosa bursts into laughter but#  you have no idea why.
@@ -3629,8 +3629,8 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * Cactony gives you an empty look.
 * You hear some jingling as Sir#  Slither rattles inside his pot.#  
 * Sounds like a hundred toasts.
-* The enemy glances around#  awkwardly.
-* El Bailador flexes his huge#  muscles!
+* El enemigo mira torpemente#  a su alrededor.
+* ¡El Bailador flexiona sus enormes#  músculos!
 * Violetta takes her time.
 * Pedla starts humming a song#  you recognize.
 * Rosa sways back and forth#  cheerfully.
@@ -3666,7 +3666,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_4
 * Martlet se descubre a sí#  misma perdiéndose en la música.
 * Martlet prepara su próximo#  ataque.
 * Sir Slither is trying to#  butter Cactony up.
-* All the flashing lights make#  you dizzy.
+* Todas las luces#  intermitentes te marean.
 * Goosic's music is making#  Jandroid extra energetic.
 * The Jandroid's are trying to#  harmonize.
 * The fight rages.
@@ -3700,7 +3700,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_5
 * Frostermit is contemplating a return into his fortress.
 * Martlet consulta nerviosa#  su guía de la Guardia Real.
 * No estás seguro de que esta#situación sea saludable.#  Para cualquiera.
-* El Bailador throws sand in the#  air like confetti.
+* El Bailador lanza arena al#  aire como si fuera confeti.
 * You hear nothing but gunshots,#  whip cracks, and a mighty#  acoustic guitar.
 * You begin to sweat under the#  immense heat.
 * You wonder where the mute#  button is.
@@ -3723,7 +3723,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_6
 * Know Cone wonders if fire would help him.
 * Know Cone wants to show Frostermit his favorite element.
 * Sir Slither compliments#  Cactony's bullet patterns.
-* The sounds of a thousand#  trumpets echo around you.
+* El sonido de mil trompetas#  resuena a tu alrededor.
 * Metallic mania fills the air!
 * Smells like a landfill.
 * The atmosphere chills with#  ire.
@@ -3744,7 +3744,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_7
 * Know Cone raves about his passion for fire to Insomnitot.
 * Know Cone doesn't speak igloo.#* Know Cone is upset.
 * Frostermit has never been in the situation before.
-* You feel the rhythm in your#  soul!
+* ¡Sientes el ritmo en el alma!
 * The Jandroid's sway to and#  fro.
 * No mercy.
 * Starlo digs his spurs into the#  sand, standing strong.
@@ -3984,7 +3984,7 @@ dunebud b
 bowll a
 * Clean
 * Girar
-* Stare
+* Mirada
 * Flatter
 * Aceptar
 * Resistir
@@ -4037,7 +4037,7 @@ action_2_color_3
 * Avoid
 * Believe
 * Taunt
-* Smile
+* Sonreir
 * Inquire
 * Calm
 * Glare
@@ -4162,7 +4162,7 @@ enemy_low_hp_3
 * BOWLL -- ATQ 
 #* Una fachada frágil.
 * EL BAILADOR -- ATQ 
-#* La definición de pasión!
+#* ¡La definición de pasión!
 #* Otro obstáculo.
 * Violetta -- ATQ 
 #* No es alguien para una conversación.
@@ -5498,13 +5498,13 @@ scr_sme_yellow_rhythm_out_gen_end_script_bowll
 scr_sme_yellow_rhythm_out_script_bowll
 scr_generate_battle_el_bailador
 scr_recreate_heart_battle_menu_text_el_bailador
-* You clumsily spin around.#* El Bailador appreciates the#  effort.
-* You stare at the enemy with#  irritation.
-* He tries to act like he#  doesn't notice.
+* Das vueltas torpemente.#* El Bailador aprecia#  el esfuerzo.
+* Miras fijamente al#  enemigo con irritación.
+* Intenta actuar como#  si no se diera cuenta.
 scr_dialogue_battle_action_selected_action_1_el_bailador
-* You begin to enjoy yourself and#  let out a grin.#* El Bailador smiles back.
+* Empiezas a disfrutar y#  sueltas una sonrisa.#* El Bailador te devuelve la sonrisa.
 scr_dialogue_battle_action_selected_action_2_el_bailador
-* You stop dancing and look at#  El Bailador.#* This upsets him.
+* Dejas de bailar y miras a#  El Bailador.#* Eso le molesta.
 scr_dialogue_battle_action_selected_action_3_el_bailador
 gml_Script_scr_start_enemy_attacking_el_bailador_ext
 scr_start_enemy_attacking_el_bailador
@@ -9142,8 +9142,8 @@ elevator_next_room
 * (Una máquina de#  grandes rocas.)
 * (Te preguntas cómo#  lo vuelves a encender.)
 * (Se grapa un trozo#  de papel a la máquina.)
-* "Construido a medida por Hotland Mechanics."
-* "Firma del propietario:#  "North Star.""
+* "Construido a medida por#  Hotland Mechanics."
+* "Firma del propietario:#  "North Star."
 * ¡ATENCIÓN!# ¡Tienda de regalos#  adelante!
 * Pinch-Pinch~ jeje.
 self_message
@@ -19086,54 +19086,54 @@ spawn_noloop
 talon_pause
 talon_spawn_scratch
 scratch
-* Hello, sir!
-* I'm guessing you're the#  boss of this#  mine.
-* Well, not for much#  longer.
-* Oh? Why's that?
-* I'm preparing for#  retirement!
-* It'll be sad to leave#  this place behind but I#  feel it's time.
-* Hey, that's not all#  bad! I WISH I could#  retire.
-* Yeah, it'll be nice.#  Just gotta find someone#  to replace me.
-* I have a few#  ideas.	
-* Well, good luck with#  everything!
-* Thank you!
-* Finally figured out how#  to turn these machines#  off.
-* Me and North Star need#  to have a chat.
-* Things were already#  running well earlier but#  now they're even better!	
-* Glad my legacy in this#  place will be nothing#  but positive memories!
-* Halt!
-* I, El Bailador, have tasked#  myself with confrontation!
-* The air is much too quiet!#  Much too dreary!
-* You make no noise when you#  move!
-* You lack RHYTHM! FEELING!#  FERVOR!
-* If I did not know any better,#  I might have mistaken you for#  a Sentinel of Silence!
-* No no... this will not do!
-* You must prove to me that you#  have what it takes!
-* What it takes to live a life#  of richness!
-* I challenge you... to DANCE!
-* And your eyes - they tell a#  woeful tale!
-* We must liven up this dismal#  atmosphere!
-* It is time... to DANCE!
-* To truly find oneself,#  they must ignite a#  passion within!
-* Let us duel!
+* ¡Hola, señor!
+* Supongo que eres el#  jefe de esta#  mina.
+* Bueno, no por mucho#  tiempo.
+* ¿Oh? ¿Por qué?
+* Me estoy preparando#  para la jubilación.
+* Será triste dejar#  este lugar atrás pero#  siento que es el momento.
+* ¡Eh, eso no es tan#  malo! DESEARÍA# poder jubilarme.
+* Sí, estará bien. Sólo#  tengo que encontrar a#  alguien que me reemplace.
+* Tengo algunas#  ideas.	
+* Bueno, ¡buena suerte#  con todo!
+* ¡Gracias!
+* Finalmente descubrí#  cómo apagar estas#  máquinas.
+* Yo y North Star#  necesitamos tener#  una charla.
+* Las cosas ya iban bien#  antes, ¡pero ahora#  van aún mejor!	
+* Me alegro de que mi#  legado en este lugar#  sean recuerdos positivos.
+* ¡Alto!
+* ¡Yo, El Bailador, me he#  encargado de la#  confrontación!
+* ¡El aire está demasiado#  tranquilo!#  ¡Demasiado deprimente!
+* ¡No haces ruido cuando#  te mueves!
+* ¡Te falta RITMO!#  ¡SENTIMIENTO!#  ¡ENTUSIASMO!
+* ¡Si no te conociera mejor,#  podría haberte confundido con#  un Centinela del Silencio!
+* No, no... ¡esto no#  va a funcionar!
+* ¡Debes demostrarme#  que tienes lo que#  hay que tener!
+* ¡Lo que se necesita#  para vivir una vida#  de riqueza!
+* Te reto... ¡a BAILAR!
+* Y tus ojos... ¡cuentan#  una historia lamentable!
+* ¡Hay que animar este#  ambiente deprimente!
+* ¡Ha llegado la#  hora... de BAILAR!
+* Para encontrarse de verdad#  a uno mismo, ¡debes encender#  una pasión interior!
+* ¡Duelo!
 * Huff... huff...
-* You have proven your passion,#  little one!
-* I apologize if the dance was#  strenuous on your health!
-* Sometimes having fun means a#  few doctor's visits!
-* However, it seems that you do#  not love dance as much as I.
-* Perhaps you find happiness#  through other means?
-* I have never considered that#  for quiet monsters such as#  you.
-* Ah, well, I at least hope#  your day has been brightened!
-* I wish you a fulfilling#  journey!
-* Ahem.
-* This is rather awkward...
-* I am inclined to make my exit.
-* Farewell.
+* Has demostrado tu pasión,#  ¡pequeño!
+* Le pido disculpas si el#  baile ha sido agotador#  para su salud.
+* A veces, divertirse implica#  unas cuantas visitas#  al médico.
+* Sin embargo, parece que a#  ti no te gusta el baile#  tanto como a mí.
+* ¿Quizás encuentres la#  felicidad por otros#  medios?
+* Nunca lo había considerado#  para monstruos silenciosos#  como tú.
+* Ah, bueno, ¡al menos#  espero que se te#  haya alegrado el día!
+* ¡Le deseo un viaje#  lleno de satisfacciones!
+* Ejem.
+* Esto es bastante incómodo...
+* Me inclino a hacer mi salida.
+* Hasta la vista.
 absorb_effect_delay
 absorb_effect_count
 window
-* (Pick up the Dimensional#  Satchel?)
-* (You got the Dimensional#  Satchel!)
+* (¿Recoger la#  Dimensional Satchel?)
+* (¡Conseguiste la#  Dimensional Satchel!)
 * Hey Axis!
 WHAT.
 * How do you feel about#  second dates?
@@ -22607,12 +22607,12 @@ Vamos, ¿perdiste con#esta novata?
 ¡Acelera, amigo!
 Hablando de "congelarse",#¡jaja!
 ...Oh cierto, no puedes#reirte porque... Sí.
-Come on, buddy!
-Surely you can dance#better than THAT!
-Do you have good#rhythm?
-'Cause it kinda seems#like you need it.
-Talk about over the#top...
-Let's show this#showoff who's boss!
+¡Vamos, amigo!
+¡Seguro que puedes bailar#mejor que ESO!
+¿Tienes buen#ritmo?
+Porque parece que#lo necesitas.
+Hablando de exagerar...
+¡Demostrémosle a este#presumido quién manda!
 I can't say I blame#you for dying, honestly.
 It's four v one out#there! Buncha cheaters...
 Heh, how are they#gonna explain THIS to#the Sheriff?
@@ -22699,13 +22699,13 @@ autofire_enabled
 menu_option_selected
 menu_option_number
 Reintentar
-RITMO-AUTOMÁTICO:
+RITMO-AUTO.:
 ON
 OFF
 AUTO-DISPARAR ({0}):
 heart_xx
 heart_yy
-RITMO-AUTOMÁTICO: 
+RITMO-AUTO.: 
 pl_x_diff
 Flier died
 sign_modifier_x
@@ -23311,17 +23311,17 @@ parallax_y_multiplier
 dist_cam_y
 layer_width
 no_loop_switch_x
-I want to see your#spirit of fire!
-One and two and-
-Ah, that was much too#simple!
-Let us try this!
-Come on, dance#with me!
-I am only trying#to teach!
-Follow my lead!
-Ha ha!
-This is fun,#right?
-Ha...
-Ha......
+¡Quiero ver tu#espíritu de#fuego!
+Uno y dos y-
+Ah, ¡eso fue#demasiado simple!
+¡Intentémoslo!
+¡Vamos, baila#conmigo!
+¡Sólo intento#enseñar!
+¡Sígueme!
+¡Ja ja!
+Esto es divertido,#¿verdad?
+Ja...
+Ja......
 .........
 Tienes valor.
 Solo dices eso# porque te#sientes obligado.
@@ -23771,25 +23771,25 @@ dust_alarm
 dust_disjoint
 cape_distance
 depth_default
-This is how it#must be.
-Heating up!
-The passion! IT GROWS!
-Aha! Yes!
-This is what I live#for!
-A life without dance#is empty, I say!
-Others say that dance#can also take life#away!
-I do not see what they#mean!
-A world of solitude#and silence? That is#not for me!
-The Underground is#much too depressing,#you see!
-We are trapped within#a barrier with no hope#for freedom!
-A sad, sad situation!
-But it is not sad for#I!
-We must make do#with what we have!
-Find time for#activities that#make us happy!
-I am outgoing because#happiness is not a#quiet virtue!
-I often encourage#monsters in hope that#it is contagious!
-Even if monsterkind is#cursed to this grim#state, we must stick#it out to the end!
-All the way up to the#FINALE!
+Así es como#debe ser.
+¡Calentando!
+¡La pasión!#¡CRECE!
+¡Ajá! ¡Sí!
+¡Para esto#vivo!
+¡Una vida sin danza#está vacía,#digo yo!
+Otros dicen que#la danza también#puede quitar la#vida.
+No entiendo lo#que quieren#decir.
+¿Un mundo de#soledad y#silencio? Eso#no es#para mí.
+El Subsuelo es#demasiado deprimente,#¡ya ves!
+Estamos atrapados#en una barrera#sin esperanza#de libertad.
+¡Una situación#muy, muy#triste!
+¡Pero no es#triste para#mí!
+Debemos#arreglárnoslas con#lo que tenemos.
+¡Encontrar tiempo#para actividades#que nos hagan#felices!
+Soy extrovertido#porque la felicidad#no es una virtud#silenciosa.
+¡A menudo animo#a los monstruos#con la esperanza#de que se contagien!
+Aunque estemos#condenados#a este sombrío estado,#¡debemos aguantar#hasta el final!
+¡Hasta#el#FINAL!
 Error: Variable Out Of#Range
 finale_chart
 background_obj
