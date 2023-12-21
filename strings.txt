@@ -9144,7 +9144,7 @@ elevator_next_room
 * (Se grapa un trozo#  de papel a la máquina.)
 * "Construido a medida por#  Hotland Mechanics."
 * "Firma del propietario:#  "North Star."
-* ¡ATENCIÓN!# ¡Tienda de regalos#  adelante!
+* ¡ATENCIÓN!#  ¡Tienda de regalos#  adelante!
 * Pinch-Pinch~ jeje.
 self_message
 * ¡Cuidado con mis pinzas,#  viajero!
@@ -10319,7 +10319,7 @@ layer_remove_x_next
 layer_remove_x_inc
 spawn_vines
 actor_clover
-* Clover?
+* ¿Clover?
 * Where did you go, buddy?
 * Get b a c k   h   e    r     e 
 snake_spawn_last
@@ -14672,7 +14672,7 @@ camy_new
 * Even now...
 * All of it.
 * ¿Qué es esto?
-* Great.
+* Genial.
 hp
 hurtbox
 charge_state
@@ -16747,34 +16747,34 @@ destroy
 * Creo que a los niños les#  parecerá más interesante#  así.
 * Aunque puede que no sea#  tan educativo...
 * (Dibujos infantiles esparcidos sobre#  la mesa.)
-* Gee, looks like we're#  getting close to an exit#  from this place.
-* Aside from those mines,#  time has been pretty#  friendly to us.	
-* Should be a simple#  journey from here on ou-
-* Hey! Human!
+* Vaya, parece que nos#  estamos acercando a una#  salida de este lugar.
+* Aparte de esas minas,#  el tiempo ha sido muy#  amistoso con nosotros.	
+* Debería ser un viaje#  sencillo de aquí en adelante...
+* ¡Oye! ¡Humano!
 Es Clover
-* Don't attack me, I can#  explain why I'm here!
-* I said I would find you#  again, didn't I?
-* Well, after our#  encounter, I spotted you#  stealing Ava... My raft.
-* BUT, I won't hold it#  against you.
-* I'm sure you didn't#  mean to wreck her.
-* I attacked you, you#  destroyed something I#  love, even steven!
-* Anyway, I followed the#  river and ended up here.
-* I know I came off as a#  murderous Royal Guard#  but I'm honestly not!
-* I have to follow my#  guidebook when dealing#  with humans and stuff...
-* Oh! Right! I really#  dislike calling you#  "human".
-* What's your actual#  name?
-* What a unique name! I#  love it!
+* ¡No me ataques,#  puedo explicarte#  por qué estoy aquí!
+* Dije que te#  encontraría de nuevo,#  ¿no?
+* Bueno, después de#  nuestro encuentro, te#  vi robando a Ava...
+* PERO, no te lo#  echaré en cara.
+* Estoy seguro de que no#  quisiste destrozarla.
+* ¡Te ataqué, destruiste#  algo que amo, igualamos!
+* De todos modos, seguí#  el río y terminé aquí.
+* Sé que parezco una#  Guardia Real asesina,#  ¡pero no lo soy!
+* Tengo que seguir mi#  guía cuando trato con#  humanos y esas cosas...
+* ¡Oh! ¡Bien! En serio#  no me gusta llamarte#  "humano".
+* ¿Cuál es tu nombre#  real?
+* ¡Qué nombre tan#  único! ¡Me encanta!
 Okay
 Uh...
-* So, Clover, this is a#  big favor, but I would#  like to help you.
-* I kinda let you escape#  in Snowdin so... I'm in#  too deep.
-* I'm sure I could pull#  my weight! I'll even let#  you lead! 
-* I won't leave your side#  to ensure your safety!
+* Así que, Clover, este#  es un gran favor, pero#  me gustaría ayudarte.
+* Te dejé escapar en#  Snowdin, así que...#  Estoy muy involucrada.
+* ¡Estoy segura de que#  puedo ayudar!#  ¡Incluso te dejaré guiar! 
+* ¡No me iré de tu lado#  para garantizar tu#  seguridad!
 * ¿Por favor?
-* Sí!
-* I'll take that as a#  yes!
-* This will be super fun!
-* So... shall we be off?
+* ¡Sí!
+* Tomaré eso como un#  ¡sí!
+* ¡Será muy divertido!
+* Entonces...#  ¿nos vamos?
 * Ten cuidado con eso.
 * Esa escoba ha sido como#  mi mejor amiga.
 * ¡Nunca pensé que sería#  reemplazado por un#  verdadero amigo!
@@ -19134,40 +19134,40 @@ absorb_effect_count
 window
 * (¿Recoger la#  Dimensional Satchel?)
 * (¡Conseguiste la#  Dimensional Satchel!)
-* Hey Axis!
-WHAT.
-* How do you feel about#  second dates?
-LIKE A#CALENDAR?
-WHAT IS THIS?
-THIS FEELING?
+* ¡Oye Axis!
+QUE.
+* ¿Qué opina de las#  segundas citas?
+¿COMO UN#CALENDARIO?
+¿QUÉ ES ESTO?
+¿ESTE SENTIMIENTO?
 axis_shake_intensity
-* Uh oh!
-SOULMATE LOCATED.
-PERFECTION#PERSONIFIED.
-WHERE HAS THIS#BEAUTY BEEN ALL#MY LIFE?
-THE SHIMMER.#THE COMPLEXION.
-THE...#C U R V E S
-* OKAY that's enough!
-* Clover, let's uh...#  let's wrap this up.
+* ¡Uh oh!
+ALMA GEMELA#LOCALIZADA.
+PERFECCIÓN#PERSONIFICADA.
+¿DÓNDE#HA ESTADO#ESTA BELLEZA#TODA#MI VIDA?
+EL BRILLO.#LA COMPLEXIÓN.
+LAS...#C U R V A S
+* OK ¡ya basta!
+* Clover, vamos a...#  terminemos con esto.
 can_rumble
-* This playground used to be fun.
-* Ever since my playmate stopped#  showing up, it's become boring.
-* I wonder where they went?
-* Thanks for sitting with me.
-* I hope we can be friends.
-* I better get going soon.
-* My papa's probably wondering#  where I am.
-* (It's an empty swing.)
-* (Hop on?)
+* Este patio infantil#  solía ser divertido.
+* Desde que mi compañero#  de juegos dejó de aparecer,#  se ha vuelto aburrido.
+* ¿Me pregunto adónde#  habra ido?
+* Gracias por sentarte conmigo.
+* Espero que seamos amigos.
+* Será mejor que me vaya pronto.
+* Mi papá se estará#  preguntando dónde estoy.
+* (Es un columpio vacío.)
+* (¿Subir?)
 npc_clover
-* (The "s" in "products" is#  crudely scribbled out.)
-* (There's a note attached#  to the cactus.)
-* 50% OFF ON ALL OF#  OUR PRODUCT-!
-* OPENING HOURS#    MO-FRI: 8AM - 4PM#    SAT-SUN: 8AM - 2PM
-* LUNCH BREAK#    12:00AM - 12:15PM
+* (La "s" de "productos" está#  bruscamente garabateada.)
+* (Hay una nota pegada#  al cactus.)
+* 50% DE DESCUENTO EN#  TODOS NUESTROS PRODUCTOS.
+* HORARIO DE APERTURA#  LUN-VIE: 8:00 - 16:00#  SÁB-DOM: 8:00 - 14:00
+* PAUSA PARA COMER#  12:00 - 12:15
 glass_width
-* (Take the mug shards?)
-* (Obtained Glass Ammo!)
+* (¿Tomar los mug shards?)
+* (¡Obtuviste Glass Ammo!)
 fortune
 fortune_ready
 * Hello, traveler!
@@ -19385,9 +19385,9 @@ object_is_active
 * (Through thick and thin and#  over time, the sapling is ready#  to blossom!)
 * (What once was an idea within#  someone's mind is now a#  reality.)
 * (A little hard work and#  dedication is all it took to#  make something special.)
-* Welcome to Oasis Valley!
-             Oasis Valley 
-* Home to the largest body of#  water in the Dunes!
+* ¡Bienvenido a Oasis Valley!
+                Oasis Valley 
+* ¡Hogar de la mayor#  masa de agua de#  las Dunas!
 in_battle_twitch_timer
 turns_passed_max
 main_heart
@@ -19396,45 +19396,45 @@ random
 twitch_sound
 twitch_heart
 twitch_range
-* Gee, looks like we're#  getting close to an#  exit from this place.
-* Aside from those mines,#  time has been pretty#  friendly to us.
-* Should be a simple#  journey from here on#  ou-  
-It's OK
-Calm down
-* You're alive! You're#  here!
-* You're... here...
-* I CAN'T BELIEVE MYSELF!
-* I LEFT YOU ALL ALONE IN#  THAT CAVE!
-* YOU HAD TO BRAVE THE#  DUNES BY YOURSELF!!
-* I'M A HORRIBLE FRIEND!
-* They trust me to be a#  Royal Guard and I left#  a child for dead!!
-* Like, what is wrong#  with me?????
-* I... yes.
-* You're clearly able to#  take care of yourself.
-* I... okay.
-* I should take a few#  breaths and properly#  assess the situation.
-Forgive
-* The crash just happened#  so fast.
-* When I saw what had#  happened to you, I#  panicked!
-* I flew over the sandy#  landscape and found#  this town.
-* I soon realized that I#  couldn't risk getting#  other monsters involved.
-* They might've#  questioned me and I#  cannot keep secrets!
-* They could've turned us#  in to the more sinister#  Royal Guards!
-* So I uh...
-* Sat by a cactus for an#  hour, thinking of what#  a piece of garbage I am.
-* I then got the courage#  to travel back to you#  and apologize but...
-* Here you were.
-* So... I'm deeply sorry!
-* Thank you, Clover!
-* You're very kind!
-* Anyway, we should move#  on.
-* I decided that I won't#  leave your side now!
-* I'll follow wherever#  you lead!
-* You just endured some#  crazy Underground#  shenanigans, though.
-* I'd understand if you#  need to rest for a bit.
-* If you wanna hang#  around, that's great!
-* I didn't get to#  sightsee at all on the#  way over here.
-* Well then, friend.#  Shall we be off?
+* Vaya, parece que nos#  estamos acercando a#  una salida de este lugar.
+* Aparte de esas minas,#  el tiempo ha sido muy#  amistoso con nosotros.
+* Debería ser un viaje#  sencillo de aquí en#  adelante...  
+Está BIEN.
+Cálmate.
+* ¡Estás vivo!#  ¡Estás aquí!
+* Tú estás... aquí...
+* ¡NO ME LO PUEDO CREER!
+* ¡TE DEJÉ SOLO EN ESA#  CUEVA!
+* ¡¡TUVISTE QUE#  ENFRENTARTE A LAS#  DUNES TU SOLO!!
+* ¡SOY UNA AMIGA#  HORRIBLE!
+* ¡¡Confían en mí para#  ser guardia real y doy#  por muerto a un niño!!
+* Como,#  ¿¿¿¿¿qué me pasa?????
+* Yo... sí.
+* Está claro que puedes#  cuidar de ti mismo.
+* Yo... vale.
+* Debería respirar un#  poco y evaluar bien#  la situación.
+Perdonar
+* El choque ocurrió#  tan rápido.
+* Cuando vi lo que te#  había pasado, ¡entre#  en pánico!
+* Volé sobre el paisaje#  arenoso y encontré#  esta ciudad.
+* Pronto me di cuenta de#  que no podía arriesgarme#  a involucrar a otros.
+* ¡Podrían haberme#  interrogado y yo no#  puedo guardar secretos!
+* ¡Podrían habernos#  convertido en los más#  infeliz Guardias Reales!
+* Así que yo...
+* Me sente junto a un#  cactus durante una hora,#  siendo una basura.
+* Entonces tuve el coraje#  de volver a ti y#  disculparme pero...
+* Aquí estabas.
+* Así que... ¡lo#  siento profundamente!
+* ¡Gracias, Clover!
+* ¡Eres muy amable!
+* De todos modos,#  deberíamos seguir#  adelante.
+* ¡Decidí que no me#  iré de tu lado ahora!
+* Te seguiré a#  dondequiera que me#  guíes.
+* Sin embargo, acabas de#  soportar algunas#  locuras del Subsuelo.
+* Entendería si#  necesitas descansar#  un poco.
+* Si quieres#  quedarte por aquí,#  ¡genial!
+* No pude hacer nada#  de turismo en el#  camino hasta aquí.
+* Bien, amigo.#  ¿Nos vamos?
 screenshake_power
 draw_glitches
 (They're asleep...)
