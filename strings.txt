@@ -15478,48 +15478,48 @@ draw_ellipse_color
 organic_spawn_chance_max
 organic_spawn_chance_current
 cell
-* Gee, wouldja look at#  that...	
-* I can almost see the#  King's Castle from here!
+* Vaya, mira eso...	
+* ¡Casi puedo ver el#  Castillo del Rey#  desde aquí!
 * Heh, ASGORE...
-* Monsters shower him#  with praise but it's#  totally overblown.
-* See, he's what they#  call a 'Boss Monster'.
-                     #         'Boss Monster' 
-* Means he has special#  traits; more power than#  others...
-* When you take him down,#  his SOUL will stay#  intact.
-* But only for a moment#  before... BOOM! You win.
-* I've heard the guy's#  immortal too. Can't age#  a second!
-* At least, not anymore.	
-* Wild, huh?
-* When you inevitably#  kill him, his SOUL will#  stay intact.
-* But only for a moment#  before... BOOM! It's#  gone forever.
-* I'll let you in on a#  little secret though...
-* In that short window of#  time, you can reach out#  and take his SOUL.
-* With its power, you'll#  be able to cross the#  barrier and return home.
-* Your back turned on the#  Underground, your duty#  fulfilled.
-* Doesn't that sound#  nice?
-* Yes? No?
-* Come on, gimme#  something!	
-* Fine.
-* You're becoming harder#  and harder to read, you#  know that?	
-* A little too “broody”#  for my taste too.
-* Just keep your eyes on#  the Castle, okay?
-* Boss Monsters know how#  to cling to life, that's#  for sure.
-* Hey, don't let all that#  info scare ya!
-* Immortal doesn't mean#  invincible!
-* And still, a human SOUL#  is more powerful than a#  Boss Monster SOUL.
-* ASGORE may seem#  intimidating but it's#  all show.
-* Deep down, he's afraid#  of you. A true pushover.
-* Anyway, just thought#  I'd prepare my pal for#  what's to come!
+* Los monstruos le#  dedican elogios, pero#  son exagerados.
+* Mira, él es lo que#  llaman un "Boss Monster".
+                    #            "Boss Monster" 
+* Significa que tiene#  rasgos especiales; más#  poder que otros...
+* Cuando lo derribes,#  su ALMA permanecerá#  intacta.
+* Pero sólo por un#  momento antes de...#  ¡BUM! Tú ganas.
+* He oído que el tipo#  también es inmortal.#  ¡No envejece nunca!
+* Al menos, ya no.
+* Salvaje, ¿eh?
+* Cuando inevitablemente#  lo mates, su ALMA#  permanecerá intacta.
+* Pero sólo por un#  momento antes de...#  ¡BUM! Se fue para siempre.
+* Te contaré un#  secretito...
+* En ese corto espacio#  de tiempo, puedes ir#  y tomar su ALMA.
+* Con su poder, podrás#  cruzar la barrera#  y volver a casa.
+* Le das la espalda#  al Subsuelo, y#  misión cumpleta.
+* ¿No suena bien?
+* ¿Sí? ¿No?
+* ¡Vamos, dime algo!
+* Bien.
+* Cada vez es más#  difícil leerte,#  ¿lo sabías?	
+* Un poco demasiado#  "sentimental" para mi#  gusto también.
+* Sólo mantén tus ojos#  en el Castillo,#  ¿de acuerdo?
+* Los Boss Monsters saben#  cómo aferrarse a la#  vida, eso es seguro.
+* ¡Oye, no dejes que#  toda esa información#  te asuste!
+* ¡Inmortal no significa#  invencible!
+* Y aún así, un ALMA humana#  es más poderosa que un#  ALMA de Boss Monster.
+* ASGORE puede parecer#  intimidante, pero es#  todo un espectáculo.
+* En el fondo,#  te tiene miedo.#  Un verdadero débil.
+* De todos modos, ¡sólo#  pensé en preparar a#  mi amigo para después!
 line_col
 xx_1
 xx_2
 xx_3
 pain_sound
 * (...Phew.)
-* (A cake in its cage.)
-* (You would like some Cake but#  you'd rather not alert Axis.)
-* (Risk it?)
-* (Better safe than sorry.)
+* (Un pastel en su jaula.)
+* (Te gustaría un poco#  de Cake pero prefieres#  no alertar a Axis.)
+* (¿Arriesgarse?)
+* (Más vale prevenir#  que lamentar.)
 cood_x
 cood_y
 spawned_object
@@ -15533,9 +15533,9 @@ sword_spawn_timer
 sword_dist
 sword_spawn_x
 tape_present
-* (An old, dusty monitor with#  nothing but static hissing at#  you.)    
-* (This only brings you unease.)
-* (You load the mysterious tape#  into the slot underneath the#  screen...)
+* (Un monitor viejo y polvoriento#  con nada más que#  estática llamándote.)    
+* (Esto sólo te produce malestar.)
+* (Cargas la misteriosa cinta#  en la ranura debajo#  de la pantalla...)
 hitbox
 dir_variation
 blend_amount
@@ -15888,7 +15888,7 @@ ARMADURA:
 drawn_ammo
 F. Pellets
 MUNICIÓN: 
-MODIFICADOR: 
+MODIF.: 
 ORO: 
 H2O
 USAR
@@ -19021,33 +19021,33 @@ current_mus_pos
 * (Ahora estás mareado#  por la fiebre de las#  gemstone.)
 * (En los raíles hay#  un carro vacío.)
 * (¿Subir?)
-* You takin' a ride? No#  worries! I'll catch up!
+* ¿Vas a dar un paseo?#  ¡No hay problema!#  ¡Me pondré al día!
 end_player_alpha
-* Clover? You okay?
-* Did you faint or#  something?
-* Hey, we can take a#  break soon, alright?	
-* (That was strange...)
+* ¿Clover?#  ¿Estás bien?
+* ¿Te desmayaste o#  algo?
+* Oye, podemos tomar#  un descanso pronto,#  ¿vale?	
+* (Eso fue extraño...)
 est_timer
-* I'm guessing this is our#  ticket out of here.
-* Just have to... uh...
-* Why don't you take a#  stab at it?
-* Technology and I don't#  exactly mix well.
-* I hope that worked.
-* It's unfortunate Axis#  had to end up this way.
-* Maybe I should...
-* I wish Chujin's project#  could thrive but a line#  had to be drawn.
-* Can't dwell in the past#  any longer.
+* Supongo que este es#  nuestro boleto de#  salida.
+* Sólo tengo que...#  eh...
+* ¿Por qué no lo#  intentas tú?
+* La tecnología y yo#  no nos llevamos#  muy bien.
+* Espero que eso#  funcionara.
+* Es una pena que Axis#  tuviera que acabar#  así.
+* Tal vez debería...
+* Ojala que el proyecto#  de Chujin prospere, pero#  hay que trazar una línea.
+* No puedo seguir#  viviendo en el pasado.
 wall_x
-* What's out there? What's out#  there??
-* No! Follow the path. FOLLOW#  THE PATH.
-* WHO'S PULLING THE STRINGS,#  HUH???
-* A WILL AIN'T FREE. LOSS IS#  CERTAIN.
+* ¿Qué hay ahí fuera?#  ¿¿Qué hay ahí fuera??
+* ¡No! Sigue el#  camino. SIGUE#  EL CAMINO.
+* ¿¿¿QUIÉN MUEVE LOS HILOS,#  EH???
+* UN TESTAMENTO NO ES#  GRATIS. LA PÉRDIDA ES#  SEGURA.
 * hNNNNNNG.
 clovjump
-* Heyo!
-* (Just a bucket of trash.#  Fascinating.)
-* (Some stale fruitcake sits in a#  bucket, leftover from a Mining#  Co. holiday party.)
-* (You got fruitcake!)
+* ¡Heyo!
+* (Sólo un cubo de basura.#  Fascinante.)
+* (Un pastel de frutas viejo#  reposa en un cubo, sobrante#  de una fiesta de la Mining Co.)
+* (¡Obtuviste un fruitcake!)
 elevator_active
 elevator_can_collide
 act
@@ -19061,9 +19061,9 @@ ground_tiles
 grass_tiles
 rm_dunes_27
 snap_to_elevator
-* Let's not venture off#  the path.
-* I've had enough#  Steamworks for today.
-* (Return to the laundry#  room?)
+* No nos salgamos#  del camino.
+* Ya he tenido suficiente#  Steamworks por hoy.
+* (¿Volver a la lavandería?)
 spr_pulley_elevator_floor_dark
 obj_pulley_elevator_1
 obj_pulley_elevator_2
