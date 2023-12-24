@@ -9184,7 +9184,7 @@ self_message
 * (¡Es bueno mantenerse#  hidratado!)
 * (Una caja de botellas.)
 * (En las cajas hay#  decenas de botellas sin#  abrir.)	
-* (No se puede coger#  uno sin# armar un escandalo.)
+* (No se puede coger#  uno sin armar un#  escandalo.)
 * (El escenario.)
 * (Un escenario listo para#  actuar.)
 * (Lástima que hoy no#  haya conciertos.)
@@ -9946,13 +9946,13 @@ debris
 npc_id
 npc_flag
 ds_map_replace
-* What an introduction, right?
-* Hope ya didn't have any stage#  fright!
-* Stages can be scary! All...#  wooden, occasionally making#  faces at you...
-* I'm from out of town like#  yourself.
-* Got some folks I'm close to#  back west.
-* I really gotta get 'em over#  here soon! They'd love the#  atmosphere!
-* Good luck out there, human!
+* Vaya introducción,#  ¿no?
+* ¡Espero que no hayas#  tenido miedo escénico!
+* ¡Los escenarios dan miedo!#  Todos... de madera,#  haciéndote caras...
+* Soy de fuera de la ciudad#  como tú.
+* Tengo algunos amigos#  cercanos en el oeste.
+* ¡Tengo que traerlos aquí#  pronto! Les encantaría#  el ambiente.
+* ¡Buena suerte ahí fuera,#  humano!
 grass_current
 grass_spawn_x
 grass_spawn_y
@@ -10246,11 +10246,11 @@ side_last
 new_flowey
 npc_dynamic_depth
 * Gragbh... Blaffm.....#  Clfmph......	
-* (Howdy human!)
+* (¡Buenas humano!)
 * Fribb... Jiblem..... 
 * Hick...
 * Blpshm......
-* (Give me a drink, bartender!)
+* (¡Dame un trago,#  camarero!)
 door_visible
 * "Metalworks Emergency Escape#  Plan (or MEEP):
 * In case someone sets the room#  on fire, do not use the#  elevator.
@@ -11527,10 +11527,10 @@ object_found
 shadow_actor
 shadow_active
 object_get_parent
-* I'll come right out and say#  it: Sí, I am a finger.
-* I came free with the last#  shipment of bottles.
-* ...What else do you want me to#  say?
-* Stop poking around in my#  business.
+* Lo diré sin rodeos:#  Sí, soy un dedo.
+* Vine gratis con el#  último cargamento de#  botellas.
+* ...¿Qué más quieres#  que te diga?
+* Deja de meterte en#  mis asuntos.
 subscene
 * ¡Bam!
 * Sabes quién es, ¿verdad?
@@ -11944,18 +11944,18 @@ hint_button_alpha
 speed_modifier
 phy_rotation
 strikes
-* North Star is the coolest!
-* One time, a construction team#  was demolishing a building in#  New Home.
-* But uh oh! An infant was in#  the way of the building as it#  came CRASHING down!
-* Suddenly, North Star appeared#  and wound his lasso up!
-* He wrangled that skyscraper#  without breaking a sweat! Yee#  haw! Yee haw!
-* For saving its life, the#  building gave North Star ONE#  MILLION G!
-* True story! True story!
-* Me and North Star are a lot#  alike, don'tcha think?
-* The golden complexions, the#  hats, the owning of two legs.
-* I would roleplay as his son if#  only he'd let me!
-* North Star's four friends are#  OKAY but who cares about#  sidekicks?
-* I mean, unless I was his#  sidekick. I would care about#  that A LOT!
+* ¡North Star es#  lo máximo!
+* Una vez, un equipo de#  construcción estaba demoliendo#  un edificio en New Home.
+* Pero, ¡oh! ¡Un bebé estaba en#  el camino del edificio#  cuando se vino abajo!
+* De repente, apareció#  North Star ¡y tensó#  su lazo!
+* ¡Manejó ese rascacielos#  sin sudar!#  ¡Yee haw! ¡Yee haw!
+* Por salvarle la vida, el#  edificio regaló a North#  Star ¡UN MILLÓN DE ORO!
+* ¡Una historia real!#  ¡Una historia real!
+* Yo y North Star nos#  parecemos mucho, ¿no crees?
+* Las complexiones doradas,#  los sombreros, poseer#  dos piernas.
+* ¡Jugaría como su hijo#  si me dejara!
+* Los cuatro amigos de#  North Star están bien,#  pero ¿a quién le importan?
+* Quiero decir, a menos#  que yo fuera su compañero.#  ¡Eso me importaría MUCHO!
 destroy_check
 destroy_timer
 dir_start
@@ -12478,8 +12478,8 @@ shield_health
 fill_percentage_inc
 execute_destroy
 default_alpha
-* (You sense cannibalistic#  intent.)
-* Hey!
+* (Percibes intenciones#  caníbales.)
+* ¡Hey!
 portrait_enabled
 spr_blank
 tori_dialogue
@@ -13415,16 +13415,16 @@ T8 Obj Ed
 T8 Quote Ed
 T10 Obj Ed
 T10 Quote Ed
-* The saloon isn't always this#  crowded.
-* It's Happy Hour, you see? Half#  price drinks!
-* But you don't know that so#  they'll continue to sell you#  full price drinks.
-* Whatever you do, do NOT come#  here during Crappy Hour!
-* The drinks are TWICE as#  expensive and Dina throws a#  punch at whoever orders one!
-* Upside is you get a coupon for#  10% off your clinic visit at#  the end.
-* I would love to stick around#  for your stay but I got a#  cactus to hug.
-* ...What's with the look?
-* So I have a boyfriend. Get#  over it???
-* (The elevator is in use.)
+* El salón no siempre#  está tan lleno.
+* Es la hora feliz, ¿ves?#  Bebidas a mitad de precio.
+* Pero tú no lo sabes, así que#  seguirán vendiéndote#  bebidas a precio completo.
+* Hagas lo que hagas, ¡NO#  vengas aquí durante#  la hora de la basura!
+* Las bebidas son el DOBLE#  de caras y Dina le da#  un puñetazo a quien pide una.
+* La ventaja es que al final#  te dan un cupón del 10% de#  descuento a la clínica.
+* Me encantaría quedarme#  durante tu estancia, pero#  tengo un cactus que abrazar.
+* ...¿Por qué esa mirada?
+* Tengo pareja.#  ¿¿¿Superame???
+* (El ascensor está en uso.)
 D-DOn'T HATE#ON MY m/MusIC#TASTES_
 BiT OF A#H-H-HARSH nOISE#COMPLAINT/ /
 KEEP UP !#KEEP UP !
@@ -15309,14 +15309,14 @@ move_speed_attack_increase
 angle_spread
 can_raise
 vspeed_inc
-* (A lonesome Safety Jacket#  hangs on the wall.)
-* (You got the Safety Jacket!)
-* (Several monsters are enjoying#  a nice, fair game of#  poker.)
-* ...How do I keep losing?
-* (Things are heating up! It#  could be anyone's#  game!)
-* Shucks, I might have to take#  out a loan if I wanna keep this#  up!
-* (Looks like we have a#  winner!)
-* Well played and well payed,#  boys!
+* (Una solitaria chaqueta#  de seguridad cuelga#  de la pared.)
+* (¡Obtuviste un Safety Jacket!)
+* (Varios monstruos#  disfrutan de una buena#  partida de póquer.)
+* ...¿Cómo sigo perdiendo?
+* (¡Las cosas se ponen duras!#  ¡Podría ser el juego#  de cualquiera!)
+* ¡Caramba, voy a tener que#  pedir un préstamo si#  quiero seguir así!
+* (¡Parece que tenemos un#  ganador!)
+* ¡Bien jugado y bien#  pagado, chicos!
 * You made it! Great!
 * Behind that is New#  Home. The capital city.
 * I asked around and was#  told Ceroba and Starlo#  headed there.
@@ -20055,26 +20055,26 @@ petal_dir
 * A nice mownstuh named Mo gave#  me one one day.
 * Mownstuhs wike him desewve a#  big huwg.
 * I wuwnder how wong it'll take#  da Dowc to reawize I'm not sick?
-* Oh hey, I recognize you!
-* Ummm... wait, don't tell me!#  It's... Uh...
-* ¡Clover! 
-* Yeah, I remember you! 
-* I delivered your intro letter!
-* You're Clover? Am I right? 
-* Your name has come up once or#  twice!
-* Clover, right? Your name comes#  up all the time!
-* You must be real popular!
-* Hm? You look confused...
-* Oh right, I'm not rhyming!
-* Yeah, that's just a company#  policy.
-* It gets a little tiresome#  sometimes.
-* But other than that, I have no#  complaints!
-* It's a great job! Wouldn't#  trade it for the world!
-* I'm a little worried, though.
-* These days, those fancy "cell#  phones" are all the rage!
-* I don't know how long the mail#  service will-
-* Oh me! Oh my! My break's come#  to an end!
-* See you next time there's#  letters to send!
+* Oh hey, ¡te reconozco!
+* Ummm... espera, ¡no me lo#  digas! Es... Uh...
+* ¡Clover!
+* ¡Sí, me acuerdo de ti! 
+* ¡Entregué tu carta#  de presentación!
+* ¿Eres Clover? ¿Estoy en#  lo cierto? 
+* ¡Tu nombre ha salido una#  o dos veces!
+* Clover, ¿verdad? ¡Tu nombre#  aparece todo el tiempo!
+* ¡Debes de ser muy popular!
+* ¿Hm? Pareces confuso...
+* Oh, claro, ¡no estoy#  rimando!
+* Sí, es una política de#  empresa.
+* A veces resulta un#  poco agotador.
+* Pero aparte de eso,#  ¡no tengo ninguna queja!
+* ¡Es un gran trabajo!#  ¡No lo cambiaría#  por nada del mundo!
+* Pero estoy un poco#  preocupada.
+* Hoy en día, los#  "teléfonos móviles"#  están de moda.
+* No sé cuánto durará#  el servicio de correo-
+* ¡Oh! ¡Oh Dios! ¡Mi#  descanso ha llegado a su fin!
+* Nos vemos la próxima#  vez que haya cartas#  que enviar.
 * Hiya!
 * Swell job sitting on#  that stool!
 * I have a feelin' you'll#  be the talk of the town!
@@ -20098,30 +20098,30 @@ petal_dir
 * Don't worry!
 * It's super fun here, I#  promise!
 interact_count
-* Let me feel sorry for myself,#  please.
-* I will not let it go.
-* I'll tell ya what's wrong!
-* Then leave me be, will ya?
-* My life's a wreck!
-* Wasted, woeful, washed up!
-* I was supposed to make it big!
-* I was gonna be a big time#  producer!
-* Ya know, show business!
-* I couldn't tell ya where it#  went wrong.
-* I studied hard, I graduated#  middle school, what else do ya#  need?
-* Snuck my way into gig booking#  at a joint in Hotland with#  potential in my eyes.
-* One day, this robot fella#  rolled up to me and asked if#  I've ever produced an artist.
-* Now, I'm a great producer. Make#  hot beats on my computer every#  weekend.
-* I had the talent, but I lacked#  the vision.
-* I told that one-wheeled#  television they wouldn't make#  it in the industry.
-* What an IDIOT I was!
-* They soon garnered a following#  and totally exploded!
-* ...Not literally... maybe.
-* Look, kid, I'll tell ya this:
-* Sometimes, it's like we don't#  control our lives.
-* Fate has a cruel way of#  teachin' us lessons.
-* Have a little foresight and try#  not to grow arrogant like I did.
-* Don't you forget that.
+* Déjame sentir lástima#  por mí mismo, por favor.
+* No lo dejaré pasar.
+* ¡Te diré lo que pasa!
+* Entonces déjame en#  paz, ¿quieres?
+* ¡Mi vida es una ruina!
+* ¡Desaprovechado,#  lamentable, acabado!
+* ¡Se suponía que tenía#  que hacerlo a lo grande!
+* ¡Iba a ser un gran#  productor!
+* Ya sabes, ¡el mundo#  del espectáculo!
+* No sabría decirte#  dónde me equivoque.
+* Estudié mucho, me gradué en#  la escuela media, ¿qué#  más se necesitas?
+* Me colé en la reserva de#  un concierto en un local#  de Hotland con potencial.
+* Un día, un robot se me acercó y#  me preguntó si alguna vez#  había producido a un artista.
+* Ahora soy un gran productor.#  Hago ritmos calientes en mi#  ordenador cada fin de semana.
+* Tenía talento, pero me#  faltaba visión.
+* Le dije a esa televisión de#  una sola rueda que no#  triunfarían en la industria.
+* ¡Qué IDIOTA fui!
+* Pronto ganaron seguidores#  ¡y explotaron por#  completo!
+* ...No literalmente...#  tal vez.
+* Mira, niño, te diré#  esto:
+* A veces, es como si no#  controláramos nuestras vidas.
+* El destino tiene una manera#  cruel de enseñarnos lecciones.
+* Ten un poco de previsión e#  intenta no volverte#  arrogante como hice yo.
+* No lo olvides.
 * You gotta get me outta here,#  kid!
 * I have a family! Hopes! Dreams!#  TV programs I've missed!
 * I didn't do nothin' bad, I#  swear!
@@ -20438,12 +20438,12 @@ flash
 * I won't blame you if#  you wanna ditch this#  town.
 * Hope you had a decent#  time, though!
 * Ya know... before#  everything.
-* You there. Human.
-* You okay?
-Yeah
-* Well... alright then.
-* About what I expected.
-* I apologize for Star's#  antics.
+* Tú. Humano.
+* ¿Estás bien?
+Seh
+* Bueno... de acuerdo.
+* Más o menos lo que#  esperaba.
+* Pido disculpas por#  las payasadas de Star.
 * He's really into human#  culture and whatnot.
 * You show up here and he#  flips out.
 * I mean, it is quite#  unbelievable.
@@ -20528,7 +20528,7 @@ starlo_x_original
 * ¡Chicos! ¡Miren aquí!
 * Alguien nuevo ha#  tropezado en nuestra#  humilde ciudad.
 * Más vale que no sea#  otra broma...
-* Por una vez, no mires#  como es.
+* Por una vez, no#  parezca que lo es.
 * ¡Hola, forasteros!
 * ¡Oh, hola!
 * Sólo estamos de#  paso.
@@ -21022,97 +21022,97 @@ crowd_animate
 * Tómate tu tiempo#  explorando, habla con la#  gente del pueblo.
 * Te estaré#  esperando aquí.
 * Avísame cuando estés#  listo para empezar a#  entrenar.
-* Are ya ready to begin?
-* Did ya talk to the#  townsfolk? Explore#  every nook and cranny?
-* You're gunna need to if#  you wanna be a good...#  deputy.
-* That's right, kid!
-* I'm heavily considerin'#  you for my coveted#  sidekick position!
-* Now, don't get too high#  and mighty just yet.
-* To be a deputy, you#  gotta know how to#  wrangle the "horses."
-* Me and my posse are#  gunna show you how it's#  done 'round here.
-* I wouldn't drag anyone#  off the road and give#  them special treatment.
-* You'll hav'ta prove#  yer gunslingin' skills#  to me.
-* That bein' said, let's#  go meet up with the#  others!
-* No rush.
-* Make yerself at home.
+* ¿Listo para empezar?
+* ¿Hablaste con la gente#  del pueblo? ¿Exploraste#  cada rincón?
+* Vas a necesitarlo si#  quieres ser el...#  ayudante del sheriff.
+* ¡Eso es, niño!
+* ¡Te estoy considerando#  para mi codiciado puesto#  de compañero!
+* Ahora, no te pongas#  demasiado orgulloso#  y poderoso todavía.
+* Para ser ayudante del#  sheriff, hay que saber#  domar a los "caballos".
+* Mi pandilla y yo vamos#  a enseñarte cómo se#  hace por aquí.
+* Yo no sacaría a nadie#  de la carretera ni le#  daría un trato especial.
+* Tendrás que demostrarme#  tus habilidades como#  pistolero.
+* Dicho esto, ¡vamos a#  reunirnos con los demás!
+* No hay prisa.
+* Siéntase como en casa.
 starlo_npc
 ceroba_npc
-* Ceroba!
-* Guess what just#  happened?
-* You locked up another#  Royal Guard against#  their will?
-* Feathers was a serious#  roadblock to all of#  this.
-* It's only a temporary#  solution.
-* I don't feel right#  doin' it, I swear.
-* I'm just giving you a#  hard time.
-* What did you want to#  tell me?
-* Oh, well, Clover just#  passed their first#  round o' trainin'.
-* They are quite the#  sharpshooter. Almost as#  good as me!
-* Really? A child?
-* Now, now, don't#  disrespect the kid.
-* Clover can hold their#  own and then some.
-* I know, I'm just... very#  impressed.
-* Oh, hey, I almost#  forgot about the hat!
-* I have a spare#  somewhere in my house.
-* Clover, wait here while#  I fetch it.
-* Maybe while they wait,#  you should get to know#  them, Ceroba.
-* Should be fun, right?
-* Sure.
-* Sounds good!
-* Be right back, partner!
-* Tell me, truly.
-* Are you into all of#  this?
+* ¡Ceroba!
+* ¿Adivina qué acaba#  de pasar?
+* ¿Encerraste a otra#  guardia real contra#  su voluntad?
+* Plumitas era un serio#  obstáculo para todo#  esto.
+* Es sólo una solución#  temporal.
+* No me siento bien#  haciéndolo, lo juro.
+* Sólo te estoy#  haciendo pasar#  un mal rato.
+* ¿Qué querías#  decirme?
+* Bueno, Clover acaba#  de pasar su primera#  ronda de entrenamiento.
+* Es muy buen tirador.#  ¡Casi tan bueno como yo!
+* ¿De verdad?#  ¿Un niño?
+* Ya, ya, no le faltes#  el respeto al niño.
+* Clover puede aguantar#  lo suyo y más.
+* Lo sé, estoy... muy#  impresionada.
+* Oh, hey, ¡casi me#  olvido del sombrero!
+* Tengo una de repuesto#  en algún lugar de#  mi casa.
+* Clover, espera aquí#  mientras lo busco.
+* Quizá mientras esperan,#  deberías conocerlos,#  Ceroba.
+* Debería ser divertido,#  ¿verdad?
+* Sí, claro.
+* ¡Suena bien!
+* ¡Ya vuelvo,#  compañero!
+* Dime, de verdad.
+* ¿Te interesa#  todo esto?
 Nah
-* That's nice...
-* I've never understood#  it.
-* But if it makes monsters#  like Star happy, it's#  fine.
-* Sorry that Star's#  dragging you around so#  much, then.
-* This whole thing is#  like a dream to him.
-* It's kinda goofy but#  it is nice to see#  someone so passionate.
-* However, passion can go#  too far.
-* You wouldn't believe#  how much his parents#  talk to me about it.
-* Really kind folks who#  own a farm up north.
-* It's actually very lush#  there, if you can#  believe it.
-* And the corn they grow?#  So good.
-* They used to give my#  husband, Chujin, baskets#  full every other week.
-                      #           Chujin                                  
-* Anyway, I trailed off.
-* I'm back!
-* Turns out I had one#  just your size AND in#  the same color.
-* It's like, destiny or#  somethin'.
-* (You got a Nice Hat!)
+* Eso está bien...
+* Nunca lo he#  entendido.
+* Pero si hace felices#  a monstruos como Star,#  está bien.
+* Siento que Star te#  esté arrastrando tanto.
+* Todo esto es como un#  sueño para él.
+* Es un poco tonto pero#  es agradable ver a#  alguien tan apasionado.
+* Sin embargo, la pasión#  puede ir demasiado#  lejos.
+* No te creerías lo mucho#  que sus padres me hablan#  de eso.
+* Gente muy amable que#  tiene una granja en#  el norte.
+* En realidad es muy#  abundante allí, si#  puedes creerlo.
+* ¿Y el maíz que#  cultivan? Tan bueno.
+* Solían darle a mi#  marido, Chujin, cestas#  llenas cada dos semanas.
+                   #          Chujin                                  
+* En fin, me quedé#  a medias.
+* ¡He vuelto!
+* Resulta que tenía uno#  justo de tu talla#  y del mismo color.
+* Es como el destino#  o algo así.
+* (¡Tienes un bonito#  sombrero!)
 * Wow...
-* I couldn't even tell it#  changed if I were#  standin' from afar.
-* Looks great!
-* What do you think,#  Ceroba?
-* Isn't it?
-* Well, I'd say this#  mission was a great#  success!
-* Go on and take a break,#  Clover.
-* I'll be waitin' for ya!
-* Gidde up, partner!
-* This town has plenty to#  see!
-* Howdy howdy, Clover!
-* Ready for round two?
-* Swell!
-* Seein' as the original#  plans were altered, we#  got catchin' up to do.
-* Let's gather the others!
-* Alright, take yer#  time.
-* Welcome back, partner!
-* We're about halfway#  done with yer trainin'!
-* They grow up so fast...
-* Ready to continue?
-* Man, am I excited for#  this.
-* Have you done#  everythin' you wanted?
-* Caught some bandits?#  SAVED some lives?
-                      #  SAVED            
-* Let's get goin' then!
-* Hurry it on up, then!
+* Ni siquiera podría decir#  que cambió si estuviera#  de pie desde lejos.
+* ¡Se ve muy bien!
+* ¿Qué te parece,#  Ceroba?
+* ¿Verdad que sí?
+* Bueno, ¡yo diría que#  esta misión ha sido#  un gran éxito!
+* Ve y tómate un#  descanso, Clover.
+* ¡Te estaré esperando!
+* ¡Arriba, compañero!
+* ¡Esta ciudad tiene#  mucho que ver!
+* ¡Buenas buenas, Clover!
+* ¿Listo para el#  segundo asalto?
+* ¡Qué bien!
+* Como los planes originales#  fueron alterados, tenemos#  que ponernos al día.
+* ¡Reunamos a los demás!
+* Muy bien, tómate#  tu tiempo.
+* ¡Bienvenido,#  compañero!
+* ¡Estamos a mitad de#  camino de tu#  entrenamiento!
+* Crecen tan rápido...
+* ¿Listo para continuar?
+* Hombre, estoy#  emocionado por esto.
+* ¿Has hecho todo lo#  que querías?
+* ¿Has descubierto a#  unos bandidos? ¿Has#  GUARDADO algunas vidas?
+                                         ##  GUARDADO            
+* ¡En marcha#  entonces!
+* ¡Date prisa,#  entonces!
 Wild East Saloon
 message_noloop
 activation_distance
 crowd_animate_interact_noloop
 crowd_sound
-* (Everyone is wrapped up in#  conversation.)
-* (Quite the popular spot!)
+* (Todo el mundo está#  enfrascado en#  conversación.)
+* (¡Un lugar muy popular!)
 audio_slide_in
 audio_length
 bottle_y_target
@@ -21770,7 +21770,7 @@ portrait_author_torso
 * Uh... ¿Cómo has llegado#  hasta aquí?
 * ¡B-bienvenido al#  Honeydew Resort!#  Por favor, mira#  alrededor.#  (¿Era esa la frase?)
 * ¡Saludos! #* ¡Echa un vistazo!#  Pero no toques nada.
-* ¡Buenas buenas, humano!#  Echa un vistazo a mis# mercancías. #* ¡Las cosas duras están# fuera de los límites!
+* ¡Buenas buenas humano!#  Echa un vistazo a mis#  mercancías. #* ¡Las cosas duras están#  fuera de los límites!
 * Niño no autorizado#  detectado. Váyase.
 * ¿En qué puedo servirle?
 * ¡Bienvenido a Bits & Bites!
@@ -21787,18 +21787,18 @@ Lo siento,#necesitas más#dinero...
 Parece que#estás lleno...
 ¿Se ve#mal?
 ¿Q-quieres#hablar?
-Interested#in anything?
-I thank#you!
-I need#the proper#sum.
-You have#your hands#full.
-Change your#mind?
-Ask away!
-Here's the#menu!
-Much#appreciated!
-Your funds'r#insufficient,#kid.
-Quit carryin'#so much.
-Not interested#I take it.
-What do ya#wanna know?
+¿Le#interesa#algo?
+¡Se lo#agradezco!
+Necesito#la suma#adecuada.
+Tienes#las manos#llenas.
+¿Cambiaste#de opinión?
+¡Pregunta!
+¡Aquí está#el menú!
+¡Muy#agradecido!
+Tus fondos son#insuficientes,#niño.
+Deja de cargar#tanto.
+No me#interesa.
+¿Qué quieres#saber?
 Go away.
 Choose an#item!
 Curse my#programming.
@@ -21818,7 +21818,7 @@ Appreciate#it!
 What's on#your mind?
 Comprarlo por#
  de ORO?
-de ORO - 
+ de ORO - 
 shop_talk
 y_finish
 item_draw_disjoint_x
@@ -21848,29 +21848,29 @@ You're too#young.
 Cura 15HP#
 Cura 15HP#Straight from#the tap!
 Cura ???#
-Cura ???#No way.
+Cura ???#No hay#forma.
 Cura 18HP
-Cura 18HP#It's family#friendly!
+Cura 18HP#¡Para toda#la familia!
 Cura 30HP
-Cura 30HP#A lil'#baby burger!
+Cura 30HP#¡Una#hamburguesa#para#bebés!
 Cura 30HP#_
-Cura 30HP#This will#kill you.
-Cura 30HP#Crunchy#sustenance!
+Cura 30HP#Esto te#matará.
+Cura 30HP#¡Sustento#crujiente!
 Cura 20HP#_
-Cura 20HP#Unfiltered.#Dirt. Bad.
-Cura 20HP#Also called#"water."
+Cura 20HP#Sin filtrar.#Sucio.#Malo.
+Cura 20HP#También#llamado#"agua".
 Cura 13HP#_
-Cura 13HP#Tastes like#plastic.
-Cura 13HP#Perfectly#salted!
-Acce: 9DF#Stop...
-Acce: 9DF#Will blind#you.
-Acce: 9DF#Important!!!
-          #< Highly#addictive! >
-Cura 30HP#A taste fit#for a king!
+Cura 13HP#Sabe a#plástico.
+Cura 13HP#¡Perfectamente#salado!
+Acce: 9DF#Detente...
+Acce: 9DF#Te#cegará.
+Acce: 9DF#¡¡¡Importante!!!
+          #< ¡Altamente#adictivo! >
+Cura 30HP#¡Un sabor#digno de#un rey!
 Cura 50HP
-          #< Made with#extra flour ;) >
+          #< Elaborado#conharina#extra#;) >
 Acce: 10DF
-Acce: 10DF#Represent the#Underground!.
+Acce: 10DF#¡Representa al#Subsuelo!.
 box_portait
 autoskip
 * Este resort ha sido un#  negocio familiar durante#  años.
@@ -25405,17 +25405,17 @@ hit_extend_pos
 note_hit
 y_restore
 instance
-Helium [He]
-* Makes your voice sound funny.
-* (Watch your step! A posse of#  Micro Froggits are camping#  out.)
-* (The Micro Froggits are#  arguing over the political#  strife of the Underground.)
-* (A mini-bar fight ensues!)
-* (The head of the party calms#  the rest down, reminding them#  of their strong brotherhood.)
-* (The Micro Froggits hug it#  out, settling their#  differences...)
-* (...Because at the end of the#  day, they're all just tiny#  frogs in a great big world.)
-* (This town IS big enough for#  the six of them.)
-* (Too big.)
-* (There are still enemies to#  bring justice on.)
+Helio [He]
+* Hace que tu voz#  suene rara.
+* (¡Cuidado! Un grupo de#  Micro Froggits está#  acampando.)
+* (Los Micro Froggits están#  discutiendo sobre las#  luchas políticas del Subsuelo.)
+* (¡Se produce una pelea#  en el mini-bar!)
+* (El jefe de la fiesta calma#  al resto, recordándoles#  su fuerte hermandad.)
+* (Los Micro Froggits se#  abrazan y arreglan sus#  diferencias...)
+* (...Porque al fin y al#  cabo, todos son pequeñas#  ranas en un gran mundo.)
+* (Esta ciudad ES lo#  suficientemente grande#  para los seis.)
+* (Demasiado grande.)
+* (Aún quedan enemigos#  sobre los que#  hacer justicia.)
 sc_index
 sc_xdisjoint
 sc_ydisjoint
