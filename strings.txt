@@ -12549,7 +12549,7 @@ draw_surface_ext
 Now, now.#Quit holding#back, everyone.
 Use your trump#cards!
 * Two paths...
-* Hold on...
+* Espera...
 * That symbol, I've seen#  it on Chujin's work#  uniform.
 * Lemme try one of his#  codes...
 * Nope.
@@ -19522,7 +19522,7 @@ current_mus
 * (No hay suficiente#  ORO.)
 * Ah... Ya veo....
 * Una base de roble con#  clavos de hierro que#  la mantienen unida...
-* Lo siento. Me estaba#  volviendo loco por#  un segundo.
+* Lo siento. Me estaba#  volviendo loca por#  un segundo.
 * ¡Seguro que es un#  vagón genial!
 * Podemos seguir#  adelante, ya he#  visto suficiente.
 * (Un viejo vagón#  abandonado.)
@@ -20524,99 +20524,99 @@ starlo_x_original
 * Now... d... do what's#  right.
 * Deliver... 
 * J-Justice.
-* ¿Eh? Hang on, I think#  someone's coming this#  way.
-* Guys! Looky here!
-* Someone new has stumbled#  into our humble town.
-* This better not be#  another joke...
-* For once, don't look#  like it is.
-* Hiya, strangers!
-* Oh, hello!
-* We're just passing#  through.
-* We mean no harm, I#  promise.
-* That's what the last#  guy said.
-* Let's just say he's one#  with the wind now...
-* O-oh my gosh... Tú...
-* BWAHAHA!
-* I'm just kiddin' around.
-* You were shakin' in#  your boots for a second!
-* Heheh... heh... you sure#  got me!
-* That wasn't very funny,#  Edward.
-                         #  Edward 
-* I can assure you we are#  a delight to be around.
-* Nothing you can't#  handle I'm sure.
-* Why do you two insist#  on scaring away every#  monster you meet?
-* At least Mooch never#  oversteps her bounds.
+* ¿Eh? Espera, creo que#  alguien viene hacia aquí.
+* ¡Chicos! ¡Miren aquí!
+* Alguien nuevo ha#  tropezado en nuestra#  humilde ciudad.
+* Más vale que no sea#  otra broma...
+* Por una vez, no mires#  como es.
+* ¡Hola, forasteros!
+* ¡Oh, hola!
+* Sólo estamos de#  paso.
+* No queremos hacer#  daño, lo prometo.
+* Eso es lo que dijo#  el último.
+* Digamos que ahora es#  uno con el viento...
+* O-oh Dios mío...#  Tú...
+* ¡BWAJAJA!
+* Sólo estoy bromeando.
+* ¡Te temblaron las#  botas por un segundo!
+* Jeje... je...#  ¡seguro que me#  atrapaste!
+* Eso no fue muy gracioso,#  Edward.
+                          #  Edward 
+* Le aseguro que es un#  placer estar con#  nosotros.
+* Nada que no puedas#  manejar, estoy seguro.
+* ¿Por qué insisten en#  espantar a todos los#  monstruos que vemos?
+* Al menos Mooch nunca#  sobrepasa sus límites.
            Mooch                              
-* Never!
-* Um, well, it was a#  pleasure to meet you#  four but...
-* We'll be going#  now-   
-* Hold it right there, missy.
-* Are my pals givin' you#  trouble?
-* Come now...
-* That ain't a way to#  treat guests, now is it?
-* The name's North Star.#  I run this town.
-             North Star                    
-* Not alone, of course.
-* These fine monsters are#  my posse.
-* Together, we are...
-* Our name stands for:
+* ¡Nunca!
+* Um, bueno, fue un#  placer conocer#  a los cuatro pero...
+* Nos iremos#  ahora-   
+* Alto ahí, señorita.
+* ¿Mis amigos te están#  dando problemas?
+* Vamos...
+* Esa no es forma de#  tratar a los invitados,#  ¿verdad?
+* Mi nombre es#  North Star.#  Dirijo esta ciudad.
+              #  North Star                    
+* No solo, por#  supuesto.
+* Estos monstruos son#  mi pandilla.
+* Juntos, somos...
+* Nuestro nombre#  significa:
   F
-* Fearlessness!
+* Fearlessness!#  (¡Magníficiencia!)
   E
-* Excellence!
+* Excellence!#  (¡Excelencia!)
   I
-* Intuition!
+* Intuition!#  (¡Juventud!)
   S
-* Sneakiness!
+* Sneakiness!#  (¡Empeño!)
   T
-* Toughness!
+* Toughness!#  (¡Rapidez!)
   Y
-* Youthfulness!
+* Youthfulness!#  (¡Dureza!)
   J
-* Justice!
-* The J is silent.
-* Anyway,
-* Now that we're#  introduced...
-* I'd be glad to give you#  and yer buddy a tour-
-* Yer buddy...
-* Are they a... HUMAN?
-* Well... I won't say no?
-* I knew it!
-* There ain't no doubt in#  my mind!
-* That this kid is a real,#  living, authentic human!
-* Sorry 'bout this.
-* I gotta seize this#  once-in-a-lifetime#  opportunity!
-* Ed, fetch me that kid.
-* Sure thing.
-* Wait! What are you doing#  with Clover!
-* Ah, Clover, is it?#  That's a mighty fine#  name!
-* To answer yer question,#  Feathers, Clover and I#  got a town to run!
-* Don't "Feathers" me!
-* You're speaking to#  Martlet of the Royal#  Guard!
-* I can and will report#  you to King ASGORE for#  this abrasive behavior!
-* Ye're Royal Guard? 
-* That's funny, 'cuz I#  don't see anythin' to#  indicate that.
-* No armor? Weapon? Badge?
-* Yo... left it all at#  my post in Snowdin!
-* Please, don't bother#  trying to fool#  us.
-* He's right.
-* I am truly sorry 'bout#  this, I really am.
-* But business is#  business.
-* Together, we'll be the#  Feisty SIX!
-* The alliteration...
+* Justice!#  (¡Justicia!)
+* La J es silenciosa.
+* De todas formas,
+* Ahora que nos#  presentamos...
+* Estaré encantado de#  darles una vuelta a#  ti y a tu amigo...
+* Tu amigo...
+* ¿Es... HUMANO?
+* Bueno... No diré#  que no...
+* ¡Lo sabía!
+* ¡No tengo ninguna duda!
+* ¡Que este niño es un#  humano real, vivo#  y auténtico!
+* Lo siento por esto.
+* ¡Tengo que aprovechar#  esta oportunidad#  única en la vida!
+* Ed, tráeme a ese niño.
+* Por supuesto.
+* ¡Espera!#  ¿Qué haces con Clover?
+* Ah, Clover, ¿verdad?#  ¡Es un nombre muy#  bonito!
+* Para responder a eso,#  Plumitas, Clover y yo#  debemos dirigir.
+* ¡No soy "Plumitas"!
+* ¡Estás hablando con#  Martlet de la Guardia#  Real!
+* ¡Puedo denunciarte al#  Rey ASGORE por este#  comportamiento agresivo!
+* ¿Eres de la Guardia#  Real?
+* Es curioso, porque no#  veo nada que lo indique.
+* ¿Sin armadura? ¿Arma?#  ¿Insignia?
+* Yo... ¡lo dejé todo#  en mi puesto en Snowdin!
+* Por favor, no te#  molestes en intentar#  engañarnos.
+* Tiene razón.
+* Lo siento mucho,#  de verdad.
+* Pero los negocios#  son los negocios.
+* Juntos, ¡seremos los#  Feisty SIX!
+* La combinación...
 * Shh.
-* Tsk!
-* ¡Clover! I can't go up#  against these guys.
-* Don't worry! I'll figure#  this out!
-* Star, should we be doing#  this?
-* Poor Martlet is upset.
-* Don't be a buzzkill,#  Moray.
+* ¡Tsk!
+* ¡Clover! No puedo ir#  contra estos tipos.
+* No te preocupes.#  ¡Lo resolveré!
+* Star, ¿deberíamos#  hacer esto?
+* El pobre Martlet#  está molesta.
+* No seas aguafiestas,#  Moray.
                       #  Moray 
-* When's the last time#  something exciting#  happened around here?
-* You've got a point.
-* Ahem!
-* This town's FULL of#  excitement. Especially#  now.
-* Let's go, bud!
+* ¿Cuándo fue la última#  vez que pasó algo#  emocionante por aquí?
+* Tienes razón.
+* ¡Ahem!
+* Esta ciudad está llena#  de emoción.#  Especialmente ahora.
+* ¡Vamos, amigo!
 * Oh, and Feathers...
 * Welcome to The Wild#  East.
              The Wild#  East 
