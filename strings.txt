@@ -20815,124 +20815,124 @@ actor_train
 * ¡Ven por mi cuando#  esten listos para#  la misión final!
 * ¡Oof!
 * ¡Clover!#  ¿¡Cómo pudiste!?
-* Is this about me#  carrying ya earlier?#  Did I hurt ya?
-* Now, now!
-* In defense of Clover,#  they just saved many#  lives.
-* I guess that's true...
-* Clover proved that they#  were willing to#  sacrifice to be a hero.
-* Quite noble, don'tcha#  think, Ceroba?
-* There's a lot of layers#  to this scenario.
-* I believe it's more of#  a gray are-  
-* Quite noble indeed.
-* This was a test of yer#  judgment.
-* I'd say you passed,#  buddy!
-* I'll be in the usual#  spot for yer final task!
-* See you around.
-* Hey! Is anyone gonna#  untie us?
-* Final call!
-* Get on over here!
-* Are y'all ready?
-* Actually, there's#  something we wanted to#  talk about.
-* Yea. 'Bout the general#  work environment.
-* Maybe later. Let's keep#  movin'!
-* So Clover! I actually#  tricked ya.
-* There is no fourth#  mission!
-* Well, there used to be#  but we cut it out of#  the regiment.
-* Anyway! YOU PASSED#  EVERYTHIN'!!
-* You are now the proud#  deputy of this fine#  town!
-* Wait! Deputy???
-* I thought this was for#  a normal spot on the#  team!
-* Clover is too special#  and skilled for a#  normal spot!
-* Star, this is hardly#  fair.
-* Life ain't always fair#  in the Wild East, bucko!
-* They passed their#  trainin' like anyone#  else.
-* That was trainin'?
-* We barely did anything!
-* That last mission#  especially was awful!
-* Calm down, will ya?
-* Ye're killin' my good#  mood!
-* I have to run to the#  Mines to get Clover's#  badge made.
-* I was too busy with#  everythin' that it#  slipped my mind.
-* You five have fun!
-* I'll be riiiight back!
-* This is just peachy.#  You gettin' this#  attention n' all.
-* How come you waltz in#  here and Star instantly#  makes ya deputy?
-* We didn't get this kind#  of treatment.
-* We had to go through#  weeks of lasso lessons.#  Lassons for short.
-* For me to become part#  of the team...
-* Star made me walk#  around with a snake in#  my boot for a week!
-* ...It was rubber but#  the rashes it gave me#  were unbearable!
-* Yeah and he made me#  pickpocket monsters by#  the Oasis!
-* Star didn't make you do#  that.
+* ¿Esto es por haberte#  cargado antes? ¿Te#  lastimé?
+* ¡Ya, ya!
+* En defensa de Clover,#  acaba de salvar#  muchas vidas.
+* Supongo que es verdad...
+* Clover demostró que#  estaba dispuesto a dar#  su vida siendo un héroe.
+* Bastante noble,#  ¿no crees, Ceroba?
+* Hay muchas capas#  en este escenario.
+* Creo que es más#  bien un área gris...  
+* Realmente noble.
+* Esta fue una prueba#  de tu juicio.
+* ¡Yo diría que#  aprobaste, amigo!
+* Estaré en el lugar#  habitual para la#  tarea final.
+* Nos vemos por ahí.
+* ¡Hey! ¿Alguien nos#  va a desatar?
+* ¡Última llamada!
+* ¡Ven aquí!
+* ¿Están todos listos?
+* En realidad, hay algo#  de lo que queríamos hablar.
+* Sí. Sobre el ambiente#  de trabajo en general.
+* Tal vez más tarde.#  ¡Sigamos moviéndonos!
+* ¡Así que Clover!#  En realidad te#  engañé.
+* No hay una cuarta#  misión.
+* Bueno, solía haberla,#  pero la eliminamos#  del reglamento.
+* ¡¡¡En fin!!!#  ¡¡PASASTE TODO!!
+* ¡Ahora eres el digno#  ayudante de esta#  hermosa ciudad!
+* ¡Espera!#  ¿Ayudante?
+* ¡Pensé que esto era#  para un puesto normal#  en el equipo!
+* Clover es demasiado#  especial y habilidoso#  para un sitio normal.
+* Star, esto no es#  justo.
+* La vida no siempre#  es justa en el Salvaje#  Este, amigo.
+* Pasaron su#  entrenamiento#  como cualquier otro.
+* ¿Eso era entrenar?
+* ¡Apenas hicimos#  algo!
+* ¡Especialmente la#  última misión fue horrible!
+* Cálmate,#  ¿quieres?
+* ¡Estás acabando#  con mi buen humor!
+* Tengo que correr a#  las Minas para hacerle#  una placa a Clover.
+* Estaba tan ocupado#  con todo que se#  me olvidó.
+* ¡Diviértanse los#  cinco!
+* ¡Volverééé enseguida!
+* Esto es simplemente#  genial. Que te presten#  atención y todo eso.
+* ¿Cómo es que entras#  aquí y Star te#  nombra ayudante?
+* Nosotros no#  recibimos este tipo#  de trato.
+* Tuvimos que pasar por#  semanas de lecciones#  de lazo.
+* Para que yo forme#  parte del equipo...
+* ¡Star me hizo caminar#  con una serpiente en#  mi bota durante una semana!
+* ...¡Era de goma pero#  los brotes que me daba#  eran insoportables!
+* ¡Sí, y me hizo robar#  monstruos en el Oasis!
+* Star no te obligó#  a hacer eso.
 * :)
-* Ya know what? This#  ain't fair to any of us.
-* Clover needs a#  challenge.
-* We need to see if#  they're truly worthy of#  joining our squad!
-* Finally, some REAL#  excitement!
-* Feisty Four! Here we#  come!
-* What in the actual#  goshdarn tarnation is#  happenin' here?
-* We felt yer trainin'#  was lackluster...
-* ...So we gave Clover#  a real challenge.
-* I'm disappointed in you#  four!
-* Eight weeks of lassons#  for this?
-* I oughta lock you away#  with Feathers!
-* Star, what's going on?
-* You've been... different.
-* A real meanie!
-* It's true. This hasn't#  been any fun.
-* W-what are y'all#  blabbering about?
-* This is the most alive#  this town has ever been!
-* Why's everythin' hav'ta#  be a spectacle, huh?
-* I miss the old North#  Star; the fearless#  leader!
-* The monster who could#  make their own fun in#  the little things!
-* This new Star is#  selfish and reckless.
-* Or should I call you by#  yer real name?
-* Should I? Starlo?
-            Starlo 
-* Why you...
-* What's with all the#  shouting?
-* What's happening?
-* It seems my posse don't#  RESPECT me no more!
-* It's not that.
-* We just want you to#  take it down a notch.
-* You can't just throw us#  around for this human#  business.
-* That isn't what friends#  do, Star.
-* I know what all this is#  about...
-* Y'all are just FULL of#  envy! Overflowin' with#  it!	
-* Clover's shot circles#  'round you and you just#  can't accept it!
-* Clover has nothing to#  do with this...#  It's you.
-* No, Star's totally#  right!
-* Clover's "super#  skilled" at everythin'!
-* In fact, I think they#  could carry the whole#  squad on their own!
-* Who needs us when you#  got a powerhouse#  "deputy"?
-* What'r you sayin'?
-* I'm sayin' that I'm#  done.
-* I resign from the#  Feisty Five, okay?
-* Really now?
-* It'll still be the#  Feisty Five without ya#  so go ahead.
-* I-I'm leaving too.
-* I don't wanna work#  under a big-headed#  sheriff.
-* Seems like life dealt#  you a bad hand, Star.
-* I'm following them.
-* Sorry, Star...
-* Please work on yourself.
-* Forgiveness is only one#  apology away.
-* Fine! I was considerin'#  firin' y'all anyway!
-* Ceroba, you understand,#  right?
-* They're bein'#  ridiculous!
+* ¿Saben qué? Esto no#  es justo para#  ninguno de nosotros.
+* Clover necesita un#  reto.
+* ¡Necesitamos ver si#  es dignos de unirse#  a nuestro equipo!
+* ¡Por fin algo de#  emoción REAL!
+* ¡Feisty Four!#  ¡Allá vamos!
+* ¿Qué demonios está#  pasando aquí?
+* Sentimos que tu#  entrenamiento fue#  mediocre...
+* ...Así que le dimos#  a Clover un verdadero#  reto.
+* ¡Estoy decepcionado#  de ustedes#  cuatro!
+* ¿Ocho semanas de#  lecciones para esto?
+* ¡Debería encerrarte#  con Plumitas!
+* Star, ¿qué#  pasa?
+* Has sido...#  diferente.
+* ¡Un verdadero#  malvado!
+* Es verdad. Esto#  no ha sido#  divertido.
+* ¿De qué están#  hablando?
+* ¡Esto es lo más vivo#  que ha estado esta#  ciudad!
+* ¿Por qué todo tiene#  que ser un espectáculo?
+* Echo de menos el#  viejo North Star#  ¡el líder intrépido!
+* ¡El monstruo que podía#  divertirse en las#  pequeñas cosas!
+* El nuevo Star es#  egoísta e imprudente.
+* ¿O debería llamarte#  por tu verdadero#  nombre?
+* ¿Debería? ¿Starlo?
+             Starlo 
+* Por qué tú...
+* ¿A qué vienen#  esos gritos?
+* ¿Qué ocurre?
+* ¡Parece que mi#  pandilla ya no me#  respeta!
+* No es eso.
+* Sólo queremos que lo#  bajes un poco.
+* No puedes tirarnos a#  nosotros por este#  asunto de los humanos.
+* Eso no es lo que hacen#  los amigos, Star.
+* Sé de qué se trata#  todo esto...
+* ¡Estan llenos de#  envidia!#  ¡Llenos de eso!	
+* ¡El disparo de#  Clover te rodea y#  no puedes aceptarlo!
+* Clover no tiene#  nada que ver con#  esto... Eres tú.
+* ¡No, Star tiene#  toda la razón!
+* ¡Clover es "super#  hábil" en todo!
+* De hecho, ¡creo que#  podria cargar con todo#  el grupo solo!
+* ¿Quién nos necesita#  cuando tiene un#  "ayudante" poderoso?
+* ¿Qué estás diciendo?
+* Estoy diciendo que#  he terminado.
+* Renuncio al#  Feisty Five,#  ¿de acuerdo?
+* ¿De verdad#  ahora?
+* Seguirán siendo los#  Feisty Five sin ti,#  así que adelante.
+* Y-Yo también#  me voy.
+* No quiero trabajar#  a las órdenes de#  un sheriff cabezón.
+* Parece que la vida#  te repartió una mala#  mano, Star.
+* Los sigo.
+* Lo siento, Star...
+* Por favor, trabaja#  en ti mismo.
+* El perdón está sólo#  a una disculpa de#  distancia.
+* ¡Bien! ¡Estaba considerando#  despedirlos de todos modos!
+* Ceroba, lo entiendes,#  ¿verdad?
+* ¡Están haciendo el#  ridículo!
 * Starlo...
-* They're right.
-* You HAVE changed a lot#  from the monster I once#  knew.
-* I tried to brush it off#  as you having fun at#  first but...
-* This Wild East thing#  has damaged your#  personality.
-* I want to see the real#  Starlo.
-* That's North Star to#  you.
-* Everyone is gone.
-* I got no posse... No#  friends...
-* I need to think.
-* I can fix this.
-Save Ed
-Save The Others
+* Tienen razón.
+* Has cambiado mucho#  respecto al monstruo#  que una vez conocí.
+* Al principio traté de#  ignorarlo como si te#  estuvieras riendo, pero...
+* El Salvaje Este#  ha dañado tu#  personalidad.
+* Quiero ver el#  verdadero Starlo.
+* Eso es North#  Star para ti.
+* Todos se han ido.
+* No tengo#  pandilla... Ni#  amigos...
+* Necesito pensar.
+* Puedo arreglarlo.
+Salvar a Ed
+Salvar a Otros
 train_timer
 base_alpha
 base_alpha_new
@@ -20943,85 +20943,85 @@ glitch_chance
 current_attack
 Vender
 Hablar
-* More steam. Fantastic.
-* One more time, Clover.
-* You got this.
-* (The gate is locked.)
-* Oh, hey there, kid!	
-* Thought I'd make somethin' of#  myself and get a real job.	
-* Despite playing a great#  bandit, Star doesn't actually#  pay anyone in town.	
-* Well, he lets the shopkeepers#  have most of their revenue but#  that's about it.	
-* Oh well, it was pretty fun#  while it lasted.
-* One day, you're gonna be in my#  situation.
-* Forced to let go of childlike#  fantasy and tossed into#  adulthood.
-* Hey, it sucks but everyone's#  gotta go through it.
-* One thing though...
-* Don't totally let go of your#  adventurous side.
-* Some adults become far too#  cynical because they forget the#  good times.
-* I should know, it's my first#  day here and I'm already hating#  my life!
-* Hang in there, Clover!	
-* You're gonna do great things!
+* Más vapor. Fantástico.
+* Una vez más,#  Clover.
+* Ya lo tienes.
+* (La puerta está#  cerrada.)
+* ¡Oh, hola, niño!
+* Pensé en hacer algo#  por mí mismo y conseguir#  un trabajo de verdad.	
+* A pesar de ser un bandido,#  Star no paga a nadie#  en la ciudad.	
+* Bueno, deja que los#  comerciantes tengan parte de#  sus ingresos pero es todo.	
+* Bueno, fue muy#  divertido mientras#  duró.
+* Un día, vas a#  estar en mi situación.
+* Obligado a desprenderse de#  la fantasía infantil y#  arrojado a la adultez.
+* Oye, es un asco, pero todo#  el mundo tiene que#  pasar por ello.
+* Pero una cosa...
+* No abandones del todo tu#  lado aventurero.
+* Algunos adultos se vuelven#  demasiado cínicos olvidando#  los buenos tiempos.
+* Yo lo sé, ¡es mi primer#  día aquí y ya estoy#  odiando mi vida!
+* ¡Aguanta, Clover!
+* ¡Vas a hacer grandes#  cosas!
 music
-* Barkeep! 
-* Growlers of icewater#  for the house on the#  Sheriff!
-* I have an announcement#  to make!
-* This 'lil' feller 'ere#  is Clover.
-* Hey, Star.
-* What the hell are you#  doing bringing a human#  in here?
-* (Ceroba shush!)
-* Now I know what ye're#  all thinkin'.
-* But trust me, Clover#  here ain't no greenhorn!
-* They know what they're#  doin'. Just look at that#  hat!
+* ¡Camarero! 
+* ¡Growlers de agua#  helada para la#  casa del Sheriff!
+* ¡Tengo que hacer#  un anuncio!
+* Este pequeñín de aquí#  es Clover.
+* Oye, Star.
+* ¿Qué demonios haces#  trayendo a un humano#  aquí?
+* (¡Ceroba, cállate!)
+* Ahora sé lo que#  están pensando.
+* ¡Pero créeme, Clover#  no es un novato!
+* Saben lo que hacen.#  ¡Mira ese sombrero!
 crowd_animate
-* Actually, this could be#  fun.
-* Dina! Hit me!
-* Alright, no more#  hecklin' from the crowd!
-* Ladies and#  gentlemonsters, as#  Ceroba said...
-* Clover is a HUMAN.
-* Ooooo!
-* I know, excitin' stuff.#  A real honor!
-* Now, I would let Clover#  tell y'all all about#  their life...
-* But I've been#  studyin' up.
-* I'm a bit of a human#  expert if ya didn't#  know.
-* Oh great, here we go.
-* Here we go indeed!
-* Did ya know that humans#  use monsters fer#  transportation?
-* It's true!
-* Large, four-legged#  monsters!
-* They put a seat on the#  top of 'em and#  everythin'!
-* They're called "horses",#  Star.
-* Ah, so you know one of#  'em personally? That's#  quite impressive!
-* Did ya also know that#  humans are FIREPROOF?
-* When they're feelin'#  accomplished,
-* They ride monsters#  STRAIGHT into a huge,#  fiery sphere!
-* So the "monsters" burn,#  right?
-* Most monsters aren't#  fireproof.
-* Star, are you saying my#  friend Horses was killed#  by a fiery sphere?
-* No! Um, well... I'm not#  quite sure.
-* I'll ask Clover!
-* Do the monsters die?
-Sí?
-No?
-* Then I regret sharin'#  that fact.
-* Pretend I never said#  nothin'.
-* See?
-* Everyone's fireproof!
-* Did ya know tha-
-* Look, Star, you don't#  need to keep this up.
-* ...Because it's all#  true. Every word.
-* Ha! I knew it!
-* I'm pretty darn good#  aren't I?
-* You're the best!
-* Yeah! The only sheriff fer me!
-* Haha.
-* Well I reckon we're done#  here.
-* Y'all can go back to yer#  daily lives fer now!
-* As for you, Clover, it's#  'bout time you see what#  this town has to offer!
-* I would give ya a#  personal tour but...
-* If there's one thing you#  have where you come#  from, it's freedom!
-* Take yer time explorin',#  talk to the townsfolk,#  and enjoy yerself.
-* I'll be waitin' here#  for ya.
-* Give me a shout when#  ye're ready to start#  trainin'!
+* En realidad, esto#  podría ser divertido.
+* ¡Dina! ¡Dame!
+* Muy bien, ¡basta de#  gritar desde el público!
+* Señoras y#  caballeros, como dijo#  Ceroba...
+* Clover es#  un HUMANO.
+* ¡Ooooo!
+* Lo sé, es emocionante.#  ¡Un verdadero honor!
+* Ahora, dejaría que#  Clover les contara#  todo sobre su vida...
+* Pero estuve#  estudiando.
+* Soy un poco experto en#  humanos, por si no#  lo sabías.
+* Genial, aquí vamos.
+* ¡Allá vamos!
+* ¿Sabías que los#  humanos usan monstruos#  para transportarse?
+* ¡Es verdad!
+* ¡Grandes monstruos#  de cuatro patas!
+* ¡Les ponen un#  asiento encima y todo!
+* Se llaman "caballos",#  Star.
+* Ah, ¿así que conoces a#  uno de ellos? ¡Eso es#  bastante impresionante!
+* ¿Sabías también que#  los humanos son#  INCENDIABLES?
+* Cuando se sienten#  cumplidos,
+* Montan monstruos#  ¡DIRECTOS a una enorme,#  esfera ardiente!
+* Así que los#  "monstruos" se#  queman, ¿verdad?
+* La mayoría de los#  monstruos no son#  a prueba de fuego.
+* Star, ¿dices que mi#  amigo Horses murio#  por una esfera ardiente?
+* ¡No! Um, bueno...#  No estoy muy seguro.
+* ¡Le preguntaré a#  Clover!
+* ¿Los monstruos#  mueren?
+¿Sí?
+¿No?
+* Entonces me arrepiento#  de haber compartido#  ese hecho.
+* Finge que nunca#  dije nada.
+* ¿Ven?
+* ¡Todos son a prueba#  de fuego!
+* ¿Sabías que--
+* Mira, Star, no#  necesitas seguir#  con esto.
+* ...porque todo es#  verdad. Cada palabra.
+* ¡Ja! ¡Lo sabía!
+* Soy bastante bueno,#  ¿verdad?
+* ¡Eres el mejor!
+* ¡Sí! ¡El único#  sheriff para mi!
+* Jaja.
+* Bueno, creo que hemos#  terminado aquí.
+* Ya pueden volver a#  sus vidas cotidianas.
+* En cuanto a ti, Clover,#  ¡ya es hora de que#  veas esta ciudad!
+* Te daría un#  tour personal#  pero...
+* Si hay algo que tienes#  de donde vienes,#  ¡es libertad!
+* Tómate tu tiempo#  explorando, habla con la#  gente del pueblo.
+* Te estaré#  esperando aquí.
+* Avísame cuando estés#  listo para empezar a#  entrenar.
 * Are ya ready to begin?
 * Did ya talk to the#  townsfolk? Explore#  every nook and cranny?
 * You're gunna need to if#  you wanna be a good...#  deputy.
