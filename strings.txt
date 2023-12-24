@@ -20609,7 +20609,7 @@ starlo_x_original
 * ¡Clover! No puedo ir#  contra estos tipos.
 * No te preocupes.#  ¡Lo resolveré!
 * Star, ¿deberíamos#  hacer esto?
-* El pobre Martlet#  está molesta.
+* La pobre Martlet#  está molesta.
 * No seas aguafiestas,#  Moray.
                       #  Moray 
 * ¿Cuándo fue la última#  vez que pasó algo#  emocionante por aquí?
@@ -20617,204 +20617,204 @@ starlo_x_original
 * ¡Ahem!
 * Esta ciudad está llena#  de emoción.#  Especialmente ahora.
 * ¡Vamos, amigo!
-* Oh, and Feathers...
-* Welcome to The Wild#  East.
-             The Wild#  East 
-* Can't a guy catch a break?
-* They put me in doc review all#  afternoon! 
-* I can barely move my fingers,#  let alone lather them in your#  weird soap!
-* What's up with that anyway?#  What's wrong with soap from the#  store?
-* I can't even pronounce half#  the ingredients on that bottle#  by the sink!
-* "Eu... Eu-ca..." 
-* Nope I can't do it, I just#  can't.
-* Are we even at the right#  station?
-* Darn it all, I think we took#  the wrong elevator!
-* See what happens when I'm#  stressed?
-* I knew we should've moved to#  Hotland! Should've trusted my#  gut!
-* This wouldn't have happened#  with their respectable elevator#  system!
-* Yeah yeah, I know there's a#  map over there!
-* But I'm too angry to improve#  our situation!
-* Alright, everyone! Come# 'ere!
-* Watcha want, boss?
-* Oooh, are we going to#  begin training with#  Clover?
-* Precisely, Moray!
-* I thought we'd start#  with a classic game that#  involves pacin'.
-* You mean what I see#  you doin' every night#  outside the house?
-* Back and forth,#  whispering to#  yourself...
-* ¿Qué? I don't do that!
-* Some monsters have#  unique ways of gettin'#  their thoughts out.
-* Other... monsters.
-* Can anyone CORRECTLY#  guess what game I'm#  hintin' at?
-* Oh! Oh! I know!
+* Oh, y Plumitas...
+* Bienvenida a The Wild#  East.
+               The Wild#  East 
+* ¿No puede uno#  descubrir algo?
+* ¡Me pusieron en#  revisión médica#  toda la tarde! 
+* Apenas puedo mover los#  dedos, ¡y mucho menos#  lavarlos con tu jabón raro!
+* ¿Qué tiene de malo#  el jabón de la tienda?
+* ¡Ni siquiera puedo pronunciar#  la mitad de los#  ingredientes de la botella!
+* "Eu... Eu-ca..."
+* No, no puedo hacerlo,#  simplemente no puedo.
+* ¿Estamos en la#  estación correcta?
+* ¡Maldita sea, creo que#  nos equivocamos de ascensor!
+* ¿Ves lo que pasa#  cuando estoy estresado?
+* ¡Sabía que debimos mudarnos#  a Hotland! ¡Debi confiar#  en mi instinto!
+* ¡Esto no habría pasado#  con su respetable sistema#  de ascensores!
+* Sí, sí, ¡ya sé que hay#  un mapa por ahí!
+* ¡Pero estoy demasiado#  enfadado para mejorar#  nuestra situación!
+* ¡Muy bien, todo el#  mundo! ¡Vengan aquí!
+* ¿Qué quieres, jefe?
+* Oooh, ¿vamos a empezar#  a entrenar con Clover?
+* ¡Precisamente, Moray!
+* Pensé que podríamos#  empezar con un juego#  clásico que implica pacin'.
+* ¿Te refieres a lo que#  te veo hacer todas#  las noches fuera de casa?
+* De un lado a otro,#  susurrándote a ti mismo...
+* ¿Qué? ¡Yo no#  hago eso!
+* Algunos monstruos tienen#  formas únicas de#  sacar sus pensamientos.
+* Otros... monstruos.
+* ¿Puede alguien adivinar#  CORRECTAMENTE a#  qué juego me refiero?
+* ¡Oh! ¡Oh! ¡Lo sé!
 * Sí, Mooch.
-* A DUEL!
-* Bingo!
-* No, no. This is all#  wrong.
-* Oh? What's the matter?
-* Clover doesn't... look#  right.
-* Look at their hat. It's#  tattered and practically#  decomposing.
-* And that iron in their#  holster. What kinda#  peashooter is that?
-* Cool it, Ace. I'm sure#  they tried their best.
-           Ace                                   
-* No, Ace has a point!
-* What kinda host am I if#  I don't spoil you with#  gifts?
-* To the weapon store!
+* ¡UN DUELO!
+* ¡Bingo!
+* No, no. Todo#  esto está mal.
+* ¿Oh? ¿Qué pasa?
+* Clover no...#  se ve bien.
+* Mira su sombrero. Está#  hecho trizas y en#  descomposición.
+* Y ese hierro en su funda#  ¿Qué clase de pistola es esa?
+* Tranquilo, Ace. Estoy#  seguro de que#  hicieron lo que pudieron.
+             Ace                                   
+* ¡No, Ace tiene razón!
+* ¿Qué clase de anfitrión#  soy si no te#  consiento con regalos?
+* ¡A la tienda de armas!
 actor_ed
 actor_mooch
 actor_moray
 actor_ace
-* Group up, everyone!
-* Gettin' a bit of deja#  vu here.
-* As ya should, buddy.
-* Thanks to Ace's keen#  eye for fashion, we#  took a lil detour.
-* Great job there.
-* Thank you, Star.
-* Clover looks much#  better now.
-* I agree! Clover's#  looking like a real#  wrangler!
-* For sure!
-* That new gun is...#  awfully shiny.
-* Had to shake Mr.#  Blackjack down for it.
-* I was real tough, too.
-* Put ol' Jack in his#  place, I did.
-* You coulda' sent me in#  to get it.
-* You know I'm the best#  negotiator.
+* ¡Agrúpense todos!
+* Estoy sintiendo#  un deja vu.
+* Como debe ser,#  amigo.
+* Gracias al buen ojo#  de Ace para la moda,#  nos desviamos un poco.
+* Gran trabajo.
+* Gracias, Star.
+* Clover se ve mucho#  mejor ahora.
+* ¡Estoy de acuerdo!#  ¡Clover parece un#  verdadero vaquero!
+* ¡Claro que sí!
+* Esa nueva arma es...#  terriblemente brillante.
+* Tuve que sacudir al#  Sr. Blackjack#  por eso.
+* Yo también era muy#  duro.
+* Puse al viejo Jack#  en su lugar,#  lo hice.
+* Podrías haberme#  enviado a buscarlo.
+* Sabes que soy el mejor#  negociador.
 * We might bend the rules#  a bit but we ain't#  bandits.
-* Mhm, totally.
-* Let's get to the#  mission already.
-* Right ya are, Ed.
-* What other mission#  would it be than the#  one we skipped before?
-* Get ready, Clover!
-* It's time for us to#  dual!
-* You mean "duel."
-* That's what I said.
-* No, you pronounced it#  with a "UA" sound#  instead of a "OO" sound.
-* Boss, have you been#  skippin' Cowboy Grammar#  Class?
-* Dual, duel, who cares?#  Tomato potato and all#  that.
-* Y'all need to quit#  interrupin' me so often.
-* Upsets my frontier zen.
-* Where was I?
-* Oh yeah, it's time to#  d...
-* Participate in a#  carefully timed#  shootin' competition.
-* Mooch! Provide Clover#  with the designated#  tool.
-* Here's a BB gun for the#  duel!
-* I'll uh... take that#  sixshooter off your#  hands for now.
-* Mooooch? Bring the gun#  here.
-* That's what I was gonna#  do, Moray.
-* Get off my back, will#  ya?
-* Bien. It's finally#  time to go head to hea-
-* What is it, Ace?
-* What could possibly be#  so pressin' to interrupt#  the mission again?
-* You forgot the safety#  glasses.
-* Gee, boss. You coulda#  hurt Clover.
-* I take responsibility#  and apologize for the#  oversight.
-* Bring the glasses here.
-* (I want the pair with#  the blue flames.)
-* (Red flames clash with#  my uniform.)
-* Here.
-* Now we're in business!
-* Alllrighty, Clover!
-* We're gonna take ten#  paces and turn to face#  each other.
-* When you hear the#  "draw" sound...
-* Grab yer gun and shoot#  me as fast as you can!
-* Awww, too bad!
-* Let's try one more time!
-* Whoa, whoa, whoa!
-* You gotta wait for#  the signal, or it#  ain't fair!
-* Ah... Clover got me...
-* Star! Star! Are you#  okay?
-* Pretty much... the#  opposite of that...
-* Oh, Star... I'm so#  sorry...
-* Who... who will you#  give your inheritance#  to?
-* Not... you...
-* Heck.
-* Clover... this was...#  your...
-* Emotional trauma test!
-* This job ain't all#  swealterstones and#  rainbows, ya understand?
-* Ya might end up hurtin'#  someone and must carry#  that weight on yer back.
-* Hope I didn't scar ya!
-* Anyway, you pass!
-* I'll be waitin' in the#  Saloon again when ye're#  ready for mission three!
-* I'm seein' good things#  in ya, kid!
-* Here's your iron. Also,#  I'll be needing those#  glasses.
-* You know the drill,#  team!
-* Ain't no time to be#  lazin' 'round.
-* Uh, hellooo?
-* Where is everyone?
-* Sorry 'bout this,#  Clover. They should be#  here any second no-   
-* Star, what is happening#  on the west end of town?
-* Would you care to#  explain?
-* WHAT???
-* Is anyone in danger???
-* Well... no probably not-
-* THEY ARE????
-* By George! This must be#  an attack from Vengeful#  Virgil!
-* Vengeful... Virgil?
-* Who is that?
-* Ceroba, come on!
-* We drew his wanted#  poster last month!
-* It's on the news#  board...
-* You helped me find the#  thumb tacks and#  everythin'...
-* Oh yeah!
-* Well, you better go#  stop him then!
-* What are you waiting#  for?
-* That's the spirit!
-* Let's put a stop to#  this, Clover!
+* Mhm, totalmente.
+* Vayamos ya a la#  misión.
+* Tienes razón, Ed.
+* ¿Qué otra misión#  sería que la#  que nos saltamos antes?
+* ¡Prepárate, Clover!
+* ¡Ha llegado la hora#  de la dualidad!
+* Querrás decir#  "duelo".
+* Eso es lo que he dicho.
+* No, lo pronunciaste con#  un sonido "UA"#  en lugar de "OO".
+* Jefe, ¿te has estado#  saltando la clase de#  Gramática Vaquera?
+* Dualidad, duelo, ¿a#  quién le importa?#  Tomate patata, todo eso.
+* Tienen que dejar#  de interrumpirme tan#  seguido.
+* Altera mi zen fronterizo.
+* ¿Dónde estaba?
+* Oh sí, es hora del#  d...
+* Participar en una#  competición de tiro#  cronometrada.
+* ¡Mooch! Proporciona#  a Clover la herramienta#  designada.
+* ¡Aquí tienes una#  pistola de BB para#  el duelo!
+* Te quitaré esa pistola#  de seis tiros de las#  manos por ahora.
+* ¿Moooch? Trae el arma#  aquí.
+* Eso es lo que iba a#  hacer, Moray.
+* Déjame en paz,#  ¿quieres?
+* Bien. Por fin es#  hora de ir a la cabez-
+* ¿Qué pasa, Ace?
+* ¿Qué podría ser tan#  urgente para volver a#  interrumpir la misión?
+* Olvidaste las gafas#  de seguridad.
+* Vaya, jefe. Pudiste#  haber herido a Clover.
+* Asumo la#  responsabilidad y pido#  disculpas.
+* Trae las gafas aquí.
+* (Quiero el par con#  las llamas azules.)
+* (Las llamas rojas#  chocan con mi uniforme.)
+* Aquí está.
+* ¡Ya estamos en#  marcha!
+* ¡Muy bien, Clover!
+* Vamos a dar diez#  pasos y girar para#  enfrentarnos.
+* Cuando oigas el#  sonido de "dibujar"...
+* ¡Agarra tu arma y#  dispárame tan rápido#  como puedas!
+* ¡Aww, Qué pena!
+* ¡Intentémoslo una#  vez más!
+* ¡Whoa, whoa, whoa!
+* Tienes que esperar#  la señal, ¡o no#  es justo!
+* Ah... Clover me#  atrapó...
+* ¡Star! ¡Star! ¿estás#  bien?
+* Más o menos...#  todo lo contrario...
+* Oh, Star...#  Lo siento tanto...
+* ¿A... A quién le#  darás tu herencia?
+* A ti... no...
+* Demonios.
+* Clover... esto fue...#  tu...
+* ¡Prueba de trauma#  emocional!
+* Este trabajo no es todo#  piedras de sudor y arco#  iris, ¿entiendes?
+* Podrías lastimar a#  alguien y cargar ese#  peso en tu espalda.
+* ¡Espero no haberte#  hecho cicatrices!
+* De todos modos,#  ¡aprobaste!
+* ¡Los esperare en el#  Saloon para la#  tercera misión!
+* ¡Veo cosas buenas#  en ti, niño!
+* Aquí está tu plancha.#  Además, necesitaré#  esas gafas.
+* ¡Ya conocen el#  procedimiento, equipo!
+* No hay tiempo#  para holgazanear.
+* Uh, ¿holaaa?
+* ¿Dónde está todo#  el mundo?
+* Lo siento, Clover.#  Deberían estar aquí#  en cualquier momento...   
+* Star, ¿qué está pasando#  en el extremo oeste#  de la ciudad?
+* ¿Le importaría#  explicarlo?
+* ¿¿¿QUÉ???
+* ¿¿¿Hay alguien en#  peligro???
+* Bueno... no,#  probablemente no-
+* ¿¿¿ESTÁN???
+* ¡Por George! ¡Esto debe#  ser un ataque del#  vengativo Virgilio!
+* Vengativo...#  ¿Virgil?
+* ¿Quién es?
+* ¡Ceroba, vamos!
+* El mes pasado dibujamos#  su cartel de "Se busca".
+* Está en el tablón#  de noticias...
+* Me ayudaste a#  encontrar las tachuelas#  y todo...
+* ¡Ah, sí!
+* Bueno, ¡entonces será#  mejor que vayas#  a detenerlo!
+* ¿Qué esperas?
+* ¡Ese es el espíritu!
+* ¡Pongamos fin a#  esto, Clover!
 * Huh.
-* You sure you saw#  somethin' troublin'#  here?
-* Look down.
-* GASP!
-* Hey! I did not sign up#  for this!
-* Get me out of here!
-* Ed! Keep it down! I#  need to focus!
-* How in the heck will I#  solve this colossal#  conundrum?
-* Just untie them.
-* And risk being tricked#  into a booby trap?
-* Touching those ropes is#  exactly what Virgil#  wants!
-* This is scary, Star!
-* I'm afraid you must#  choose which track the#  train travels on!
-* Yeah! Choose Ed!
-* Mooch, you are dead to#  me.
-* Unless Star chooses you#  instead.
-* ...That's cold.
-* This is all too#  overwhelmin'! I can't#  do it!
-* Then have Clover choose.
-* Clover don't have no#  emotional attachment to#  y'all!
-* Should be simple!
-* Don't you think this is#  a bit much?
-* Nah, it's easy!
-* Choose to leave the#  track as is...
-* It won't be yer fault#  but many monsters get#  hit.
-* Choose to change the#  track...
-* It'll be by yer hand#  but only Ed gets hit.
-* Not as much of a#  sacrifice.
-* What did I do to#  deserve this?
-* We're out of time!
-* If only we coulda#  untied everyone!
-* If only.
-* You gotta choose now,#  Clover!
+* ¿Seguro que viste algo#  problemático aquí?
+* Mira hacia abajo.
+* ¡GASP!
+* ¡Oye! ¡No me#  inscribí para esto!
+* ¡Sáquenme de aquí!
+* ¡Ed! ¡Baja la voz!#  ¡Necesito concentrarme!
+* ¿Cómo demonios voy#  a resolver este#  colosal enigma?
+* Sólo desátalos.
+* ¿Y arriesgarnos a#  caer en una trampa?
+* ¡Tocar esas cuerdas#  es exactamente lo#  que Virgil quiere!
+* ¡Esto da miedo, Star!
+* Me temo que debes#  elegir por qué vía#  viaja el# tren.
+* ¡Sí! ¡Elige a Ed!
+* Mooch, estás muerto#  para mí.
+* A menos que Star#  te elija a ti.
+* ...Eso es frío.
+* ¡Esto es demasiado#  abrumador! ¡No puedo#  hacerlo!
+* Entonces que Clover#  elija.
+* ¡Clover no tiene#  ningún vínculo emocional#  con nosotros!
+* ¡Debería ser#  sencillo!
+* ¿No crees que#  esto es un poco#  demasiado?
+* ¡No, es fácil!
+* Elige dejar la pista#  como está...
+* No será tu culpa, pero#  muchos monstruos#  seran golpeados.
+* Elige cambiar la#  pista...
+* Será por tu mano,#  pero sólo Ed#  sera golpeado.
+* No es tanto#  sacrificio.
+* ¿Qué he hecho para#  merecer esto?
+* ¡Se nos acaba el#  tiempo!
+* ¡Si pudiéramos#  desatar a todos!
+* Ojalá.
+* ¡Tienes que elegir#  ahora, Clover!
 prop_lever
 selection_confirmed
 actor_train
-* Ouch!
-* You owe me for this.
-* Clover... I thought we#  were friends.
-* Eh, I'm okay with it.
-* Ha! Clover likes me#  more!
-* Now, now.
-* This decision was a#  tough'n.
-* Having the casualty be#  on your hands is a lot#  to handle, mentally.
-* There's a lot more to#  it than that, Star.
-* This is a deep scenario#  that requires a lot of#  thinking.
-* We don't have time fer#  thinkin'!
-* This was a test of#  judgment and Clover#  passed!
-* Passed? How exactly?
-* Aah, quit bein' so#  technical 'bout#  everythin', Moray.
-* Clover saved Ed.#  That's... pretty good.
-* I can't tell if that#  was an insult.
-* Anywho. I'll see ya at#  the usual spot, kid.
-* Come to me when ye're#  ready for the final#  mission!
-* Oof!
-* ¡Clover! How could you!?
+* ¡Ouch!
+* Me debes una por esto.
+* Clover... Pensé que#  éramos amigos.
+* Eh, me parece bien.
+* ¡Ja! ¡A Clover le#  gusto más!
+* Ya, ya.
+* Esta decisión fue#  dura.
+* Tener la baja en tus#  manos es mucho para#  manejar, mentalmente.
+* Hay mucho más que#  eso, Star.
+* Este es un escenario#  profundo que requiere#  mucho pensamiento.
+* ¡No tenemos tiempo#  para pensar!
+* Era una prueba de#  juicio y Clover#  la superó.
+* ¿Aprobado? ¿Cómo#  exactamente?
+* Aah, deja de ser#  tan técnico con#  todo, Moray.
+* Clover salvó a Ed.#  Eso es... bastante#  bueno.
+* No puedo decir si eso#  era un insulto.
+* Como sea. Nos vemos en#  el sitio de siempre, niño.
+* ¡Ven por mi cuando#  esten listos para#  la misión final!
+* ¡Oof!
+* ¡Clover!#  ¿¡Cómo pudiste!?
 * Is this about me#  carrying ya earlier?#  Did I hurt ya?
 * Now, now!
 * In defense of Clover,#  they just saved many#  lives.
