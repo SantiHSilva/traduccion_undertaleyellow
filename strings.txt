@@ -956,7 +956,7 @@ Ruinas Oscuras - Atrio
 Ruinas Oscuras - Abismo
 Ruinas Oscuras - Puzzle
 Ruinas Oscuras - Salón
-Snowdin - Delta Rock
+Snowdin - Roca Delta
 Snowdin - Ruined Shack
 Snowdin - Pathway
 Snowdin - Resort
@@ -1855,7 +1855,7 @@ Videotape
 H. Acid
 * (Bebes la limonada.)
 * (Está muy ácida.)
-* (You eat the Candy Corn.)
+* (Comes el Candy Corn.)
 * (Ahora ya sabes porque#  fue desechado.)
 * (You eat the Golden Pear.)
 * (The immense flavor hugs your#  tastebuds.)
@@ -2538,7 +2538,7 @@ gml_Script_scr_determine_world_value_yellow
 * De todas formas...
 * Si quieres seguir#  explorando antes irnos#  debes saber esto.
 * Removi todos mis puntos#  de guardado exceptuando#  este de aquí.
-* Es inútil#  volver allí.
+* Es inútil volver#  allá.
 * Estaré en esta#  sala y solo en esta#  hasta que quieras irte.
 * ¡Nos vemos luego!
 * La salida es a#  través de su casa.
@@ -3318,7 +3318,7 @@ scr_battle_core_directory_no_attack
 * You suddenly feel like taking a#  nap.
 * Know Cone comes to see if you#  are made of fire.#* You aren't.
 * Insomnitot appears!#* Know Cone wanders in, chasing a#  butterfly.
-* There is an igloo here.
+* Hay un iglú aquí.
 * Know Cone encounters you, and#  an igloo.
 * Trihecta wobbles forward!
 * Trihecta regroups, then bickers.
@@ -3476,7 +3476,7 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * A gentle breeze causes#  Micro Froggit to lose its#  balance.
 * The air is crisp.
 * Know Cone is pointing excitedly#  at something in the distance.#* It looks to be a tree.
-* You think you see the igloo#  move a bit.
+* Crees ver al iglú moverse#  un poco.
 * Frostermit seems to be#  contemplating hiding again.
 * Trihecta bickers amongst itself.
 * Tri is exploring their newfound#  freedom.
@@ -3572,7 +3572,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_2
 * You momentarily lose track of#  Micro Froggit.
 * Insomnitot catches itself#  nodding off.
 * Know Cone is yelling random#  noises that sound like they#  could be a made-up language.
-* Frostermit is tapping out a#  rhythm with his pincers.
+* Frostermit está dando un#  ritmo con sus pinzas.
 * A gust of wind threatens to#  topple Trihecta's pile.
 * Tri, Hec, and Ta are friendly#  and free.
 * Una ráfaga de viento sopla una#  pequeña pluma azul en su cara.#* Martlet parece avergonzada.
@@ -4029,7 +4029,7 @@ action_2_color_3
 * Amenazar
 * Lecture
 * Educate
-* Dance
+* Bailar
 * Pull
 * Ignorar
 * Endure
@@ -4138,7 +4138,7 @@ enemy_low_hp_3
 #* Una mente ansiosa llena de una pasión ardiente.
 * FROSTERMIT -- ATQ 
 #* Siempre como en casa.
-#* Un sospechoso igloo.
+#* Un sospechoso iglú.
 * TRIHECTA -- ATQ 
 #* Intimidantemente alto.
 * TRI -- ATQ 
@@ -5572,22 +5572,22 @@ scr_dummy_training_pacifist_no_attack
 scr_start_enemy_no_attack_dummy_training_pacifist
 scr_generate_battle_frostermit_solo
 scr_recreate_heart_battle_menu_text_frostermit_solo
-* You look over the damaged igloo.
-* It's just an igloo.
-* You stare at Frostermit.
-* You begin giving Frostermit a#  discerning once-over.#* It looks uncomfortable.
+* Miras al iglú dañado.
+* Solo es un iglú.
+* Observas a Frostermit.
+* Empiezas a darle una#  mirada perspicaz a Frostermit.#* Se ve incómodo.
 scr_dialogue_battle_action_selected_action_1_frostermit_a
-* You wiggle around in front of#  the igloo.#* Nothing happens.
-* You do a little dance.#* Someone has come out to#  investigate.
+* Te meneas en frente del#  iglú.#* Nada pasa.
+* Haces un pequeño baile.#* Alguien ha salido para#  investigar.
 Action 2 Out
-* You mimic Frostermit's crab#  moves.#* It isn't pleased.
-* You try to do the worm.#* You fall flat on the snow, but#  Frostermit is impressed anyway.
-* You start doing a crab walk#  dance.#* Frostermit jumps in.
+* Imitas los movimientos de#  cangrejo de Frostermit.#* No está contento.
+* Intentas hacer el gusano.#* Caes tieso a la nieve, pero#  Frostermit igual se impresionó.
+* Haces el baile del cangrejo.#* Frostermit se une.
 scr_dialogue_battle_action_selected_action_2_frostermit_a
-* You marvel at how it hasn't#  crumbled.
-* You comment on the igloo's fine#  craftsmanship.#* It's an igloo.
-* You commend Frostermit's sharp#  skill.
-* You compliment Frostermit's#  hiding skills.
+* Te maravillas al ver como#  no se ha derrumbado.
+* Comentas acerca de la#  fina artesanía del iglú.#* Es un iglú.
+* Elogias a Frostermit por sus#  habilidades con su pinza.
+* Felicitas las habilidades#  ocultas de Frostermit.
 scr_dialogue_battle_action_selected_action_3_frostermit_a
 scr_start_enemy_attacking_frostermit_solo
 gml_Script_scr_enemy_attack_frostermit_snowflakes
@@ -9027,14 +9027,14 @@ rm_darkruins_19
 * (Hay un agujero para#  pescar en el hielo.)
 reverse
 * (Miras los cristales.)
-* (Tu reflejo asimétrico#  te devuelve la mirada.)
+* (Tu reflejo asimétrico te#  devuelve la mirada.)
 * (Miras los cristales#  brillantes.)
 * (Tu reflejo asimétrico#  te devuelve la mirada.)
 * (¡Es un castillo de nieve!#  ¡Qué bonito!)
 * (Castillo de nieve.)
 * (Restos de la choza destrozada.)
 * (Algo de madera;#  presumiblemente sacada#  de la vieja choza.)
-* (Observas una pluma#  azul escondida detrás.)
+* (Observas una pluma azul#  escondida detrás.)
 * (Una colección de equipaje,#  que protege todos los#  trajes elegantes de Dalv.)
 * (Cajas de mudanza que#  contenían cosas de la#  antigua casa de Dalv.)
 * (Probablemente no debería#  molestar su negocio.)
@@ -17393,12 +17393,12 @@ draw_triangle
 * ¿No es emocionante#  pensar en aire fresco?
 * Bueno, no te#  adelantes.
 * Sigues en el#  subsuelo.
-* ¡No estaremos cerca de#  tu elegante aire de#  superficie por un tiempo!
+* ¡No estaremos cerca de#  tu elegante aire de#  superficie por un rato!
 * Ahora, en marcha#  antes de que se me#  congelen los pétalos.
 * ¡Adelante, amigo!
 * En realidad,#  ¿cuál era tu nombre?
 * No es amigo
-* ¿Es... Sombrero...#  de Pistolero...?
+* ¿Es... Vaquero...?
 * ¿En serio?
 * Bueno, Sombrero de#  Pistolero. Basta#  de charla.
 * Nos vemos.
@@ -17432,7 +17432,7 @@ geno_snowdin
 * Mi marido y yo hemos#  estado explorando el#  Subsuelo.
 * Hay muchos secretos en#  estas tierras.
 * Es una luna de miel#  estupenda y exótica.
-* Por desgracia, estamos#  un poco perdidos en#  este momento.
+* Por desgracia, estamos un#  poco perdidos en este#  momento.
 * Dice que sabe dónde#  estamos, pero creo que#  solo está avergonzado.
 * ¿Alguna idea de dónde#  podríamos conseguir un mapa?
 * (Sacas el mapa.)
@@ -17501,40 +17501,40 @@ piece_hsp
 piece_vsp
 piece_grav
 * (¿Leer las instrucciones#  otra vez?)
-* De acuerdo con el libro guía#  de la Royal Guard#  sección 4, párrafo dos,
+* De acuerdo con el manual de la#  Guardia Real sección 4,#  párrafo dos,
 * Este puzzle pretende#  impedir el avance de un#  intruso (probablemente tú),
 * Entretener a los residentes#  de los alrededores (Snowdin),
 * E intimidar a posibles intrusos#  o malhechores,
-* (No me queda claro lo#  que quieren decir#  con eso, pero adelante).
+* (No me queda claro lo que#  quieren decir con eso,#  pero adelante).
 * Para superar este reto,#  debes derretir el cubo#  de hielo.
-* Asegúrate de que la#  bola llegue al fondo#  sin romperse.
+* Asegúrate de que la bola#  llegue al fondo sin#  romperse.
 #                      Snowdin 
            Martlet
-#  Guardia Real Subterránea
+#  Guardia Real del Subsuelo
 * P.D.
-* Si uno de los troncos#  se atasca, basta con#  menearlo un poco.
+* Si uno de los troncos se#  atasca, basta con menearlo#  un poco.
 * El otro día me di cuenta#  que se atascaba, pero ya#  sabes como es D.I.Y.
 * Siempre tiene que salir#  algo mal.
 * Así que sí, ¡un meneo rápido#  bastará!
 * P.P.D.
 * ¡Acabo de darme cuenta de#  que quizá no puedas alcanzar#  el tronco para menearlo!
 * Quiero decir, ¡no todo el#  mundo puede volar, o es#  monstruosamente alto!
-* ¡Especialmente si eres#  un humano o algo así!
-* ¡Así que solo espero#  que no se atasque!
+* ¡Especialmente si eres un#  humano o algo así!
+* ¡Así que solo espero que#  no se atasque!
 * P.P.P.D.
 * ¡Ya lo resolví!
 * Si se atasca, ¡espera!
-* Vengo a inspeccionar#  la calidad del puzzle#  cada tres días.
-* Quédate donde estás#  durante un día o dos.
-* ¡Oh, y espero que#  no se atasque!
+* Vengo a inspeccionar la#  calidad del puzzle cada#  tres días.
+* Quédate donde estás durante#  un día o dos.
+* ¡Oh, y espero que no se#  atasque!
 * P.P.P.P.D.
-* Me han informado de que#  la cantidad de Posdatas#  en este cartel es "inapropiada".
+* Me han informado de que la#  cantidad de Posdatas en#  este cartel es "inapropiada".
 * Siento mucho las molestias#  que hayan podido causar.
 arrived_count
-* Recalibrando el puzzle#  de roca de lava...#  ¡Listo!
+* Recalibrar el puzzle#  de roca de lava...#  ¡Listo!
 * Bueno, debería aguantar#  unos cuantos usos#  al menos.
 * ¡Y eso es suficiente#  para mí!
-* ¡Próxima parada,#  Honeydew Resort!
+* ¡Próxima parada,#  Complejo Honeydew!
 minX
 maxX
 moveDir
@@ -17597,12 +17597,12 @@ slurpy_solution
 * Quiero seguirlos...#  pero no puedo.
 * Estoy asustado...
 * ¡Oye! ¡Tú!
-* ¿Puedes ayudarme con esto?
-* He estado afquí por dos howas.
-* Trefs perros se acercaron#  y me ofbligaron a lamerlo.
+* ¿Puedez ayudadne con esto?
+* He efstado afquí por dos howas.
+* Trefs perros fse acercaron#  y ne ofbligaron a lanerlo.
 * Debido al frdío,#  ¡ahora estoy aftascado!
-* Ni nadre también me#  dijo que volviera a diempo#  para cormer.
-* Pwo fasvort ayuame.
+* Ni nadre también ne#  dijo que volviera a diemno#  para coder.
+* Pwo fasvort ayuane.
 * Oye, ¿ehwat lotco?
 * ¡Efto eh mu chatiemte!
 * Necesito algo caliente,#  ¡pero no TAN caliente!\n
@@ -17620,11 +17620,11 @@ slurpy_solution
 * (A dim lamppost.)
 * (It's an out-of-place#  lamppost.)
 * (There is a patch of partially#  melted ice at tongue level.)
-* Dear owners of dilapidated#  cabin:
-* First, I am very sorry that#  your cabin is so dilapidated.
-* Like, I don't know what#  happened to it, but I'm sure it#  was unfortunate.
-* Second, I am sorry that some of#  your wood has gone missing.
-* According to the Royal Guard#  guide book section forty-two,#  paragraph one,
+* Queridos dueños de la#  cabina en ruinas:
+* Primero, siento mucho que#  su cabaña esté en ruinas.
+* Tipo, no se que le#  sucedió, pero de seguro fue#  inafortunado.
+* Segundo, siento que parte#  de su madera ya no esté.
+* De acuerdo con el manual#  de Guardia Real sección#  cuarenta y dos, párrafo uno,
 * So long as notice is given to#  the original owner at least two#  business days prior,
 * Any and all eyesores can be#  repurposed for puzzles or other#  diversions.
 * Well, I didn't know how to#  contact you, but consider this#  notice!
@@ -23978,41 +23978,41 @@ jump_speed_initial_decrease
 can_switch_x
 can_switch_y
 x_speed_hold
-H-he wasn't#that annoying...
-I-Igloo.
-It's just an#igloo! Wait,#did you say#that already?
-Yep, nothing to#see here!
-What even is#that? I mean-         
-                          IGLOO ! !
-Um, hi... Can I#join?
-You don't mean#tha-               
-                   IGLOO IGLOO ! !
-Appreciative#igloo noise!
-Thanks- I mean#       
-              #igloO !
-IGLOO IGLOO ! !
-Ow... I mean-                
-             #IGLOO NOISES ! !
-I-Igloo?
-Repelling#igloo sounds!
-Igloo igloo.
-Igloo noises.
-You better watch#out. My pinchers#are fierce.
-There's nothing#to stare at...#is there?
-That's a little#rude ya know...
-Wannabe.
-Next time I'll#lead!
-Can you come#dance with me#more often?
-Really?!#Ninja-like?!
-Looks like I'm#in a bit of a#pinch...
-My home...
-*shudder shudder*
-I was not#prepared for this.
-*tap tap*
-*pinch pinch*
-*snap snap*
-You like to#groove?
-I know some#sick scuttles.
+É-él no era#tan molesto...
+I-iglú.
+Solo es un#iglú! Espera,#Ya habías#dicho eso?
+Sip, nada que#ver aquí!
+Qué es eso#siquiera? Digo-         
+                          IGLÚ ! !
+Um, holi... Puedo#unirme?
+No te#refieres a-               
+                   IGLÚ IGLÚ ! !
+Sonidos de iglú#apreciativos!
+Gracias- Digo#       
+              #iglúU !
+IGLÚ IGLÚ ! !
+Ow... Digo-                
+             #SONIDO DE IGLÚ ! !
+I-Iglú?
+Sonidos de iglú#repelente!
+Iglú iglú.
+Sonidos de iglú.
+Ten cuidado.#Mis pinzas#son feroces.
+No hay nada#que ver...#verdad?
+Eso es un poco#rudo sabes...
+Aspirante.
+A la próxima#yo lidero!
+Podrías venir#a bailar junto#a mi seguido?
+En serio?!#Como ninja?!
+Parece que#en un#pellizco...
+Mi hogar...
+*se estremece*
+No estaba#preparado para esto.
+*da toquesitos*
+*pellizca*
+*chasquea*
+Te gusta#el ritmo?
+Conozco algunos#cubos geniales.
 frostermit c
 frostermit b
 fall_max
