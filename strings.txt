@@ -15864,8 +15864,8 @@ mail_open
 mail_offset
 mail_display_count
 selection_max
-BAG
-TALK
+BOLSO
+HABLAR
 current_item
 mail_number
 current_mail
@@ -16123,96 +16123,96 @@ gml_Script_multiple_lines_gml_Object_obj_martlet_follower_Other_10
 multiple_lines
 gml_Script_update_talk_val_gml_Object_obj_martlet_follower_Other_10
 update_talk_val
-* Bet you had a few#  run-ins on your journey,#  right?	
-* An area like this... I#  wonder what kind of#  battle music they had?	
-* Oh, right. You may not#  know...	
-* There's this phenomenon#  with monsters.	
-* When we focus while in#  a battle, melodic#  vibrations echo from us.
-* It's almost like it's#  in our heads but... 	
-* It's possible the#  opponent hears it as#  well.	
-* I always hear super#  dramatic music when I#  fight!	
-* It may not fit me to be#  honest... but it's the#  feeling I strive for!	
-* I wonder...	
-* Could humans find their#  own melody if determined#  enough?	
-* An interesting thought!
-* With me around, you#  shouldn't have to worry#  about fights anymore!	
-* It isn't because they#  don't like me...	
-* It's that monsters#  typically don't attack#  other monsters.
-* ‘Least I hope that's#  the reason...
-* I'm personable...#  right?	
-* Let's just say "yes" to#  avoid being anxious the#  rest of today.
-* I have no clue where#  we're headed.
-* I'm so unfamiliar with#  this place, it might as#  well be the Surface.
-* Doing a great job of#  helping you, I know.
-* Geez, I was hoping it'd#  be cooler in here but#  nope!
-* Hmm... there's gotta be#  a way to Hotland#  somewhere.
-* Man, it is h-o-t HOT!#  I'm starting to miss#  Snowdin!
-* You doin' okay in those#  heavy clothes? I'd pass#  out by now.
-* There's so much to see#  in this town!	
-* I'm getting some strong#  Honeydew Resort vibes.	
-* After I get tired of#  keeping the peace every#  day, I may move here.	
-* A mighty fine#  retirement plan, yeah?
-* I apologize for not#  talking with the#  residents more.
-* With my bird brain, who#  knows what might slip#  out!
-* Look at that little#  thing.    
-* Trying its best to grow#  big and strong I bet!
-* Ooo! I bet I can tell#  your fortune, Clover!
-* Yeess... Hmm...
-* I see you with a brand#  new hat...
-* One that just SCREAMS#  "I'm a human."
-* Kidding, by the way.#  Your hat's plenty cool#  as is!
-* The architecture here#  is fascinating!
-* Back home, almost#  everything is made from#  wood.
-* Maybe I should start#  building with stone?
-* Oye... I think I know#  who lives here.
-* Guess she doesn't want#  visitors.
-* Makes sense, poor#  thing.
-* Aww, the playground is#  super cute!
-* I should build one of#  these back home for the#  school!
-* Can't say this is how I#  thought my day would end#  up.	
-* Meeting a human,#  visiting a new place...	
-* Couple checks off the#  bucket list for sure.
-* Phew, I'm getting#  thirsty.
-* I typically bring a#  canteen when I travel#  but...
-* ...I kinda left all of#  my belongings at my#  station.
-* Excuse me, sir?     
-* Shouldn't a gift shop#  have, ya know, gifts?
-* DO YOU SEE THOSE#  SHELVES?
-* YEAH, THOUGHT SO.#
-* Not exactly digging the#  vibe of this place.    
-* I'm ready to leave when#  you are.
-* What a breathtaking#  view...    
-* Isn't it fascinating#  how large the#  Underground is?    
-* Feels almost too large#  sometimes.    
-* I may seem audacious#  but I'm a little uneasy#  right now, heh.    
-* Bit of a homebody...#  Like to stay where it's#  familiar.    
-* Focus on my hobbies and#  job, ya know...    
-* But I'm working on it! #    
-* Not doing great but#  working on it!
-* Just saying, last time#  I stepped out and took a#  risk...    
-* I ended up regretting#  it SO MUCH you wouldn't#  believe!    
-* But I guess it taught#  me that growth is#  possible.    
-* Good growth, bad#  growth, don't know yet. #    
-* I'm still not even used#  to normal adult#  responsibilities!    
-* Cut me some slack,#  waking up before noon#  sucks!
-* Guess I'm lucky my job#  involves something I#  like doing.    
-* I could be working here#  at the Mines or even#  worse... retail!    
-* Glass half full,#  Clover. Glass half full.
-* Oh my gosh! Look at all#  the gemstones in the#  walls!
-* I might have to sneak a#  few outta here.
-* Don't rat me out!
-* We should probably find#  a way to Hotland soon,#  yeah?
-* (Hey, Clover. I know#  this fella.)
-* (He's set up shop#  around Snowdin quite a#  bit.)
-* (Always seemed a little#  shady if you ask me...#  pun intended.)
-* Looks like this is a#  dead end, huh.
-* What a terrible#  sight...
-* Ava was such a beauty#  and look at her now...
-* A hundred smaller#  beauties.
-* I should... 
-* No, nevermind. We don't#  have time. Let's go.
-* Let's push ahead,#  Clover.
-* We should probably get#  going.
+* Apuesto a que tuviste#  algunos problemas en#  tu viaje, ¿verdad?		
+* Una zona como esta...#  Me pregunto qué tipo de#  música de batalla tenían.	
+* Oh, cierto. Puede#  que no sepas...	
+* Existe este fenómeno#  con los monstruos.	
+* Cuando nos concentramos#  en una batalla, las vibra-#  ciones melódicas resuenan.
+* Es casi como si#  estuviera en nuestras#  cabezas pero...
+* Es posible que el#  oponente también lo oiga.	
+* ¡Siempre oigo música#  súper dramática cuando#  peleo!	
+* Puede que no me quede#  bien, ¡pero es la#  sensación que busco!	
+* Me pregunto...
+* ¿Podrían los humanos#  tener su melodía si#  fueran determinados?	
+* ¡Una reflexión#  interesante!
+* ¡Conmigo cerca, ya no#  tendrás que preocuparte#  por las peleas!	
+* No es porque no#  les caiga bien...	
+* Es que los monstruos#  normalmente no atacan#  a otros monstruos.
+* Al menos espero que#  esa sea la razón...
+* Soy agradable...#  ¿verdad?
+* Digamos "sí" para#  evitar estar ansiosos#  el resto del día.
+* No tengo ni idea#  de hacia dónde#  nos dirigimos.
+* Estoy un poco habituada#  en este lugar que bien#  podría ser la superficie.
+* Haciendo un gran#  trabajo ayudándote, lo sé.
+* Caray, esperaba que#  hiciera más fresco aquí#  pero... ¡no!
+* Hmm... tiene que haber#  un camino a Hotland#  en alguna parte.
+* Hermano, hace c-a-l-o-r#  ¡CALOR! echo de#  menos Snowdin!
+* ¿Estás bien con esa#  ropa tan pesada? Yo ya#  me desmayaría.
+* ¡Hay tanto que ver#  en esta ciudad!
+* Tengo fuertes#  vibraciones de#  "Honeydew Resort".	
+* Cuando me canse de#  mantener la paz,#  puede que me mude aquí.	
+* Un buen plan de#  jubilación, ¿no?
+* Pido disculpas por no#  hablar más con los#  residentes.
+* Con mi cerebro de#  pájaro, ¡quién sabe lo#  que se me puede escapar!
+* Mira esa cosita.
+* Apuesto a que está#  haciendo todo lo posible#  para crecer grande y fuerte.
+* ¡Ooo! ¡Apuesto a que#  puedo adivinar tu#  fortuna, Clover!
+* Siii... Hmm...
+* Te veo con un#  sombrero nuevo...
+* Uno que simplemente#  GRITE "Soy humano".
+* Bromeaba, por cierto.#  ¡Tu sombrero es genial#  tal y como está!
+* ¡La arquitectura aquí#  es fascinante!
+* En casa, casi todo#  está hecho de madera.
+* ¿Quizás debería#  empezar a construir#  con piedra?
+* Oye... Creo que sé#  quién vive aquí.
+* Supongo que no#  quiere visitas.
+* Tiene sentido,#  pobre.
+* ¡Aww, el parque#  infantil es super lindo!
+* ¡Debería construir uno#  de estos en casa para#  la escuela!
+* No puedo decir que así#  es como pensaba que#  acabaría mi día.	
+* Conocer a un humano,#  visitar un lugar nuevo...
+* Un par de comprobaciones#  de la lista de cosas#  que hacer antes de morir.
+* Uf, me está#  entrando sed.
+* Suelo llevar una#  botella cuando viajo#  pero...
+* ...dejé todas mis#  pertenencias en mi#  estación.
+* ¿Disculpe, señor?
+* ¿No debería una tienda#  de regalos tener,#  ya sabes, regalos?
+* ¿VES ESOS#  ESTANTES?
+* SÍ, ESO PENSÉ.
+* No me gusta mucho el#  ambiente de este sitio.
+* Estoy lista para irme#  cuando tú lo estés.
+* Qué vista tan#  impresionante...
+* ¿No es fascinante lo#  grande que es el Subsuelo?    
+* A veces parece#  demasiado grande.
+* Puedo parecer audaz#  pero estoy un poco#  inquieta ahora mismo, jeje.
+* Un poco hogareño...#  Le gusta quedarse#  donde es familiar.
+* Centrarme en mis#  aficiones y trabajo,#  ya sabes...   
+* ¡Pero estoy#  trabajando en eso!
+* No me va muy bien,#  pero estoy trabajando#  en eso.
+* Sólo digo que la#  última vez que salí#  y me arriesgué...    
+* Acabé arrepintiéndome#  TANTO que no te#  lo creerías.    
+* Pero supongo que me#  enseñó que crecer es#  posible.    
+* Buen crecimiento,#  mal crecimiento,#  aún no lo sé.    
+* ¡Aún no me he#  acostumbrado a las# obligaciones de un adulto!    
+* Dame un descanso,#  ¡despertarse antes del#  mediodía apesta!
+* Creo que tengo suerte#  de que mi trabajo#  sea algo que me guste.    
+* Podría estar trabajando#  aquí en las Minas o incluso#  peor... ¡minorista!    
+* Vaso medio lleno,# Clover.#  Vaso medio lleno.
+* ¡Dios mío! ¡Mira todas#  las piedras preciosas#  en las paredes!
+* Puede que tenga que#  escabullirme un poco#  de aquí.
+* ¡No me delates!
+* Probablemente debamos#  encontrar un camino#  a Hotland, ¿verdad?
+* (Oye, Clover.#  Conozco a este tipo.)
+* (Se ha instalado#  bastante en Snowdin.)
+* (Siempre me parecio#  un poco sospechoso...#  juego de palabras.)
+* Parece que esto es#  un callejón sin#  salida, eh.
+* Qué terrible#  espectáculo...	
+* Ava era una belleza#  y mírala ahora...
+* Cien bellezas más#  pequeñas.
+* Debería... 
+* No, no importa.#  No tenemos tiempo.#  Vámonos.
+* Sigamos adelante,#  Clover.
+* Deberíamos ponernos#  en marcha.
 * This is going to be#  redundant,	
 * But I'm sorry for all#  of my apologies.	
 * It feels like all I've#  done since we met is#  screw up.	
@@ -20574,7 +20574,7 @@ starlo_x_original
 * Youthfulness!#  (¡Dureza!)
   J
 * Justice!#  (¡Justicia!)
-* La J es silenciosa.
+* La J es muda.
 * De todas formas,
 * Ahora que nos#  presentamos...
 * Estaré encantado de#  darles una vuelta a#  ti y a tu amigo...
