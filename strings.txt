@@ -968,21 +968,21 @@ Minas - Minecart
 Dunes - Cima de montaña
 Dunes - Playground
 Dunes - Well
-Wild East - Town
+Salvaje Este - Pueblo
 Wild East - Outskirts
 Wild East - Sunnyside
-Steamw. - Generator
+Steamw. - Generador
 Steamw. - Raised Path
-Steamw. - Lake
-Steamw. - Offices
+Steamw. - Lago
+Steamw. - Oficinas
 Steamw. - ???
 Steamw. - Commons
 Greenhouse
 Steamw. - Crossroads
-Steamw. - Laboratory
+Steamw. - Laboratorio
 Steamw. - Botany Hall
 Factory - Lobby
-Factory - Offices
+Factory - Oficinas
 The Furnace
 A Road Ahead
 Estate
