@@ -957,7 +957,7 @@ Ruinas Oscuras - Abismo
 Ruinas Oscuras - Puzzle
 Ruinas Oscuras - Salón
 Snowdin - Roca Delta
-Snowdin - Cabaña en Ruinas
+Snowdin - Cabaña Rota
 Snowdin - Pathway
 Snowdin - Resort
 Snowdin - Corredor
@@ -1939,11 +1939,11 @@ H. Acid
 * (Mmm, hits the spot!)
 * (You nervously drink the Corn#  Chowder.)
 * (...Could've been worse.)
-* (You equipped the#  
+* (Equipaste#  
 .)
-* (You equipped the 
-* (You load the Ice Pellet Ammo.)
-* (Your gun is now cold to the#  touch.)
+* (Equipaste 
+* (Cargaste la Ice Pellet Ammo.)
+* (Tu pistola está fría#  ahora.)
 * (You load the Coffee Beans.)
 * (Your gun now smells delightful.)
 * (You load the Super Ammo.)
@@ -2078,9 +2078,9 @@ info
 * (It's a hand-drawn map.)
 * (It seems more colorful than the#  real Snowdin.)
 * (A sturdy pickaxe.)
-* "Ice Ammo" - Weapon AT 6#* (Very conveniently shaped ice#  cubes.)
-* (They don't seem to be melting#  either.)
-* (How thoughtful of them!)
+* "Munición helada" - Daño 6#* (Cubos de hielo con#  forma convencional.)
+* (No parecen derretirse.)
+* (Que atentos por su parte!)
 * "Coffee Ammo" - Weapon AT 4
 * (There's no way you could eat#  them, but they might still be#  of use.)
 * "Super Ammo" - Weapon AT 15#* (Regular toy gun ammo sold#  at your favorite convenience store.)
@@ -2428,7 +2428,7 @@ gml_Script_scr_save_flowey_snowdin
 * ¿Supongo que necesitabas#  una confirmación extra?
 * No te preocupes, lo#  dije en serio como la#  primera vez como la segunda.
 * Te agradezco que#  quieras que te felicite#  por tercera vez.
-* Pero no tienes que#  apoyarte tanto en mí para#  apoyo emocional.
+* Pero no tienes que#  apoyarte en mí para ser#  tú apoyo emocional.
 * Puedes creer en ti#  mismo un poco también,#  amigo.
 * Debo decir que no#  recordaba que este lugar#  fuera tan...
 * Ya sabes...
@@ -3316,10 +3316,10 @@ scr_battle_core_directory_no_attack
 * Notas al Micro Froggit#  atacándote!
 * Insomnitot tambalea hacia ti.
 * De repente quieres tomar#  una siesta.
-* Know Cone comes to see if you#  are made of fire.#* You aren't.
-* Insomnitot appears!#* Know Cone wanders in, chasing a#  butterfly.
+* Know Cone viene a ver si#  estás hecho de fuego.#* No lo estás.
+* Insomnitot aparece!#* Know Cone merodea, persiguiendo#  una mariposa.
 * Hay un iglú aquí.
-* Know Cone encounters you, and#  an igloo.
+* Know Cone te encuentra, y#  a un iglú.
 * Trihecta wobbles forward!
 * Trihecta regroups, then bickers.
 * Martlet de la Guardia Real#  está esperando tu turno.
@@ -3520,7 +3520,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_1
 * Decibat susurra algo#  demasiado bajo para oírlo.
 * Dalv hace una pausa para#  limpiar su capa.
 * Captas un leve olor#  a semilla de mostaza.
-* El olor a patatas fritas#  pasa a tu lado.
+* El olor a papas fritas#  pasa a tu lado.
 * Know Cone empieza a hacer#  un baile primitivo.
 * El iglú se eleva sobre ti#  amenazadoramente.#* Es broma. Es solo un iglú.
 * Frostermit está saliendo#  un poco de su caparazón.
@@ -3965,7 +3965,7 @@ insomnitot b
 * Cantar
 know cone a
 know cone b
-* Encourage
+* Animar
 frostermit a
 * Inspeccionar
 trihecta
@@ -3982,9 +3982,9 @@ dunebud b
 * Tocar
 * Desafiar
 bowll a
-* Clean
+* Limpiar
 * Girar
-* Mirada
+* Mirar
 * Flatter
 * Aceptar
 * Resistir
@@ -4027,8 +4027,8 @@ action_2_color_3
 * Criticar
 * Estrechar la mano
 * Amenazar
-* Lecture
-* Educate
+* Leer
+* Educar
 * Bailar
 * Pull
 * Ignorar
@@ -4060,8 +4060,8 @@ action_3_color_3
 * Juzgar
 * Ahuyentar
 * Stomp
-* Hypnotize
-* Berate
+* Hipnotizar
+* Reprender
 * Climb
 * Doubt
 * Console
@@ -4132,9 +4132,9 @@ enemy_low_hp_3
 * MICRO FROGGIT -- ATQ 
 #* A menudo pasa desapercibido.
 * INSOMNITOT -- ATQ 
-#* Más allá de su hora de dormir.
+#* Lejos de su hora de dormir.
 * KNOW CONE -- ATQ 
-#* Un esquí menos que una moto de nieve.
+#* Un esquí menos que una moto#  de nieve.
 #* Una mente ansiosa llena de una pasión ardiente.
 * FROSTERMIT -- ATQ 
 #* Siempre como en casa.
@@ -5616,20 +5616,20 @@ scr_enemy_attack_frostermit_snowflakes_blueberries
 scr_enemy_attack_frostermit_snowflakes_oranges
 scr_generate_battle_insomnitot_solo
 scr_recreate_heart_battle_menu_text_insomnitot_solo
-* You hum a little ditty.#* Insomnitot seems too distracted#  to appreciate it.
-* You attempt to sing a quiet#  lullaby, but it seems your#  services are no longer required.
-* You attempt to sing a quiet#  lullaby.#* Insomnitot drifts off to sleep.
-* You attempt to sing a quiet#  lullaby.#* Insomnitot looks bored.
+* Tarareas una coplilla.#* Insomnitot parece muy#  distraído para apreciarlo.
+* Intentas cantar una nana#  silenciosa, pero parece#  que tus servicios son inútiles.
+* Intentas cantar una nana#  silenciosa.#* Insomnitot se aleja para dormir.
+* Intentas cantar una nana#  silenciosa.#* Insomnitot se ve aburrido.
 scr_dialogue_battle_action_selected_action_1_insomnitot_a
-* You inform Insomnitot that it's#  time for bed.
-* You list the health benefits of#  brushing your teeth.#* Insomnitot can't hear you.
+* Le informas a Insomnitot que#  es hora de dormir.
+* Enlistas los beneficios de#  lavarse los dientes.#* Insomnitot no puede escucharte.
 Action 2 Sparing
-* You inform Insomnitot of the#  dangers of sleep deprivation.#* It ignores you.
-* You inform Insomnitot of the#  benefits of a good night's sleep.#* It ignores you.
+* Le informas a Insomnitot los#  peligros de no dormir.#* Te ignora.
+* Le informas a Insomnitot los#  beneficios de dormir.#* Te ignora.
 scr_dialogue_battle_action_selected_action_2_insomnitot_a
-* You wave your hand slowly in#  front of Insomnitot's face.#* It doesn't react.
-* You reach for Insomnitot's#  tassle, but think better of#  disturbing its slumber.
-* You swing Insomnitot's tassel#  in front of its face.
+* Mueves lentamente tu mano#  frente la cara de Insomnitot.#* No reacciona.
+* Agarras la borla de#  Insomnitot, pero crees que#  mejor no perturbas su sueño.
+* Mueves la borla de Insomnitot#  frente su cara.
 scr_dialogue_battle_action_selected_action_3_insomnitot_a
 scr_dialogue_battle_action_selected_action_1_insomnitot_b
 scr_dialogue_battle_action_selected_action_2_insomnitot_b
@@ -16003,8 +16003,8 @@ PRUEBA DEL CONTROL
 , RB
 , LB
 * Leí algo en un libro una vez.
-* Decia, "Si la vida te viene#  demasiado deprisa, pulsa X#  y tomatelo con calma."
-* Signifique lo#  que signifique.
+* Decia, "Si la vida viene muy#  deprisa, pulsa X y tómatelo#  con calma."
+* Signifique lo que#  signifique.
 * Sabes, leí algo más#  en ese mismo libro.
 * Decia, "Come para#  mantenerte fuerte y sano!"
 * Eso es obvio.
@@ -17625,10 +17625,10 @@ slurpy_solution
 * Tipo, no se que le#  sucedió, pero de seguro fue#  inafortunado.
 * Segundo, siento que parte#  de su madera ya no esté.
 * De acuerdo con el manual#  de Guardia Real sección#  cuarenta y dos, párrafo uno,
-* So long as notice is given to#  the original owner at least two#  business days prior,
-* Any and all eyesores can be#  repurposed for puzzles or other#  diversions.
-* Well, I didn't know how to#  contact you, but consider this#  notice!
-* ...Unfortunately not of the#  prior variety, but you know...#  notice.
+* Mientras sea notificado al#  dueño original con dos días#  laborales de anticipación,
+* Cualquier escombro puede ser#  reutilizado para puzzles o#  cualquier diversión.
+* Bueno, no sabía como#  contactarle, pero tome esto#  como la notificación!
+* ...Desafortunadamente no de#  una pertinente, pero bueno...#  una notificación.
 * (Es un árbol.#  Nada especial.)
 * (Un árbol viejo y frágil.)
 * (¿Tomar un Ice Pellets?)
@@ -17670,7 +17670,7 @@ mo_can_walk
 * Por mucho que me gustaría#  seguir vendiendo pops,#  ¡no me quedan!
 * ¡Hasta la próxima!
 * ¿Quién soy yo? Nadie#  importante. Ya sabes.
-* ¡EL MEJOR VENDEDOR#  DE LA HISTORIA!
+* ¡SOLO EL MEJOR VENDEDOR#  DE LA HISTORIA!
 * ¡WAM! ¡Yo soy Mo!
                 Mo 
 * El hecho de que hayas intentado#  hacerte con esta taza solo#  puede significar una cosa.
@@ -17679,7 +17679,7 @@ mo_can_walk
 * Entonces,#  ¿quieres esta bebida?
 * ¡No es verdad!
 * Pues claro que no.
-* Tú y yo, estamos en#  la misma página aquí.
+* Tú y yo, estamos en la#  misma página aquí.
 * ¿Esto? Qué asco.#  Nadie quiere eso.
 * ¿Líquidos?#  ¡Tan de la temporada pasada!
 * ¿Sólidos? ¡PAH!#  ¡Temporada anterior!
@@ -17690,7 +17690,7 @@ mo_can_walk
 * ¡Por el increíble precio#  de 15 de oro, puedes tener tu#  propio chocolate caliente Pop!
 * Antes era el viejo y aburrido#  chocolate caliente, ¡pero ahora#  congelado a temperatura ideal!
 * ¿He despertado ya tu#  interés?
-Vendido
+Completamente
 No Gracias
 * ¡Sabía que lo serías!#  ¡Maldición, soy bueno!
 * Vayamos al grano.
@@ -17711,7 +17711,7 @@ Cancelar
 * ¡Qué artículo tan popular!#  Ojalá pudiera venderte más,#  pero se me han acabado.
 * ¡Eh, qué haces ahí!
 * ¡Eso no es un Pop!
-* ¿Me estás abandonando?#  ¿No te interesan mis#  mercancías?
+* ¿Me estás abandonando?#  ¿No te interesa mi#  mercancía?
 * ¿No tengo tu temperatura#  preferida?
 * Ah, ya veo. Necesitas algo#  de tiempo para pensarlo.
 * Bueno, siempre estaré#  aquí para tu or-
@@ -23920,7 +23920,7 @@ Vamos a#quedarnos despiertos#y charlar!
 Vamos a iniciar#un club nocturno.
 Juntos luchamos#contra la opresión#constructiva de#la hora de dormir!
 Ya superé mi#hora de dormir,#así que no#hay reglas.
-Dormir es para#el débil!
+Dormir es para#débiles!
 Lo bueno#pasa las 24#horas del día!
 No tengo sueño,#tu sí!
 No se que#hora es y no#me importa.
@@ -23937,26 +23937,26 @@ out_box
 in_box_list
 return_in_box
 in_box_trail
-WHERE TOT GO!?#THEY FUN!!
-TOT SLEEP. KNOW CONE WISHES GOOD DREAM.
-YOU WANT FLAME FOR#SELF! KNOW CONE SEES#THROUGH!
-KNOW CONE WANT SEE#FIRE! KNOW CONE#PURSUE FIRE DREAM?
-FIRE NICE!#STRANGER MEAN!
-FIRE BAD? YOU TRIED#TO HELP KNOW CONE?#KNOW CONE APPRECIATES#THOUGHT!
-FIRE HOT MELT KNOW#CONE? KNOW CONE NOT#KNOW THIS! YOU GOOD#FRIEND TO KNOW CONE!
-KNOW CONE SORRY!#PLEASE LEAVE KNOW#CONE ALONE!
-BUT YOU TEACHER? MY#IGNORANCE YOUR FAULT#NOW! JOKE ON YOU!
-WHAT KNOW CONE NOT#KNOW IS NOT KNOW CONE#FAULT! THAT VERY RUDE!
-YOU NOT SYMPATHETIC#TO KNOW CONE! THAT#MAKE KNOW CONE ANGRY!
-THIS BULLYING!#BULLYING VERY MEAN!#KNOW CONE IS BEING#BULLIED!
-KNOW CONE HURT!#OW OW OW!#PAIN BAD!
-KNOW CONE NO LIKE#SMALL STRANGER!
-KNOW CONE SING HIS#FAMOUS LULLABY!
-KNOW CONE WILL LET#TOT SLEEP AT ALL COSTS!
-KNOW CONE SHOW TOT#FLAME! TOT WILL LIKE!
-YOU STRANGER BRING#KNOW CONE FIRE?#KNOW CONE VERY MUCH#WANT FIRE!
-KNOW CONE HEAR FIRE#BRIGHT PRETTY!#KNOW CONE LIKE#BRIGHT PRETTY!
-KNOW CONE DREW ON WALL#ONCE! KNOW CONE MOTHER#GOT MAD!
+DONDE TOT IRSE!?#ELLOS DIVERTIDOS!!
+TOT DUERME. KNOW CONE DESEA DULCES SUEÑOS.
+TU QUERER LLAMA!# KNOW CONE VER#A TRAVÉS!
+KNOW CONE QUIERE VER#FUEGO! KNOW CONE#SEGUIR FUEGO SUEÑO?
+FUEGO BUENO!#EXTRAÑO MALO!
+FUEGO MALO? INTENTAS#AYUDAR KNOW CONE?#KNOW CONE APRECIARLO!
+FUEGO DERRETIR A KNOW#CONE? KNOW CONE NO#SABERLO! TU BUEN#AMIGO DE KNOW CONE!
+KNOW CONE DISCULPARSE!#DEJA KNOW#CONE SOLO!
+TU SER PROFESOR?#MI IGNORANCIA TU CULPA#AHORA! EN TU CARA!
+SI KNOW CONE NO#SABE NO SER CULPA DE#KNOW CONE!#ESO ES GROSERO!
+NO ERES EMPÁTICO#A KNOW CONE! ESO#ENOJAR A KNOW CONE!
+ESTO SER BULLYING!#BULLYING MUY MALO!#KNOW CONE SER#BULLEADO!
+KNOW CONE HERIDO!#OW OW OW!#DOLOR MALO!
+KNOW CONE NO GUSTAR#PEQUEÑO EXTRAÑO!
+KNOW CONE CANTA SU#FAMOSA NANA!
+KNOW CONE DEJARÁ#DORMIR A TOT!
+KNOW CONE ENSEÑAR A#TOT FLAMA! TOT GUSTARÁ!
+EXTRAÑO TRAER FUEGO#A KNOW CONE?#KNOW CONE QUERER#FUEGO!
+KNOW CONE ESCUCHAR FUEGO#BRILLA BONITO!#KNOW CONE GUSTAR#BRILLO BONITO!
+KNOW CONE PINTÓ LA#PARED UNA VEZ! MADRE#ENOJARSE!
 KNOW CONE HIT THING#WITH CLUB! GOLF FUN#FOR KNOW CONE!
 SNOWDIN TOO COLD!#KNOW CONE WANT#HOTLAND!
 OH WELL...
