@@ -957,7 +957,7 @@ Ruinas Oscuras - Abismo
 Ruinas Oscuras - Puzzle
 Ruinas Oscuras - Salón
 Snowdin - Roca Delta
-Snowdin - Ruined Shack
+Snowdin - Cabaña en Ruinas
 Snowdin - Pathway
 Snowdin - Resort
 Snowdin - Corredor
@@ -1876,8 +1876,8 @@ H. Acid
 * (Phew! No cuts!)
 * (You load the Flint#  into your gun.)
 * (Might start some fire#   with this one!)
-* (You lick the frosting off of#  the sponge.)
-* (Your mouth feels squeaky#  clean!)
+* (Lames el glaseado de#  la esponja.)
+* (Tú boca se siente limpiesita!)
 * (You brave the hot Honeydew#  Coffee.)
 * (You can feel your taste buds#  burning off.)
 * (You take a sip out of#  the adult soda.)
@@ -2419,7 +2419,7 @@ gml_Script_scr_save_flowey_snowdin
 * ¡Ahora muévete!
 * ¿Qué tal lo llevas?
 * Las cosas no se ponen#  más fácil, ¿eh?.
-* Estaría bien#  pasar por aquí#  sin molestias.
+* Sería bueno pasar#  por aquí sin molestias.
 * Supongo que el#  mundo no funciona así.
 * Así son los monstruos,#  nunca pueden ocuparse#  de sus propios asuntos.
 * En cualquier caso,#  ¡lo estás haciendo#  muy bien!
@@ -3309,13 +3309,13 @@ scr_battle_core_directory_no_attack
 * Ya puedes sentir las caries.
 * Penilla te encuentra.#* Sweet Corn aparece de la#  nada con emoción.
 * Crispy Scroll está buscando#  con quien hablar.
-* A powerful lone warrior and his#  pencil companion encounter you!
+* Un poderoso guerrero y su#  acompañante de lápiz te#  encuentran!
 * Rorrim te encuentra!
 * Decibat hace notar su#  presencia.
 * Dalv reúne su espiritu de lucha.
-* You notice Micro Froggit#  attacking you!
-* Insomnitot staggers forward.
-* You suddenly feel like taking a#  nap.
+* Notas al Micro Froggit#  atacándote!
+* Insomnitot tambalea hacia ti.
+* De repente quieres tomar#  una siesta.
 * Know Cone comes to see if you#  are made of fire.#* You aren't.
 * Insomnitot appears!#* Know Cone wanders in, chasing a#  butterfly.
 * Hay un iglú aquí.
@@ -3467,11 +3467,11 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * Smells like freshly opened#  textbooks!
 * Ms. Mettaton.
 * Todo tiene ese aroma a#  carro nuevo con un poco de#  perfume.
-* Penilla is drawing a practice#  sketch of you.
-* It smells like burning candle#  wax.
-* Crispy Scroll is asking if he#  can get a picture with you.
+* Penilla dibuja un sketch#  de ti.
+* Huele a cera de vela#  quemándose.
+* Crispy Scroll pregunta si puede#  tomarse una foto contigo.
 * Quedas cegado momentaneamente#  por el deslumbrante#  brillo de Rorrim.
-* Decibat is not enjoying the#  music.
+* Decibat no está disfrutando la#  música.
 * Dalv parece temer su próximo#  ataque.
 * A gentle breeze causes#  Micro Froggit to lose its#  balance.
 * The air is crisp.
@@ -23895,37 +23895,37 @@ Only master chefs#know ze secret#to perfect-e-on!
 Almost zere!
 Ze final step#ez...?
 boulder_spawned_count
-Huh? What? I#think I nodded#off...
-So much for all night.
-You need vocal#lessons.
-Pretty song...#zzzz...
-You're a       #good sing...er...
-         *YAWN*#                 
-I like that#song...
-Know anything#more upbeat?
-I see what#you're doing.#It's not gonna#work!
-You're not the#boss of me.
-Yeah, yeah,#don't talk to#strangers.
-You sound like#my parents!
-Nice try.
-I'm...#getting...#sleepy?
-*YAWN*
-Ow... now I have#a headache.
-No need to be so#crass.
+Huh? Qué?#Creo que#asentí...
+Tanto por la noche.
+Necesitas lecciones#de canto.
+Linda canción...#zzzz...
+Eres un       #buen cantante...em...
+         *BOSTEZO*#                 
+Me gusta esa#canción...
+No te sabes#una más alegre?
+Ya se lo#que pretendes.#No va a#funcionar!
+Tu no eres#mi jefe.
+Si, si,#no hablarle#a extraños.
+Suenas como#mis padres!
+Buen intento.
+Tengo...#un poco...#de sueño?
+*BOSTEZO*
+Ow... ahora me#duele la cabeza.
+No hay porque#ser tan grosero.
 Zzzz...zzz
-*Snore*
-Zzzzz... noodles... zzz
-When you have#friends, you#don't need sleep!
-We're gonna stay#up all night#chatting!
-We're starting a#night owl club.
-Together we fight#the oppressive#construct of#bedtimes!
-I outgrew my#bedtime, so no#rules for me.
-Sleep is for#the weak!
-Cool things#happen 24 hours#a day!
-I'm not tired,#you are!
-Don't know what#time it is and#I don't care.
-Huh. The noise#stopped.
-I can't sleep#even if I wanted#to.
+*Ronca*
+Zzzzz... fideos... zzz
+Cuando tienes#amigos, no#necesitas dormir!
+Vamos a#quedarnos despiertos#y charlar!
+Vamos a iniciar#un club nocturno.
+Juntos luchamos#contra la opresión#constructiva de#la hora de dormir!
+Ya superé mi#hora de dormir,#así que no#hay reglas.
+Dormir es para#el débil!
+Lo bueno#pasa las 24#horas del día!
+No tengo sueño,#tu sí!
+No se que#hora es y no#me importa.
+Huh. El ruido#paró.
+No puedo dormir#incluso si quisiera.
 insomnitot c
 distance_limit
 run_sprite
