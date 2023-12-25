@@ -1,10 +1,17 @@
+De los siguientes archivos:
 
-De este archivo:
 gml_Object_obj_lemonadestand_Step_0
-
 Traducir Large Amount y Small Acount
 	 Gran Cantidad  Poca Cantidad
 
 gml_Object_obj_flowey_snowdin3_Step_0
 Traducir It's Clove That's Right
 	 Clover	    Correcto
+
+gml_Object_obj_wild_east_ceroba_cool_Step_0
+Traducir Not\nreally
+	 No Realmente
+
+gml_Object_obj_npc_producer_Step_0
+Traducir What's\nwrong	Nothing
+	 ¿Qué\npasa?	Nada
