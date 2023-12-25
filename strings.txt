@@ -2618,7 +2618,7 @@ gml_Script_scr_save_flowey_dunes
 * ¿A qué viene#  este retraso, amigo?
 * Vaya, parece que#  mi saludo ha encontrado#  su hogar.
 * ¿Te gusta el sombrero?#  Es un disfraz.
-* Esta zona está bastante#  poblada, así que cogí#  esto para estar seguro.
+* Esta zona está bastante#  poblada, así que tome#  esto para estar seguro.
 * Que te hayas separado#  de Martlet es bastante#  afortunado pero...
 * Espero que este tipo#  Star no te retenga#  aquí mucho tiempo.
 * ¡Quizás tenga que#  intervenir si lo hace!
@@ -15552,7 +15552,7 @@ flowey_npc
 * Looks like things are#  heating up!
 * Literally, that is.
 * Since you shut the bots#  down, it should be an#  easy stroll to the exit.
-* Good luck, Clover.
+* Buena suerte, Clover.
 * But just in case, I'd#  like to give you a#  little gift...
 * From your best friend.
 * I think it's time you#  try your hand at#  wielding the pellets.
@@ -20444,31 +20444,31 @@ Seh
 * Bueno... de acuerdo.
 * Más o menos lo que#  esperaba.
 * Pido disculpas por#  las payasadas de Star.
-* He's really into human#  culture and whatnot.
-* You show up here and he#  flips out.
-* I mean, it is quite#  unbelievable.
-* A few humans have#  wandered into the#  Underground before but...
-* They never set foot on#  these sands.
-* All that to say, I'm#  glad you did.
-* My name is Ceroba.
-             Ceroba 
-* I'm a friend of Star's#  but not part of his#  posse.
-* They're a bit too...#  rowdy for my taste.
-* May I ask your name?
-* Welcome to the#  Underground, Clover.
-* Your attire is#  surprising, I must say.
-* But um... I won't press#  you on the matter.
-* I'm afraid Star is going#  to drag you into his#  activities for a while.
-* You must have places to#  go, correct?
-* The Castle... the#  barrier. You probably#  want to go home.
-* If I'm being honest, I#  haven't seen Star this#  ecstatic in some time.
-* Maybe you should#  entertain him a bit;#  roll with his punches.
-* I'll see what I can do#  about allowing you to#  leave.
-* I know of a safe path#  to Hotland through#  the...
-* Ah, I'm getting ahead#  of myself.
-* Hablar to you later,#  Clover.
-* It was nice to#  meet you.
-* He'll probably allow#  you to leave eventually.
+* Le gusta mucho la#  cultura humana y#  todo eso.
+* Apareces aquí y él#  se vuelve loco.
+* Quiero decir, es#  bastante increíble.
+* Algunos humanos se han#  adentrado en el Subsuelo, pero...
+* Nunca pisaron#  estas arenas.
+* Lo dicho, me alegro de#  que lo hicieras.
+* Mi nombre es Ceroba.
+               Ceroba 
+* Soy amiga de Star#  pero no parte de su#  pandilla.
+* Son un poco#  demasiado... ruidosos#  para mi gusto.
+* ¿Puedo preguntar#  tu nombre?
+* Bienvenido al Subsuelo,#  Clover.
+* Su atuendo es#  sorprendente, debo#  decirlo.
+* Pero... No te presionaré#  sobre el asunto.
+* Me temo que Star va a#  arrastrarte a sus#  actividades por un rato.
+* Debes tener sitios a#  los que ir, ¿verdad?
+* El Castillo... la#  barrera. Probablemente#  quieras volver a casa.
+* Si te soy sincera, hace#  mucho no veía a#  Star tan emocionado.
+* Tal vez deberías#  entretenerlo un poco,#  seguirle la corriente.
+* Veré lo que puedo hacer#  para que puedas#  irte.
+* Conozco un camino#  seguro a Hotland a#  través...
+* Ah, ya me estoy#  adelantando.
+* Hablaremos más#  tarde, Clover.
+* Fue un placer#  conocerte.
+* Es probable que#  te deje ir.
 * Neigh!! Neigh!!!
 * Neigh I say!
 * For I am a horse, each and#  every day!
@@ -20528,7 +20528,7 @@ starlo_x_original
 * ¡Chicos! ¡Miren aquí!
 * Alguien nuevo ha#  tropezado en nuestra#  humilde ciudad.
 * Más vale que no sea#  otra broma...
-* Por una vez, no#  parezca que lo es.
+* Por una vez, no#  parece que lo sea.
 * ¡Hola, forasteros!
 * ¡Oh, hola!
 * Sólo estamos de#  paso.
@@ -20616,7 +20616,7 @@ starlo_x_original
 * Tienes razón.
 * ¡Ahem!
 * Esta ciudad está llena#  de emoción.#  Especialmente ahora.
-* ¡Vamos, amigo!
+* ¡Vamonos, amigos!
 * Oh, y Plumitas...
 * Bienvenida a The Wild#  East.
                The Wild#  East 
@@ -20971,7 +20971,7 @@ music
 * (¡Ceroba, cállate!)
 * Ahora sé lo que#  están pensando.
 * ¡Pero créeme, Clover#  no es un novato!
-* Saben lo que hacen.#  ¡Mira ese sombrero!
+* Sabe lo que hace.#  ¡Mira ese sombrero!
 crowd_animate
 * En realidad, esto#  podría ser divertido.
 * ¡Dina! ¡Dame!
@@ -21839,20 +21839,20 @@ Cura 15HP
 Cura 25HP
 Cura 35HP
 Cura ???
-Cura ???#It may be#edible.
+Cura ???#Puede#ser#comestible.
 Ammo: 3AT
-Ammo: 3AT#Finely#crafted!
+Ammo: 3AT#¡Finamente#elaborado!
 Acce: 8DF
-Acce: 8DF#Made from#leather!
-You're too#young.
+Acce: 8DF#¡Hecho de#cuero!
+Eres demasiado#joven.
 Cura 15HP#
-Cura 15HP#Straight from#the tap!
+Cura 15HP#¡Directamente#del grifo!
 Cura ???#
 Cura ???#No hay#forma.
 Cura 18HP
 Cura 18HP#¡Para toda#la familia!
 Cura 30HP
-Cura 30HP#¡Una#hamburguesa#para#bebés!
+Cura 30HP#¡Una#hamburguesa#para bebés!
 Cura 30HP#_
 Cura 30HP#Esto te#matará.
 Cura 30HP#¡Sustento#crujiente!
@@ -21868,7 +21868,7 @@ Acce: 9DF#¡¡¡Importante!!!
           #< ¡Altamente#adictivo! >
 Cura 30HP#¡Un sabor#digno de#un rey!
 Cura 50HP
-          #< Elaborado#conharina#extra#;) >
+          #< Elaborado#con#harina#extra;) >
 Acce: 10DF
 Acce: 10DF#¡Representa al#Subsuelo!.
 box_portait
@@ -21956,122 +21956,122 @@ Mo
 * ¡Lo agarraron por ahí mintiendo!#  Je...
 * ...¿Ni siquiera una risita?#  Hombre...
 * Definitivamente mantener#  esto fuera el informe diario.
-* What occured in the square?	
-* North Star just walked by my#  shop while staring at the#  ground.
-* It isn't a trouble of mine#  but... maybe you should check in#  on him?	
-* If you think it's important#  that is. Ahem.
-* How old am I? How old do I#  look?#
-* Believe it or not, I was born#  with gray hair. Got it from my#  father.#
-* But yes... I am what they call#  a "senior citizen." Which only#  means I am much wiser than you#  youngsters!#
-* Because I've been around, I do#  have some interesting history#  if you would like to hear it.
-Your History (NEW)
-* I was born during the war.#  Mere weeks before our#  Underground imprisonment.#
-* My father was a soldier in#  King ASGORE's army. And a#  soldier was all he ever#  became.#
-* When my mother got the word#  that monsterkind had to#  withdraw, she refused to leave.#  Insisted on searching for my#  father instead.#
-* ...Despite pleas from#  officers, there was no changing#  her mind. #
-* I was promptly given to a#  nanny and raised in this very#  mountain.#
-* But so goes life in such#  circumstances. Not everyone#  gets it easy.#
-* I will say, these kids out#  here... While they can be#  bothersome, they are lucky.#
-* The Underground isn't ideal#  but from the ripples I grew up#  feeling, it is much better than#  the strife of days past.#
-* I'm thankful for that.
-Your History
-* North Star's posse are friends#  of his from highschool, I#  believe.#
-* There, they started a club to#  talk about movies and dress up#  to go on imaginary adventures.#  Almost like a permanent Pumpkin#  Day.#
-* Some think that they're a#  little old to be doing such#  things but it's pretty#  harmless.#
-* ...What am I saying? It isn't#  harmless! They harm me almost#  every day!#
-* Did you know that Ace and#  Mooch installed a speaker#  system throughout the town? #
-* They use it to play little#  jingles and this dreadful song#  that loops over and over! It#  even changes arrangements in#  certain buildings!#
-* Every morning at seven they#  wake me up with an eagle#  screech!#
-* I've tried telling Ace that#  it's SUPPOSED to be a rooster#  crow but he always says#  "Roosters and crows can't get#  together like that."#
-* They COULD if it was true#  LOVE!!!#
+* ¿Qué pasó en la plaza?	
+* North Star acaba de#  pasar por mi tienda#  mientras miraba#  al suelo.
+* No es un problema mío,#  pero... ¿tal vez deberías#  ver cómo está?	
+* Si crees que es importante# eso es. Ejem.
+* ¿Cuántos años tengo?#  ¿Qué edad aparento?
+* Lo creas o no, nací con#  canas. Lo heredé de#  mi padre.
+* Pero sí... Soy lo que llaman#  "ciudadana mayor". Significando#  que soy mucho más#  sabio que tú, joven...
+* Como he estado por aquí,#  tengo una historia#  interesante, si quieres#  oírla.
+Tu historia (NUEVO)
+* Nací durante la guerra.#  Apenas unas semanas antes#  de nuestro Subsuelo.
+* Mi padre era un soldado en#  el ejército del rey ASGORE. Y#  un soldado fue todo#  lo que llegó a ser.
+* Cuando mi madre recibió la#  noticia de que monsterkind tenía#  que retirarse, se negó a irse.#  Insistió en buscar a mi padre.
+* ...A pesar de las súplicas#  de los oficiales, no cambiaba#  de opinión.
+* Enseguida me entregaron a#  una niñera y me criaron en#  esta misma montaña.
+* Pero así va la vida en tales#  circunstancias. No todo el#  mundo lo tiene fácil.
+* Diré que estos niños de#  aquí... Aunque pueden ser#  molestos, tienen suerte.
+* El Subsuelo no es ideal,#  pero por las ondas que crecí#  sintiendo, es mucho mejor que#  las luchas de días pasados.
+* Estoy agradecida por eso.
+Tu historia
+* La pandilla de North Star son#  amigos suyos del colegio,#  creo.
+* Crearon un club para hablar#  de películas y disfrazarse para vivir#  aventuras imaginarias. Días de la#  Calabaza permanente.
+* Algunos piensan que son un#  poco mayores para hacer esas cosas,#  pero es bastante inofensivo.
+* ...¿Qué estoy diciendo?#  ¡No es inofensivo! ¡Me hacen#  daño casi todos los días!
+* ¿Sabías que Ace y Mooch#  instalaron un sistema de#  altavoces por toda#  la ciudad?
+* ¡Lo usan para poner pequeños#  anuncios y una canción espantosa#  que se repite una y otra vez!
+* ¡Todas las mañanas a las#  siete me despiertan con un#  chillido de águila!
+* He intentado decirle a Ace#  que se SUPONE que es el canto de#  un gallo, pero siempre dice:#  "Los gallos y los cuervos no#  pueden juntarse así".
+* ¡¡¡PODRÍAN si fuera#  verdadero AMOR!!!
 * (Pant... pant...)#
-* ...What were we speaking#  about?
-* Humans, huh?#
-* Well, I'm afraid there's no#  sugar-coating it. Humans such#  as yourself are widely#  disdained in the Underground.#
-* It's popular to root for their#  annihilation, even.#
-* So much loss... So much grief...#  #
-* The wicked actions of#  humankind are forever etched in#  our history, only to subside#  once King ASGORE obtains seven#  of their SOULs and judgment is#  brought upon the Surface.#
-* Then you wonder, "How can a#  town like the Wild East exist#  in such a society?" Well it#  isn't without its controversy.#
-* Most are indifferent,#  preferring not to acknowledge#  it.#
-* But some make their opinions#  very clear, stating that the#  town's making light of a#  serious situation, or even that#  we're traitors to monsterkind#  itself.#
-* Rather harsh, right?#
-* I believe everyone who#  participates is just fascinated#  with the Surface world. Whether#  it be historical, or plain old#  escapism.#
-* There's nothing wrong with#  finding an appreciation for#  such things, the way I see it.
-Your Opinion (NEW)
-* My opinion on humans? Hmm...#	
-* I've spent most of my life#  disliking humans outright.#  Justifiably so.#	
-* But... as I've aged, I've#  pondered over my bitterness.#	
-* Thought that perhaps, this#  feud is more nuanced than it#  first appears?#	
-* But even with all my years, I#  still haven't reached the other#  side, if I ever will.#
-* I do know that I dislike the#  nature that drove humankind to#  do what they did. #
-* The violence, the#  selfishness...#
-* But that nature can reside in#  anyone.#
-* At the end of the day, it's#  about an individual's#  character, you see. #
-* Whether or not they carry#  civility and respect within#  their SOUL.#
-* So far, I see those traits in#  you, so I've given you a pass.#
-* And anyway, it would be#  foolish of me to eliminate a#  potential patron when they have#  money to spend, haha!
-Your Opinion
-* My life's dedication!#
-* I work with steel, iron, and#  even a little silver and gold#  when I'm feeling fancy.#
-* Mining Co. is still uncovering#  many such materials so I buy it#  from them at the beginning of#  each month.#
-* Creating practical and#  beautiful items from rubble is#  endearing. I learned everything#  I know from a job in New Home#  where I made armor for Royal#  Guards.#
-* The head smith who taught me -#  rumor was that he helped King#  ASGORE forge his mighty#  trident.#
-* Of course, naysayers tout that#  it's made of pure magic but I#  don't believe them!#
-* You do know that ASGORE wields#  a trident, correct? An absolute#  masterwork it is!#	
-* His armor is wonderfully#  crafted as well. I've heard#  it's impenetrable!#	
-* Such a respectable monster#  must look the part and he#  spared no expense!
-* I was hoping you wouldn't ask#  about them...
-* Young hooligans are all they#  are.
-* Hooligans I'm forced to put up#  with to keep my business afloat.
-* They have no respect for the#  fine arms I produce, always#  waving them around like they're#  some child's toy!
-* However, I have learned how to#  benefit off their behavior.
-* I'm the only monster around#  that provides such quality#  weapons, so whenever they push#  me, I push back and threaten to#  close shop.
-* They always crumble and end up#  paying far more than the weapon#  they want is worth.
-* A little money is worth a few#  headaches, haha!
-* Ah yes, my gallery of babies!
-* Uh... That sounded strange...#  Ahem!
-* These beauties are all crafted#  from the highest quality#  materials!
-* I forge them myself in my#  personal gunsmithing room!
-* Not only do I make them with#  care, but I also care FOR them.
-* I start my mornings by#  polishing the whole stock until#  I see my reflection in them!
-* I also know how to handle these#  bad boys. I'm a way better shot#  than North Star, that's for#  sure.
-* I... I saw a bandit in my#  rafters.
-* The Wild East gets many#  visitors each day.
-* There's something about the#  aura here that some monsters#  can't get enough of.
-* Now, don't worry. I'm not#  selling ultra-deadly weapons to#  any passerby with enough G.
-* I make sure my wares are tame#  enough to not be lethal. I#  myself am not one for violence!
-* Well... used enough times#  consecutively, they COULD be#  lethal. But then again, a ballet#  shoe could also be lethal used#  enough times.
-* Look, don't question my#  morality too much! I am not#  prepared to speak about it!
-* I heard about this town some#  years back.
-* I had mastered my smithing#  capabilities and was looking to#  open up shop.
-* As it turns out, there was an#  empty building here so I thought#  "why not?" Seemed like quite the#  perfect town for such a shop.
-* Do I regret settling down here,#  resulting in endless torment#  from five demonic youngsters?#  Every day.
-* But everyone else I've met is#  quite pleasant, so it balances#  out.
-* It's probably not the best#  time to chat. Real worried#  'bout everythin' goin' on right#  now.
-* Sorry, can't chit chat right#  now.
-* I wanna savor this reunion as#  much as possible, bless their#  hearts.
-* Was all the drama settled? It#  was real rough out there.#
-* The Five are like siblin's, ya#  know? Every now and then a spat#  rears its head.#
-* 'Course, most of the time it's#  somethin' like Mooch stealing#  Ed's hat or Star forgettin' to#  turn off his "mission machines"#  out in the Dunes.#
-* This was uh... This was a step#  above.#
-* It ain't my business but I'm#  sure it'll all smooth over in#  time... 'least I hope.#
-* Family, right?
-* Ceroba's little troublemaker.#  Real cute kid.#
-* She likes to hang 'round us#  and the Five when her mom's in#  town.#
-* Looks dang intimidatin' in a#  cowboy hat too, that's for#  sure. Little older and she#  would fit right into our#  group!#
-* Though I don't think Ceroba#  would allow it seein' as we#  might not be the best#  influence, haha.#
-* Anyway, I been meanin' to ask#  Ceroba where Kanako's been.#  School field trip maybe? She#  does like to travel 'round the#  Underground.#
-* Though I wouldn't think she'd#  be allowed too far ever#  since...#
-* Ah, well, I could tell stories#  for hours but that's the gist#  of it, heh...
-* Heard fears of Royal's bargin'#  into town? Your presence did#  cause a stir. Only natural.#
-* The government takes human#  business seriously. Very#  seriously...#
-* I'm sure you've been hunted#  and attacked a hundred times by#  now. Happens every once in a#  while when a human falls down#  here.#
-* Man, if I didn't have a#  business to upkeep I'd let#  whoever's wronged you have it!
-Government (NEW)
-* Hey, if you're worried the#  town's gonna be ransacked, I#  wouldn't be.#
-* Royal's don't come 'round here#  often. I don't think they much#  care what we do.#
-* To my knowledge, last time any#  representative showed up was to#  post a flier on the news board.#  A notice for some kinda new#  healthcare program.#
-* Ol' Fluffybuns and his posse#  aren't exactly the most active#  group. #
+* ...¿De qué estábamos#  hablando?
+* ¿Humanos, huh?#
+* Bueno, me temo que no hay que#  endulzarlo. Humanos como tú son#  ampliamente despreciados#  en el Subsuelo.
+* Incluso es popular#  desear su aniquilación.
+* Tanta pérdida...#  Tanta pena...
+* Las acciones de la humanidad#  quedarán grabadas para siempre en la#  historia, hasta que el Rey ASGORE#  obtenga siete de sus ALMAS y el#  juicio caiga sobre la Superficie.
+* Entonces te preguntas: "¿Cómo#  puede existir un pueblo como el#  Salvaje Este en una sociedad así?".# Bueno, no está exento de polémica.
+* La mayoría son indiferentes#  y prefieren no reconocerlo.
+* Pero algunos dejan sus opiniones,#  que si el pueblo se está burlando# de una situación grave, o que#  somos traidores a la propia#  humanidad monstruosa.
+* Bastante duro,#  ¿verdad?
+* Creo que a todos los que#  participan les fascina el#  mundo de la superficie. Ya#  sea por historia o por#  simple evasión.
+* En mi opinión, no hay#  nada malo en apreciar#  estas cosas.
+Tu opinión (NUEVO)
+* ¿Mi opinión sobre los#  humanos? Hmm...	
+* He pasado la mayor parte#  de mi vida despreciando a#  los humanos. Justificadamente.
+* Pero... a medida que he#  envejecido, he reflexionado sobre#  mi amargura.	
+* ¿Pensaste que quizás, esta#  disputa tiene más matices de#  lo que parece a primera vista?	
+* Pero incluso con todos mis#  años, aún no he llegado al#  otro lado, si es que#  alguna vez llegaré.
+* Sí sé que me disgusta la#  naturaleza que llevó a la#  humanidad a hacer lo#  que hizo.
+* La violencia,#  el egoísmo...
+* Pero esa naturaleza#  puede residir en cualquiera.
+* A fin de cuentas, se trata#  del carácter de un individuo.
+* Lleven o no civilización#  y respeto dentro de#  su ALMA.
+* Hasta ahora, veo esos#  rasgos en ti, así que te he#  dado un pase.
+* Y de todas formas, sería#  una tontería por mi parte eliminar a un#  posible mecenas cuando tiene#  dinero para gastar, ¡jaja!
+Tu opinión
+* ¡La dedicación de mi vida!
+* Trabajo con acero, hierro e#  incluso un poco de plata y#  oro cuando me siento elegante.
+* Mining Co. sigue descubriendo#  muchos materiales de este tipo, así#  que se los compro a#  inicios de cada mes.
+* Crear objetos prácticos y bellos#  a partir de escombros es encantador.#  Lo se por Nuevo Hogar, donde#  fabricaba armaduras para la#  Guardia Real.
+* El herrero principal que me#  enseñó - dicen que ayudó al#  rey ASGORE a forjar su#  poderoso tridente.
+* Por supuesto, los críticos dicen#  que está hecho de pura magia,#  ¡pero yo no les creo!
+* Sabes que ASGORE empuña un# tridente, ¿verdad? ¡Una obra#  maestra absoluta!	
+* Su armadura también está# maravillosamente hecha.#  ¡He oído que es#  impenetrable!	
+* Un monstruo tan respetable#  debe tener un aspecto adecuado,#  ¡y no ahorro en gastos!
+* Esperaba que no preguntaras#  por ellos...
+* Jóvenes vándalos es#  todo lo que son.
+* Vándalos que me veo obligado#  a aguantar para mantener mi#  negocio a flote.
+* No tienen ningún respeto por#  las armas que produzco, ¡siempre#  las agitan como si fueran#  un juguete para niños!
+* Sin embargo, he aprendido a#  beneficiarme de su#  comportamiento.
+* Soy el único monstruo de la#  zona que proporciona armas de#  tanta calidad, así que cuando me#  presionan, les respondo y les amenazo con#  cerrar la tienda.
+* Siempre se acobardan y acaban#  pagando mucho más de lo que#  vale el arma que quieren.
+* Un poco de dinero vale más#  que unos cuantos dolores#  de cabeza, ¡jaja!
+* ¡Ah, sí, mi galería de bebés!
+* Uh... Eso sonó extraño...#  ¡Ejem!
+* Estas bellezas están#  fabricadas con materiales#  de la más alta calidad.
+* Las forjo yo mismo en#  mi armería personal.
+* No sólo lo hago con#  cuidado, sino que también#  me preocupo POR ellos.
+* Empiezo mis mañanas puliendo#  todas las existencias hasta#  ver mi reflejo en ellas.
+* También sé cómo manejar a estos#  chicos malos. Soy mucho mejor#  tirador que North Star,#  eso seguro.
+* Yo... Vi a un bandido en mis tejados.
+* The Wild East recibe muchos#  visitantes cada día.
+* Aquí hay algo sobre el aura#  que a algunos monstruos#  no les satisface.
+* No te preocupes. No estoy#  vendiendo armas ultra-mortales a#  cualquiera con suficiente#  ORO.
+* Me aseguro de que mis#  productos sean lo bastante suaves#  para no ser letales. A mí#  no me gusta la violencia.
+* Bueno... si se usan mucho,#  PODRÍAN ser letales. Pero,#  de nuevo, hasta un zapato de#  ballet también podría ser letal.
+* Mira, ¡no cuestiones# demasiado mi moralidad!#  ¡No estoy preparado#  para hablar de eso!
+* Oí hablar de este#  pueblo hace algunos años.
+* Había dominado mis#  habilidades como herrera#  y quería abrir una tienda.
+* Resulta que aquí había un#  edificio vacío, así que pensé#  "¿por qué no?". Parecía la#  ciudad perfecta para una tienda así.
+* ¿Me arrepiento de haberme establecido aquí,#  resultando en un tormento sin fin#  de cinco jóvenes demoníacos?#  Todos los días.
+* Pero todos los demás que he#  conocido son bastante agradables,#  así que se equilibra.
+* Probablemente no sea el mejor#  momento para hablar. Estoy muy#  preocupada por todo lo#  que está pasando ahora. 
+* Lo siento, no puedo hablar#  ahora.
+* Quiero saborear este# reencuentro tanto como sea#  posible, benditos sean#  sus corazones. 
+* ¿Se resolvió todo el drama?#  Fue muy duro ahí fuera.
+* Los Cinco son como hermanos,#  ¿sabes? De vez en cuando#  una pelea asoma la cabeza.
+* Por supuesto, la mayoría de#  las veces es algo como Mooch#  robando el sombrero de Ed o#  Star olvidando apagar sus "máquinas#  de misión" en las Dunas.
+* Esto fue uh...#  Esto fue un paso#  por encima. 
+* No es asunto mío, pero estoy#  seguro de que todo se#  arreglará con el tiempo...#  al menos eso espero.
+* Familia, ¿verdad?
+* La pequeña alborotadora#  de Ceroba. Una niña muy linda.
+* Le gusta estar con nosotros#  y con los Cinco cuando su#  madre está en la ciudad.
+* Parece muy intimidante con#  un sombrero de vaquero, eso seguro.#  Un poco mayor y encajaría#  en nuestro grupo.
+* Aunque no creo que Ceroba#  lo permitiera viendo que no#  somos la mejor influencia,#  jaja.
+* De todas formas, quería#  preguntarle a Ceroba dónde#  estuvo Kanako. ¿Tal vez de#  excursión? Le gusta viajar#  por el Subsuelo.#
+* Aunque no creo que se le#  permite ir muy lejos desde...
+* Ah, bueno, podría contar#  historias durante horas pero#  eso es lo esencial, je....
+* ¿Escuchaste los temores de#  la irrupción de la Realeza en la#  ciudad? Su presencia causó#  revuelo. Es natural.
+* El Gobierno se toma en# serio los asuntos humanos.#  Muy en serio...
+* Seguro que ya te han cazado#  y atacado cientos de veces.#  Pasa cuando un humano#  cae aquí.
+* Hermano, si no tuviera un#  negocio que mantener dejaría que#  quien te haya hecho daño#  se lo quedara.
+Gobierno (NUEVO)
+* Oye, si te preocupa que#  saqueen la ciudad, a#  mí no me preocuparía.
+* La Realeza no vienen por aquí.#  No creo que les importe#  mucho lo que hacemos.
+* Que yo sepa, la última vez#  que apareció algún representante fue#  para colgar un folleto en el tablón#  de noticias. Algo de salud.
+* El viejo Fluffybuns y su#  pandilla no son precisamente#  el grupo más activo.
 * Other than chasin' the odd#  human, I don't think they have#  anything else to spend their#  time on. #
 * It seems monsterkind has#  peaked in a way, so I reckon#  everyone should just come out#  here and spend their G on a#  slice of the Surface! Haha.
 Government
@@ -22257,25 +22257,25 @@ Guardia Real
 Clima
 Broma
 bg_index
-The Feisty Five
-Your Wares
-Visitors
-History
-Your Age
-The Four
-Humans
-Smithing
-This Town
-Your snakes
-Can I leave?
+Los Feisty Five
+Tu mercancía
+Visitas
+Historia
+Tu edad
+Los cuatro
+Humanos
+Herrero
+Este pueblo
+Tus serpientes
+¿Puedo irme?
 North Star
 Feisty Five
 Kanako
-Your attitude
-The Steamworks
+Tu actitud
+Steamworks
 Axis
 Snacks
-Creator
+Creador
 Asgore
 The Sock
 lava_surf
@@ -22295,30 +22295,30 @@ draw_surface_part
 * Ya me negué...
 * ¿No... no fui lo suficientemente amable?
 * Más de un año trabajando aquí y#  sigo metiendo la pata en todo.
-* This is a bar, not a marketplace.
-* Try Blackjack down the road#  if you wanna barter.
-* I already told ya to ask#  Blackjack about sellin'.
-* Oh yes! I will gladly dispense#  your garbage! Hand it over!
-* Please stop.
-* Unfortunately, I cannot#  receive any of your items, only#  dispense my own.
-* I am terribly sorry!
-* Sell an item to us? Buttons,#  what do you think?#	
-* Sell an item to us? Buttons,#  what do you think?     #* < No deal! No can do! Not in a#  hundred years! >#
-* Hmm, hundred and one?
-* Hmm, hundred and one?     #* < By that time you'll be dead#  and I'll be runnin' the shop by#  myself! >#
-* Hey that's pretty dark,#  Buttons!#
-* Hey that's pretty dark,#  Buttons!     #* < We live in a frickin' cave,#  it's always dark! >
-* Hahahaha!
-#* < Heheheheh! >
+* Esto es un bar,#  no una plaza de#  mercado.
+* Prueba el Blackjack en#  la carretera si quieres#  hacer trueque.
+* Ya te dije que le preguntaras#  a Blackjack sobre la#  venta.
+* ¡Oh, sí! ¡Con gusto dispensaré#  tu basura! ¡Dámela!
+* Por favor, para.
+* Lamentablemente, no puedo#  recibir ninguno de sus#  artículos, sólo dispensar#  los míos.
+* ¡Lo siento muchísimo!
+* ¿Nos vendes un artículo?#  Buttons, ¿qué te parece?
+* ¿Nos vendes un artículo?#  Buttons, ¿qué te parece?   #* < ¡No hay trato! ¡No se#  puede hacer! ¡Ni en#  cien años! >#
+* Hmm, ¿ciento uno?
+* Hmm, ¿ciento uno?     #* < ¡Para entonces estarás#  muerto y yo llevaré#  la tienda solo! >#
+* ¡Oye, eso fue bastante#  oscuro, Buttons!
+* ¡Oye, eso fue bastante#  oscuro, Buttons!#* < Vivimos en una maldita#  cueva, ¡siempre está oscuro! >
+* ¡Jajajaja!
+#* < Jejejejej! >
 inventory_max
 Inventory Empty
 item_price
  - 
-* Will you sell the 
+* Venderas el 
 disjoint_default_x
 disjoint_default_y
 torso_sprite
-I'm an#excccellent#travel companion,#I am!
+Soy un#excelente#compañero de#  viajes, ¡lo soy!
 point_x1
 point_y1
 power_x
