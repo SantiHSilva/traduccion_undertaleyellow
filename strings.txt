@@ -1975,7 +1975,7 @@ H. Acid
 * (You aren't sure how to use#  it.)
 * (You can't think of a use for#  this.)
 msg_number
-* Healed 
+* Te curaste 
  PV!
 * PV al máximo.
 * You gained 
@@ -1983,8 +1983,8 @@ msg_number
 * PP maxed out.
  SP!
 * SP maxed out.
-* You will heal for 
-#  turns!
+* Te curarás por 
+#  turnos!
 * RP maxed out.
 gml_Script_scr_determine_weapon_modifier_attack
 gml_Script_scr_determine_armor_modifier_defense
@@ -2505,7 +2505,7 @@ gml_Script_scr_determine_world_value_yellow
 * Caramba, ¡Este sitio#  está muerto!
 * Todos los monstruos#  están al acecho.
 * ¡Eso no es propio de#  los monstruos!
-* No dejes que eso#  arruine tu impresión#  del Subsuelo!
+* ¡No dejes que eso#  arruine tu impresión#  del Subsuelo!
 * ¡Pronto dejaremos#  este basurero!
 * Ya guardaste,#  ¡Vámonos!
 * ¡Parece que lo estás#  haciendo bien!
@@ -3614,13 +3614,13 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * Penilla firma su sketch y#  empieza uno nuevo.
 * Your ears are ringing from the#  chatter.
 * Sweet Corn makes her signature#  squeaky toy noise.
-* Crispy Scroll is talking in#  circles.
+* Crispy Scroll está hablando#  boberías.
 * Rorrim mira alrededor.
 * Dalv parece estar en conflicto#  con su lado más humano.
 * If you squint, Micro Froggit#  looks happy.
 * Insomnitot is trying to shake#  the sleepiness away.
 * Know Cone is banging a rock#  against a fallen branch.#* The branch breaks.
-* Something smells fishy.
+* Algo huele a pescado.
 * Frostermit is doing a#  crusta-shuffle.
 * Trihecta is considering#  purchasing a long trench coat.
 * Martlet intenta adoptar una pose#  que parezca profesional#  e imponente.
@@ -3662,7 +3662,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_4
 * Electricity crackles and#  whirrs around you.
 * One Insomnitot starts to drift#  off but the other pokes its#  friend awake again.
 * Know Cone takes a break from#  hunting for fire to gather some#  berries.
-* Frostermit is considering a#  renovation.
+* Frostermit está considerando#  una renovación.
 * Martlet se descubre a sí#  misma perdiéndose en la música.
 * Martlet prepara su próximo#  ataque.
 * Sir Slither is trying to#  butter Cactony up.
@@ -3774,7 +3774,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_9
 * Micro Froggit is waving goodbye.
 * Insomnitot is smiling at its#  dream.
 * Know Cone has been enlightened.
-* Frostermit is ready to scuttle#  on its way.
+* Frostermit está listo para#  minar su camino.
 * Dunebud is giggling.
 * Sir Slither can't convince#  you.
 * Cactony feels love for the#  first time.
@@ -4039,7 +4039,7 @@ action_2_color_3
 * Taunt
 * Sonreír
 * Inquire
-* Calm
+* Tranqulizar
 * Glare
 * Nap
 * Critcar
@@ -4081,7 +4081,7 @@ action_3_color_3
 * Beg
 * Weaken
 * Decay
-* Scowl
+* Fruncir
 * Remember
 gml_Script_scr_battle_core_directory_action_3_name
 scr_battle_core_directory_action_3_name
@@ -4118,9 +4118,9 @@ enemy_low_hp_3
 * PENILLA -- ATQ 
 #* Un personaje incompleto.
 * SWEET CORN -- ATQ 
-#* Constantemente en un subidón de azúcar.
+#* Constantemente en un subidón#  de azúcar.
 * CRISPY SCROLL -- ATQ 
-#* Buscando alguien que pueda ser retador de su entusiasmo.
+#* Buscando a alguien que pueda#  desafiar su entusiasmo.
 * RORRIM -- ATQ 
 #* La expresión de Rorrim está#  en blanco.
 * DECIBAT -- ATQ 
@@ -5187,7 +5187,7 @@ target_y
 gml_Script_scr_clover_defragment
 scr_clover_defragment
 * Le informas a Flier que#  entiendes sus dificultades.
-* Le informas a Flier que su vida#  no está medio acabada, que él#  tiene otra mitad entera!
+* Le informas a Flier que su vida#  no está medio acabada, ¡que él#  tiene otra mitad entera!
 scr_dialogue_battle_action_selected_action_1_flier_a
 * Felicitas a Flier por#  su elección de atuendos.
 * Le dices a Flier que#  parece orgulloso.
@@ -8944,9 +8944,9 @@ _effect_blend
 nextroom
 * Solo los valientes proceden.#* Valientes, tontos.#* Ninguno camina por el medio.
 * Mantente en el camino.
-Presiona este interruptor,#por favor! #     -Toriel
-También presiona este#interruptor, por favor! #     -Toriel
-* "Presiona [
+¡Presiona este interruptor,#por favor! #     -Toriel
+¡También presiona este#interruptor, por favor! #     -Toriel
+* "¡Presiona [
 ] para leer#  carteles!"
 * (Este cartel está oculto#  por las hojas.)
 * (Solo se ven algunas#  palabras.)
@@ -8960,8 +8960,8 @@ enc_name
 color
 #        EXPOSICIÓN
 target_direction
-* (Intimidating spikes block your#  path.)
-* (You shouldn't risk jumping#  over them.)
+* (Púas intimidantes bloquean#  tú camino.)
+* (No deberías arriesgarte#  intentando cruzarlas.)
 flag01
 turn
 * Haz que lo oscuro, sea#  brillante.
@@ -10959,7 +10959,7 @@ shader_uvs
 * Moves so hot, my worries are#  melting away!
 * (Who knows what might happen#  from this point forward.)
 * (¿Continuar?)
-Turn back
+Regresar
 Continuar
 * Brrr! Sure is chilly out here!
 * Nothing a smile can't#  persevere through, though!
@@ -12599,7 +12599,7 @@ Room
 * Of course, with the CORE being#  under maintenance, it is the#  only way to reach the city.
 * Heavy traffic is expected.
 * Let me check if we have any#  openings...
-* ...Sí, here we are.
+* ...Sí, aquí estamos.
 * We have a Platinum Deluxe#  apartment on the top floor.
 * Though the down payment will#  cost you about... 6500G
 * Wait, you aren't even old#  enough to rent a room. 
@@ -13002,7 +13002,7 @@ bell_sound
 * We don't want to alert any#  outsiders.
 * Especially workers under#  Asgore like the UGPS.
 * Your mail will have to wait.
-* But nobody came.
+* Pero nadie vino.
 x_distance
 bounce
 p_gravity
@@ -15640,17 +15640,17 @@ obj_battle_controller
 flavor
 genoAreaDR
 obj_floweydialogue
-Well... That was#something.
-You're a lot#stronger than I#gave you credit#for!
-Those monsters never#stood a chance#against your skill.
-What's with that#face?
-Don't even think#about killing me#too.
-Remember, I'm the#one keeping you#alive.
-Your life is#in my hands.
-Don't worry, I#won't judge you#for your actions.
-Friends don't judge#each other, right?
-I have your#back and you've#got mine.
-So let's get#out of here,#okay pal?
+Bueno... Eso fue#algo.
+Eres más fuerte#de lo que creía!
+Estos monstruos#nunca tuvieron#oportunidad contra#ti.
+Por qué pones#esa cara?
+Ni te atrevas#en pensar matarme#también.
+Recuerda, Yo soy#quien te mantiene#con vida.
+Tú vida está#en mis manos.
+No te preocupes,#no te juzgaré#por tus acciones.
+Los amigos no son#juiciosos entre si#verdad?
+Tu me cubres#y yo te cubro.
+Así que salgamos#de aquí,#okei compa?
 animateTalk
 gradient_height
 colors
@@ -15840,7 +15840,7 @@ slide_count
 fade_direction
 in
 out
-Por años, los monstruos#han sido sellados por#un poderoso hechizo.
+Durante años, los monstruos#han estado encerrados por#un poderoso hechizo.
 Un hechizo que solo podía#romperse con siete#ALMAS humanas.
 Su rey era pacífico y#deseaba evitar más#conflictos...
 Pero eventualmente declaró#que cualquier humano que#cayera...
@@ -16921,9 +16921,9 @@ puzzlecount
 solved
 maxbuttons
 dor
-* (You hear movement in the#  distance...)
-* (An intimidating presence fills#  the Ruins.)
-* (Ves un camino oscuro más alla#  de las rocas, pero no#  puedes pasarlas.)
+* (Escuchas movimiento a la#  distancia...)
+* (Una presencia intimidante se#  siente en las Ruinas.)
+* (Ves un camino oscuro más allá#  de las rocas, pero no#  puedes pasarlas.)
 * (Las rocas bloquean el camino.)
 hood
 spritelock
@@ -16950,7 +16950,7 @@ cam2
 * ¡Por favor, lárgate!
 * ¿Todavía... me sigues?
 * Pensé que habia dejado en#  claro que quiero estar#  en paz
-* No entiendo... Tu...#  te pareces a ellos.
+* No entiendo... Tú...#  te pareces a ellos.
 * ¿Es algún tipo de hechizo?#  ¿O has venido a terminar#  el trabajo?
 * Atraparme aquí no fue#  suficiente, así que me#  quieres cazar...
 * ¿Verdad?
@@ -17288,7 +17288,7 @@ Get ready for my#strongest atta-
 * (¿Dejar una propina?)
 * (Ya no queda limonada.)
 * (¿Cuánto?)
-* (Dejas 5 de oro en el#  frasco de propinas. Tu#  conciencia se siente como pluma.)
+* (Dejas 5 de oro en el frasco#  de propinas. Tú conciencia#  se siente como pluma.)
 * (Dejas todo lo que tienes#  en el frasco de las propinas.)
 * (No tienes oro.)
 * (Partes una moneda a la mitad#  y debates que mitad tirar#  antes de lanzar una al azar.)
@@ -21773,8 +21773,8 @@ portrait_author_torso
 * ¡Buenas buenas humano!#  Echa un vistazo a mis#  mercancías. #* ¡Las cosas duras están#  fuera de los límites!
 * Niño no autorizado#  detectado. Váyase.
 * ¿En qué puedo servirle?
-* ¡Bienvenido a Bits & Bites!
-* ¡Bienvenido a Bits & Bites!#* < Compra algo,#  ¿quieres? >
+* ¡Bienvenido a Bits &#  Bites!
+* ¡Bienvenido a Bits &#  Bites!#* < Compra algo,#  ¿quieres? >
 message_alt
 message_draw_alt
 message_alt_length
@@ -21811,11 +21811,11 @@ Thank you#for backing#out.
 Changed your#mind?
 * Why why#  why why-
 * Sí?
-Take a look!
-Appreciate#it!
-< Money.#We need#it. >
-< You're#carryin'#WAY too#much!>
-What's on#your mind?
+¡Observalo!
+¡Lo aprecio!
+< Dinero.#Se#necesita. >
+< ¡Estás#llevando#DEMASIADO!>
+¿Qué tienes#en mente?
 Comprarlo por#
  de ORO?
  de ORO - 
@@ -22434,8 +22434,8 @@ DEBUG MODE:#TOGGLE: 0: OFF
 For Kanako...
 depth_overworld_text_normal
 item_pause_screen_number
-* You eat the 
-#* Your HP was maxed out.
+* Comes el
+#* Tús PV están al máximo.
 item_hold
 snd_borfborf
 case_end
@@ -23381,18 +23381,18 @@ No puedo hacerlo con monstruos mirando...
 AAAAAAAAAAAAAAAA#AAAAAAAAAAAAAAAA#AAAAAAAAAAAAAAAA#AAAAAAAAAAAAAAAA#AAAAAAAAAAAAAAAA
 No puedo hacerlo#con monstruos#mirando...
 Ni siquiera#lo haces bien!
-Espera! Hablas#con fluidez#referencia?
+¡Espera! ¿Hablas#con fluidez#referencia?
 Puedo sentir el#poder recorriendo#mis cintas!
 No tienes#respeto por la#forma artística.
-Ey! Yo no#juzgo tus#headcanons!
+¡Ey! ¡Yo no#juzgo tus#headcanons!
 No voy#a rendirme!
 Vive siendo héroe,#muere siendo héroe.
 Puedes dibujar#un manga?
 Me recuerdas a#un anime que ví.
 Esta ni siquiera#es mi forma#final!
-No es fácil#ser así!
+¡No es fácil#ser así!
 No te pongas#tsundere conmigo!
-Tu has de#ser el antagonista!
+¡Tu has de ser#el antagonista!
 crispy scroll c
 crispy scroll b
 slash_angle
@@ -23981,10 +23981,10 @@ x_speed_hold
 É-él no era#tan molesto...
 I-iglú.
 Solo es un#iglú! Espera,#Ya habías#dicho eso?
-Sip, nada que#ver aquí!
+¡Sip, nada que#ver aquí!
 Qué es eso#siquiera? Digo-         
                           IGLÚ ! !
-Um, holi... Puedo#unirme?
+Um, holi...#¿Puedo unirme?
 No te#refieres a-               
                    IGLÚ IGLÚ ! !
 Sonidos de iglú#apreciativos!
@@ -24002,8 +24002,8 @@ No hay nada#que ver...#verdad?
 Eso es un poco#rudo sabes...
 Aspirante.
 A la próxima#yo lidero!
-Podrías venir#a bailar junto#a mi seguido?
-En serio?!#Como ninja?!
+¿Podrías venir#a bailar junto#a mi seguido?
+¡¿En serio?!#¡¿Como ninja?!
 Parece que#en un#pellizco...
 Mi hogar...
 *se estremece*
@@ -25098,13 +25098,13 @@ But... I don't#have anyone to#say goodbye to...
 It's hard to#admit, but I...
 ...I guess I've#been lying to#myself for a#while.
 It did get#lonely down here.
-I think I believe#you're real now.
+Ahora creo que sí#eres real.
 Heh...
-I have grown awfully#tired but...
-If I sleep, then wake#up... this won't be#undone.
-So maybe...
-Maybe I...
-...Just won't wake up.
+Me he cansado#demasiado pero...
+Si duermo, y luego#despierto... esto#seguirá igual.
+Así que...
+Tal vez...
+...No voy a despertar.
 Oh! Ow! How are you#so strong?!
 Why did I let my#guard down?...
 I-I can't do this#alone!
