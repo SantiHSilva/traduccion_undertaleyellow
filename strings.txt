@@ -1289,7 +1289,6 @@ gml_Script_scr_cutscene_battle_martlet_final_intro
 scr_cutscene_battle_martlet_final_intro
 choose
 rnd
-* A moment of remembrance is#  taken...
 * Tomas un momento de#  rememoración... 
 * The bloodshed ends here.
 * The mission is almost#  complete.
@@ -3650,7 +3649,6 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * FILE 01 - [REDACTED]
 * Ceroba stares into your SOUL#  with regret.
 * Your SOUL pulses with great#  power.
-* The enemy's defense can be#  destroyed.
 * La defensa del enemigo puede#  ser destruída.
 * Freedom.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_4
@@ -11395,7 +11393,6 @@ T7 Appear Mooch
 T8 Appear Ed
 current_hp_mooch
 chujin
-* One cup of joe for the#  Boss - extra#  caffeinated!
 * Una taza de café para el#  Jefe - ¡Con#  cafeína extra!
 * ¿Ahora ese es mi título?
 * No es como que te pague#  para que me ayudes.
@@ -11403,10 +11400,9 @@ chujin
 * Martlet...
 * Realmente deberías pagar#  esa cuenta pronto.#  ¡La lista se está#  haciendo larga!
 * Oh, quería decirte...
-* We'll probably have to#  cut back on our hangouts#  soon.
 * Probablemente tendremos#  que reunirnos menos#  seguido.
 * ¿Hm?
-* Eh... al fin me rendí#  ante la presión social#  y...
+* Eh... al fin cedí#  ante la presión social#  y...
 * ...Conseguí un trabajo.
 * ¡Qué buenas noticias!
 * Je, yo no lo veo# de ese modo...
@@ -11418,7 +11414,6 @@ chujin
 * La...
 * Martlet.
 * Debe haber un mejor#  trabajo allí fuera.
-* What's wrong with the#  Royal Guard?
 * ¿Qué tiene de malo la#  Guardia Real?
 * Además de de construir#  puzzles, todo lo que#  hacen es sentarse#  todo el día.
 * ¡Prácticamente hecho a#  mi medida!
@@ -11431,10 +11426,8 @@ chujin
 * ¡Debe haber como, un 0.1#  de probabilidad de#  encontrarme un#  humano!
 * E incluso si lo hiciera,#  soy buena con la gente. 
 * Escoltarlos por el#  Subsuelo no sería un problema.
-* Humans are dangerous!
 * ¡Los humanos son peligrosos!
 * Wow...
-* They cannot be trusted#  and certainly not#  "escorted."
 * No puedes confiar en ellos#  y ciertamente no#  "escoltarlos."
 * Lo siento, pero no#  deberías ponerte en#  peligro.
 * ¿A qué te refieres?
@@ -11444,10 +11437,8 @@ chujin
 * Bueno... yo lo atestigüé
 * Uno de los días más#  lúgubres de mi vida.  
 * Y los veteranos de#  guerra... sus historias...
-* It had to be ten times#  worse.
-* Deben haber sido diez#  veces peor.
+* Debe haber sido diez#  veces peor.
 * Los humanos no tiene piedad.
-* Incapable of decency in#  any form.
 * Incapaces de sentir cualquier#  tipo de decencia.
 noloop_message
 * Créeme.
@@ -11459,7 +11450,6 @@ noloop_message
 * Seh, eso es todo.
 * ...#
 * ¿Por qué no lo dejamos#  por hoy?
-* Probably for the#  best...
 * Probablemente es#  lo mejor...
 * Really? Another door?
 * Let's look around. Has#  to be a switch or a#  panel somewhere.
@@ -11640,22 +11630,19 @@ Toda mi vida...
 Toda mi vida,#Me enseñaron#que los humanos son#el enemigo.
 Tenía la verdad en frente#mío pero decidí#mirar al otro lado.
 Intenté ver lo#bueno - quería#creer que no#era verdad 
-But you... 
 Pero tú...
 Cualquier ápice de#"bueno" que tenías#está tres metros#por debajo.
 No me importa si tu#motivación era#"noble."
 No me importa si sólo#era tu retorcida idea#de diversión.
 Nada puede justificar#tus pecados.
 Huí... 
-Twice I could've done#something different.#Tried harder.
 Dos veces pude hacer#algo diferente.#Esforzarme.
 ...Impedir tantas muertes.
 Pero sabía que esa#probabilidad era#escasa.
 Estoy demasiado limitada#en mi estado actual.
 Pero ahora...
 Esta es sólo mi#responsabilidad.
-You should've finished#me when you had the#chance.
-Deberías haberme rematado#cuadno tuviste#la oportunidad.
+Deberías haberme rematado#cuando tuviste#la oportunidad.
 *Jadeo jadeo*
 Clover... 
 Tu terror...
