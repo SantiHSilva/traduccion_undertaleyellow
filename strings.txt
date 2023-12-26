@@ -3413,7 +3413,6 @@ scr_battle_core_directory_flavor_text_enemy_1_special_5
 * Toda esta falta de movimiento hace#  que te des cuenta del frío que hace.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_special_6
 scr_battle_core_directory_flavor_text_enemy_1_special_6
-* Flier is reconsidering his life#  choices.
 * Flier está reconsiderando#  las decisiones en su vida.
 * Penilla parece como si ella# pudiera romperse por la presión.
 * La sonrisa de Sweet Corn parece forzada.
@@ -16747,7 +16746,7 @@ destroy
 * ¡Así que me los imagino!
 * Creo que a los niños les#  parecerá más interesante#  así.
 * Aunque puede que no sea#  tan educativo...
-* (Dibujos infantiles esparcidos sobre#  la mesa.)
+* (Dibujos infantiles esparcidos#  sobre la mesa.)
 * Vaya, parece que nos#  estamos acercando a una#  salida de este lugar.
 * Aparte de esas minas,#  el tiempo ha sido muy#  amistoso con nosotros.	
 * Debería ser un viaje#  sencillo de aquí en adelante...
@@ -16784,7 +16783,7 @@ Uh...
 * (La madera está astillada.)
 diary_music
 * (Parece el diario de Dalv.)
-* (Puede contener información privada.)
+* (Puede contener información#  privada.)
 * (Es el diario de Dalv.)
 * (Abres el diario.)
 * (Solo hay una entrada.#  Parece nueva.)
@@ -16818,7 +16817,7 @@ diary_music
 white
 attack_color
 readjust
-* (Hay un libro de párrafos#  bien escritos sobre el escritorio.)
+* (Hay un libro de párrafos#  bien escritos sobre el#  escritorio.)
 * (Todos parecen ser muy#  similares.)
 * (¿Lees uno?)
 * Dalv es un solitario que vive en# las ruinas del Hogar.
@@ -16848,7 +16847,7 @@ audio_sound_gain_gramophone
 * (Es un órgano.)
 * (De tipo musical.)
 * (Es un órgano.)
-* (Parece horriblemente desafinado.)
+* (Parece horriblemente#  desafinado.)
 * (Es una maceta llena de#  tierra.)
 * ¡Esa es mi planta de#  nabos!
 * ¡Debería brotar en#  cualquier momento!
@@ -22679,7 +22678,7 @@ I didn't offer my#help just to see#you die!
 Let's get moving!
 How careless...
 Well, there's always#next time!
-Yikes, that looked#painful!
+Uys, eso pareció#ser doloroso!
 Brush yourself off and#get back at 'em!
 Dying sucks, right?#Right.
 So try not to do#it again.
