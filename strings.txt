@@ -1855,7 +1855,7 @@ Videotape
 H. Acid
 * (Bebes la limonada.)
 * (Está muy ácida.)
-* (Comes el Candy Corn.)
+* (Comes el Maiz de caramelo.)
 * (Ahora ya sabes porque#  fue desechado.)
 * (You eat the Golden Pear.)
 * (The immense flavor hugs your#  tastebuds.)
@@ -1995,14 +1995,14 @@ gml_Script_scr_item_use
 scr_item_use
 * Info message
 info
-* "Lemonade" - Cura 7 PV#* (Doesn't smell too appetizing.)
+* "Limonada" - Cura 7 PV#* (No huele muy apetecible.)
 * "Pebbles" - Weapon AT 3#* (Like rocks, but smaller.#* Good makeshift ammo.)
 * "Silver Ammo" - Weapon AT 3#* (A pack of reflective pellets.)
 * (They'd fit nicely in#  a six-shooter.)
 * (A perfect shot deals#  extra damage.)
 * "Glass Ammo" - Weapon AT 5#* (Literal shards of glass.#  Yep.)
 * (Restores 2 HP after every#  attack.)
-* "Candy Corn" - Restores 9 HP#* (Your teeth hurt just looking#  at it.)
+* "Maiz de caramelo" - cura 9 HP#* (Te duelen los dientes de#  solo mirarlo.)
 * "Corn Dog" - Restores 12 HP#* (A genuine Corn Dog with#  soft, fluffy ears.)
 * "Patch" Armor DF 0#* (It's not strong but it's#trustworthy.)
 * "Feather" - Armor DF 2#* (An old, forgotten feather.#* It needs a good preening.)
@@ -2012,7 +2012,7 @@ info
 * "Rubber Ammo" - Weapon AT 0#* (Small, safe, non-toxic#  rubber pellets.)
 * "Sponge Cake" - Cura 14 HP
 * (A delicious sponge that doesn't#  scratch AND has 2x the#  absorption!)
-*"Hndw Coffee" - Cura 14 HP#* (It would take true bravery to#  drink something this hot!)
+*"Hndw Coffee" - Cura 14 HP#* (¡Se necesita verdadera valentia para#  tomar algo así de caliente!)
 * "Hndw Pancake" - Cura 16 HP #* (An off-the-griddle pancake with#  honey-syrup.)
 * "G.B. Bear" - Cura 20 HP#* (A cookie made to look like#  someone's face.)
 * (What a creative and original#  idea!)
@@ -2078,11 +2078,11 @@ info
 * (It's a hand-drawn map.)
 * (It seems more colorful than the#  real Snowdin.)
 * (A sturdy pickaxe.)
-* "Munición helada" - Daño 6#* (Cubos de hielo con#  forma convencional.)
+* "Munición helada" - Daño 6#* (Cubos de hielo con# una forma convencional.)
 * (No parecen derretirse.)
 * (Que atentos por su parte!)
-* "Coffee Ammo" - Weapon AT 4
-* (There's no way you could eat#  them, but they might still be#  of use.)
+* "Munición de café" - Arma AT 4
+* (No hay forma de que puedas# comerlos, pero aun pueden ser# de utilidad.)
 * "Super Ammo" - Weapon AT 15#* (Regular toy gun ammo sold#  at your favorite convenience store.)
 * (Boasts a "Premium" sticker on#  the top of the packaging.)
 * "Flint Ammo" - Weapon AT 9#* (A dusty, black rock.#  Might be useful for combat.)
@@ -2140,7 +2140,7 @@ Spam Letter 7
 Spam Letter 8
 Spam Letter 9
 Steamworks ID
-#Come new friend,#right here to our space!#Whether you roam#or stay in one place!#We hope you have friends#with fun letters to send,#and always a smile on your face!#Here's to more mail#without any stress!#Hope to see you again!##The UGPS
+#¡Ven nuevo amigo, a nuestro lugar!#¡No importa que deambules#o te mantengas en un solo lugar!#Esperamos que tengas amigos con#cartas divertidas para enviar,#y siempre con una sonrisa#en tu rostro! Aquí tienes más correo#¡sin estrés!#¡Esperamos volver a verte!##La UGPS
 #Greetings, my savior and fond#acquaintance. I would like to#extend further gratitude for#your assistance.If it weren't#for you, my papillae would#surely be permanently attached#to that pole.##Thanks to you, I made#it home in time for#supper. I must say , Mother#really outdid herself this#time! The food was#exquisite! Many thanks!#Sincerely yours,##-Slurpy#
 #If you're reading this, it#means you had the pleasure of#meeting me.##I'll make this snappy.#You're not gonna believe#it. I'm selling a new,#premium product for HALF OFF.##I know what you're saying,#"I would gladly pay full price#for your products."I appreciate#that, I really do. But this#ain't the time for high#prices.##Just find my stand and#I'll give ya the juicy#details.##Huh? Where is my stand?#I don't even know myself.#Should probably go find that.##Good luck!#-Mo
 #Greetings, Clover! Life has#been a treat since we last saw#each other. I packed up all of#my belongings and set out for#Snowdin.##I recently found a nice#place to settle down. I think#you'll like it! Oh! And all of#the neighbors moved out with#me.I'm not too sure where each#one went, but I know they are#doing well.##I'm also taking art lessons#from Penilla now. She gave#me the cold truth and said#my art needed lots of#improvement. It stung at first,#but then I remembered that you#should always aim to improve#yourself.##Ah. Look at me rambling#again. I hope the mail#service doesn't charge#extra for that.##It was nice to talk to you#again! Even if it is over#written text. Please visit me#in the future! Life is#getting a lot better,###-Dalv
@@ -5057,7 +5057,7 @@ Hot Dog...?
 * Matches
 * Lukewarm Cff
 * Soggy Mitten
-* Limonada
+* Lemonade
 * Candy Corn
 * Corn Dog
 * Sponge Cake
@@ -5082,7 +5082,7 @@ Pancake
 * F Slider
 * Pear
 * G. Coffee
-* Toy Gun
+* Pistola de juguete
 * W. Revolver
 * Worn Hat
 * Rubber
@@ -6019,7 +6019,7 @@ Cura
  HP#* (Piping hot chocolate, frozen,#  then reheated.)
  HP#* (Piping hot chocolate cooled to#  lukewarm status.)
  HP#* (Piping hot chocolate, cooled#  cold.)
- HP#* (It would take true bravery to#  drink something this hot!)
+ HP#* (¡Se necesita verdadera valentia para#  tomar algo así de caliente!)
  HP#* (An off-the-griddle pancake with#  honey-syrup.)
  HP#* (A cookie made to look like#  someone's face.)
  HP
@@ -22604,7 +22604,7 @@ Bla, bla, bla,#¡qué llorón!
 No estoy seguro de#que quisiera matarte.
 ¿Impresionante...?
 Vamos, ¿perdiste con#esta novata?
-¡Acelera, amigo!
+¡hazlo mejor, amigo!
 Hablando de "congelarse",#¡jaja!
 ...Oh cierto, no puedes#reirte porque... Sí.
 ¡Vamos, amigo!
@@ -24599,12 +24599,12 @@ auto_advance_timer
 position_max
 CONFIG. DEL JUEGO
 ACCESIBILIDAD
-Agitar al hacerse daño
-Permitir siempre reintento:
-AUTO-CORRER:
-AUTO-DISPARAR mantener (C):
-RITMO-AUTOMÁTICO
-MODO FÁCIL
+sacudir al sufrir daño:
+Siempre reintentar:
+CORRER AUTOMATICAMENTE:
+AUTODISPARO (mantener [C]):
+RITMO AUTOMÁTICO:
+MODO FÁCIL:
 Configuración del Joystick
 part_explosionsys
 part_explosionEm
