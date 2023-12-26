@@ -3490,7 +3490,7 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * Bowll is applying super glue to#  his head.
 * El enemigo parece confundido.
 * El Bailador se desliza por la#  pista de baile con facilidad.
-* Sand covers the dummy.
+* La arena cubre el maniquí.
 * The pleasant scent of flowers#  fills the air.
 * There is no hope.
 * Starlo keeps a steady eye on#  you.
@@ -3586,7 +3586,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_2
 * Violetta nervously shuffles#  her feet.
 * Pedla wants you to know that#  you are loved!
 * Rosa bursts into laughter but#  you have no idea why.
-* Smells like lead and burlap.
+* Huele a plomo y hierba.
 * The sand swirls around you.
 * Smells like leather boots and#  dashing looks.
 * Smells like leather boots and#  broken dreams.
@@ -4170,7 +4170,7 @@ enemy_low_hp_3
 #* Le encanta regalar flores.
 * Rosa -- ATQ 
 #* Le gusta un buen reto.
-* DUMMY -- ATQ ? DEF ?#* Just a dummy.
+* DUMMY -- ATQ ? DEF ?#* Solo un maniquí.
 * CEROBA -- ATQ 
 #* No queda nada.
 * STARLO -- ATQ 
@@ -5564,8 +5564,8 @@ scr_dialogue_battle_action_selected_action_2_flower_girls
 scr_dialogue_battle_action_selected_action_3_flower_girls
 scr_generate_battle_dummy_training_pacifist
 scr_recreate_heart_battle_menu_text_dummy_training_pacifist
-* You intimidate the dummy more.#* It does nothing.
-* You attempt to speak to the#  dummy.#* North Star is confused.
+* Intimidas más al maniquí.#* No hace nada.
+* Intentas hablar con el#  maniquí.#* North Star está confudido.
 scr_dialogue_battle_action_selected_action_1_dummy_training_pacifist
 gml_Script_scr_dummy_training_pacifist_no_attack
 scr_dummy_training_pacifist_no_attack
@@ -10485,7 +10485,7 @@ river_ambience
 * But it's the best#  tribute I could think#  of.
 actor_starlo
 actor_ceroba
-* It's nice.
+* Es bonito.
 * It is.
 * Thanks for doing this.
 * Felt good to craft#  something with meaning#  again.
@@ -11742,7 +11742,7 @@ no_loop_badge
 * That was strange... but#  it's not your problem. 
 * You need to get a move#  on.	
 * Oh! I almost forgot#  something very#  important!	
-* Here!
+* ¡Mira!
 * (You got the Deputy#  Badge!)
 * Despite a few hiccups,#  our little adventure was#  a blast.
 * I'll be seein' ya#  around, partner!
@@ -20130,179 +20130,179 @@ interact_count
 * Necesita pagarme... Sí.
 * Me pregunto dónde podría#  comprar un tren...
 * ¿Qué? Sólo estoy hablando#  conmigo mismo. Ignórame.
-* Ugh. This place has like no#  hygiene standards, yup.
-* I don't think these sheets have#  ever been washed at all, yup.
-* Not to mention the food, it's#  barely passable, yup.
-* You could find stuff more fresh#  in the dump, yup.
-* ¿Eh? Sick? Nuh-uh, I'm just#  here to complain, yup.
-* Not to be rude, but I'd like#  some privacy, yup.
-* Some monsters these days have#  no manners, yup yup.
-* Stick  'em up, partner! This is#  a robbery!
-* (You got 20G)
-* Darn! I always get that part#  wrong!
-* Let me try again.
-* Stick 'em up, partner! This is#  another robbery!
-* (You got 5G)
-* At least it's less than before?
-* I can't risk another robbery.
-* My wallet is hurtin'!
-* I think a "thank you" is#  in order.
-* You just received some#  high-tier gifts. For#  free, no less.
-* I do have an eye for#  that sort of thing.
-* Don't get the impression#  that I'm opening up or#  anything.
-* It takes a long time for#  me to become "buddy#  buddy" with someone.
-* It's kinda irritatin'#  the last mission was#  postponed.
-* It ain't like Star to#  overlook the dress#  conditions.
-* I guess we can chalk it#  up to him havin' his#  plate full.
-* I am surprised he#  got'cha such fancy#  upgrades.
-* We didn't get that kinda#  stuff when we first#  joined.
-* No more shoppin' sprees,#  Clover!
-* Next mission is sure to#  put you to the test!
-* I'm in here to give#  Martlet some food,#  that's all.
-* ...It isn't meal time#  but I thought she would#  enjoy something.
-* So... you don't need to#  worry about her.
-* I'll make sure she's#  treated as well as one#  in jail can be.
-* This is for the best.
-* Look on the bright side!
-* Things are about to ramp#  up!
-* Soon, you'll be one of#  us. How exciting!
-* Missions here can be#  real tiring.
-* That's why we have a#  designated nap time!
-* It's a good way to#  recharge for future#  servings of justice!
-* Now that I think about#  it, nap time should be#  after this next mission.
-* Hope you join us!
-* I don't search through#  my friends' belongings#  while they nap.
-* Why would you suggest#  such a thing? I have#  SOME restraint!
-* Oh... You didn't say#  anything.
-* This conversation didn't#  happen, got that?
-* Naps naps naps!
-* Gotta love 'em!
-* Hey! Go away before I'm caug-
-* I mean, I was released by#  Star... Yeah.
-* No problems here.
-* Shh... I'm not here.
-* You never saw me.
-* WAM! What's up?
-* You're probably wondering why#  I'm here, right?
-* Surely a monster of my status#  should always be out there#  hustling!
-* Well, here's a tip from a pro:
-* Always be your own boss!
-* If you ever feel like you need#  a break, take the opportunity.
-* I'm always traveling back and#  forth, making dough, being cool,#  etc.
-* It's an exhausting life, am I#  wrong?
-It's easy
-You're right
-* Oooh, I seee.
-* You think it's easy?
-* Well... it kinda is, not gonna#  lie!
-* Ain't I always?
-* That's rhetorical.
-* Look, moral of the story is,#  don't overwork yourself, eh?
-* That's about as wise as I get.#  Don't get used to it!
-* The products here are decent#  but come on, mine are so much#  better.
-* Never settle for the#  mass-produced stuff!
-* Can't say that too loudly or#  the bartender will hit me, haha.
-* You know, I probably shouldn't#  be here.
-* I really should be saving my#  G's every chance I get.
-* Debt is an aggressive thing!
-* Ahh, I'm just yanking your#  chain like always!
-* You know ol' Mo!
-* Hopefully our paths cross soon!
-* I have ideas for some bangin'#  new products!
+* Ugh. Este lugar no tiene#  normas de higiene, yup.
+* Creo que estas sábanas nunca#  han sido lavadas, yup.
+* Por no hablar de la comida,#  es apenas pasable, yup.
+* Podrías encontrar cosas más#  frescas en el vertedero,#  yup.
+* ¿Eh? ¿Enfermo? Nuh-uh, sólo#  estoy aquí para quejarme, yup.
+* No quiero ser grosero, pero# me gustaría tener algo#  de privacidad, yup.
+* Algunos monstruos de hoy en#  día no tienen modales,#  yup yup.
+* ¡Arriba las manos,#  compañero! ¡Esto es#  un robo!
+* (Obtuviste 20 de ORO)
+* ¡Maldita sea! Siempre me#  equivoco en esa parte.
+* Déjame intentarlo de#  nuevo.
+* ¡Arriba las manos,#  compañero! ¡Esto es#  otro robo!
+* (Obtuviste 5 de ORO)
+* ¿Al menos es menos que antes?
+* No puedo arriesgarme#  a otro robo.
+* ¡Me duele en la billetera!
+* Creo que un "gracias" es#  lo correcto.
+* Acabas de recibir regalos#  de alto nivel. Nada#  menos que gratis.
+* Tengo buen ojo para ese#  tipo de cosas.
+* No tengas la impresión de#  que me estoy abriendo#  ni nada.
+* Me lleva mucho tiempo#  volverme "compañero"#  de alguien.
+* Es un poco irritante#  que la última misión haya#  sido pospuesta.
+* No es propio de Star#  pasar por alto las#  condiciones del vestido.
+* Supongo que podemos#  considerarlo como que#  tiene el plato lleno.
+* Me sorprende que haya#  conseguido mejoras#  tan lujosas.
+* No teníamos ese tipo de#  cosas cuando nos unimos#  por primera vez.
+* ¡Se acabaron las#  compras, Clover!
+* ¡La próxima misión#  te pondrá a prueba!
+* Estoy aquí para darle#  a Martlet algo de#  comida, eso es todo.
+* ...No es hora de comer#  pero pensé que le#  gustaría algo.
+* Así que... no#  necesitas preocuparte#  por ella.
+* Me aseguraré de que la#  traten bien como se puede#  tratar a alguien aquí.
+* Esto es lo mejor.
+* ¡Míralo el lado positivo!
+* ¡Las cosas están a#  punto de acelerar!
+* Pronto, serás uno de#  nosotros. ¡Qué#  emocionante!
+* Las misiones aquí#  pueden ser realmente#  agotadoras.
+* Por eso tenemos una#  hora designada para#  la siesta.
+* Es una buena forma de#  recargar las pilas para#  futuras dosis de justicia.
+* Ahora que lo pienso, la#  siesta es después de#  esta próxima misión.
+* ¡Esperamos que nos#  acompañes!
+* No registro las#  pertenencias de mis amigos#  mientras duermen.
+* ¿Por qué sugieres#  algo así? ¡Tengo algo#  de postura!
+* Oh... No has dicho nada.
+* Esta conversación no#  ocurrió, ¿entendido?
+* ¡Siestas, siestas,#  siestas!
+* ¡Me encantan!
+* Oye! ¡Vete#  antes de que me descu-
+* Quiero decir, fui liberado#  por Star... Sí.
+* Aquí no hay problemas.
+* Shh... No estoy aquí.
+* Nunca me viste.
+* ¡WAM! ¿Qué pasa?
+* Te estarás preguntando por#  qué estoy aquí,#  ¿verdad?
+* ¡Seguramente un monstruo de#  mi estatus debería estar#  siempre ahí fuera!
+* Bueno, aquí va un consejo#  de un profesional:
+* ¡Sé siempre tu propio jefe!
+* Si alguna vez sientes que#  necesitas un descanso,#  aprovecha la oportunidad.
+* Siempre estoy viajando de aquí#  para allá, gano dinero,#  siendo genial, etc.
+* Es una vida agotadora,#  ¿estoy equivocado?
+Es fácil
+Tienes razón
+* Oooh, ya veo.
+* ¿Crees que es fácil?
+* Bueno... un poco sí,#  ¡no voy a mentir!
+* ¿No lo hago siempre?
+* Eso es retórico.
+* Mira, la moraleja de la#  historia es,  no trabajes#  demasiado, ¿eh?
+* Eso es todo lo sabio que soy.#  ¡No te acostumbres!
+* Los productos de aquí son#  decentes pero digamos que#  los míos son mucho mejor.
+* ¡Nunca te conformes con lo#  fabricado en serie!
+* No puedo decirlo muy alto o#  la camarero me pegará, jaja.
+* Sabes, probablemente no#  debería estar aquí.
+* Realmente debería estar#  ahorrando mi ORO cada#  vez que puedo.
+* ¡La deuda es muy agresiva!
+* Ahh, ¡sólo estoy bromeando#  como siempre!
+* ¡Ya conoces al viejo Mo!
+* ¡Espero que nuestros caminos#  se crucen pronto!
+* ¡Tengo ideas para algunos#  productos nuevos!
 spawn_dir_last
 spawn_dir_offset
 beam
 line_alpha
-* Haha... hah...
-* The doc just replaced one of my#  pincers.
-* I feel funny... haha... I feel#  HILARIOUS!
-* Wanna hear a joke?
-* OK, so there's this stone#  pillar, right?
-* It ain't your everyday pillar,#  though. This one has a drawing#  of a cat on it.
-* So... haha... does that make it#  a CATerpillar? HAHA!!
-* Man, I'm good!
-* Bug off then, haha hah...
-* Haha... I'm a bed bug. Get it?#  Cause I'm in bed.
-* I can see you holding back a#  smile, hah...
-* Hold on, I need to think of#  more material.
-* In fact I'm getting... a#  little....
+* Jaja... jaj...
+* El doctor me acaba de cambiar#  una pinza.
+* Me siento gracioso...#  jaja... ¡Me siento#  INCREIBLE!
+* ¿Quieres oír un chiste?
+* OK, así que hay un pilar de#  piedra, ¿verdad?
+* Aunque no es el pilar de todos#  los días. Este tiene un#  dibujo de un gato ahí.
+* Entonces... jaja...#  ¿eso lo convierte en#  un CATerpillar? ¡¡HAHA!!
+* ¡Hombre, soy bueno!
+* Pues lárgate, jajaja...
+* Jaja... Soy un insecto en la#  cama.¿Lo entiendes? Porque#  estoy en la cama.
+* Ya veo que estás conteniendo#  una sonrisa, jaj....
+* Espera, tengo que pensar#  en más material.
+* De hecho me estoy#  poniendo... un poco....
 * ZzzzzzzZZZZ
-* What's up- I mean howdy, human.
-* Don't tell North Star about#  this, but I have a secret.
-* When everyone is busy or#  sleeping, I sneak out.
-* I go down the Cafe Dune to...#  GAME.
-* The arcade is totally rad, you#  dig?
-* I'm a gamer at heart but a#  cowboy at skin.
-        gamer                                 
-* I even struggle to keep my#  accent on.
-* You should try being a gamer,#  human.
-* Maybe you could top my Mew Mew#  score?
-* I heard one of the arcade#  machines used to be named "Luck#  Man."
-* They changed it because...#  Well I'm sure you know why.	
-* Monsters kept scribbling the#  word "bad" in front of "luck#  man"!!!
-* Do you think they'll ever#  invent another videogame?
-* Kind of a missed opportunity to#  only make three.
+* Qué tal- Quiero decir,#  buenas, humano.
+* No se lo digas a North Star,#  pero tengo un secreto.
+* Cuando todos están ocupados#  o durmiendo, me escapo.
+* Bajo el Café en las Dunas#  para... JUGAR.
+* El arcade es genial,#  ¿entiendes?
+* Soy un gamer de corazón#  pero un vaquero de piel.
+         gamer                                 
+* Incluso me cuesta mantener#  el acento.
+* Deberías intentar ser un#  gamer, humano.
+* ¿Quizá puedas superar mi#  puntuación de Mew Mew?
+* He oído que una de las máquinas#  recreativas se llamaba#  "Hombre de Suerte".
+* Lo cambiaron porque...#  Bueno, estoy seguro de#  que sabes por qué.
+* ¡¡¡Los monstruos seguían#  escribiendo "Mala" delante#  de "Hombre de Suerte"!!!
+* ¿Crees que alguna vez#  inventarán otro#  videojuego?
+* Una oportunidad perdida#  para hacer sólo tres.
 anim_grow
-* I have to say, it's fun#  watching the five's#  missions.
-* Can't say the same for#  rooming with them.
-* All six of us sleep in#  one room.
-* Any annoyance you can#  think of? It happens.
-* Snoring, sleep talking,#  teeth grinding... it's#  pretty exhausting.
-* I can't complain much,#  though. It's a free#  place to stay.
-* You see, in the past, I#  haven't lived here.
-* I have... well, had a#  place near Oasis Valley.
-* I suppose I outgrew it...#  moved here a few weeks#  back.
-* Star and I have been#  friends since childhood,#  so there's no rent.
-* It's nice...
-* About leaving:
-* Once you pass your#  training, you'll be#  free to roam wherever.
-* It'll be tough when I#  have to tell Star about#  your departure.
-* He's taken a real liking#  to you. Shame you'll be#  gone so soon...
-* The sooner you do your#  missions, the sooner#  you're on your way.
-* Aren't you a bit young#  to be hanging around#  here?
-* Not to judge or#  anything.
-* I'm in town visiting my#  little Moray.
-* My lovely wife, Angie,#  is running the mines#  while I'm away.
-* Not sure how efficient#  my boys will be without#  me there, though.
-* Ahh, it's a risk worth#  taking.
-* Angie often frets about#  Moray living down here.
-* I've heard these Wild#  East fellas are real#  serious about everything.
-* Moray originally touted#  it as being a human-like#  town.
-* Said it was for "role#  play", whatever that is.
-* Seems like it's shifted#  into something very#  different nowadays.
-* I guess if my kiddo's#  happy, I can't complain#  too much.
-* The mines are always#  open to visitors if you#  call ahead of time!
-* I'd like to see you back#  there soon!
-* I love this place!
-* It has a great sense of#  community, there's not much#  like it anywhere else!
-* There's a new friend to make#  every time I go outside!
-* Never too many friends for ol'#  Cooper!
-* I tried hanging around the#  Mines, but that place confuses#  me.
-* Everywhere I step there's#  another puzzle blocking my way!
-* I don't get it, what's the#  point?
-* There aren't many turtle#  monsters like me around here.
-* There's this one in Snowdin,#  but he's way too popular to#  ever talk to me...
-* Maybe someday we can be#  friends!
-* I'm not up to anything, I#  swear!
-* Can't a monster appreciate a#  fence in peace?
-* Leave me be! I'm clearly busy!
-* (She's probably asleep.)
-* (Probably.)
-* So you're the new kid	, eh?
-* I've heard the townsfolk raving#  about you and all.
-* Not to burst your bubble,#  but I could totally go toe#  to toe with you.
-* I know for a fact I could win#  an arm wrestle with you right#  now, no training.
-* If I wanted, I could snap all#  thirteen of my fingers and get#  the deputy position.
-* If that upsets you, I'm not#  sorry.
-* Heh, yeah. I wouldn't cross me#  if I were me.
-* You see me sitting at this bar?
-* Yeah. It's because I'm a cool#  adult, unlike you.
-* I can do cool adult things like#  cry and also weep.
-* Am I being mean? No. It's just#  the hard truth.
-* If you're only talking to#  me to hear my silky smooth#  voice, give it up.
-* I won't let you in on my#  secrets.
-* Blembino. Remember the name.
-* (He's in a deep slumber.)
+* Tengo que decir que es#  divertido ver las#  misiones de los cinco.
+* No puedo decir lo mismo#  de vivir con ellos.
+* Los seis dormimos en#  una habitación.
+* ¿Se te ocurre alguna#  molestia? Ocurre.
+* Roncar, hablar dormido,# crujir los dientes...#  es bastante agotador.
+* Aunque no puedo quejarme#  mucho. Es un lugar#  gratis para vivir.
+* Verás, en el pasado,#  no he vivido aquí.
+* Tengo... bueno, tenía un#  lugar cerca de Oasis#  Valley.
+* Supongo que lo superé...#  me mudé aquí hace#  unas semanas.
+* Star y yo hemos sido#  amigos desde la infancia,#  así que no hay renta.
+* Es agradable...
+* Sobre irnos:
+* Una vez superado tu#  entrenamiento, serás libre de#  irte por donde quieras.
+* Será duro cuando tenga#  que contarle a Star#  tu marcha.
+* Le has caído muy bien.#  Lástima que te vayas#  tan pronto...
+* Cuanto antes hagas tus#  misiones, antes#  estarás en camino.
+* ¿No eres un poco joven#  para andar por aquí?
+* No es por juzgar ni#  nada.
+* Estoy en el pueblo#  visitando a mi pequeño#  Moray.
+* Mi encantadora esposa,#  Angie, está dirigiendo las#  minas mientras estoy fuera.
+* Aunque no estoy seguro#  de lo eficientes que#  serán mis chicos sin mí.
+* Ahh, es un riesgo que#  merece la pena correr.
+* Angie se preocupa de#  que Moray viva aquí.
+* He oído que los tipos de#  Salvaje Este son muy#  serios en todo.
+* Moray originalmente lo#  promocionó como un pueblo#  parecido a los humanos.
+* Dijo que era para#  "roleplay", sea lo#  que sea eso.
+* Parece que hoy en día#  se ha convertido en algo#  muy diferente.
+* Supongo que si mi hijo#  es feliz, no puedo#  quejarme demasiado.
+* Las minas siempre están#  abiertas a los visitantes#  si se llama con tiempo.
+* ¡Me gustaría verte de#  nuevo allí pronto!
+* ¡Me encanta este lugar!
+* Tiene un gran sentido de#  comunidad, ¡no hay nada igual#  en ningún otro lugar!
+* Cada vez que salgo,#  hago un nuevo amigo.
+* ¡Nunca hay demasiados#  amigos para el viejo#  Cooper!
+* Intenté pasar por las#  Minas, pero ese#  lugar me confunde.
+* Dondequiera que voy,#  hay otro puzzle#  bloqueando mi camino.
+* No lo entiendo,#  ¿qué sentido tiene?
+* No hay muchos monstruos#  tortuga como yo por aquí.
+* Hay uno en Snowdin, pero#  es demasiado popular para#  hablar conmigo...
+* ¡Quizás algún día podamos#  ser amigos!
+* ¡No estoy tramando nada,#  lo juro!
+* ¿No puede un monstruo#  apreciar una valla en paz?
+* ¡Déjame en paz! ¡Estoy#  claramente ocupado!
+* (Probablemente está#  dormida.)
+* (Probablemente.)
+* Así que eres el niño#  nuevo, ¿eh?
+* He oído a la gente del pueblo#  hablar maravillas de ti.
+* No es por reventar tu burbuja,# pero podría totalmente ir#  mano a mano contigo.
+* Sé a ciencia cierta que#  podría ganarte un duelo ahora#  mismo, sin entrenamiento.
+* Si quisiera, podría chasquear#  los trece dedos y conseguir#  la posición de ayudante.
+* Si eso te molesta, no#  lo siento.
+* Sí. Yo no me cruzaría#  si fuera yo.
+* ¿Me ves sentado en#  este bar?
+* Sí. Es porque soy un adulto#  genial, a diferencia de ti.
+* Puedo hacer cosas de adultos#  geniales como llorar y#  también llorar.
+* ¿Estoy siendo malo? No.#  Es sólo la dura verdad.
+* Si sólo hablas conmigo#  para oír mi voz suave#  y suave, déjalo.
+* No te contaré mis#  secretos.
+* Blembino. Recuerda el#  nombre.
+* (Está profundamente#  dormido.)
 idle_sprite
 flip_sprite
 shape_sprite
@@ -20638,9 +20638,9 @@ starlo_x_original
 * ¿Qué quieres, jefe?
 * Oooh, ¿vamos a empezar#  a entrenar con Clover?
 * ¡Precisamente, Moray!
-* Pensé que podríamos#  empezar con un juego#  clásico que implica pacin'.
-* ¿Te refieres a lo que#  te veo hacer todas#  las noches fuera de casa?
-* De un lado a otro,#  susurrándote a ti mismo...
+* Pensé que podríamos#  empezar con un juego#  clásico que tiene pacing.
+* ¿Te refieres a lo que#  te veo hacer todas las#  noches fuera de casa?
+* De un lado a otro,#  susurrándote a ti#  mismo...
 * ¿Qué? ¡Yo no#  hago eso!
 * Algunos monstruos tienen#  formas únicas de#  sacar sus pensamientos.
 * Otros... monstruos.
@@ -20653,11 +20653,11 @@ starlo_x_original
 * ¿Oh? ¿Qué pasa?
 * Clover no...#  se ve bien.
 * Mira su sombrero. Está#  hecho trizas y en#  descomposición.
-* Y ese hierro en su funda#  ¿Qué clase de pistola es esa?
-* Tranquilo, Ace. Estoy#  seguro de que#  hicieron lo que pudieron.
+* Y ese hierro en su funda#  ¿Qué clase de pistola es#  esa?
+* Tranquilo, Ace. Estoy#  seguro de que hicieron#  lo que pudieron.
              Ace                                   
 * ¡No, Ace tiene razón!
-* ¿Qué clase de anfitrión#  soy si no te#  consiento con regalos?
+* ¿Qué clase de anfitrión#  soy si no te consiento#  con regalos?
 * ¡A la tienda de armas!
 actor_ed
 actor_mooch
@@ -21121,50 +21121,50 @@ bottle_slide_time
 bottle_y_speed_avg
 bottle_y_speed_current
 bottle_y_speed_decr
-* (An abandoned table.)
-* (A table for three with a few#  empty glasses.)
-* (A few G's from a past tip#  catch your eye.)
-* (You got 10G! Happy?)
-* (It doesn't belong to you#  anyway.)
+* (Una mesa abandonada.)
+* (Una mesa para tres con#  unos cuantos vasos vacíos.)
+* (Algun ORO de una propina#  pasada te descubren.)
+* (¡Obtuviste 10 de ORO!#  ¿Feliz?)
+* (De todas formas,#  no te pertenece.)
 blackjack_npc
-* Hehe, of course.
-* Old Blackjack doesn't#  like doin' business#  with me.
-* I often "borrow" his#  wares and uh... break or#  lose them.
-* Open up, Blackjack!
-* Don't make me use force!
-* I make the law so I can#  legally shoot down your#  doors!
-* Get off my property, North#  Star!
-* I told you I wouldn't even sell#  you a gumball!
-* Aw, come on, partner.
-* I don't even know what#  a "gumball" is!
-* And those last#  transactions were ages#  ago!
-* I'm a changed monster!
-* You lost one of my premium#  revolvers last week!
-* Frolicking in your sandstorm#  and whatnot.
-* Look, I promise this is#  a different scenario,#  Jack.
-* I won't even step#  inside. You can meet me#  out here.
-* Don't worry, Clover.#  He's comin'.
-* Make it speedy.
-* Of cooourse, sir!
-* I was just gunna ask#  you to sell a gun to#  this child.
-* I worded that poorly,#  hold on!
-* This ain't a child, you#  see. I was jokin'.
-* They're just a very#  small, but VERY tough#  monster.
-* I'll give ya 400G.
-* Well why didn't you open with#  that, kind patron?
-* Come inside with me and I'll#  fetch the paperwork.
-* See? I had it under#  control.
-* Wait out here, Clover.
-* Done and done.
-* Can I get a#  yeehaw?
-* Right. Movin' along.
-* Let's see what you got!
-* Take this trusty#  six-shooter as a gift#  from me.
-* (You got a Wild Revolver!)
-* Ya definitely pass this#  part of trainin'!
-* I gotta go tell Ceroba#  'bout this.
-* She's a big doubter when#  it comes to you.
-* Let's ride on!
+* Jeje, por supuesto.
+* Al viejo Blackjack no#  le gusta hacer negocios#  conmigo.
+* A veces "tomo prestadas"#  sus mercancías y...#  las rompo o las pierdo.
+* ¡Abre, Blackjack!
+* ¡No me hagas usar#  la fuerza!
+* ¡Yo hago la ley para#  derribar legalmente sus#  puertas!
+* ¡Sal de mi propiedad,#  North Star!
+* ¡Te dije que ni siquiera#  te vendería un chicle!
+* Aw, vamos, compañero.
+* ¡Ni siquiera sé lo que#  es una "gumball"!
+* ¡Y esas últimas#  transacciones fueron#  hace años!
+* ¡Soy un monstruo nuevo!
+* ¡Perdiste uno de mis#  revólveres premium#  la semana pasada!
+* Jugueteando en tu#  tormenta de arena#  y todo eso.
+* Mira, te prometo que#  este es un escenario#  diferente, Jack.
+* Ni siquiera voy a#  entrar. Puedes verme#  aquí fuera.
+* No te preocupes,#  Clover. Ya viene.
+* Que sea rápido.
+* ¡Pooor supuesto, señor!
+* Iba a pedirte que le#  vendieras un arma#  a este niño.
+* Lo dije mal, ¡espera!
+* Esto no es un niño,#  mira. Estaba#  bromeando.
+* Es un monstruo muy#  pequeño, pero MUY#  resistente.
+* Te daré 400 de ORO.
+* Bueno, ¿por qué no#  abriste con eso,#  querido patrón?
+* Entra conmigo y#  traeré el papeleo.
+* ¿Lo viste? Lo#  tengo bajo control.
+* Espera aquí, Clover.
+* Dicho y hecho.
+* ¿Puedo tener un#  yeehaw?
+* Bien, Movamonos.
+* ¡Veamos qué tienes!
+* Toma esta fiel pistola#  como un regalo de#  mi parte.
+* (¡Obtuviste un Wild#  Revolver!)
+* ¡Seguro que apruebas#  esta parte del#  entrenamiento!
+* Tengo que contarle esto#  a Ceroba.
+* Duda mucho cuando se#  trata de ti.
+* ¡Sigamos cabalgando!
 bullet_count_max
 surface_room_original
 mask_image_speed
@@ -23830,33 +23830,33 @@ sizzle_sound
 can_draw
 swirl_deg
 end_fight
-* Carefully aim at the#  dummy and take yer shot.
-* Don't worry, it ain't#  alive or nothin'.
-* Mighty fine job!
-* Give it another go!
-* There ya go!
-* One more!
-* Nice shootin'!
-* I'd say ye're a natural.
-* I'm impressed, kid!
-* It's alright, partner.
-* Try again!
-* Uh... actually that's#  good!
-* Intimidation of yer#  opponent can decrease#  their focus!
-* Good thinkin', Clover!
-* Let's practice yer#  shootin' now.
-Eh... what?
-(Visual embarrassment)
-Alright, h-here goes#nothing.
-Yeah...
-I know... sorry...
-D-Don't mind me.
-I can do this...
-S-Sorry human.
+* Apunta con cuidado al#  maniquí y dispara.
+* No te preocupes, no#  está vivo ni nada.
+* ¡Muy buen trabajo!
+* ¡Inténtalo de nuevo!
+* ¡Ya está!
+* ¡Uno más!
+* ¡Buen tiro!
+* Yo diría que tienes#  un talento natural.
+* ¡Estoy impresionado,#  niño!
+* Está bien, compañero.
+* ¡Inténtalo de nuevo!
+* Eh... en realidad eso#  es... ¡bueno!
+* Intimidar a tu oponente#  puede reducir su#  concentración.
+* ¡Bien pensado, Clover!
+* Practiquemos tu#  tiro ahora.
+Eh... ¿qué?
+(Incomodidad visual)
+Muy bien, a-aquí#no pasa nada.
+Sí...
+Lo sé... lo siento...
+N-No me hagas caso.
+Puedo hacerlo...
+L-Lo siento humano.
 Oh...
-I deserve this...
-Here...
-Here you go!
+Me merezco esto...
+Aquí...
+¡Aquí tienes!
 Gosh, hun.#What are you on#about?
 Do you really mean#that hun? 
 Gosh, you've made me#the happiest florist#around town!
