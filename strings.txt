@@ -2007,7 +2007,7 @@ info
 * "Patch" Armor DF 0#* (It's not strong but it's#trustworthy.)
 * "Feather" - Armor DF 2#* (An old, forgotten feather.#* It needs a good preening.)
 * "G. Bandana" - Armor DF 12#* (The most stunning piece of#  fabric you've ever seen.)
-* (The grim reminder of#  your mission. Justice#  is needed.)
+* (El sombrio recordatorio# de tu mision.# La justicia es necesaria)
 * (Makes you invulnerable#  for a pear of hits.)
 * "Rubber Ammo" - Weapon AT 0#* (Small, safe, non-toxic#  rubber pellets.)
 * "Sponge Cake" - Cura 14 HP
