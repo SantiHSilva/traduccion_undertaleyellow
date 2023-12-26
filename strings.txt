@@ -2007,7 +2007,7 @@ info
 * "Patch" Armor DF 0#* (It's not strong but it's#trustworthy.)
 * "Feather" - Armor DF 2#* (An old, forgotten feather.#* It needs a good preening.)
 * "G. Bandana" - Armor DF 12#* (The most stunning piece of#  fabric you've ever seen.)
-* (The grim reminder of#  your mission. Justice#  is needed.)
+* (El sombrio recordatorio#  de tu mision.#  La justicia es necesaria)
 * (Makes you invulnerable#  for a pear of hits.)
 * "Rubber Ammo" - Weapon AT 0#* (Small, safe, non-toxic#  rubber pellets.)
 * "Sponge Cake" - Cura 14 HP
@@ -3414,10 +3414,11 @@ scr_battle_core_directory_flavor_text_enemy_1_special_5
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_special_6
 scr_battle_core_directory_flavor_text_enemy_1_special_6
 * Flier is reconsidering his life#  choices.
-* Penilla looks like she might#  crack under the pressure.
-* Sweet Corn's smile looks forced.
+* Flier está reconsiderando#  las decisiones en su vida.
+* Penilla parece como si ella# pudiera romperse por la presión.
+* La sonrisa de Sweet Corn parece forzada.
 * Crispy Scroll is relying on his#  self-imposed plot armor.
-* Your reflection is skewed.
+* Tu reflejo está sesgado.
 * Insomnitot is hoping it'll feel#  better in the morning.
 * Know Cone is quite enraged.
 * The igloo does not appear to be#  structurally sound anymore.
@@ -3437,11 +3438,11 @@ scr_battle_core_directory_flavor_text_enemy_1_special_6
 * Sousborg pours onion powder on#  his wounds.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_low_hp_1
 scr_battle_core_directory_flavor_text_enemy_1_low_hp_1
-* Flier seems to have several#  regrets.
-* Penilla tries to bite the#  bullet.
+* Flier parece tener muchos#  arrepentimientos.
+* Penilla intenta morder la#  bala.
 * Sweet Corn intenta mantenerse#  positiva.
 * Crispy Scroll is trying to#  teleport away.
-* Rorrim regrets approaching you.
+* Rorrim se arrepiente#  de haberse acercado a ti.
 * Insomnitot is drifting in and#  out of consciousness.
 * Know Cone stomps his feet in a#  huff.
 * The igloo is making distressed#  noises.
@@ -3847,7 +3848,7 @@ scr_battle_core_directory_flavor_text_enemy_2_sparing_1
 gml_Script_scr_battle_core_directory_flavor_text_enemy_2_sparing_2
 scr_battle_core_directory_flavor_text_enemy_2_sparing_2
 * Penilla raya frenéticamente#  su boceto de Flier.
-* The sweet vibes vanish.
+* Las buenas vibras#  se desvanecen.
 * Penilla termina su dibujo#  de anime en honor a Crispy.
 * Insomnitot thinks it was a#  dream.
 * Know Cone face-plants into#  the ground and yells.
