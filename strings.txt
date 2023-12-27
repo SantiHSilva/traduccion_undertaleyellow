@@ -958,7 +958,7 @@ Ruinas Oscuras - Puzzle
 Ruinas Oscuras - Salón
 Snowdin - Roca Delta
 Snowdin - Cabaña Rota
-Snowdin - Pathway
+Snowdin - Sendero
 Snowdin - Resort
 Snowdin - Corredor
 Dunes - Cueva
@@ -2107,7 +2107,7 @@ scr_inventory_check_space
 Action 1 Message 2
 gml_Script_scr_dialogue_battle_action_selected_action_1_sousborg
 scr_dialogue_battle_action_selected_action_1_sousborg
-Intro Letter
+Carta de Inicio
 mail
 mail_list_read
 ds_list_find_index
@@ -3767,13 +3767,13 @@ scr_battle_core_directory_flavor_text_enemy_1_default_9
 * Flier está listo para volver a#  su vida normal.
 * Penilla está recogiendo sus#  utensilios de arte por hoy.
 * Sweet Corn sonríe#  contentamente.
-* Crispy Mode 2k!!
+* Crispy Modo 2k!!
 * Rorrim está en búsqueda#  de su siguiente gran#  proyecto.
 * Decibat está listo para volver#  a dormir.
 * Dalv ha perdido toda esperanza.
-* Micro Froggit is waving goodbye.
-* Insomnitot is smiling at its#  dream.
-* Know Cone has been enlightened.
+* Micro Froggit se despide.
+* Insomnitot sonríe a su#  sueño.
+* Know Cone ha sido iluminado.
 * Frostermit está listo para#  minar su camino.
 * Dunebud is giggling.
 * Sir Slither can't convince#  you.
@@ -5672,13 +5672,13 @@ M E G A  C R O A K
 battle_box_draw_enabled
 gml_Script_scr_cutscene_battle_macro_2
 scr_cutscene_battle_macro_2
-* You advocate Know Cone's search#  for fire.
-* You encourage Know Cone to#  follow his dreams.
+* Defiendes la búsqueda de#  Know Cone acerca del#  fuego.
+* Animas a Know Cone a que#  siga sus sueños.
 scr_dialogue_battle_action_selected_action_1_know_cone_a
-* You inform Know Cone that fire#  will kill him.
-* You patiently explain the#  dangers of an open flame.#* Know Cone seems receptive.
+* Le informas a Know Cone#  que el fuego lo matará.
+* Le explicas pacientemente#  los peligros del fuego.#* Know Cone parece entender.
 scr_dialogue_battle_action_selected_action_2_know_cone_a
-* You berate Know Cone's#  ignorance and terrible grammar.
+* Reprendes la ignorancia#  y terrible gramática de#  Know Cone.
 scr_dialogue_battle_action_selected_action_3_know_cone_a
 scr_dialogue_battle_action_selected_action_1_know_cone_b
 scr_dialogue_battle_action_selected_action_2_know_cone_b
@@ -9357,15 +9357,15 @@ ast_shortcut
 * As for the proposed "Greenhouse#  Division", I have an idea.	
 * Cheaper, more efficient, and#  trustworthy.	
 * I'll send you some blueprints#  shortly. Thank you for your#  time and research.	
-* (Nothing of use.)
-* (You peer inside the box.)
-* (Nothing of interest here.)
-* (The ladder of success.)
-* (The waiting room chairs are#  waiting for someone to wait on#  them.)
-* (Chairs.)
-* (A roboceptionist, frozen in#  time.)    
-* (It holds an expression of#  melancholy.)
-* Tomorrow means the Surface!
+* (Nada útil.)
+* (Miras dentro de la caja.)
+* (Nada de interés aquí.)
+* (La escalera del éxito.)
+* (Las sillas de espera están#  esperando a que alguien se#  siente en ellas.)
+* (Sillas.)
+* (Un robocepcionista, congelado#  en el tiempo.)    
+* (Tiene una expresión de#  melancolía.)
+* El mañana es la Superficie!
 * Wishing everyone a productive#  final workday.    
 * Feel free to take pictures#  with your creations, as they#  must be left behind.    
 * As always, thank you for your#  contributions to the#  Steamworks.
@@ -9543,12 +9543,12 @@ bg_geno
 collider_type
 red
 indicator_flag
-* (Various cardboard cuboids lie#  bunched-up in the corner.)
-* (They're all empty.)
-* (The belt looks as if it's#  wanting to convey something.)
-* (You knock on the steel#  structure.)
-* (It echoes with a deep#  clanging.)
-* (An unfortunate incident.)
+* (Varios cuboides de cartón#  están abultados en la#  esquina.)
+* (Todo están vacíos.)
+* (Parece que la cinta quiere#  transportar algo.)
+* (Golpeas la estructura de#  hierro.)
+* (Hace un profundo eco#  de sonido de metal.)
+* (Un incidente desafortunado.)
 * (A giant red machine, minding#  its own business.)
 * (The blue machine stares at#  the red machine as if it holds#  a grudge.)
 furnace_number
@@ -11227,34 +11227,34 @@ HP!
 * You refuse to back down...#* Gained 
 * You think of those you love#  most...#* Speed temporarily increased!
 arrive
-* What the
-* Fun!!!
-* Hello again!!
-* The shipment is almost#  complete!!
-* One final step and you may have#  the passcode to exit!
-* All you have to do is   
-* Sort each colored#  package by tilting that#  platform left or right.
-* Pretty obvious.
-* Look who paid attention#  learning colors in preschool!
-* Not by choice.
-* I'll take the#  drop-chute up top, you#  man the platform.
-* Good? Good.
-* Ready?
-* Here goes nothing!
+* Que cara-
+* ¡¡¡Diversión!!!
+* ¡¡Hola otra vez!!
+* ¡¡El embarque está#  casi completado!!
+* ¡Un paso final y puede#  que tengas el pase#  a la salida!
+* Lo que hay que hacer es   
+* Ordenar los paquetes#  moviendo la plataforma#  de izquierda a derecha.
+* Muy obvio.
+* ¡Miren quien prestó#  atención al jardín de#  niños!
+* Por obligación.
+* Yo tomaré la tolva#  por arriba, tú#  maneja la plataforma.
+* ¿Bien? Bien.
+* ¿Listo?
+* ¡Aquí va nada!
 seesaw_puzzle_activate
-* Phew!
-* Coming back down!
-* Grrreeeat job everyone!!!
-* You can't spell "Steamworks"#  without "teamwork"!!
+* ¡Uff!
+* ¡Voy a bajar!
+* ¡¡¡Grrraan trabajo a todos!!!
+* Por que hay chistes#  en inglés >:( 
 * Can't spell it without "steak"#  either but that has absolutely#  no bearing on this situation!
-* Let's see how you did!!
-* Calculating...
-* Aw! You BARELY scraped by but#  that's what performance reports#  are for!
-* Hey! It isn't our fault#  this system is so#  impractical!
-* Why does it take two#  giant steps to ship a#  few packages?
-* Why can't we sort the#  colors when boxing them#  in the first room??
+* ¡¡Veamos que tal les#  fue!!
+* Calculando...
+* ¡Aw! ¡CASI lo arruinan pero#  para eso son los reportes#  de rendimiento!
+* ¡Ey! ¡No es nuestra culpa#  que este sistema#  sea tan impráctico!
+* ¿Por qué toman dos pasos#  gigantes para unos#  pocos paquetes?
+* ¿¿Por qué no podemos#  ordenarlos por color#  desde el primer paso??
 default
-* Beats me!
+* No tengo idea!
 * You know, for being#  built by such great#  minds...
 * The Steamworks are#  awfully convoluted.
 * It takes a MASSIVE IQ to#  understand the complexities of#  the Steamworks.
@@ -11451,8 +11451,8 @@ noloop_message
 * ...#
 * ¿Por qué no lo dejamos#  por hoy?
 * Probablemente es#  lo mejor...
-* Really? Another door?
-* Let's look around. Has#  to be a switch or a#  panel somewhere.
+* ¿En serio? ¿Otra puerta?
+* Hay que buscar. Debe#  de haber un interruptor#  o un panel cerca.
 part_x
 creator
 part_size
@@ -11911,7 +11911,7 @@ yellow_overlay_alpha
 * (Get on?)
 jump_noloop
 overlay
-* (An empty elevator#  shaft lies before you.)
+* (Un elevador vació está#  ante ti.)
 * Hey! Clover!
 * Have you seen Starlo?
 * Didn't think so...
@@ -13896,9 +13896,9 @@ opacity_target
 * These are all typed on#  cardstock...
 * How wealthy was#  Chujin...?
 ¡Deja de molestar#a Clover!
-* Well then...
-* "Convenience" was never#  in today's dictionary#  anyway.
-* Gotta be a staircase#  closeby.
+* Entonces...
+* "Conveniencia" nunca fue#  parte de nuestro#  diccionario de todos modos.
+* Debe de haber unas#  escaleras cerca.
 bomb_speed
 original_y
 anim_reverse
@@ -14100,8 +14100,8 @@ talk_noise
 Soda and Mints
 * The deadliest mixture of them#  all.
 dir_clamp
-* Dammit!
-* Better try again.
+* Diablo!
+* Mejor intentémoslo de#  nuevo.
 * (The fireplace is#  making the already-warm#  house warmer.)
 * Pretty#  counterproductive in a#  climate like this.
 * Still, it looks#  beautiful.
@@ -15074,46 +15074,46 @@ scale_modif
 pmember
 drop_speed
 active_item
-* Gooood morning Steamworks#  employees!!!
-* Hope you're ready for another#  day of pa-ro-duc-tivity!!!
-* Today we are boxing and#  shipping goods out into the#  Underground!!!
-* Uh, hello?
-* Are you sentient or a#  pre-recording?
-* Hello new hire!
-* Yes, I am fully sentient!
-* Trapped in this two-dimensional#  rectangle for all eternity!!!
-* Cierto...
-* Can you unlock all the#  doors in this factory?
-* We're in a hurry.
-* Sorry but each morning we do a#  little thing called:
-* EARN! YOUR!! FREEDOM!!!
-* Complete a full shipment and#  you'll be on your way!
-* What kind of policy is#  that???
-* When there's a quota to meet,#  ethics go out the window!!
-* Haven't you worked a job#  before???
-* Of course but I don't#  work here!
-* So you're trespassing???
-* In that case...  
-* Fine, we'll do the job!
-* Clover, this bot might#  have connections to#  Axis.
-* Seems we gotta do what#  it says to avoid#  unwanted attention.
-* You can work this thing#  right?
-* Push the start button#  and we'll get it over#  with.
-* WHAT ARE YOU DOING???
-* Put red items in red boxes and#  blue in blue boxes!
-* Three strikes and yoooou're#  out!!!
-* Your machine's broken.
-* The second conveyor#  belt doesn't move.
-* It's broke-
-* Screw this.
-* Clover, you box the#  goods and I'll toss 'em#  into the chute.
-* Teamwork, right? 
-* Something like that.
-* Let's give it a shot!
-* Hey alright! Good work,#  Clover!
-* Onto whatever awaits us#  next...
-Sigh...
-Can't say I didn't see#that coming.
+* ¡¡¡Bueeeenos días empleados#  de Steamworks!!!
+* ¡¡¡Espero que estén listos#  para otro día de#  pa-ro-duc-tividad!!!
+* ¡¡¡Hoy vamos a envolver y#  enviar bienes hacia#  el Subsuelo!!!
+* Uh, ¿hola?
+* ¿Eres un centila o una#  grabación?
+* ¡Hola nueva empleada!
+* ¡Si, soy un centila total!
+* ¡¡¡Atrapado en este rectángulo#  bi-dimensional para siempre!!!
+* Claro...
+* ¿Puedes abrir todas las#  puertas en esta fábrica?
+* Estamos en un apuro.
+* Perdón pero cada mañana#  hacemos algo llamado:
+* ¡GÁNA! ¡¡TU!! ¡¡¡LIBERTAD!!!
+* ¡Completa una embarcación#  y podrás seguir tu#  camino!
+* ¿¿¿Qué tipo de ley es#  esa???
+* Cuando hay una meta por#  cumplir, ¡¡ la ética se va#  al caño!!
+* ¿¿No has trabajado antes???
+* ¡Claro que sí, pero no#  he trabajado aquí!
+* ¿¿¿Entonces estás aquí#  ilegalmente???
+* En ese caso...  
+* Okei, ¡haremos el trabajo!
+* Clover, este bot puede#  tener conexión con#  Axis.
+* Parece que habrá que#  hacer lo que pida para#  evitar la atención.
+* Puedes manejar esta cosa#  verdad?
+* Presiona el botón de#  incio y terminaremos#  con esto.
+* ¿¿¿QUÉ ESTÁN HACIENDO???
+* ¡Pon los objetos rojos en#  las cajas rojas y los#  azules en cajas azules!
+* ¡¡¡Tres strikes y estáaaas#  fuera!!!
+* Tu máquina está rota.
+* La segunda cinta no se#  mueve.
+* Está rot-
+* Al diablo.
+* Clover, envuelve los#  bienes y yo lo tiraré#  en el vertedero.
+* Equipo, ¿cierto? 
+* Algo así.
+* ¡Vamos a intentarlo!
+* ¡Ey muy bien! ¡Buen trabajo,#  Clover!
+* Hacia lo que nos#  depare el camino...
+Agh...
+No puedo decir que no#lo vi venir.
 Still, my hopes were#high.
 There's gotta be SOME#way to get what I need.
 Clover's competent...#enough, but still...
@@ -17677,7 +17677,7 @@ mo_can_walk
 * Buscas algo delicioso#  para dar en el blanco,#  ¿verdad?
 * ¡Claro que sí!#  Conozco a los de tu tipo.
 * Entonces,#  ¿quieres esta bebida?
-* ¡No es verdad!
+* ¡Mentira!
 * Pues claro que no.
 * Tú y yo, estamos en la#  misma página aquí.
 * ¿Esto? Qué asco.#  Nadie quiere eso.
@@ -17690,7 +17690,7 @@ mo_can_walk
 * ¡Por el increíble precio#  de 15 de oro, puedes tener tu#  propio chocolate caliente Pop!
 * Antes era el viejo y aburrido#  chocolate caliente, ¡pero ahora#  congelado a temperatura ideal!
 * ¿He despertado ya tu#  interés?
-Completamente
+Claro que sí
 No Gracias
 * ¡Sabía que lo serías!#  ¡Maldición, soy bueno!
 * Vayamos al grano.
@@ -17722,14 +17722,14 @@ snow_cutscene
 * (¡Es un castillo de nieve!#* Qué... ¿tierno?)
 * (Abres las puertas.)
 * (Abres el puente levadizo.)
-* (Te duele demasiado la#  cabeza para seguir.)
+* (Te duele demasiado la#  cabeza como para seguir.)
 * (Es un castillo de nieve.)
 sprite_x_offset
 sprite_y_offset
 rotation_angle
 * ¡Huumpf! 238...
 * ¡Huumpf! 239...
-* A este ritmo, ¡Ice Wolf#  está listo para un nuevo#  trabajo en poco tiempo!
+* A este ritmo, ¡Ice Wolf#  estará listo para un nuevo#  trabajo en poco tiempo!
 * El nuevo trabajo es muy#  importante para Ice Wolf.
 * Ice Wolf necesita#  dinero para pantalones nuevos.
 * ¡Huumpf!
@@ -23937,37 +23937,37 @@ out_box
 in_box_list
 return_in_box
 in_box_trail
-DONDE TOT IRSE!?#ELLOS DIVERTIDOS!!
+¿¡DONDE TOT IRSE!?#¡¡ELLOS DIVERTIDOS!!
 TOT DUERME. KNOW CONE DESEA DULCES SUEÑOS.
-TU QUERER LLAMA!# KNOW CONE VER#A TRAVÉS!
-KNOW CONE QUIERE VER#FUEGO! KNOW CONE#SEGUIR FUEGO SUEÑO?
-FUEGO BUENO!#EXTRAÑO MALO!
-FUEGO MALO? INTENTAS#AYUDAR KNOW CONE?#KNOW CONE APRECIARLO!
-FUEGO DERRETIR A KNOW#CONE? KNOW CONE NO#SABERLO! TU BUEN#AMIGO DE KNOW CONE!
-KNOW CONE DISCULPARSE!#DEJA KNOW#CONE SOLO!
-TU SER PROFESOR?#MI IGNORANCIA TU CULPA#AHORA! EN TU CARA!
-SI KNOW CONE NO#SABE NO SER CULPA DE#KNOW CONE!#ESO ES GROSERO!
-NO ERES EMPÁTICO#A KNOW CONE! ESO#ENOJAR A KNOW CONE!
-ESTO SER BULLYING!#BULLYING MUY MALO!#KNOW CONE SER#BULLEADO!
-KNOW CONE HERIDO!#OW OW OW!#DOLOR MALO!
-KNOW CONE NO GUSTAR#PEQUEÑO EXTRAÑO!
-KNOW CONE CANTA SU#FAMOSA NANA!
-KNOW CONE DEJARÁ#DORMIR A TOT!
-KNOW CONE ENSEÑAR A#TOT FLAMA! TOT GUSTARÁ!
-EXTRAÑO TRAER FUEGO#A KNOW CONE?#KNOW CONE QUERER#FUEGO!
-KNOW CONE ESCUCHAR#FUEGO BRILLA#BONITO!#KNOW CONE GUSTAR#BRILLO BONITO!
-KNOW CONE PINTÓ LA#PARED UNA VEZ! MADRE#ENOJARSE!
-KNOW CONE HIT THING#WITH CLUB! GOLF FUN#FOR KNOW CONE!
-SNOWDIN TOO COLD!#KNOW CONE WANT#HOTLAND!
-OH WELL...
-WHY EVERYONE ALWAYS#RUN FROM KNOW CONE?
-KNOW CONE KNEW#SOMEONE WAS THERE!!
-HELLO?? SOMEONE#THERE??
-KNOW CONE CONFUSED!
-I BRING FIRE HERE!#FRIEND WILL SHOW!
-KNOW CONE KNOW#LOTS OF GAMES!!
-WANNA BE KNOW#CONE FRIEND??
-FLAME IS WHAT#FROSTERMIT NEED#RIGHT NOW!!
+¡TÚ QUERER LLAMA!# ¡KNOW CONE VER#A TRAVÉS!
+¡KNOW CONE QUIERE VER#FUEGO! ¿KNOW CONE#SEGUIR FUEGO SUEÑO?
+¡FUEGO BUENO!#EXTRAÑO MALO!
+¿FUEGO MALO? ¡INTENTAS#AYUDAR KNOW CONE?#KNOW CONE APRECIARLO!
+¿FUEGO DERRETIR A KNOW#CONE? ¡KNOW CONE NO#SABERLO! ¡TÚ BUEN#AMIGO DE KNOW CONE!
+¡KNOW CONE DISCULPARSE!#¡DEJAR KNOW#CONE SOLO!
+¿TÚ SER PROFESOR?#¡MI IGNORANCIA TU CULPA#AHORA! ¡EN TU CARA!
+¡SI KNOW CONE NO#SABE NO SER CULPA DE#KNOW CONE!#¡ESO ES GROSERO!
+¡NO ERES EMPÁTICO#A KNOW CONE! ¡ESO#ENOJAR A KNOW CONE!
+¡ESTO SER BULLYING!#¡BULLYING MUY MALO!#¡KNOW CONE SER#BULLEADO!
+¡KNOW CONE HERIDO!#¡OW OW OW!#¡DOLOR MALO!
+¡KNOW CONE NO GUSTAR#PEQUEÑO EXTRAÑO!
+¡KNOW CONE CANTA SU#FAMOSA NANA!
+¡KNOW CONE DEJARÁ#DORMIR A TOT!
+¡KNOW CONE ENSEÑAR A#TOT FLAMA! ¡TOT GUSTARÁ!
+¿EXTRAÑO TRAER FUEGO#A KNOW CONE?#¡KNOW CONE QUERER#FUEGO!
+¡KNOW CONE ESCUCHAR FUEGO#BRILLA BONITO!#¡KNOW CONE GUSTAR#BRILLO BONITO!
+¡KNOW CONE PINTÓ LA#PARED UNA VEZ! ¡MADRE#ENOJARSE!
+KNOW CONE GOLPEAR#CON CLUB! GOLF DIVERTIDO#PARA KNOW CONE!
+SNOWDIN MUY FRÍO!#KNOW CONE QUERER#HOTLAND!
+OH BUENO...
+¿POR QUE TODOS#CORRER DE KNOW CONE?
+¡¡KNOW CONE SABÍA#QUE ALGUIEN AHÍ!!
+¿¿HOLA?? ¿¿ALGUIEN#AHÍ??
+¡KNOW CONE CONFUSO!
+¡YO TRAER FUEGO!#¡AMIGO MOSTRARÁ!
+¡¡KNOW CONE SABE#MUCHOS JUEGOS!!
+¿¿QUIERES SER AMIGO# DE KNOW CONE??
+¡¡FUEGO ES LO QUE#FROSTERMIT NECESITA#AHORA!!
 know cone c
 random_speed
 random_sign
