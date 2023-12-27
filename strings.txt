@@ -2628,9 +2628,9 @@ gml_Script_scr_save_flowey_dunes
 * Aquí podrás obtener#  algunas mejoras de#  equipo.
 * Este bloqueo no#  es del todo inútil,#  jaja.
 * Vale, mi paciencia#  tiene un límite, Clover.
-* Espero que no#  estés planeando quedarte#  aquí.
+* Espero que no estés#  planeando quedarte aquí.
 * Estos payasos están#  debajo de ti.
-* Te sugiero#  encarecidamente que te lances#  cuando llegue el momento.
+* Te sugiero con interés#  que te lances cuando#  llegue el momento.
 * Intenta no distraerte#  de la verdadera misión.
 * ¡Ánimo, "socio"!
 * Temía que las#  cosas escalaran.
@@ -8958,7 +8958,7 @@ disabled
 enc_name
 * (Es un cartel.)#* (Dice EXPOSICIÓN en letras#  grandes y amigables.)
 color
-#        EXPOSICIÓN
+                 #        EXPOSICIÓN
 target_direction
 * (Púas intimidantes bloquean#  tú camino.)
 * (No deberías arriesgarte#  intentando cruzarlas.)
@@ -9217,7 +9217,7 @@ self_message
 * (Todo parece altamente#  incomestible.)
 * (Un tocador mugriento.)
 * (Varios olores extraños#  se filtran desde el tocador.)
-* (Decides no inspeccionarlo# más.)
+* (Decides no inspeccionarlo#  más.)
 * (Un armario.)
 * (Un armario con artículos#  de limpieza dentro.)
 * (Todos parecen nuevos.)
@@ -11263,7 +11263,7 @@ default
 * You know what?
 * You can take your little#  "passcode" and    
 * ...Just give us the code.
-* Of course!
+* ¡Por supuesto!
 * The passcode is 
 * Got it?
 * Yeah, thanks.
@@ -13796,7 +13796,7 @@ spawn_arrows
 * ESCAPED CONVICT SPOTTED.#  STEAMWORKS:#  OFFICE BRANCH.
 arrow_down
 * ¡Clover! The lockers!
-* Follow me!
+* ¡Sigueme!
 * HOW.
 * Huff... Huff...
 * This guy means#  business!
@@ -15082,7 +15082,7 @@ active_item
 * Hello new hire!
 * Yes, I am fully sentient!
 * Trapped in this two-dimensional#  rectangle for all eternity!!!
-* Right...
+* Cierto...
 * Can you unlock all the#  doors in this factory?
 * We're in a hurry.
 * Sorry but each morning we do a#  little thing called:
@@ -19886,10 +19886,10 @@ No, lo siento
 * ¡Oh, es verdad!#  ¡Todavía tengo#  mi manual!
 * Veamos...
 * "En caso de lesión,#  enfermedad, carcel,#  pérdida de este manual...
-* U otra desgracia#  que te incapacite para#  cumplir con tus deberes...
+* U otra desgracia#  que te incapacite para#  cumplir con tus deberes-
 * Por favor, preséntese#  al líder de la Guardia#  Real inmediatamente.
 * De no hacerlo..."
-* Digamos que el#  libro no era muy#  útil.
+* Digamos que el#  manual no era muy#  útil.
 * ¿Ese "sheriff" North#  Star? ¿Estaba?
 * ¡Qué idiota!
 * Intenté luchar por ti,#  de verdad que#  lo hice.
@@ -19910,11 +19910,11 @@ No, lo siento
 * Esto es tan aburrido.
 * ¿Podrían al menos darme#  algo que hacer?
 * Todo lo que tengo en#  la cabeza son ideas#  de puzzle.
-* ¡Hace poco tuve una idea# para un tercer puzzle#  de roca fundida!
+* ¡Hace poco tuve una idea#  para un tercer puzzle#  de roca fundida!
 * ...Está bien,#  no es divertido.
 * Lo que es interesante#  es el ruido que oí#  hace un rato.
 * ¡Oí un fuerte SNAP! -#  que me despertó de#  una siesta.
-* Antes de darme cuenta de#  lo que había pasado,#  otro prisionero desaparecio.
+* Antes de darme cuenta de#  lo que había pasado,#  otro prisionero se fue.
 * Intenté hablar con ellos#  cuando llegué pero#  no obtuve respuesta.
 * Así que ahora no sólo#  estoy aquí, sino que no#  tengo con quien hablar.
 * En general, este día#  está siendo fantástico#  para mí.
@@ -19932,7 +19932,7 @@ No, lo siento
 * ...durmiendo.
 * No me malinterpretes,#  ¡no soy un perezosa!
 * Ser Guardia Real no#  es tarea fácil.
-* Calibrar puzzles, redactar#  informes de situación,#  vigilar puestos avanzados...
+* Calibrar puzzles, hacer#  informes de situación,#  vigilar puestos...
 * Que me grite una anciana#  por estropear el puente#  de Snowdin...
 * Ups, me estoy yendo por#  las ramas otra vez.
 * Realmente necesito salir#  pronto, a este paso voy#  a empezar a hablar sola.
@@ -20151,7 +20151,7 @@ interact_count
 * Tengo buen ojo para ese#  tipo de cosas.
 * No tengas la impresión de#  que me estoy abriendo#  ni nada.
 * Me lleva mucho tiempo#  volverme "compañero"#  de alguien.
-* Es un poco irritante#  que la última misión haya#  sido pospuesta.
+* Es un poco irritante#  que la última misión#  haya sido pospuesta.
 * No es propio de Star#  pasar por alto las#  condiciones del vestido.
 * Supongo que podemos#  considerarlo como que#  tiene el plato lleno.
 * Me sorprende que haya#  conseguido mejoras#  tan lujosas.
@@ -20168,10 +20168,10 @@ interact_count
 * Pronto, serás uno de#  nosotros. ¡Qué#  emocionante!
 * Las misiones aquí#  pueden ser realmente#  agotadoras.
 * Por eso tenemos una#  hora designada para#  la siesta.
-* Es una buena forma de#  recargar las pilas para#  futuras dosis de justicia.
+* Es una buena forma de#  recargar las pilas para#  futura justicia.
 * Ahora que lo pienso, la#  siesta es después de#  esta próxima misión.
 * ¡Esperamos que nos#  acompañes!
-* No registro las#  pertenencias de mis amigos#  mientras duermen.
+* No registro las#  pertenencias de mis#  amigos mientras duermen.
 * ¿Por qué sugieres#  algo así? ¡Tengo algo#  de postura!
 * Oh... No has dicho nada.
 * Esta conversación no#  ocurrió, ¿entendido?
@@ -20218,11 +20218,11 @@ line_alpha
 * Me siento gracioso...#  jaja... ¡Me siento#  INCREIBLE!
 * ¿Quieres oír un chiste?
 * OK, así que hay un pilar de#  piedra, ¿verdad?
-* Aunque no es el pilar de todos#  los días. Este tiene un#  dibujo de un gato ahí.
-* Entonces... jaja...#  ¿eso lo convierte en#  un CATerpillar? ¡¡HAHA!!
+* Aunque no es el pilar de todos#  los días. Este tiene un#  dibujo de un gato.
+* Entonces... jaja...#  ¿eso lo convierte en#  un GATOpillar? ¡¡JAJA!!
 * ¡Hombre, soy bueno!
 * Pues lárgate, jajaja...
-* Jaja... Soy un insecto en la#  cama.¿Lo entiendes? Porque#  estoy en la cama.
+* Jaja... Soy un chinche en la#  cama.¿Lo entiendes? Porque#  estoy en la cama.
 * Ya veo que estás conteniendo#  una sonrisa, jaj....
 * Espera, tengo que pensar#  en más material.
 * De hecho me estoy#  poniendo... un poco....
@@ -20247,7 +20247,7 @@ anim_grow
 * No puedo decir lo mismo#  de vivir con ellos.
 * Los seis dormimos en#  una habitación.
 * ¿Se te ocurre alguna#  molestia? Ocurre.
-* Roncar, hablar dormido,# crujir los dientes...#  es bastante agotador.
+* Roncar, hablar dormido,#  crujir los dientes...#  es bastante agotador.
 * Aunque no puedo quejarme#  mucho. Es un lugar#  gratis para vivir.
 * Verás, en el pasado,#  no he vivido aquí.
 * Tengo... bueno, tenía un#  lugar cerca de Oasis#  Valley.
@@ -20255,14 +20255,14 @@ anim_grow
 * Star y yo hemos sido#  amigos desde la infancia,#  así que no hay renta.
 * Es agradable...
 * Sobre irnos:
-* Una vez superado tu#  entrenamiento, serás libre de#  irte por donde quieras.
+* Una vez superado tu#  entrenamiento, podras#  irte por donde quieras.
 * Será duro cuando tenga#  que contarle a Star#  tu marcha.
 * Le has caído muy bien.#  Lástima que te vayas#  tan pronto...
 * Cuanto antes hagas tus#  misiones, antes#  estarás en camino.
 * ¿No eres un poco joven#  para andar por aquí?
 * No es por juzgar ni#  nada.
 * Estoy en el pueblo#  visitando a mi pequeño#  Moray.
-* Mi encantadora esposa,#  Angie, está dirigiendo las#  minas mientras estoy fuera.
+* Mi encantadora esposa,#  Angie, dirige las#  minas mientras no estoy.
 * Aunque no estoy seguro#  de lo eficientes que#  serán mis chicos sin mí.
 * Ahh, es un riesgo que#  merece la pena correr.
 * Angie se preocupa de#  que Moray viva aquí.
@@ -20290,7 +20290,7 @@ anim_grow
 * (Probablemente.)
 * Así que eres el niño#  nuevo, ¿eh?
 * He oído a la gente del pueblo#  hablar maravillas de ti.
-* No es por reventar tu burbuja,# pero podría totalmente ir#  mano a mano contigo.
+* No es por reventar tu burbuja,#  pero podría totalmente ir#  mano a mano contigo.
 * Sé a ciencia cierta que#  podría ganarte un duelo ahora#  mismo, sin entrenamiento.
 * Si quisiera, podría chasquear#  los trece dedos y conseguir#  la posición de ayudante.
 * Si eso te molesta, no#  lo siento.
@@ -20307,137 +20307,137 @@ idle_sprite
 flip_sprite
 shape_sprite
 attack_stage
-* (They're fast asleep.)
-* (He's taking a nap.)
-* Oh hey, you're the human Star#  brought to town.
-* Apologies if I scared ya' back#  there.
-* You see, I'm the onl-... best#  actor in all of the Wild East.
-* I warned Star I'd go all in.#  Poor Ed must have#  been TERRIFIED.
-* I warned Star I'd go all in.#  Poor townsfolk must have#  been TERRIFIED.
-* You're probably thinking I hurt#  myself when I fell over...
-* Nope. I'm here cause I can't#  get this darn costume off.
-* Sorry kid, if you want an#  autograph now is really not the#  best time.
-* Oh, it's you.
-* Sorry, I was just#  looking at Star's#  videotapes.
-* Mostly human-made#  westerns that found#  their way here.
-* That and the classic#  "Aerobics 4 Five." That#  one gets used often.
-* Man, these really take#  me back.
-* I remember the day Star#  ran from Waterfall with#  these in his arms.
-* He was ecstatic. I#  recall it being strange#  to see him act that way.
-* He must've watched them#  all forward and backward,#  fifty times over.
-* When Kanako came around,#  he'd watch them with her#  just as mu....
-* Uh-yeah. They're good#  movies. That's what I'm#  getting at.
-* I um... I have a habit#  of drowning in nostalgia#  from time to time.
-* I apologize. It's super#  cheesy, I'm sure.
-* It just... helps. To#  remember the good times.
-* It helps.
-* Get out of my hair#  before you die of#  melodrama, will you?
-* I'm fine, trust me.
-* You need to focus on#  passing your training. 
-* You should get going.#  You don't wanna miss#  your next mission.
+* (Están profundamente#  dormidos.)
+* (Está durmiendo la#  siesta.)
+* Oh hey, eres el humano que#  trajo Star al pueblo.
+* Disculpa si te he asustado#  ahí atrás.
+* Verás, soy el unic-- mejor#  actor de todo el#  Salvaje Este.
+* Advertí a Star que voy con#  todo. Pobre Ed debe#  haber estado ASUSTADO.
+* Advertí a Star que voy con#  todo. La pobre gente del#  pueblo debe estar ASUSTADOS.
+* Estarás pensando que me#  hice daño cuando me caí...
+* Nop. Estoy aquí porque no#  puedo quitarme este maldito#  disfraz.
+* Lo siento niño, si quieres#  un autógrafo ahora#  no es el mejor momento.
+* Oh, eres tú.
+* Lo siento, estaba#  mirando las cintas#  de vídeo de Star.
+* La mayoría de los#  westerns creados por el#  hombre están aquí.
+* Ese y el clásico#  "Aerobics 4 Five".#  Ese se usa mucho.
+* Hombre, estos sí que#  me hacen volver atrás.
+* Recuerdo el día en que#  Star huyó de Waterfall#  con esto en brazos.
+* Estaba extasiado.#  Recuerdo que fue extraño#  verlo actuar así.
+* Debe haberlas visto#  todas adelante y atrás,#  cincuenta veces.
+* Cuando Kanako se#  acercaba, los miraba con#  ella igual que mu....
+* Uh-Sí. Son buenas#  películas. A eso#  me refiero.
+* Yo... Tengo la costumbre#  de ahogarme en la pena#  de vez en cuando.
+* Pido disculpas.#  Es super cursi,#  estoy segura.
+* Simplemente... ayuda.#  Recordar los buenos#  tiempos.
+* Ayuda.
+* Quítate de mi vista#  antes de que mueras de#  melodrama, ¿quieres?
+* Estoy bien, confía#  en mí.
+* Tienes que centrarte#  en aprobar el#  entrenamiento. 
+* Deberías seguir.#  No querrás perderte#  tu próxima misión.
 flash
-* 'Ey, would ya' look at that! If#  it ain't our fresh recruit.
-* How's it goin' kid, you givin'#  the shufflers a good name out#  'ere?
-* Ya' know, it's tough being a#  world renowned gang leader.
-* I gotta run 'round the#  Underground every now 'n then.
-* Make sure we're being properly#  represented, ya' know?
-* Ya' ain't gettin' respect like#  us by lazin' around, kid.
-* 'Ey kid. 'Ave you seen a#  certain associate 'round?
-* A fancy lil' fella. Wears a#  nice suit 'n a stubby hat. 
-* We've got some matters to#  discuss with 'em.
-* This town 'ere's pretty nice.#  Though, I'm not fond of#  the local gang.
-* They think they're the hot#  stuff but they've got nothin'#  on The Shufflers!
-* 'Ay, it's you again!
-* Nice to see a face around 'ere#  that's seen places other than#  this desert, heh heh.
-* I live 'round these parts, but#  it's not always like... this...
-* The Wild East is changin';#  something's in the air.
-* North Star and his gang are#  doin' their best I suppose.
-* Speakin' of North Star, he's#  got you roped into his crew,#  huh.
-* Don't be too intimidated,#  they're all a bunch of softies#  at heart!
-* Maybe not that Ed guy though...#  Something tells me not to cross#  him, heh heh...
-* I'm thinkin' of taking a trip#  to Waterfall.
-* You should stop by that place#  if ya get the chance!
-* Prettier than here, fer'sure.
-* You must be that new kid in the#  paper, eh?
-* Trust me, the Wild East ain't#  always this... active...
-* North Star must just be excited#  to add another member to his#  posse!
-* If you plan on leavin' here,#  don't expect it to be easy.
-* When North Star gets his mind#  set on something, he sees it#  though.
-* So embrace yer position. I'm#  sure only good things can come#  from it!
-* I'm gonna head out of town,#  don't get into too much trouble,#  heh heh.
-* H-hey kid. Sorry about the#  whole train thing earlier.
-* I love playing the villain,#  but I never considered how#  the others felt.
-* Maybe in the end, that's#  what makes me the real#  villain.
-* I wanna move on once this all#  blows over.
-* You know, get a honest job and#  move to a more... conventional#  place.
-* Vengeful Virgil redemption arc,#  here we go!
-* Leave me alone. I've had#  ENOUGH of this town.
-* I swear, no one here really#  gets me. 
-* No, they don't UNDERSTAND the#  level I'm at.
-* I can stare at someone and#  they'll feel true fear.
-* Well... not everyone...
-* "If you think you're so tough,#  why don't you prove it" he#  said.
-* Alright yeah, maybe I#  misjudged how strong a left#  hook to the cheek could be.
-* Yeah, maybe I should've taken#  on someone smaller, but it's#  all part of my plan.
-* I wasn't even using all my#  power... 
-* Big red guy... and his dumb,#  stupid, little hat...
-* Trust me, if i had landed the#  first hit things would've ended#  MUCH differently.
-* He got lucky...
-* Go away.
-* Howdy, Deputy!
-* You are the deputy, right?
-* I heard the squad got real#  peeved off after learning#  that.
-* Nyahaha! Don't worry, I#  believe in you!
-* Nyahaha!
-* Howdy, Deputy.	
-* I'm real worried! Worried#  sick!	
-* No one can find the Sheriff!#  Nyo one at all!	
-* He's gonna return soon, right?#  He's gotta!
+* ¡Mira eso! Si no es nuestro#  recluta fresco.
+* ¿Cómo te va niño, estás#  dando a los shufflers un#  buen nombre por aquí?
+* Ya sabes, es difícil ser un#  líder de pandilla de#  renombre mundial.
+* Tengo que correr por el#  Subsuelo de vez en cuando.
+* Asegúrate de que estamos#  bien representados, ¿sabes?
+* No te harás respetar como#  nosotros vageando, niño.
+* Oye niño. ¿Has visto a#  cierto socio por aquí?
+* Un tipo elegante. Lleva#  un bonito traje y un#  sombrero puntiagudo. 
+* Tenemos algunos asuntos#  que discutir con ellos.
+* Este pueblo es muy bonito.#  Aunque no me gusta#  la pandilla local.
+* Se creen los mejores, pero no#  tienen nada que hacer#  contra los Shufflers.
+* ¡Ay, eres tú otra vez!
+* Me alegro de verte por aquí#  que ha visto más que este#  desierto, je je.
+* Vivo por aquí, pero no#  siempre es así...
+* El Salvaje Este está#  cambiando; hay algo en el aire.
+* North Star y su pandilla#  hacen lo que pueden, supongo.
+* Hablando de North Star,#  te incluyo en su#  pandilla, huh.
+* No te sientas intimidado,#  ¡todos son unos cariñosos#  de corazón!
+* Aunque tal vez no ese tal#  Ed... Algo me dice que no#  me cruce con él, je je....
+* Estoy pensando en hacer un#  viaje a Waterfall.
+* Deberías pasarte por allí#  si tienes la oportunidad.
+* Es más bonito que aquí,#  seguro.
+* Debes ser el niño nuevo del#  periódico, ¿eh?
+* Créeme, el Salvaje Este no#  siempre es tan...#  activo...
+* ¡North Star debe de estar#  contento por añadirte#  a su pandilla!
+* Si planeas irte de aquí,#  no esperes que sea fácil.
+* Sin embargo, cuando North#  Star se propone algo,#  lo hace.
+* Así que acepta tu posición.#  ¡Estoy seguro de que#  todo saldra bien!
+* Voy a salir de la ciudad,#  no te metas en muchos#  problemas, je je je.
+* Hola niño. Siento lo del#  tren de antes.
+* Me encanta interpretar al#  villano, pero nunca consideré#  como se sentían los demás.
+* Tal vez al final, eso es#  lo que me convierte en el#  verdadero villano.
+* Quiero seguir adelante una#  vez que todo esto termine.
+* Ya sabes, conseguir un trabajo#  honesto y mudarme a un#  lugar más... normal.
+* Arco de redención del#  vengativo Virgil, ¡allá vamos!
+* Dejadme en paz. Ya he#  tenido SUFICIENTE de#  este pueblo.
+* Lo juro, nadie aquí#  realmente me entiende. 
+* No, no COMPRENDEN el#  nivel en el que estoy.
+* Puedo mirar fijamente a#  alguien y sentirá#  verdadero miedo.
+* Bueno... no todos...
+* "Si te crees tan fuerte,#  ¿por qué no lo#  demuestras?", dijo.
+* De acuerdo, sí, quizás juzgué#  mal lo fuerte que es un#  gancho en la mejilla.
+* Sí, tal vez debería haber#  contratado a alguien más pequeño,#  pero es parte de mi plan.
+* Ni siquiera estaba usando# toda mi potencia... 
+* Gran tipo rojo... y su#  tonto, estúpido,#  sombrerito...
+* Créeme, si hubiera dado el#  primer golpe las cosas habrían#  acabado de forma muy diferente.
+* Has tenido suerte...
+* Vete.
+* ¡Hola, ayudante!
+* Eres el ayudante del#  sheriff, ¿verdad?
+* Oí que el equipo se#  enfadó mucho al enterarse.
+* ¡Nyahaha! No te preocupes,#  ¡yo creo en ti!
+* ¡Nyahaha!
+* Buenas, ayudante del#  sheriff.	
+* ¡Estoy muy preocupado!#  ¡Muy preocupado!	
+* ¡Nadie puede encontrar al#  Sheriff! ¡Ni uno!
+* Volverá pronto, ¿verdad?#  ¡Tiene que hacerlo!
 * Nyohoho.
-* Yo, exciting news.
-* I just built myself a new#  computer and guess what?
-* You can play GAMES on it!
-* Sorry North Star but I'm never#  leaving my room again!!!
-* There's these videos on#  Undernet of monsters playing#  Love Blaster.
-* I'll tell ya what, they're#  playing it all wrong!
-* You're supposed to GRAB the#  powerups, not avoid them!!
-* Also, Mew mew doesn't "shoot#  bullets", she spreads joy
-* It's so obvious they haven't#  studied the deep lore like I#  have.
-* You should come over#  sometime.
-* We could play a co-op game!
-* Isn't that awesome???
-* Why don't you look excited?
-* ...Alright then, sorry I#  brought it up.
-* Olvidar about the game stuff.
-* I'm more of a single-player#  type anyway.
-* Oh ho! Why if it isn't the#  Deputy!
-* Will you sign my needle? 
-* Please do!
-* How exciting! Here's a pen!
-* (You make a few scribbles on#  one of the fellow's needles.)
-* Oh boy!
-* Hope you don't mind if I sell#  that needle online!
-* Ta-ta!
+* Hey, noticias emocionantes.
+* Acabo de construirme un#  nuevo PC y ¿adivina#  qué?
+* ¡Puedes jugar a JUEGOS en él!
+* Lo siento North Star#  ¡¡¡pero no volveré#  a salir de aquí!!!
+* Hay unos vídeos en#  Undernet de monstruos#  jugando a Love Blaster.
+* Te diré algo, ¡están#  jugando mal!
+* Se supone que tienes que#  tomar los potenciadores,#  no evitarlos.
+* Además, Mew mew no#  "dispara balas",#  reparte alegría
+* Es tan obvio que no han#  estudiado el lore#  profundo como yo.
+* Deberías venir alguna vez.
+* ¡Podríamos jugar un#  juego cooperativo!
+* ¿¿¿No es increíble???
+* ¿Por qué no pareces#  emocionado?
+* ...Muy bien, siento haber#  sacado el tema.
+* ...Muy bien, siento haber#  sacado el tema.
+* De todas formas yo soy más#  de un solo jugador.
+* ¡Oh ho! ¡Pero si es el#  ayudante!
+* ¿Me firmarías la aguja?
+* ¡Hazlo, por favor!
+* ¡Qué emocionante! ¡Aquí#  tienes un esfero!
+* (Haces unos garabatos en#  una de las agujas#  del compañero.)
+* ¡Oh, vaya!
+* ¡Espero que no te importe#  que venda esa aguja#  online!
+* ¡Ta-ta!
 * Boo-hoo.
-* Good luck with the new job! Ah#  ha!!
-* Why if it isn't the Deputy!	
-* Do you think the Feisty Five#  will ever get back together!	
-* I hope-hope-hope they do!	
-* It isn't any fun being apart,#  no ho!
-* You're Star's right-hand man,#  correct?	
-* If you see him, tell him we#  all miss his leadership!	
-* That we do!
-* Hey Clover.
-* Sorry we kinda ruined#  your fun.	
-* It really wasn't your#  fault, you were just#  strung along.	
-* De todas formas... I feel bad#  about the whole thing.	
-* Need to talk to Star#  about it as soon as#  possible.
-* The others needed a#  little more time.
-* I might've... snuck#  away while they were#  occupied.
-* It's what I do best!#  Heh heh...
-* I won't blame you if#  you wanna ditch this#  town.
-* Hope you had a decent#  time, though!
-* Ya know... before#  everything.
+* ¡Buena suerte con el nuevo#  trabajo! ¡¡Ah# ja!!
+* ¡Pero si es el ayudante!
+* ¿Crees que los Feisty Five#  volverán a estar juntos#  algún día?
+* ¡Espero-espero-espero que sí!
+* No es divertido estar#  separados, ¡no ho!
+* Eres la mano derecha de#  Star, ¿correcto?	
+* ¡Si lo ves, dile que#  todos extrañamos su#  liderazgo!
+* ¡Eso hacemos!
+* Oye Clover.
+* Lamento haber arruinado#  tu diversión.	
+* En realidad no fue culpa#  tuya, sólo te#  engañaron.	
+* De todas las formas...#  Me siento mal por#  todo el asunto.	
+* Necesito hablar con#  Star sobre eso lo#  antes posible.
+* Los otros necesitaban#  un poco más de tiempo.
+* Puede que me haya# escapado mientras#  estaban ocupados.
+* ¡Es lo que mejor hago! Heh heh...
+* No te culparé si# quieres abandonar#  esta ciudad.
+* ¡Espero que lo hayas#  pasado bien!
+* Ya sabes... antes#  de todo.
 * Tú. Humano.
 * ¿Estás bien?
 Seh
@@ -20678,11 +20678,11 @@ actor_ace
 * Puse al viejo Jack#  en su lugar,#  lo hice.
 * Podrías haberme#  enviado a buscarlo.
 * Sabes que soy el mejor#  negociador.
-* We might bend the rules#  a bit but we ain't#  bandits.
+* Puede que nos saltemos#  un poco las normas,#  pero no somos bandidos.
 * Mhm, totalmente.
 * Vayamos ya a la#  misión.
 * Tienes razón, Ed.
-* ¿Qué otra misión#  sería que la#  que nos saltamos antes?
+* ¿Qué otra misión#  sería que la que#  nos saltamos antes?
 * ¡Prepárate, Clover!
 * ¡Ha llegado la hora#  de la dualidad!
 * Querrás decir#  "duelo".
@@ -20735,19 +20735,19 @@ actor_ace
 * De todos modos,#  ¡aprobaste!
 * ¡Los esperare en el#  Saloon para la#  tercera misión!
 * ¡Veo cosas buenas#  en ti, niño!
-* Aquí está tu plancha.#  Además, necesitaré#  esas gafas.
+* Aquí está tu hierro.#  Además, necesitaré#  esas gafas.
 * ¡Ya conocen el#  procedimiento, equipo!
 * No hay tiempo#  para holgazanear.
 * Uh, ¿holaaa?
 * ¿Dónde está todo#  el mundo?
 * Lo siento, Clover.#  Deberían estar aquí#  en cualquier momento...   
 * Star, ¿qué está pasando#  en el extremo oeste#  de la ciudad?
-* ¿Le importaría#  explicarlo?
+* ¿Te importaría#  explicarlo?
 * ¿¿¿QUÉ???
 * ¿¿¿Hay alguien en#  peligro???
 * Bueno... no,#  probablemente no-
 * ¿¿¿ESTÁN???
-* ¡Por George! ¡Esto debe#  ser un ataque del#  vengativo Virgilio!
+* ¡Por George! ¡Esto debe#  ser un ataque del#  vengativo Virgil!
 * Vengativo...#  ¿Virgil?
 * ¿Quién es?
 * ¡Ceroba, vamos!
@@ -20771,7 +20771,7 @@ actor_ace
 * ¿Y arriesgarnos a#  caer en una trampa?
 * ¡Tocar esas cuerdas#  es exactamente lo#  que Virgil quiere!
 * ¡Esto da miedo, Star!
-* Me temo que debes#  elegir por qué vía#  viaja el# tren.
+* Me temo que debes#  elegir por qué vía#  viaja el tren.
 * ¡Sí! ¡Elige a Ed!
 * Mooch, estás muerto#  para mí.
 * A menos que Star#  te elija a ti.
@@ -20830,9 +20830,9 @@ actor_train
 * Nos vemos por ahí.
 * ¡Hey! ¿Alguien nos#  va a desatar?
 * ¡Última llamada!
-* ¡Ven aquí!
+* ¡Vengan aquí!
 * ¿Están todos listos?
-* En realidad, hay algo#  de lo que queríamos hablar.
+* En realidad, hay algo#  de lo que queríamos#  hablar.
 * Sí. Sobre el ambiente#  de trabajo en general.
 * Tal vez más tarde.#  ¡Sigamos moviéndonos!
 * ¡Así que Clover!#  En realidad te#  engañé.
@@ -20848,7 +20848,7 @@ actor_train
 * Pasaron su#  entrenamiento#  como cualquier otro.
 * ¿Eso era entrenar?
 * ¡Apenas hicimos#  algo!
-* ¡Especialmente la#  última misión fue horrible!
+* ¡Especialmente la#  última misión fue#  horrible!
 * Cálmate,#  ¿quieres?
 * ¡Estás acabando#  con mi buen humor!
 * Tengo que correr a#  las Minas para hacerle#  una placa a Clover.
@@ -20860,7 +20860,7 @@ actor_train
 * Nosotros no#  recibimos este tipo#  de trato.
 * Tuvimos que pasar por#  semanas de lecciones#  de lazo.
 * Para que yo forme#  parte del equipo...
-* ¡Star me hizo caminar#  con una serpiente en#  mi bota durante una semana!
+* ¡Star me hizo caminar#  con una serpiente en mi#  bota por una semana!
 * ...¡Era de goma pero#  los brotes que me daba#  eran insoportables!
 * ¡Sí, y me hizo robar#  monstruos en el Oasis!
 * Star no te obligó#  a hacer eso.
@@ -21093,7 +21093,7 @@ Nah
 * ¡Buenas buenas, Clover!
 * ¿Listo para el#  segundo asalto?
 * ¡Qué bien!
-* Como los planes originales#  fueron alterados, tenemos#  que ponernos al día.
+* Como el plan original#  fue alterado, tenemos#  que ponernos al día.
 * ¡Reunamos a los demás!
 * Muy bien, tómate#  tu tiempo.
 * ¡Bienvenido,#  compañero!
@@ -21102,8 +21102,8 @@ Nah
 * ¿Listo para continuar?
 * Hombre, estoy#  emocionado por esto.
 * ¿Has hecho todo lo#  que querías?
-* ¿Has descubierto a#  unos bandidos? ¿Has#  GUARDADO algunas vidas?
-                                         ##  GUARDADO            
+* ¿Descubriste bandidos?#  ¿Salvaste vidas?
+                        #   SALVASTE
 * ¡En marcha#  entonces!
 * ¡Date prisa,#  entonces!
 Wild East Saloon
