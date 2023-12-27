@@ -966,11 +966,11 @@ Dunes - Árbol
 Minas - Elevador
 Minas - Minecart
 Dunes - Cima de montaña
-Dunes - Playground
-Dunes - Well
+Dunes - Parque infantil
+Dunes - Pozo
 Salvaje Este - Pueblo
 Salvaje Este - Afueras
-Salvaje Este - Lado Soleado
+Salvaje Este - Lado Sol
 Steamw. - Generador
 Steamw. - Raised Path
 Steamw. - Lago
@@ -2007,7 +2007,7 @@ info
 * "Patch" Armor DF 0#* (It's not strong but it's#trustworthy.)
 * "Feather" - Armor DF 2#* (An old, forgotten feather.#* It needs a good preening.)
 * "G. Bandana" - Armor DF 12#* (The most stunning piece of#  fabric you've ever seen.)
-* (El sombrio recordatorio#  de tu mision.#  La justicia es necesaria)
+* (El sombrío recordatorio#  de tu misión.#  La justicia es necesaria.)
 * (Makes you invulnerable#  for a pear of hits.)
 * "Rubber Ammo" - Weapon AT 0#* (Small, safe, non-toxic#  rubber pellets.)
 * "Sponge Cake" - Cura 14 HP
@@ -2475,7 +2475,7 @@ gml_Script_scr_determine_world_value_yellow
 * Tengo que decir, es#  un poco agradable#  no tener molestias.
 * Bueno, no queda nada#  que hacer por aquí,#  supongo. ¡Sigamos!
 * ¡Sigamos avanzando!
-* ¡Buenas!#* ¡Parece que lo#  conseguiste!  
+* ¡Buenas!#* ¡Parece que lo#  tienes!  
 * ¿Por qué la cara larga,#  amigo?
 * No te preocupes, ¡este#  sitio es mucho mejor#  que allí arriba!
 * ¡Esa vieja nos#  habría arruinado la#  diversión!
@@ -2494,7 +2494,7 @@ gml_Script_scr_determine_world_value_yellow
 * ¿Toriel te ayuda a#  guardar?#* ¡NO!
 * ¡Asi que salgamos#  de aquí mientras#  seamos jóvenes!
 * ¡Veo que sigues en#  una pieza!
-* Viste a ese bicho#  raro ¿verdad?
+* Viste a ese bicho#  raro, ¿verdad?
 * Si quieres salir de#  aquí tendrás que#  pasar por él.
 * Aunque no debería ser#  un problema.
 * Y si lo fuera,#  ¡yo estoy aquí!
@@ -3303,9 +3303,9 @@ scr_battle_core_directory_no_attack
 * ¡Froggit saltó cerca!
 * ¡Flier intenta luchar!
 * Estás abrumado por las#  vibras depresivas.
-* Penilla se acerca dibujando!
+* ¡Penilla se acerca dibujando!
 * Penilla le tiene temor#  a esta batalla.
-* Sweet Corn saltá emocionada.
+* Sweet Corn salta emocionada.
 * Ya puedes sentir las caries.
 * Penilla te encuentra.#* Sweet Corn aparece de la#  nada con emoción.
 * Crispy Scroll está buscando#  con quien hablar.
@@ -3360,7 +3360,7 @@ gml_Script_scr_battle_core_directory_flavor_text_check
 scr_battle_core_directory_flavor_text_check
 * Parece que hablarle a Craniex#  lo hace ser más amigable#  hacia ti.
 * Haz mejorado el día#  de Crispy Scroll.
-* Crispy Scroll no cree lo#  que acaba de ocurrir.
+* Crispy Scroll no puede creer#  que eso acaba de ocurrir.
 * Trihecta comienza a menearse#  hacia atrás y delante.
 * Trihecta se balancea.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_action_1
@@ -3384,7 +3384,7 @@ scr_battle_core_directory_flavor_text_enemy_1_action_3
 * Decibat no puede escuchar#  sus pensamientos.
 * Decibat está perdiendo la#  paciencia contigo.
 * Decibat mueve sus grandes#  orejas.
-* Decibat se está#  duermiendo.
+* Decibat se está#  durmiendo.
 * Decibat disfruta del silencio.
 * Decibat te hace un gesto de#  aprobación.
 * Decibat se ve un poco más#  en paz.
@@ -3467,7 +3467,7 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * Smells like freshly opened#  textbooks!
 * Ms. Mettaton.
 * Todo tiene ese aroma a#  carro nuevo con un poco de#  perfume.
-* Penilla dibuja un sketch#  de ti.
+* Penilla dibuja un bosquejo#  de ti.
 * Huele a cera de vela#  quemándose.
 * Crispy Scroll pregunta si puede#  tomarse una foto contigo.
 * Quedas cegado momentaneamente#  por el deslumbrante#  brillo de Rorrim.
@@ -3766,7 +3766,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_9
 * Ms. Mettaton is totally sparing you!
 * Flier está listo para volver a#  su vida normal.
 * Penilla está recogiendo sus#  utensilios de arte por hoy.
-* Sweet Corn sonríe#  contentamente.
+* Sweet Corn sonríe#  satisfecho.
 * Crispy Modo 2k!!
 * Rorrim está en búsqueda#  de su siguiente gran#  proyecto.
 * Decibat está listo para volver#  a dormir.
@@ -4120,7 +4120,7 @@ enemy_low_hp_3
 * SWEET CORN -- ATQ 
 #* Constantemente en un subidón#  de azúcar.
 * CRISPY SCROLL -- ATQ 
-#* Buscando a alguien que pueda#  desafiar su entusiasmo.
+#* Buscando a alguien que pueda#  igualar su entusiasmo.
 * RORRIM -- ATQ 
 #* La expresión de Rorrim está#  en blanco.
 * DECIBAT -- ATQ 
@@ -12670,7 +12670,7 @@ actor_axis
 * Wuwuwu aaaaAAAAAAAAAAAAAAA#  hehe~
 * (Uh, nevermind.)
 * Wiggle woggle~
-* There you are!
+* ¡Ahí está!
 * I shouldn't have fled#  like I did...	
 * You kept going. Kept#  destroying lives.	
 * This isn't self defense#  like I once assumed.	
@@ -15911,8 +15911,8 @@ Guardar
 Regresar
 point_selected
 Snowdin - Bosque
-Dunes - West Mines
-Dunes - Oasis Valley
+Dunes - Minas del Este
+Dunes - Valle del Oasis
 Salvaje Este - Granja
 * Are you sure you want to#  drop the 
 * You cannot drop the#  
@@ -16706,10 +16706,10 @@ distance_to_clover
 * Y así pasar de sala#  a sala.
 * Permíteme demostrarlo.
 * Somos libres de#  proceder ahora. 
-* Sígueme mi niño.#* Hay más puzzles por#  delante.
+* Sígueme, mi niño.#* Hay más puzzles por#  delante.
 * En esta sala, deberás#  de activar varios#  interruptores.
 * No te preocupes, he#  marcado los que#  necesitas activar.
-* Oh, ¿Necesitas#  ayuda?
+* Oh, ¿necesitas#  ayuda?
 * Por favor, activa#  el interruptor en la#  pared norte.
 * ¡Espléndido! Estoy#  orgullosa de ti,#  mi niño. 
 * Vamos, ¡yo creo en ti!
@@ -16941,12 +16941,12 @@ genoCount
 * D-debo estar alucinando...
 cam2
 * ¿Es malo dudar de mis#  acciones?
-* Antes disfrutaba la vida...#  Lo hacía... Pero no hay#  vuelta atrás.
+* Antes disfrutaba la vida...#  Lo hacía... Pero puedo#  volver atrás.
 * Lo que pasó ese día solo#  se repetiría.
-* ¿Por qué apareces cada vez#  que empiezo a monologar? 
+* ¿Por qué aparecen cada vez#  que empiezo a monologar? 
 * Necesito descansar más.
 * ¡Ah!
-* No sé quien eres pero...
+* No sé quien eres pero#  te pido...
 * ¡Por favor, lárgate!
 * ¿Todavía... me sigues?
 * Pensé que habia dejado en#  claro que quiero estar#  en paz
@@ -17099,7 +17099,7 @@ __b__
 * GO HOME!!!
 y1
 y2
-* Te declaro centinela#  del silencio.
+* Te declaro un honorario#  centinela del silencio.
 * Confío en ti para mantener#  la paz y el orden#  del ruido.
 * Iré a conquistar nuevas#  tierras en el nombre de#  la tranquilidad.
 * Esto es un hhonor muy grande#  así que mantenlo secreto#  hhush hhush.
@@ -17226,7 +17226,7 @@ Prepárate para mi#más fuerte#ataq-
       FLOWEY  
 * ¡FLOWEY la FLOR!
    FLOWEY    FLOR 
-* Pareces una persona#  bastante segura de#  si misma.
+* Pareces una persona#  bastante segura de#  sí misma.
 * No debería tenerte#  aquí todo el día,#  ¿verdad?
 * ¡No quisiera ser un#  estorbo!
 * Te dejaré ir pero#  al menos debes#  saber esto:
@@ -17284,7 +17284,7 @@ Prepárate para mi#más fuerte#ataq-
 #             ASGORE
 * (Según la lista de precios,#  es un puesto de limonada:#  5 de oro el vaso.)
 * (¿Tomar un poco?)
-* (Te sirves un vaso pero#  no hay ningún colaborador que#  coja tu dinero. Mal servicio.)
+* (Te sirves un vaso pero no hay#  ningún colaborador que coja#  tu dinero. Que mal servicio.)
 * (¿Dejar una propina?)
 * (Ya no queda limonada.)
 * (¿Cuánto?)
@@ -17292,7 +17292,7 @@ Prepárate para mi#más fuerte#ataq-
 * (Dejas todo lo que tienes#  en el frasco de las propinas.)
 * (No tienes oro.)
 * (Partes una moneda a la mitad#  y debates que mitad tirar#  antes de lanzar una al azar.)
-* (Ambos son inútiles de todas#  formas asi que no te importa#  realmente.)
+* (Ambas son inútiles de todas#  formas asi que no te importa#  realmente.)
 * (Empujas la puerta.)
 * (No se mueve.)
 dr
@@ -21236,104 +21236,104 @@ wind_sound
 * Me dijo que te#  acompañaría en el#  viaje a Hotland.
 * Así que, ¡todo#  saldra bien!
 * De nuevo, lo-lo-lo#  siento mucho, pero-#  ¡hasta luego!
-* (You hear whispering coming#  from the cellar.)
-* (The cellar is locked. Must be#  where the harvest is stored.)
-* (You attempt to turn the pump#  on but the handle won't budge.)
-* (A water pump.)
-* Welcome to Sunnyside Farm!
-* It ain't much but we call it#  home!
-* My name's Solomon.
-* You must be from Starlo's#  town, eh?
-* I have mixed feelin's about it#  all, if I'm bein' honest.
-* The boy rarely talks to us,#  it's a shame.
-* He probably thinks we hate his#  life choices but that just#  ain't true.
-* It's because of him that our#  farm stayed in business durin'#  the ol' drought.
-* His little town attracted#  monsters to this area after#  most moved away.
-* I believe that deep down,#  savin' the farm was his true#  motivation, I do.
-* I think it's real flatterin',#  the accent Starlo puts on fer#  his character.
-* He almost sounds like his ol'#  man, he does.
-* In reality, my boys both got#  Crestina's voice, lucky fellas.
-* Before they were born, she#  would always sing so#  purtty-like.
-* I never hear it no more,#  though.
-* Guess she lacks the confidence#  now. Ain't that sad?
-* The crops are lookin' mighty#  fine if I do say so.
-* I would give ya some but they#  ain't quite ready to eat.
-* If ye're around Oasis Valley#  this weekend, stop by the#  farmers market!
-* Sorry, can't talk long. I'm#  preparing for harvest.
-* (Must be one of those Wild#  East folk.)
-* Huh? No, I didn't say#  anything.
-* Have you been to Snowdin?
-* I've heard rumors of our crops#  being cultivated around those#  parts.
-* I'm thinking of opening up an#  investigation soon.
-* I'm not bored or anything,#  just wanna protect the#  business.
-* Don't you have role-playing to#  do or something?
-* Shootouts? Inconveniencing#  pedestrians? That's all bro#  does after all.
-* He's always up to something;#  having fun while I'm stuck with#  the farm work...
-* Go on. I have work to do.
-* Oh, hello little one!
-* Are you a friend of my son's?
-* He's always making new#  friends, I can't keep up.
-* In any case, make yourself at#  home!
-* I do hope Starlo grows out of#  this state eventually.
-* He needs to find himself a#  wife and settle down.
-* If only he won Ceroba's heart#  back then...
-* I think he was too shy to take#  initiative, poor boy.
-* When she got engaged to#  Chujin, he didn't set foot#  outside for days.
-* I eventually had to tell him#  to move on. It was very#  difficult.
-* Sigh... heartbreak is always#  tragic.
-* I better start thinking about#  dinner...
-* I wonder if Gilbert and Angie#  are busy?
-* Hmm... I'm sure they're free.#  After all, there's never a bad#  time for a BBQ!
-* Hello again! I have some news!
-* You now can ship yourself, if#  you so choose!
-* "Ship myself? What could that#  mean?"
-* Transportation, all for free!
-* If you want to travel, give me#  a call!
-* We will set to the skies#  without a care at all!
-* Now I must go but don't be#  nervous...
-* Just ring the bell for our#  service!
-* I was about to come#  looking for you.
-* So... The Steamworks.
-        The Steamworks 
-* May I ask why we are#  here?
-* Because of this.
-* The mask Kanako made#  for you...
-           Kanako                  
-* You see, Clover, Kanako#  is me and Chujin's only#  child.
-* You haven't seen her#  around because she...
-* Hey, everything will#  be okay.
-* I know how tough you#  are. You can move past#  this, I'm positive.
-* There's no need,#  because she's alive.
-* I feel her presence as#  we speak.
-* The Lab...
-* Precisely.
-* Clover, you may not#  know this, but there is#  a Lab in Hotland.
-* An inquiry for the#  "fallen down" was sent#  out some time ago.
-* I didn't know what#  else to do...
-* In my time of despair,#  I sent Kanako with them.
-* It's been far too#  long and I haven't#  heard anything.
-* I must travel to the#  Lab to find out where#  my daughter is.
-* I'm proud of you,#  Ceroba. Stepping out and#  taking charge.
-* You've been in a rut#  lately. It was tough#  to watch.
-* S-so, why travel#  through the Steamworks#  particularly?
-* It's the quickest route#  to Hotland from here.
-* Nothing but abandoned#  rooms as far as I know.
-* I have Chujin's old#  passcodes for any#  locked doors as well.
-* Solid plan.
-* If you need me, I would#  be happy to accompany#  you!
-* I don't know how ugly#  things at the Lab may#  get.
-* You need to stay here#  and take care of the#  town.
-* ...I believe you owe#  your posse an#  apology.
-* You're right...
-* I'll take Clover with#  me.
-* They've proven to be#  skilled on several#  fronts.
-* An excellent choice. I#  trust Clover to deliver#  justice out there!
-* Alright, we've#  discussed enough. Let's#  get moving.
-* I'll see you later,#  Starlo.
-* Whatever happens,#  remember that this is#  for Chujin's legacy.
-* Oh! Clover! Before you#  go, I forgot to give you#  this.
-* Remember, I'm in#  charge.
-* Stay close by and we'll#  reach our destination#  soon.
+* (Se oyen susurros#  procedentes del#  sótano.)
+* (La bodega está cerrada. Debe#  ser donde se almacena#  la cosecha.)
+* (Intentas encender la#  válvula,  pero la manivela#  no se mueve.)
+* (Una bomba de#  agua.)
+* ¡Bienvenido a la Granja#  lado soleado!
+* No es mucho, pero lo#  llamamos hogar.
+* Me llamo Salomón.
+* Debes ser del pueblo de#  Starlo, ¿eh?
+* Tengo sentimientos encontrados#  al respecto, si te#  soy sincero.
+* El chico rara vez habla con#  nosotros, es una pena.
+* Probablemente piense que#  odiamos sus decisiones pero,#  pero eso no es cierto.
+* Gracias a él, nuestra granja#  siguió funcionando durante#  la sequía.
+* Su pequeño pueblo atrajo#  monstruos a esta zona después#  de que la mayoría se marchara.
+* Creo que en el fondo, #  salvar la granja era su#  verdadera motivación, creo.
+* Creo que es muy halagador el#  acento que Starlo le#  pone a su personaje.
+* Casi suena como su viejo,#  sí.
+* En realidad, mis hijos#  tienen la voz de#  Crestina, qué suerte.
+* Antes de que nacieran,#  ella siempre cantaba tan#  elegante.
+* Aunque ya no lo oigo#  nunca.
+* Supongo que ahora le falta#  confianza. ¿No es triste?
+* Los cultivos se ven muy bien,#  si me permiten decirlo.
+* Te daría un poco, pero aún#  no están listos para comer.
+* Si estás por Oasis Valley#  este fin de semana, ¡pásate por#  el mercado de agricultores!
+* Lo siento, no puedo hablar#  mucho. Me estoy preparando#  para la cosecha.
+* (Debe ser una de esas#  personas del Salvaje Este.)
+* ¿Eh? No, no he dicho#  nada.
+* ¿Has estado en Snowdin?
+* He oído rumores de que#  nuestras cosechas se#  cultivan por esos lugares.
+* Estoy pensando en abrir una#  investigación pronto.
+* No estoy aburrido ni nada,#  sólo quiero proteger el#  negocio.
+* ¿No tienes un juego de rol#  que hacer o algo así?
+* ¿Tiroteos? ¿Molestar a los#  peatones? Eso hace el#  hermano, después de todo.
+* Siempre está tramando algo;#  divirtiéndose mientras yo#  estoy trabajando en la granja...
+* Vete. Tengo trabajo que#  hacer.
+* ¡Oh, hola pequeño!
+* ¿Eres amigo de mi hijo?
+* Siempre está haciendo nuevos#  amigos, no puedo#  seguirle el ritmo.
+* En cualquier caso, ¡siéntete#  como en casa!
+* Espero que Starlo supere#  este estado con el#  tiempo.
+* Tiene que buscarse una esposa#  y sentar la cabeza.
+* Si tan sólo se hubiera ganado#  el corazón de Ceroba#  en aquel entonces...
+* Creo que era demasiado tímido#  para tomar la iniciativa,#  pobre chico.
+* Cuando se comprometió con#  Chujin, él no puso un pie#  fuera durante días.
+* Al final tuve que decirle que#  siguiera adelante. Fue muy#  difícil.
+* Sigh... la ruptura es#  siempre trágica.
+* Mejor empiezo a pensar#  en la cena...
+* Me pregunto si Gilbert y Angie#  estarán ocupados.
+* Hmm... Después de todo,#  ¡nunca es mal momento#  para una barbacoa!
+* ¡Hola de nuevo!#  ¡Tengo algunas#  noticias!
+* Ahora puedes enviarte a ti#  mismo, ¡si así lo deseas!
+* "¿Enviarme a mí mismo?#  ¿Qué podría significar#  eso?"
+* Transporte, ¡todo#  gratis!
+* Si quieres viajar,#  ¡llámame!
+* Nos lanzaremos a los#  cielos ¡sin ningún#  cuidado!
+* Ahora debo irme, pero no#  te pongas nervioso...
+* No tiene más que llamar#  al timbre para solicitar#  nuestro servicio.
+* Estaba a punto de ir a#  buscarte.
+* Asi que... Steamworks.
+             Steamworks 
+* ¿Puedo preguntar por#  qué estamos aquí?
+* Por esto.
+* La máscara que Kanako#  hizo para ti...
+                 Kanako                  
+* Verás, Clover, Kanako#  es mi única hija mía#  y de Chujin.
+* No la has visto por#  ahí porque...
+* Oye, todo saldrá bien.
+* Sé lo dura que eres.#  Puedes superar esto,#  estoy seguro.
+* No hay necesidad,#  porque está viva.
+* Siento su presencia#  mientras hablamos.
+* El Laboratorio...
+* Precisamente.
+* Clover, puede que no#  lo sepas, pero hay un#  laboratorio en Hotland.
+* Una consulta sobre el#  "caído" fue enviada#  hace algún tiempo.
+* No sabía qué otra cosa#  hacer...
+* En mi momento de#  desesperación, envié#  a Kanako con ellos.
+* Ha pasado demasiado#  tiempo y no he#  oído nada.
+* Debo viajar al#  Laboratorio para saber#  dónde está mi hija.
+* Estoy orgulloso de ti,#  Ceroba. Dando un paso al#  frente y te haces cargo.
+* Has estado en un atasco#  últimamente. Ha sido#  duro de ver.
+* Entonces, ¿por qué ir#  a través de Steamworks#  en particular?
+* Es la ruta más rápida#  a Hotland desde aquí.
+* Nada más que#  habitaciones abandonadas#  que yo sepa.
+* También tengo las#  contraseñas de Chujin de#  las puertas cerradas.
+* Un plan sólido.
+* Si me necesitas,#  ¡estaré encantado de#  acompañarte!
+* No sé lo feas que se#  pueden poner las cosas#  en el laboratorio.
+* Tienes que quedarte#  aquí y cuidar de la#  ciudad.
+* ...creo que le debes#  una disculpa a#  tu pandilla.
+* Tienes razón...
+* Me llevaré a Clover#  conmigo.
+* Han demostrado ser#  hábil en varios#  aspectos.
+* Una elección excelente.#  ¡Confío en que Clover#  hará justicia ahí fuera!
+* Muy bien, ya hemos#  hablado suficiente.#  Pongámonos en marcha.
+* Te veré más tarde,#  Starlo.
+* Pase lo que pase,#  recuerda que esto es#  por el legado de Chujin.
+* ¡Oh! ¡Clover! Antes#  de que te vayas,#  olvidé darte esto.
+* Recuerda, yo estoy#  a cargo.
+* Quédate cerca y#  llegaremos pronto#  a nuestro destino.
 footstep_timer
 footstep_timer_npc
 footstep_timer_follower
@@ -21343,35 +21343,35 @@ flash_speed
 sound_probability
 sound_last
 sound_to_play
-* Keep up, Clover.
-* We don't have all the#  time in the world.
-* I see something. Follow#  me.
-* (It somehow broke.)
-* (A rusty power generator.)
-* (You're not sure if it still#  works.)
-* (The generator is working#  overtime to provide power.)
+* Sigue así, Clover.
+* No tenemos todo el#  tiempo del mundo.
+* Veo algo. Sígueme.
+* (De alguna manera#  se rompió.)
+* (Un generador de energía#  oxidado.)
+* (No estás seguro de si#  todavía funciona.)
+* (El generador está trabajando#  horas extras para#  suministrar energía.)
 bombs
-* Guess I should've#  expected this.
-* In its prime, this was#  the main power source of#  the Underground.
-* That, obviously, was#  many years ago.
-* Until we breathe life#  back into this thing, we#  can't progress.
-* There's some kinda#  console here.
-* Maybe one of Chujin's#  codes will work? Just#  give me a second.
-* In the meantime, you#  can... wait over in the#  corner or something.
-* I need to concentrate#  right now.
-* I think I'm getting#  somewhere. Hold on.
-* Almost got it! Didn't#  think this would#  actually work!
-* It's working!
-* Wait... What have you#  been up to?
-* I... wasn't actually#  doing anything this#  whole time was I?
-* Ugh, alright. You're#  clearly more capable of#  problem solving.
-* I suppose you should#  lead the way from now#  on.
-* Just head west from#  here and we'll reach#  Hotland eventually.
+* Supongo que debería#  haberme esperado#  esto.
+* En sus mejores tiempos,#  fue la principal fuente#  de energía del Subsuelo.
+* Eso, obviamente, fue#  hace muchos años.
+* Hasta que no devolvamos#  la vida a este asunto,#  no podremos progresar.
+* Aquí hay una especie#  de consola.
+* ¿Quizás uno de los#  códigos de Chujin sirva?#  Dame un segundo.
+* Mientras tanto,#  puedes... esperar en#  la esquina o algo así.
+* Necesito concentrarme#  ahora mismo.
+* Creo que estoy#  llegando a alguna#  parte. Espera.
+* ¡Casi lo consigo! ¡No#  pensé que esto#  funcionaría!
+* ¡Funciona!
+* Espera... ¿Qué has#  estado haciendo?
+* Yo... en realidad no#  he estado haciendo nada#  todo este tiempo, ¿verdad?
+* De acuerdo. Claramente#  eres más capaz de#  resolver problemas.
+* Supongo que deberías#  marcar el camino a#  partir de ahora.
+* Dirígete al oeste#  desde aquí y llegaremos#  a Hotland.
 ceroba_x_dest
 ceroba_end_dir
-* This sure is a pickle.
-* I'm not certain my#  pellets would do any#  good on this door.
-* Maybe there's a key#  somewhere? Be creative,#  pal!
+* Esto sí que es#  un problema.
+* No estoy seguro de que#  mis perdigones sirvan de#  algo en esta puerta.
+* ¿Quizás haya una llave#  en alguna parte? ¡Sé#  creativo, amigo!
 liquid_image_index
 liquid_amount
 liquid_target
@@ -21379,8 +21379,8 @@ liquid_noloop
 liquid_overlay_alpha
 liquid_overlay_deg
 liquid_active
-* (The valve won't budge.)
-* (Best not to disturb the#  pressure you've set.)
+* (La válvula no se mueve.)
+* (Mejor no alterar la#  presión que has#  establecido.)
 shift_amount
 completed
 ding_sound
@@ -21406,13 +21406,13 @@ yy_needle
 attack_started
 attack_can_end
 block_successful
-* Hey Clover, come back here.#  I think I figured it out.
-* Another team-up? You're#  wasting your time,#  buddy.
-* So far, these monsters#  have only brought you#  misfortune.
-* I feel like following#  that lady's orders won't#  end any differently.
-* Especially with that#  "lab" business...
-* Just try your best to#  move things along and#  not get sidetracked.
-* Hopefully we can talk#  soon. Good luck, Clover!
+* Hey Clover, vuelve aquí.#  Creo que lo#  resolví.
+* ¿Otro equipo? Estás#  perdiendo el tiempo,#  amigo.
+* Hasta ahora, estos#  monstruos sólo te#  han traído desgracias.
+* Siento que seguir las#  órdenes de esa señora no#  acabará de otra manera.
+* Especialmente con ese#  asunto del "laboratorio"...
+* Haz lo que puedas para#  que las cosas avancen#  y no te desvíes.
+* Espero que podamos#  hablar pronto.#  ¡Buena suerte, Clover!
 ball_delay_list
 * (There's food inside the#  machine.)
 * (You find a stick of beef#  jerky inside the machine.)
@@ -23333,7 +23333,7 @@ Entonces...#lo pegaré de#nuevo.
 Un sacapuntas#sería útil#en estos#momentos...
 Debo mantener#filosas mis#habilidades!
 La vida del#artista es pura#soledad.
-Así que mi#trabajo a mano#llevó a esto?
+¿Así que mi#trabajo a mano#llevó a esto?
 Zer o no Zer?
 Quería que él#se fuera, pero#no así!
 Pero ella era#tan dulce!
@@ -23381,7 +23381,7 @@ No puedo hacerlo con monstruos mirando...
 AAAAAAAAAAAAAAAA#AAAAAAAAAAAAAAAA#AAAAAAAAAAAAAAAA#AAAAAAAAAAAAAAAA#AAAAAAAAAAAAAAAA
 No puedo hacerlo#con monstruos#mirando...
 Ni siquiera#lo haces bien!
-¡Espera! ¿Hablas#con fluidez#referencia?
+¡Espera! ¿Hablas#referencias#con fluidez?
 Puedo sentir el#poder recorriendo#mis cintas!
 No tienes#respeto por la#forma artística.
 ¡Ey! ¡Yo no#juzgo tus#headcanons!
@@ -24601,7 +24601,7 @@ CONFIG. DEL JUEGO
 ACCESIBILIDAD
 Sacudir al sufrir daño:
 Siempre reintentar:
-CORRER AUTOMATICAMENTE:
+CORRER AUTOMÁTICAMENTE:
 AUTODISPARO (mantener [C]):
 RITMO AUTOMÁTICO:
 MODO FÁCIL:
@@ -25545,9 +25545,9 @@ I NEED MORE TIME!!!
 Y O U . . .
 Y O U  C A N ' T#W I N .
 Y O U  C A N ' T#. . .
-* (A picture of two monsters#  you've met.)
-* (A picture of Starlo and#  Ceroba as teenagers.)
-* I freaking suck at dancing!
+* (Una foto de dos monstruos#  que has conocido.)
+* (Una foto de Starlo y#  Ceroba de#  adolescentes.)
+* ¡Soy malísimo bailando!
 frame_current
 bullet_burst
 attack_frame_current

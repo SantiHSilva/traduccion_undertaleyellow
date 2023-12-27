@@ -19,3 +19,7 @@ Traducir What's\nwrong	Nothing
 gml_Object_obj_miner_uwu_Step_0
 Traducir Nothing
 		 Nada
+
+gml_Object_obj_mail_whale_Step_0
+Traducir Mail
+	 Correo
