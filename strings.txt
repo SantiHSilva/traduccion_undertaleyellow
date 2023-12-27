@@ -188,7 +188,7 @@ Spray Bottle
 gml_Script_scr_enemy_timer_attacks_jandroid_solo
 gml_Script_scr_enemy_timer_attacks_jandroid_duo
 scr_enemy_timer_attacks_jandroid_duo
-* You hold your ground while#  the chaos unfolds around you.
+* Te mantienes firme mientras#  el caos se despliega#  a tu alrededor.
 act_number
 Action 1 Message 0
 gml_Script_scr_dialogue_battle_action_selected_action_1_feisty_four
@@ -1044,17 +1044,17 @@ view_camera
 camera_set_view_target
 gml_Script_cutscene_camera_reset
 cutscene_camera_reset
-* Time to get feisty!
+* ¡Es hora de pelearse!
 text_deadlock_message
-* Ed pounds his fists together#  triumphantly!
-* Moray sharpens their blade.
-* Ace is practicing sleight of#  hand.
-* Mooch looks around suspiciously.
-* The four are bickering.
-* Mooch and Ace are playing 52#  card pickup.
-* Moray leans on Ed to rest up.
-* Smells like teamwork.
-* The four are deciding who#  attacks next.
+* ¡Ed cierra los puños#  triunfalmente!
+* Moray afila su cuchilla.
+* Ace está practicando#  juegos de manos.
+* Mooch mira a su alrededor#  con desconfianza.
+* Los cuatro están discutiendo.
+* Mooch y Ace están jugando a#  recoger cartas de 52.
+* Moray se apoya en Ed#  para descansar.
+* Huele a trabajo en equipo.
+* Los cuatro están decidiendo#  quién será el siguiente#  en atacar.
 string_length
 gml_Script_scr_recreate_heart_battle_menu_text_feisty_four
 scr_recreate_heart_battle_menu_text_feisty_four
@@ -1271,14 +1271,14 @@ jandroid b
 gml_Script_scr_generate_battle_jandroid_duo
 scr_generate_battle_jandroid_duo
 random_message
-* You point at the#  Hospital frantically.#* They don't notice.
-* You throw sand into the air.#* Your clothes are dirty.
-* You fire your gun at the bell.#* You hear a nice ring.
+* Señalas al Hospital#  frenéticamente.#* No se dan cuenta.
+* Tiras arena al aire.#* Tu ropa está sucia.
+* Disparas tu arma a la#  campana.#* Oyes un bonito timbre.
 gml_Script_scr_dialogue_battle_action_selected_action_2_feisty_four
 scr_dialogue_battle_action_selected_action_2_feisty_four
-* You see if Telly's antennas#  still function. They do not.
-* You help Telly finagle her#  antennas to find some#  programming.
-* You attempt to touch Telly's#  antennas again but she motions#  you away.
+* Ve si las antenas de Telly#  todavía funcionan.#  No funcionan.
+* Ayudas a Telly a encontrar#  algo de# programación.
+* Vuelves a intentar tocar las#  antenas de Telly, pero ella hace#  un gesto para que te alejes.
 gml_Script_scr_dialogue_battle_action_selected_action_3_tellyvis_a
 scr_dialogue_battle_action_selected_action_3_tellyvis_a
 screenshake_noloop
@@ -2634,7 +2634,7 @@ gml_Script_scr_save_flowey_dunes
 * Intenta no distraerte#  de la verdadera misión.
 * ¡Ánimo, "socio"!
 * Temía que las#  cosas escalaran.
-* Nada a lo que no estés#  completamente acostumbrado#  a estas alturas.
+* Nada a lo que no estés#  completamente impuesto#  a estas alturas.
 * Este es probablemente#  un buen momento para#  salir de aquí.
 * Todo ha ido#  demasiado lejos,#  ¿no crees?
 * Pase lo que pase,#  ¡te deseo suerte,#  Clover!
@@ -4068,7 +4068,7 @@ action_3_color_3
 * Deny
 * Mock
 * Bite
-* Smirk
+* Sonreir
 * Signal
 * Analyze
 * Needle
@@ -4177,7 +4177,7 @@ enemy_low_hp_3
 #* El almirante Sheriff.
 #* El no-tan-almirante Sheriff.
 * ED -- ATQ 
-#* El equipo ensueño!
+#* ¡El equipo ensueño!
 * MORAY -- ATQ 
 * ACE -- ATQ 
 * MOOCH -- ATQ 
@@ -6494,7 +6494,7 @@ d3d_model_vertex
 d3d_model_vertex_color
 gml_Script_d3d_model_vertex_colour
 d3d_model_vertex_colour
-* You smirk at the four's antics.#* They're trying.
+* Sonríes ante las bromas de#  los cuatro. #* Lo están intentando.
 scr_dialogue_battle_action_selected_action_3_feisty_four
 d3d_model_vertex_normal
 d3d_model_vertex_normal_color
@@ -9732,15 +9732,15 @@ A few panicked townsfolk ran up to#me saying that a human had entered#the area.
    Prove I can save monsterkind...#   another way.
           This is Chujin.
  After years of research, I've made# a breakthrough!
-  Boss Monsters... They may be the#  key to monsterkind's survival.
+  Monstruo Jefes... They may be the#  key to monsterkind's survival.
 I was able to reach this conclusion#because Yo... 
- ...I carry the Boss Monster gene.
+ ...I carry the Monstruo Jefe gene.
 This means my SOUL is much stronger#than that of other monsters.
-  More importantly, Boss Monsters#  are immortal until they produce#  offspring.
+  More importantly, Monstruo Jefes#  are immortal until they produce#  offspring.
  Right now, monsterkind is few in# numbers compared to humanity but... 
-  ...What if anyone could become#  a Boss Monster like me? Like...#  Kanako?
+  ...What if anyone could become#  a Monstruo Jefe like me? Like...#  Kanako?
   As a nation, an army, we could#  finally possess enough power to#  take the Surface back!
-  My theory for this involves the#  fusion of a human SOUL and a#  Boss Monster SOUL.
+  My theory for this involves the#  fusion of a human SOUL and a#  Monstruo Jefe SOUL.
    From that, a serum would be#   extracted which could transform#   any average monster.
   ...Unfortunately, I have not#  garnered enough proof that said#  serum is possible.
      I must conduct more tests.
@@ -9758,10 +9758,10 @@ Over and over, the subject rejected#the fusion, and I think I know why.
   After I'm gone... look for the#  next human who falls down here.
        Someone pure of heart#       - uncorrupted.
    I need you to obtain their SOUL#   but not just anywhere... 
-  You must have a Boss Monster SOUL#  nearby to fuse with.
+  You must have a Monstruo Jefe SOUL#  nearby to fuse with.
             You'll need...
           ...Damn it all.
-Search for a willing Boss Monster#in the Underground. Someone else...#please.
+Search for a willing Monstruo Jefe#in the Underground. Someone else...#please.
    Our little girl... Kanako...#   She needs to live a happy life,#   unaffected by my endeavors.
        That is my final wish.
 HOW?
@@ -9836,50 +9836,50 @@ soul3
 floorlights_middle
 exclamation_mark_type
 chest
-That's fer the train#insults, Mooch!
-Let's see if ya can#pass round two, kid!
+¡Eso es por el tren#de insultos,#Mooch!
+¡A ver si pasas el#segundo asalto,#niño!
 talk_script
-* What would you like to#  wear tomorrow, honey?
-* Solomon and Crestina#  are paying a visit, and#  bringing food too.
-* I'll help you up and we#  can all enjoy a picnic#  on the front porch.
-* How's that sound?
+* ¿Qué te gustaría ponerte#  mañana, cariño?
+* Salomón y Crestina#  están de visita, y#  también traen comida.
+* Te ayudaré a levantarte y#  podremos disfrutar de#  un picnic en el porche.
+* ¿Qué te parece?
 * Ceroba.
-* ...Sí?
-* I don't...
+* ...¿Sí?
+* No sé...
 * Heh.
-* This is all so pitiful.
-* Oye... don't say that.
-* We don't need to have#  anyone over.
-* It could just be us.
-* A picnic sounds lovely.
-* I want you and Kanako#  to have one, surrounded#  by your closest friends.
-* What are you saying?
+* Todo esto es tan#  lamentable.
+* Oye... no digas eso.
+* No necesitamos tener#  a nadie encima.
+* Podríamos ser sólo#  nosotros.
+* Un picnic suena encantador.
+* Quiero que Kanako y tú tengan#  uno, rodeados de#  sus mejores amigos.
+* ¿Qué estás diciendo?
 * Yo...
 * Gosh...
-* I never was afraid of#  it all my life but now#  that it's so close...
+* Nunca le tuve miedo en#  toda mi vida, pero ahora#  que está tan cerca...
 * No...
-* Shut up. Stop it.
-* Say it like it is or#  don't say anything.
-* I can't do this. Not#  now.
-* I'm sorry.
-* There's something I#  must tell you.
-* My work... We never#  talked about it much,#  did we?
-* We didn't.
-* When I built this#  house, I installed a#  basement.
-* What...? 
-* The entrance is under#  the kotatsu. Always has#  been.
-* There, I worked towards#  a project.
-* Something much bigger#  than myself. Bigger than#  all of us.
-* I don't understand...
-* I recorded a message#  for you.
-* When I'm gone, I would#  like you to view it.
-* Will you do that for#  me?
-* I will.
-* I promise you, I will.
-* I haven't seen tears#  from you since we met at#  the crossing.
-* I save them for the#  moments that matter.
-* I'm glad...
-* Because this moment#  matters a lot to me.
+* Cállate. Para.
+* Di las cosas como son#  o no digas nada.
+* No puedo hacer esto.#  Ahora no.
+* Lo siento.
+* Hay algo que debo#  decirte.
+* Mi trabajo... Nunca#  hablamos mucho de#  eso, ¿verdad?
+* No lo hicimos.
+* Cuando construí esta#  casa, instalé un#  sótano.
+* ¿Qué...? 
+* La entrada está debajo#  del kotatsu. Siempre#  lo ha estado.
+* Allí trabajé para#  un proyecto.
+* Algo mucho más grande#  que yo. Más grande#  que todos nosotros.
+* No lo entiendo...
+* He grabado un mensaje#  para ti.
+* Cuando me vaya, me#  gustaría que lo#  vieras.
+* ¿Harías eso por mí?
+* Lo haré.
+* Te prometo que lo haré.
+* No he visto lágrimas#  tuyas desde que nos#  conocimos en el puente.
+* Los guardo para los#  momentos que importan.
+* Me alegra...
+* Porque este momento#  me importa mucho.
 Background_flashback
 spin_speed
 spin_speed_max
@@ -9890,9 +9890,9 @@ petal_phase_number
 shake_modifier
 stage_switch
 can_fall
-Don't be so#kind next time.
-* What now? His SOUL#  gauge is pulsing...
-* You have any ideas?
+No seas tan#amable la#próxima vez.
+* ¿Y ahora qué? Su medidor#  de ALMA está pulsando...
+* ¿Tienes alguna idea?
 launch_speed
 laser_active
 laser_speed
@@ -10036,9 +10036,9 @@ turn_angle_target
 steam_chance
 can_steam
 steam_sound
-Nice attack, Edward!
-You're doing a#good job as well,#Clover!
-Ready for this?
+¡Buen ataque, Edward!
+¡También estás#haciendo un buen#trabajo,#Clover!
+¿Listo para#esto?
 fade_in
 speed_max
 accel_speed
@@ -11511,7 +11511,7 @@ ypos5
 * That doesn't make it better!!!
 * We'll be back after these#  messages!
 * Man, I hope not.
-Sigh... Mooch?
+¿Sigh... Mooch?
 geno_target_angle
 id_store
 id_feather
@@ -11617,13 +11617,13 @@ CALLInG MR. Ch , . _
 CAL-L , , i n g _
 CRe. ...
 creator.
-* North Star is the worst! Hate#  that guy.
-* ...Right?
-* Heh, I don't ACTUALLY think#  North Star sucks.
-* I just say whatever's popular#  in hopes to rise in the Wild#  East ranks.
-* I uh... I kinda need North#  Star to return asap.
-* Who else am I supposed to#  blindly follow in life? My dad?
-* Sure, if I wanna grill meat#  and browse sketchy Undernet#  pages all day.
+* ¡North Star es#  lo peor! Odio#  a ese tipo.
+* ...¿verdad?
+* No creo REALMENTE que North#  Star apeste.
+* Sólo digo lo que es popular#  con la esperanza de ascender#  en Salvaje Este.
+* Necesito que North Star#  vuelva cuanto antes.
+* ¿A quién más se supone que#  debo seguir ciegamente en#  la vida? ¿A mi padre?
+* Claro, si quiero asar carne#  navegar por páginas de Undernet#  todo el día.
 No pierdes el#tiempo, ¿Eh?
 Sabes...
 Toda mi vida...
@@ -12546,8 +12546,8 @@ mus_pos
 mus_length
 glitch_out
 draw_surface_ext
-Now, now.#Quit holding#back, everyone.
-Use your trump#cards!
+Ahora, ahora.#Dejen de#contenerse,#todos.
+¡Usen sus cartas#de triunfo!
 * Two paths...
 * Espera...
 * That symbol, I've seen#  it on Chujin's work#  uniform.
@@ -12899,7 +12899,7 @@ Our little girl... Kanako... She#  needs to live a happy life,#  unaffected by m
 * You've been trying to#  finish it, haven't you?
 * With my limited#  abilities... yes.
 * But it doesn't involve#  you.
-* I've been looking into#  ways to create the serum#  without a Boss Monster.
+* I've been looking into#  ways to create the serum#  without a Monstruo Jefe.
 * I'll... figure it out.#  I have to.
 * I found this in the#  trash.
 * ¡! 
@@ -12947,8 +12947,8 @@ Our little girl... Kanako... She#  needs to live a happy life,#  unaffected by m
 * Mommy's here, come on! 
 * What...
         What have I done?
-Hello, Clover!
-I'm very sorry about#this, but I've been#bored all day!
+¡Hola, Clover!
+Siento mucho#esto, ¡pero he estado#aburrido todo#el día!
 door_menu_open
 door_solution
 instance_deactivate_object
@@ -13101,7 +13101,7 @@ hspeed_new
 layer_sequence_get_y
 x_diff
 attack_cycle: 
-It's my time to shine!
+¡Es mi hora de#brillar!
 scratch_instance
 ring_frequency
 attack_speed_modifier
@@ -13462,7 +13462,7 @@ Hotel Shop
 bullet_number_max
 bullet_number_current
 bullet_distance
-Aw man...
+Aw hombre...
 File 1 Loaded
 picture_alpha
 * Well, there we go.
@@ -13812,7 +13812,7 @@ player_is_caught
 distance_axis
 distance_pl
 path_get_number
-Moray, let's team#up for an attack!
+¡Moray, formemos#un equipo#para atacar!
 ghost
 saw_speed
 saw1
@@ -13895,7 +13895,7 @@ opacity_target
 * (The cabinet contains#  thesis papers on many#  different subjects.)
 * These are all typed on#  cardstock...
 * How wealthy was#  Chujin...?
-Quit hogging Clover!
+¡Deja de molestar#a Clover!
 * Well then...
 * "Convenience" was never#  in today's dictionary#  anyway.
 * Gotta be a staircase#  closeby.
@@ -14114,7 +14114,7 @@ lerp_amount
 current_ball
 max_shards
 shard_spread
-   Hey!
+   ¡Hey!
 is_deflected
 deflect_noloop
 dir_add
@@ -14863,7 +14863,7 @@ anim_out_speed
 anim_min
 anim_max
 id_needle
-Of course I'll#help you, Ace!
+¡Claro que te#ayudaré, Ace!
 Rutherfordium [Rf]
 * Discovered by the prestigious#  Dr. Rutherford Oscar himself.#  Or so he claims.
 gap
@@ -15482,8 +15482,8 @@ cell
 * ¡Casi puedo ver el#  Castillo del Rey#  desde aquí!
 * Heh, ASGORE...
 * Los monstruos le#  dedican elogios, pero#  son exagerados.
-* Mira, él es lo que#  llaman un "Boss Monster".
-                    #            "Boss Monster" 
+* Mira, él es lo que#  llaman un "Monstruo Jefe".
+                    #            "Monstruo Jefe" 
 * Significa que tiene#  rasgos especiales; más#  poder que otros...
 * Cuando lo derribes,#  su ALMA permanecerá#  intacta.
 * Pero sólo por un#  momento antes de...#  ¡BUM! Tú ganas.
@@ -15503,10 +15503,10 @@ cell
 * Cada vez es más#  difícil leerte,#  ¿lo sabías?	
 * Un poco demasiado#  "sentimental" para mi#  gusto también.
 * Sólo mantén tus ojos#  en el Castillo,#  ¿de acuerdo?
-* Los Boss Monsters saben#  cómo aferrarse a la#  vida, eso es seguro.
+* Los Monstruo Jefes saben#  cómo aferrarse a la#  vida, eso es seguro.
 * ¡Oye, no dejes que#  toda esa información#  te asuste!
 * ¡Inmortal no significa#  invencible!
-* Y aún así, un ALMA humana#  es más poderosa que un#  ALMA de Boss Monster.
+* Y aún así, un ALMA humana#  es más poderosa que un#  ALMA de Monstruo Jefe.
 * ASGORE puede parecer#  intimidante, pero es#  todo un espectáculo.
 * En el fondo,#  te tiene miedo.#  Un verdadero débil.
 * De todos modos, ¡sólo#  pensé en preparar a#  mi amigo para después!
@@ -16012,7 +16012,7 @@ PRUEBA DEL CONTROL
 * Decia, "Por favor para de#  hablarme, agote las#  citas de mi libro."
 * Un libro muy sabio,#  sin duda.
 * Por favor, déjame en paz.
-Aww, I would#be honored!
+¡Aww, sería#un honor!
 walk_direction_flip
 destination_count
 up_sprite_old
@@ -16576,7 +16576,7 @@ card_type
 max_g_gained
 countdown_text
 ¡ADELANTE!
-de ORO ganado!
+ de ORO ganado!
 0 de ORO ganado. ¡Suerte la próxima vez!
 card_is_selected
 card_success
@@ -17218,8 +17218,8 @@ part_system_position
 * Yep.
 * Not losing it.
 * Not yet.
-We ain't done yet!
-Get ready for my#strongest atta-
+¡Aún no hemos#terminado!
+Prepárate para mi#más fuerte#ataq-
 * (Hay maíz en la telaraña.)
 * (Una mazorca de maíz.)
 * Soy FLOWEY. 
@@ -20875,11 +20875,11 @@ actor_train
 * ...Así que le dimos#  a Clover un verdadero#  reto.
 * ¡Estoy decepcionado#  de ustedes#  cuatro!
 * ¿Ocho semanas de#  lecciones para esto?
-* ¡Debería encerrarte#  con Plumitas!
-* Star, ¿qué#  pasa?
-* Has sido...#  diferente.
+* ¡Debería encerrarlos#  con Plumitas!
+* Star, ¿qué pasa?
+* Has sido... diferente.
 * ¡Un verdadero#  malvado!
-* Es verdad. Esto#  no ha sido#  divertido.
+* Es verdad. Esto#  no ha sido divertido.
 * ¿De qué están#  hablando?
 * ¡Esto es lo más vivo#  que ha estado esta#  ciudad!
 * ¿Por qué todo tiene#  que ser un espectáculo?
@@ -20917,18 +20917,18 @@ actor_train
 * Lo siento, Star...
 * Por favor, trabaja#  en ti mismo.
 * El perdón está sólo#  a una disculpa de#  distancia.
-* ¡Bien! ¡Estaba considerando#  despedirlos de todos modos!
+* ¡Bien! ¡Estaba#  considerando sacarlos#  de todos modos!
 * Ceroba, lo entiendes,#  ¿verdad?
 * ¡Están haciendo el#  ridículo!
 * Starlo...
 * Tienen razón.
 * Has cambiado mucho#  respecto al monstruo#  que una vez conocí.
-* Al principio traté de#  ignorarlo como si te#  estuvieras riendo, pero...
+* Al principio traté de#  ignorarlo como si te#  estuvieras riendo, pero-
 * El Salvaje Este#  ha dañado tu#  personalidad.
 * Quiero ver el#  verdadero Starlo.
-* Eso es North#  Star para ti.
+* Eso es North Star para#  ti.
 * Todos se han ido.
-* No tengo#  pandilla... Ni#  amigos...
+* No tengo pandilla...#  Ni amigos...
 * Necesito pensar.
 * Puedo arreglarlo.
 Salvar a Ed
@@ -21102,7 +21102,7 @@ Nah
 * ¿Listo para continuar?
 * Hombre, estoy#  emocionado por esto.
 * ¿Has hecho todo lo#  que querías?
-* ¿Descubriste bandidos?#  ¿Salvaste vidas?
+* ¿Descubriste bandidos?#  ¿SALVASTE vidas?
                         #   SALVASTE
 * ¡En marcha#  entonces!
 * ¡Date prisa,#  entonces!
@@ -21959,7 +21959,7 @@ Mo
 * ¿Qué pasó en la plaza?	
 * North Star acaba de#  pasar por mi tienda#  mientras miraba#  al suelo.
 * No es un problema mío,#  pero... ¿tal vez deberías#  ver cómo está?	
-* Si crees que es importante# eso es. Ejem.
+* Si crees que es importante#  eso es. Ejem.
 * ¿Cuántos años tengo?#  ¿Qué edad aparento?
 * Lo creas o no, nací con#  canas. Lo heredé de#  mi padre.
 * Pero sí... Soy lo que llaman#  "ciudadana mayor". Significando#  que soy mucho más#  sabio que tú, joven...
@@ -22613,12 +22613,12 @@ Hablando de "congelarse",#¡jaja!
 Porque parece que#lo necesitas.
 Hablando de exagerar...
 ¡Demostrémosle a este#presumido quién manda!
-I can't say I blame#you for dying, honestly.
-It's four v one out#there! Buncha cheaters...
-Heh, how are they#gonna explain THIS to#the Sheriff?
-I'd love to stick#around for that mess,#but oh well!
-I dunno if you can take#on this posse all at once.
-Just stay alive as#long as you can,#alright?
+No puedo decir que#te culpe por morir,#sinceramente.
+¡Son cuatro contra#uno ahí fuera! Un#montón de tramposos...
+Je, ¿cómo van a#explicarle esto#al Sheriff?
+Me encantaría quedarme#para ese desastre,#pero ¡oh bueno!
+No sé si puedes#enfrentarte a toda#esta pandilla a la vez.
+Sólo mantente vivo tanto#como puedas, ¿de#acuerdo?
 The mentor vs apprentice#thing is fun and all,#but...
 You do know the mentor#isn't supposed to win,#right?
 This human-wannabe is#a total pushover!
@@ -25165,8 +25165,8 @@ item_number_use
 execute_sparing_false
 Spare
 Flee
-So ye're the#new deputy, eh?
-Then you shouldn't#have a problem#dodgin'THIS!
+Así que tú eres el#nuevo ayudante,#¿eh?
+¡Entonces no deberías#tener problemas#con esto!
 created_selection
 buffer_current
 buffer_max
@@ -25218,7 +25218,7 @@ Want a sip of#my Mop Water?#It's FReshly#MaDe!!
 dir_noloop
 PÁGINA 1
 PÁGINA 2
-Hmph. Good luck.
+Hmph. Buena suerte.
 sparing
 * Perdonar
 * Huir
