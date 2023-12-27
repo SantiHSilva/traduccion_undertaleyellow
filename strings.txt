@@ -3336,8 +3336,8 @@ scr_battle_core_directory_no_attack
 * Pedla approaches from the#  flowerbed, offering you a#  flower.
 * Rosa approaches from the#  flowerbed, twisting a flower in#  her hand.
 * The atmosphere chills with ire.
-* Showdown!
-* Duel!
+* ¡Enfrentamiento!
+* ¡Duelo!
 * Telly-Vis tunes in!
 * Jandroid strolls up, whistling#  a pitchy tune.
 * Goosic has come to share some#  sounds.
@@ -3493,8 +3493,8 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * La arena cubre el maniquí.
 * The pleasant scent of flowers#  fills the air.
 * There is no hope.
-* Starlo keeps a steady eye on#  you.
-* Starlo keeps two steady eyes#  on you.
+* Starlo no te quita ojo de#  encima.
+* Starlo mantiene dos ojos#  fijos en ti.
 * Telly-Vis are debating which#  season of the news is superior.
 * Jandroid wrings out their#  mop... over their head.
 * Goosic slowly scratches a#  record with its needle. The#  sound is unbearable.
@@ -3588,8 +3588,8 @@ scr_battle_core_directory_flavor_text_enemy_1_default_2
 * Rosa bursts into laughter but#  you have no idea why.
 * Huele a plomo y hierba.
 * The sand swirls around you.
-* Smells like leather boots and#  dashing looks.
-* Smells like leather boots and#  broken dreams.
+* Huele a botas de cuero y#  a miradas elegantes.
+* Huele a botas de cuero y#  a sueños rotos.
 * Vis reminds Telly what time his#  favorite show airs but she only#  makes fun of him.
 * Smells like poor choices.
 * Goosic blasts battle music from#  its beak.
@@ -3635,8 +3635,8 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * Pedla starts humming a song#  you recognize.
 * Rosa sways back and forth#  cheerfully.
 * She stares into your SOUL.
-* A tumbleweed rolls by. It says#  hello.
-* A tension in the air grows.
+* Una planta rodadora pasa#  rodando. Saluda.
+* Crece la tensión en el aire.
 * The sound of TV static fills#  your head.
 * Jandroid tosses garbage this#  way and that.
 * Your eardrums do not appreciate#  the current situation.
@@ -3670,8 +3670,8 @@ scr_battle_core_directory_flavor_text_enemy_1_default_4
 * Goosic's music is making#  Jandroid extra energetic.
 * The Jandroid's are trying to#  harmonize.
 * The fight rages.
-* Starlo's lasso grips you#  tightly.
-* Starlo tries to tape his lasso#  back but can't find the end of#  the tape on his roll.
+* El lazo de Starlo te agarra#  con fuerza.
+* Starlo intenta pegar su lazo,#  pero no encuentra el final#  de la cinta en su rollo.
 * Sir Slither is going through a#  divorce.
 * Telly starts to sing an anime#  opening. Vis begs her to stop.
 * Goosic does a little two-step#  like it's nothing.
@@ -3701,8 +3701,8 @@ scr_battle_core_directory_flavor_text_enemy_1_default_5
 * Martlet consulta nerviosa#  su guía de la Guardia Real.
 * No estás seguro de que esta#situación sea saludable.#  Para cualquiera.
 * El Bailador lanza arena al#  aire como si fuera confeti.
-* You hear nothing but gunshots,#  whip cracks, and a mighty#  acoustic guitar.
-* You begin to sweat under the#  immense heat.
+* No se oyen más que disparos,#  chasquidos de látigo y una#  poderosa guitarra acústica.
+* Empiezas a sudar bajo el#  inmenso calor.
 * You wonder where the mute#  button is.
 * Axis is flipping through the#  Royal Guard guide book... in his#  mind.
 * They are responsible.
@@ -3727,8 +3727,8 @@ scr_battle_core_directory_flavor_text_enemy_1_default_6
 * Metallic mania fills the air!
 * Smells like a landfill.
 * The atmosphere chills with#  ire.
-* A gust of sand momentarily#  blinds you.
-* You hear Starlo talking to#  himself under his breath.
+* Una ráfaga de arena te#  ciega momentáneamente.
+* Oyes a Starlo hablar consigo#  mismo en voz baja.
 * Axis is having trouble charging#  up his next attack.
 * A road ahead.
 * His greenness.
@@ -3747,7 +3747,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_7
 * ¡Sientes el ritmo en el alma!
 * The Jandroid's sway to and#  fro.
 * No mercy.
-* Starlo digs his spurs into the#  sand, standing strong.
+* Starlo clava sus espuelas#  en la arena,#  manteniéndose firme.
 * Axis blows into one of his#  vents to clean some dust. You#  don't know how.
 * . . .
 * Your head is spinning.
@@ -3782,7 +3782,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_9
 * Violetta blushes.
 * Pedla lets out a warm smile.
 * Rosa gives you a thumbs up.
-* Starlo's left hand is#  shaking.
+* La mano izquierda de Starlo#  está temblando.
 * Telly-Vis hope you enjoyed the#  program.
 * Jandroid finds you too#  hygienic.
 * Goosic is lost in the music.
@@ -4040,7 +4040,7 @@ action_2_color_3
 * Sonreír
 * Inquire
 * Tranqulizar
-* Glare
+* Destello
 * Nap
 * Criticar
 * Fry
@@ -4067,7 +4067,7 @@ action_3_color_3
 * Console
 * Deny
 * Mock
-* Bite
+* Morder
 * Sonreir
 * Signal
 * Analyze
@@ -5861,18 +5861,18 @@ scr_enemy_timer_attacks_starlo
 starlo_quote_noloop_1
 scr_start_enemy_attacking_starlo
 scr_start_enemy_attacking_boulders
-* You squirm inside your leather#  cage to no avail.
-* You lower your weapon and#  raise your hands.
-* You spin your six-shooter#  several times to intimidate#  Starlo.
-* He instead seems impressed.
+* Te mueves dentro de tu#  jaula de cuero en vano.
+* Bajas el arma y levantas#  las manos.
+* Haces girar tu seis tiros#  varias veces para#  intimidar a Starlo.
+* En cambio, parece#  impresionado.
 scr_dialogue_battle_action_selected_action_1_starlo
-* You narrow your eyes and#  everything becomes letterboxed.
-* Starlo doesn't know how this#  is possible.
-* You shoot a nasty look at#  Starlo...
-* He gives a worried face before#  forcefully glaring back.
+* Entrecierras los ojos y#  todo se convierte en un buzón.
+* Starlo no sabe cómo esto#  es posible.
+* Lanzas una mirada#  desagradable a Starlo...
+* Pone cara de preocupación#  antes de devolverle la#  mirada con fuerza.
 scr_dialogue_battle_action_selected_action_2_starlo
-* You chomp and pull at the#  lasso but it only gets tighter.
-* You take a deep breath to#  prepare for the next attack.
+* Mordisqueas y tiras del#  lazo pero sólo se#  tensa más.
+* Respiras hondo para#  prepararte para el#  próximo ataque.
 scr_dialogue_battle_action_selected_action_3_starlo
 scr_generate_battle_boulders_minifight
 scr_enemy_timer_attacks_boulders
@@ -5989,7 +5989,7 @@ heart_battle_fighting_y
 You equip the 
 message_add
 cmsgn
-* (Recuperaste 
+* (¡Recuperaste 
  PV!)
 * (Your HP was maxed out.)
 * (You gained 
@@ -8738,13 +8738,13 @@ scr_generate_battle_steam_minifight
 scr_recreate_heart_battle_menu_text_macro
 gml_Script_scr_talking_ace
 scr_talking_ace
-* You drop your weapon and#  raise your hands.
+* Respiras hondo para#  prepararte para el#  próximo ataque.
 Action 4 Message 0
 gml_Script_scr_dialogue_battle_action_selected_action_4_starlo
 scr_dialogue_battle_action_selected_action_4_starlo
 scr_start_enemy_attacking_axis_geno
-* You wriggle within your#  confines. The FIGHT vines#  weakened!
-* You pick some flowers and offer#  them. Guardener is too#  distracted.
+* Te retuerces dentro de tus#  confines. ¡Las enredaderas#  de la LUCHA se debilitaron!
+* Recoges unas flores y se#  las ofreces. Guardener#  está demasiado distraído.
 scr_dialogue_battle_action_selected_action_1_guardener
 scr_dialogue_battle_action_selected_action_1_goosic_b
 scr_generate_battle_ceroba_3
@@ -9085,7 +9085,7 @@ brokebridge
 * (Algunas cajas pesadas#  reposan en la tierra.)	
 * (Parece que llevan#  aquí mucho tiempo.)
 * (Algunas cajas.)
-* Las West Mines.
+* Las Minas del Este.
 * Propiedad de Mining Co.
 layer_current
 * ¡ALERTA!#  ¡SEÑAL DE ADVERTENCIA!
@@ -10216,14 +10216,14 @@ k
 x_last
 y_last
 Ah...
-Guess I had#this coming.
-If only I wore#my safety goggles,#heh...
+Supongo que me#lo merecía.
+Si sólo llevara#mis gafas de#seguridad...
 ...
-I can't lie...
-I'm not ready...
-Let my parents#know...
-...I'll be away for#a while.
-See you around,#kid.
+No puedo#mentirte...
+No estoy listo...
+Dile a#mis padres...
+...estaré fuera por#un tiempo.
+Nos vemos,#niño.
 portrait_head
 spr_size_crayon_
 crayon_selected
@@ -11690,86 +11690,86 @@ shoot_noloop
 * I REMEMB3R NOW.. . ..
 * THe 0THERS.. .
 * I MUST EVaCUATE . .
-* Who have you become?
-* Because this sure as#  hell isn't the Starlo#  I grew up with!
-* Now's not a good time#  for this.
-* Don't kick me while#  I'm down, please.
-* I'm... I'm sorry, Star.
-* I know this is#  weighing heavily on you#  but listen...
-* None of us hate you.#  The REAL you.
-* We adore you!
-* What we hate is this#  false, reckless persona#  you've created.
-* I have my own baggage.#  We all do.
-* I don't even know if I#  have room to say this#  but...
-* Bring him back.
-* Bring back the#  innocent farmer I once#  knew.
-* I just... wanted to be#  appreciated. Revered by#  all.
-* I was trying to provide#  a slice of the Surface#  where we have none.
-* There's nothing wrong#  with that.
-* I'm not even telling#  you to quit running the#  town.
-* Just don't let this#  identity consume you.#  It isn't healthy.
+* ¿En quién te has#  convertido?
+* ¡Porque esto seguro#  que no es el Starlo#  con el que crecí!
+* Ahora no es un buen#  momento para esto.
+* No me patees mientras#  estoy en el suelo,#  por favor.
+* Yo... Lo siento, Star.
+* Sé que esto te está#  pesando mucho,#  pero escucha...
+* Ninguno de nosotros te#  odia. Al REAL tú.
+* ¡Te adoramos!
+* Lo que odiamos es esta#  falsa y temeraria#  persona que has creado.
+* Tengo mi propio#  equipaje. Todos#  lo tenemos.
+* Ni siquiera sé si tengo#  espacio para decir#  esto pero...
+* Tráelo de vuelta.
+* Trae de vuelta al#  granjero inocente que#  una vez conocí.
+* Yo sólo... quería ser#  apreciado. Valorado por#  todos.
+* Intentaba proporcionar#  una parte de Superficie#  donde no tenemos ninguna.
+* No hay nada malo en eso.
+* Ni siquiera te estoy#  diciendo que dejes de#  dirigir la ciudad.
+* No dejes que esta#  identidad te consuma.#  No es sano.
 * ...Muy bien.
-* Clover, I'm terribly#  sorry for attacking#  you.
-* I do value your#  friendship and the time#  we've spent together.
-* You have every right#  to make fun but...
-* This is who I really#  am.
-* I'm not a real#  sheriff... just some#  nobody farmer.
-* Don't say that, Star.
-* You may not be a real#  sheriff but...
-* You're certainly the#  best sheriff I'VE ever#  known!
-* I suppose I am KINDA#  cool.
-* Darn right!
-* But...
-* Save it. We have a#  posse to reunite!
-* Oh yeah! Ed and the#  others deserve an#  apology.
-* I feel really bad for#  hurting them...
-* I'm sure they'll#  forgive you.
-* I hope so...
-* Clover, Yo... wish you#  luck on your journey.
-* I can tell you've#  fought your fair share#  of battles.
-* Your skill is almost...#  intimidating.
-* I had a plan for us to#  travel together but you#  don't need me.
-* After all, I have a#  sheriff on my side.
-* Heh, that's right,#  missy!
-* Don't push your luck,#  Star.
-* Anyway, just head north#  and you'll find a#  shortcut to Hotland.
-* ...Nevermind.
-* ...You okay?
-* Me? I'm fine.
-* I uh... had something#  in Oasis Valley to#  attend. I gotta go.
-* Goodbye, Clover.
+* Clover, siento mucho#  haberte atacado.
+* Valoro tu amistad#  y el tiempo que#  hemos pasado juntos.
+* Tienes todo el#  derecho a burlarte#  pero...
+* Esto es lo que#  realmente soy.
+* No soy un sheriff de#  verdad... sólo un#  granjero don nadie.
+* No digas eso, Star.
+* Puede que no seas un#  sheriff de verdad,#  pero...
+* ¡Sin duda eres el#  mejor sheriff que#  he conocido!
+* Supongo que soy#  bastante genial.
+* ¡Claro que sí!
+* Pero...
+* Ahórratelo. ¡Tenemos#  un grupo que reunir!
+* ¡Oh, sí! Ed y los#  demas merecen una#  disculpa.
+* Me siento muy mal#  por hacerles daño...
+* Estoy seguro de que#  te perdonarán.
+* Espero que sí...
+* Clover, Yo... te deseo#  suerte en tu viaje.
+* Puedo decir que has#  luchado tu parte#  justa de batallas.
+* Tu habilidad es casi...#  intimidante.
+* Tenía un plan para que#  viajáramos juntos, pero#  tú no me necesitas.
+* Después de todo,#  tengo un sheriff#  de mi lado.
+* ¡Eso es, señorita!
+* No tientes a la suerte,#  Star.
+* De todos modos, dirígete#  al norte y encontrarás#  un atajo a Hotland.
+* ...No importa.
+* ...¿Estás bien?
+* ¿Yo? Estoy bien.
+* Yo... tenía algo que#  hacer en Oasis Valley.#  Me tengo que ir.
+* Adiós, Clover.
 no_loop_badge
-* That was strange... but#  it's not your problem. 
-* You need to get a move#  on.	
-* Oh! I almost forgot#  something very#  important!	
+* Eso fue extraño... pero#  no es tu problema. 
+* Necesitas ponerte#  en marcha.
+* ¡Oh! ¡Casi se me#  olvida algo muy#  importante!
 * ¡Mira!
-* (You got the Deputy#  Badge!)
-* Despite a few hiccups,#  our little adventure was#  a blast.
-* I'll be seein' ya#  around, partner!
-* I'm so proud!
-* Clover! Clover!
-* I just passed Ceroba#  and that North Star#  fella.
-* Did you all patch#  everything up?
-* -Oh yeah, hi!
-* So I have good news and#  bad news.
-* I'll start with the#  good:
-* Ceroba was kind enough#  to free me!
-* She's an old#  acquaintance of mine so#  it was a nice surprise.
-* She knows I won't tell#  ASGORE about this, so no#  worries!
-* Now that that's taken#  care of... the bad news.
-* I'm about to go back on#  my word, sadly.
-* I know I JUST said I#  wouldn't leave your side#  but then... ya know... 	
-* ...This crazy detour#  happened.
-* I also realize I threw#  my job to the wind to#  travel with you but...
-* Since the imprisonment#  took up so much time, I#  have to go back.
-* If I don't at LEAST#  clock in,
-* the Royal Guard#  will grow suspicious!
-* Plus, Ava is totalled.#  It was their property.
-* I'll only be gone for a#  moment to fix my#  mistakes!
-* Trust me, this will#  help you in the long#  run!
-* And I know you're tough#  enough to handle#  yourself.	
-* I'll send ya a message#  where to meet back up,#  alright?
-* Again, I'm so-so-SO#  sorry about this but#  I'll cya later!
+* (¡Obtuviste la Insignia#  del Ayudante!)
+* A pesar de algunos#  obstáculos, nuestra#  aventura fue increible.
+* ¡Ya nos veremos,#  compañero!
+* ¡Estoy muy orgulloso!
+* ¡Clover! ¡Clover!
+* Acabo de pasar a#  Ceroba y a ese#  tal North Star.
+* ¿Arreglaron todo#  el asunto?
+* -Ah si, ¡hola!
+* Así que tengo buenas#  y malas noticias.
+* Empezaré por lo#  bueno:
+* ¡Ceroba tuvo la#  amabilidad de#  liberarme!
+* Es una vieja conocida#  mía, así que fue#  una agradable sorpresa.
+* Sabe que no se lo#  contaré a ASGORE, así#  que no se preocupe.
+* Ahora que eso está#  solucionado...#  las malas noticias.
+* Estoy a punto de faltar#  a mi palabra,#  tristemente.
+* Sé que acabo de decir#  que no me iría de tu#  lado, pero... 	
+* ...ocurrió este loco#  desvío.
+* También me doy cuenta#  de que tiré mi trabajo al#  viento al irme contigo-
+* Como el encarcelamiento#  me llevó tanto tiempo,#  tengo que volver.
+* Si no registro mi#  entrada,
+* ¡...la Guardia Real#  sospechará!
+* Además, Ava está#  destrozada. Era#  de su propiedad.
+* ¡Sólo me ausentaré un#  momento para arreglar#  mis errores!
+* Créeme, ¡esto te#  ayudará a largo#  plazo!
+* Y sé que eres lo#  suficientemente duro#  como para manejarte solo.	
+* Te enviaré un mensaje#  donde encontrarnos,#  ¿de acuerdo?
+* De nuevo, lo-lo-lo#  siento mucho, pero-#  ¡hasta luego!
 * Por esta puerta.
 part_system_exists
 pt_ef_bits
@@ -11912,20 +11912,20 @@ yellow_overlay_alpha
 jump_noloop
 overlay
 * (Un elevador vació está#  ante ti.)
-* Hey! Clover!
-* Have you seen Starlo?
-* Didn't think so...
-* It wasn't your fault#  this happened. Don't#  apologize.
-* I gotta find out where#  he went.
-* I haven't seen him#  anywhere since the#  breakup.
-* That's the most upset#  he's been in quite some#  time. I'm worried.
-* I'll speak to his#  family up ahead, maybe#  they know something.
-* See you later.
-* Was that Ceroba?
-* I wonder where she's#  off to in such a hurry?
-* Ceroba, an old#  acquaintance of mine,#  freed me!
-* I can see that you two#  have already met.
-* Again, I'm#  so-so-so-SO sorry about#  this but I'll cya later!
+* ¡Oye! ¡Clover!
+* ¿Has visto a Starlo?
+* No lo encuentro...
+* No fue culpa tuya# que pasara esto.#  No te disculpes.
+* Tengo que averiguar#  adónde fue.
+* No le he visto en# ningún sitio desde#  la ruptura.
+* Es lo más alterado que#  ha estado en bastante#  tiempo. Estoy preocupada.
+* Hablaré con su familia#  más adelante, tal#  vez ellos sepan algo.
+* Nos vemos más#  tarde.
+* ¿Eso era Ceroba?
+* Me pregunto adónde#  se habrá ido con#  tanta prisa.
+* ¡Ceroba, una vieja#  conocida mía,#  me liberó!
+* Veo que ustedes dos#  ya se conocen.
+* De nuevo, lo-lo-lo#  siento mucho, ¡pero#  ya nos veremos después!
 image_speed_default
 seesaw_puzzle_countdown
 seesaw_puzzle_active
@@ -15055,12 +15055,12 @@ current_text_y_placement
 spawn_point_angle
 coordinate_list
 cur_val
-What...#What are you doing?
-This isn't fair...
+¿Qué...#Qué estás#haciendo?
+Esto no es#justo...
 head_sprite
-* Ack!
-* I'm stuck, Clover!
-* We need to find a way#  out of this! Fast!
+* ¡Ack!
+* ¡Me atrape, Clover!
+* ¡Necesitamos encontrar#  una manera de salir#  de esto! ¡Rápido!
 circle_number
 circle_delay
 martlet_leg_back
@@ -15455,20 +15455,20 @@ new_coin
 * No more third parties,#  no more side quests.
 * Just you and me, buddy!#  
 * Just you and me.
-* DEPUTY!!!
-* I am ever so delighted#  that you returned.
-* ...Makes my parting#  letter a bit awkward but#  hey, s'all good!
-* Don't ya have important#  places to be?
-* I mean, I'm flattered#  you wanted to see me#  but...
-* I already said goodbye!
-* Now I gotta go through#  the feisty five stages#  of grief AGAIN!
-* Now that I think about#  it...
-* ...The trail up ahead#  must be pretty scary.
-* Feel free to relax for#  a bit before you go!
-* Moray's playin' a#  lovely set tonight.
-* They have been on this#  particular tune for a#  while though...
-* Wish nothin' but the#  absolute best for ya,#  partner!
-* Yeehaw!
+* ¡¡¡Ayudante!!!
+* Me alegra mucho#  de que hayas#  vuelto.
+* ...hace que mi carta#  de despedida sea incómoda,#  ¡pero todo está bien!
+* ¿No tienes sitios#  importantes donde#  estar?
+* Quiero decir, me halaga#  que quisieras verme,#  pero...
+* ¡Ya me despedí!
+* Ahora tengo que volver#  a pasar por las cinco#  etapas del duelo.
+* Ahora que lo pienso...
+* ...El camino hacia#  adelante debe ser#  bastante aterrador.
+* Relájese un poco#  antes de partir.
+* Moray está tocando un#  set encantador esta#  noche.
+* Han estado en esta#  melodía en particular#  por un tiempo...
+* ¡Sólo te deseo lo#  mejor, compañero!
+* ¡Yeehaw!
 overlay_offset
 sin_degree
 box_size
@@ -16357,7 +16357,7 @@ I fell in a puddle
 * Still, unemotional as#  he may be...
 * ...The fact he so#  closely resembles life#  is impressive.
 * Standing around won't#  get us to Hotland.
-* Come on.
+* Vamos.
 * Keep a move on, Clover.
 * Bridges and rotting#  infrastructure don't#  exactly mesh well.
 * Stay alert.
@@ -18334,7 +18334,7 @@ battle_flag
 * Podría ser yo o alguien#  mucho, mucho peor.
 * Cómo se desarrolle tu#  vida a partir de este#  momento depende de ti.
 * No sé qué te enseñaron#  los humanos pero...
-* Un niño de tu edad#  no debería ser corrompido#  por la violencia.
+* Un niño de tu edad#  no debe ser corrompido#  por la violencia.
 * Por favor...#  Por favor, elige#  sabiamente...
 aviator_xspd
 * Si mi mapa y memoria no#  fallan, este río debería#  llevarnos a Hotland.
@@ -20026,7 +20026,7 @@ flow_mus
 * Siento haber sido tan#  duro antes. 
 * Sólo hago lo que Star#  cree que es mejor.
 * Todo esto nos ha#  sorprendido, eso seguro.
-* ¡Soy optimista al respecto!
+* ¡Soy optimista al#  respecto!
 * No es por presumir,#  pero soy básicamente la#  mano derecha de Star.
 * Yo hago todo el trabajo#  pesado por aquí.
 * Star sólo pregunta#  amablemente y allá#  voy.
@@ -20092,7 +20092,7 @@ petal_dir
 * Y una cosa llevo a otra#  y ¡el Salvaje Este#  estaria en llamas ahora!
 * Bueno... tal vez.
 * Estoy seguro de que#  ASGORE lo entendería,#  pero hay otros...
-* El jefe de la Guardia#  Real, en particular.
+* La jefe de la Guardia#  Real, en particular.
 * Esperemos que no hayas#  tenido un enfrentamiento#  con ella.
 * Quiero decir, nunca la#  he conocido. Sólo he#  oído que nos parecemos.
 * ¡No se preocupe!
@@ -20447,7 +20447,7 @@ Seh
 * Le gusta mucho la#  cultura humana y#  todo eso.
 * Apareces aquí y él#  se vuelve loco.
 * Quiero decir, es#  bastante increíble.
-* Algunos humanos se han#  adentrado en el Subsuelo, pero...
+* Algunos humanos se han#  adentrado en el Subsuelo,#  pero...
 * Nunca pisaron#  estas arenas.
 * Lo dicho, me alegro de#  que lo hicieras.
 * Mi nombre es Ceroba.
@@ -20993,10 +20993,10 @@ crowd_animate
 * Ah, ¿así que conoces a#  uno de ellos? ¡Eso es#  bastante impresionante!
 * ¿Sabías también que#  los humanos son#  INCENDIABLES?
 * Cuando se sienten#  cumplidos,
-* Montan monstruos#  ¡DIRECTOS a una enorme,#  esfera ardiente!
+* Montan monstruos#  ¡DIRECTOS hacia una#  enorme, esfera ardiente!
 * Así que los#  "monstruos" se#  queman, ¿verdad?
 * La mayoría de los#  monstruos no son#  a prueba de fuego.
-* Star, ¿dices que mi#  amigo Horses murio#  por una esfera ardiente?
+* Star, ¿dices que mi#  amigo Horses murió#  por una esfera ardiente?
 * ¡No! Um, bueno...#  No estoy muy seguro.
 * ¡Le preguntaré a#  Clover!
 * ¿Los monstruos#  mueren?
@@ -21178,25 +21178,25 @@ circle_r_max
 wind_sound
 * ¿Por qué ocurrió esto?
 * Hice todo lo posible#  para entretener...
-* ...para que los monstruos#  no se preocuparan de#  estar aquí abajo.
-* En todo momento#  intenté animar a Ceroba...
+* ...para que todos#  no se preocuparan de#  estar aquí abajo.
+* En todo momento#  intenté animar a#  Ceroba...
 * Sólo quería a Kanako#  fuera de su mente.
                 Kanako                   
 * Hago todo lo que puedo#  para honrar su memoria.
-* ¿No son las distracciones#  lo mejor para#  todo eso?
+* ¿No es la distracción#  lo mejor para todo eso?
 * ¿Por qué me seguiste?
 * ¿Sigues siendo mi amigo?
-* ¡Todo esto ocurrió# después de que#  aparecieras!
+* ¡Todo esto ocurrió#  después de que#  aparecieras!
 * ¡Ed te mencionó#  específicamente como#  EL problema!
 * ¡Así es! Sólo estaba#  siendo un buen amigo.
-* Yo te hice quien eres#  ¿y esto es lo#  que recibo?
-* Afrontemos los hechos. No#  podría mantenerte aquí#  para siempre, niño.
-* Al final se habría#  corrido la voz de que#  Plumitas no había llegado.
+* Yo te hice quien eres#  ¿y esto es lo que#  recibo?
+* Afrontemos los hechos.#  no puedo mantenerte#  aquí por siempre, niño.
+* Al final se habría#  corrido la voz de que#  Plumitas no llego.
 * Plumitas...#  Espera un minuto...
 * Los Guardias Reales#  como ella tienen mucho#  estatus.
 * Ganan ese estatus#  haciendo el trabajo#  del Rey.
 * Estoy seguro... de que#  todos volverían si#  yo hiciera lo mismo.
-* ¡¡Sería respetado no sólo#  en el Salvaje Este sino#  en todo el Subsuelo!!
+* ¡¡Sería respetado#  en el Salvaje Este y#  en todo el Subsuelo!!
 * Sería...
 * Clover, has sido un#  excelente ayudante#  pero...
 * Como agente de la ley,#  lo que voy a hacer está#  incrustado en mi ALMA.
@@ -21218,14 +21218,14 @@ wind_sound
 * Hay un asunto#  urgente que se#  avecina sobre mí.
 * Vamos a la antigua#  puerta de Steamworks.
 * Allí hablaremos.
-* Supongo que ahora# eres parte del equipo,#  Clover.
+* Supongo que ahora eres#  parte del equipo,#  Clover.
 * Ya la has oído.
-* Así que tengo buenas#  noticias y malas#  noticias.
+* Tengo buenas#  noticias y malas#  noticias.
 * ¡Resulta que la mujer de#  ese viejo amigo del que#  te hablé está aquí!
 * ¡Se llama Ceroba!
 * Tú... probablemente ya#  la conociste ahora que#  lo pienso.
 * ¡Rompió la cerradura de#  mi celda con un bastón#  mágico y me dejó ir!
-* También me aseguré de#  que supiera que no se# lo contaría a ASGORE.
+* También me aseguré de#  que supiera que no se#  lo contaría a ASGORE.
 * Ahora que ya me ocupe#  de eso... las malas#  noticias.
 * Estoy a punto de#  faltar a mi palabra,#  tristemente.
 * Sé que acabo de decir#  que no me iría de tu#  lado, pero... ya sabes-
@@ -21794,7 +21794,7 @@ Tienes#las manos#llenas.
 ¿Cambiaste#de opinión?
 ¡Pregunta!
 ¡Aquí está#el menú!
-¡Muy#agradecido!
+¡Muy#apreciado!
 Tus fondos son#insuficientes,#niño.
 Deja de cargar#tanto.
 No me#interesa.
@@ -22096,7 +22096,7 @@ Chujin
 * Buscaba un entorno amigable#  para compartir mis habilidades#  cerveceras, así que aquí estoy.
 * No hay mucho que hacer en#  esta ciudad, pero eso la#  hace más unida.
 * Todos los días han sido#  bastante predecibles hasta#  que apareciste.  
-* Estoy ansioso por ver#  qué planea Star.
+* Estoy ansiosa por ver qué#  planea Star.
 * Jaja, esa pregunta me#  la hacen mucho.
 * Estos tipos son mis#  mascotas. Reptiles reales,#  no monstruos.
 * Sus nombres son Ann, Sammy,#  y Bert.
@@ -22690,7 +22690,7 @@ Let's get moving.
 You can't reach ASGORE#if you're dead.
 Don't fool around.
 You sure you're cut#out for this?
-Come on.
+Vamos.
 * Aaannd there goes#your SOUL!
 * Dodge the attacks next#time, will you?
 retry_enabled
@@ -24712,54 +24712,54 @@ breath_percentage
 _color_current
 player_hp_max_start
 current_hp_width
-I know I'm better#than this.
-A dignified sheriff#would face their#opponent fairly.
-However, you're no#everyday bandit,#so get ready!
-Huh. Even tied up,#you're skilled.
-I sure have an eye#for talent.
-Still...
-Part of me wishes#things coulda stayed#the way they were.
-Why'd you have to step#foot in my town?
-Just a few hours ago#everyone was gettin'#along.
-Now... well...#we're here.
-This is the only#way to fix things.
-The only way#I know...
-...!
-Quit squirmin' so#much!
-Clover, you gotta#understand!
-Come on!!
-Give it up already!!
-Fine. I didn't wanna#use this but I got#no choice.
-Goodbye, partner. 
-I'm gonna miss our#time together.
-I mean that.
-At first, I was truly#happy.
-I thought you were the#real deal.
-All my sacrifices, all#the naysayers...
-Those didn't matter#anymore 'cause what I#had was#special.
-But now I've realized#the truth...
-This sheriff stuff?#It's worthless.
-We all tout "justice"#but...
-True Underground#status is only#secured through pain.
-"Monsterkind's Hero"#is a title soaked#in blood.
-In the end...#we're nothin' but#bandits.
-Look what you made#me do!
-That lasso is made#from premium#materials!
-No... no way!
-Outsmarted by a#deputy?? Tsk.
-At least it's a#fair showdown now.
-Time for a real#dual!
-Stay still!
-I don't wanna#hit my lasso!
-One... 
-I have one left#in my#chamber...
-I'll make this count.
+Sé que soy mejor#que esto.
+Un sheriff digno#se enfrentaría a#su oponente con#justicia.
+Sin embargo, no eres#un bandido de todos#los días, ¡así#que prepárate!
+Huh. Incluso#atado, eres#hábil.
+Sí que tengo buen#ojo para el#talento.
+Aún así...
+Una parte de mí#desearía que las#cosas siguieran#como estaban.
+¿Por qué tenías que#pisar mi ciudad?
+Hace unas horas#todo el mundo se#llevaba bien.
+Ahora...#bueno...#estamos aquí.
+Esta es la única#manera de#arreglar las#cosas.
+La única manera#que conozco...
+¡...!
+¡Deja de moverte#tanto!
+Clover, ¡tienes#que entenderlo!
+¡¡Vamos!!
+¡¡Renuncia ya!!
+Bien. No quería#usar esto pero#no tengo#elección.
+Adiós,#compañero. 
+Voy a extrañar#nuestro tiempo#juntos.
+Lo digo en serio.
+Al principio,#estaba realmente#feliz.
+Pensé que eras el#verdadero#negocio.
+Todos mis sacrificios,#todos los que#me critican...
+Esos ya no importaban#porque lo que yo#tenía era especial.
+Pero ahora me he dado#cuenta de la#verdad...
+¿Esto del sheriff?#No vale nada.
+Todos promovemos#la "justicia",#pero...
+El verdadero estatus#de Subsuelo sólo se#consigue a#través del dolor.
+"Héroe de la#Monstruosidad" es un#título empapado de#sangre.
+Al final... no somos#más que bandidos.
+¡Mira lo que me#hiciste hacer!
+¡Ese lazo está hecho#de materiales#de primera#calidad!
+No... ¡no puede#ser!
+¿Superado por#un ayudante? Tsk.
+Al menos ahora es#un enfrentamiento#justo.
+¡Hora de una#verdadero dualidad!
+¡Quédate quieto!
+¡No quiero#golpear mi#lazo!
+Una... 
+Me queda uno#en la#recámara...
+Haré que esto#valga la#pena.
 target_radius_max
 target_radius_current
 target_radius_deg
 target_draw_alpha
-Starlo!
-Stop this right#now!
+¡Starlo!
+¡Para esto#ahora mismo!
 rope_damaged
 stretch_multiplier
 rope_strain_noloop
@@ -24772,9 +24772,9 @@ part_ropeEm
 part_ropepieces
 starlo_intro_dialogue_created
 starlo_soul_can_move
-I don't think I#can bear this weight#any longer.
-You won this#battle.
-Do what needs to#be done.
+No creo que pueda#seguir soportando#este peso.
+Ganaste esta#batalla.
+Haz lo que#tenga que#hacer.
 heart_x_default
 heart_y_default
 bottle
@@ -24800,7 +24800,7 @@ dynamite_left_x
 dynamite_mid_x
 dynamite_right_x
 dynamite_y
-* Gettin' down! Gettin down!
+* ¡Abajo! ¡Abajo!
 starlo_take_aim_interval
 target_radius_dec
 starlo_take_aim_shots_current
@@ -24809,9 +24809,9 @@ bell_x
 bell_y
 boss_draw_alpha
 boss_fade_in
-* OH, HEY.
-* WAIT, HOW.
-* GO BACK TO YOUR ROOM.
+* OH, OYE.
+* ESPERA, CÓMO.
+* VUELVE A TU HABITACIÓN.
 bell_attack_max_swing_angle
 bell_attack_current_swing_angle
 bell_attack_current_swing_degree
