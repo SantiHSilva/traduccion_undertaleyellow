@@ -1965,7 +1965,7 @@ H. Acid
 * (The unwavering hopes and#  dreams of Monsterkind.)
 * (You wrap the Silver Scarf#  around your neck.)
 * (So cozy!)
-* (No puedes utilizar este objeto.)
+* (No puedes utilizar este#  objeto.)
 * Better not drink it.
 * (You could get hotter coffee#  elsewhere.)
 * (You can't think of a possible#  use for it.)
@@ -10147,7 +10147,7 @@ Sí
 No
 * (You got Dihydrogen Monoxide!)
 * (You got water.)
-* (Not enough inventory space.)
+* (No hay suficiente#  espacio de#  inventario.)
 * (Could be expired.)
 * (Nothing inside but#  oddly-shaped glass.)
 x_target_original
@@ -15872,7 +15872,7 @@ current_mail
 bbox_yscale
 bbox_yoffset
 bbox_yscale_multiplier
-HP 
+PV 
 /
 ORO 
 "Clover"
