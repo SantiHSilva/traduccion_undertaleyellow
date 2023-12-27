@@ -15,3 +15,7 @@ Traducir Not\nreally
 gml_Object_obj_npc_producer_Step_0
 Traducir What's\nwrong	Nothing
 	 ¿Qué\npasa?	Nada
+	 
+gml_Object_obj_miner_uwu_Step_0
+Traducir Nothing
+		 Nada
