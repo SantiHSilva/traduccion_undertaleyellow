@@ -21174,68 +21174,68 @@ mask_image_index
 * (Nada.)
 circle_r
 circle_r_max
-* It's awfully quiet...#  let's be cautious.
+* Es terriblemente tranquilo...#  Seamos cautelosos.
 wind_sound
-* Why did this happen?
-* I did everything in my#  power to entertain...
-* ...So monsters wouldn't#  have to worry about#  being stuck down here.
-* At every turn I tried to#  cheer Ceroba up...
-* I just wanted Kanako off#  of her mind.
+* ¿Por qué ocurrió esto?
+* Hice todo lo posible#  para entretener...
+* ...para que los monstruos#  no se preocuparan de#  estar aquí abajo.
+* En todo momento#  intenté animar a Ceroba...
+* Sólo quería a Kanako#  fuera de su mente.
                 Kanako                   
-* I'm trying my best to#  honor her memory.
-* Aren't distractions#  what's best for all#  of that?
-* Why'd you follow me?
-* Are you still my friend?
-* This all happened after#  you showed up!
-* Ed specifically#  mentioned YOU as the#  problem!
-* That's right! I was just#  bein' a good friend.
-* I made you who you are#  yet this is what I get?
-* Let's face facts. I#  couldn't keep you here#  forever, kid.
-* Word would've gotten out#  that Feathers hadn't#  clocked in, eventually.
-* Feathers...#  Wait a minute...
-* Royal Guards like her#  have a ton of status.
-* They gain that status by#  doin' the King's work.
-* I'm sure... I'm sure#  everyone would come back#  if I did the same.
-* I'd be revered not only#  in the Wild East but the#  entire Underground!!
-* I'd...
-* Clover, you've been an#  excellent deputy but...
-* As a lawman, what I'm#  about to do is embedded#  in my SOUL.
-* My true duty.
-* Don't... Don't make this#  difficult for me.
-* Just hold...
-* STILL!
-* You're the best#  sheriff I've ever#  known!
-* This whole show wasn't#  only for some personal#  power trip.
-* I also did it to...#  cheer you up.
-* You might've wanted#  the old me but I also#  wanted the old you.
-* Because of...
+* Hago todo lo que puedo#  para honrar su memoria.
+* ¿No son las distracciones#  lo mejor para#  todo eso?
+* ¿Por qué me seguiste?
+* ¿Sigues siendo mi amigo?
+* ¡Todo esto ocurrió# después de que#  aparecieras!
+* ¡Ed te mencionó#  específicamente como#  EL problema!
+* ¡Así es! Sólo estaba#  siendo un buen amigo.
+* Yo te hice quien eres#  ¿y esto es lo#  que recibo?
+* Afrontemos los hechos. No#  podría mantenerte aquí#  para siempre, niño.
+* Al final se habría#  corrido la voz de que#  Plumitas no había llegado.
+* Plumitas...#  Espera un minuto...
+* Los Guardias Reales#  como ella tienen mucho#  estatus.
+* Ganan ese estatus#  haciendo el trabajo#  del Rey.
+* Estoy seguro... de que#  todos volverían si#  yo hiciera lo mismo.
+* ¡¡Sería respetado no sólo#  en el Salvaje Este sino#  en todo el Subsuelo!!
+* Sería...
+* Clover, has sido un#  excelente ayudante#  pero...
+* Como agente de la ley,#  lo que voy a hacer está#  incrustado en mi ALMA.
+* Mi verdadero deber.
+* No... No me lo#  hagas difícil.
+* Espera...
+* ¡ESPERA!
+* ¡Eres el mejor sheriff#  que he conocido!
+* Todo este espectáculo no#  fue sólo por algún#  viaje de poder personal.
+* También lo hice para...#  animarte.
+* Puede que quieras al#  antiguo yo, pero yo#  quiero a tú yo pasado.
+* Por culpa de...
 * ...Kanako...
-* Yo... Um... Appreciate#  that, Star.
-* I believe I have#  business to take care#  of relating to her...
-* I must tell you#  something.
-* I suppose Clover#  should know as well.
-* As much fun it is to#  have duels and catch#  bandits...
-* There's a pressing#  matter looming over#  me.
-* Let's go to the old#  Steamworks gate.
-* We'll speak there.
-* I guess you're really#  part of the team now,#  Clover.
-* You heard her.
-* So I have good news#  and bad news.
-* Turns out, the wife of#  that old friend I told#  you about is here!
-* Her name is Ceroba!
-* You... probably met her#  already now that I#  think about it.
-* She broke my cell lock#  with a sick magic staff#  and let me go!
-* I also made sure she#  knew I wouldn't tell#  ASGORE about this.
-* So now that that's#  taken care of... the bad#  news.
-* I'm about to go back#  on my word, sadly.
-* I know I JUST said I#  wouldn't leave your side#  but then... ya know... 
-* If I don't at LEAST#  clock in...
-* ...the Royal Guard#  will grow suspicious!
-* I'll only be gone for#  a moment to fix my#  mistakes!
-* Ceroba encouraged this#  decision, so don't#  worry.	
-* She told me she would#  accompany you on the#  journey to Hotland.
-* So hey, it all works#  out!
-* Again, I'm so-so-so-SO#  sorry about this but#  I'll cya later!
+* Yo... Um... Te lo#  agradezco, Star.
+* Creo que tengo asuntos#  de los que ocuparme#  vinculados con ella...
+* Debo decirte algo.
+* Supongo que Clover#  también debería#  saberlo.
+* Por muy divertido que#  sea tener duelos y#  descubrir bandidos...
+* Hay un asunto#  urgente que se#  avecina sobre mí.
+* Vamos a la antigua#  puerta de Steamworks.
+* Allí hablaremos.
+* Supongo que ahora# eres parte del equipo,#  Clover.
+* Ya la has oído.
+* Así que tengo buenas#  noticias y malas#  noticias.
+* ¡Resulta que la mujer de#  ese viejo amigo del que#  te hablé está aquí!
+* ¡Se llama Ceroba!
+* Tú... probablemente ya#  la conociste ahora que#  lo pienso.
+* ¡Rompió la cerradura de#  mi celda con un bastón#  mágico y me dejó ir!
+* También me aseguré de#  que supiera que no se# lo contaría a ASGORE.
+* Ahora que ya me ocupe#  de eso... las malas#  noticias.
+* Estoy a punto de#  faltar a mi palabra,#  tristemente.
+* Sé que acabo de decir#  que no me iría de tu#  lado, pero... ya sabes-
+* Si no registro mi#  entrada...
+* ...¡la Guardia Real#  empezará a sospechar!
+* ¡Sólo me ausentaré un#  momento para corregir#  mis errores!
+* Ceroba alentó esta#  decisión, así que no#  te preocupes.	
+* Me dijo que te#  acompañaría en el#  viaje a Hotland.
+* Así que, ¡todo#  saldra bien!
+* De nuevo, lo-lo-lo#  siento mucho, pero-#  ¡hasta luego!
 * (You hear whispering coming#  from the cellar.)
 * (The cellar is locked. Must be#  where the harvest is stored.)
 * (You attempt to turn the pump#  on but the handle won't budge.)
