@@ -969,8 +969,8 @@ Dunes - Cima de montaña
 Dunes - Playground
 Dunes - Well
 Salvaje Este - Pueblo
-Wild East - Outskirts
-Wild East - Sunnyside
+Salvaje Este - Afueras
+Salvaje Este - Lado Soleado
 Steamw. - Generador
 Steamw. - Raised Path
 Steamw. - Lago
@@ -15913,7 +15913,7 @@ point_selected
 Snowdin - Bosque
 Dunes - West Mines
 Dunes - Oasis Valley
-Wild East - Farm
+Salvaje Este - Granja
 * Are you sure you want to#  drop the 
 * You cannot drop the#  
 TA-TA-TAKE#A CHILL PILL#BUDDY !
