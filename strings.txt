@@ -9549,12 +9549,12 @@ indicator_flag
 * (Golpeas la estructura de#  hierro.)
 * (Hace un profundo eco#  de sonido de metal.)
 * (Un incidente desafortunado.)
-* (A giant red machine, minding#  its own business.)
-* (The blue machine stares at#  the red machine as if it holds#  a grudge.)
+* (Una gran máquina roja,#  preocupándose por sus#  asuntos.)
+* (La máquina azul mira a#  la roja como si le#  tuviera rencor.)
 furnace_number
-* Metalworks Emergency Escape#  Plan (or MEEP):	
-* In case someone sets the room#  on fire, do not use the#  elevator.	
-* Evacuate down to floor 01 or#  use a passcode to access floor#  03.
+* Plan de Emergencia de Escape#  de Metalworks (o PEEM):	
+* En caso de que alguien#  incendie el cuarto, no use#  el elevador.	
+* Evacuar al piso 01 o usar#  un código para acceder#  al piso 03.
 * (A rusty machine, once used#  for shaping gold ore into#  coins.)
 * (It doesn't seem functional.)
 * (The remnant of Ceroba's#  wrath.)
@@ -10252,48 +10252,48 @@ npc_dynamic_depth
 * Blpshm......
 * (¡Dame un trago,#  camarero!)
 door_visible
-* "Metalworks Emergency Escape#  Plan (or MEEP):
-* In case someone sets the room#  on fire, do not use the#  elevator.
-* Evacuate down to floor 01 or#  use a passcode to access floor#  03."
+* "Plan de Emergencia de Escape#  de Metalworks (o PEEM):	
+* En caso de que alguien#  incendie el cuarto, no use#  el elevador.	
+* Evacuar al piso 01 o usar#  un código para acceder#  al piso 03."
 * Uh huh...
-* They REALLY locked this#  place up tight.
-* Well, if the code was#  found nearby on the#  first floor...
-* Let's take a look#  around.
-* THERE YOU ARE.
-* No way...
-* You seriously want to do#  this again?
-* YES.
-* Remember the explosion#  that incapacited you?
-* I RETRIEVED BRAND NEW#  HANDS. I AM UNSTOPPABLE#  NOW.
-* Look, at some point you#  need to gi   
+* EN SERIO que bloquearon#  este lugar.
+* Bueno, si el código estuvo#  cerca en el primer#  piso...
+* Toca buscar por aquí.
+* AHÍ ESTÁN.
+* No puede ser...
+* ¿En serio quieres hacer#  esto otra vez?
+* SÍ.
+* ¿Recueras la explosión#  te deshabilitó?
+* OBTUVE NUEVAS MANOS.#  AHORA SOY INPARABLE.
+* Mira, en algún momento#  tendrás que rend   
 * SHUSH.
-* DO NOT RESIST ARREST ANY#  LONGER.
-* STAND STILL AND LET MY#  HANDSOME HANDS SHINE.
+* NO OPONGAN MÁS#  RESISTENCIA.
+* QUÉDENSE QUIETOS Y#  PERMITAN QUE MIS MANOS#  BRILLEN.
 force_skip
-* [shoot]
-* (Pst, Clover!#  This way!)
+* [rayos]
+* (¡Pst, Clover!#  ¡Por aquí!)
 scene_start
-* MY VISION...
-* INITIATING 16-VOLT SUPER#  FLASHLIGHT_
-* 95% OF POWER UTILIZED_
-* TYPOGRAPHY BOX HINDERED_
-* WHAT DO YOU MEA-
+* MI VISIÓN...
+* INICIANDO SUPER LINTERNA#  16-VOLT_
+* 95% DE PODER USADO_
+* CUADRO DE TIPOGRAFÍA#  AFECTADO_
+* ¿A QUÉ TE REF-
 * OH.
-* THIS IS MOST UN-
-* THIS IS BAD.
-* OH WELL.
-* UNLIKE THEM...
-* I HAVE EYES.
-* (Okay..)
-* (We need to stay out of#  his view and keep#  quiet.)
-* (There's gotta   
+* ESTO ES MUY IN-
+* ESTO ES MALO.
+* OH BUENO.
+* MI VENTAJA...
+* ES TENER OJOS.
+* (Okei..)
+* (Tenemos que estar fuera#  de su vista y#  permanecer callados.)
+* (Debe de haber   
 shake
-* Heeello again!!!
-* What ever are you two doing he  
+* ¡¡¡Holaaaa de nuevo!!!
+* Sea lo que sea que tramen#  él  
 swirl
-* (As I was saying...)
-* (There's gotta be a code#  around here.)
-* (Once you find it, head#  for the exit.)
+* (Como decía...)
+* (Debe de haber un código#  por aquí.)
+* (Cuando lo encuentres,#  ve hacia la salida.)
 factory02_axis_falls
 factory02_power_disconnect
 ceroba_punch
@@ -11255,20 +11255,20 @@ seesaw_puzzle_activate
 * ¿¿Por qué no podemos#  ordenarlos por color#  desde el primer paso??
 default
 * No tengo idea!
-* You know, for being#  built by such great#  minds...
-* The Steamworks are#  awfully convoluted.
-* It takes a MASSIVE IQ to#  understand the complexities of#  the Steamworks.
-* Your brain probably isn't#  advanced enough!
-* Says the wall-mounted#  GIF comprised of three#  pixels.
-* You know what?
-* You can take your little#  "passcode" and    
-* ...Just give us the code.
+* Sabes, para haber sido#  por tales mentes#  brillantes...
+* Steamworks está pésimamente#  estructurado.
+* Toma un IQ MASIVO el#  entender la complejidad de#  Steamworks.
+* ¡Tal vez tu cerebro no#  es lo suficientemente#  avanzado!
+* Lo dice el GIF comprimido#  de 3 pixeles#  pegado en la pared.
+* ¿Sabes qué?
+* Puedes tomar tu pequeño#  "código" y meter-    
+* ...Solo danos el código.
 * ¡Por supuesto!
-* The passcode is 
-* Got it?
-* Yeah, thanks.
-* No, thank you, employees!
-* Thank you for making the#  Underground a little brighter!
+* El código es 
+* ¿Entendiste?
+* Sí, gracias.
+* No, ¡gracias a ustédes,#  empleados!
+* ¡Gracias por hacer que el#  Subsuelo brille un poco#  más!
 * Man, I don't know what's goin'#  on these days.
 * Debt... Drama...
 * When did this gang get so#  serious?
@@ -12163,13 +12163,13 @@ y_target_override
 feather_create_count
 hint_scale
 * Ow...
-* I am so tired of this#  "falling" thing. 
-* How about you?
-Again!
-* Like, can't gravity#  screw off every now and#  then? Seriously.
-* Again??? You didn't#  hit your head just#  now, did you?
-* Come on, get up. We can#  do this.
-* Gotta try again.
+* Estoy muy cansada de#  esto de "caer". 
+* ¿Qué hay de ti?
+¡De nuevo!
+* Tipo, ¿no puede la#  gravedad desactivarse#  de vez en cuando? En serio.
+* ¿¿¿De nuevo??? ¿Te#  golpeaste la cabeza?
+* Vamos, levántate. Podemos#  hacerlo.
+* Intentemos de nuevo.
 no_loop_2
 draw_player_sprite
 music_position
@@ -12831,8 +12831,8 @@ http://localhost:5100
 * Make sure to be extra#  careful handling it!
 lefth
 leftl
-* (You find a stick of beef#  jerky in the trash can.)
-* (You got beef jerky!)
+* (Encontraste carne seca en#  el tacho de basura.)
+* (¡Obtuviste carne seca!)
 screenshake_max
 * I gotta say, that was#  pretty entertaining!
 * Glad we could bypass#  Axis without destroying#  him.
@@ -13577,7 +13577,7 @@ tiles_outside
 rubble
 asset_glass_flash
 asset_broken_glass
-* FOUND YOU.
+* ENCONTRADOS.
 dynamic_wall
 * YOU ARE CORNERED,#  HUMAN.
 * I DID NOT WANT TO HURT#  YOU BUT YOU FORCED MY#  GLOVE.
@@ -15301,8 +15301,8 @@ caught_noloop
 flashlight_emitter
 audio_emitter_position
 audio_emitter_falloff
-* HA. FOUND YOU.
-* AWAY YOU GO.
+* JA. ENCONTRADOS.
+* PARA AFUERA.
 move_speed_attack
 move_speed_attack_max
 move_speed_attack_increase
@@ -17559,8 +17559,8 @@ camera_base_y
 box_x
 box_y
 amount
-* (You figured out a#  code?)
-* (Hurry and give it a#  try!)
+* (¿Averiguaste un código?)
+* (¡Apúrate e inténtalo!)
 * (Try something else!#  Come on!)
 * Okay! Let's head#  upstairs before Axis- 
 * Axis!
