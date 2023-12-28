@@ -983,7 +983,7 @@ Steamw. - Laboratorio
 Steamw. - Botany Hall
 Factory - Lobby
 Factory - Oficinas
-The Furnace
+El Horno
 A Road Ahead
 Estate
 Apt. Complex
@@ -9560,27 +9560,27 @@ furnace_number
 * (The remnant of Ceroba's#  wrath.)
 * (A large collection of#  familiar stones.)
 * (Unfortunately, nothing in the#  pile catches your eye.)
-* (An old PC sitting on two#  desktops.)
-* (The image on the screen gives#  you a nostalgic feeling.)
-* (The note on the powered off#  PC reads:)    
-* The future is bright.
-* Hang in there!
-* (The desk chair seems to be#  growing a substance you'd#  rather stay away from.)
-* (Many sticky notes are posted#  around the smashed-in PC.)
-* We've replaced your computer#  six times now.    
-* Please control your temper.#  It's just Solitaire.
-* (You are awestruck by the#  absolute pipe pandamonium on#  display.)    
-* (How DO they do it?)
-* DOWNSIZING IMMINENT!    
-* But definitely not for the#  employee who's reading this.   #  
-* You're doing a great job!
-* (A dilapidated desk with#  several ripped up notes strewn#  about.)    
-* (Among the notes sits a piece#  of paper with one thing written#  on it:)    
-* How do I tell them?
-* Today's elevator passcode:#  
-* (Dusty filing cabinets filled#  with employee records.)
+* (Una vieja PC entre dos#  escritorios.)
+* (La imágen en la pantalla#  te da un aura nostálgico.)
+* (La nota en la PC#  apagada dice:)    
+* El futuro es brillante.
+* ¡Tú puedes!
+* (La silla parece tener#  una sustancia emergente de#  la que te alejas.)
+* (Varias notas pegables#  están colocadas en la#  PC.)
+* Hemos reemplazado tu#  computadora seis veces.    
+* Por favor controla tu#  temperamento.#  Solo es Solitario.
+* (Estás atónito ante el#  pandemonio de tubos en#  la pantalla.)    
+* (¿CÓMO lo hacen?)
+* ¡CORTES DE PERSONAL#  INMINENTES!    
+* Pero definitivamente no#  para el empleado que está#  leyendo esto.  
+* ¡Estás haciendo un gran#  trabajo!
+* (Una mesa en ruinas#  varias notas arrancadas#  esparcidas.)    
+* (Entre las notas hay un#  papel con algo escrito:)    
+* ¿Cómo les digo?
+* El código de hoy es:#  
+* (Cajones polvosos de#  archivos con registros de#  empleados.)
 * Richter B. Oni
-* Engineering Certificate -#  X/X/20XX
+* Certificado en Ingeniería -#  X/X/20XX
 DoorOpen
 * (Freshly trimmed bamboo#  plants.)
 new_room
@@ -11331,9 +11331,9 @@ randy
 spawn_point_x
 spawn_point_y
 * (No business to conduct here.)
-* (A faint face is burned into#  the machine's screen...)
-* (...staring out into the dim#  chasm of rock and steel.)
-* (You spot some Gravity Granola#  inside the machine.)
+* (Una tenue cara está#  impregnada a la#  pantalla de la máquina...)
+* (...Observando el gran abismo#  de rocas y hierro.)
+* (Observas un poco de Gravity#  Granola dentro de la#  máquina.)
 * (Some food lies within the#  robotic husk.)
 * (You got some Gravity Granola!)
 frog_jump
@@ -12960,7 +12960,7 @@ door_fade_out
 * (What could open it up?)
 * (No se te ocurre cómo#  hacer que esto funcione.)
 * (You use the ACID to ACID#  away at the DOOR.)
-* HELLO.
+* HOLA.
 * I HAD TROUBLE LOCATING#  YOU AFTER OUR LAST#  ENCOUNTER.
 * WORRY NO MORE, I HAVE#  LOCATED YOU.
 * MY LAST PLAN DID NOT#  WORK SO I WILL TRY#  SOMETHING NEW.
@@ -12995,13 +12995,13 @@ coming through coming through now
 target_position
 x_offset_base
 bell_sound
-* Watch it, Clover!
-* We don't want to alert#  any outsiders.
-* Especially workers#  under Asgore like the#  UGPS.
-* Your mail will have to#  wait.
-* We don't want to alert any#  outsiders.
-* Especially workers under#  Asgore like the UGPS.
-* Your mail will have to wait.
+* ¡Cuidado, Clover!
+* No queremos alertar a#  alguien externo.
+* En especial empleados#  bajo Asogre como el#  SPSS.
+* Tu correo tendrá que#  esperar.
+* No queremos alertar a#  alguien externo.
+* En especial empleados#  bajo Asogre como el#  SPSS.
+* Tu correo tendrá que#  esperar.
 * Pero nadie vino.
 x_distance
 bounce
@@ -14754,63 +14754,63 @@ pellet_gap_size
 pellet_destroy
 spread_amount
 new_pellet
-* (A sheet of neatly typed#  bullet points lies crumpled in#  the trash.)
-* (You stash it in your mail#  bag.)
-* Workstations...
-* Okay, well... Probably#  another code to find.
-* You know the drill.
-* Must be the manager's#  office.
-* Surely they had access#  to all passcodes.
-* Let's check those file#  cabinets.
-* Hold on, look here.
-* Performance reports for#  all factory employees.
+* (Una hoja con apuntes#  pulcramente escrito yace#  en la basura.)
+* (Lo echas a tu bolso.)
+* Áreas de trabajo...
+* Okei, entonces... Ha de#  haber otro código por#  encontrar.
+* Ya sabes como es.
+* Debe ser la oficina#  del gerente.
+* De seguro tiene acceso#  a todos lo códigos.
+* Revisemos esas cajones#  con archivos.
+* Espera, mira esto.
+* Reporte de rendimiento#  de todos los empleados#  de la fábrica.
 * A... B...
 * "01/16/20XX...
-* Mr. Chujin pitched his#  blueprints for a "guard bot" of#  sorts.
-* He called the project: AXIS."
+* Mr. Chujin presentó sus#  planos para un "bot guardián".
+* Llamó al proyecto: AXIS."
 * "03/19/20XX...
-* Axis Model 01 was presented to#  King ASGORE but was swiftly#  rejected.
-* The poor thing couldn't stay#  powered up for more than six#  seconds."
+* Axis Modelo 01 fue presentado al#  Rey ASGORE pero fue#  gentilmente rechazado.
+* El pobrecito no podía#  mantenerse encendido por#  más de seis segundos."
 * "05/10/20XX...
-* Axis Model 04 backfired and#  shot one of its gloves at the#  King.
-* This is getting embarrassing."
+* Axis Modelo 04 salió mal#  y le disparó de sus#  guantes al Rey.
+* Esto se está volviendo#  vergonzoso."
 * "07/23/20XX...
-* Axis Model 07 refused to enter#  the throne room.
-* ...ASGORE gave Chujin one more#  shot after incessant pleading.
-* I know he's a smart engineer#  but if the next showcase goes#  south..."
+* Axis Modelo 07 se rehusó#  a entrar a la#  sala del trono.
+* ...ASGORE le dió a Chujin una#  oportunidad más después#  de suplicarle tanto.
+* Sé que es un ingeniero listo#  pero si la siguiente#  demostración sale mal..."
 * "09/23/20XX...
-* Well, this is it.
-* Model 08 booted up and seemed#  to be stable for a moment.
-* That was until a malfunction#  occurred and sparks began to#  emit from the body.
-* In the chaos, one spark leaped#  onto King ASGORE's flower bed.
-* ...A fire ignited but was#  swiftly put out.
-* Please leave. Leave and do not#  return.
-* Yo... I apologize deeply.
-* But as we are, us monsters#  simply aren't ready to bypass#  the barrier!
-* You know this deep down... I#  know you do. Axis IS the#  solution you need!'
-* The solution I need is a#  reliable one. One that won't#  set fire to our homes.
-* If this is about my...
-* It isn't.
-* I thank you for your service to#  society...
-* ...But I'm afraid monsterkind's#  freedom belongs in more capable#  hands.'"
-* "Capable hands" he#  says.
-* Look at Axis now. The#  TRUE realization of#  Chujin's vision.
-* He far exceeds ANY model#  Asgore ever saw!
-* And you know who those#  "capable hands" now#  belong to? 
-* The scientist who has#  Kanako.
+* Bueno, eso es todo.
+* Modelo 08 encendió y parecía#  estar estable por un#  momento.
+* Eso fue hasta que un erro#  ocurrió y chispas comenzaron a#  emitirse de su cuerpo.
+* En el caos, una chispa cayó#  hacia la cama de flores"  del Rey ASGORE.
+* ...Un incendio comenzó pero#  fue apagado rápidamente.
+* Por favor ándate. Ándate y#  no regreses.
+* Yo... me disculpo profundamente.
+* ¡Pero la ser así, los#  monstruos simplemente no#  podemos pasar la barrera!
+* Por dentro lo sabes... Yo sé#  que sí. ¡Axis ES la#  solución que necesitas!'
+* La solución que necesito#  es una fiable. Una que no#  incendie nuestras casas.
+* Si esto es acerca de#  mi...
+* No lo es.
+* Agradezco tus servicios#  hacia la sociedad...
+* ...Pero temo que la libertad#  de los monstruos perteneces#  a manos más capaces.'"
+* "Manos capaces" dice.
+* Mira a Axis ahora. La#  VERDADERA realización de#  la visión de Chujin.
+* Excede por MUCHO cualquier#  modelo que ASGORE vió!
+* ¿Y sabes a quién ahora#  le pertenece esas "manos capaces"? 
+* La científica que tiene#  Kanako.
 * Dr. Alphys.
-* A while back, she built#  a robot too.
-* One so "lifelike" it#  got her the position she#  has now.
-* It must've been real#  impressive!
-* So impressive that#  Asgore kicked the other#  visionaries to the curb.
-* I understand now... Why#  Chujin never shared this#  with me...
-* He must've been#  absolutely gutted#  hearing those words... 
-* Screw the Royals.
-* The politics, all the#  red tape...
-* This, Clover, this is#  why the mission is so#  important.
-* You can't trust these#  close-minded gatekeepers#  to do anything right.
-* Not for a second.
-* Let's go.
+* Hace un tiempo, ella#  contruyó un robot también.
+* Uno tan "realista" que#  le otorgó la posición#  que tiene ahora.
+* ¡Debió ser tan#  impresionante!
+* Tanto así que Asgore#  tiró a los otros#  visionarios hacia las migas.
+* Ahora entiendo... Porque#  Chujin nunca compartió esto#  conmigo...
+* Debió de haber estado#  completamente decepcionado#  al oír esas palabras... 
+* Al diablo los Guardias.
+* La política, toda esa#  cinta roja...
+* Por eso, Clover, por eso#  es tan importante#  esta misión.
+* No puedes confiar en#  esos guardianes en hacer#  algo bien.
+* Ni por un segundo.
+* Vámonos.
 target_speed
 speed_dec
 speed_min
@@ -15561,38 +15561,38 @@ flowey_npc
 * It's fully up to you#  but I just wanted to let#  you know...
 * ...Our partnership#  means a lot to me.
 pacifist_cutscene
-* (You hear the whirring of#  cooling fans inside the hot#  console.)	
-* (Best leave it be.)
+* (Escuchas la bulla de#  los ventiladores dentro#  de la consola caliente.)	
+* (Es mejor dejarlo así.)
 * (The computer was recently#  used.)
-* (A daunting array of screens#  and buttons lie before you.)
-* (You press one of the#  buttons.)
+* (Una abrumante carga de#  pantallas y botónes están#  al frente tuyo.)
+* (Presionas uno de los#  botónes.)
 Info
 Docs
-Pictures
-Games
-Settings
-* Robotics Control Status:#  Functioning at 78%.
-* Awaiting input . . .
-* MAIN DIRECTORY:
-* Steamworks Station R#  System
-* OS Delta - Version 1.4 -#  Installed X/X/20XX
-* Processor - Ultra McTurbo#  Core 180 - 0.5GHz
-* Installed Physical Memory -#  500 MB
-* Graphics Card - ERROR
-* ERROR - Information#  classified.
-* Loading . . .
-* Estimated time remaining:#  9 hours . . .
-* Feature BLOCKED.
-* Custom message: Trying to#  play video games on#  the job? 
-* Please report to the head#  office. We have a#  pink-colored gift for you.
-Emergency Shutdown
-Back
-* Select your option.
-* Shut down all helper bots#  within the vicinity?
-* Attempting shut down . . .
-* ERROR: Could not complete#  task.
-* Just kidding ;)
-* Emergency shutdown#  complete.
+Imágenes
+Juegos
+Configuración
+* Control de Estado Robótico:#  Funcionando al 78%.
+* Esperando entrada . . .
+* DIRECTORIO PRINCIPAL:
+* Sistema de la Estación R#  de Steamworks
+* OS Delta - Versión 1.4 -#  Instalada X/X/20XX
+* Procesador - Ultra McTurbo#  Core 180 - 0.5GHz
+* Memoria Física Instalada -#  500 MB
+* Tarjeta Gráfica - ERROR
+* ERROR - Información#  clasificada.
+* Cargando . . .
+* Tiempo estimado restante:#  9 horas . . .
+* Función BLOQUEADA.
+* Mensaje personalizado: ¿Intentas#  jugar videojuegos en#  el trabajo? 
+* Por favor repórtese a la#  oficina principal. Tenemos#  un regalo rosa para usted.
+Apagado de Emergencia
+Atrás
+* Selecciona tu opción.
+* ¿Apagar todos los bots#  ayudantes en los#  alrededores?
+* Intentando apagado . . .
+* ERROR: No se pudo#  terminar la tarea.
+* Era broma ;)
+* Apagado de emergencia#  completado.
 * Why did you select this#  option then?
 text_box_noloop
 autowalk_direction_no_loop
@@ -17561,27 +17561,27 @@ box_y
 amount
 * (¿Averiguaste un código?)
 * (¡Apúrate e inténtalo!)
-* (Try something else!#  Come on!)
-* Okay! Let's head#  upstairs before Axis- 
+* (¡Inténta algo más!#  ¡Vámos!)
+* Okei! Subámos antes#  de que Axis- 
 * Axis!
-* ...Juuust the bot I was#  looking for!
-* How are you doing these#  days?
-* NOT SO GOOD.
-* I COULD ONLY SPEAK IN 15#  CHARACTERS (max) BACK#  THERE.
-* IT KIND OF BUMMED ME#  OUT.
-* I'm sorry to hear that.
-* Glad you got your full#  speech ability back.
-* THANK YOU. I DO LIKE#  TALKING.
-* WAIT.
-* WAIT????
-* ARE YOU TRYING TO#  DISTRACT ME FROM MY#  MISSION.
-* OH OKAY.
-* Can I ask you a question#  involving the security#  of the Steamworks?
-* YES I AM A SECURITY#  EXPERT.
-* Why is it that some#  doors require a passcode#  to unlock...
-* And others require a#  Steamworks ID?
-* TWO-FACTOR#  AUTHENTICATION.
-* COOL.
+* ...¡Juuusto el bot que#  andaba buscando!
+* ¿Cómo te ha ido?
+* NO TAN BIEN.
+* SOLO PODÍA HABLAR CON#  15 CARACTÉRES (máx)#  HACE UN MOMENTO.
+* ME DESANIMÓ UN POCO.
+* Siento escuchar eso.
+* Que bueno que ahora#  puedas volver a hablar.
+* GRACIAS. ME GUSTA HABLAR.
+* ESPERA.
+* ¿¿¿ESPERA????
+* INTENTAS DISTRAERME DE#  MI MISIÓN.
+* OH OKEI.
+* ¿Te puedo hacer una#  pregunta acerca de la#  seguridad de Steamworks?
+* SÍ SOY UN EXPERTO#  EN SEGURIDAD.
+* ¿Por qué algunas puertas#  requieren un código para#  abrirse...
+* Y otras requieren un#  ID de Steamworks?
+* VERIFICACIÓN DE DOS#  PASOS.
+* LOL.
 * Un tubo lleno de agua.
 * El medidor de agua#  está lleno de hielo#  líquido.
 part_smokesys
@@ -23115,11 +23115,11 @@ rm_newhome_02b
 rm_castle_01
 spr_masterswordremix_shield
 advance
-* Who did that!?
-* ¡Clover! You can hear me, right?
-* I'm gonna try to blast a hole#  in this thing!
-* It's gonna take a lot to break#  through!
-* And to think we were almost#  free of this place...
+* ¡¿Quién hizo eso!?
+* ¡Clover! ¿Me escuchas, cierto?
+* ¡Intentaré hacer un hueco#  con esta cosa!
+* Tomará mucho para que#  se rompa!
+* Y pensar que estabamos#  cerca de irnos...
 * Um, just look around for a#  switch or keypad!
 * There's always one near doors.
 * [MAIN POWER SOURCE NOT FOUND_]
@@ -25601,28 +25601,28 @@ I DIDN'T WANT TO
 * I'm just not in a talking mood#  right now.
 * M-Maybe later...?
 * Let's stay on track,#  okay?
-* Heeello!!! I welcome you into#  my body!!!
-* Where ever would you like to#  go??
-* Top floor.
-* Did you say: "Basement?"
-* Get us to the roof! Out#  of here! Whatever!
-* I carry a negative opinion of#  you.
-* Heading to: "Out of here."
-* Ugh, sorry for all the#  outbursts.
-* All of this is...
-* It's a lot to process.
-* Bet you're pretty tired#  of learning about me#  so...
-* ...What about you?
-* You're not exactly a#  talker so I don't know#  much.
-* Why are you here in the#  first place?
-* Did you simply trip and#  fall into the#  Underground?
-* I'm curious.
-* You wanted to find out#  what happened to those#  kids.
-* ...A noble mission.#  Takes guts.
-* I'm... assuming you#  haven't found them yet,#  though.
+* ¡¡¡Hooola!!! ¡¡¡Les doy la#  bienvenida a mi cuerpo!!!
+* ¿¿A donde les gustaría#  ir??
+* Piso de arriba.
+* ¿Dijiste: "Sótano?"
+* ¡Mándanos al último pisto!#  ¡Fuera de aquí! #  ¡Lo que sea!
+* Tengo una mala opinión#  acerca de ti.
+* Rumbo a: "Fuera de aquí."
+* Agh, perdón por todos#  los arrebatos.
+* Todo esto es...
+* Es mucho por procesar.
+* De seguro estás harto#  de aprender acerca de#  mi así que...
+* ...¿Qué hay de ti?
+* No eres de hablar#  mucho así que no#  sé mucho.
+* ¿Por qué estás aquí#  en primer lugar?
+* ¿Simplemente te tropezaste#  y caíste al Subsuelo?
+* Tengo curiosidad.
+* Querías saber que le#  sucedió a esos niños.
+* ...Una misión noble.#  Toma agallas.
+* Asumo... que no los#  has encontrado aún,#  por lo visto.
 check
-* We have arrived at "Out of#  here."
-* Well uh... better get#  moving.
+* Hemos llegado a "Fuera#  de aquí."
+* Bueno uh... mejor#  sigamos.
 Undertale Yellow
 Default
 Undertale_Yellow
