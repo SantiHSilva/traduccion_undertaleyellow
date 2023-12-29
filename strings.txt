@@ -510,7 +510,7 @@ gml_Script_scr_save_flowey_steamworks
 * ...¿Qué? You want me to#  keep inflating your ego?
 * This was novel back in#  like, Snowdin, but now?
 * I don't know... Aren't#  you bored?
-* Right.
+* Cierto.
 * Wow! I am constantly#  astonished by your#  abilities!
 * The skill it must've#  taken to shoot a bunch#  of tin cans!
 * Just, inspiring!
@@ -10468,69 +10468,69 @@ Guzusuru
 Game Jolt
 credits_entry_three
 river_ambience
-* I've been thinking#  about that day.
-* A lot.
-* Time is a funny thing,#  you know?
-* I guess in the big#  picture of my life, you#  were only a blip.
-* But oftentimes, those#  "blips" make the biggest#  impacts.
-* The King offered me a#  promotion.
-* A guard post in New#  Home.
-* But after experiencing#  the worst the job had to#  offer...
-* I declined. 
-* Not only that, I put in#  my two weeks, heh.
-* Yo... felt that there#  are much better causes#  to pour myself into.
+* He estado pensando#  en ese día.
+* Un montón.
+* El tiempo es algo,#  gracioso, ¿Sabes?
+* Supongo que en el#  panorama de mi vida, fuiste#  sólo un parpadeo.
+* Pero a menudo, esos#  "parpadeos" son los que#  más impacto causan.
+* El Rey me ofreció una#  promoción.
+* Un puesto en Nuevo#  Hogar.
+* Pero luego de experimentar#  lo peor que el trabajo#  tiene que ofrecer...
+* Lo rechacé.
+* No sólo eso, tomé#  mis dos semanas, je.
+* Allí... allí sentí#  que hay mejores causas#  en las que puedo entrar.
 * De todas formas...
-* Sorry that I'm putting#  you on one of my rafts#  again.
-* Might not be the most#  appropriate sendoff#  after that last ride...
-* But it's the best#  tribute I could think#  of.
+* Perdón por ponerte#  en otro de mis botes#  otra vez.
+* Podrá no ser la despedida#  más apropiada luego#  del útimo viaje...
+* Pero es el mejor tributo#  que se me ocurrió.
 actor_starlo
 actor_ceroba
 * Es bonito.
-* It is.
-* Thanks for doing this.
-* Felt good to craft#  something with meaning#  again.
-* You got your gift?
-* Yeah, here you go.
-* Oh, I almost forgot.
-* There's someone I#  invited who was a friend#  of Clover's.
-* A friend?
-* H-Hello?
-* Is this the right place?
-* Oh, hello.
-* Howdy.
-* Sorry if I'm#  intruding...
-* My name is Dalv and I#  um...
-* I was living in the#  Ruins when Clover first#  entered the Underground.
-* So you were the first#  to meet ‘em?
-* One of the first, I#  suppose...
-* A-Anyway, when we met,#  I acted foolish and... 
-* ...attacked Clover.
-* I think we all did at#  one point...
-* I promise it didn't#  last long, though!
-* And I held back a#  little. Um...
-* Where was I going with#  this?
-* Clover helped you out#  of your situation.
+* Lo es.
+* Gracias por hacer esto.
+* Se sintió bien construir#  algo con valor#  otra vez.
+* ¿Tienes tu regalo?
+* Seh, ahí va.
+* Oh, casi lo olvido.
+* Hay alguien quien#  invité que era un amigo#  de Clover.
+* ¿Un amigo?
+* ¿H-Hola?
+* ¿Este es el lugar correcto?
+* Oh, hola.
+* Buenas.
+* Disculpen si me #  estoy entrometiendo...
+* Mi nombre es Dalv y#  emm...
+* Vivía en las Ruinas#  cuando Clover#  entró al Subsuelo.
+* ¿Así que fuiste el#  primero que se encontró?
+* Uno de los primeros,#  supongo...
+* C-Como sea, cuando nos#  encontramos, actúe#  tontamente y...
+* ...ataqué a Clover.
+* Creo que todos lo#  hicimos en un punto...
+* ¡Pero prometo que#  no duró mucho!
+* Y me contuve#  un poco. Em...
+. ¿A dónde iba con esto?
+* Clover te ayudó a salir#  de tu situación.
 * Sí.
-* All in all, Clover was#  very kind to me.
-* That checks out.
-* It's nice to meet you,#  Dalv.
-* Thanks for coming.
-* Of course.
+* En definitiva, Clover fue#  muy amable conmigo.
+* Tiene sentido.
+* Es un placer conocoerte,#  Dalv.
+* Gracias por venir.
+* Por supuesto.
 * Bueno...
-* No more stalling.
-* Everyone ready?
-* I believe so.
-* Oh, wait a second.
-* I want to place one#  more thing.
-* Safety glasses?
-* I want Clover to stay#  safe on their journey.
-* Can't forget 'em,#  right?
-* No, you can't.
-* There you go...
-* Goodbye, friend.
-* Thanks for all you've#  done.
-* See you around, kid.
-* Take care, Clover.
+* Basta de demoras.
+* ¿Todos están listos?
+* Eso creo.
+* Oh, espera un segundo
+* Quiero colocar una#  cosa más.
+* ¿Lentes de seguridad?
+* Quiero que Clover esté#  seguro en su viaje.
+* No puedes olvidarlos,#  ¿Cierto? 
+* No, no puedes.
+* Ahí vamos...
+* Adiós, amigo.
+* Gracias por todo lo#  que has hecho.
+* Nos vemos, niño.
+* Cuídate, Clover.
 wrap_around
 goggles
 gun
@@ -10540,7 +10540,7 @@ hat
 offset
 camera_border_y
 camera_border_x
-THE END
+FIN
 * Dum dee dum...
 * Um... Disculpe?
 * Rey?
@@ -12613,7 +12613,7 @@ Room
 actor_axis
 * [MAIN POWER SOURCE NOT#  FOUND_]
 * [INITIATING EMERGENCY#  BACKUP POWER_]
-* H-H-HUMA-N.
+* H-H-HUMA-NO.
 * Y-YOU HAVE ANGERED ME#  GREATLY.
 * I HAVE HAD IT WITH YOU#  DOING NOTHING AS I FAIL#  OVER AND OVER.
 * DO YOU KNOW HOW HARD IT#  WAS TO GET THE ACID OUT#  OF MY STEEL?
@@ -12622,16 +12622,16 @@ actor_axis
 * ANYWAY.
 * IF YOU CANNOT TELL, I#  AM [ticked] OFF AND OUT#  OF NON-LETHAL OPTIONS.
 * THAT, AND THIS FURNACE#  HAS A NICE "TIME TO DIE"#  AESTHETIC TO IT.
-* SO PREPARE YOURSELF. I#  AM ATTACKING NOW.
-* WHAT.
-* MY PROGRAMMING IS#  PREVENTING ME FROM#  ATTACK.
-* IT SAYS YOU ARE NOT A#  CURRENT THREAT OR#  RESISTING ARREST.
-* UGH, [forget] THIS.
-* HERE, I WILL MAKE YOU A#  THREAT.
-* HOLD THIS, IT SUITS#  YOU.
-* THERE. NOW YOU HAVE A#  DRAWN "WEAPON."
-* LOOPHOLES ARE#  WONDERFUL, ARE THEY NOT?
-* YOUR CRIMES END HERE,#  HUMAN.
+* ASÍ QUE PREPARATE. VOY#  A ATACARTE.
+* QUE.
+* MI PROGRAMACIÓN ME#  PREVIENE DE ATACARTE.
+* DICE QUE NO ERES UNA#  AMENAZA O QUE OPONES#  SER ARRESTADO.
+* AGH, A LA [basura].
+* MIRA, TE CONVERTIRÉ#  EN UNA AMENAZA.
+* SOSTÉN ESTO, TE QUEDA.
+* LISTO. AHORA TIENES UNA#  ARMA "BLANCA."
+* LOS VACÍOS LEGALES#  SON MARAVILLOSOS, ¿NO#  LO CREES?
+* TUS CRÍMENES ACABAN#  AQUÍ, HUMANO.
 * I APOLOGIZE FOR#  TORMENTING YOU AND#  CALLING YOU NAMES.
 * MY CODED PROTOCOL#  BLINDED ME FROM#  SOMETHING...
 * SOMETHING CALLED...#  "BASIC DECENCY."
@@ -12649,13 +12649,13 @@ actor_axis
 * THE FREEDOM TO BE#  FLAWED.
 * ALL THAT TO SAY, I#  WOULD NOT INVITE ANY#  OTHER HUMANS HERE.
 * SOMEONE WILL JUMP THEM.
-  BACKUP BATTERY EXTREMELY LOW.#  PLEASE RECHARGE.
-* OH, SUPPOSE I SHOULD GO#  DO THAT.
-* RECHARGING WILL RESTORE#  ME BACK TO MY FACTORY#  STATE BUT...
-  ADDED "HATTED HUMAN" TO#  "AUTHORIZED" LIST.
-* THERE. NOW I WILL NOT#  ATTEMPT APPREHENSION#  NEXT TIME WE MEET.
+  BATERÍA DE RESPALDO#  EXTREMADAMENTE BAJA.#  POR FAVOR RECARGAR.
+* OH, SUPONGO QUE DEBO#  IRME PARA HACER ESO.
+* RECARGAR ME DEVOLVERÁ#  A MI ESTADO DE#  FÁBRICA PERO...
+  AGREGADO "HUMANO ODDIADO" A#  LA LISTA DE "AUTORIZADOS".
+* LISTO. AHORA NO INTENTARÉ#  DETENERLOS LA PRÓXIMA#  VEZ QUE NOS VEAMOS.
 * HAVE A PLEASANT#  JOURNEY, HUMAN.
-* OH, ONE MORE THING.
+* OH, OTRA COSA.
 * LEAVE THE POWER ON WHEN#  YOU EXIT, WILL YOU?
 * I LIKE LIVING. 
 * THANKS.
@@ -12834,12 +12834,12 @@ leftl
 * (Encontraste carne seca en#  el tacho de basura.)
 * (¡Obtuviste carne seca!)
 screenshake_max
-* I gotta say, that was#  pretty entertaining!
-* Glad we could bypass#  Axis without destroying#  him.
-* Turns out you're a#  pretty damn good leader,#  Clover!
-* I don't know why I#  doubted-
-* I see our exit up ahead.
-* We're close.
+* Debo decirlo, ¡eso fue#  bastante entretenido!
+* Que bueno que pudimos#  pasar de Axis sin#  destruirlo.
+* ¡Al parecer has sido un#  muy buen líder,#  Clover!
+* No sé porque dudaba-
+* Veo nuestra salida más#  adelante.
+* Estamos cerca.
 mask_is_vulnerable
 mask_flash_multiplier
 mask_hit_points
@@ -13190,108 +13190,108 @@ part_type_alpha2
 zen_dialogue_gain
 offset_y_current
 offset_y_scroll_speed
-* You... beat me up#  pretty b-badly, huh?
-* S-Star I...
-* Don't sweat it too#  much...
-* I reckon I deserved it#  for the Wild East#  fiasco.
-* Heck of a hit though.
-* I didn't know you had#  that in you.
-* I'm... I'm so sorry.
-* ¡Clover! We gotta get#  out of here!
+* Me... me diste una#  b-buena golpiza, ¿Eh?
+* S-Star lo...
+* No te preocupes#  demasiado...
+* Entiendo que me lo#  merecía por el fiasco#  del Salvaje Este.
+* Tremendo golpe, eso sí.
+* No sabía que tenías#  eso en ti.
+* Lo... Lo siento tanto.
+* ¡Clover! ¡Tenemos que#  irnos de aquí!
 * No.
-* It's finished.
+* Ya terminó.
 * Clover... 
-* Clover won.
-* Y'all had a fight? And#  the deputy won?
-* (My lessons worked...)
-* Wait, how much did I#  miss?
-* I don't know what to#  do.
-* Apologize, make#  excuses, nothing would#  change reality.
-* I've dug a hole far too#  deep to climb out of.
-* And for nothing...
+* Clover ganó.
+* ¿Ustedes tuvieron una#  batalla? ¿Y el#  ayudante ganó?
+* (Mis clases funcionaron...)
+* Espera, ¿Qué tanto me#  perdí?
+* No sé que hacer.
+* Disculparme, hacer#  excusas, nada cambiaría#  la realidad.
+* Cavé un pozo demasiado#  profundo como# para salir.
+* Y para nada...
 * Oye...
-* Where was I a few hours#  ago?
-* In this same situation.
-* My judgment was clouded#  and I screwed up.
-* But you forgave me. The#  four others did as well.
-* We've both made poor#  choices, no#  sugar-coating that...
-* But there is hope. At#  least... I believe there#  is.
-* Yo... can't begin to#  grasp what you've gone#  through...
-* But this was an#  absolutely horrible way#  of dealing with it.
-* You can't change what#  has happened, you're#  right.
-* But you can control how#  you live from now on.
-* Your actions will mean#  everything.
-* Chujin. His legacy. His#  wish.
-* It will never be#  fulfilled.
-* Chujin might not have#  been the perfect monster#  I thought he was...
-* But even his darkest#  secrets came from a#  caring place.
-* And that right there...#  is his legacy.
-* It isn't found in a#  serum to "save the#  world."
-* Everyone he helped,#  everything he crafted...
-* That's what matters.
-* Martlet's right.
-* He made life down here#  bearable for so many.
-* And for that, he has my#  respect.
-* Yo... never thought#  about it like that.
-* What the hell was I#  thinking?
-* I was so#  tunnel-visioned. So#  lost...
-* We can work through#  this.
-* We're here for you.
-* Now...
-* You should take some#  time to heal. Recoup.
-* But... Kanako's#  wellbeing is still a#  valid concern.
-* I have connections to#  the Royal Scientist#  so...
-* I'll begin an#  investigation. Try my#  best to help.
-* I don't know what to#  say...
-* Thank you, Martlet.
+* ¿Dónde estaba yo hace#  unas horas?
+* En esta misma situación.
+* Mi juicio estaba nublado#  y arruinado.
+* Pero me perdonaste. Y los#  otros cuatro también#  lo hicieron.
+* Ambos tomamos malas#  decisiones, no#  lo puedo negar, pero...
+* Pero hay esperanza. Al#  menos... creo que#  la hay.
+* No... no puedo empezar#  a comprender por lo#  que has pasado...
+* Pero esta fue absolutamente#  una horrible manera#  de lidiar con ello.
+* No puedes cambiar lo#  que ha ocurrido,#  tienes razón.
+* Pero puedes controlar#  cómo vivirás a#  partir de ahora.
+* Tus acciones significarán#  todo.
+* Chujin. Su legado. Su#  deseo.
+* Nunca será cumplido.
+* Chujin podrá no ser#  el monstruo perfecto que#  pensé que era.
+* Pero incluso sus secretos#  más oscuros tienen#  un origen empático.
+* Y justo eso allí...#  es su legado.
+* No se encuentra en#  el suero para "salvar#  el mundo."
+* Todos los que ayudó,#  todo lo que construyó...
+* Eso es lo que importa.
+* Martlet tiene razón.
+* Hizo tolerable la#  vida de muchos.
+* Y por eso, él tiene mi#  respeto.
+* Yo... nunca lo pensé#  de ese modo.
+* ¿Qué demonios estaba#  pensando?
+* Estaba tan cegada.#  Tan perdida...
+* Podemos superar esto.
+* Estamos aquí para ti.
+* Ahora...
+* Deberías tomarte un#  poco de tiempo#  para sanar. Recuperarte.
+* Pero... el bienestar#  de Kanako es todavía#  una preocupación válida.
+* Tengo conexiones con la#  Científica Real#  así que...
+* Empezaré una#  investigación. Haré lo#  posible para ayudar.
+* No sé que decir...
+* Gracias, Martlet.
 * Clover.
-* I owe an apology to#  you, most of all.
-* Our time in the#  Steamworks and what I#  said... It wasn't fake.
-* It did allow me to#  briefly forget my#  troubles and have fun.
-* But my reasoning for#  being there...
-* I can't begin to 
-* W-Why?
-* I mean...
+* Te debo una disculpa a#  ti, más que a todo.
+* Nuestro tiempo en#  Steamworks y todo lo#  que dije... No fue Falso.
+* Sí me permitió olvidar#  momentáneamente mis#  problemas y divertirme.
+* Pero mi razonamiento#  de estar aquí...
+* No puedo empezar a
+* ¿P-Por qué?
+* Osea...
 * ...Gracias.
-* I'm gonna cry.
-* Yo... can't believe it's#  come to this but...
-* Clover, I think your#  journey is at its end.
-* ASGORE and the barrier#  await us.
-* No! Already???
-* As sad as it is, Clover#  needs to go home.
-* That won't work.
-* Sure, we know Clover#  for who they are but#  Asgore...
-* He won't see Clover as#  we do. And he doesn't#  care to learn.
-* But this is a unique#  situation!
-* The King has always#  been kind and#  understanding!
-* Yeah, Clover wouldn't#  hurt anyone!
-* You think that's ever#  mattered in the past?
-* The truth stings, but#  it is what it is.
-* So, what?
-* Should I take Clover#  back to Snowdin?
-* Hide out for the rest#  of our lives?
-* Yeah, why couldn't#  Clover stay with us?
-* I mean, it's plausible#  but won't the Royal#  Guard be on the hunt?
-* After so many#  encounters Clover just#  disappears?
-* It wouldn't be the#  first time.
-* Ohh yeah! They would#  probably think the same#  thing happened again!
-* But... What about the#  others?
-* You know, the next#  humans.
-* Clover gets to live#  happily but they have to#  die?
+* Voy a llorar.
+* No... no puedo creer que#  haya llegado a esto#  pero...
+* Clover, creo que tu#  aventura llegó a su fin.
+* ASGORE y la barrera#  nos esperan.
+* ¡No! ¿¿¿Ya???
+* Por triste que sea,#  Clover tiene que irse#  a casa.
+* Eso no funcionará.
+* Seguro, nosotros#  conocemos a Clover por#  quien es pero Asgore...
+* No verá a Clover como#  nosotros. Y no le#  importa aprender.
+* ¡Pero esta situación#  es única!
+* El Rey siempre ha sido#  amable y comprensivo!
+* Seh, Clover no#  dañaría a nadie!
+* ¿Creen que eso ha#  importado en el pasado?
+* La verdad apesta, pero#  es lo que es.
+* Entonces, ¿Qué?
+* Debería llevar a#  Clover a Snowdin?
+* ¿Esconderlo por el#  resto de nuestras#  vidas?
+* Seh, ¿Por qué Clover#  no puede quedarse#  con nosotros?
+* Osea, es posible pero#  la Guardia Real lo#  empezaría a buscar, ¿No?
+* ¿Luego de tantos#  encuentros Clover#  sólo desaparece?
+* No sería la primera#  vez.
+* ¡Ohh sí! ¡Probablemente#  pensarían que ocurrió#  lo mismo otra vez!
+* Pero... ¿Qué pasa#  con los otros?
+* Ya sabes, los#  siguientes humanos.
+* Clover puede vivir#  una vida feliz pero#  ellos tienen que morir?
 * Oh.
-* ...We don't know their#  hearts.
-* Maybe they
-* ¿Qué? Deserve it?
-* Have you learned#  anything?
-* I'm just weighing our#  options!
-* We're backed into a#  corner here, alright?
-* Hey, calm down, guys.
-* You know I really#  thought tonight's fiasco#  was enough!
-* We all talked it#  through and things were#  going well.
-* But you immediately#  suggest giving the#  future children up to
-* I didn't mean it like#  that! Get off my case!
-* I'm sorry but I don't#  think you exactly have#  room to talk right now.
-* Come on you two! Cut it#  out!
+* ...No conocemos sus#  corazones.
+* Quizás ellos
+* ¿Qué? ¿Se lo merecen?
+* ¿Acaso no has#  aprendido nada?
+* ¡Estoy valorando#  nuestras opciones!
+* Estamos entre la#  espada y la pared,#  ¿Entiendes?
+* Hey, cálmensen, chicos.
+* ¡Sabes que realmente#  pensé que el fiasco de#  esta noche fue suficiente!
+* Todos hablamos#  y las cosas estaban#  yendo bien.
+* Pero inmediatamente#  sugieres dar a#  futuros niños a
+* ¡No lo refería de ese#  modo! ¡Déjame en paz!
+* Lo siento pero no creo#  que usteden tengan una sala#  para discutir ahora mismo.
+* ¡Vamos ustedes dos!#  ¡Déjenlo
 camera_xx
 You probably want to go home dontcha?
 Humanity already won by trapping us#down here, yet they keep twisting#the knife.
@@ -13314,81 +13314,81 @@ Keep your head in the game!
 Turns out you're a pretty#damn good leader, Clover!
 Come on, Clover!
 You are a kind soul.#One of the best I've met.
-Clover!
-* Clover, what are you doing!?
-* Hey, uh...
-* Clover? What's going#  on?
-* You're scaring us here.
-* Wh-What does that mean?
-It's time
-It's time to go
+¡Clover!
+* ¿¡Clover, qué estás#  haciendo!?
+* Hey, eh...
+* ¿Clover? ¿Qué#  sucede?
+* Nos estás asustando.
+* ¿Q-Qué significa eso?
+Es hora
+Es hora de irme
 * No... 
-* No no no no no-we'll#  think of a plan!
-* We have options!
-* Y-Yeah, don't do#  something you'll regret!
-* If it's Snowdin you#  don't like, you can live#  with me.
-* My house has the space.#  A-And the posse loves#  you!
-* Please, you gotta#  listen to us, Clover!
-* You deserve better.
+* No no no no no-pen-#  ¡Pensaremos en algo!
+* ¡Tenemos opciones!
+* S-Seh, ¡No hagas#  algo de lo que#  te arrepentirás!
+* Si es Snowdin lo que#  no te gusta, puedes#  vivir conmigo.
+* Mi casa tiene el espacio.#  ¡Y-Y la pandilla#  te ama!
+* Por favor, ¡Debes#  escucharnos, Clover!
+* Te mereces lo mejor.
 * Lo dices en serio.
-* ...I understand.
-* This whole time, what#  have we been doing?
-* Dragging Clover around...#  pulling at a leash.
-* Selfish.
-* Clover came here by#  their own volition.
-* ...They deserve to#  leave by it too.
-* But you don't want this#  outcome, right?
-* Surely...
-* If there was another#  way...
-* But let's face it.#  There isn't.
-* I believe Clover#  realized that a long#  time ago.
-* As much as I want to#  stop you...
-* I see it. In your eyes.
-* This is about our#  freedom... isn't it?
-* You are the bravest,#  most selfless human I've#  met.
-* Of course, I've only#  met one...
-* But if I ever meet#  another, I hope they're#  just like you.
-* I'd promote you to#  sheriff 'cause lord#  knows you've earned it,
-* But you aren't sheriff#  material. 
-* You're much more.
-* Yo... already made my#  feelings known in#  Hotland.
-* So...
+* ...Entiendo.
+* Todo este tiempo, ¿Qué#  hemos estado haciendo?
+* Arrastrar a Clover por ahí...#  sujetando una correa.
+* De forma egoísta.
+* Clover vino aquí por#  su propia voluntad.
+* ...También merece#  dejarlo por ella.
+* Pero no quieres este#  resultado, ¿Cierto?
+* Seguramente...
+* Si hubiera otro#  modo...
+* Pero hay que asumirlo.#  No lo hay.
+* Creo que Clover#  se dió cuenta de#  ello hace tiempo.
+* Por mucho que quiera#  detenerte...
+* Lo veo. En tus ojos.
+* Esto es por nuestra#  voluntad... ¿Cierto?
+* Eres el humano más#  valiente y altruista#  que he conocido.
+* Por supuesto, sólo#  he conocido uno...
+* Pero si alguna vez#  conozco uno, espero#  que sea igual a ti.
+* Te ascendería a#  sheriff porque Dios#  sabe que te lo ganaste,
+* Pero no eres material#  de sheriff.
+* Eres mucho más.
+* Ya... hice saber mis#  sentimientos en#  Hotland.
+* Así que...
 * Psst.
-* This means more to us#  than you know.
-* To everyone.
-* Well...	
-* I understand if you two#  don't want to be here#  for...
-* You know.
-* Do you have what you#  need?
-* I do.
-* Guess the suns getting#  low.
-* I'll... see you around,#  partner.
-* You got a receipt for#  that?
-* Thanks, kid.
-* You've changed my life.#  Truly.
-* How will I know you're#  a human now, huh?
-* This means a lot.
-* I'm sorry the world is#  like this...
-* But people like you#  make it better.
-* We'll... 
-* We'll be outside.
-* You've gained my#  respect.
-* I mean it.
+* Esto significa para#  nosotros más de#  lo que sabes.
+* Para todos.
+* Bueno...
+* Entiendo si ustedes#  dos no quieres estar#  aquí para...
+* Ya saben.
+* ¿Tienes lo necesario?
+* Lo tengo.
+* Supongo que el sol#  está bajando.
+* Te... te veré luego,#  compañero.
+* ¿Tienes un recibo#  para eso?
+* Gracias, niño.
+* Has cambiado mi vida.#  De verdad.
+* ¿Ahora cómo sabré que#  eres un humano, eh?
+* Esto significa demasiado.
+* Siento que el mundo#  sea así...
+* Pero gente como tú#  lo hacen mejor.
+* Estaremos...
+* Estaremos afuera.
+* Has ganado mi#  respeto.
+* En serio.
 soul_canister
-* Do you...
-* ...want me to stay?
-Go on
-I'll... be okay
-* This won't be#  forgotten.
+* ¿Quieres...
+* ...que me quede?
+Ve
+Voy... a estar bien
+* Esto no será#  olvidado.
 sdnfnt
-  So, this is it?
-  All that work just to become#  another cog in the machine?
-  Heh, you've grown so#  predictable!
-  I could undo all of this right#  now but... Maybe you've earned#  your rest.
-  After all, there's always#  another.
-  Can't say it's been fun so...#  I suppose this is where we part#  ways.
-  Oh, who am I kidding?
-  Until we meet again... friend.
+  Así que, ¿Así termina?
+  ¿Todo ese trabajo sólo para#  convertirte en otro#  eslabón de la cadena?
+  Je, ¡Eres tan predecible!
+  Podría deshacer todo esto#  pero ahora... Quizás te has#  ganado tu descanso.  
+  Después de todo, siempre#  hay otro.
+  No puedo decir que fue divertido#  así que... Supongo que#  aquí nos separamos.
+  Oh, ¿A quién engaño?
+  Hasta que nos veamos#  de nuevo... amigo.
 clower_crawl_speed
 Backgrounds_1
 frog_car_speed
@@ -14385,51 +14385,51 @@ new_sprite
 old_spawner
 overlap_timer
 camera_y
-* Ugh... I'm never#  travelin' via laundry#  chute again!
-* Ed! You're back!
-* And Clover too?
-* I was worried sick#  about you!
-* Where's Star?
-* Ceroba ran away so he#  chased after her.
-* Alone!?
-* Why did you let him do#  that!?
-* Star knows Ceroba more#  than anyone, Moray.
-* Well... I'm not so sure#  of that anymore.
-* Moray messaged me about#  you being in danger...
-* ...so I dropped what I#  was doing and flew over#  here!
-* Why'd you get Feathers#  involved, Moray!?
-* I just thought she#  deserved to know... She#  can help.
-* Thank you for reaching#  out.
-* I heard that you found#  something in Ceroba's#  old house?
-* What was it?
-* We didn't have the time#  to look over everythin'#  closely but...
-* It raised some serious#  concerns.
-* Papers... tapes...#  belonging to Chujin.
-* All way too scientific#  for me.
-* Clover and I can scope#  it out.
-* No way! I was told to#  keep Clover here.
-* There's a potential#  threat to their life!
-* There's always a#  potential threat to#  their life.
-* If anyone can fix this,#  it's Clover.
-* Fine... Just stay on#  track.
-* I can't have them#  runnin' away or nothin'.
-* You know the way?
-* Okay, we'll meet you#  there.
-* I still have to finish#  explainin' everythin' to#  the group.
-* Until then.
-* Come on, Clover.
-* Hey, before we go, I#  need to apologize.
-* I shouldn't have let#  Ceroba take you.
-* I just... I really#  thought I could trust#  her. We all did.
-* And what I had to take#  care of in Snowdin was#  far too impor...
-* You know what? Doesn't#  matter anymore.
-* Let's focus on what Ed#  told us.
-* Concerns regarding#  Chujin he said?
-* Surely it's nothing...#  right? 
-* Chujin was almost like#  a father to me.
-* I don't know where I'd#  be in life without him.
-* I'll... let you lead.#  Just head to Oasis#  Valley.
-* Nice to see you again,#  by the way.
+* Ugh... ¡Nunca volveré a#  viajar por los conductos#  de lavandería otra vez!
+* ¡Ed! ¡Volviste!
+* ¿Y Clover también?
+* ¡Estaba tan preocupado#  por ti!
+* ¿Dónde está Star?
+* Ceroba huyó así que#  él fue tras ella.
+* ¿¡Solo!?
+* ¿¡Por qué dejaste que#  haga eso!?
+* Star conoce a Ceroba#  más que cualquiera, Moray.
+* Bueno... No estoy tan#  seguro de eso ahora.
+* Moray me mandó un#  mensaje acerca de que#  estabas en peligro...
+* ...¡así que dejé lo#  que estaba haciendo y#  volé hacia acá!
+* ¿¡Por qué involucraste#  a Plumitas, Moray!?
+* Sólo pensé que ella#  merecía saber... Ella#  puede ayudar.
+* Gracias por avisarme.
+* ¿Oí que encontraron algo#  en la casa de Ceroba?
+* ¿Qué es?
+* No tuvimos tiempo para#  ver todo de cerca#  pero...
+* Sucitó serias#  preocupaciones.
+* Papéles... Cintas...#  pertenecientes a Chujin.
+* Todo era muy científico#  para mi.
+* Clover y yo podemos#  ver los detalles.
+* ¡De ninguna manera! Me#  ordenaron mantener a#  Clover aquí.
+* ¡Hay una potencial#  amenaza en contra de#  su vida!
+* Siempre hay una#  potencial amenaza en#  contra de él.
+* Si alguien puede solucionar#  esto, ese es Clover.
+* Está bien... Solo no se#  desvíen.
+* No puedo dejarlo escapar#  ni algo parecido.
+* ¿Saben cómo llegar?
+* Okei, nos encontraremos#  allá.
+* Aún tengo que explicarle#  todo al grupo.
+* Mientras tanto.
+* Vamos, Clover.
+* Hey, antes de irnos,#  tengo que disculparme.
+* No debí dejar que#  Ceroba te lleve.
+* Solo... creí que podía#  confiar en ella.#  Todos creímos.
+* Y lo que tenía que#  hacer en Snowdin era#  demasiado impor...
+* ¿Sabes qué? Ya no#  importa.
+* Centrémonos en lo que#  Ed nos dijo.
+* ¿Preocupaciones acerca#  de Chujin dijo?
+* Seguro no es nada...#  ¿verdad? 
+* Chujin fue como un#  padre para mi.
+* No se que sería de mi#  vida sin él.
+* Te... dejaré ir al#  frente. Solo ve hacia#  Oasis Valley.
+* Que bueno volverte a#  ver, de todas formas.
 npc_reset
 bounce_speed
 bounce_noloop
@@ -14834,7 +14834,7 @@ ceroba_x_original
 * NO.
 * NOT IN THE MOOD.
 * MY EYES ARE ONLY SET ON#  YOUR APPREHENSION.
-* GOODBYE.
+* ADIÓS.
 * You're making them cry,#  Axis!
 * Come on, now!
 * ROBOTS CANNOT CRY. I#  HAVE TRIED.
@@ -15366,33 +15366,33 @@ sequence_layer_goosic
 * (You open the mysterious chest#  as an epic melody slowly#  crescendos in your head.)
 * (You found a Golden Bandana!)
 * (You got the Golden Bandana!)
-* We actually made it...
-* Let's hope this elevator#  works.
+* En serio lo logramos...
+* Espero que este elevador#  funcione.
 elevator_sound
-* Next stop, the Lab.
-* And what are you planning to do#  at the Lab?
-* Starlo!? W-What are you#  doing here!?
-* The gang and I were#  planning a return party#  for you.
-* Thought it was a great#  idea, especially for#  Kanako.
-* That's... very kind of#  you.
-* Yeah... Well, we went to#  your old house to spruce#  it up.
-* After all, this would be#  the perfect time to move#  back in.
-* Ed, what did you find#  while cleaning?
-* Uh... I was sweepin' the#  floor and spotted#  somethin'...
-* An almost invisible#  trapdoor. An entrance...
-* Ceroba... what's#  actually going on#  here?
-* What really happened to#  Kanako?
-* (N-No... Why...?)
-* (This can't...)
-* Quit mumbling to#  yourself and speak up!
-* Why did you need Clover?
-* I don't want this to#  escalate so tell the#  truth!!
+* Siguiente parada, el Lab.
+* ¿Y que piensan hacer en el#  Lab?
+* ¿¡Starlo!? ¿¡Qué haces aquí!?
+* La pandilla y yo estabamos#  una fiesta de regreso#  para ti.
+* Pensámos que era una buena#  idea, especialmente para#  Kanako.
+* Eso... es muy amable de#  tu parte.
+* Sí... Bueno, fuimos a tu#  antigua casa para hacer#  los arreglos.
+* Después de todo, esta sería#  la oportunidad perfecta#  para regresar.
+* Ed, ¿qué encontraste#  mientras limpiaban?
+* Uh... Estaba barriendo el#  suelo y noté#  algo...
+* Una escotilla casi#  invisible. Una entrada...
+* Ceroba... ¿qué está#  sucediendo realmente?
+* ¿Qué fue lo que le#  realmente le pasó a#  Kanako?
+* (N-No... ¿Por qué...?)
+* (No puede...)
+* ¡Deja de murmurar para#  ti y habla!
+* ¿Por qué necesitabas a#  Clover?
+* ¡¡No quiero que esto#  escale así que di#  la verdad!!
 * Yo... 
-* I have to go.
-* Clover, come on!
-* Ceroba!!!
-* Ed! Take Clover back#  home and keep watch!
-* I'll chase after her!
+* Tengo que irme.
+* Clover, ¡Vámonos!
+* ¡¡¡Ceroba!!!
+* ¡Ed! ¡Llévate a Clover#  a casa y mantenlo#  observado!
+* ¡Iré tras ella!
 active_bullet
 feather_angle_total
 feather_angle_direction
@@ -22589,23 +22589,23 @@ bullet_spin_dir
 generate
 mus_gameover
 * ¿Por qué?
-* Je, ¡eso sí#que lo he oido!
-* Pero no quiero volver#a oirlo, ¿de acuerdo?
-Esta cosa odia el#ruido, ¿verdad?
-¡Utilizalo#a tu favor!
-¿Una solución permanente,# ¿eh?
-Lastima que puedo# deshacerlo, ¡jaja!
+* Je, ¡Eso sí#que lo he oido!
+* Pero no quiero volver#a oírlo, ¿De acuerdo?
+Esta cosa odia el#ruido, ¿Verdad?
+¡Utilízalo#a tu favor!
+¿Una solución permanente,# ¿Eh?
+Lástima que puedo# deshacerlo, ¡Jaja!
 ¡Este solitario#pega fuerte!
 ¡Nada que no puedas#manejar!
 La última vez que lo#comprobé, a nadie le#gustaban los humanos fritos.
 ¡Vuelve ahí fuera!
-Bla, bla, bla,#¡qué llorón!
+Bla, bla, bla,#¡Qué llorón!
 ¡Démonos prisa y#ocupémonos de este bicho!
 No estoy seguro de#que quisiera matarte.
 ¿Impresionante...?
-Vamos, ¿perdiste con#esta novata?
-¡hazlo mejor, amigo!
-Hablando de "congelarse",#¡jaja!
+Vamos, ¿Perdiste con#esta novata?
+¡Hazlo mejor, amigo!
+Hablando de "congelarse",#¡Jaja!
 ...Oh cierto, no puedes#reirte porque... Sí.
 ¡Vamos, amigo!
 ¡Seguro que puedes bailar#mejor que ESO!
@@ -22615,28 +22615,28 @@ Hablando de exagerar...
 ¡Demostrémosle a este#presumido quién manda!
 No puedo decir que#te culpe por morir,#sinceramente.
 ¡Son cuatro contra#uno ahí fuera! Un#montón de tramposos...
-Je, ¿cómo van a#explicarle esto#al Sheriff?
-Me encantaría quedarme#para ese desastre,#pero ¡oh bueno!
+Je, ¿Cómo van a#explicarle esto#al Sheriff?
+Me encantaría quedarme#para ese desastre,#pero ¡Oh bueno!
 No sé si puedes#enfrentarte a toda#esta pandilla a la vez.
-Solo mantente vivo tanto#como puedas, ¿de#acuerdo?
-The mentor vs apprentice#thing is fun and all,#but...
-You do know the mentor#isn't supposed to win,#right?
-This human-wannabe is#a total pushover!
-Bet he'll crack if you#survive long enough, haha.
-There's no way this#fraud bested you!
-Come on, show him who#the real gunslinger is!
-Talk about lethal!
-Maybe try getting your#"offense level" lower?
-Who knew a robot could#be so cold-blooded?#Or... just cold. 
-Unless things get even#weirder. You never know.
-This bot may be tough,#but you're tougher!
-Put it back where it#came from!
-Clearly Axis wasn't#built to last.
-You can take him out,#I'm sure of it!
-This bot's done nothing#but bully you around!
-Give him a taste of his#own metallic medicine!
-Brush yourself off,#Clover!
-It's time to put#the "ax" in Axis!
+Sólo mantente vivo tanto#como puedas, ¿De#acuerdo?
+Esto del mentor contra el#aprendiz es divertido#y todo, pero...
+Sabes que no se supone#que el mentor gane,#¿Cierto?
+¡Este aspirante a humano#es un pusilánime!
+Apuesto a que se romperá#si sobrevives lo#suficiente, jaja.
+¡No hay manera en que#este fraude te#haya derrotado!
+¡Vamos, muéstrale quién#es el verdadero pistolero!
+¡Hablando de letal!
+¿Quizás deberías#intentar disminuir#tu "nivel de ofensa"?
+¿Quién creería que un robot#pudieraser tan sangre fría?# O... sólo frío.
+A no ser que las cosas#se pongan incluso más#raras. Nunca lo sabes.
+¡Este robot podrá ser duro,#pero tú lo eres más!
+¡Ponlo de vuelta de#donde vino!
+Claramente Axis no#fue hecho para perdurar.
+¡Puedes acabar con él,#estoy seguro!
+¡Lo único que ha hecho#este robot fue#atemorizarte!
+¡Dale una dosis de su#propia metálica medicina!
+¡Levántate, Clover!
+¡Es hora de#"formatear" a Axis!
 ¡No llegaste hasta aquí#para morir aquí!
 ¡Terminemos con esto!
 ¿Vas a dejarle ganar#a esta traidora?
@@ -22647,52 +22647,52 @@ It's time to put#the "ax" in Axis!
 ¡No creas las historias#tristes de Ceroba!
 ¡No puedes rendirte#ahora, Clover!
 ¡Es hora de acabar#con Ceroba de una vez!
-She's tougher than#she looks, huh?
-Luckily, so are you!
-Don't let this guard's#flashy front get to you.
-I know a weak-willed#monster when I see one.
-Gee, these monsters#sure are cruel!
-And who is their main#influence? The King.
-Has the almighty Clover#met their match?
-Surely not!
-Aww, come on!
-Things were just getting#good!
-This lady's totally#predictable!
-Memorize the patterns#and she's done for!
-Don't tell me this is#your limit!
-'Cause there is more#where that came from,#buddy!
-Oh, just kill her#already!
-If you want to,#that is...
-This piece of junk#did you in?
-Heh, thought you were#better than that.
-You should've dealt#with this bot a#long time ago.
-But no, had to play#the big bad action#hero!
-I can't help but feel#like this is karma,#heh.
-But I GUESS I should#still revive you...
+Es más dura de lo#que parece, ¿Eh?
+Por suerte, ¡Tú también!
+No dejes que la fachada#brillante de esta guarda#te detenga.
+Sé qué es un monstruo#débil cuando lo veo.
+¡Vaya, sí que estos#monstruos son crueles!
+¿Y quién es su#influencia principal?#El Rey.
+¿Acaso el gran Clover#encontró su rival?
+¡Seguro que no!
+Oww, ¡Vamos!
+¡Las cosas empezaban# a ponerse buenas!
+¡Esta señorita es#totalmente predecible!
+¡Memoriza los patrones#y está acabada!
+¡No me digas que este#es tu límite!
+¡Porque hay más#de donde eso vino,#amigo!
+¡Oh, mátala de#una vez!
+Si eso quieres,#claro...
+¿Esta pieza de#chatarra te#derrotó?
+Je, pensé que eras#mejor que eso.
+Deberías haberte#encargado de este#robot hace tiempo.
+Pero no, ¡Tenías que#jugar al malote#héroe de acción!
+No puedo evitar sentir#que esto es karma,#je.
+Pero SUPONGO que#aún debería#revivirte...
 De nuevo.
-You can't reach ASGORE#if you're dead!
-Don't fool around!
-You're supposed to#DODGE the attacks!
-Remember what I#taught'cha?
-I didn't offer my#help just to see#you die!
-Let's get moving!
-How careless...
-Well, there's always#next time!
-Uys, eso pareció#ser doloroso!
-Brush yourself off and#get back at 'em!
-Dying sucks, right?#Right.
-So try not to do#it again.
-* You have a mission,#remember?
-* Don't mess it up.
-* These attackers can't#get their way.
-* Try again.
-Let's get moving.
-You can't reach ASGORE#if you're dead.
-Don't fool around.
-You sure you're cut#out for this?
+¡No puedes llegar a#ASGORE si estás#muerto!
+¡No te hagas el tonto!
+¡Se supone que tienes#que ESQUIVAR los#ataques!
+¿Recuerdas lo que#te enseñé?
+¡No ofrecí mi ayuda#para verte morir!
+¡Continuemos!
+Qué descuidado...
+¡Bueno, siempre hay#otra vez!
+Uy, ¡Eso pareció#ser doloroso!
+¡Levántate y#vuelve con ellos!
+Morir apesta, ¿Cierto?#Cierto.
+Así que intenta#no hacerlo otra#vez.
+* Tienes una misión,#¿Recuerdas?
+* No lo arruines.
+* Estos atacantes no#pueden ponerse en#tu camino
+* Inténtalo de nuevo.
+Sigamos.
+No puedes llegar a#ASGORE si estás muerto.
+No te hagas el tonto.
+¿Seguro que estás#hecho para esto?
 Vamos.
-* Aaannd there goes#your SOUL!
-* Dodge the attacks next#time, will you?
+* ¡Yyyy ahí va#tu ALMA!
+* Esquiva los ataques#la próxima vez, ¿Ok?
 retry_enabled
 rhythm_enabled
 autofire_enabled
@@ -23120,62 +23120,62 @@ advance
 * ¡Intentaré hacer un hueco#  con esta cosa!
 * Tomará mucho para que#  se rompa!
 * Y pensar que estabamos#  cerca de irnos...
-* Um, just look around for a#  switch or keypad!
-* There's always one near doors.
-* [MAIN POWER SOURCE NOT FOUND_]
-* [INITIATING EMERGENCY BACKUP#  POWER_]
-* Did I just hear Axis!?
-* Y-YOU TRIED TO SHUT ME#  DOWN.
-* I HAVE HAD IT WITH YOU#  AND YOUR FRIEND#  THWARTING MY PLANS.
-* I AM THIS CLOSE TO#  DIRECTING ALL MY STEAM#  INTO MY RUDE FINGER.
-* AND YES, I AM YELLING.
-* MY TYPOGRAPHY BOX JUST#  LACKS THE EXCLAMATION#  POINT CHARACTER.
-* A SHAME, BUT AT LEAST I#  HAVE QUESTION#  MARKS?????????
-* Hey Clover!
-* I don't think we can outrun#  this guy any longer!
-* Please try to find a peaceful#  way to outwit him!
-* I'm sorry but I don't want#  Chujin's creation smashed to#  bits!
-* OUTWIT? MAYBE.
-* OUT-GUN? NEVER.
-* I AM [ticked] OFF AND#  OUT OF NON-LETHAL#  OPTIONS.
-* NOW, TIME TO DIE.
-* THIS EMOTION, IT FEELS#  SO NICE.
-* I MUST THANK YOU FOR#  OPENING MY EYES.
-* I HAD NO IDEA SUCH#  WONDROUS SIGHTS EXISTED.
-* Glad we could finally#  reach a level of#  civility.
-* CAN I KEEP THEM???
-* Whoa, slow down!
-* Here...
-* (Do you wanna know a#  secret?)
-* YES I WOULD LIKE TO KNOW#  A SECRET.
-* (They told me that they#  like you but will only#  go out if it's casual.)
-* (Get to know them a#  little first, you know?)
-* (Ask what their name is#  or something.)
-* OKAY.
-* Alright, good! Give it a#  shot!
-* HELLO MY NAME IS AXIS#  WHAT IS YOUR NAME?
-* HA HA YOU ARE SO FUNNY#  WANT TO GET MARRIED???
-* Hey, remember what we#  talked about!
-* THEY SAID YES.
-* I AM HONESTLY JUST AS#  SURPRISED AS YOU.
-* THIS ROCKS.
-* Okay, then I'm happy for#  you.
-* Well, not to rain on the#  parade but Clover and I#  have to go.
-* GO WHERE?
-* Hotland. Just a business#  trip.
-* WELL I WISH YOU A#  PLEASANT JOURNEY THEN.
-  BACKUP BATTERY EXTREMELY#  LOW. PLEASE RECHARGE.
-  ADDED "HATTED HUMAN" AND#  "TALL LADY" TO#  "AUTHORIZED" LIST.
-* Thank you, Axis.
-* You have a good life.
-* I WILL TRY.
-* YOU SAID YOUR HUSBAND#  WAS MY CREATOR?
-* WOULD YOU TELL HIM THAT#  I MISS HIM?
-* HE WAS ALWAYS VERY KIND#  TO ME.
-* Yeah... I'll tell him.
-* THANK YOU.
-* Don't worry about Axis.
-* We got to move.
+* Um, ¡solo busca un#  interruptor o un panel!
+* Siempre hay alguno cerca de#  las puertas.
+* [FUENTE DE ENERGÍA#  PRINCIPAL NO ENCONTRADA_]
+* [INICIANDO RESPALDO DE PODER#  DE EMERGENCIA_]
+* ¿¡Acaso oí a Axis!?
+* I-INTENTASTE APAGARME.
+* YA TUVE SUFICIENTE DE#  Y TU AMIGA ARRUINANDO#  MIS PLANES.
+* ESTOY ASÍ DE CERCA DE#  DIRIGIR TODO MI HUMO#  HACIA MI DEDO GROSERO.
+* Y SÍ, ESTOY GRITANDO.
+* SOLO QUE MI CUADRO DE#  TIPOGRAFÍA NO TIENE#  SIGNOS DE EXCLAMACIÓN.
+* UNA PENA, PERO AL MENOS#  TENGO SIGNOS DE#  INTERROGACIÓN¿¿¿???
+* ¡Ey Clover!
+* ¡No creo que podamos escapar#  más de este tipo!
+* ¡Por favor intenta encontrar#  una manera pacífica de#  ser más listo que él!
+* ¡Perdón pero no quiero que la#  creación de Chujin sea#  destruida en pedazos!
+* ¿SER MÁS LISTO? TAL VEZ.
+* ¿MÁS PODEROSO? NUNCA.
+* ESTOY MUY [molesto] Y FUERA#  DE OPCIONES NO LETALES.
+* AHORA, ES MOMENTO DE MORIR.
+* ESTE SENTIMIENTO, SE SIENTE#  TAN BIEN.
+* DEBO AGRADECERLES POR#  ABRIR MIS OJOS.
+* NO TENÍA IDEA DE QUE#  TALES MARAVILLOSAS#  VISTAS EXISTÍAN.
+* Que bueno que hayamos#  podido llegar a un#  grado de civilidad.
+* ¿¿¿PUEDO QUEDÁRMELA???
+* ¡Wow, bájale las#  revoluciones!
+* A ver...
+* (¿Quieres saber un#  secreto?)
+* SI QUIERO SABER UN#  SECRETO.
+* (Me dijo que le gustas#  pero que saldrá contigo#  solo si es casual.)
+* (¿Conocele un poco sabes?)
+* (Pregúntale su nombre o#  algo.)
+* OKEI.
+* ¡Okei, bueno! ¡Dale un#  intento!
+* HOLA MI NOMBRE ES AXIS#  ¿CUÁL ES TU NOMBRE?
+* JA JA ERES TAN GRACIOSA#  ¿¿¿TE CASAS CONMIGO???
+* ¡Hey, recuerda de lo#  que hablamos!
+* DIJO QUE SÍ.
+* HONESTAMENTE ESTOY IGUAL#  DE SORPRENDIDO QUE TÚ.
+* ESTO ES GENIAL.
+* Okei, entonces bien por#  ti.
+* Well, no es por ser#  aguafiestas pero Clover y#  yo tenemos que irnos.
+* ¿A DÓNDE?
+* Hotland. Solo es un viaje#  de negocios.
+* BUENO ENTONCES ESPERO QUE#  TENGAN UNA JORNADA#  PLACENTERA.
+  BATERÍA DE RESPALDO#  EXTREMADAMENTE BAJA.#  POR FAVOR RECARGAR.
+  AGREGADOS "HUMANO ODDIADO" Y#  "CHICA ALTA" A#  LA LISTA "AUTORIZADOS".
+* Gracias, Axis.
+* Ten una buena vida.
+* LO INTENTARÉ.
+* ¿DIJISTE QUE TU ESPOSO#  FUE MI CREADOR?
+* ¿LE PODRÍAS DECIR QUE#  LO EXTRAÑO?
+* ÉL SIEMPRE FUE MUY#  AMABLE CONMIGO.
+* Sí... le diré.
+* GRACIAS.
+* No te preocupes por#  Axis.
+* Tenemos que continuar.
 * About Hotland.
 * I can't go.
 * You didn't destroy Axis#  and I thank you but...
@@ -25600,7 +25600,7 @@ I DIDN'T WANT TO
 * ...Uh, I'm very sorry.
 * I'm just not in a talking mood#  right now.
 * M-Maybe later...?
-* Let's stay on track,#  okay?
+* Sigamos el camino,#  okei	?
 * ¡¡¡Hooola!!! ¡¡¡Les doy la#  bienvenida a mi cuerpo!!!
 * ¿¿A donde les gustaría#  ir??
 * Piso de arriba.
