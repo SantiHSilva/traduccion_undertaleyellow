@@ -13494,44 +13494,44 @@ npc_action_sprite
 * We WILL get to the#  bottom of this, Clover.
 * In the meantime, you#  can scout ahead. I'm#  gonna rest a bit longer.
 * Just scream if#  something makes an#  attempt on your life.
-* Say, another explorer in this#  neck of the caves?
-* Pleased to meet ya!
-* You wouldn't be in the#  stone-moving business, would#  you?
-* Ha! Only kidding around!
-* This morning, I set out on an#  expedition to find new wares#  for my shop.
-* Right as I passed through that#  door there, it caved in!
-* Close one, huh?
-* Sorry universe, but you won't#  do me in that easily!
-* Wa ha ha!
-* If you're ever in Waterfall,#  be sure to stop by my shop!
-* Got plenty o'wares to sell ya!
-* No better place your allowance#  could go!
-* Oh, do you want me to say my#  catchphrase as a farewell?
-* Alright then! Ready?
-* Let justice prevail!!!
-* Or was it "Let justice be#  done"?
-* Could've also been "Here comes#  the hammer."
-* What can I say? I never could#  decide on my catchphrase!
-* Be careful out there, kid!
-* What's a young'n like you#  doing out here anyway?
-* Surely it wasn't to meet ol'#  Gerson, was it?
-* To hear one of my famous#  stories?
-* Surely not!
-Stories?
-* Yes! I have many great stories#  of the old days.
-* Though, at this point, they're#  more like legends!
-* You see, I used to be a hero.#  The Hammer of Justice!
-* I'd go ‘round, day and night,#  walloping any bad guys that#  needed walloping.
-* This one time, I-
-* I... er...
-* I just forgot all of my#  stories.
-* Wa ha ha!!
-* Hey, I would too if I could,#  wa ha ha!
-* If my memory serves, and it#  usually doesn't, Mining Co. is#  stationed around here.
-* They could clear this cave in#  a jiff!
-* Eh, well... the geology here#  IS interesting.
-* Maybe I'll stay a while, ya#  know?
-* Take my situation as a#  blessing in disguise!
+* Dime, ¿otro explorador#  en este cuello#  de las cuevas?
+* ¡Encantado de conocerte!
+* No te dedicarías a mover#  piedras, ¿verdad?
+* ¡Ja! ¡Sólo bromeaba!
+* Esta mañana he salido de#  expedición en busca de nuevos#  artículos para mi tienda.
+* Justo cuando pasé por#  esa puerta,#  ¡se derrumbó!
+* Estuvo cerca, ¿eh?
+* Lo siento universo, ¡pero#  no me matarás tan#  fácilmente!
+* ¡Wa ja ja!
+* Si alguna vez vas a Waterfall,#  ¡no dejes de pasarte#  por mi tienda!
+* ¡Tengo muchas cosas que#  venderte!
+* ¡No hay mejor lugar al que#  pueda ir tu paga!
+* Oh, ¿Quieres que diga mi#  eslogan como despedida?
+* ¡Muy bien! ¿Preparado?
+* ¡¡¡Que prevalezca la#  justicia!!!
+* ¿O era "Que se haga#  justicia"?
+* También podría haber sido#  "Aquí viene el#  martillo".
+* ¿Qué puedo decir? ¡Nunca#  pude decidirme por mi#  eslogan!
+* ¡Ten cuidado ahí fuera,#  niño!
+* ¿Qué hace aquí un joven#  como tú?
+* Seguramente no fue para#  conocer al viejo Gerson,#  ¿verdad?
+* ¿Quieres oír una de mis#  famosas historias?
+* ¡Seguro que no!
+¿Historias?
+* ¡Sí! Tengo muchas grandes#  historias de los#  viejos tiempos.
+* Aunque, a estas alturas,#  ¡son más bien leyendas!
+* Verás, yo solía ser un héroe.#  ¡El Martillo de la#  Justicia!
+* Iba por ahí, día y noche,#  aplastando a los malos#  que lo necesitaban.
+* Una vez, yo-
+* Yo... en...
+* Acabo de olvidar todas#  mis historias.
+* ¡¡Wa ja ja!!
+* ¡Hey, yo también lo haría#  si pudiera, wa ha ha!
+* Si mi memoria no me falla, y#  normalmente no es así, Mining#  Co. está estacionada por aquí.
+* ¡Podrían despejar esta cueva#  en un santiamén!
+* Eh, bueno... la geología#  aquí ES interesante.
+* Quizá me quede un tiempo,#  ¿sabes?
+* ¡Toma mi situación como#  una bendición disfrazada!
 hsp_base
 hspeed_old
 vspeed_old
@@ -17178,46 +17178,46 @@ next
 * Is it dusty in here#  or is it just me?
 part_sys
 part_system_position
-* Whoa!!
-* Finally! Another monster!!
-* Are you lost as well?
-* Seems to be happening more and#  more.
-* Jane is the name!
-* I'm on a case, you see.
-* A few days ago, a resident went#  missing in these woods.
-* Not the first time either.
-* Throughout history, a few#  strange stories have popped up.
-* Doors appearing out of#  nowhere...
-* Impossible geography...
-* Monsters straying from a set#  path and losing their sense of#  direction...
-* Wild stuff.
-* I'm the type that needs hard#  evidence to believe something.
-* But that doesn't mean it didn't#  pique my curiosity.
-* So when I heard about this#  missing monster, I had to#  investigate!
-* Wasn't a few minutes before my#  compass stopped working and...
-* Well... I became a believer,#  heh!
-* What to do, what to do...
-* There's gotta be something or#  someone behind all this, no?
-* Even though monsterkind has#  lived in the Underground for#  decades,
-* There's still so much mystery#  to it all.
+* ¡¡Whoa!!
+* ¡Por fin! ¡¡Otro monstruo!!
+* ¿Tú también te has perdido?
+* Parece que cada vez ocurre más.
+* ¡Jane es mi nombre!
+* Estoy en un caso, ya ves.
+* Hace unos días, un#  residente desapareció# en estos bosques.
+* Y tampoco es la primera vez.
+* A lo largo de la historia#  han surgido algunas#  historias extrañas.
+* Puertas que aparecen de#  la nada...
+* Geografía imposible...
+* Monstruos que se desvían del#  camino y pierden el sentido#  de la orientación...
+* Cosas salvajes.
+* Soy de los que necesitan#  pruebas contundentes#  para creer algo.
+* Pero eso no significa que#  no despertara mi#  curiosidad.
+* Así que cuando oí hablar de#  ese monstruo desaparecido,#  ¡tuve que investigar!
+* No pasaron unos minutos antes#  de que mi brújula dejara#  de funcionar y...
+* Bueno... ¡Me convertí en un#  creyente, heh!
+* Qué hacer, qué hacer...
+* Tiene que haber algo o#  alguien detrás de#  todo esto, ¿no?
+* Aunque los monstruos ha#  vivido en el Subsuelo#  durante décadas,
+* todavía hay mucho misterio#  en todo esto.
 * Hmm...
-* I know what you're thinking,#  and it was my first hypothesis#  as well.
-* It's just magic, right?
-* The Underground is full of the#  stuff!
-* Well, obviously it's gotta be.
-* But I don't know...
-* Some of these sightings seem#  intentional.
-* I have got to solve this as#  soon as I'm out of these woods.
-* Don't worry about sticking#  around if you got places#  to be - I'll be fine!
-* Still have plenty of snacks in#  my bag.
-* When it's time to go, I'll just#  start walking in one direction.
-* Should make my way out, easy#  peasy!
-* Really wanna find who I'm#  looking for first, though.
-* Sorry, I'm mulling over the#  case.
-* Deep in thought.
-* Yep.
-* Not losing it.
-* Not yet.
+* Sé lo que estás pensando, y#  también fue mi primera#  hipótesis.
+* Es sólo magia, ¿verdad?
+* ¡El Subsuelo está lleno de#  cosas!
+* Bueno, obviamente tiene#  que serlo.
+* Pero no lo sé...
+* Algunos de estos#  descubrimientos parecen#  intencionados.
+* Tengo que resolver esto en#  cuanto salga de#  este bosque.
+* No te preocupes por quedarte si#  tienes sitios donde estar,#  ¡estaré bien!
+* Todavía me queda comida en mi#  bolsa.
+* Cuando llegue la hora de#  irme, empezaré a caminar#  en una dirección.
+* Debería hacer mi salida,#  ¡fácilmente!
+* Aunque primero quiero#  encontrar a quien busco.
+* Lo siento, estoy dándole#  vueltas al caso.
+* Profundamente pensativo.
+* Sep.
+* Sin perderla.
+* Todavía no.
 ¡Aún no hemos#terminado!
 Prepárate para mi#más fuerte#ataq-
 * (Hay maíz en la telaraña.)
@@ -22918,56 +22918,56 @@ y_dif
 x_inc
 y_inc
 image_speed_tail
-* Hehe, haaaiii!!!
-* Are you here to bring me home??
-* Did Mikey send you??
-* ¿Eh?? Huh???
-* Doesn't matter because I won't#  go!
-* This is just like Mikey!
-* Instead of talking face to face#  he sends a little weird guy to#  stare at me!
-* Hehe omg!!
-* Sorry for calling you weirdddd!
-* I tend to bully small children#  when I get moody!
-* My b!!
-* Mikey never paid any attention#  to me, you know??
-* I wanted to teach him a big ol'#  lesson!
-* So I'm playing hard to get by#  wandering into the woods and#  maybe dying???
-* I think he'd care a lot if that#  happened!!
-* Standing out here in this#  fridigy climate starts to get #  to you!
-* Starts to make you question#  things!!
-* Like.. who's Mikey???
-* I've never met a Mikey in my#  life!
-* Wouldn't it be funny if I did#  tho???
-* I'd like, be his gf and he'd#  like, ignore me and I'd like,#  wander into the woods!
-* I'm so lost, hehe!
-* Woopsyyy!!!
-* You think there's a search#  squad looking for me??
-* Omg that would make me feel so#  special!!
-* What if they send out a#  helicopter??
-* ¡Ah!! You prooobably don't know#  what a helicopter is!!
-* It's okay!! I won't bore you#  with that forbidden knowledge!
-* This is the ninth time you've#  talked to me!
-* I think we've made fast#  friends, don't you???
-* Wait! How fast can you run??
-* Because I am a speed demon!!!
-* Aww, you know what??
-* I'd race you, but I kiiiinda#  stopped believing in myself#  recently!
-* Fun Wanda fact!!
-* They don't let me in most#  restaurants anymore.
-* Oh shoot!!!
-* Did I just name drop??
-* Omgggg that's so like me!!
-* Hm! Hm!!
-* I'm getting a Wanda Signal!!
-* GASP!!!
-* I only have one more thing I#  can say to you after this!!
-* Noooooo!!!!
-* Well, better make it count!
-* Three...
-* Four...
-* RATS!!!
-* No one EVER TOLD ME what comes#  after four!!!
-* Lemme start over!!
+* ¡¡¡Hehe, hoolaaaa!!!
+* ¿¿Estás aquí para#  llevarme a casa??
+* ¿Te envió Mikey?
+* ¿¿Eh?? ¿¿¿Huh???
+* ¡No importa porque no iré!
+* ¡Esto es igual que Mikey!
+* En vez de hablar cara a cara#  manda a un hombre#  rarito a ¡mirarme!
+* ¡¡Jeje omg!!
+* ¡Perdón por llamaarte raritooo!
+* Tiendo a intimidar a los niños#  pequeños cuando me pongo#  de mal humor.
+* ¡¡Mi error!!
+* Mikey nunca me prestó atención,#  ¿sabes?
+* ¡Quería darle una gran lección!
+* Así que me hago la dura vagando#  por el bosque y tal#  vez muriendo.
+* ¡¡Creo que le importaría mucho#  que eso pasara!!
+* Estar aquí fuera con este#  clima glacial empieza#  a afectarte.
+* ¡¡Empieza a hacerte#  cuestionar las cosas!!
+* Como... ¿¿¿quién es#  Mikey???
+* ¡Nunca he conocido a un Mikey#  en mi vida!
+* ¿¿¿No sería gracioso si lo#  hiciera???
+* Me gustaría ser su novia y a él#  le gustaría ignorarme y a mí#  me gustaría vagar por el bosque.
+* ¡Estoy muy perdida, jeje!
+* ¡¡¡Woopsyyy!!!
+* ¿¿Crees que hay un escuadrón#  de búsqueda buscándome??
+* ¡¡Omg eso me haría sentir#  tan especial!!
+* ¿¿Y si envían un#  helicóptero??
+* ¡Ah! ¡¡Prooobablemente no#  sepas lo que es#  un helicóptero!!
+* ¡¡Está bien!! ¡No te aburriré#  con ese conocimiento#  prohibido!
+* ¡Esta es la novena vez#  que me hablas!
+* Creo que nos hemos hecho#  amigos rápidamente,#  ¿no crees?
+* ¡Espera! ¿Qué tan rápido#  puedes correr?
+* ¡¡¡Porque soy una demonia#  de la velocidad!!!
+* Aww, ¿¿sabes qué??
+* Te haría una carrera,#  peeero hace poco dejé#  de creer en mí misma.
+* ¡¡Divertido hecho de Wanda!!
+* Ya no me dejan entrar en#  la mayoría de los#  restaurantes.
+* ¡¡Oh, rayos!!
+* ¿¿Acabo de decir un nombre??
+* Omgggg ¡¡¡Eso es tan#  propio de mí!!!
+* ¡Hm! ¡¡Hm!!
+* ¡¡Voy a conseguir una señal#  de Wanda!!
+* ¡¡¡GASP!!!
+* ¡¡Sólo tengo una cosa más#  que decirte después#  de esto!!
+* ¡¡¡¡Noooooo!!!!
+* Bueno, ¡más vale que cuentes!
+* Tres...
+* Cuatro...
+* ¡¡¡RATAS!!!
+* ¡¡¡Nadie me ha dicho nunca#  lo que viene después#  del cuatro!!!
+* ¡¡Déjame empezar de#  nuevo!!
 id_el_bailador_dance
 on_x
 on_y
@@ -24634,55 +24634,55 @@ attack_flower_stage
 attack_flower_timer_max
 attack_flower_timer
 attack_flower_beep_count
-* Yep...
-* That's correct...
-* No, not that I know of.
-* Sir, what are you suggesting?
-* Are you sure?
-* No, I'm not arguing, it's#  just...
-* Affirmative.
-* Over and out.
-* Please stand clear of this#  machine while we're operating.
-* In fact, I'mma need you to#  stand clear of the whole#  arcade.
-* It's best you don't question#  it, alright?
-* Sir, it's me again.
-* We have a problem.
-* Yeah. 
-* There's a kid jeopardizing the#  operation.
-* Brown hat. Yellow bandana.
-* Yep, that's the one.
-* Do I have a distraction? 
-* No, why would I?
-* What do kids like?
-* Video games!?
-* You do know what I'm trying to#  get them away from right?
-* Their parents?
-* Yeah, I think kids like their#  parents...
-* But sir!
-* ...Affirmative.
-* (Not again!)
-* Um, hey kiddo!
-* Why don't you go to the#  playground?
-* Yeah!
-* Go on and get some exercise!
-* These arcade games will#  only...
-* Will only...
-* I've got a job to do.
-Great!
+* Sep...
+* Es correcto...
+* No, no que yo sepa.
+* Señor, ¿qué está#  sugiriendo?
+* ¿Estás seguro?
+* No, no estoy discutiendo,#  es que...
+* Afirmativo.
+* Cambio y fuera.
+* Por favor, manténgase alejado#  de esta máquina mientras#  estamos operando.
+* De hecho, voy a necesitar que#  te alejes de todo el#  arcade.
+* Es mejor que no lo#  cuestiones,#  ¿de acuerdo?
+* Señor, soy yo de nuevo.
+* Tenemos un problema.
+* Si. 
+* Hay un niño poniendo en#  peligro la operación.
+* Sombrero marrón.#  Pañuelo amarillo.
+* Sí, ese mismo.
+* ¿Tengo alguna#  distracción?
+* No, ¿por qué iba a#  hacerlo?
+* ¿Qué les gusta a los#  niños?
+* ¿¡Videojuegos!?
+* Sabes de lo que estoy#  tratando de alejarlo,#  ¿verdad?
+* ¿Sus padres?
+* Sí, creo que a los niños#  les gustan sus#  padres...
+* ¡Pero señor!
+* ...Afirmativo.
+* (¡No otra vez!)
+* Um, ¡hey chico!
+* ¿Por qué no vas al#  patio?
+* ¡Si!
+* ¡Anímate y haz algo#  de ejercicio!
+* Estos juegos arcade#  sólo...
+* Sólo...
+* Tengo un trabajo que#  hacer.
+¡Genial!
 :(
-* Say, sport!
-* How have you been lately?
-* How's the homework coming?
-* How're the grades?
-* What swell news!
-* Your mother always said your#  head was too large for your#  body but you know what?
-* It's because you're so smart!
-* Ha ha! Proud of you!
-* (I'm so sorry.)
-* Ah, well, you always were a#  disappointment!
-* ...Is what those nasty bullies#  at school would say!
-* Ha ha! I would never!
-* Uhh-just keep studying and I'm#  sure you'll be on the path to#  success in no time!
+* ¡Oye, campeón!
+* ¿Cómo has estado#  últimamente?
+* ¿Cómo va la tarea?
+* ¿Cómo van las notas?
+* ¡Qué buena noticia!
+* Tu madre siempre decía que tu#  cabeza era demasiado grande para#  tu cuerpo, pero ¿sabes qué?
+* ¡Es porque eres muy listo!
+* ¡Ja, ja! ¡Orgulloso#  de ti!
+* (Lo siento mucho.)
+* Ah, bueno, ¡siempre fuiste una#  decepción!
+* ...¡Es lo que dirían esos#  desagradables abusones#  de la escuela!
+* ¡Ja, ja! ¡Nunca lo haría!
+* ¡Sigue estudiando y estoy#  seguro de que alcanzarás#  el éxito en poco tiempo!
 attack_spray_state
 jumping_flower_stage
 jumping_flower_bullet_number
@@ -25311,10 +25311,10 @@ Check 3
 * But I've blabbered on enough.	
 * It's time for me to fake a#  smile through another#  excruciating journey.	
 * Don't mess it up again.
-* Talk about a "dead end."
-* That's not funny.
-* None of this is.
-* I shouldn't be here. Not#  again.
+* Hablando de un "callejón#  sin salida".
+* Eso no es gracioso.
+* Nada de esto lo es.
+* No debería estar aquí.#  Otra vez no.
 * I mean, come on...
 * Don't I have anything better#  to do?
 * You know? It's strange.

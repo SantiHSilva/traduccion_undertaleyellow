@@ -27,3 +27,8 @@ Traducir Mail
 gml_Object_obj_card_game_controller_Draw_74
 Reemplazar en la linea 45:
 draw_text(160, 120, string_hash_to_newline("¡" + (string(floor(cardg_g_gained)) + " de ORO ganado!"))
+
+gml_Object_obj_npc_turtle_Step_0
+Traducir:
+I should\ngo
+Debería\nirme
