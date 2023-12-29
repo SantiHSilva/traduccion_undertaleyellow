@@ -2492,7 +2492,7 @@ gml_Script_scr_determine_world_value_yellow
 * ¡Soy tu amigo, Flowey!
 * ¡Soy el único amigo #  que necesitarás!
 * ¿Toriel te ayuda a#  guardar?#* ¡NO!
-* ¡Asi que salgamos#  de aquí mientras#  seamos jóvenes!
+* ¡Así que salgamos#  de aquí mientras#  seamos jóvenes!
 * ¡Veo que sigues en#  una pieza!
 * Viste a ese bicho#  raro, ¿verdad?
 * Si quieres salir de#  aquí tendrás que#  pasar por él.
@@ -3415,7 +3415,7 @@ gml_Script_scr_battle_core_directory_flavor_text_enemy_1_special_6
 scr_battle_core_directory_flavor_text_enemy_1_special_6
 * Flier está reconsiderando#  las decisiones en su vida.
 * Penilla parece como si ella# pudiera romperse por la presión.
-* La sonrisa de Sweet Corn parece forzada.
+* La sonrisa de Sweet Corn#  parece forzada.
 * Crispy Scroll is relying on his#  self-imposed plot armor.
 * Tu reflejo está sesgado.
 * Insomnitot is hoping it'll feel#  better in the morning.
@@ -4025,7 +4025,7 @@ action_2_color_3
 * Abrazar
 * Gritar
 * Criticar
-* Estrechar la mano
+* Dar la mano
 * Amenazar
 * Leer
 * Educar
@@ -5277,7 +5277,7 @@ scr_dialogue_battle_action_selected_action_1_sweet_corn_a
 * Le das un largo e incómodo#  abrazo a Sweet Corn.#* No le ha gustado.
 * Le das un gran abrazo a Sweet#  Corn.#* Se atora en tu camiseta.
 scr_dialogue_battle_action_selected_action_2_sweet_corn_a
-* Le ofreces un regalo a Sweet Corn.
+* Le ofreces un regalo a#  Sweet Corn.
 * Le das a Sweet Corn tu#  Candy Corn.
 * Le das a Sweet Corn tu Corn#  Dog.
 * No puedes pensar en un#  regalo para la ocasión.
@@ -5338,7 +5338,7 @@ scr_dialogue_battle_action_selected_action_1_rorrim_a
 * Criticas tu apariencia.#* Rorrim parece satisfecho.
 * Criticas tu ropa.#* Rorrim parece molesto.
 scr_dialogue_battle_action_selected_action_2_rorrim_a
-* Le das una risa forzada a Rorrim.
+* Le das una risa forzada a#  Rorrim.
 * Sonríes más.
 * Le das una ligera sonrisa.#* Rorrim sonríe de vuelta.
 scr_dialogue_battle_action_selected_action_3_rorrim_a
@@ -8980,9 +8980,9 @@ turn
 message2
 * (Garabatos.)
 * Amigo:#* No temas a lo desconocido.#* A veces son agradables.
-* (A familiar figure.)
-* (An unknown entity.)
-* (Somebody's... SOUL?)
+* (Una figura familiar.)
+* (Una entidad#  desconocida.)
+* (¿El... ALMA de alguien?)
 * Me parece recordar lo que#  una vez vi tan frecuente...
 * Lo que recordaba...#* Parece que ahora está#  olvidado...
 * Así que no importa, supongo.
@@ -17628,7 +17628,7 @@ slurpy_solution
 * Mientras sea notificado al#  dueño original con dos días#  hábiles de anticipación,
 * Cualquier escombro puede ser#  reutilizado para puzzles o#  cualquier diversión.
 * Bueno, no sabía como#  contactarle, ¡pero tomé esto#  como la notificación!
-* ...Desafortunadamente no de#  una pertinente, pero bueno...#  una notificación.
+* ...Desafortunadamente no de#  una forma pertinente, pero#  bueno... una notificación.
 * (Es un árbol.#  Nada especial.)
 * (Un árbol viejo y frágil.)
 * (¿Tomar los Ice Pellets?)
@@ -21967,7 +21967,7 @@ Mo
 Tu historia (NUEVO)
 * Nací durante la guerra.#  Apenas unas semanas antes#  de nuestro Subsuelo.
 * Mi padre era un soldado en#  el ejército del rey ASGORE. Y#  un soldado fue todo#  lo que llegó a ser.
-* Cuando mi madre recibió la#  noticia de que los monstruos#  tenía que retirarse, se negó a irse.#  Insistió en buscar a mi padre.
+* Cuando mi madre recibió la#  noticia de que los monstruos#  tenían que retirarse, se negó a irse.#  Insistió en buscar a mi padre.
 * ...A pesar de las súplicas#  de los oficiales, no cambiaba#  de opinión.
 * Enseguida me entregaron a#  una niñera y me criaron en#  esta misma montaña.
 * Pero así va la vida en tales#  circunstancias. No todo el#  mundo lo tiene fácil.
@@ -23220,14 +23220,14 @@ no_loop_target
 spin_radius_speed_last
 spin_default_x
 spin_default_y
-Since you're so bad#at dodging bullets,#I can SAVE your#progress for you.
-Sorry about that.
-Let's try again!
-Here they come!#Dodge them all!
-What are you doing?#Dodge. The. Bullets.
-Don't mess it up#this time.
-You sicko! Are you#doing this on#purpose?!
-Fine! I'll just stop#sending them then.
+Ya que eres tan malo#esquivando balas,#puedo guardar tu#progreso por ti.
+Lo siento por#eso.
+¡Intentémoslo#de nuevo!
+¡Aquí vienen!#¡Esquívalos#todos!
+¿Qué haces?#Esquiva.#Las.#Balas.
+No lo estropees#esta vez.
+¡Enfermo! ¡¿Estás#haciendo esto#a propósito?!
+¡Bien! Entonces dejaré#de enviarlos.
 * Boy am I glad that fox#  lady let you roam free#  for a bit.
 * Not being able to talk#  to my pal has been#  torture!
 * Now, I know she roped#  ya into some Lab detour#  but...
@@ -23359,8 +23359,8 @@ Estoy#sintiendo#el amor~
 Solo#quiero#ver una#sonrisa.
 EN SERIO?!?
 *ladra*#*ladra*
-Es la#intención#lo que#cuenta!
-Por qué#no estás#feliz?
+¡Es la#intención#lo que#cuenta!
+¿Por qué#no estás#feliz?
 Me siento...#lastimada.
 Te amo#tanto <3
 Eres tan#dulce <3
@@ -23376,22 +23376,22 @@ sweet corn c
 app_sound
 hand2
 BASTARDO~
-Al menos#ves anime?!
+¡¿Al menos#ves anime?!
 No puedo hacerlo con monstruos mirando...
 AAAAAAAAAAAAAAAA#AAAAAAAAAAAAAAAA#AAAAAAAAAAAAAAAA#AAAAAAAAAAAAAAAA#AAAAAAAAAAAAAAAA
 No puedo hacerlo#con monstruos#mirando...
-Ni siquiera#lo haces bien!
+¡Ni siquiera#lo haces bien!
 ¡Espera! ¿Hablas#referencias#con fluidez?
-Puedo sentir el#poder recorriendo#mis cintas!
+¡Puedo sentir el#poder recorriendo#mis cintas!
 No tienes#respeto por la#forma artística.
 ¡Ey! ¡Yo no#juzgo tus#headcanons!
-No voy#a rendirme!
-Vive siendo héroe,#muere siendo héroe.
-Puedes dibujar#un manga?
+¡No voy#a rendirme!
+Vive siendo#héroe,#muere siendo#héroe.
+¿Puedes dibujar#un manga?
 Me recuerdas a#un anime que ví.
-Esta ni siquiera#es mi forma#final!
+¡Esta ni siquiera#es mi forma#final!
 ¡No es fácil#ser así!
-No te pongas#tsundere conmigo!
+¡No te pongas#tsundere conmigo!
 ¡Tu has de ser#el antagonista!
 crispy scroll c
 crispy scroll b
@@ -23421,14 +23421,14 @@ rorrim b
 random_sound
 distance_max
 move_speed_current
-¡NO NO! ¡EL RUIDO#MOLESTA! ¡EL RUIDO#MOLESTA!
-¿Demasiada bulla#aquí! HUSHH#HUSHH!
+¡NO NO! ¡EL RUIDO#MOLESTA! ¡EL#RUIDO#MOLESTA!
+¡Demasiada bulla#aquí! ¡HUSHH#HUSHH!
 Dulce silencio...
 ¿Escuchhas esto?#¿No? Bien...
 Más silencio#por favor...
-           #No hagas ruido.#Hush hushh!
+           #No hagas ruido.#¡Hush hushh!
 No te muevas.#            #      #             
-Muevete#En silencio.#Hushh hushh!
+Muevete#En silencio.#¡Hushh hushh!
 Muevete
 No te vayas.#Hushh hushh!
 Solo fantasmas#por favor. ¡Hushh#hushh!
