@@ -428,7 +428,7 @@ gml_Script_scr_start_enemy_attacking_cactony_slither_duo
 scr_start_enemy_attacking_cactony_slither_duo
 gml_Script_scr_end_enemy_attacking_axis_geno
 scr_end_enemy_attacking_axis_geno
-* You take a breath.#* The world seems to slow, but#  only for a moment.
+* Respiras hondo.#* El mundo parece lento, pero#  sólo por un momento.
 * No te echas atrás.
 gml_Script_scr_dialogue_battle_action_selected_action_2_ceroba_pacifist
 scr_dialogue_battle_action_selected_action_2_ceroba_pacifist
@@ -991,8 +991,8 @@ New Home
 scr_determine_save_area
 gml_Script_scr_recreate_heart_battle_menu_text_jandroid_duo
 scr_recreate_heart_battle_menu_text_jandroid_duo
-* You try to talk to Ceroba but#  her attention is impenetrable.
-* You hold onto your hopes...
+* Intentas hablar con Ceroba pero#  su atención es impenetrable.
+* Te aferras a tus esperanzas...
 gml_Script_scr_dialogue_battle_action_selected_action_1_ceroba_pacifist
 scr_dialogue_battle_action_selected_action_1_ceroba_pacifist
 scr_enemy_timer_attacks_jandroid_solo
@@ -3349,8 +3349,8 @@ scr_battle_core_directory_no_attack
 * What the...
 * Guardener ensnares you!
 * No turning back.
-* Let justice be done.
-* Ceroba is shaken by the#  memory.
+* Es hora de la justicia.
+* Ceroba es aturdida por#  el recuerdo.
 * El cénit de los monstruos.
 * Caída.
 gml_Script_scr_battle_core_directory_flavor_text_intro
@@ -3504,8 +3504,8 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * Frog.
 * White spores swirl through the#  air.
 * one two three four five six#  seven Seven sSevVen 7sEv=en sVmn#  0sE7n SevvevvVvvvvVVVVV
-* Ceroba tries to ignore the#  condition of her friends.
-* A mother's love.
+* Ceroba intenta ignorar la#  condición de sus amigos.
+* El amor de una madre.
 * El enemigo mira hacia el frente.
 * Endtimes.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_1
@@ -3553,7 +3553,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_1
 * Guardener riega su jaula.
 * Guardener golpea el suelo#  con los brazos agitados.
 * Huele a Aa;1rW4,je2FpA,,.
-* Ceroba se seca el sudor#  de la frente.
+* Ceroba seca el sudor#  de su frente.
 * Los pétalos llueven del cielo.
 * Ceroba emite con furia.
 * El fin se acerca.
@@ -3600,10 +3600,10 @@ scr_battle_core_directory_flavor_text_enemy_1_default_2
 * A great hostility is#  blossoming!
 * Vines weave in and out of the#  ground all around you.
 * r3537 7ry 4641n r3537 7ry 4641n#  r3537 7ry 4641n r3537 7ry 4641n#  r3537
-* A chilling breeze envelops the#  area.
-* Ceroba gazes down upon the#  Underground.
-* You prepare yourself for#  whatever comes next.
-* Ceroba's emotions wane, but#  she stays resolute.
+* Una brisa helada envuelve el#  área.
+* Ceroba baja su vista hacia#  el Subsuelo.
+* Te preparas para lo que sea#  que sigue.
+* Las emociones de Ceroba#  declinan, pero se#  mantiene resoluta.
 * El enemigo prepara un ataque.
 * Hogar.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_3
@@ -3647,8 +3647,8 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * Guardener looks down upon you,#  twitching slightly.
 * Guardener twitches at an#  alarming rate. This can't be#  good for her.
 * FILE 01 - [REDACTED]
-* Ceroba stares into your SOUL#  with regret.
-* Your SOUL pulses with great#  power.
+* Ceroba mira fijamente a tu ALMA#  con arrepentimiento.
+* Tu ALMA late con gran poder.
 * La defensa del enemigo puede#  ser destruída.
 * Libertad.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_4
@@ -3682,10 +3682,10 @@ scr_battle_core_directory_flavor_text_enemy_1_default_4
 * Smells like lawnmower#  clippings.
 * You're starting to think you've#  had your fill of plants.
 * missing.
-* The battle continues.
-* Mayhem has been unleashed.
-* A crack has formed on Ceroba's#  mask.
-* A desperate chaos unfolds all#  around you.
+* El combate continúa.
+* El caos ha sido desatado.
+* Una grieta se ha formado en la#  máscara de Ceroba.
+* Un caos desesperado se#desplega a tu alrededor.
 * El enemigo se va debilitando.
 * Virtud.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_5
@@ -4011,7 +4011,7 @@ flowey_act
 * Esconderse
 * Persistir
 * Negociar
-* Hope
+* Esperanza
 * Recordar
 * Concentrarse
 gml_Script_scr_battle_core_directory_action_1_name
@@ -4082,7 +4082,7 @@ action_3_color_3
 * Weaken
 * Decay
 * Fruncir
-* Remember
+* Recordar
 gml_Script_scr_battle_core_directory_action_3_name
 scr_battle_core_directory_action_3_name
 action_4_important
@@ -4198,7 +4198,7 @@ enemy_low_hp_3
 #* Debería bajar su ira un poco.
 * Tu mejor amigo!
 #* Un legado para no olvidar.
-* Absolute devotion.
+* Devoción absoluta.
 #* Un digno oponente.
 #* Un ser caído.
 gml_Script_scr_battle_core_directory_check_selected_text
@@ -8880,7 +8880,7 @@ scr_verlet_guardener_wind
 * You pull on your shirt#  repeatedly in hopes to beat the#  heat. Your effort fails.
 scr_dialogue_battle_action_selected_action_3_axis
 scr_screenshake_battle_custom
-* You look up at Ceroba, enraged#  by what she's done.
+* Miras hacia Ceroba, con furia#  por lo que hizo.
 * You think of those you love#  most...
 scr_dialogue_battle_action_selected_action_3_ceroba_pacifist
 gml_Script_scr_talking_vendy
@@ -9662,8 +9662,8 @@ pedestal_is_active
 twitchy
 text_effect
 attack
-All for a chance to#make a difference.
-A chance.
+Todo por la oportunidad#de hacer una#diferencia.
+Una oportunidad.
 HoW L0NG ARE wE#GOInG TO DO#THIS?
 I DID nOT THiNK#BOTS COuLD GET#TIR3D.
 BUT HeRE I AM.#TIRED AS [heck].
@@ -9684,7 +9684,7 @@ draw_set_alpha
 draw_rectangle
 laser_width
 impact_frame_current
-Why...?
+¿Por qué...?
 Tú...
 You don't#understand.
 This is irreversible!#Everyone knows what#I've become!
@@ -9841,21 +9841,21 @@ chest
 talk_script
 * ¿Qué te gustaría ponerte#  mañana, cariño?
 * Salomón y Crestina#  están de visita, y#  también traen comida.
-* Te ayudaré a levantarte y#  podremos disfrutar de#  un picnic en el porche.
+* Te ayudaré a levantarte#  y podremos disfrutar de#  un picnic en el porche.
 * ¿Qué te parece?
 * Ceroba.
 * ...¿Sí?
 * No sé...
-* Heh.
+* Je.
 * Todo esto es tan#  lamentable.
 * Oye... no digas eso.
 * No necesitamos tener#  a nadie encima.
 * Podríamos ser sólo#  nosotros.
-* Un picnic suena encantador.
-* Quiero que Kanako y tú tengan#  uno, rodeados de#  sus mejores amigos.
+* Un picnic suena#  encantador.
+* Quiero que Kanako y tú#  tengan uno, rodeados de#  sus mejores amigos.
 * ¿Qué estás diciendo?
 * Yo...
-* Gosh...
+* Dios...
 * Nunca le tuve miedo en#  toda mi vida, pero ahora#  que está tan cerca...
 * No...
 * Cállate. Para.
@@ -9877,7 +9877,7 @@ talk_script
 * Lo haré.
 * Te prometo que lo haré.
 * No he visto lágrimas#  tuyas desde que nos#  conocimos en el puente.
-* Los guardo para los#  momentos que importan.
+* Las guardo para los#  momentos que importan.
 * Me alegra...
 * Porque este momento#  me importa mucho.
 Background_flashback
@@ -10049,10 +10049,10 @@ current_speed
 max_speed
 shard_number
 shard
-My love...
-My child...
-All... gone.
-Why wouldn't you#just...
+Mi amor...
+Mi niña...
+Todos... se fueron.
+Por qué no sólo...
 pedestal_item
 pedestal_menu_open
 pear
@@ -10327,13 +10327,13 @@ attack_tick
 snake_spawn_x
 snake
 snake_spawn_y
-Why...
-Why won't you#die!?
-Why!?
-If I don't#succeed, it's#over!
-Die!!
-Just die!!!
-DIE!!!!!
+Por qué...
+¿¡Por qué no#mueres!?
+¿¡Por qué!?
+¡Si no lo#logro, se acabó!
+¡¡Muere!!
+¡¡¡Sólo muere!!!
+¡¡¡¡¡MUERE!!!!!
 letter_array
 letter_current
 letter_waiter
@@ -11223,9 +11223,9 @@ HP!
 * We don't know how many#  other robot types are#  out there.
 * We'll figure it out in#  due time, I'm sure.
 * Just... don't do#  anything stupid.
-* You hold onto your hopes...#* Defense temporarily increased!
-* You refuse to back down...#* Gained 
-* You think of those you love#  most...#* Speed temporarily increased!
+* Te aferras a tus esperanzas...#* ¡Defensa temporalmente aumentada!
+* No te echas atrás...#* ¡Recuperas
+* Piensas en los que más amas..#* ¡Velocidad temporalmente#  aumentada!
 arrive
 * Que cara-
 * ¡¡¡Diversión!!!
@@ -12882,71 +12882,71 @@ destroy_noloop
 * Nowhere to go but up!
 draw_alpha_black
 draw_overlay_alpha
-Our little girl... Kanako... She#  needs to live a happy life,#  unaffected by my endeavors.
-     That is my final wish.
-* Kanako!?
-* What are you doing down#  here!?
-* Is... Is it true?
-* Am I... different?
-* Kanako I...
-* Daddy said he would've#  lived a long time if I#  wasn't here.
-* He would still... be...
-* No, no!
-* Your father loved you!
-* And he didn't want to#  put you in any danger.
-* You heard him!
-* His dream... All these#  books and papers... 
-* You've been trying to#  finish it, haven't you?
-* With my limited#  abilities... yes.
-* But it doesn't involve#  you.
-* I've been looking into#  ways to create the serum#  without a Monstruo Jefe.
-* I'll... figure it out.#  I have to.
-* I found this in the#  trash.
+Nuestra pequeña niña... Kanako...#  Ella necesita vivir una vida#  feliz, no afectada por mi trabajo.
+     Ese es mi último deseo.
+* ¿¡Kanako!?
+* ¿¡Qué haces aquí abajo!?
+* ¿Es... Es verdad?
+* ¿Soy... diferente?
+* Kanako yo...
+* Papi dijo que habría#  vivido por mucho tiempo#  si yo no estuviera aquí.
+* Él todavia... estaría...
+* ¡No, no!
+* ¡Tu padre te amaba!
+* Y no quería ponerte#  en ningún peligro.
+* ¡Lo escuchaste!
+* Su sueño... Todos estos#  libros y papeles...
+* Has estado intentando#  terminarlo, ¿Cierto?
+* Con mis habilidades#  limitadas... sí.
+* Pero no te involucra.
+* He estado buscando formas#  de crear el suero sin#  un Monstruo Jefe.
+* Lo... resolveré.#  Tengo que hacerlo.
+* Encontré esto en la#  basura.
 * ¡! 
-* You figured it out.#  Last week.
-* "Using the leftover#  ex... extract from the#  human's SOUL...
-  "Using the leftover#  ex... extract from the#  human's SOUL...
-* I believe I have#  removed any corruption#  it held."
-  I believe I have#  removed any corruption#  it held."
-* ...Negating the need#  for someone pure of#  heart. Yes.
-* So you did it!
-* Daddy's wish could come#  true, right?
-* We could make him#  smile! Make him proud of#  us!
-* He didn't want you to#  be a part of this. And I#  agree.
-* Let me do it!
-* I want to make things#  right. Be useful for#  once.
-* And I trust you to keep#  me safe!
-* I... I do believe that#  the refined method would#  work.
-* I just...
-* Please...
-* You promised you would#  make his dream come#  true.
-* I did.
+* Lo resolviste.#  La semana pasada.
+* "Usando los restos del#  ex... extracto del#  ALMA humana...
+  "Usando los restos del#  ex... extracto del#  ALMA humana...
+* Creo que he removido#  toda corrupción que#  tenía."
+  Creo que he removido#  toda corrupción que#  tenía."
+* ...Negando la necesidad#  de alguien puro#  de corazón. Sí.
+* ¡Así que lo hiciste1
+* El deseo de papi se haría#  realidad, ¿Cierto?
+* ¡Lo haríamos sonreir!#  ¡Estaría orgulloso#  de nosotras! 
+* Él no quería que tú#  fueras parte de esto.#  Y estoy de acuerdo.
+* ¡Déjame hacerlo!
+* Quiero hacer lo correcto.#  Ser útil por una vez.
+* ¡Y confío en que me#  mantendrás segura!
+* Sí... Creo que el método#  refinado funcionaría.
+* Sólo...
+* Por favor...
+* Prometiste que harías#  su sueño realidad.
+* Lo hice.
 * Muy bien.
-* But I'll make it quick.
-* I'll ensure your safety#  throughout the#  procedure, alright?
-* Mm-hmm!
-* We'll be the heroes of#  the Underground!
-* All thanks to you and#  daddy!
-* Heroes, huh?
-* That has a nice ring to#  it.
-* Okay, wait here.
-* You will need to stand#  very still for this.
-* Close your eyes and I#  will begin the#  fusion-extraction.
-* You may feel a pinch or#  two but it'll all be#  over before you know it.
-* Understood?
-* Understood!
-* You truly believe in#  this, don't you?
-* Yeah.
-* Love you lots.
-* Love you more.
-* NO!!!
+* Pero lo haré rápido.
+* Pero me aseguraré de tu#  seguridad a través#  del proceso, ¿Entendido?
+* ¡Sip!
+* ¡Seremos los héroes del#  Subsuelo!
+* ¡Todo gracias a ti y#  papi!
+* ¿Héroes, eh?
+* Admito que suena bien.
+* Ok, espera aquí.
+* Tendrás que quedarte#  muy quieta para esto.
+* Cierra tus ojos y#  empezaré la#  extracción-fusión.
+* Podrás sentir un pinchazo#  o dos pero terminará#  antes de que te des cuenta.
+* ¿Entendido?
+* ¡Entendido!
+* Realmente crees en esto#  ¿No?
+* Seh.
+* Te amo mucho.
+* Yo te amo más.
+* ¡¡NO!!!
 * No no no no no no-
-* Why didn't it work!?
-* Kanako, wake up.
-* Wake up right now!
-* Mommy's here, come on! 
-* What...
-        What have I done?
+* ¿¡Por qué no funcionó!?
+* Kanako, despierta.
+* ¡Despierta ahora mismo! 
+* ¡Mami está aquí, vamos!
+* Qué...
+        ¿Qué es lo que he hecho?
 ¡Hola, Clover!
 Siento mucho#esto, ¡pero he estado#aburrido todo#el día!
 door_menu_open
@@ -13022,10 +13022,10 @@ array_push
 sticks
 wind_inc
 col
-Gracias
+Gracias.
 Chujin...
-Sorry to keep you#waiting but...
-I'm here now.
+Perdón por hacerte#esperar pero...
+Ya estoy aquí.
 all_approached
 human_alpha
 * Ah, rain. Beautiful droplets#  from the sky.
@@ -14355,17 +14355,17 @@ anim_staff_offset
 anim_ponytail_offset
 anim_loop_time_half
 anim_inc_current
-I swore I had#the key.
-Saving monsterkind#from their demise...
-Carrying on his#legacy...
-It was worth the#risk to me.
-Now my life is#over.
-For nothing.#For no one.
-I have done#unforgivable things.
-I let my husband#work himself to#death...
-I put my precious#little girl through#hell...
-And...
-Oh god.
+Juré tener la#clave.
+Para salvar a los#monstruos de su fin...
+Conservar su legado...
+Valía el riesgo#para mi.
+Ahora mi vida#se acabó.
+Para nadaz.#Para nadie.
+He hecho cosas#imperdonables.
+Dejé que mi marido#trabaje hasta#la muerte...
+Puse a mi preciosa#niña en un infierno...
+Y...
+Oh dios.
 full_sprite
 shopkeeper_sprite_default
 shopkeeper_sprite
@@ -14552,16 +14552,16 @@ disc_yoffset
 activate_delay
 activate_delay_max
 activate_count
-So you know#the truth now.
-Are you#satisfied?
-Do you find joy#in making me#relive my darkest#memories?
-I never claimed#to be a saint.
-I'm drowning in a#sea of mistakes#like anyone else.
-But instead of#sinking...
-I'm chasing the#one ray of#sunlight peeking#through the#surface.
-I tried letting#go, moving on...
-But I guess deep#down, I'm too#stubborn to live#like that.
-This is my fate.
+Así que conoces#la verdad ahora.
+¿Estás#satisfecho?
+¿Acaso te alegra#hacerme revivir#mis recuerdos#más oscuros?
+Nunca dije ser#una santa.
+Me ahogo en un#mar de errores como#todos los demás
+Pero en lugar#de ahogarme...
+Persigo el único#rayo de sol que#se asoma por#la superficie.
+Intenté dejar ir#seguir con mi vida...
+Pero supongo que#en el fondo#soy muy terca para#vivir así.
+Este es mi destino.
 bullet_hit_overlay
 right_boundary
 left_boundary
@@ -14930,11 +14930,11 @@ ring_object
 lantern_offset
 greyscale_intensity
 greyscale_overlay_alpha
-Why are you#like this?
-Always taking#the high road.
-Aren't you angry?#Aren't you just?
-Pull the trigger#already!
-Pull it...
+¿Por qué eres#así?
+Siempre tomando#el buen camino.
+¿No estás enojado?#¿No eres justo?
+¡Aprieta el gatillo#de una vez!
+Apriétalo...
 destroy_type
 fall_delay
 warning_line_alpha
@@ -15950,8 +15950,8 @@ axis_priority
 bg_ruins02
 bg_yy
 Empezar el juego
-...What are you#waiting for?
-Please, give me#this.
+...¿A qué estás#esperando?
+Por favor, dame#esto.
 menu_selection
 NEUTRAL
 route_selection
@@ -16246,7 +16246,7 @@ update_talk_val
 * Gah-I should've pieced#  it together sooner!
 * Almost there...
 * Here we go...	
-* No turning back...
+* Sin vuelta atrás...
 * Talk about#  extravagant!	
 * This must've taken#  years to build...	
 * Well, if it were done#  traditionally.
@@ -18054,7 +18054,7 @@ x_normal
 * Oh I love the sound of that#  already! Schminner time!
 * I ought to go into#  entrepreneurship, don't you#  think Charles?
 * I'll invent many useful#  things, like a new attitude for#  you!
-For the future#of Monsterkind!!!
+¡¡¡Por el futuro#de los Monstruos!!!
 * Ay niño. El atuendo.
 * Supongo que eres de las#  Dunas, ¿eh?
 						 #  Dunas
@@ -18700,114 +18700,114 @@ shifting_bridge_2
 shifting_bridge_3
 WallNearBridge
 starlo_overlay
-* (I see them!)
-* (This way!)
-* (Ceroba looks#  distressed...)
-* (I'm sure we can#  negotiate her down from#  this but...)
-* (Worst comes to worst,#  we might have to#  retreat.)
-* (Tactically, of#  course.)
-* (Let's listen in...) 
-* Just leave me to my own#  devices, Star!
-* Ceroba, I don't know#  what you're saying!
-* Please calm down...
-* I must go to the Lab!
-* It's where Kanako is#  being kept!
-* I have to get there by#  any means necessary!
-* I'm not sure that's a#  good idea...
-* Don't get in my way.
-* Or what? You'll kill#  me?
-* I'll...                
-* Clover and I - we#  watched the tapes. 
-* You need to let this#  go!
-* If not...
-* Why are you here,#  Clover!? 
-* You're supposed to be#  back home!
-* No, thank you for#  finding me. Makes things#  easier.  
-* If I were you two, I'd#  leave Clover here and#  forget about this.
-* It might not make sense#  to you, but it's for the#  best.
-* Cut the self-righteous#  act, will you?
-* Just... stop it.
-* We can turn this#  around, Ceroba.
-* You said it yourself#  that Kanako is alive!
-* Let's just find her and#  go back to our normal,#  happy life.
-* "Happy life"...#  That's rich.
-* Yo... lied about Kanako,#  Star. I had to.
-* Falling down is#  practically a death#  sentence.
-* Unless a miracle takes#  place at the lab,#  there's no... 
-* ...There's no hope for#  her.
-* I-I'm trying to make#  the best of what I can,#  okay!?
-* This is all I know to#  do at this point!
+* (¡Ahí están!)
+* (¡Por aquí!)
+* (Ceroba se ve#  angustiada...)
+* (Estoy segura que#  podemos negociar para#  sacarla de esto...)
+* (En el peor de los casos,#  tendremos que#  retirarnos.)
+* (Tácticamente, por#  supuesto.)
+* (Escuchemos lo que#  dicen...)
+* ¡Sólo déjame a lo mío,#  Star!  
+* ¡Ceroba, no sé qué#  estás diciendo!
+* Por favor cálmate...
+* ¡Debo ir al laboratorio!
+* ¡Ahí es donde se#  encuentra Kanako!
+* ¡Tengo que llegar allí#  de cualquier modo!
+* No estoy seguro que#  sea una buena idea...
+* No te metas en mi camino.
+* ¿O qué? ¿Vas a matarme?
+* Voy a...               
+* Clover y yo -#  vimos las cintas.
+* ¡Tienes que dejar#  esto ir!
+* Si no...
+* ¿¡Por qué estás#  aquí, Clover!?
+* ¡Se supone que tienes#  que estar en casa!
+* No, gracias por#  encontrarme. Me facilita#  cosas. 
+* Si fuera ustedes dos#  dejaría a Clover aquí y#  me olvidaría de esto.
+* Podrá no tener sentido#  para ustedes, pero es#  lo mejor.
+* Para el acto creído,#  ¿Sí? 
+* Sólo... para.
+* Podemos cambiar#  esto, Ceroba.
+* ¡Tu misma dijiste que#  Kanako está viva!
+* Vayamos a encontrarla y#  volvamos a nuestra#  vida normal y feliz.
+* "Vida feliz"...#  Ojalá pudiéramos.
+* Yo... mentí sobre Kanako,#  Star. Tenía qué.
+* Haber caído es#  prácticamente una#  sentencia de muerte.
+* A no ser que un milagro#  ocurra en el laboratorio,#  no hay...
+* ...No hay esperanza para# ella.
+* E-Estoy haciendo lo#  mejor que puedo,#  ok?!
+* ¡Eso es todo lo que#  sé hacer a este punto!
 * Kanako... 
-* Kanako is a Boss#  Monster. 
-* She is the key to#  finishing Chujin's work!
-* This is his legacy! His#  plan for the future! 
-* Monsterkind's only hope#  for survival!
-* Don't you speak for#  him!
-* You've seen the tapes,#  right?
-* Do you honestly think#  this is what he wanted?
-* Kanako wasn't supposed#  to be a factor in this!
-* If he were here, the#  Chujin I knew woul-
-* The Chujin you knew... 
-* You knew nothing of#  him.
-* No, Martlet's right.
-* We might've had some#  differing views but...
-* ...Chujin was kind. To#  everyone.
-* And I know you are as#  well!
-* It's just that right#  now, I...
-* I don't understand you.
-* When I fought Clover I#  was "reckless."
-* But when YOU want their#  SOUL, it's "for the#  best"?
-* Not only Clover's...#  but the SOUL of your own
-* Shut up!
-* You think I don't know#  how far gone I am!?
-* And where's this high#  horse coming from???
-* Sounds to me like we're#  in this pit together.
-* Ceroba, please...
-* Just... get out of here#  and let me finish what I#  started. 
-* Y-You can't have#  Clover!
-* We are going to ASGORE#  and that's that!
-* Don't you dare.
-* Martlet, grab Clover!#  I'll keep Ceroba at bay!
-* Go, now!
-* Son of a!
-* I'm sorry for what I've#  done.
-* I almost wish you never#  showed up in the Wild#  East.
-* Maybe then I could've#  continued to bury my#  sorrows in the Saloon.
-* But now... I must#  follow through with my#  mission.
-* I've somehow grown to#  respect the hell out of#  you but... 
-* At the end of the#  day... you're naive.
-* There is so much you#  don't understand about#  monsters.
-* What, did you think#  you'd jump down here and#  find them?
-* Five humans, living out#  their lives, unharmed...
-* That isn't how it#  works.
-* I'm guessing you#  discovered that truth,#  right? Then what?
-* Was your and Martlet's#  plan to storm Asgore's#  Castle for revenge?
-* Or was it simply to#  plead for a free ticket#  back to the Surface?
-* He only needs two more#  SOULS to shatter the#  barrier.
-* Wouldn't hesitate for a#  SECOND to make that one.
-* But... who am I to#  criticize how he carries#  out business?
-* Here I am about to do#  the very same thing...
-* I am a hypocrite. A#  liar. Sure.
-* But at least I... 
-* ...with Chujin's#  guidance, can save#  countless monster lives.
-* These two couldn't#  understand that. And#  Asgore...
-* Asgore is a coward.
-* Didn't believe in my#  husband at all.
-* He thinks problems will#  just disappear if he#  closes the curtains.
-* I long for freedom as#  much as anyone but he...
-* He doesn't consider#  what will happen once he#  gets his SOULS.
-* Everyone else too.
-* They all believe victory#  will come easy but the#  humans I've heard of?
-* They are powerful.#  Ruthless.
-* As soon as we try to#  leave...
-* ...They will stuff us#  RIGHT back into this#  hellhole.
-* They want our misery to#  fester until we give up#  and die out.
-* I am no better than#  Asgore on a scale of#  morality, I'm sure of it.
-* But what I am, is#  proactive.
-* Monsterkind is worth#  protecting, so I will#  see that it is done. 
-* Truthfully...
-* I have nothing left in#  life, so I've made peace#  with throwing it away.
-* You'll fight back, but#  you can't forever.
+* Kanako es una Monstruo#  Jefe.
+* ¡Ella es la clave para#  terminar el trabajo#  de Chujin!
+* ¡Esto es su legado! ¡Su#  plan para el futuro!
+* ¡La única esperanza#  para la supervivencia#  de los monstruos!
+* ¡No hables por él!
+* Has visto las cintas,#  ¿Cierto?
+* ¿Honestamente crees que#  esto es lo que él#  quería?
+* No se suponía que Kanako#  fuera un factor en esto!
+* Si estuviera aquí, el#  Chujin que conocí-
+* El Chujin que conociste...
+* No lo conocías en#  absoluto.
+* No, Martlet tiene razón.
+* Pudimos haber tenido#  puntos de vista#  diferentes pero...
+* ...Chujin era amable.#  Con todos. 
+* ¡Y sé que tú también#  lo eres!
+* Es sólo que ahora#  mismo, no...
+* No te entiendo.
+* Cuando yo combatí contra#  Clover fui "imprudente."
+* Pero cuando TU quieres#  tomar su ALMA, ¿Es#  "para lo mejor"?
+* No sólo la de Clover...#  pero al ALMA de tu propia
+* ¡Cállate!
+* ¿¡Acaso crees que no sé#  lo lejos que he llegado!?
+* ¿¿¿Y de dónde viene esta#  subida de humos???
+* Para mí suena como que#  estamos en este foso juntos.
+* Ceroba, por favor...
+* Sólo... vete y déjame#  terminar lo que empecé.
+* ¡N-No puedes tener#  a Clover!
+* ¡Vamos a ir con ASGORE# y punto!
+* No te atrevas.
+* ¡Martlet, toma a Clover!#  ¡Mantendré a Ceroba#  a raya!
+* ¡Ve, ahora!
+* ¡Hija de!
+* Me disculpo por lo que#  he hecho.
+* Casi que deseo que nunca#  hayas aparecido en#  el Salvaje Este.
+* Quizás en ese caso podría#  haber seguido ahogando#  mis penas en la Taberna.
+* Pero ahora... debo#  seguir con mi misión.
+* De algún modo he empezado#  a respetarte demasiado#  pero...
+* Después de todo...#  eres ingenuo.
+* Hay mucho que no entiendes#  sobre los monstruos.
+* ¿Qué? ¿Pensabas que#  saltarías aquí y los#  encontrarías?
+* Cinco humanos, viviendo#  sus vidas, sin un#  rasguño...
+* Así no es como funciona.
+* Supongo que descubriste#  la verdad, ¿Cierto?#  ¿Entonces qué?
+* ¿Tu plan y el de Martlet#  era atacar el Castillo#  de Asgore buscando venganza?
+* ¿O era simplemente#  suplicar por un boleto#  gratis hacia la Superficie?
+* Él sólo necesita dos#  ALMAS más para destruir#  la barrera.
+* No dudaría un SEGUNDO#  en hacer eso una.
+* Pero... ¿Quién soy#  para criticar como maneja#  su trabajo?
+* Aquí estoy a punto de#  hacer exactamente lo mismo...
+* Soy una hipócrita.#  Una mentirosa. Seguro.
+* Pero al menos yo...
+* ...con la guianza de#  Chujin, puedo salvar#  incontables vidas de#  monstruos.
+* Estos dos no puedieron#  entender eso. Y#  Asgore...
+* Asgore es un cobarde.
+* No creyó en mi esposo#  en lo absoluto.
+* Él cree que los problemas#  desaparecerán si#  cierra las ventanas.
+* Anhelo la libertar como#  cualquiera pero él...
+* No considera lo que#  pasará una vez obtenga sus#  ALMAS.
+* Tampoco todos los demás.
+* Todos creen que la victoria#  será facil pero ¿Con lo qué#  escuché sobre los humanos? 
+* Son poderosos.#  Despiadados.
+* Tan pronto como#  intentemos irnos...
+* ...Nos devolverán# INMEDIATAMENTE hacia#  este infierno.
+* Quieren que nuestra#  miseria se pudra hasta#  que nos rindamos y muramos.
+* No soy mejor que Asgore#  en una escala de#  moralidad, te lo aseguro.
+* Pero lo que soy,#  es proactiva.
+* Vale la pena progeter#  los monstruos, así#  que lo veré hecho.
+* La verdad...
+* No tengo nada que perder#  en mi vida, así que#  acepté tirarlo todo.
+* Combatirás de vuelta,#  pero no puedes#  por siempre.
 x_override
 y_override
 starlo_overlay_white
@@ -22431,7 +22431,7 @@ DEBUG MODE:#TOGGLE: 0: ON#CONTROLS:#1/2: BATTLE LEFT/RIGHT#3: START BATTLE:
 #FPS: 
 #FPS REAL: 
 DEBUG MODE:#TOGGLE: 0: OFF
-For Kanako...
+Para Kanako...
 depth_overworld_text_normal
 item_pause_screen_number
 * Comes el
@@ -22637,16 +22637,16 @@ This bot's done nothing#but bully you around!
 Give him a taste of his#own metallic medicine!
 Brush yourself off,#Clover!
 It's time to put#the "ax" in Axis!
-You didn't come all#this way to die here!
-Let's finish this thing!
-You're gonna let this#backstabber win?
-Not on my watch!
-We're so close#to our goal!
-Don't mess it up!
-You need to keep your#guard up at all times!
-Don't buy into Ceroba's#sob stories!
-You can't give up#now, Clover!
-It's time to take#Ceroba down for good!
+¡No llegaste hasta aquí#para morir aquí!
+¡Terminemos con esto!
+¿Vas a dejarle ganar#a esta traidora?
+¡No en mi guardia!
+¡Estamos tan cerca#de nuestra meta!
+¡No lo arruines!
+¡Debes mantener tu guardia#en alto en todo#momento!
+¡No creas las historias#tristes de Ceroba!
+¡No puedes rendirte#ahora, Clover!
+¡Es hora de acabar#con Ceroba de una vez!
 She's tougher than#she looks, huh?
 Luckily, so are you!
 Don't let this guard's#flashy front get to you.
@@ -24524,8 +24524,8 @@ max_angle_pullback
 max_angle_release
 angle_pullback_speed
 angle_release_speed
-So it's come to#this.
-My last resort.
+Así que ha llegado#a esto.
+Mi última baza.
 id_frame_arm
 package_vsp
 package_grav
@@ -24774,7 +24774,7 @@ starlo_intro_dialogue_created
 starlo_soul_can_move
 No creo que pueda#seguir soportando#este peso.
 Ganaste esta#batalla.
-Haz lo que#tenga que#hacer.
+Haz lo que#tengas que#hacer.
 heart_x_default
 heart_y_default
 bottle
@@ -24850,7 +24850,7 @@ swing_speed
 swing_speed_max
 dirnew
 song_pitch
-For Chujin...
+Para Chujin...
 aim_target
 target_angle
 speed_charge_max
