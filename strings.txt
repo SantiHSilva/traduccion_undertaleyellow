@@ -22589,23 +22589,23 @@ bullet_spin_dir
 generate
 mus_gameover
 * ¿Por qué?
-* Je, ¡eso sí#que lo he oido!
-* Pero no quiero volver#a oirlo, ¿de acuerdo?
-Esta cosa odia el#ruido, ¿verdad?
-¡Utilizalo#a tu favor!
-¿Una solución permanente,# ¿eh?
-Lastima que puedo# deshacerlo, ¡jaja!
+* Je, ¡Eso sí#que lo he oido!
+* Pero no quiero volver#a oírlo, ¿De acuerdo?
+Esta cosa odia el#ruido, ¿Verdad?
+¡Utilízalo#a tu favor!
+¿Una solución permanente,# ¿Eh?
+Lástima que puedo# deshacerlo, ¡Jaja!
 ¡Este solitario#pega fuerte!
 ¡Nada que no puedas#manejar!
 La última vez que lo#comprobé, a nadie le#gustaban los humanos fritos.
 ¡Vuelve ahí fuera!
-Bla, bla, bla,#¡qué llorón!
+Bla, bla, bla,#¡Qué llorón!
 ¡Démonos prisa y#ocupémonos de este bicho!
 No estoy seguro de#que quisiera matarte.
 ¿Impresionante...?
-Vamos, ¿perdiste con#esta novata?
-¡hazlo mejor, amigo!
-Hablando de "congelarse",#¡jaja!
+Vamos, ¿Perdiste con#esta novata?
+¡Hazlo mejor, amigo!
+Hablando de "congelarse",#¡Jaja!
 ...Oh cierto, no puedes#reirte porque... Sí.
 ¡Vamos, amigo!
 ¡Seguro que puedes bailar#mejor que ESO!
@@ -22615,28 +22615,28 @@ Hablando de exagerar...
 ¡Demostrémosle a este#presumido quién manda!
 No puedo decir que#te culpe por morir,#sinceramente.
 ¡Son cuatro contra#uno ahí fuera! Un#montón de tramposos...
-Je, ¿cómo van a#explicarle esto#al Sheriff?
-Me encantaría quedarme#para ese desastre,#pero ¡oh bueno!
+Je, ¿Cómo van a#explicarle esto#al Sheriff?
+Me encantaría quedarme#para ese desastre,#pero ¡Oh bueno!
 No sé si puedes#enfrentarte a toda#esta pandilla a la vez.
-Solo mantente vivo tanto#como puedas, ¿de#acuerdo?
-The mentor vs apprentice#thing is fun and all,#but...
-You do know the mentor#isn't supposed to win,#right?
-This human-wannabe is#a total pushover!
-Bet he'll crack if you#survive long enough, haha.
-There's no way this#fraud bested you!
-Come on, show him who#the real gunslinger is!
-Talk about lethal!
-Maybe try getting your#"offense level" lower?
-Who knew a robot could#be so cold-blooded?#Or... just cold. 
-Unless things get even#weirder. You never know.
-This bot may be tough,#but you're tougher!
-Put it back where it#came from!
-Clearly Axis wasn't#built to last.
-You can take him out,#I'm sure of it!
-This bot's done nothing#but bully you around!
-Give him a taste of his#own metallic medicine!
-Brush yourself off,#Clover!
-It's time to put#the "ax" in Axis!
+Sólo mantente vivo tanto#como puedas, ¿De#acuerdo?
+Esto del mentor contra el#aprendiz es divertido#y todo, pero...
+Sabes que no se supone#que el mentor gane,#¿Cierto?
+¡Este aspirante a humano#es un pusilánime!
+Apuesto a que se romperá#si sobrevives lo#suficiente, jaja.
+¡No hay manera en que#este fraude te#haya derrotado!
+¡Vamos, muéstrale quién#es el verdadero pistolero!
+¡Hablando de letal!
+¿Quizás deberías#intentar disminuir#tu "nivel de ofensa"?
+¿Quién creería que un robot#pudieraser tan sangre fría?# O... sólo frío.
+A no ser que las cosas#se pongan incluso más#raras. Nunca lo sabes.
+¡Este robot podrá ser duro,#pero tú lo eres más!
+¡Ponlo de vuelta de#donde vino!
+Claramente Axis no#fue hecho para perdurar.
+¡Puedes acabar con él,#estoy seguro!
+¡Lo único que ha hecho#este robot fue#atemorizarte!
+¡Dale una dosis de su#propia metálica medicina!
+¡Levántate, Clover!
+¡Es hora de#"formatear" a Axis!
 ¡No llegaste hasta aquí#para morir aquí!
 ¡Terminemos con esto!
 ¿Vas a dejarle ganar#a esta traidora?
@@ -22647,52 +22647,52 @@ It's time to put#the "ax" in Axis!
 ¡No creas las historias#tristes de Ceroba!
 ¡No puedes rendirte#ahora, Clover!
 ¡Es hora de acabar#con Ceroba de una vez!
-She's tougher than#she looks, huh?
-Luckily, so are you!
-Don't let this guard's#flashy front get to you.
-I know a weak-willed#monster when I see one.
-Gee, these monsters#sure are cruel!
-And who is their main#influence? The King.
-Has the almighty Clover#met their match?
-Surely not!
-Aww, come on!
-Things were just getting#good!
-This lady's totally#predictable!
-Memorize the patterns#and she's done for!
-Don't tell me this is#your limit!
-'Cause there is more#where that came from,#buddy!
-Oh, just kill her#already!
-If you want to,#that is...
-This piece of junk#did you in?
-Heh, thought you were#better than that.
-You should've dealt#with this bot a#long time ago.
-But no, had to play#the big bad action#hero!
-I can't help but feel#like this is karma,#heh.
-But I GUESS I should#still revive you...
+Es más dura de lo#que parece, ¿Eh?
+Por suerte, ¡Tú también!
+No dejes que la fachada#brillante de esta guarda#te detenga.
+Sé qué es un monstruo#débil cuando lo veo.
+¡Vaya, sí que estos#monstruos son crueles!
+¿Y quién es su#influencia principal?#El Rey.
+¿Acaso el gran Clover#encontró su rival?
+¡Seguro que no!
+Oww, ¡Vamos!
+¡Las cosas empezaban# a ponerse buenas!
+¡Esta señorita es#totalmente predecible!
+¡Memoriza los patrones#y está acabada!
+¡No me digas que este#es tu límite!
+¡Porque hay más#de donde eso vino,#amigo!
+¡Oh, mátala de#una vez!
+Si eso quieres,#claro...
+¿Esta pieza de#chatarra te#derrotó?
+Je, pensé que eras#mejor que eso.
+Deberías haberte#encargado de este#robot hace tiempo.
+Pero no, ¡Tenías que#jugar al malote#héroe de acción!
+No puedo evitar sentir#que esto es karma,#je.
+Pero SUPONGO que#aún debería#revivirte...
 De nuevo.
-You can't reach ASGORE#if you're dead!
-Don't fool around!
-You're supposed to#DODGE the attacks!
-Remember what I#taught'cha?
-I didn't offer my#help just to see#you die!
-Let's get moving!
-How careless...
-Well, there's always#next time!
-Uys, eso pareció#ser doloroso!
-Brush yourself off and#get back at 'em!
-Dying sucks, right?#Right.
-So try not to do#it again.
-* You have a mission,#remember?
-* Don't mess it up.
-* These attackers can't#get their way.
-* Try again.
-Let's get moving.
-You can't reach ASGORE#if you're dead.
-Don't fool around.
-You sure you're cut#out for this?
+¡No puedes llegar a#ASGORE si estás#muerto!
+¡No te hagas el tonto!
+¡Se supone que tienes#que ESQUIVAR los#ataques!
+¿Recuerdas lo que#te enseñé?
+¡No ofrecí mi ayuda#para verte morir!
+¡Continuemos!
+Qué descuidado...
+¡Bueno, siempre hay#otra vez!
+Uy, ¡Eso pareció#ser doloroso!
+¡Levántate y#vuelve con ellos!
+Morir apesta, ¿Cierto?#Cierto.
+Así que intenta#no hacerlo otra#vez.
+* Tienes una misión,#¿Recuerdas?
+* No lo arruines.
+* Estos atacantes no#pueden ponerse en#tu camino
+* Inténtalo de nuevo.
+Sigamos.
+No puedes llegar a#ASGORE si estás muerto.
+No te hagas el tonto.
+¿Seguro que estás#hecho para esto?
 Vamos.
-* Aaannd there goes#your SOUL!
-* Dodge the attacks next#time, will you?
+* ¡Yyyy ahí va#tu ALMA!
+* Esquiva los ataques#la próxima vez, ¿Ok?
 retry_enabled
 rhythm_enabled
 autofire_enabled
