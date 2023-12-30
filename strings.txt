@@ -9582,7 +9582,7 @@ furnace_number
 * Richter B. Oni
 * Certificado en Ingeniería -#  X/X/20XX
 DoorOpen
-* (Freshly trimmed bamboo#  plants.)
+* (Plantas de bambú bien#  cortadas.)
 new_room
 * The Founder's Crest
 * "Decisive. Devoted.#  Determined."
@@ -10066,9 +10066,9 @@ floorlights_
 correct_item
 * (Nothing happened.)
 * Wow... 
-* I wish Chujin invited#  me over back in the day.
-* This house is#  incredible... 
-* Uh-Yeah! Let's get#  inside and see what the#  fuss is about.
+* Desearía que Chujin me#  hubiera invitado a venir#  en aquellos días.
+* Esta casa es#  increíble... 
+* ¡Uh-Sí! Entremos y#  veamos el porque de#  tanta conmoción.
 * So, you figured it out?
 * ...Sí.
 * Ceroba was trying to#  carry out a plan Chujin#  left for her.
@@ -12752,8 +12752,8 @@ pe_droplet
 * So happy I found you.
 * I found you.
 * I  F O U N D  Y O U . 
-* (We need to stay#  focused.)
-* (Let's not bother#  others with our#  problems.)
+* (Necesitamos permanecer#  concentrados.)
+* (No molestemos a otros con#  nuestros problemas.)
 * You know that UGPS station#  right outside?
 * I hear it's going to be#  removed soon. All of them, in#  fact.
 * You might think it's because#  letters are going out of style#  but nah.
@@ -12814,7 +12814,7 @@ alphys
 * Respira hondo...
 first
 http://localhost:5100
-* (Let's not bother the#  townsfolk with our#  problems.)
+* (No molestemos a la#  gente del pueblo con#  nuestros problemas.)
 * Something going on at the old#  Ketsukane residence?
 * I've noticed an unusual number#  of monsters visiting.
 * Guess there's never a bad time#  to pay your respects. 	
@@ -14482,9 +14482,9 @@ tongue
 * You're pretty clever in#  intense situations.
 * I'm... impressed.
 * (A giant sealed door,#  presumably keeping something#  inside...)
-* (The door is locked from the#  other side.)
-* Locked, huh? Strange...
-* Guess Ed and Star took#  another route.
+* (La puerta está bloqueada#  del otro lado.)
+* ¿Bloqueada, huh? Raro...
+* Supongo que Ed y Star#  tomaron otro camino.
 cood_offset
 prev_fill
 color_fill
@@ -18639,8 +18639,8 @@ shift_layers
 layer_active
 BridgeTop
 orig_sprite
-* You can mess with that#  later.
-* We need to go to#  Ceroba's house.
+* Puedes jugar con eso#  después.
+* Tenemos que ir a la casa#  de Ceroba.
 spikes
 weakpoint_position
 spike_spawn
@@ -25033,10 +25033,10 @@ outline_start_inc
 imagea_default
 thick_default
 color_default
-* I should've asked where#  the "papers and tapes"#  are located, huh?
-* Hmm... I guess we can#  take a look around.
-* Should be an office#  somewhere...
-* We need to find the#  things Ed mentioned#  before we go.
+* Debí preguntar donde#  estaban los "papeles y#  cintas, ¿huh?
+* Hmm... Supongo que podemos#  investigar un poco.
+* Debe haber una oficina#  por alguna parte...
+* Debemos encontrar las#  cosas que mencionó Ed#  antes de irnos.
 target_sprite
 target_current
 target_max
