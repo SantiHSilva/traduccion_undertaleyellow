@@ -9703,67 +9703,67 @@ scene_change_timer
 overlay_alpha
 overlay_image_index
 static_flicker
-     Greetings, this is Chujin.
-   I don't have much time these#   days for a written journal so#   I opted for video.
-    I have no idea who will view#    these, if anyone, but I see it#    best to document my work.
- That is all for now. Signing off.
-         This is Chujin...
-  Today I traveled to Snowdin with#  my daughter on casual business.
-  While I was busy, Kanako wandered#  off to play with a resident.
-     That's when it happened...
-A few panicked townsfolk ran up to#me saying that a human had entered#the area.
-  This human... they attacked the#  monster Kanako was with. 
-  She was so close... She could've#  been next.
-  No one was there to protect her...#  Not even me...
-  ...
-  I don't understand... I just#  don't understand!
- Humankind already won by trapping# us down here yet they keep twisting# the knife!
-  This cannot continue any longer!
-   As of today, I'm looking into#   stopping this perpetual injustice#   once and for all.
-  This is Chujin with unfortunate#  news...
- I was... fired from my engineering# position.
-   I poured my all into my project#   but it wasn't enough!
-  The programming was buggy but I#  know I could've ironed it out with#  a few more iterations!
-   Why am I punished for trying to#   take our struggle seriously!? 
-  ...I feel as if I'm the only one#  who hasn't forgotten or chosen to  #  live in ignorance...
-   I told Ceroba I was retiring.#   Can't let her think less of me.
-  But enough of that... it's in the#  past. 
-    I must live in the present#    and plan for the future.
-   Prove I can save monsterkind...#   another way.
-          This is Chujin.
- After years of research, I've made# a breakthrough!
-  Monstruo Jefes... They may be the#  key to monsterkind's survival.
-I was able to reach this conclusion#because Yo... 
- ...I carry the Monstruo Jefe gene.
-This means my SOUL is much stronger#than that of other monsters.
-  More importantly, Monstruo Jefes#  are immortal until they produce#  offspring.
- Right now, monsterkind is few in# numbers compared to humanity but... 
-  ...What if anyone could become#  a Monstruo Jefe like me? Like...#  Kanako?
-  As a nation, an army, we could#  finally possess enough power to#  take the Surface back!
-  My theory for this involves the#  fusion of a human SOUL and a#  Monstruo Jefe SOUL.
-   From that, a serum would be#   extracted which could transform#   any average monster.
-  ...Unfortunately, I have not#  garnered enough proof that said#  serum is possible.
-     I must conduct more tests.
-chujin_tapes_effects
-      This... This is Chujin.
-   I was worried this might happen.#   Science is a dangerous game.
-  Rather foolishly, I experimented#  on myself... several times.
-Over and over, the subject rejected#the fusion, and I think I know why.
+    Buenos días, al habla Chujin.
+   No tengo mucho tiempo estos#   días para hacer un diario, asi#   que opté por grabar un video.
+    No tengo idea de quien verá#    esto, pero lo veo mejor para#    documentar mi trabajo.
+ Eso es todo por ahora. Me despido.
+         Al habla Chujin...
+  Hoy viajé a Snowdin con#  mi hija por negocio ocasional.
+  Mientras estaba ocupado, Kanako#  fue a jugar con un residente.
+     Ahí es cuando ocurrió...
+Unos cuantos ciudadanos corrieron#hacia mi diciendo que un humano#había entrado en el área.
+  Este humano... atacó al monstruo#  con el que estaba Kanako.
+  Ella estaba tan cerca... pudo#  ser la siguiente...
+  Nadie estuvo ahí para protegerla...#  Ni siquiera yo...
                 ...
-          I'll be direct... 
-  My SOUL has deteriorated and I#  don't know how much longer I have.
-   However... I believe my theory#   holds stronger than it ever did.
-   This is a message to my dear#   Ceroba:
-   This research is up to you. No#   one else would listen.
-  After I'm gone... look for the#  next human who falls down here.
-       Someone pure of heart#       - uncorrupted.
-   I need you to obtain their SOUL#   but not just anywhere... 
-  You must have a Monstruo Jefe SOUL#  nearby to fuse with.
-            You'll need...
-          ...Damn it all.
-Search for a willing Monstruo Jefe#in the Underground. Someone else...#please.
-   Our little girl... Kanako...#   She needs to live a happy life,#   unaffected by my endeavors.
-       That is my final wish.
+  No lo entiendo... ¡es que#  no lo entiendo!
+ ¡La raza humana ya ganó atrapándonos# aquí abajo y ellos siguen# retorciendo el cuchillo!
+    ¡Esto no puede seguir así!
+   A partir de hoy, estaré buscando#   una manera de parar esta#   injusticia de una vez por todas.
+  Al habla Chujin con noticias#  desafortunadas...
+ Fui... despedido de mi posición# de ingeniero.
+   ¡He puesto todo de mi en el#   proyecto pero no fue#   suficiente!
+  ¡La programación estaba rota pero#  sé que podría haberla arreglado#  con unas iteraciones más!
+   ¡¿Por que soy castigado por#   intentar tomarme nuestros#   problemas en serio?! 
+  ...Me siento como si yo fuera el#  único que no ha olvidado o que no  #  vive en la ignorancia...
+   Le he dicho a Ceroba que me#   retiré. No puedo dejar que#   ella piense menos de mi.
+  Pero basta de eso... ya está#  en el pasado. 
+    Debo vivir en el presente#    y planear en el futuro.
+   Probar de que puedo salvar a#   los monstruos... de otra#   manera.
+          Al habla Chujin.
+ Tras años de búsqueda, ¡he hecho# un avance!
+  Monstruos Jefes... ellos podrían#  ser la clave para la supervivencia#  de los monstruos.
+ He sido capaz de llegar a esta# conclusión porque yo... 
+   ...Llevo dentro el gen del#   Monstruo Jefe.
+Esto significa que mi ALMA es mucho#más fuerte que las de los otros#monstruos.
+  Mucho más importante, los#  Monstruos Jefe son inmortales#  hasta que tienen descendencia.
+ Ahora mismo, los monstruos son# pocos en números comparados# a los humanos pero...
+  ...¿Qué tal si cualquiera pudiera#  convertirse en un Monstruo Jefe#  como yo? ¿Cómo... Kanako?
+ Como nación y ejército, ¡podríamos# poseer suficiente poder para# tomar la Superficie de vuelta!
+  Mi teoría para esto involucra la#  fusión de un ALMA humana y un ALMA#  de Monstruo Jefe.
+   De eso, se puede extraer suero,#   el cual podría transformar#   cualquier monstruo promedio.
+ ...Desafortunadamente, no tengo la# suficiente evidencia para demostrar# que el suero es posible.
+      Debo hacer más pruebas.
+chujin_tapes_effects
+       Al... Al habla Chujin.
+   Me temía que esto podría pasar.#   La ciencia es un juego#   peligroso.
+  Tontamente, he experimentado#  conmigo mismo... varias veces.
+Una y otra vez, el sujeto rechazaba#la fusión, y creo saber por qué.
+                ...
+          Seré directo.... 
+  Mi ALMA ha sido deteriorada y no#  sé cuanto tiempo me queda.
+   Sin embargo... creo que mi#   teoría es más fuerte que nunca.
+   Este es un mensaje para mi#   querida Ceroba:
+   Esta búsqueda está en tus manos.#   Nadie más debe escuchar esto.
+  Después de que me vaya... busca al#  siguiente humano que caiga aquí.
+      Alguien de corazón puro#      - no corrompido.
+   Necesito que obtengas su ALMA#   pero no en cualquier parte...
+  Debes tener un ALMA de Monstruo#  Jefe cerca para fusionarla.
+          Necesitarás a...
+           ...Demonios.
+ Busca a otro Monstruo Jefe en el# Subsuelo. Cualquier otro...# por favor.
+Nuestra pequeña niña... Kanako. Ella#necesita vivir una vida feliz, sin#verse afectada por mis esfuerzos.
+      Ese es mi último deseo.
 HOW?
 overlay_alpha_default
 sequence_layer
@@ -15743,26 +15743,26 @@ The Wild East
 <-
 Page:
 /2
-    I messed up, miscalculated,#    something.
-     Axis... Axis is dangerous.
- I must have overshot the variables,# all I wanted was apprehension.
-    The human who almost hurt my#    child, I told Axis to track#    them down.
-I know I should've stayed to comfort#Kanako and tend to the resident who#was hurt but...
-  ...I had a tool that could stop#  the human's crusade, so I tried.
-    ...In a flash, Axis left me.#    Bolted for Waterfall.
-  By the time I tracked him down...#  it was too late.
-  I'll never forget the scene laid#  before me. 
-  Part of me wanted to quit#  everything that instant but... 
-    ...This outcome was earned,#    was it not?
-  Axis soon contained the subject#  and... hid the evidence.
-There was some property damage but#I'm sure it won't come back to me...#I hope.
-    In any case... I now have a#    human SOUL in my possession.
-I do not know exactly what I should#do with it but the power that rests#within it is...
-   Well, let's just say I'm not#   donating it to Asgore like all#   the others. Not yet.
-  As for Axis, today's actions were#  excessive, but the potential#  is astounding.
-  With more work, Axis can be the#  future, I'm sure of it.
-     Anyway, I need to sleep.
-   Though something tells me that#   will be difficult to do for a#   while.
+    Cometí un error, fallé en el#    cálculo de algo.
+     Axis... Axis es peligroso.
+ Debí haber disparado las variables,# todo lo que quería era aprensión.
+   El humano que casi lastima a mi#   hija, le dije a Axis que lo#   localizara.
+ Sé que debí haberme quedado para# consolar a Kanako y atender al# residente que fue herido pero...
+   ...Tenía una herramienta que#   podía detener al humano,#   asi que la probé.
+    ...En un instante, Axis me#    abandonó. Se fue a Waterfall.
+  En el momento que le localicé...#  era demasiado tarde.
+   Nunca olvidaré la escena que#   yacía frente a mí.
+  Parte de mí quería dejarlo todo#  en ese instante pero...
+    ...Este es el resultado,#    ¿no es así?
+  Axis de pronto contuvo al sujeto#  y... ocultó la evidencia.
+Seguro que hubo algún daño de#propiedad pero estoy seguro que#no vendrán a por mi... Eso espero.
+  En cualquier caso... ahora tengo#  un ALMA humana en mi posesión.
+ No sé exactamente que es lo que# debería hacer pero el poder# que reside en ella es...
+   Bueno, digamos que no voy a#   donárselo a Asgore como el#   resto. No aún.
+  Respecto a Axis, sus acciones#  hoy fueron excesivas, pero#  el potencial es asombroso.
+  Con más trabajo, Axis podría ser#  el futuro, estoy seguro de eso.
+     Como sea, necesito dormir.
+   Pero algo me dice que eso va a#   ser difícil por un largo#   tiempo.
 fadealpha
 fadespeed
 fadein
