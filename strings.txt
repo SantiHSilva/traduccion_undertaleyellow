@@ -10710,75 +10710,75 @@ instance_activate_object
 overlay_2
 circle_alpha
 white_overlay_radius
-* Ugh...
+* Agh...
 * Ceroba...
-* Where is Ceroba!?
-* Clover, where did she#  go?
+* ¿¡Dónde está Ceroba!?
+* Clover, ¿Dónde se fue?
 Lo siento
 peep
 * Tú...
-* Sorry...?
-* You didn't.
-* You couldn't.
-* She just ran away.
-* She ran to the lab,#  right?
-* Wh...
-* Where am I...?
-* Are you...
-* I'm so sorry.
-* We should've been here#  to help.
-* Help...?
-* No one wanted it to end#  this way but...
-* But what!?
-* What the hell did#  Ceroba do to deserve#  this!?
-* I didn't say she#  "deserved" anything but#  come on!
-* Look what she did to#  us, and more#  importantly,
-* What she was planning#  to do to Clover and#  Kanako!
-* She was clearly
-* She was lost!
-* In her mind there was#  no other choice!
-* All anyone ever sees is#  what they want to see.
-* They never stop to#  consider the "why."
-* Maybe to you, she was#  only some violent threat#  but...
-* Beneath the crisis, I#  saw her for who she#  truly was.
-* A compassionate,#  hardworking mother who#  lost everything.
-* Her hopes, her dreams...
-* I knew her.
-* I knew her more than#  anyone.
-* She could've been#  talked down. Forgiven#  even. 
-* But she wasn't given#  the chance.
-* We tried. For a long#  time. 
-* We wanted peace.
-* You saw it.
-* Even when things#  escalated, we attempted#  to flee.
-* But she wanted us dead.
-* Going as far to back#  Clover into a corner,#  forcing them to...
-* You're a lawman, right?
-* I'm sorry but...
-* Under these#  circumstances... Clover#  was just.
-* I don't know what#  "just" means anymore.
-* What's right, what's#  wrong...
-* Who cares...
-* All I know is that Yo...#  I lost my best friend#  tonight.
-* And the wind...
-* It blew the dust away.
-* Like she didn't even#  matter...
-* To the law, maybe you#  are justified in what#  you've done.
-* But to me... you're#  lower than dirt.
-* I could report your#  location...
-* Or try to get#  revenge...
-* But I know that would#  only spell more trouble#  for me.
-* All I can do now is ask#  myself why.
-* Why did I hesitate to#  fire that last bullet?
-* I'm... sorry you had to#  go through all of this.
-* Maybe if we took a#  different route in#  Waterfall...
-* Made different#  choices...
-* You wouldn't have been#  put in this situation.
-* This spiraled way out#  of control but...
-* There's no changing it#  now.
-* Only thing left to do#  is get you home.
-* You deserve it.
-* Let's go to the Castle.
+* ¿Lo sientes...?
+* No.
+* No pudiste.
+* Ella sólo escapó.
+* Ella corrió al#  laboratorio, ¿Cierto?
+* Dónde...
+* ¿Dónde estoy...?
+* Estás...
+* Lo siento tanto.
+* Deberíamos haber estado#  aquí para ayudar.
+* ¿Ayudar...?
+* Nadie quería que terminara#  de este modo pero...
+* ¿¡Pero qué!?
+* ¿¡Qué demonios hizo#  Ceroba para merecer#  esto!?
+* ¡No dije que#  "mereciera" nada pero#  vamos!
+* Mira lo que nos hizo,#  y más importante, 
+* ¡Lo que planeaba hacer#  con Clover y Kanako!
+* Ella claramente
+* ¡Ella estaba perdida!
+* ¡En su cabeza no había#  otra opción!
+* Todo lo que cualquiera#  ve es siempre lo#  que quieren ver.
+* Nunca paran a considera#  el "porqué".
+* Quizás para ti, ella#  era sólo una amenaza#  violenta pero...
+* Debajo de la crisis,#  la ví por quien#  realmente era.
+* Una madre trabajadora y#  compasiva que#  lo perdió todo.
+* Sus esperanzas, sus#  sueños...
+* La conocía.
+* La conocía más que#  a nadie.
+* Podrías haber hablado#  con ella. Incluso#  perdonarla.
+* Pero no le dieron la#  oportunidad.
+* Lo intentamos. Por#  mucho tiempo.
+* Queríamos paz.
+* Lo viste.
+* Incluso cuando las#  cosas escalaron, intentamos#  huir.
+* Pero nos quería muertos.
+* Yendo tan lejos como#  acorralar a Clover en#  una esquina, forzarle a...
+* Eres un hombre de#  la ley, ¿Cierto?
+* Lo siento pero...
+* Dentro de estas#  circunstancias... Clover#  fue justo.
+* Ya ni sé lo que#  significa "justo".
+* Qué está bien, qué#  está mal...
+* A quién le importa...
+* Todo lo que sé es que...#  esta noche perdí a#  mi mejor amiga.
+* Y el viento...
+* Llevó volando la ceniza.
+* Como si ella ni siquiera#  importara...
+* Para la ley, quizás#  tienes justificación#  en lo que hiciste.
+* Pero para mí... estás#  por debajo de la tierra.
+* Podría reportar tu#  ubicación...
+* O intentar vengarme...
+* Pero sé que eso sólo#  significaría más problema#  para mi.
+* Ahora todo lo que puedo#  preguntarme es por qué.
+* ¿Por qué dudé en#  disparar esa última bala?
+* Siento... que hayas#  tenido que pasar por#  todo eso.
+* Quizás si hubiéramos#  tomado una ruta#  distinta en Waterfall...
+* Tomado decisiones#  diferentes...
+* No te habrían puesto#  en esta situación.
+* Esto se fue de control#  pero...
+* Ya no se puede cambiar.
+* Lo único que queda es#  llevarte a casa.
+* Te lo mereces.
+* Vamos al Castillo.
 clover_crawl_move
 clover_crawl_speed
 clover_overlay_alpha
