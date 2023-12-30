@@ -3297,9 +3297,9 @@ gml_Script_scr_start_enemy_no_attack_martlet_genocide
 gml_Script_scr_start_enemy_no_attack_dummy_training_pacifist
 gml_Script_scr_battle_core_directory_no_attack
 scr_battle_core_directory_no_attack
-* Craniex steps toward the class,#  ready to give another boring#  lecture.
-* Ms. Mettaton strikes!
-* Ms. Mettaton EX makes her grand#  debut!
+* Craniex se acerca a la clase,#  preparado para dar otra# aburrida conferencia.
+* ¡La Sra. Mettaton ataca!
+* ¡La Sra. Mettaton EX#  hace su gran debut!
 * ¡Froggit saltó cerca!
 * ¡Flier intenta luchar!
 * Estás abrumado por las#  vibras depresivas.
@@ -3320,35 +3320,35 @@ scr_battle_core_directory_no_attack
 * Insomnitot aparece!#* Know Cone merodea, persiguiendo#  una mariposa.
 * Hay un iglú aquí.
 * Know Cone te encuentra, y#  a un iglú.
-* Trihecta wobbles forward!
-* Trihecta regroups, then bickers.
+* ¡Trihecta se tambalea#  hacia delante!
+* Trihecta se reagrupa y#  luego discuten.
 * Martlet de la Guardia Real#  está esperando tu turno.
 * Martlet parece desconcertada.
-* Dunebud popped out of the sand!
-* Double trouble!
-* Cactony comes to share his pain.
-* Sir Slither has a proposition!#  (real)
-* Bowll charges near you!
-* Cactony wandered in, Sir#  Slither closely following.
+* ¡Dunebud salió de la arena!
+* ¡Doble problema!
+* Cactony viene a compartir#  su dolor.
+* ¡Sir Slither tiene una#  propuesta! (real)
+* ¡Bowll se carga cerca#  de ti!
+* Cactony entró,# Sir Slither lo seguía#  de cerca.
 * ¡Es hora de bailar!
 * Otro obstáculo.
-* Violetta passively approaches#  from the flowerbed.
-* Pedla approaches from the#  flowerbed, offering you a#  flower.
-* Rosa approaches from the#  flowerbed, twisting a flower in#  her hand.
-* The atmosphere chills with ire.
+* Violetta se acerca#  pasivamente desde el#  jardín de flores.
+* Pedla se acerca desde el#  jardín y te ofrece# una flor.
+* Rosa se acerca desde el#  jardín, retorciendo#  una flor en la mano.
+* El ambiente se hiela de ira.
 * ¡Enfrentamiento!
 * ¡Duelo!
-* Telly-Vis tunes in!
-* Jandroid strolls up, whistling#  a pitchy tune.
-* Goosic has come to share some#  sounds.
-* Sousborg is ready to put your#  culinary skills to the test!
-* The robotic duo, Jandroid and#  Goosic, are here!
-* Rinse, repeated.
-* Axis Model 014, ready to#  attack!
-* Axis Model 014, ready to#  defend.
-* What the...
-* Guardener ensnares you!
-* No turning back.
+* ¡Telly-Vis sintoniza!
+* Jandroid se acerca silbando#  una melodía aguda.
+* Goosic ha venido a compartir#  algunos sonidos.
+* ¡Sousborg está listo para poner#  a prueba tus habilidades#  culinarias!
+* El dúo robótico, Jandroid y#  Goosic, ¡ya está aquí!
+* Aclarado, repetido.
+* Axis Modelo 014, ¡listo#  para atacar!
+* Axis Modelo 014, listo#  para defender.
+* Que car...
+* ¡Guardener te atrapa!
+* Sin vuelta atrás.
 * Es hora de la justicia.
 * Ceroba es aturdida por#  el recuerdo.
 * El cénit de los monstruos.
@@ -3377,7 +3377,7 @@ scr_battle_core_directory_flavor_text_enemy_1_action_2
 * Bowll empiaza a juntar las#  piezas.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_action_3
 scr_battle_core_directory_flavor_text_enemy_1_action_3
-* It seems that Ms. Mettaton is#  getting bored of you.
+* Parece que la Sra. Mettaton#  se está aburriendo#  de ti.
 * Sweet Corn salta de arriba a#  abajo en celebración.
 * Decibat tiembla de rabia.
 * Decibat rechina los dientes#  con rabia y se estremece#  por el alborto que causó.
@@ -3416,56 +3416,56 @@ scr_battle_core_directory_flavor_text_enemy_1_special_6
 * Flier está reconsiderando#  las decisiones en su vida.
 * Penilla parece como si ella# pudiera romperse por la presión.
 * La sonrisa de Sweet Corn#  parece forzada.
-* Crispy Scroll is relying on his#  self-imposed plot armor.
+* Crispy Scroll confía en su#  autoimpuesta armadura#  argumental.
 * Tu reflejo está sesgado.
-* Insomnitot is hoping it'll feel#  better in the morning.
-* Know Cone is quite enraged.
-* The igloo does not appear to be#  structurally sound anymore.
-* Frostermit is looking a bit#  crabby with you.
-* Trihecta is teetering this way#  and that.
-* They're scrambling frantically.
-* Dunebud is dazed.
-* Cactony is swaying back and#  forth.
-* Sir Slither tries to keep#  whatever's in his pot from#  spilling.
-* A few new ravines have surfaced.
-* Violetta tries not to cry.
-* Pedla tries to stay positive.
-* Rosa tries to stay strong.
-* Telly is frantically flipping#  channels.
-* Jandroid doesn't seem to know#  what they're doing anymore.
-* Goosic struggles to keep#  dancing.
-* Sousborg pours onion powder on#  his wounds.
+* Insomnitot espera sentirse#  mejor por la mañana.
+* Know Cone está muy enfadado.
+* El iglú ya no parece ser#  estructuralmente sólido.
+* Frostermit parece un poco#  enfadado contigo.
+* Trihecta se tambalea de un#  lado a otro.
+* Están luchando frenéticamente.
+* Dunebud está aturdido.
+* Cactony se balancea de un#  lado a otro.
+* Sir Slither intenta evitar que#  se derrame lo que#  hay en su olla.
+* Han aparecido algunos#  barrancos nuevos.
+* Violetta intenta no llorar.
+* Pedla intenta ser positiva.
+* Rosa intenta mantenerse#  fuerte.
+* Telly está cambiando#  frenéticamente de canal.
+* Jandroid parece que ya no#  sabe lo que hace.
+* Goosic lucha por seguir#  bailando.
+* Sousborg echa polvo de#  cebolla en sus heridas.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_low_hp_1
 scr_battle_core_directory_flavor_text_enemy_1_low_hp_1
 * Flier parece tener muchos#  arrepentimientos.
 * Penilla intenta morder la#  bala.
 * Sweet Corn intenta mantenerse#  positiva.
-* Crispy Scroll is trying to#  teleport away.
+* Crispy Scroll intenta#  teletransportarse.
 * Rorrim se arrepiente#  de haberse acercado a ti.
-* Insomnitot is drifting in and#  out of consciousness.
-* Know Cone stomps his feet in a#  huff.
-* The igloo is making distressed#  noises.
-* Frostermit retreats inside for a#  moment to address a possible#  cave in.
-* Hec is blaming their#  situation on Tri.
-* Now they are truly split apart.
-* Sand is spilling everywhere.
-* Cactony sheds a tear and a few#  needles.
-* Sir Slither can't slither away#  from this.
-* Bowll may break into tears soon.
-* Petals fall around your feet.
-* Vis spits out a broken video#  cassette.
-* You hear metallic and#  electrical noises as Jandroid#  twitches.
-* Goosic's music bends in and out#  of tune.
-* Sousborg is leaking oil.#  Vegetable oil.
+* Insomnitot está entrando y#  saliendo de la conciencia.
+* Know Cone da un pisotón de#  rabia.
+* El iglú hace ruidos de#  angustia.
+* Frostermit se retira al interior#  un momento para ocuparse#  de un posible derrumbe.
+* Hec está culpando de la#  situación a Tri.
+* Ahora están verdaderamente#  separados.
+* La arena se derrama por#  todas partes.
+* Cactony derrama una#  lágrima y unas agujas.
+* Sir Slither no puede#  escapar de esto.
+* Bowll podría romper a#  llorar pronto.
+* Pétalos caen alrededor#  de tus pies.
+* Vis escupe un casete de#  video roto.
+* Se oyen ruidos metálicos y#  eléctricos mientras#  Jandroid se retuerce.
+* La música de Goosic entra#  y sale de tono.
+* Sousborg está perdiendo#  aceite. Aceite vegetal.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_low_hp_2
 scr_battle_core_directory_flavor_text_enemy_1_low_hp_2
 scr_recreate_heart_battle_menu_text_ceroba
-* Ta is tearing up.
-* They don't know what to do.
+* Ta está llorando.
+* No saben qué hacer.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
-* Smells like freshly opened#  textbooks!
-* Ms. Mettaton.
+* ¡Huele a libros de texto#  recién abiertos!
+* Sra. Mettaton.
 * Todo tiene ese aroma a#  carro nuevo con un poco de#  perfume.
 * Penilla dibuja un bosquejo#  de ti.
 * Huele a cera de vela#  quemándose.
@@ -3473,7 +3473,7 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * Quedas cegado momentaneamente#  por el deslumbrante#  brillo de Rorrim.
 * Decibat no está disfrutando la#  música.
 * Dalv parece temer su próximo#  ataque.
-* A gentle breeze causes#  Micro Froggit to lose its#  balance.
+* Una suave brisa hace que#  Micro Froggit pierda#  el equilibrio.
 * El aire es puro.
 * Know Cone está señalando#  con entusiasmo algo.#* Parece ser un árbol.
 * Crees ver al iglú moverse#  un poco.
@@ -3484,30 +3484,30 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * Las plumas ensucian el suelo.
 * Martlet está pensativa.
 * Martlet parece despeinada.
-* Dunebud shifts this way and#  that.
-* Cactony would like to cry, but#  it's too hot.
-* Sir Slither does his iconic#  side-eyed smirk.
-* Bowll is applying super glue to#  his head.
+* Dunebud se desplaza de aquí#  para allá.
+* A Cactony le gustaría llorar,#  pero hace demasiado#  calor.
+* Sir Slither hace su icónica#  sonrisa de lado.
+* Bowll se está aplicando#  superpegamento en#  la cabeza.
 * El enemigo parece confundido.
 * El Bailador se desliza por la#  pista de baile con facilidad.
 * La arena cubre el maniquí.
-* The pleasant scent of flowers#  fills the air.
-* There is no hope.
+* El agradable aroma de las#  flores llena el aire.
+* No hay esperanza.
 * Starlo no te quita ojo de#  encima.
 * Starlo mantiene dos ojos#  fijos en ti.
-* Telly-Vis are debating which#  season of the news is superior.
-* Jandroid wrings out their#  mop... over their head.
-* Goosic slowly scratches a#  record with its needle. The#  sound is unbearable.
-* Looks like you're on the#  chopping block!
-* The air thickens.
-* Can't hold out forever.
+* Telly-Vis debate qué#  temporada del telediario#  es superior.
+* Jandroid escurre su#  trapeador...#  sobre su cabeza.
+* Goosic raya lentamente un#  disco con su aguja. El#  sonido es insoportable.
+* ¡Parece que estás en la#  guillotina!
+* El aire se hace más denso.
+* No puedes aguantar#  para siempre.
 * Frog.
-* White spores swirl through the#  air.
-* one two three four five six#  seven Seven sSevVen 7sEv=en sVmn#  0sE7n SevvevvVvvvvVVVVV
+* Esporas blancas se agitan#  en el aire.
+* uno dos tres cuatro cinco seis#  siete Siete sSieEte 7sI=te sEmn#  0sEen SieeteeEeeeeEEEEE
 * Ceroba intenta ignorar la#  condición de sus amigos.
 * El amor de una madre.
 * El enemigo mira hacia el frente.
-* Endtimes.
+* El fin de los tiempos.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_1
 scr_battle_core_directory_flavor_text_enemy_1_default_1
 * ¿¡Cuando se termina este semestre!?
@@ -3561,45 +3561,45 @@ scr_battle_core_directory_flavor_text_enemy_1_default_1
 * Clausura.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_2
 scr_battle_core_directory_flavor_text_enemy_1_default_2
-* You are nervous about the next#  midterm.
-* Glitz and glamour.
+* Estás nervioso por el próximo#  parcial.
+* Brillo y glamour.
 * Flier piensa que la#  posición de enemigo no#  le queda.
 * El campo de batalla está#  lleno de trozos de borrador.
 * Sweet Corn intenta animarte#  a que sonrías.
 * Crispy Scroll intenta ser#  adorable.
 * Rorrim imita tus movimientos.
 * Dalv adapta una pose#  imponente.
-* You momentarily lose track of#  Micro Froggit.
-* Insomnitot catches itself#  nodding off.
-* Know Cone is yelling random#  noises that sound like they#  could be a made-up language.
+* Pierdes momentáneamente#  la pista de#  Micro Froggit.
+* Insomnitot se descubre#  cabeceando.
+* Know Cone grita ruidos#  aleatorios que suenan como si#  fueran un idioma inventado.
 * Frostermit está dando un#  ritmo con sus pinzas.
-* A gust of wind threatens to#  topple Trihecta's pile.
-* Tri, Hec, and Ta are friendly#  and free.
+* Una ráfaga de viento amenaza#  con derribar la pila#  de Trihecta.
+* Tri, Hec y Ta son amistosos#  y libres.
 * Una ráfaga de viento sopla una#  pequeña pluma azúl en tu cara.#* Martlet parece avergonzada.
 * El sonido del viento helado#  te rodea.
-* Dunebud begins to gargle a song.
-* Cactony tries to gather some#  needles he dropped.
-* Sir Slither looks you up and#  down.
-* Huffs and puffs and other#  stuffs.
+* Dunebud empieza a hacer#  gárgaras con una#  canción.
+* Cactony intenta recoger#  algunas agujas que se#  le cayeron.
+* Sir Slither te mira de#  arriba a abajo.
+* Huffs y puffs y otras#  cosas.
 * Termina con esto.
 * Huele a discoteca.
-* Violetta nervously shuffles#  her feet.
-* Pedla wants you to know that#  you are loved!
-* Rosa bursts into laughter but#  you have no idea why.
+* Violetta arrastra# nerviosamente los#  pies.
+* ¡Pedla quiere que sepas que#  te quiere!
+* Rosa estalla de la risa#  pero no tienes ni idea#  de por qué.
 * Huele a plomo y hierba.
-* The sand swirls around you.
+* La arena se arremolina a#  tu alrededor.
 * Huele a botas de cuero y#  a miradas elegantes.
 * Huele a botas de cuero y#  a sueños rotos.
-* Vis reminds Telly what time his#  favorite show airs but she only#  makes fun of him.
-* Smells like poor choices.
-* Goosic blasts battle music from#  its beak.
-* Sousborg cooks you some#  spaghetti! ...without water.
-* You feel the furnace's heat#  waves engulf you.
-* Outlast his efforts.
-* Ribbit???
-* A great hostility is#  blossoming!
-* Vines weave in and out of the#  ground all around you.
-* r3537 7ry 4641n r3537 7ry 4641n#  r3537 7ry 4641n r3537 7ry 4641n#  r3537
+* Vis le recuerda a Telly a qué#  hora se emite su programa favorito,#  pero ella se burla de él.
+* Huele a malas elecciones.
+* Goosic emite música de#  batalla desde su pico.
+* ¡Sousborg te cocina unos#  espaguetis! ...sin agua.
+* Sientes cómo te envuelven# las ondas de calor#  del horno.
+* Supera sus esfuerzos.
+* ¿¿¿Ribbit???
+* ¡Está floreciendo una#  gran hostilidad!
+* Las enredaderas entran y salen#  del suelo a tu#  alrededor.
+* R31n1c14r R31n73n74r#  R31n1c14r R31n73n74r#  R31n1c14r R31n73n74r
 * Una brisa helada envuelve el#  área.
 * Ceroba baja su vista hacia#  el Subsuelo.
 * Te preparas para lo que sea#  que sigue.
@@ -3608,80 +3608,80 @@ scr_battle_core_directory_flavor_text_enemy_1_default_2
 * Hogar.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_3
 scr_battle_core_directory_flavor_text_enemy_1_default_3
-* So much information overload!
-* You know what I'm saying?!
+* ¡Cuánta sobrecarga de#  información!
+* ¡¿Entiendes lo que digo?!
 * Flier está envuelto en viejas#  memorias.
 * Penilla firma su sketch y#  empieza uno nuevo.
-* Your ears are ringing from the#  chatter.
-* Sweet Corn makes her signature#  squeaky toy noise.
+* Te pitan los oídos de tanto#  parloteo.
+* Sweet Corn hace su#  característico ruido de#  juguete chillón.
 * Crispy Scroll está hablando#  boberías.
 * Rorrim mira alrededor.
 * Dalv parece estar en conflicto#  con su lado más humano.
-* If you squint, Micro Froggit#  looks happy.
-* Insomnitot is trying to shake#  the sleepiness away.
-* Know Cone is banging a rock#  against a fallen branch.#* The branch breaks.
+* Si entrecierras los ojos,#  Micro Froggit#  parece feliz.
+* Insomnitot intenta quitarse#  el sueño de encima.
+* Know Cone golpeando una roca#  contra una rama caída.#* La rama se rompe.
 * Algo huele a pescado.
-* Frostermit is doing a#  crusta-shuffle.
-* Trihecta is considering#  purchasing a long trench coat.
+* Frostermit está haciendo#  un crusta-shuffle.
+* Trihecta está considerando# comprarse una gabardina#  larga.
 * Martlet intenta adoptar una pose#  que parezca profesional#  e imponente.
 * Martlet está conteniendo las#  lágrimas.
-* Smells like sandpaper.
-* Cactony gives you an empty look.
-* You hear some jingling as Sir#  Slither rattles inside his pot.#  
-* Sounds like a hundred toasts.
+* Huele a papel de lija.
+* Cactony te lanza una mirada#  vacía.
+* Se oye un ruido metálico#  mientras Sir Slither se#  sacude dentro de su olla.
+* Suena como cien brindis.
 * El enemigo mira torpemente#  a su alrededor.
 * ¡El Bailador flexiona sus#  enormes músculos!
-* Violetta takes her time.
-* Pedla starts humming a song#  you recognize.
-* Rosa sways back and forth#  cheerfully.
-* She stares into your SOUL.
+* Violetta se toma su tiempo.
+* Pedla empieza a tararear#  una canción que#  reconoces.
+* Rosa se balancea de un lado#  a otro alegremente.
+* Ella mira fijamente en tu#  ALMA.
 * Una planta rodadora pasa#  rodando. Saluda.
 * Crece la tensión en el aire.
-* The sound of TV static fills#  your head.
-* Jandroid tosses garbage this#  way and that.
-* Your eardrums do not appreciate#  the current situation.
-* Smells like... food? Nice!
-* Smells like an unfortunate BBQ.
-* One is all it will take. Keep#  going.
-* Macro Froggit stomps around,#  shaking the whole room.
-* Guardener looks down upon you,#  twitching slightly.
-* Guardener twitches at an#  alarming rate. This can't be#  good for her.
-* FILE 01 - [REDACTED]
+* El sonido de la estática de#  la televisión te llena#  la cabeza.
+* Jandroid tira basura por aquí#  y por allá.
+* Tus tímpanos no aprecian la#  situación actual.
+* ¿Huele a... comida?#  ¡Qué bien!
+* Huele como una#  desafortunada barbacoa.
+* Uno es todo lo que se#  necesita. Sigue adelante.
+* Macro Froggit da pisotones,#  sacudiendo toda la#  habitación.
+* Guardener te mira con#  desprecio, temblando#  ligeramente.
+* Guardener se mueve a un ritmo#  alarmante. Esto no puede#  ser bueno para el.
+* ARCHIVO 01 - [REDACTADO]
 * Ceroba mira fijamente a tu ALMA#  con arrepentimiento.
 * Tu ALMA late con gran poder.
 * La defensa del enemigo puede#  ser destruída.
 * Libertad.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_4
 scr_battle_core_directory_flavor_text_enemy_1_default_4
-* Flier is telling the other#  monsters about his cool new#  ride.
+* Flier está hablandoles a#  otros monstruos de#  su nuevo coche.
 * Penilla se ve ocupada#  dibujando.
-* Penilla rolls her eyes.
-* The Sweet Corns hop to the#  rhythm.
-* Crispy Scroll can't decide what#  genre to role play.
-* Micro Froggit ran away. Wait.#  Nope, there it is.
-* Electricity crackles and#  whirrs around you.
-* One Insomnitot starts to drift#  off but the other pokes its#  friend awake again.
-* Know Cone takes a break from#  hunting for fire to gather some#  berries.
+* Penilla rueda los ojos.
+* Los Sweet Corns saltan al ritmo.
+* Crispy Scroll no puede decidir#  qué género interpretar.
+* Micro Froggit se escapó.#  Espera. No, ahí está.
+* La electricidad cruje y#  zumba a tu alrededor.
+* Un Insomnitot empieza a#  dormirse, pero el otro vuelve#  a despertar a su amigo.
+* Know Cone se toma un descanso#  de la caza del fuego para#  recoger algunas bayas.
 * Frostermit está considerando#  una renovación.
 * Martlet se descubre a sí#  misma perdiéndose en la música.
 * Martlet prepara su próximo#  ataque.
-* Sir Slither is trying to#  butter Cactony up.
+* Sir Slither está#  tratando de engatusar#  a Cactony.
 * Todas las luces#  intermitentes te marean.
-* Goosic's music is making#  Jandroid extra energetic.
-* The Jandroid's are trying to#  harmonize.
-* The fight rages.
+* La música de Goosic hace que#  Jandroid sea más enérgico.
+* Los Jandroid intentan#  armonizarse.
+* La lucha se intensifica.
 * El lazo de Starlo te agarra#  con fuerza.
 * Starlo intenta pegar su lazo,#  pero no encuentra el final#  de la cinta en su rollo.
-* Sir Slither is going through a#  divorce.
-* Telly starts to sing an anime#  opening. Vis begs her to stop.
-* Goosic does a little two-step#  like it's nothing.
-* Sousborg preheats his next#  attack.
-* Axis seems on edge.
-* Finish what you started.
-* Macro Froggit reigns!
-* Smells like lawnmower#  clippings.
-* You're starting to think you've#  had your fill of plants.
-* missing.
+* Sir Slither está pasando por#  un divorcio.
+* Telly empieza a cantar un#  opening de anime. Vis le#  ruega que pare.
+* Goosic da un pequeño paso#  en dos como si nada.
+* Sousborg prepara su#  siguiente ataque.
+* Axis parece estar al límite.
+* Termina lo que empezaste.
+* ¡Macro Froggit reina!
+* Huele a césped cortado.
+* Empiezas a pensar que ya#  estás harto de plantas.
+* desaparecido.
 * El combate continúa.
 * El caos ha sido desatado.
 * Una grieta se ha formado en la#  máscara de Ceroba.
@@ -3690,84 +3690,84 @@ scr_battle_core_directory_flavor_text_enemy_1_default_4
 * Virtud.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_5
 scr_battle_core_directory_flavor_text_enemy_1_default_5
-* Two of the Fliers are thinking#  about getting girlfriends.
-* Crispy Scroll is talking#  Penilla's ears off.
-* Micro Froggit is trying to make#  itself look bigger.
-* Echoes of conflict ring#  throughout Dalv's desolate#  estate.
-* The Insomnitots brag to each#  other about how long they've#  been awake.
-* Know Cone is chasing Insomintot's sheep.
-* Know Cone punches the igloo to#  test its durability.
-* Frostermit is contemplating a return into his fortress.
+* Dos de los Fliers están#  pensando en tener novia.
+* Crispy Scroll está hablando#  de las orejas de#  Penilla.
+* Micro Froggit está#  intentando parecer#  más grande.
+* Los ecos del conflicto#  resuenan por toda la#  desolada zona de Dalv.
+* Los Insomnitots presumen entre ellos#  del tiempo que llevan#  despiertos.
+* Know Cone está persiguiendo#  las ovejas de Insomintot.
+* Know Cone perfora el iglú#  para probar su#  durabilidad.
+* Frostermit está contemplando#  el regreso a su#  fortaleza.
 * Martlet consulta nerviosa#  su guía de la Guardia Real.
 * No estás seguro de que esta#situación sea saludable.#  Para cualquiera.
 * El Bailador lanza arena al#  aire como si fuera confeti.
 * No se oyen más que disparos,#  chasquidos de látigo y una#  poderosa guitarra acústica.
 * Empiezas a sudar bajo el#  inmenso calor.
-* You wonder where the mute#  button is.
-* Axis is flipping through the#  Royal Guard guide book... in his#  mind.
-* They are responsible.
-* Macro Froggit towers above#  all.
-* The Jandroid's are mopping#  each other's faces.
-* Goosic amps up the tunes as#  Jandroid lays down their mop!
-* Guardener gives it all she's#  got!
-* howdy! i'm flowey! flowey the#  flower! hmmm you look confused!#  toriel ought have taught you h
-* Ceroba's focus grows stronger.
+* Te preguntas dónde está el#  botón de silencio.
+* Axis está hojeando la guía#  de la Guardia Real...#  en su mente.
+* Ellos son los responsables.
+* Macro Froggit se eleva por#  encima de todo.
+* Los Jandroid se están#  trapeando las caras.
+* Goosic sube el volumen de la#  música mientras Jandroid#  pasa la fregona.
+* ¡Guardener da todo lo que#  tiene!
+* ¡buenas! ¡soy flowey! ¡flowey#  la flor! ¡hmmm pareces confundido!#  toriel debió haberte ens-
+* La concentración de Ceroba#  aumenta.
 * El enemigo no puede durar para#  siempre.
 * Rotundidad.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_6
 scr_battle_core_directory_flavor_text_enemy_1_default_6
-* The Fliers start talking about#  politics.
-* Crispy Scroll attempts to speak another language.#* Penilla winces.
-* The Insomnitots have#  a conversation exclusively#  through yawns.
-* Know Cone showcases his stick#  collection to Insomnitot.
-* Know Cone wonders if fire would help him.
-* Know Cone wants to show Frostermit his favorite element.
-* Sir Slither compliments#  Cactony's bullet patterns.
+* Los Fliers empiezan a hablar#  de política.
+* Crispy Scroll intenta hablar#  otro idioma.#* Penilla hace gesto de dolor
+* Los Insomnitots mantienen una#  conversación exclusivamente#  a través de bostezos.
+* Know Cone muestra su colección#  de palos a Insomnitot.
+* Know Cone se pregunta si el#  fuego lo ayudaría.
+* Know Cone quiere mostrar a#  Frostermit su elemento#  favorito.
+* Sir Slither elogia los#  patrones de bala de#  Cactony.
 * El sonido de mil trompetas#  resuena a tu alrededor.
-* Metallic mania fills the air!
-* Smells like a landfill.
-* The atmosphere chills with#  ire.
+* ¡La manía metálica inunda#  el aire!
+* Huele como un vertedero.
+* El ambiente se hiela de#  ira.
 * Una ráfaga de arena te#  ciega momentáneamente.
 * Oyes a Starlo hablar consigo#  mismo en voz baja.
-* Axis is having trouble charging#  up his next attack.
-* A road ahead.
-* His greenness.
-* Sousborg stares down a frozen#  TV dinner with great malice.
-* clover is giving fighting a try
-* The echoes of Ceroba's magic#  ring out.
+* Axis tiene problemas para#  cargar su próximo ataque.
+* Un camino por recorrer.
+* Su carácter verde.
+* Sousborg mira con gran malicia#  una cena congelada en#  la tele.
+* clover intenta luchar
+* Suenan los ecos de la magia#  de Ceroba.
 * El enemigo conocerá justicia.
 * Vindicación.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_7
 scr_battle_core_directory_flavor_text_enemy_1_default_7
-* The Fliers are trading tips on#  how to be "hip".
-* The Insomnitots share a cup of#  coffee.
-* Know Cone raves about his passion for fire to Insomnitot.
-* Know Cone doesn't speak igloo.#* Know Cone is upset.
-* Frostermit has never been in the situation before.
+* Los Fliers intercambian#  consejos sobre cómo#  estar "a la moda".
+* Los Insomnitots comparten#  una taza de café.
+* Know Cone habla de su pasión#  por el fuego a Insomnitot.
+* Know Cone no habla igloo.#* Know Cone está molesto.
+* Frostermit nunca se había#  visto en esa situación.
 * ¡Sientes el ritmo en el alma!
-* The Jandroid's sway to and#  fro.
-* No mercy.
+* Los Jandroid se balancean#  de un lado a otro.
+* Sin piedad.
 * Starlo clava sus espuelas#  en la arena,#  manteniéndose firme.
-* Axis blows into one of his#  vents to clean some dust. You#  don't know how.
+* Axis sopla en uno de sus#  respiraderos para limpiar un#  poco de polvo. No sabe cómo.
 * . . .
-* Your head is spinning.
-* clover suddenly feels like#  taking a nap
+* La cabeza te da vueltas.
+* clover de repente tiene#  ganas de echarse#  una siesta
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_8
 scr_battle_core_directory_flavor_text_enemy_1_default_8
-* Know Cone tries hugging the igloo, hoping it will spring to life.
-* Know Cone is dancing, hoping to befriend Frostermit.
-* Axis pinches the end of one of#  his gloves and releases the air.#  He finds it amusing.
-* Axis thinks this music is a bit#  intense for his tastes.
+* Know Cone intenta abrazar el#  iglú con la esperanza#  de que reviva.
+* Know Cone está bailando, con#  la esperanza de hacerse#  amigo de Frostermit.
+* Axis pellizca el extremo de uno#  de sus guantes y suelta el#  aire. Le parece divertido.
+* Axis piensa que esta música es#  un poco intensa para#  sus gustos.
 * Axis geno flavor 9.
-* clover would like to cry but#  they have no eyes
+* clover quisiera llorar pero#  no tienen ojos
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_9
 scr_battle_core_directory_flavor_text_enemy_1_default_9
-* Craniex is sparing you.
-* Ms. Mettaton is totally sparing you!
+* Craniex te está perdonando.
+* ¡La Sra. Mettaton te está#  perdonando la vida!
 * Flier está listo para volver a#  su vida normal.
 * Penilla está recogiendo sus#  utensilios de arte por hoy.
 * Sweet Corn sonríe#  satisfecho.
-* Crispy Modo 2k!!
+* ¡¡Crispy Modo 2k!!
 * Rorrim está en búsqueda#  de su siguiente gran#  proyecto.
 * Decibat está listo para volver#  a dormir.
 * Dalv ha perdido toda esperanza.
@@ -3775,20 +3775,20 @@ scr_battle_core_directory_flavor_text_enemy_1_default_9
 * Insomnitot sonríe a su#  sueño.
 * Know Cone ha sido iluminado.
 * Frostermit está listo para#  minar su camino.
-* Dunebud is giggling.
-* Sir Slither can't convince#  you.
-* Cactony feels love for the#  first time.
-* Bowll is ready to discover his#  true self.
-* Violetta blushes.
-* Pedla lets out a warm smile.
-* Rosa gives you a thumbs up.
+* Dunebud se está riendo.
+* Sir Slither no puede#  convencerte.
+* Cactony siente el amor por#  primera vez.
+* Bowll está listo para#  descubrir su verdadero yo.
+* Violetta se sonroja.
+* Pedla deja escapar una#  cálida sonrisa.
+* Rosa te hace un gesto de#  aprobación.
 * La mano izquierda de Starlo#  está temblando.
-* Telly-Vis hope you enjoyed the#  program.
-* Jandroid finds you too#  hygienic.
-* Goosic is lost in the music.
-* Sousborg bows to your culinary#  mastery!
-* Axis has cooled off.
-* Guardener cools down as steam#  seeps from her arms.
+* Telly-Vis espera que hayas#  disfrutado del programa.
+* Jandroid te encuentra#  demasiado higiénico.
+* Goosic se pierde en la música.
+* ¡Sousborg se inclina ante#  tu maestría culinaria!
+* Axis se enfrio.
+* Guardener se enfría mientras el#  vapor se filtra por#  sus brazos.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_sparing_1
 scr_battle_core_directory_flavor_text_enemy_1_sparing_1
 * Insomnitot está en su#  lugar feliz.
@@ -3799,14 +3799,14 @@ enemy_mode_3
 * Flier busca a un nuevo#  amigo desesperadamente.
 * Sweet Corn no es consciente de#  sus alrededores.
 * Sweet Corn no notó tu#  acción.
-* Crispy Scroll now has a tragic#  backstory.
-* Insomnitot is too tired to find#  the right words to honor its#  fallen friend.
-* Know Cone stomps the ground in#  a fit of rage.
-* Frostermit doesn't know what to do.
-* The remaining Dunebud glances#  around, looking for their#  partner.
-* Cactony is lost in a sea of#  mixed emotions.
-* Jandroid will never forgive#  you as long as you walk the#  earth.
-* The Jandroid begins mopping#  the wreckage.
+* Crispy Scroll tiene ahora una#  trágica historia de fondo.
+* Insomnitot está muy cansado#  para encontrar las palabras#  para honrar a su amigo caído.
+* Know Cone pisa el suelo en#  un ataque de rabia.
+* Frostermit no sabe qué hacer.
+* El Dunebud restante mira#  a su alrededor, buscando#  a su compañero.
+* Cactony se pierde en un mar#  de emociones encontradas.
+* Jandroid nunca te perdonara#  mientras camines sobre#  la tierra.
+* Jandroid empieza a limpiar#  los restos.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_dead
 scr_battle_core_directory_flavor_text_enemy_1_dead
 gml_Script_scr_battle_core_directory_flavor_text_enemy_2_action_3
@@ -3817,29 +3817,29 @@ gml_Script_scr_battle_core_directory_flavor_text_enemy_2_low_hp_1
 scr_battle_core_directory_flavor_text_enemy_2_low_hp_1
 gml_Script_scr_battle_core_directory_flavor_text_enemy_2_low_hp_2
 scr_battle_core_directory_flavor_text_enemy_2_low_hp_2
-* Hec is happy to be on their own.
-* The Dunebud's are spilling#  over each other.
+* Hec está contento de#  estar solo.
+* Los Dunebud se están#  derramando unos#  sobre otros.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_2_default_1
 scr_battle_core_directory_flavor_text_enemy_2_default_1
-* Hec seems slightly relieved#  that the others are on the#  ground.
-* One Dunebud pats the other's#  head. They both lovingly grin.
+* Hec parece ligeramente#  aliviado de que los demás#  estén en tierra.
+* Un Dunebud acaricia la#  cabeza del otro. Ambos#  sonríen cariñosamente.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_2_default_2
 scr_battle_core_directory_flavor_text_enemy_2_default_2
-* One Dunebud shapes the other#  into a pyramid.
+* Un Dunebud da forma de#  pirámide al otro.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_2_default_3
 scr_battle_core_directory_flavor_text_enemy_2_default_3
-* You begin to grow thirsty at#  the sight of the Dunebud's.
-* You hear some jingling as Sir#  Slither rattles inside his pot.
+* Empiezas a tener sed a#  la vista de los#  Dunebud.
+* Escuchas un ruido mientras#  Sir Slither se sacude#  dentro de su olla.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_2_default_4
 scr_battle_core_directory_flavor_text_enemy_2_default_4
-* Insomnitot wants to leave, but doesn't want to move.
+* Insomnitot quiere irse, pero#  no quiere moverse.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_2_default_5
 scr_battle_core_directory_flavor_text_enemy_2_default_5
-* Penilla está abrumada con secuencias.
-* Penilla intenta dibujar al estilo anime para calmar a Crispy Scroll.
-* Insomnitot kicks a rock.#* Know Cone retrieves it with his mouth.
-* Cactony would rather be alone#  right now.
-* The duo's robotic voices grate#  on your ears like rusty saw#  blades.
+* Penilla está abrumada con#  secuencias.
+* Penilla intenta dibujar al#  estilo anime para#  calmar a Crispy Scroll.
+* Insomnitot patea una piedra.#* Know Cone la recupera con#  la boca.
+* Cactony preferiría estar#  solo ahora mismo.
+* Las voces robóticas del dúo#  rechinan en los oídos como#  hojas de sierra oxidadas.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_2_default_6
 scr_battle_core_directory_flavor_text_enemy_2_default_6
 gml_Script_scr_battle_core_directory_flavor_text_enemy_2_sparing_1
@@ -3849,20 +3849,20 @@ scr_battle_core_directory_flavor_text_enemy_2_sparing_2
 * Penilla raya frenéticamente#  su boceto de Flier.
 * Las buenas vibras#  se desvanecen.
 * Penilla termina su dibujo#  de anime en honor a Crispy.
-* Insomnitot thinks it was a#  dream.
-* Know Cone face-plants into#  the ground and yells.
-* Sir Slither pivots their full#  attention to you.
-* Goosic instantly forgets about#  Jandroid.
+* Insomnitot cree que fue un#  sueño.
+* Know Cone se tira al suelo#  y grita.
+* Sir Slither dirige toda su#  atención hacia ti.
+* Goosic se olvida al#  instante de Jandroid.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_2_dead
 scr_battle_core_directory_flavor_text_enemy_2_dead
 gml_Script_scr_battle_core_directory_flavor_text_enemy_3_low_hp_1
 scr_battle_core_directory_flavor_text_enemy_3_low_hp_1
 gml_Script_scr_battle_core_directory_flavor_text_enemy_3_low_hp_2
 scr_battle_core_directory_flavor_text_enemy_3_low_hp_2
-* Ta is bouncing around exploring#  their new world.
+* Ta va dando tumbos#  explorando su nuevo#  mundo.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_3_default_1
 scr_battle_core_directory_flavor_text_enemy_3_default_1
-* Ta is finding new ways to cause#  trouble.
+* Ta está encontrando nuevas#  formas de causar#  problemas.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_3_default_2
 scr_battle_core_directory_flavor_text_enemy_3_default_2
 gml_Script_scr_battle_core_directory_flavor_text_enemy_3_sparing_1
@@ -9686,17 +9686,17 @@ laser_width
 impact_frame_current
 ¿Por qué...?
 Tú...
-You don't#understand.
-This is irreversible!#Everyone knows what#I've become!
-Living... after what#I've done...
+No#entiendes.
+¡Esto es irreversible!#¡Todos saben en#lo que me he#convertido!
+Vivir... después de#lo que#he hecho...
 Yo...
-* What... was that?
-* Clover... what...
-* Um, okay. No, this is#  fine.
-* This can be very useful#  against the Ki
+* ¿Qué... fue eso?
+* Clover... qué...
+* Um, ok. No, esto#  está bien.
+* Esto puede ser muy útil#  contra el Ki
 message_timer
-* Wait, where are you#  going?
-* I'm still talking!
+* Espera, ¿a dónde vas?
+* ¡Todavía estoy#  hablando!
 scene_change
 scene_change_timer_max
 scene_change_timer
@@ -11572,10 +11572,10 @@ keyboard_key_release
 keyboard_key_press
 window_has_focus
 final_circle
-I am sorry for#inconveniencing#you.
-I was only trying#to bring joy.
-But...
-Your attitude towards#the art of dance#is clear.
+Siento haberle#inconvencido.
+Sólo intentaba#traer alegría.
+Pero...
+Su actitud hacia#el arte de la#danza es#clara.
 indicator_on
 flash_count
 variation
@@ -13656,8 +13656,8 @@ gear_current
 launch_dir_new
 dir_new
 arm_return
-Now, remember what#I taught you!
-Dodge the bullets!
+Ahora, ¡recuerda#lo que te#enseñé!
+¡Esquiva las balas!
 advance_message
 distance_counter
 distance_counter_max
@@ -23554,9 +23554,9 @@ spin_speed_divider
 move_random_number
 angle_intensity
 random_intensity
-Happy#croak.
-Growl.
-Cower,#cower.
+Feliz#croak.
+Gruñe.
+Agáchate,#agáchate.
 Ribbit,#ribbit.
 Croak,#croak.
 Micro#ribbit.
@@ -24113,40 +24113,40 @@ child_number
 * Because I was assigned boring#  Lab duty.
 * Stand outside the Lab doors#  and keep watch. Fuuuuuuun. TvT#
 * (The following entry is ripped#  out.)
-I won't let us#fall.
-As if this day#couldn't get#worse.
-P-please let me#down now.
-Dontfalldont-#falldontfall!
-Be careful up#there, okay?
-You guys are#clinging on#tight, right?
-I'm tired of#being overlooked.
-These two clowns#get all the#attention.
-Does anyone hear#me? It's like#I'm not even#talking.
-I'm on top of#the WORLD!!!
-Look ma! No#hands!
-I'm the king of#the castle! WOOT!
-NO!!
-Please, no!
-That was my#sibling!
-What's so funny?
-We have our#disagreements,#but you are my#pals.
-I need to run#away.
-This wasn't#supposed to#happen...
-Now I know why#we shouldn't#separate...
+No nos dejaré#caer.
+Como si este día#no pudiera#empeorar.
+Por favor,#déjame bajar#ahora.
+¡No te caigas,-#no te caigas,-#no te caigas!
+Ten cuidado ahí#arriba, ¿vale?
+Chicos, ustedes#están agarrandose#fuertemente,#¿verdad?
+Estoy harto de#que no se me#tenga en cuenta.
+Estos dos payasos#se llevan toda#la atención.
+¿Alguien me oye?#Es como si ni#siquiera#hablara.
+¡¡¡Estoy en#la cima del#mundo!!!
+¡Mira mamá!#¡Sin manos!
+¡Soy el rey del#castillo!#¡WOOT!
+¡¡NO!!
+¡Por favor, no!
+¡Ese era mi#hermano!
+¿De qué te#ríes?
+Tenemos nuestros#desacuerdos,#pero son mis#compañeros.
+Necesito huir.
+Esto no#tenía#que#ocurrir...
+Ahora sé por qué#no debemos#separarnos...
 Oww...
-Everyone okay?
-I told you this#would happen!
-Any injuries?#Trauma?#Maladies?
-Cut it out, will#ya?
-You both are#cool, I guess.
-I finally feel#like my own#monster. It's#liberating.
-It's nice to not#be stepped on for#once.
-I've never felt#so free.
-*Giggles back*
-I love you guys#sooo much!
-This is even#BETTER!
-There's so much#to explore!
-I can run for#MILES!
+¿Están todos#bien?
+¡Te dije que#esto#pasaría!
+¿Alguna lesión?#¿Trauma?#¿Malestar?
+Basta ya,#¿quieres?
+Los dos son#geniales,#creo.
+Por fin me siento#como mi propio#monstruo.#Es liberador.
+Es agradable no#ser pisado#por una vez.
+Nunca me había#sentido tan#libre.
+*Vuelve a reír*
+¡Los quiero#tanto chicos!
+¡Esto es aún#MEJOR!
+¡Hay tanto#por explorar!
+¡Puedo correr#KILOMETROS!
 part_sys_energy
 part_em_energy
 part_type_energy
@@ -25072,32 +25072,32 @@ Fight 2
 Fight 3
 hp_weakpoint
 self_emitter
-And after I thought#you were the perfect#student...
-You turn around and#trick me.
-You may not have#failed class...
-...but you've failed#at life.
+Y después de pensar#que eras el#estudiante#perfecto...
+Te das la vuelta#y me engañas.
+Puede que no hayas#fracasado en#clase...
+...pero has#fracasado en#la vida.
 dialogue_extend
-I thought that the#pen was mightier#than the sword...
+Creía que la pluma#era más poderosa#que la espada...
 talking_script
-Like, totally not#cool!
-Now Alphys will never#appreciate me...
-Last time I#checked...
-Friends didn't#do that.
-Looks like my#assumption was...#correct.
-This was all an#act to finish me#off.
-I should've kept#my guard up but...
-I guess in the#back of my mind#I was hoping...
-...Wishing, that#finally...
-Someone came along#to pull me out#of my sorrow.
-But... 
-Happiness has always#been wishful thinking#down here.
-I would've been#a good friend.
-I would've.
-I'm supposed to#get to say my#last goodbyes...
-But... I don't#have anyone to#say goodbye to...
-It's hard to#admit, but I...
-...I guess I've#been lying to#myself for a#while.
-It did get#lonely down here.
+¡Esto no es para#nada genial!
+Ahora Alphys#nunca me#apreciará...
+La última vez#que lo#comprobé...
+Los amigos no#hicieron eso.
+Parece que mi#suposición era...#correcta.
+Todo esto fue un#acto para#acabar#conmigo.
+Debería haber#mantenido la#guardia alta,#pero...
+Supongo que en#el fondo de mi#mente#esperaba...
+...Deseando, que#finalmente...
+Alguien viniera a#sacarme de mi#tristeza.
+Pero... 
+Aquí la felicidad#siempre ha#sido un#deseo.
+Hubiera sido#un buen amigo.
+Lo habría hecho.
+Se supone que#me despediré#por última#vez...
+Pero... No#tengo a nadie#de quien#despedirme...
+Es difícil#admitirlo,#pero yo...
+...creo que he estado#mintiéndome a mí#mismo durante#un tiempo.
+Se puso#solitario aquí#abajo.
 Ahora creo que sí#eres real.
 Heh...
 Me he cansado#demasiado pero...
@@ -25105,21 +25105,21 @@ Si duermo, y luego#despierto... esto#seguirá igual.
 Así que...
 Tal vez...
 ...No voy a despertar.
-Oh! Ow! How are you#so strong?!
-Why did I let my#guard down?...
-I-I can't do this#alone!
-I need to alert#the other Guards...
-Please stay right#here!
+¡Oh! ¡Ay! ¡¿Cómo#eres tan#fuerte?!
+¿Por qué bajé la#guardia...?
+¡N-no puedo#hacerlo sola!
+Necesito alertar#a los otros#guardias...
+¡Por favor,#quédate aquí!
 Huff... huff...
-I truly did not notice#you were fighting me#until this moment.
-Perhaps... I upset#you?
-I deeply apologize if#so...
-I am beaten up pretty#badly, huh?
-I suppose it is my#time to go.
-This is quite sudden,#but...
-At least I was able to#dance for the world#one last time.
-I did have fun...
-The power of dance is#a wonderful thing...
+Realmente no me di#cuenta de que#estabas luchando#contra mí#hasta este#momento.
+Quizás... ¿Te molesté?
+Me disculpo#profundamente#si...
+Me han dado una#buena paliza,#¿eh?
+Supongo que es mi#hora de irme.
+Esto es bastante#repentino,#pero...
+Al menos pude#bailar para el#mundo#una última vez.
+Me divertí...
+El poder de la#danza es algo#maravilloso...
 * Guess I had this coming.
 * If only I wore my safety#goggles, heh...
 * I can't lie...
