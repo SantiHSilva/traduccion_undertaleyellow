@@ -1116,40 +1116,40 @@ sqrt
 gml_Script_scr_distance
 scr_distance
 * Oh-¡Buenas!
-* We're nearing the#  Castle now.
-* What an eventful day!
-* For kicks and giggles,#  why don't we tally up#  your death total?
-* Drum roll please!
+* Ahora estamos cerca#  del Castillo.
+* ¡Que día tan importante!
+* Por las risas, ¿por#  qué no hacemos cuentas de#  todas tus muertes?
+* ¡Redoble de tambor!
 * Badabadabadabadaba...
 save_count
-* You died 
- times!
- time!
-* Wow!
-* If I wasn't here to#  help, this all would've#  been a disaster!
-* Maybe jumping down a#  chasm gung-ho wasn't the#  brightest idea...
-* But hey, all's well#  that ends well!
+* ¡Moriste 
+ veces!
+ vez!
+* ¡Wow!
+* ¡Si no estuviera para#  ayudar, todo sería un#  desastre!
+* Tal vez jugar a las#  pistolitas no fue la#  idea más brillante...
+* ¡Pero ey, todo lo bueno#  termina bien!
 * Uh... 
-* That can't be right...
-* Zero? Really?
-* Geez...
-* I offered my services#  for a reason.
-* I mean come on! Die a#  little!
-* Oh wait, it's ZERO.
-* For you to be standing#  in this building, it has#  to be zero.	
-* I honestly can't#  believe you made it#  here.
-* You are a piece of work#  sometimes, you know#  that?	
-* Sigh...
-* Yeah, go on.	
-* Save, don't save, your#  choice.
-* Just remember that I#  was always here for you.
-* Like a good friend#  should be.
-* What? Confused?
-* Or do ya think keeping#  a death tally is morbid?
-* Knowing what could've#  been keeps you humble!
-* Grateful for everyone#  who helped you get where#  you are!
-* At least that's my#  "flowosophy."
-* We got places to be,#  pal!
+* Eso no ha de ser#  correcto...
+* ¿Cero? ¿En serio?
+* Ish...
+* Ofrecí mis servicios#  por una razón.
+* ¡Es que por favor! ¡Muere#  un poco!
+* Oh espera, es CERO.
+* Para que estés parado#  en este edificio, tiene#  que ser cero.	
+* Honestamente no puedo#  creer que hayas llegado#  hasta aquí.
+* A veces eres una obra#  de arte, ¿sabías eso?	
+* Ash...
+* Sí, dale.	
+* Guarda, no guardes, es#  tú elección.
+* Solo recuerda que yo#  siempre estuve para ti.
+* Como buenos amigos.
+*¿Qué? ¿Confundido?
+* ¿O piensas que llevar#  la cuenta de tus muertes#  es morbido?
+* ¡Saber lo que pudo#  haber sido te mantiene#  humilde!
+* ¡Agradecido por todos#  que ayudaron a que#  estés aquí!
+* Al menos esa es mi#  "florosofía."
+* ¡Tenemos lugar a donde#  ir, amigo!
 * Chop chop!
 * Well.
 * Word sure gets around.
@@ -9453,25 +9453,25 @@ background_dark
 foreground
 foreground_dark
 * (A dumpster.)
-* (The swimming pool of#  champions.)
-* (Nothing but eviction#  notices.)
-* (...No response.)
-* (Nothing but recalled gift#  shop products.)
-* (No one's inside.)
+* (La piscina de los#  campeónes.)
+* (Solo hay avisos de#  desalojamiento.)
+* (...Sin respuesta.)
+* (Nada más que productos#  de tienda retirados.)
+* (No hay nadie dentro.)
 * (The warm glow of a bustling#  lobby.)
-* (There's a note on the door.)	
-* Stranger, please stop eating#  the cat food I leave out.
-* It's for a stray who's stuck#  in here with us, not for#  monsters.
+* (Hay una nota en la puerta.)	
+* Extraño, por favor deja#  de comer la comida de gato#  que dejo afuera.
+* Es para un extraviado que#  tenemos con nosotros, no#  para monstruos.
 * Gracias.
-* Garbage day: Monday	
-* If you can't reach the Dump,#  throw all trash bags off the#  cliff south of here.	
-* The lava below should do the#  job.
+* Día de la basura: Lunes	
+* Si no alcanzas el tacho,#  tirá las fundas al barranco#  que queda por el sur.	
+* La lava debería hacer#  el trabajo.
 * (The end lies beyond.)
 * (Let justice be done.)
 as_dark_danza
 * (Can't see in.)
-* (You can't see past the large,#  blackout curtains inside.)
-* (It's locked. Music producers#  only.)
+* (No puedes ver mas allá de#  las largas cortinas#  oscuras dentro.)
+* (Está bloqueado. Solo#  productores musicales.)
 Spooders
 * (This is the wrong way.)
 * (A mighty roadblock stands in#  the way.)
@@ -10822,8 +10822,8 @@ submerge_sprite
 self_soul
 track_spawner
 idle_animation
-* Oi, if ya want in the club,#  you're gonna 'avta wait in line!
-* That is, unless you're on the#  VIP guest list. 
+* ¡Oi, si quieres entrar al club,#  debe' eperar en la línea!
+* Eso es, a menos de que estés#  en la lista VIP. 
 * I doubt it but it wouldn't 'urt#  to check.
 * Wouldja look at that! I got a#  lad 'ere that looks just like#  you!
 * Go on, then!
@@ -10956,8 +10956,8 @@ sprite_uvs
 spriteUVs
 shader_uvs
 * Hehe!
-* Moves so hot, my worries are#  melting away!
-* (Who knows what might happen#  from this point forward.)
+* ¡Los movimientos son tan#  calientes que mis#  preocupaciones se derriten!
+* (Quien sabe lo que puede#  pasar de aquí en#  adelante.)
 * (¿Continuar?)
 Regresar
 Continuar
@@ -11150,13 +11150,13 @@ time_increase_move
 * I think I see a switch#  over there so no#  problem, right?
 * Don't worry, I'll catch#  up.
 * See? No sweat.
-* Bro, I came to the club to let#  loose and boogie, not wait in#  line!
-* "It's crab hour!" is what they#  keep telling me. "It's crab#  hour!"
-* Who says I'm NOT a crab? Like,#  they sure are putting me in a#  crabby mood!
-* That, and I haven't trimmed my#  fingernails in months.
-* I could pinch someone so hard#  with these puppies.
-* The moment crab hour ends is#  the moment I seize the floor and#  get DOWN.
-* You can quote me on that, bro.
+* Bro, vine al club para#  dejarme llevar y bailar,#  ¡no para estar esperando!
+* "¡Es la hora cangrejo!" es lo#  que pasan diciendome.#  "¡Es la hora cangrejo!"
+* ¿Quién dice que yo no soy un#  cangrejo? ¡Tipo, ellos saben#  como malhumorarme!
+* Eso, y que no he cortado#  mis uñas en meses.
+* Puedo pellizcar a quien sea#  con estos bebés.
+* El momento en que se acabe#  la hora cangrejo será cuando#  me tire al suelo.
+* Puedes darlo por seguro, bro.
 destroy_part
 drawing_poster
 * (Some blueprints...)
@@ -12660,7 +12660,7 @@ actor_axis
 * I LIKE LIVING. 
 * THANKS.
 * HE HE !
-* SMOOTH WITH IT !
+* MUÉVELO SUAVE !
 * Gwah gwah goggle wibble woo~
 * (You smile and nod like you#  understood Dunebud.)
 * Blep blep boop wub weeeee~
@@ -15186,8 +15186,8 @@ JAJAJAJAJAJAJA#¡¡¡¡¡JAJAJAJAJAJA!!!!
 ARCHIVO 1 SOBRESCRITO
 image_scale_inc
 image_scale_inc_max
-* Eh eh eh, no can do.
-* Citizens aren't allowed past#  this point.
+* Eh eh eh, eso no.
+* No se permiten ciudadanos#  desde aquí.
 * We're currently under heavy#  spider construction as you can#  see.
 * Ain't set to finish until 20XX#  or so.
 * You think building a spider#  home is simple?
@@ -15421,12 +15421,12 @@ point_x
 point_y
 coin_bag
 new_coin
-* I'm not sure I meet the#  requirements to set foot in the#  club.
-* My age isn't the problem, it's#  that I never got my Dancer's#  License.
-* I'm tired of putting in effort#  for entertainment.
-* When will someone come along#  that spoon-feeds fun to me?
-* That will be the day.
-* Guess it won't hurt to wait in#  line a little longer.
+* No creo cumplir con los#  requisitos para poner un pie en#  el club.
+* Mi edad no es problema, es#  que nunca saque mi Licencia#  de Baile.
+* Estoy cansado de poner mi#  esfuerzo en entretener.
+* ¿Cuando llegará alguien que#  me proporcione diversión?
+* Ese será el día.
+* Supongo que no lastimará#  esperar un poco más.
 * oh hey. no hard feelings about#  the fight earlier.
 * like sure, we kinda broke the#  first law of robotics but tbh,#  we live in a lawless land. 
 * anarchy reigns in this#  metallic hellscape.
@@ -17640,11 +17640,11 @@ mo_change_depth
 mo_menu_fall
 men_hsp
 men_vsp
-* Come on, I GOTTA be on the#  guest list!
-* Everybody knows my name!
-* Any time now the bouncer's#  memory of me will come rushing#  back.
-* Surprised it's taking this#  long.
-* If all else fails, I'll just#  dance out here. No one could#  stop me.
+* ¡Vamos, yo DEBO estar en#  la lista de invitados!
+* ¡Todos saben mi nombre!
+* En cualquier momento la#  rebotante memoria de mi#  volverá de una.
+* Me sorprende que esté#  tomando tanto.
+* Si todo falla, solo#  bailaré aquí afuera. Nadie#  puede detenerme.
 Natural skill
 Brick toys
 * You traveled with#  Martlet before the Wild#  East, right?
@@ -24168,22 +24168,22 @@ move_y_temp
 draw_colour
 x_factor
 execute_change
-* Ah, it is you!
-* Welcome to my club!
-* I am glad I remembered to put#  you on the guest list!
-* Now, join us in a dance, will#  you?
-* Oh right, I forgot you are not#  big on dancing.
-* More of a Sentinel of Silence,#  right?
-* Funny history I have with those#  folk.
-* We all used to live on the top#  floor of UG Apartments north of#  here.
-* Our side of the hall wanted to#  be bold! High energy!
-* While the other preferred the#  deafening sound of silence.
-* We feuded over the SVL for#  weeks! The Standard Volume#  Level, that is.
-* Long story short, we all were#  kicked out, haha!
-* Gone our separate ways now,#  free to chase any comfort we#  choose.
-* I sometimes wonder what that#  bat got up to? Probably lives#  in some Snowdin cave.
-* If I were you, I would let#  loose and dance with us!
-* One never knows when they dance#  their last!
+* ¡Ah, eres tú!
+* ¡Bienvenido a mi club!
+* ¡Que bueno que recordé#  ponerte en la lista de#  invitados!
+* Ahora, únete y baila.
+* Oh cierto, olvidé que no#  bailas mucho.
+* Eres más un Centinela del#  Silencio, ¿cierto?
+* Es una historia graciosa#  con esos chicos.
+* Todos solíamos vivir en#  el último piso de lo SS#  Apartamentos al norte.
+* ¡Nuestro lado del pasillo#  quería ser potente!#  ¡Gran energía!
+* Mientras que el otro prefería#  el ensordecedor sonido#  del silencio.
+* ¡Nos peleamos por el NEV por#  semanas! El Nivel Estándar de#  Volúmen, eso es.
+* En resumen, ¡nos hecharon a#  todos, jaja!
+* Cada cual tomo su rumbo,#  libre de buscar la#  comodidad que uno quiera.
+* ¿A veces me pregunó que estará#  haciendo ese murciélago? Tal#  vez vive en una cueva.
+* Si fuera tú, ¡me dejaría#  llevar y bailaría con los#  demás!
+* ¡Uno nunca sabe cuando será#  su último baile!
 ¡Martlet de la Guardia#Real encontro un#humano!
 ¡Prepárense#para la captura!
 Protocolo uno, ¡sé#cordial y permite#a tu oponente#el primer ataque!
@@ -25007,10 +25007,10 @@ diamond_x_left
 diamond_x_right
 vertical_line_1_x
 vertical_line_2_x
-* (Nothing but chewed up#  silverware.)
-* (You discover some Monster#  Candy in the trash can.#  It's butterscotch flavored.)	
-* (You got Monster Candy!)
-* (If only it was cinnamon...)
+* (Solo hay hierro masticado.)
+* (Descubriste un poco de#  Monster Candy en la basura.#  Sabe a caramelo.)	
+* (¡Obtuviste Monster Candy!)
+* (Si tan solo fuera canela...)
 max_frames_default
 transform_type
 grad_direction
