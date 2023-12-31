@@ -11143,22 +11143,6 @@ time_increase_move
 * (Investigas el velador...)
 * (Encuentras un APE doblado#  el cual guardas en#  tu bolso.)
 * (No hay nada mas que#  un estuche para lentes#  en el velador.)
-<<<<<<< Updated upstream
-* What luck.
-* Turn the power on and#  the whole facility goes#  insane!
-* Since you're now the#  leader and all... 
-* How'bout you run ahead#  and turn this steam off?
-* I think I see a switch#  over there so no#  problem, right?
-* Don't worry, I'll catch#  up.
-* See? No sweat.
-* Bro, vine al club para#  dejarme llevar y bailar,#  ¡no para estar esperando!
-* "¡Es la hora cangrejo!" es lo#  que pasan diciendome.#  "¡Es la hora cangrejo!"
-* ¿Quién dice que yo no soy un#  cangrejo? ¡Tipo, ellos saben#  como malhumorarme!
-* Eso, y que no he cortado#  mis uñas en meses.
-* Puedo pellizcar a quien sea#  con estos bebés.
-* El momento en que se acabe#  la hora cangrejo será cuando#  me tire al suelo.
-* Puedes darlo por seguro, bro.
-=======
 * Vaya suerte.
 * ¡Enciende la energía#  y todo el lugar se#  vuelve loco!
 * Ya que ahora eres el#  líder y todo eso... 
@@ -11166,14 +11150,13 @@ time_increase_move
 * Creo que veo un#  interruptor allá así que#  sin problemas, ¿cierto?
 * No te preocupes, te#  alcanzaré.
 * ¿Lo ves? Sin sudar.
-* Bro, I came to the club to let#  loose and boogie, not wait in#  line!
-* "It's crab hour!" is what they#  keep telling me. "It's crab#  hour!"
-* Who says I'm NOT a crab? Like,#  they sure are putting me in a#  crabby mood!
-* That, and I haven't trimmed my#  fingernails in months.
-* I could pinch someone so hard#  with these puppies.
-* The moment crab hour ends is#  the moment I seize the floor and#  get DOWN.
-* You can quote me on that, bro.
->>>>>>> Stashed changes
+* Bro, vine al club para#  dejarme llevar y bailar,#  ¡no para estar esperando!
+* "¡Es la hora cangrejo!" es lo#  que pasan diciendome.#  "¡Es la hora cangrejo!"
+* ¿Quién dice que yo no soy un#  cangrejo? ¡Tipo, ellos saben#  como malhumorarme!
+* Eso, y que no he cortado#  mis uñas en meses.
+* Puedo pellizcar a quien sea#  con estos bebés.
+* El momento en que se acabe#  la hora cangrejo será cuando#  me tire al suelo.
+* Puedes darlo por seguro, bro.
 destroy_part
 drawing_poster
 * (Some blueprints...)
@@ -17657,21 +17640,12 @@ mo_change_depth
 mo_menu_fall
 men_hsp
 men_vsp
-<<<<<<< Updated upstream
 * ¡Vamos, yo DEBO estar en#  la lista de invitados!
 * ¡Todos saben mi nombre!
 * En cualquier momento la#  rebotante memoria de mi#  volverá de una.
 * Me sorprende que esté#  tomando tanto.
 * Si todo falla, solo#  bailaré aquí afuera. Nadie#  puede detenerme.
-Natural skill
-=======
-* Come on, I GOTTA be on the#  guest list!
-* Everybody knows my name!
-* Any time now the bouncer's#  memory of me will come rushing#  back.
-* Surprised it's taking this#  long.
-* If all else fails, I'll just#  dance out here. No one could#  stop me.
 Don natural
->>>>>>> Stashed changes
 Brick toys
 * Viajaste con Martlet#  antes de llegar a Wild#  East, ¿verdad?
 * Ella es como una#  reparadora si recuerdo#  bien.
