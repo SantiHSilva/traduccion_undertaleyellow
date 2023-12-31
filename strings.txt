@@ -9446,8 +9446,8 @@ background_dark
 * (The west bush.)
 * (A strange wall.)
 * (Just a regular wall... right?)
-* New Home is north of#  here.
-* We need to head that#  way.
+* Nuevo Hogar queda al#  norte de aquí.
+* Hay que ir hacia#  allá.
 * (An enemy is nearby.)
 * (No loose ends.)
 foreground
@@ -9484,8 +9484,8 @@ statue
 * (You hear a faint melody#  coming from the statue.)
 * (Another plant.)
 * (A potted plant.)
-* CORE currently under#  maintenance.	
-* Please do not climb over the#  velvet rope.
+* NÚCLEO en#  mantenimiento.	
+* Por favor no cruze#  ni salte la soga#  roja.
 * (Useless information.)
 * (You notice a ranking sheet on#  the board.)	
 * Winners of the "Actually Magma#  Smoothie Challenge":	
@@ -11011,11 +11011,11 @@ Spawning
 draw_clover_yellow_alpha
 make_colour_rgb
 * Ah, you got my message!#  Great!
-* What a view...
-* That large facility in#  front of us is the#  CORE...
-* ...The main source of#  power for the#  Underground.
-* Behind that is New Home.#  The capital city.
-                 New Home                     
+* Que gran vista...
+* Esa gran instalación#  frente a nosotros es#  el NÚCLEO...
+* ...La fuente principal#  de poder del#  Subsuelo.
+* Detrás de eso esta Nuevo#  Hogar. La capital.
+                     Nuevo#  Hogar                     
 * ...King ASGORE's Castle.
 * Look, I haven't been#  100% honest with you...
 * My whole life, I was#  taught that humans are#  the enemy.
@@ -12558,7 +12558,7 @@ Ahora, ahora.#Dejen de#contenerse,#todos.
 * Here goes!
 * Seriously? Same code as#  the Dunes gate?
 * With this kinda#  security, no wonder Axis#  is so vigilant.
-* After you.
+* Después de ti.
 doorway
 item_page_count
 item_number_row
@@ -15317,38 +15317,38 @@ vspeed_inc
 * ¡Caramba, voy a tener que#  pedir un préstamo si#  quiero seguir así!
 * (¡Parece que tenemos un#  ganador!)
 * ¡Bien jugado y bien#  pagado, chicos!
-* You made it! Great!
-* Behind that is New#  Home. The capital city.
-* I asked around and was#  told Ceroba and Starlo#  headed there.
-* Guess she ran the#  opposite way of the Lab#  to juke her pursuer?
-* The two couldn't have#  gotten far, I'm positive#  we'll find them!
-* We'll...
-* Whew, it's all setting#  in now.
-* This is like... super#  intimidating, right? Not#  just me?
-* I don't know when I'll#  get another chance so#  I'll say it now:
-* You are a kind soul.#  One of the best I've#  met.
-* Left and right you've#  been beaten and bruised,#  but you stay vigilant.
-* You defuse situations#  and mend#  relationships...
-* ...A far cry from what#  I was taught growing up.
-* Royal Guards are told#  ad nauseum that humans#  are the enemy.
-* I only ever heard#  stories of war and our#  Underground imprisonment.
-* But you're different.
-* If you could change my#  mind on humans, I know#  you can ASGORE's!
-* After we diffuse the#  Ceroba situation,
-* We'll march right up to#  that Castle, you and me!
-* And then... Well,#  you'll be on your way.
-* But don't worry about#  me! 
-* When Monsterkind is#  freed, we'll meet again#  on the Surface!
-* By then, you might be#  all grown up. Wouldn't#  that be funny?
-* Point is, I'm glad you#  hopped on my raft.
-* Okay... We need to get#  moving.
-* That way. West New#  Home.
-* The elevator downstairs#  should take us straight#  there.
-* After that... I'm not#  sure.
-* I'd call for backup in#  a scenario like this but#  we're on our own. 
-* Outlaws.
-* So, "partner in crime,"#  you ready?
-* Let's stop Ceroba!
+* ¡Llegaste! ¡Genial!
+* Detrás de eso esta Nuevo#  Hogar. La capital.
+* Estuve preguntando y me#  dijeron que Ceroba y#  Starlo vinieron acá.
+* Supongo que huyó a la#  dirección opuesta del Lab#  para burlarlo?
+* No pueden estar tan#  lejos, ¡estoy segura de#  que los encontraremos!
+* Nosotros...
+* Uff, ahora estoy cayendo#  en cuenta de todo.
+* Esto es... muy#  intimidante, ¿cierto? ¿No#  soy solo yo?
+* No se cuando tenga otra#  oportunidad así que lo#  diré ahora:
+* Eres un alma noble.#  De las mejores que#  he conocido.
+* Has sido atacado y#  golpeado tantas veces,#  pero sigues alerta.
+* Disipas situaciones y#  arreglas relaciones...
+* ...Algo muy distinto a#  lo que me enseñaron#  mientras crecía .
+* A los Guardias Reales#  nos dicen hasta el#  cansancio que son enemigos.
+* Solo escuché historias#  de guerra y nuestro#  encarcelamiento al Subsuelo.
+* Pero tu eres diferente.
+* Si cambiaste mi pensar,#  ¡sé que podrás con el#  de ASGORE!
+* Después de que disipemos#  la situación de Ceroba,
+* ¡Irémos directo a ese#  Castillo, tú y yo!
+* Y luego... Bueno,#  seguirás tu camino.
+* ¡Pero no te preocupes#  por mi! 
+* ¡Cuando nos liberemos,#  nos volverémos a ver#  en la Superficie!
+* Para ese entonces, ya#  has de haber crecido.#  Será divertido ¿no crees?
+* El punto es, me alegra#  haberme topado contigo.
+* Okei... Tenemos que#  seguir avanzando.
+* Por allá. Al Oeste#  de Nuevo Hogar.
+* El elevador de abajo#  nos debería llevar#  directo para allá.
+* Después de eso... no#  estoy segura.
+* Llamaría por refuerzos en#  este escenario pero#  solo somos los dos. 
+* Fugitivos.
+* Así que, "mi cómplice,"#  ¿estás listo?
+* ¡Detengamos a Ceroba!
 grow_count
 oscillator
 colliding_clay
@@ -18041,9 +18041,9 @@ x_normal
 * (¡Bonito y acogedor!)
 * (Ves una pegatina en#  el calentador.)
 * ¡Hecho a mano con amor#  por Chujin & Martlet!
-* I think this elevator#  goes to the Castle.
-* Probably the last place#  Ceroba would run to.
-* Let's keep searching#  this area for now.
+* Creo que este elevador#  va hacia el Castillo.
+* Probablemente el#  último lugar a donde#  Ceroba huiría.
+* Sigamos buscando en el#  área por ahora.
 * Now Charles, I know you've had#  a long day but...
 * If the dishes in the sink#  aren't done, we can't eat#  dinner!
 * Don't even think about heating#  up a TV dinner instead.
@@ -18722,20 +18722,20 @@ starlo_overlay
 * Si no...
 * ¿¡Por qué estás#  aquí, Clover!?
 * ¡Se supone que tienes#  que estar en casa!
-* No, gracias por#  encontrarme. Me facilita#  cosas. 
+* No, gracias por#  encontrarme. Me facilita#  las cosas. 
 * Si fuera ustedes dos#  dejaría a Clover aquí y#  me olvidaría de esto.
 * Podrá no tener sentido#  para ustedes, pero es#  lo mejor.
 * Para el acto creído,#  ¿Sí? 
-* Solo... para.
+* Solo... detente.
 * Podemos cambiar#  esto, Ceroba.
-* ¡Tu misma dijiste que#  Kanako está viva!
+* ¡Tú misma dijiste que#  Kanako está viva!
 * Vayamos a encontrarla y#  volvamos a nuestra#  vida normal y feliz.
 * "Vida feliz"...#  Ojalá pudiéramos.
 * Yo... mentí sobre Kanako,#  Star. Tenía qué.
 * Haber caído es#  prácticamente una#  sentencia de muerte.
 * A no ser que un milagro#  ocurra en el laboratorio,#  no hay...
 * ...No hay esperanza para# ella.
-* E-Estoy haciendo lo#  mejor que puedo,#  ok?!
+* E-Estoy haciendo lo#  mejor que puedo,#  ¡¿ok?!
 * ¡Eso es todo lo que#  sé hacer a este punto!
 * Kanako... 
 * Kanako es una Monstruo#  Jefe.
