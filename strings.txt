@@ -9255,7 +9255,7 @@ conveyor_belts_off
 tv_off
 * (La puerta está#  atascada).
 * (Máquinas antiguas.)
-* (El olor de la ropa vieja,#  sin lavar te hace#  sentir mareado.)
+* (El olor de la ropa vieja sin#  lavar te hace sentir mareado.)
 * (Ropa desechada.)
 * (Un par de vaqueros cargo#  están pegados a la mesa.#  Lleva ahí un rato.)
 * (Miras dentro de#  la cámara...)	
@@ -9263,10 +9263,10 @@ tv_off
 steam_interval
 steam_delay
 new_dir
-* Excellence in Engineering#  Award: Dr. Rutherford-Oscar
-* Decency in Engineering Award:#  Prof. Daniels
-* Greatness in C--
-* (You can't make out the#  rest.)
+* Premio Excelencia en Ingeniería:#  Dr. Rutherford-Oscar
+* Premio Decencia en Ingeniería:#  Prof. Daniels
+* Maestría en C--
+* (No puedes deducir el#  resto.)
 mpoint_up_free
 mpoint_left_free
 mpoint_right_free
@@ -9280,28 +9280,28 @@ mpoint_dock_yy
 * - Decontaminate yourself of#  any biohazards before leaving#  the premises!	
 * - But most of all, have fun :)
 * (Some kind of propaganda.)
-* (A poster of a smiling monster#  with a slogan above them.)	
-* "Tomorrow means the Surface!"
+* (Un monstruo sonriendo#  con un eslogan arriba.)	
+* "¡Mañana significa Superficie!"
 murder
 x_target
 y_target
 room_target
-* (This security station would#  be useful to track roaming#  robots...)
-* (...if there were any cameras#  in the Steamworks.)
-* (A portable coolant#  dispenser.)
-* (Handy.)
-* (Trash can.)
-* (Scribbles and doodles of#  surprising quality lie on the#  table.)
-* (You wish you could draw that#  well...)
-* (A highly competitive game of#  "Chessers" was played here.)
-* (A few papers are scattered on#  the table.)
-* (Seems to be an unfinished#  proposal for security camera#  installations.)
-* Break room rules:
-* Do not work in the break#  room.
-* Do not fix in the break room.
-* (The mummified remains of an#  abandoned pizza party.)
-* (Not even you are brave enough#  to try a slice.)
-* Have you seen my wife?
+* (Esta estación de seguridad#  sería útil para vigilar#  robots...)
+* (...si solo hubiera cámaras#  en Steamworks.)
+* (Una máquina de bebidas#  portátil.)
+* (Conveniente.)
+* (Basura.)
+* (Garabatos y dibujitos de#  sorprendente calidad yacen#  en la mesa.)
+* (Desearías poder dibujar#  así de bien...)
+* (Una muy competitiva#  partida de "Ajedrez" se#  jugó aquí.)
+* (Algunos papeles#  desparramados en la#  mesa.)
+* (Parece una propuesta sin#  terminar de instalación#  de cámaras de seguridad.)
+* Reglas Sala de Descanso:
+* No trabbajar en la sala#  de descanso.
+* No reparar en al sala# de descanso.
+* (Los restos momificados#  de una pizza abandonada.)
+* (Ni siquiera tú eres#  tan valiente para probar.)
+* ¿Has visto a mi esposa?
 * (Just some litter.)
 * (An old bottle with no message#  inside.)
 * (The message is clear.)
@@ -9984,9 +9984,9 @@ view_x
 view_y
 camera
 slither c
-* AXIS MODEL 014 READY TO#  GUARD AND PROTECT.
+* AXIS MODELO 014 LISTO#  PARA CUIDAR Y PROTEGER.
   AXIS                                        
-* INTRUDER SPOTTED.#  STEAMWORKS: EASTERN#  BRANCH.
+* INTRUSOS ENCONTRADOS.#  STEAMWORKS: ZONA#  ESTE.
 * YOUR CRIMES ARE AS#  FOLLOWS:
 * - TRESPASSING ON#  PRIVATE PROPERTY.
 * - UTILIZING MACHINERY#  WITHOUT PERMISSION.
@@ -10348,9 +10348,9 @@ w
 str_width
 draw_text_ext
 * (Slurp slurrrrp)
-* Ahhhh!
-* Nothing like Steamworks#  Boba-Soup (TM) to fuel the#  engine!
-* ¿Qué? Don't act like you've#  never heard of it.
+* ¡Ahhhh!
+* ¡Nada como Boba-Soup (TM)#  de Steamworks para#  llenar el tanque!
+* ¿Qué? No actúes como si#  nunca lo hubieses oído.
 * Did you know that humans also#  run on a liquid? It's called#  "blood."
 * Apparently it doesn't taste#  any good, which is like, a#  total shame.
 * I'd let you try this stuff but#  it's total poison to#  non-robots.
@@ -10946,9 +10946,9 @@ collide_id
 draw_rectangle_color
 steam_audio_noloop
 pacifist_skip
-* Well, best get on with#  it.
-* Watch your step.
-* I know you're skilled#  enough for this small#  task.
+* Bueno, mejor#  resolverlo.
+* Cuida tus pasos.
+* Sé que eres#  suficientemente hábil#  para esta tarea.
 reflection_surf
 Alpha
 alpha_uniform
@@ -11143,6 +11143,7 @@ time_increase_move
 * (Investigas el velador...)
 * (Encuentras un APE doblado#  el cual guardas en#  tu bolso.)
 * (No hay nada mas que#  un estuche para lentes#  en el velador.)
+<<<<<<< Updated upstream
 * What luck.
 * Turn the power on and#  the whole facility goes#  insane!
 * Since you're now the#  leader and all... 
@@ -11157,6 +11158,22 @@ time_increase_move
 * Puedo pellizcar a quien sea#  con estos bebés.
 * El momento en que se acabe#  la hora cangrejo será cuando#  me tire al suelo.
 * Puedes darlo por seguro, bro.
+=======
+* Vaya suerte.
+* ¡Enciende la energía#  y todo el lugar se#  vuelve loco!
+* Ya que ahora eres el#  líder y todo eso... 
+* ¿Qué tal si te adelantas#  y apagas ese humo?
+* Creo que veo un#  interruptor allá así que#  sin problemas, ¿cierto?
+* No te preocupes, te#  alcanzaré.
+* ¿Lo ves? Sin sudar.
+* Bro, I came to the club to let#  loose and boogie, not wait in#  line!
+* "It's crab hour!" is what they#  keep telling me. "It's crab#  hour!"
+* Who says I'm NOT a crab? Like,#  they sure are putting me in a#  crabby mood!
+* That, and I haven't trimmed my#  fingernails in months.
+* I could pinch someone so hard#  with these puppies.
+* The moment crab hour ends is#  the moment I seize the floor and#  get DOWN.
+* You can quote me on that, bro.
+>>>>>>> Stashed changes
 destroy_part
 drawing_poster
 * (Some blueprints...)
@@ -12848,8 +12865,8 @@ mask_ps
 mask_pt_effect_1
 mask_pe_effect_1
 mask_new
-* (The vent has a few loose#  screws.)
-* (You finagle it open.)
+* (El respiradero tiene algunos#  tornillos flojos.)
+* (Consigues abrirlo.)
 shot_count
 wave_count
 wave_spawn_timer
@@ -13465,8 +13482,8 @@ bullet_distance
 Aw hombre...
 File 1 Loaded
 picture_alpha
-* Well, there we go.
-* Definitely what I need#  after that madness.
+* Bueno, aquí estamos.
+* Definitivamente lo#  que necesito después#  de esa locura.
 npc_action_sprite
 * I wonder what Starlo's#  up to right now?
 * Probably on some Feisty#  Five quest with a smile#  on his face.
@@ -13791,23 +13808,23 @@ checkpoint_y
 checkpoint_x_axis
 checkpoint_y_axis
 spawn_arrows
-* ESCAPED CONVICTS SPOTTED.#  STEAMWORKS:#  OFFICE BRANCH.
-* Oh no! Run!
-* ESCAPED CONVICT SPOTTED.#  STEAMWORKS:#  OFFICE BRANCH.
+* CONVICTOS FUGADOS#  ENCONTRADOS. STEAMWORKS:#  ZONA DE OFICINAS.
+* ¡Oh no! ¡Corre!
+* CONVICTOS FUGADOS#  ENCONTRADOS. STEAMWORKS:#  ZONA DE OFICINAS.
 arrow_down
-* ¡Clover! The lockers!
-* ¡Sigueme!
-* HOW.
+* ¡Clover! ¡Los casilleros!
+* ¡Sígueme!
+* CÓMO.
 * Huff... Huff...
-* This guy means#  business!
-* My husband was one hell#  of an engineer.
-* I just wonder why he#  kept all this from me?
-* He could've left me#  some sort of off-switch,#  right?
-* THE ROBOT! I totally#  forgot about our plan!
-* Ugh, sorry. Next time#  we see Axis, we'll try#  it for sure.
-* HALT.
-* YOU ARE COMING WITH ME.
-* ENOUGH RUNNING.
+* ¡Este tipo significa#  problemas!
+* Mi esposo era genial#  como ingenierío.
+* Solo me pregunto por qué#  me oculto todo esto.
+* Podría haberme dejado#  algún tipo de botón#  de apagado ¿no?
+* ¡EL ROBOT! ¡Olvidé por#  completo nuestro plan!
+* Ugh, lo siento. La próxima#  que veamos a Axis lo#  intentaremos.
+* DETENIDO.
+* TU VIENES CONMIGO.
+* SUFICIENTE CORRER.
 player_is_caught
 distance_axis
 distance_pl
@@ -14818,35 +14835,35 @@ reset_timer
 destroy_sprite
 star
 energy_ball_deflect_noloop
-* Looks like he's go-     
+* Parece que se fu-     
 ceroba_x_original
-* Axis, hold on a second!
-* ONE.
-* UH - ONE MILLION#  SECONDS!
-* I DO NOT HAVE THE#  KNOWLEDGE TO COUNT THAT#  HIGH.
-* WHAT IS THIS#  ABOUT?
-* I have a surprise for#  you! A special one!
-* I WILL ADMIT, YOU HAVE#  MY ATTENTION.
-* PROCEED.
-* I have for you, your#  very own robot#  companion!
-* A sleek, top of the#  line model!
-* Aren't they beautiful?
+* ¡Axis, espera un segundo!
+* UNO.
+* UH - ¡UN MILLÓN#  DE SEGUNDOS!
+* NO TENGO EL#  CONOCIMIENTO PARA#  CONTAR TANTO.
+* ¿DE QUÉ SE TRATA#  ESTO?
+* ¡Tengo una sorpresa#  para ti! ¡Una#  especial!
+* LO ADMITO, TIENES#  MI ATENCIÓN.
+* PROCEDA.
+* Te traigo para ti#  ¡tu propia compañía#  robot!
+* ¡Un modelo elegante y#  de primera calidad!
+* ¿No es lindo?
 * NO.
-* NOT IN THE MOOD.
-* MY EYES ARE ONLY SET ON#  YOUR APPREHENSION.
+* NO ESTOY DE HUMOR.
+* MIS OJOS SOLO ESTÁN#  PUESTOS EN ARRESTAR.
 * ADIÓS.
-* You're making them cry,#  Axis!
-* Come on, now!
-* ROBOTS CANNOT CRY. I#  HAVE TRIED.
-* Well, it was worth a#  shot.
-* Plan C it is!
-* I AM IMMOBILE.
-* If you went with our#  surprise, it wouldn't#  have gotten messy.
-* DO NOT MOCK MY#  JUDGMENT.
-* I WILL RETURN TO#  CAPTURE YOU.
-* ...WITH NEW HANDS.
-* Phew, I'm spent.
-* Next chair we see, I'm#  taking a breather.
+* ¡Estás haciendo que#  llore, Axis!
+* ¡Detente ya!
+* LOS ROBOTS NO LLORAN.#  YO YA INTENTÉ.
+* Bue, valía la pena.
+* ¡Hora del plan C!
+* NO PUEDO MOVERME.
+* Si te hubieras quedado#  con la sorpresa, esto#  no se habría complicado.
+* NO TE BURLES DE MI#  JUICIO.
+* VOLVERÉ PARA#  CAPTURARLOS.
+* ...CON NUEVAS MANOS.
+* Phew, estoy exhausta.
+* En la próxima silla que#  veamos, me tomaré un#  descanso.
 steamworks_22_event_ceroba_guard
 in_bounds
 bounce_count
@@ -14921,12 +14938,12 @@ ring_object
 * (You find a discarded Hot Dog#  in the trash can.)
 * (You got a Hot Dog!)
 * (You're more of a cat person.)
-* Wait! Another robot!?
-* No way! We can't fight#  this thing!
-* What if Chujin built-
-* You know what? We'll#  talk later.
-* Let's find a peaceful#  way around them.
-* I'll do my best to#  provide defense for us.
+* ¡Espera! ¿¡Otro robot!?
+* ¡No puede ser! ¡No podemos#  pelear con esto!
+* Que tal si Chujo lo hi-
+* ¿Sabes qué? Hablaremos#  después.
+* Encontremos una forma#  pacífica de superarlo.
+* Haré lo mejor para#  protegernos.
 lantern_offset
 greyscale_intensity
 greyscale_overlay_alpha
@@ -16302,124 +16319,124 @@ update_talk_val
 map_entry
 gml_Script_multiple_lines_gml_Object_obj_ceroba_follower_Other_10
 gml_Script_update_talk_val_gml_Object_obj_ceroba_follower_Other_10
-* You better not be#  thinking about going#  back to the Dunes.
-* You might've loved the#  Wild East for all I know#  but we gotta focus.
-* Some other time, okay?
-* Hm, I wonder what these#  monitors' purpose was?
-* To greet workers on#  their way in?
-* I wouldn't know 'cause#  this is my first time#  here.
-* This place had a strict#  "no visitors policy" if#  you can believe it.
+* Más te vale no estar#  pensando en volver a#  las Dunas.
+* Seguro amaste Wild East#  por todo lo que sé pero#  debemos concentrarnos.
+* En otro momento, ¿okay?
+* Hm, me pregunto cuál era#  el propósito de estos#  monitores.
+* ¿Saludar trabajadores#  cuando entraban?
+* No puedo saberlo ya que#  es mi primera vez aquí.
+* Este lugar tenía una#  estricta política de# "no visitantes".
 * Oh hey...
-* This is the area where#  I was in charge for#  three seconds.
-* You're lucky I didn't#  let all that power go to#  my head.
-* We better hurry. Who#  knows how long this#  thing can hold up?
-* Surely they replaced it#  for a reason.
-* Is this what you messed#  with to fix the#  generator?
-* Surprised this#  old-fashioned tech still#  functions.
-* Doesn't look like#  there's anything#  important here.
-* Did you hear all those#  distant, metallic creaks#  when we entered?
-* I mean, is it even safe#  to walk in here?
-* The last thing our day#  needs is the floor#  giving way unexpectedly.
-I fell in a puddle
+* Esta es el área donde#  estuve a cargo#  por tres segundos.
+* Tienes suerte de#  que no dejé que se#  me suba a la cabeza.
+* Apurémonos. ¿Quién#  sabe cuánto pueda#  aguantar esta cosa?
+* Por algo fue#  reemplazada.
+* ¿Es con esto con lo que#  arreglaste el generador?
+* Me sorprende que esta#  tecnología antigua siga#  funcionando.
+* No parece que por aquí#  haya algo importante.
+* ¿Escuchaste esos sonidos#  metálicos a la distancia#  cuando entramos?
+* ¿Siquiera es seguro#  caminar por este lugar?
+* Lo último que nos falta#  es que el piso empiece#  a caerse de la nada.
+Caí en un charco
 * Ew...
-* These washers would#  make clothes dirtier by#  the looks of them.
-* When did you clean#  yours last?
-* Eh, close enough.
-* I'm not sure this is#  the right way...
-* Nice vaguely ominous#  machinery they got#  there.
-* Couldn't they have#  installed some lights?
-* Not even expensive#  lights.
-* Dangling a few Gyftmas#  strands would go a long#  way.
-* Spice things up, you#  know? Festive too.
-* This pink goop is#  really putting off heat!
-* It must be some sort of#  coolant but...
-* Why would they fill up#  so much space with#  coolant?
-* The machinery certainly#  isn't freezing any time#  soon now, so...
-* ...Job well done?
-* Let's move.
-* Wish there weren't so#  many broken walkways...
-* Bet this place was far#  easier to navigate#  before.
-* Hokay, we are really#  high up...
-* Ahem, I mean...
-* God-what's with that#  look?
-* I am not scared of#  heights of all things.#  Grow up.
-* What strange plants...
-* I didn't expect#  beautiful greenery but#  white?
-* Probably went overboard#  with the chemical#  experiments.
-* As a monster, they're#  most likely safe but for#  all we know...
-* ...you may already have#  a plethora of poisons in#  your system.
-* I would suggest#  limiting your breathing#  from now on.
-* Not enough that you die#  but you know, be frugal#  about it.
-* It sure is unsettling#  in here...
-* Let's get out of here.
-* So Axis is completely#  artificial intelligence?
-* Well... artificial at#  least.
-* Still, unemotional as#  he may be...
-* ...The fact he so#  closely resembles life#  is impressive.
-* Standing around won't#  get us to Hotland.
-* Vamos.
-* Keep a move on, Clover.
-* Bridges and rotting#  infrastructure don't#  exactly mesh well.
-* Stay alert.
-* Man, this place is#  huge.
-* I think the government#  ought to repurpose all#  this abandoned acreage.
-* I've heard that New#  Home is becoming#  overpopulated.
-* Throw up some suburbs#  here or something, that#  would solve it.
-* ...Maybe drain the lake#  of deadly liquid first,#  though.
+* Por como se ven, estos#  lavarropas más bien#  podrían ensuciarla más.
+* ¿Hace cuánto no#  lavas la tuya?
+* Eh, algo es algo.
+* No estoy segura de que#  este sea el camino...
+* Linda maquinaria#  ligeramente siniestra#  tienen aquí.
+* ¿No podían instalar#  algunas luces?
+* Ni siquiera luces muy#  costosas.
+* Colgar algunas luces#  Gyftmas podría ayudar#  mucho.
+* Lo haría más colorido,#  ¿sabes? Festivo también.
+* ¡Esta sutancia rosa#  realmente amaina el#  calor!
+* Debe ser algún tipo de#  sistema de enfriamiento#  pero...
+* ¿Por qué llenarían tanto#  espacio con esto?
+* La maquinaria ciertamente#  no va a congealarse#  pronto, asi que...
+* ... ¿Trabajo bien hecho?
+* Sigamos.
+* Esperaba que no hubieran#  tantos caminos rotos...
+* Apuesto que antes#  era mucho más fácil#  moverse por aquí.
+* B-bueno, estamos#  realmente muy alto...
+* Ahem, digo...
+* Dios, ¿por qué me miras#  así?
+* No temo a las alturas.#  Madura.
+* Que plantas extrañas...
+* No esperaba un hermoso#  verdor pero, ¿blanco?
+* Probablemente se les#  fueron de las manos#  los experimentos.
+* Como monstruos, seguro#  que están bien pero,#  con lo que sabemos...
+* ...quizás tú ya tengas#  muchos venenos distintos#  en tu sistema.
+* Sugeriría que limites#  tu respiración desde#  ahora.
+* No tanto como para#  morirte pero, ya sabes,#  sé precavido.
+* Este lugar en serio#  es inquietante...
+* Salgamos de aquí.
+* ¿Así que Axis es inteligencia#  artificial?
+* Bueno... artificial al#  menos.
+* Aún con lo no emocional#  que pueda ser...
+* ...el hecho de que#  parezca casi vivo#  es increíble.
+* Quedarse quieto no#  nos llevará a Hotland.
+* Vamos, Clover.
+* Así que Axis es#  inteligencia artificial..
+* Puentes e infraestructura#  podrida no combinan#  bien precisamente.
+* Mantente alerta.
+* Amigo, este lugar#  es enorme.
+* El gobierno debería#  darle algú uso a#  superficie abandonada.
+* Escuché que New Home#  está superpoblada.
+* Algunos suburbios aquí#  y otros por allá#  deberían arreglarlo.
+* ...Quizás drenar el#  lago de sustancia mortal#  primero.
 * New Home...
-* Boy could Chujin rant#  about that place.
-* It's a long story.
-* Politics, creatives#  being creatives... You#  know.
-* Let's keep up the#  progress, yeah?
-* I've heard of#  piggybacking on others#  to get ahead but...
-* ...Yeah, this is weird.
-* This facility is just#  full of characters, huh?
-* At least they aren't#  ALL trying to kill us.
-* I've thought of going#  back to turn the power#  off but...
-* ...not only would that#  lock us out again,
-* ...it would shut down#  any helpful bots like#  our friend outside.
-* All we can do is suck#  it up and push ahead.
-* Navigating all this#  junk is a bit of a maze,#  huh?
-* Even unintentionally,#  monsters can't help but#  leave puzzles behind.
-* Clover, you trust this#  guy?
-* He's selling you flora#  he scraped off the#  walls.
-* ...You don't care, do#  you?
-* ...Right. 
-* I do not understand#  humans.
+* Lo que se quejaría#  Chujin de ese lugar.
+* Larga historia.
+* Política, creativos#  siendo creativos...#  You know.
+* Sigamos con el#  progreso, ¿si?
+* He escuchado sobre#  montar en otro para#  que te lleven pero...
+* ...sep, suena mal.
+* Esta fábrica esta#  llena de personajes, ¿eh?
+* Por lo menos no#  TODOS tratan de matarnos.
+* He pensado en volver#  y apagar la energía#  pero...
+* ...no solo nos#  encerraría de nuevo,
+* ...también apagaría#  robots útiles como#  nuestro amigo de afuera.
+* Debemos aguantarnos#  y seguir adelante.
+* Navegar por toda esta#  basura es un poco,#  laberíntico, ¿huh?
+* Incluso sin intención,#  los monstruos simplemente#  dejan puzzles detrás.
+* Clover, ¿confías en#  este tipo?
+* Te está vendiendo flora#  que sacó de las#  paredes.
+* ...No te importa,#  ¿verdad?
+* ...Bien. 
+* No entiendo a los#  humanos.
 * Looks like this way's a#  dead end.
 * Heading west might be#  best.
 * Huh. Accidental rhyme.
 * Nice.
-* I won't fight if you#  wanna ride the ferry-bot#  more but...
-* ...I can't say I#  enjoyed myself on it.
-* Ya sabes... inches away#  from burning alive in#  glow stick juice.
-* While Axis is a#  problem...
-* I am glad Chujin was#  able to succeed in#  engineering.
-* I have no doubt he#  inherited the craft from#  his father.
-* Problem was, his father#  didn't exactly approve#  of "innovation."
-* Asgore's big expansion#  and the establishment of#  this facility...
-* Let's just say a rift#  grew between families.
-* However, Chujin was#  different. 
-* Saw the benefits of#  progress, even if it#  caused friction.
-* Still, he never#  discarded his lineage#  and how much it meant.
-* The best of both#  worlds, hm?
+* No te pelearé si#  quieres subir al ferry-bot#  de nuevo pero...
+* ...no puedo decir#  que lo disfruté.
+* Ya sabes... a centímetros#  de quemarte viva#  en un jugo luminoso.
+* Aunque Axis es un#  problema...
+* Me alegra que Chujin#  haya tenido éxito#  en ingeniería.
+* No tengo dudas que#  heredó el toque de#  su padre.
+* El problema fue que su#  padre no aprobaba la#  "innovación" precisamente.
+* La expansión de Asgore#  y el etablbecimiento de#  esta fábrica...
+* Digamos que generó una#  grieta entre familiares.
+* Sin embargo, Chujin era#  diferente. 
+* Vió los beneficios del#  progreso, incluso si#  causaba fricción.
+* Aún así, él nunca#  ignoró su linaje y lo#  mucho que significaba.
+* Lo mejor de ambos#  mundos, ¿hm?
 * Hey, um...
-* Don't you have folks? 
-* You know, on the#  Surface.
-* They'd be pretty#  worried by now, right?
-* I mean, I am in a#  similar boat so...
-* Too personal? Sorry.
-* Just thinking out loud.
-* When I'm older, I think#  I'll write a memoir.
-* Name a chapter: 'The#  Time a Pissed Off Robot#  Tried to Kill Me.'
-* It'll recount our great#  escape that happened#  here,
-* Reveal my genius locker#  trick,
-* And advise the reader#  to be in-shape before#  pissing off robots.
-* Seriously, I canceled#  my gym membership last#  year.
-* Lots of regret.
-* Better get going before#  someone or something#  finds us.
-* I feel things may only#  grow more complicated#  from here.
-* Keep your head high,#  Clover.
+* ¿No tienes amigos? 
+* Ya sabes, en la#  Superficie.
+* Deben estar realmente#  preocupados ahora, ¿no?
+* Osea, yo estoy en una#  situación similar...
+* ¿Muy personal? Perdón.
+* Solo estoy pensando en# voz alta.
+* Cuando sea mayor, creo#  que escribiré un remoir.
+* Nombraré un capítulo 'La#  vez que un robot enojado#  intentó matarme.'
+* Narrará nuestro gran#  escape acontecido#  aquí,
+* revelará mi genial idea#  del casillero y
+* recomendará al lector#  pensarlo bien antes#  de molestar robots.
+* En serio, cancelé mi#  membresía en el#  gimnasio el año pasado.
+* Me arrepiento mucho.
+* Mejor movámonos antes#  de que alguien o#  algo nos encuentre.
+* Siento que las cosas#  solo pueden complicarse#  más desde ahora.
+* Mantén tu cabeza en#  alto, Clover.
 * Questionar...
 * Have you slept at all#  since you arrived?
 * If not, I don't know#  how you keep up the#  energy.
@@ -17640,29 +17657,38 @@ mo_change_depth
 mo_menu_fall
 men_hsp
 men_vsp
+<<<<<<< Updated upstream
 * ¡Vamos, yo DEBO estar en#  la lista de invitados!
 * ¡Todos saben mi nombre!
 * En cualquier momento la#  rebotante memoria de mi#  volverá de una.
 * Me sorprende que esté#  tomando tanto.
 * Si todo falla, solo#  bailaré aquí afuera. Nadie#  puede detenerme.
 Natural skill
+=======
+* Come on, I GOTTA be on the#  guest list!
+* Everybody knows my name!
+* Any time now the bouncer's#  memory of me will come rushing#  back.
+* Surprised it's taking this#  long.
+* If all else fails, I'll just#  dance out here. No one could#  stop me.
+Don natural
+>>>>>>> Stashed changes
 Brick toys
-* You traveled with#  Martlet before the Wild#  East, right?
-* She's a bit of a#  tinkerer if I recall.
-* Did she teach you#  anything about building#  contraptions?
-* You seemed to know what#  you were doing...
-* ...to an extent.
-* Natural, eh?
-* Lotta tenacity for#  someone your age.
-* Then again...
-* Almost everything you#  do goes against the norm#  for kids your age.
-* You're an interesting#  one...
-* Brick toys? Like the#  little plastic ones?
-* I guess I can see how#  that would help.
-* My daughter loved those#  things when she was#  younger.
-* Not the complex sets#  with instructions, 
-* ...the bigger blocks#  she couldn't attempt to#  eat.
-* Suckers would still#  hurt when stepped on,#  though.
+* Viajaste con Martlet#  antes de llegar a Wild#  East, ¿verdad?
+* Ella es como una#  reparadora si recuerdo#  bien.
+* ¿Te enseñó algo de cómo#  construir cacharros?
+* Parecías saber lo que#  estabas haciendo...
+* ...hasta cierto punto.
+* Natural, ¿eh?
+* Cuanta tenacidad para#  alguien de tu edad.
+* Aunque...
+* Casi todo lo que haces#  va contra la lógica de#  alguien de tu edad.
+* Eres un niño interesante.
+* ¿Brick toys? Osea esos#  ¿ladrillos de plástico?
+* Supongo que veo#  como pudieron servir.
+* Mi hija amaba esas#  cosas cuando era#  más joven.
+* No los sets complejos#  con instrucciones sino, 
+* los bloques más grandes,#  los que no podía#  intentar comerse.
+* Aunque esas tonterías#  igual lastimaban si las#  pisabas.
 mo_leave
 mo_can_walk
 * ¿Qué es esto?
@@ -17765,7 +17791,7 @@ snip_sound
 * QUÉDATE AQUÍ, DEBO VOLVER#  A PATRULLAR.
 * ¿TIENE LA CAPACIDAD#  DE COOPERAR?
 * ¿O ESTÁS JUGANDO CONMIGO#  A PROPÓSITO?
-* DE CUALQUIER MANERA,#  ESTOY COMENZANDO A [realmente]#  ODIARTE.
+* DE CUALQUIER MANERA,#  ESTOY COMENZANDO A#  ODIARTE [realmente].
 toast
 swig
 shufflers_turn
@@ -18569,7 +18595,7 @@ wid
 bg_image_index
 layer_scroll_speed
 hotland_background_
-* (La puerta está#  bloqueada.)
+* (La puerta está bloqueada.)
 adt
 lava_tube_sep
 lava_tube_x
@@ -21414,15 +21440,15 @@ block_successful
 * Haz lo que puedas para#  que las cosas avancen#  y no te desvíes.
 * Espero que podamos#  hablar pronto.#  ¡Buena suerte, Clover!
 ball_delay_list
-* (There's food inside the#  machine.)
-* (You find a stick of beef#  jerky inside the machine.)
-* (You decide not to trust the#  mysterious washer food.)
-* (The chute is clogged with#  strange-looking plants.)
-* (It's clogged.)
+* (Hay comida adentro de#  la máquina.)
+* (Encuentras un trozo#  de carne en la máquina.)
+* (Decides no confiar en#  la misteriosa lavadora# de comida.)
+* (El conducto está obstruido#  por plantas extrañas.)
+* (Está obstruido.)
 * (Climb to the top?)
-* The generator has started#  working.
+* El generador se ha#  puesto en marcha.
 tile_alpha
-* The generator is already#  running.
+* El generador ya ha sido puesto#  en marcha.
 flicker_count
 * ERROR: COOLANT PRESSURE LOW
 * GENERATOR STATUS: UNSTABLE
@@ -21437,31 +21463,31 @@ steam_active
 steam_sound_played
 collision_counter_max
 collision_counter
-* You Tried in Engineering#  Award: Mr. Chujin Ketsukane
-* He never told me#  he won an award...
-* I'm proud of him.
-* INTRUDERS SPOTTED.#  STEAMWORKS: EASTERN#  BRANCH.
-* Wait! Who are you!?
-* You just said that.
-* MY VOCABULARY IS NOT#  EXPANSIVE, MA'AM.
-* Okay... Well, I wasn't#  expecting anyone to be#  here.
-* If you let us through,#  we'll be out of your#  hair.
-* ONE: I DO NOT HAVE#  HAIR.
-* TWO: I CANNOT ALLOW YOU#  TO PASS.
-* YOU HAVE TRESPASSED ON#  PRIVATE PROPERTY.
-* YOU HAVE ALSO UTILIZED#  MACHINERY WITHOUT#  PERMISSION. 
-* No, no! We're just#  heading to Hotland.
-* We aren't malicious in#  the slightest!
-* It was us who woke up#  this place. Isn't it#  nice to have power?
-* WHILE IT IS NICE TO BE#  OPERATIONAL AGAIN, IT IS#  ALSO NOT NICE.
-* I AM THE LAST OF MY#  KIND TO POLICE THIS#  AREA.
-* ALL OF MY COMRADES HAVE#  RUSTED OVER.
-* I ALWAYS KNEW I WAS THE#  BEST BUT I AM ALSO#  LONELY NOW. OH WELL.
-* I WILL NOW TRAP YOU IN#  A COLD, DARK ROOM, FOR#  WHICH YOU MIGHT PERISH.
-* My husband, Chujin,#  used to work here! I#  have permission!
-* Don't make me hurt you.
-* CHUJIN? MY CREATOR?
-* SORRY, I DO NOT SEE HIM#  PRESENT.
+* Premio Buen Intento en#  Ingeniería: Sr. Chujin Ketsukane
+* Nunca me dijo que#  ganó un premio...
+* Estoy orgullosa.
+* INTRUSOS ENCONTRADOS.#  STEAMWORKS: ZONA ESTE.
+* ¡Espera! ¿¡Quién eres#  tú!?
+* Acabas de decirlo.
+* MI VOCABULARIO NO ES#  ABUNDANTE, MA'AM.
+* Okay... Bueno, no pensé#  que alguien estuviera#  aquí.
+* Si nos dejas pasar, nos#  iremos sin tocarte#  un pelo.
+* UNO: YO NO TENGO PELO.
+* DOS: NO PUEDO DEJAR#  QUE PASEN.
+* HAN INVADIDO PROPIEDAD#  PRIVADA.
+* TAMBIÉN USARON#  MAQUINARIA SIN#  AUTORIZACIÓN. 
+* ¡No, no! Nosotros solo#  nos dirijimos a Hotland.
+* ¡No tenemos ninguna#  mala intención!
+* Fuimos nosotros los que#  encendimos esto. ¿No es#  genial tener energía?
+* AUNQUE ES BUENO#  FUNCIONAR DE NUEVO,#  TAMBIÉN ES MALO.
+* SOY EL ÚLTIMO DE MI#  TIPO PARA VIGILAR#  ESTA ÁREA.
+* TODOS MIS COMPAÑEROS#  SE HAN OXIDADO.
+* SIEMPRE SUPE QUE ERA#  EL MEJOR PERO AHORA ESTOY#  SOLO. OH BIEN.
+* VOY A ENCERRARLOS EN UN#  LUGAR FRÍO Y OSCURO.#  DONDE MORIRÁN.
+* ¡Mi esposo, Chujin,#  solía trabajar aquí!#  ¡Tengo autorización!
+* No me hagas lastimarte.
+* ¿CHUJIN? ¿MI CREADOR?
+* LO SIENTO, NO LO VEO#  PRESENTE.
 robot_part
 item_1_xx
 item_1_yy
@@ -21471,47 +21497,47 @@ item_3_xx
 item_3_yy
 item_4_xx
 item_4_yy
-* Ouch... Can't say I was#  prepared for that.
-* I knew my husband was#  an engineer but he never#  told me about that guy.
-* He'd vaguely mention a#  robotics project that#  could net him a#  promotion but...
-* He stopped talking#  about it after he quit#  his job here.
-* I would've used force#  to bypass "Axis" but I...#  I'm not sure now.
-* He may be the last#  remnant of Chujin's#  talent.
-* It would be best if we#  could just avoid him#  from now on...
-* In any case, I guess#  we're pretty lucky he's#  the only guard bot#  around.
-* Wait a second...
-* I have an idea!
-* He mentioned how he was#  "lonely" right? Well#  what if we fixed that?
-* We could use scraps#  lying around to forge a#  companion for him!
-* He doesn't seem too#  bright after all. Maybe#  that's all we need to#  distract him?
-* What do you think?
-* It's the best plan I#  could think of.
-* You got a better idea?
-* It'll be easy, trust#  me.
-* So... 
-* We seem to be in some#  sort of storage room.
-* Look around for parts#  we can use. Shouldn't#  take many.
+* Ouch... No puedo decir#  que me esperaba eso.
+* Sabía que mi esposo#  era ingeniero pero nunca#  me habló de ese robot.
+* Mencionaba un proyecto#  de robótica por el que#  lo ascecnderían pero...
+* Dejó de hablar de eso#  cuando renunció a este#  trabajo.
+* Iba usar la fuerza para#  pasar a "Axis" pero yo..#  No estoy segura ahora.
+* Podría ser el último#  remanente del talento de#  Chujin.
+* Sería mejor si podemos#  simplemente evitarlo por#  ahora...
+* Como fuere, supongo#  que tenemos suerte que#  sea el único guardia.
+* Un momento...
+* ¡Tengo una idea!
+* Mencionó que se sentía#  "solo", ¿verdad? Bueno,#  ¿y si cambiamos eso?
+* ¡Podemos usar chatarra#  para construirle un#  acompañante!
+* No se ve muy listo#  después de todo. Quizás#  baste para distraerlo.
+* ¿Qué piensas?
+* Fue lo mejor que#  se me ocurrió.
+* ¿Tienes una mejor idea?
+* Será fácil, confía.
+* Entonces... 
+* Parece que estamos en#  algún tipo de depósito.
+* Intenta buscar cosas#  que podamos usar. Con#  algunas debe bastar.
 player_carrying_item
-* You want to use this?
-Positive
-Negative
+* ¿Quiéres usar esto?
+Positivo
+Negativo
 editor_sprite
-* Grab something else#  then.
-* Okay, we'll need three#  more objects.
-* You think this'll work?
-Certain
-Uncertain
-* We don't have time to waste.
-* Alright, two more and#  we can make this thing.
-* Is this a good pick?
-Definitely
-* Make up your mind.
-* One more object should#  do the trick.
-* Is this your final#  choice?
-Yea
-Nay
-* Hurry it up then.
-* Okay, let's build a#  robot!
+* Busca otra cosa entonces.
+* Okay, necesitaremos#  tres objetos más.
+* ¿Crees que eso sirva?
+Seguro
+No lo sé
+* No perdamos tiempo.
+* Muy bien, dos más y#  podemos hacer esto.
+* ¿Buena elección?
+Obvio
+* Aclara tu mente.
+* Un objeto más hará la#  magia.
+* ¿Esta es tu elección#  final?
+Seh
+Nah
+* Apura entonces.
+* ¡Okay, hagamos un robot!
 robot_item
 robot_part_current
 robot_part_xx
@@ -21520,22 +21546,22 @@ xbound_left
 xbound_right
 ybound_top
 ybound_bottom
-* He'd mention a robotics#  project that could net#  him a promotion but...
-* In any case, we're#  pretty lucky he's the#  only guard-bot around.
-* He doesn't seem too#  bright after all. 
-* Maybe that's all we#  need to distract him?
-* Find anything that looks#  like a makeshift body#  part.
-* I don't know, be#  creative.
+* Mencionaba un proyecto de#  robótica por el que#  lo ascecnderían pero...
+* Como fuere, tenemos#  suerte de que sea el#  único guardia por aquí.
+* No parece muy listo#  después de todo. 
+* ¿Quizás con eso basta#  para distraerlo?
+* Encuentra algo que#  se vea como parte#  de un robot.
+* Yo que sé, sé creativo.
 robot_part_inside_zone
 overworld_robot_sprite
 new_image_index
 max_points
-* That takes care of#  that.
-* You're kinda creative#  when push comes to#  shove.
-* All due respect to#  Chujin's work but this#  might just fool Axis.
-* I'll hold onto it for#  you.
-* Let's get outta here,#  yeah?
-* (Just some useless scrap.)
+* Con eso debería quedar.
+* Eres un poco creativo#  cuando las cosas se#  complican.
+* Respeto al trabajo#  de Chujin pero esto#  debería engañar a Axis.
+* Yo lo llevo por ti.
+* Salgamos de aquí, ¿si?
+* (Solo basura inútil.)
 * (Varios atuendos de Ceroba#  colgados en el armario.)
 * (Alcanzas a ver la ropa#  de alguien mas escondida#  en la fila frontal.)
 * Ceroba sabe que le gusta,#  ¿huh?
@@ -21579,23 +21605,23 @@ butt2_yy
 butt2_width
 butt2_height
 butt2_color
-* Perfect! You made#  nothing!
-* At least put a LITTLE#  effort into this.
-* All done?
-* Outstanding work.#  Really.
-* You reeally stretched#  yourself on this one,#  huh.
-* It's simple but#  recognizable. Not bad.
-* Hmm... It's a little#  busy but should work.
-* Um, I'm not sure about#  this design but okay...
-* It's uh... something#  alright. I'm sure Axis#  will love it...
+* ¡Perfecto! ¡Hiciste#  nada!
+* Por lo menos pon#  UN POCO de esfuerzo# en esto.
+* ¿Todo listo?
+* Impresionante.#  En serio.
+* Realmente te#  esforzaste haciendo#  este, huh.
+* Es simple pero#  reconocible. Nada mal.
+* Hmm... Está un poco#  cargado pero debería#  funcionar.
+* Um, no estoy segura#  de este diseño pero#  bueno...
+* Es uh... algo#  correcto. Seguro que Axis#  lo amará...
 soul_speed
 robot_item_rotate_dir
 robot_item_is_destroyed
 robot_item_is_rotating
 rotate_key
 rotate_key_released
-* Hold on! That's far too#  easy of an escape.
-* Don't be reckless,#  we'll find another way#  out.
+* ¡Espera! Eso sería una#  salida muy obvia.
+* No seas temerario,#  encontraremos otra#  forma de escapar.
 * Wow, he caught you.#  Shocker.
 * What are you trying to#  accomplish?
 * Come on, stick to the#  plan!
@@ -21613,27 +21639,27 @@ warning_col
 warning_draw
 warning_count
 smoke
-* Can't say that was fun.
-* Let's be extra cautious#  from now on, okay?
+* Eso no fue divertido.
+* Seamos muy cautelosos#  desde ahora, ¿okay?
 * They're gone.
 * Sigh... This is so#  confusing...
 * I thought Axis said he#  was the last of his#  kind?
 * Wait... he introduced#  himself as "Model 014".
 * Guess we're lucky only#  one still functions,#  huh.
 * Just... be extremely#  careful.
-* Ugh, it's a dead end.
-* It looks like we're#  gonna have to-
+* Ugh, sin salida.
+* Parece que tendremos#  que vol-
 move_in_direction
 manta_state
-* The-The-The floor is lava,#  travelers!
-* I am sorry to say I failed the#  game some time ago-bzzt. 
-* H-However-r, you do not have#  to! I will ferry you across the#  lake-bzzt!
-* This bot doesn't seem#  malicious. That's new.
-* I say we give it a go.
-* Thank you for your tr-trust!
-* With my help, the floor will#  not be lava, it will just be#  floor-bzzt.
+* ¡El-el-el piso es lava,#  viajeros!
+* Lamento decir que perdí#  ese juego hace rato-bzzt. 
+* S-sin embargo, ¡ustedes no#  tienen por qué! ¡Los#  llevaré-bzzt!
+* Este robot no parece#  ofensivo. Eso es nuevo.
+* Yo digo que le demos#  una chance.
+* ¡Gracias por su#  co-confianza!
+* Con mi ayuda, el piso#  no será lava.#  ¡Será solo piso!
 manta_prompt
-* The-The-The floor is lava,#  traveler!
+* ¡El-el-el piso es lava,#  viajeros!
 manta_dir
 manta_speed
 manta_has_passengers
@@ -21652,7 +21678,7 @@ arrows_frame
 arrow_size
 arrow_color
 manta_get_on_noloop
-* (Take a ride?)
+* (¿Subirse?)
 check_distance
 hor_dir
 ver_dir
@@ -21666,10 +21692,10 @@ npcx
 npcy
 dir_prio
 follower_arrived
-* You h-ave reached your#  destination-bzzt.
-* Thanks for the help.
-* Let's keep moving,#  Clover.
-* If you need another#  r-ride, I'll be#  here......bzzt.
+* Ll-llegamos a su#  destino-bzzt.
+* Gracias por tu ayuda.
+* Sigamos, Clover.
+* Si necesitan otro#  v-viaje, estaré por#  aquí......bzzt.
 pl_xx
 pl_yy
 fl_xx
@@ -21677,36 +21703,36 @@ fl_yy
 arrow_size_multiply
 color_mult
 spawn_dir_wave_inc
-* (The topmost paper is a#  handwritten letter.)	
-* To: King ASGORE.	
-* This project, while exciting,#  will be quite the undertaking.	
-* We will need Mining Co. to#  work overtime to provide the#  necessary materials.	
-* Furthermore, a meeting was#  conducted at the Factory.	
-* I'm happy to report that#  everyone is on board!	
-* There already are many great#  robot ideas floating about.	
-* Cooking, cleaning, recreation;#  the motivation is through the#  roof!	
-* Though... one engineer#  suggested we take this further#  with a "protection bot."	
-* I am quite unsure about that#  proposition but you have the#  final say.	
-* In any case, we will see this#  completed.	
+* (El papel de arriba#  es una carta manuscrita.)	
+* Para: Rey ASGORE.	
+* Aunque emocionante, este#  proyecto será demandante.	
+* Necesitarmoes que Mining Co.#  trabaje horas extra#  para proveer los materiales.	
+* Además, se llevó a#  cabo una reunión en# la Fábrica.	
+* ¡Me alegra reportar#  que todo el mundo esta#  a bordo!	
+* Ya hay varias ideas#  de robots pensadas.	
+* Cocina, limpieza, recreación;#  ¡la motivación está#  por los aires!	
+* Aunque... un ingeniero#  que vayamos más allá#  con un "robot protector."	
+* No estoy seguro de#  esta proposición pero#  usted es la última palabra.	
+* Como fuere, esto se#  completará.	
 * - Prof. Z.
-* (The paper underneath reads:)	
-* Project: Metal & Magic:	
-* Effective immediately, cease#  home utility production at the#  Factory-	
-* (The rest of the page is#  redacted.)
-* Tick-tock - tick-tock -#  tick-tock...
-* The current time is 6:26,#  Monday morning!
-* You may have noticed the#  apple trees outside the#  Steamworks are blooming.
-* That means Spring is upon us! 
-* This time of year, my creator#  recommends a picnic by the#  river just south of here!
-* Why the puzzled look? Have we#  not met before?
-* I am the Grandfather Clock of#  the Underground!
-* It is my responsibility to#  keep the standard time for all#  monsters.
-* However, I cannot help but#  feel there is a miscalculation#  in my tick-tocking.
-* It is simply driving me mad!
-* I do not sense the gears#  turning within these walls.
-* Hm, yes, I believe the main#  clock face outside has stalled!
-* An engineer should arrive to#  fix it soon.
-* Do not worry, I will continue#  to keep the time!
+* (El papel debajo dice:)	
+* Proyecto: Metal y Magia:	
+* Efecto inmediato, cese#  de producciones#  en la Fábrica-	
+* (El resto de la página#  es ilegible.)
+* Tic-toc - tic-toc -#  tic-toc...
+* La hora actual es 6:26,#  ¡mañana del Lunes!
+* Quizás haya notado que#  los manzaneros afuera de#  Steamworks estan floreciendo.
+* ¡Eso significa que# la primavera llegó! 
+* ¡En esta época mi creador#  recomienda un picnic a#  las orillas del río!
+* ¿Por qué esa mirada? ¿No#  nos vimos antes?
+* ¡Soy el Abuelo Reloj#  del Subsuelo!
+* Es mi responsabilidad#  informar la hora estándar#  a todos los monstruos.
+* Sin embargo, no puedo#  evitar sentir que hay#  un error de cálculo.
+* ¡Me esta volviendo loco!
+* No siento los engranajes#  moviéndose en las paredes.
+* Hm, si, ¡creo que el#  reloj central afuera#  se ha detenido!
+* Un ingeniero debería#  arreglarlo pronto.
+* No se preocupe, ¡seguiré#  informando la hora!
 * It's ya boy, Mo!
 * How did I get here?
 * I got contacts, aight? Eyes#  all over the 'Ground.
@@ -23671,9 +23697,9 @@ liquid_hcurrent
 liquid_hdest
 liquid_speed
 liquid_inc
-* (You find 60G in the trash can.)
-* (You got 60G!)
-* (Only trash left.)
+* (Encuentras 60 de oro# en la basura.)
+* (¡Obtienes 60 de oro!)
+* (Solo queda basura.)
 can_drop
 random_dir
 angle_inc
