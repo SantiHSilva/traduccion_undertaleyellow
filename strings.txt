@@ -2002,7 +2002,7 @@ info
 * (A perfect shot deals#  extra damage.)
 * "Glass Ammo" - Weapon AT 5#* (Literal shards of glass.#  Yep.)
 * (Restores 2 HP after every#  attack.)
-* "Maiz de caramelo" - cura 9 HP#* (Te duelen los dientes de#  solo mirarlo.)
+* "Maiz de caramelo" - Cura 9 HP#* (Te duelen los dientes de#  solo mirarlo.)
 * "Corn Dog" - Restores 12 HP#* (A genuine Corn Dog with#  soft, fluffy ears.)
 * "Patch" Armor DF 0#* (It's not strong but it's#trustworthy.)
 * "Feather" - Armor DF 2#* (An old, forgotten feather.#* It needs a good preening.)
@@ -6031,10 +6031,10 @@ Grants
  PP#* (Makes you invulnerable#  for a pear of hits.)
  SP
 * (Halves the weight of your soul, giving you a speed boost for three enemy attacks.)
-Cura 15 HP for 3 turns
+Cura 15 HP por 3 turnos
 The first bite hurts for 5 HP.
 Weapon AT 
-#* (No description.)
+#* (No descripción.)
 Armor DF 
 Ammo AT 
 #* (Small, safe, non-toxic#  rubber pellets.)
@@ -10535,8 +10535,8 @@ wrap_around
 goggles
 gun
 hat
-* Somebody calls for help...
-   * You answer the call.
+* Alguien pide ayuda...
+   * Respondes a la llamada.
 offset
 camera_border_y
 camera_border_x
