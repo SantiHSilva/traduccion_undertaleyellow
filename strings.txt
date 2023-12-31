@@ -1159,14 +1159,14 @@ save_count
 * Play it cool from here#  on out, will you?
 * We need to reach the#  Castle.
 * The King awaits...
-* Quite the turn of#  events, huh?
-* Well good thing I'm on#  the winning side, haha!
-* I bet you'll handle#  Ceroba like it's#  nothing!
-* Best be heading to#  Hotland!
-* Who knows how long ya#  got?
-* You know that elevator#  at the end of the#  Steamworks?
-* I believe it's your#  ticket!
-* Let's deal with that#  backstabber already!
+* Que giro de eventos,#  ¿huh?
+* ¡Que bueno que estoy#  en el equipo vencedo,#  jaja!
+* ¡Apuesto a que podrás#  con Ceroba como si#  nada!
+* ¡Hay que ir a#  Hotland!
+* ¿Quién sabe cuánto#  tiempo tienes?
+* ¿Conoces ese elevador#  al final de#  Steamworks?
+* ¡Creo que ese es tu#  ticket!
+* ¡Vamos a lidiar con#  la traicionera de una#  vez!
 gml_Script_scr_save_flowey_endgame
 scr_save_flowey_endgame
 Dunebud Chase Tumbleweeds
@@ -9584,36 +9584,36 @@ furnace_number
 DoorOpen
 * (Plantas de bambú bien#  cortadas.)
 new_room
-* The Founder's Crest
-* "Decisive. Devoted.#  Determined."
-* (You open the drawer...)
-* (It's empty.)
-* (You stare at your reflection#  in the sink water...)
-* (The many trials you've#  endured have taken their toll#  on your appearance.)
-* (A reminder of your duties#  back home.)
-* (Part of you wonders how#  everyone is doing, but the#  other part has moved on.)
-* (An old-fashioned gas oven,#  best kept turned off.)
-* (Wouldn't want a house fire.)
+* La Cresta del Fundador
+* "Decisivo. Devoto.#  Determinado."
+* (Abres el cajón...)
+* (Está vacío.)
+* (Quedás viendo tu reflejo#  en el agua del#  fregadero...)
+* (Las varias pruebas que#  has aguantado ya se#  reflejan en ti.)
+* (Un recuerdo de tus#  obligaciones en casa.)
+* (Una parte de ti se pregunta#  como estarán todos, pero la#  otra parte paso página.)
+* (Un viejo horno de as,#  es mejor dejarlo#  apagado.)
+* (No quisieras casuar un#  incendio.)
 flashback_effect
 layer_enable_fx
-* (The bed is tidily made.)
-* (Doesn't look like it's been#  used in a long time.)
-* (Nothing but old pens and#  pencils.)
-* (You search the drawers...)
-* (Just some knickknacks of#  various shapes and sizes.)
-* (Dozens of books line the#  shelves.)
-* (History, engineering,#  chemistry... All too advanced#  for you.)
-* (A thick, degraded book sticks#  out from the others.)
-* "Home: Blueprints and#  Annotations - Ketsukane"
-* (Forgotten fragments of#  various robots.)	
-* (All of their soulless eyes#  stare through you.)
-* (A cobweb-ridden box of#  scraps.)
-* (A drawer full of#  videotapes.)	
-* (A label on the front reads:#  "Legacy."
-* (A prototype of a familiar#  face rests on the shelf.)
-* (On the shelf sits many books,#  theses, and illustrations of#  science...)	
-* (...Most on the subject of#  humans and their SOULs.)
-* (Dozens of crumpled up#  formulas lie in the bin.)
+* (La cama está#  ordenadamente hecha.)
+* (Parece que no ha sido#  usada hace tiempo.)
+* (Nada mas que viejos#  bolígrafos y lápices.)
+* (Investigas los cajones...)
+* (Solo algunas chucherías de#  varias formas y tamaños.)
+* (Docenas de libros alineados#  en las estanterías.)
+* (Historia, ingeniería,#  química... Todo es muy#  avanzado para ti.)
+* (Un grueso y degradado libro#  resalta de todos los#  demás.)
+* "Hogar: Planos y#  Observaciones - Ketsukane"
+* (Fragmentos de varios#  robots olvidados.)	
+* (Sus ojos sin alma te#  quedan viendo.)
+* (Una caja llena de#  telarañas llena de#  borradores.)
+* (Una repisa llena de#  cintas de vídeo.)	
+* (Una etiqueta al frente deice:#  "Legado."
+* (Un prototipo de una cara#  familiar yace en la#  repisa.)
+* (En la repisa hay varios libros,#  eso, e ilustraciones de#  cienca...)	
+* (...Mas que nada acerca#  de ALMAs de humanos y de#  monstruos.)
+* (Docenas de fórmulas apiladas#  dentro del tacho.)
 * (A map of your current#  location sits above the#  bench.)	
 * (The Underground is so much#  larger than you imagined...)
 * (A sturdy park bench.)
@@ -9706,7 +9706,7 @@ static_flicker
     Buenos días, al habla Chujin.
    No tengo mucho tiempo estos#   días para hacer un diario, asi#   que opté por grabar un video.
     No tengo idea de quien verá#    esto, pero lo veo mejor para#    documentar mi trabajo.
- Eso es todo por ahora. Me despido.
+ Eso es todo por ahora.#    Me despido.
          Al habla Chujin...
   Hoy viajé a Snowdin con#  mi hija por negocio ocasional.
   Mientras estaba ocupado, Kanako#  fue a jugar con un residente.
@@ -9721,14 +9721,14 @@ Unos cuantos ciudadanos corrieron#hacia mi diciendo que un humano#había entrado
     ¡Esto no puede seguir así!
    A partir de hoy, estaré buscando#   una manera de parar esta#   injusticia de una vez por todas.
   Al habla Chujin con noticias#  desafortunadas...
- Fui... despedido de mi posición# de ingeniero.
+ Fui... despedido de mi posición# como ingeniero.
    ¡He puesto todo de mi en el#   proyecto pero no fue#   suficiente!
   ¡La programación estaba rota pero#  sé que podría haberla arreglado#  con unas iteraciones más!
    ¡¿Por que soy castigado por#   intentar tomarme nuestros#   problemas en serio?! 
   ...Me siento como si yo fuera el#  único que no ha olvidado o que no  #  vive en la ignorancia...
    Le he dicho a Ceroba que me#   retiré. No puedo dejar que#   ella piense menos de mi.
   Pero basta de eso... ya está#  en el pasado. 
-    Debo vivir en el presente#    y planear en el futuro.
+    Debo vivir en el presente#    y planificar el futuro.
    Probar de que puedo salvar a#   los monstruos... de otra#   manera.
           Al habla Chujin.
  Tras años de búsqueda, ¡he hecho# un avance!
@@ -9746,12 +9746,12 @@ Esto significa que mi ALMA es mucho#más fuerte que las de los otros#monstruos.
       Debo hacer más pruebas.
 chujin_tapes_effects
        Al... Al habla Chujin.
-   Me temía que esto podría pasar.#   La ciencia es un juego#   peligroso.
+   Temía que esto podría pasar.#   La ciencia es un juego#   peligroso.
   Tontamente, he experimentado#  conmigo mismo... varias veces.
 Una y otra vez, el sujeto rechazaba#la fusión, y creo saber por qué.
                 ...
           Seré directo.... 
-  Mi ALMA ha sido deteriorada y no#  sé cuanto tiempo me queda.
+  Mi ALMA se ha deteriorado y no#  sé cuanto tiempo me queda.
    Sin embargo... creo que mi#   teoría es más fuerte que nunca.
    Este es un mensaje para mi#   querida Ceroba:
    Esta búsqueda está en tus manos.#   Nadie más debe escuchar esto.
@@ -9969,12 +9969,12 @@ layer_instance_get_instance
 fire_pellets
 pellet_number
 pellet_multiplier
-* (Expertly organized#  files, labeled with#  numerous monster names.)
-* Did he keep records of#  everyone he befriended?
+* (Archivos profesionalmente#  ordenados, etiquetados con#  varios nombres de monstruos.)
+* ¿Acaso registró a todos#  los que fueron amigos#  de él?
 * Sandra, Luis, Dr. Fish,#  Rosa, Martlet...
-* Wait, Martlet???
-* He found another#  monster with my name???
-* I can't believe that#  never came up!#
+* Espera, ¿¿¿Martlet???
+* ¿¿¿Encontró a otro#  monstruo con mi nombre???
+* ¡No puede ser que nadie#  haya hablado de eso!#
 hit_flash
 hp_self
 target_distance
@@ -10069,77 +10069,77 @@ correct_item
 * Desearía que Chujin me#  hubiera invitado a venir#  en aquellos días.
 * Esta casa es#  increíble... 
 * ¡Uh-Sí! Entremos y#  veamos el porque de#  tanta conmoción.
-* So, you figured it out?
+* Así que, ¿lo descifraron?
 * ...Sí.
-* Ceroba was trying to#  carry out a plan Chujin#  left for her.
-* Something involving#  Clover's SOUL and a Boss#  Monster SOUL...
-* ...Which happens to#  reside in Kanako.
-* What the...#  So she lied to us?
-* About the mission to#  retrieve Kanako?
-* She wasn't lying about#  finding Kanako. 
-* ...That's the alarming#  part.
-* So Kanako is alive and#  well? Thank goodness...
-* Alive? Am I missing#  something?
-* It's a long story...#  She fell down some time#  ago.
-* Ceroba sent her to the#  Lab in hopes to remedy#  the situation.
-* I had no idea...
-* Okay. Where was the#  last place you saw#  Ceroba go, Ed?
-* You ain't takin' Clover#  straight to her, are ya?
-* That's exactly what she#  wants, right?
-* Yeah, Clover needs to#  stay safe with us! 
-* She can't accomplish#  her goal if Clover's#  nowhere to be found!
-* We aren't going to let#  her accomplish her goal.#  And anyway...
-* The Wild East is a#  tourist destination -#  a public place.
-* My colleagues probably#  know a human is in the#  Underground by now.
-* If Clover stayed here#  they would eventually#  tear the town up!
-* Better to be on the#  move, yeah?
-* I-
-* Look, I need to fly#  ahead to scout out the#  situation.
-* So, again, where did#  the two go?
-* I don't think
-* Clover, you were there.
-* Where did they go?
-* That lines up...#  Hotland it is.
-* Hey, I gave Star my#  word!
-* Let them do it, Ed. 
-* Clover is the only one#  who can put this to#  rest.
-* ...Alright.
-* They took the westmost#  elevator in the#  Steamworks.
-* You can use a laundry#  chute to get there#  quicker.
-                laundry#  chute                        
-* That elevator's#  destination sits near#  the CORE...
-* Ask around if someone#  spotted which direction#  they went from there.
-* Wait, we need to go#  too, right?
-* You need all the help#  you can get!
-* Appreciate the offer#  but please don't. This#  might get dangerous.
-* Stay here and keep the#  townsfolk happy like you#  always have.
-* ...Okay. But please be#  safe!
-* I'll try. Thanks for#  all of your help.
-* ...Even if you locked#  me in a jail cell for#  hours on end.
-* Hey, what are friends#  for?
-* I can think of a few#  things... I mean-yeah,#  no problem!
-* Clover, meet me on the#  rooftop of UG Apartments#  asap.
-                                      UG Apartments        
-* We'll figure this out,#  I promise!
-* I uh... wish you luck#  with this, seriously.
-* Yeah, I bet we'll all#  be catching bandits#  again shortly!
-* I'll be sure to save#  you a spot at our next#  nap time!
-* Just don't do anything#  stupid.
-* See ya later... Deputy.
-* Long time no see,#  buddy!
-* I've been wantin' to#  tell ya something.
-* It's been weighing on#  my mind so I truly mean#  it when I say...
-* Told ya so!
-* Haha, sorry! Couldn't#  pass that up!
-* Now I know this is the#  part I tell you to#  ignore Ceroba but...
-* I have a strong feeling#  that wouldn't sway you#  at this point.
-* Honestly, I'm starting#  to wanna see this play#  out!
-* After all...
-* That fox wants to waste#  your SOUL on a science#  fair project!
-* No good!
-* I'm in your corner like#  I've always been so#  don't worry!
-* We'll get rid of her#  and continue down our#  path, easy peasy!
-* It'll all work out in#  the end, pal! 
+* Ceroba intentaba terminar#  un plan que Chujin le#  dejó.
+* Algo involucrando el#  ALMA de Clover y un#  ALMA de un Jefe Monstruo...
+* ...El cual justo#  proviene de Kanako.
+* Pero que...#  ¿Así que nos mintió?
+* ¿Acerca de la misión#  de recuperar a Kanako?
+* Ella no mentía acerca#  de encontrar a Kanako. 
+* ...Eso es lo más#  alarmante.
+* ¿Así que Kanako está#  viva y bien? Gracias a#  Dios...
+* ¿Viva? ¿Me perdí de#  algo?
+* Es una larga historia...#  Ella cayó enferma#  tiempo atrás.
+* Ceroba la mandó al Lab#   esperando poder remediar#  la situación.
+* No tenía idea...
+* Okei. ¿Dónde fue el#  último lugar que viste#  a Ceroba ir, Ed?
+* Nos vas a llevar a#  Clover directo a ella,#  ¿verdad?
+* Eso es exactamente lo#  que ella quiere, ¿cierto?
+* ¡Sí, Clover necesita#  estar seguro con#  nosotros! 
+* ¡No puede cumplir su#  objetivo si Clover está#  oculto!
+* No vamos a dejar que#  cumpla su objetivo.#  Y de todas formas...
+* Wild East es un#  destino turístico-#  un lugar público.
+* Mis colegas ya han de#  saber que un humano está#  en el Subuelo.
+* ¡Si Clover se queda#  aquí, eventualmente#  desmantelarían el pueblo!
+* Es mejor ir avanzando,#  ¿sí?
+* Yo-
+* Miren, tengo que volar#  para explorar la#  situación.
+* Así que, de nuevo, ¿a dónde#  fueron los dos?
+* No creo que
+* Clover, tú estuviste#  ahí.
+* ¿A dónde fueron?
+* Eso concuerda...#  a Hotland entonces.
+* ¡Hey, le dí mi palabra#  a Star!
+* Déjalos hacerlo, Ed. 
+* Clover es quien podrá#  ponerle un fin a#  esto.
+* ...Esta bien.
+* Ellos tomaron el#  elevador hacia el oeste#  de Steamworks.
+* Pueden usar el conducto#  de la lavandería para#  llegar más rápido.
+                 conducto#  de la lavandería                        
+* El destino de ese#  elevador queda cerca del#  NÚCLEO...
+* Pregunten si alguien vió#  a que dirección fueron#  desde allá.
+* Espera, nosotros también#  tenemos que ir,#  ¿cierto?
+* ¡Necesitan toda la ayuda#  posible!
+* Aprecio la oferta pero#  pero no vengan. Esto#  puede ser peligroso.
+* Quédense aquí y hagan#  feliz al pueblo como#  siempre lo han hecho.
+* ...Okei. ¡Pero por favor#  estén seguros!
+* Lo intentaré. Gracias#  toda su ayuda.
+* ...Incluso si me#  encerraron en una celda#  durante horas.
+* Hey, ¿para que son#  los amigos?
+* Yo puedo decir algunas#  cosas... ¡digo-sí,#  no hay problema!
+* Clover, búscame en el#  techo de los SS#  Apartamentos de inmediato.
+                                       SS#  Apartamentos        
+* Averiguaremos todo#  esto, ¡lo prometo!
+* Yo uh... te deseo#  suerte con esto,#  en serio.
+* ¡Sí, apuesto a que#  atraparemos bandidos de#  nuevo pronto!
+* ¡Me aseguraré de#  guardarte un puesto en#  el siguiente descanso!
+* Solo no hagas nada#  estúpido.
+* Nos vemos... Diputado.
+* ¡Mucho tiempo sin#  verte, amigo!
+* He querido decirte#  algo.
+* Ha estado demasiado#  en mi cabeza así que#  créeme cuando digo...
+* ¡Te lo dije!
+* ¡Jaja, perdón! ¡No#  podía dejar pasar#  esa!
+* Esta es la parte en#  que te digo que ignores#  a Ceroba pero...
+* Tengo una fuerte corazonada#  de que eso no te#  va a persuadir.
+* ¡Honestamente, quiero ver#  como terminará todo#  esto!
+* Después de todo...
+* ¡Esa zorra quiere#  desperdiciar tu ALMA#  en un proyecto!
+* ¡Nada bueno!
+* ¡Estoy siempre cubriendo#  tu espalda así que#  no te preocupes!
+* Nos libraremos de ella#  y continuaremos nuestro#  camino, ¿facilísimo verdad?
+* ¡Todo saldrá bien al#  final, amigo! 
 * (You open the storage cabinet#  and find some Dihydrogen#  Monoxide.)
 * (There's some water inside.)
 * (¿Tomarlo?)
@@ -10710,75 +10710,75 @@ instance_activate_object
 overlay_2
 circle_alpha
 white_overlay_radius
-* Ugh...
+* Agh...
 * Ceroba...
-* Where is Ceroba!?
-* Clover, where did she#  go?
+* ¿¡Dónde está Ceroba!?
+* Clover, ¿Dónde se fue?
 Lo siento
 peep
 * Tú...
-* Sorry...?
-* You didn't.
-* You couldn't.
-* She just ran away.
-* She ran to the lab,#  right?
-* Wh...
-* Where am I...?
-* Are you...
-* I'm so sorry.
-* We should've been here#  to help.
-* Help...?
-* No one wanted it to end#  this way but...
-* But what!?
-* What the hell did#  Ceroba do to deserve#  this!?
-* I didn't say she#  "deserved" anything but#  come on!
-* Look what she did to#  us, and more#  importantly,
-* What she was planning#  to do to Clover and#  Kanako!
-* She was clearly
-* She was lost!
-* In her mind there was#  no other choice!
-* All anyone ever sees is#  what they want to see.
-* They never stop to#  consider the "why."
-* Maybe to you, she was#  only some violent threat#  but...
-* Beneath the crisis, I#  saw her for who she#  truly was.
-* A compassionate,#  hardworking mother who#  lost everything.
-* Her hopes, her dreams...
-* I knew her.
-* I knew her more than#  anyone.
-* She could've been#  talked down. Forgiven#  even. 
-* But she wasn't given#  the chance.
-* We tried. For a long#  time. 
-* We wanted peace.
-* You saw it.
-* Even when things#  escalated, we attempted#  to flee.
-* But she wanted us dead.
-* Going as far to back#  Clover into a corner,#  forcing them to...
-* You're a lawman, right?
-* I'm sorry but...
-* Under these#  circumstances... Clover#  was just.
-* I don't know what#  "just" means anymore.
-* What's right, what's#  wrong...
-* Who cares...
-* All I know is that Yo...#  I lost my best friend#  tonight.
-* And the wind...
-* It blew the dust away.
-* Like she didn't even#  matter...
-* To the law, maybe you#  are justified in what#  you've done.
-* But to me... you're#  lower than dirt.
-* I could report your#  location...
-* Or try to get#  revenge...
-* But I know that would#  only spell more trouble#  for me.
-* All I can do now is ask#  myself why.
-* Why did I hesitate to#  fire that last bullet?
-* I'm... sorry you had to#  go through all of this.
-* Maybe if we took a#  different route in#  Waterfall...
-* Made different#  choices...
-* You wouldn't have been#  put in this situation.
-* This spiraled way out#  of control but...
-* There's no changing it#  now.
-* Only thing left to do#  is get you home.
-* You deserve it.
-* Let's go to the Castle.
+* ¿Lo sientes...?
+* No.
+* No pudiste.
+* Ella sólo escapó.
+* Ella corrió al#  laboratorio, ¿Cierto?
+* Dónde...
+* ¿Dónde estoy...?
+* Estás...
+* Lo siento tanto.
+* Deberíamos haber estado#  aquí para ayudar.
+* ¿Ayudar...?
+* Nadie quería que terminara#  de este modo pero...
+* ¿¡Pero qué!?
+* ¿¡Qué demonios hizo#  Ceroba para merecer#  esto!?
+* ¡No dije que#  "mereciera" nada pero#  vamos!
+* Mira lo que nos hizo,#  y más importante, 
+* ¡Lo que planeaba hacer#  con Clover y Kanako!
+* Ella claramente
+* ¡Ella estaba perdida!
+* ¡En su cabeza no había#  otra opción!
+* Todo lo que cualquiera#  ve es siempre lo#  que quieren ver.
+* Nunca paran a considera#  el "porqué".
+* Quizás para ti, ella#  era sólo una amenaza#  violenta pero...
+* Debajo de la crisis,#  la ví por quien#  realmente era.
+* Una madre trabajadora y#  compasiva que#  lo perdió todo.
+* Sus esperanzas, sus#  sueños...
+* La conocía.
+* La conocía más que#  a nadie.
+* Podrías haber hablado#  con ella. Incluso#  perdonarla.
+* Pero no le dieron la#  oportunidad.
+* Lo intentamos. Por#  mucho tiempo.
+* Queríamos paz.
+* Lo viste.
+* Incluso cuando las#  cosas escalaron, intentamos#  huir.
+* Pero nos quería muertos.
+* Yendo tan lejos como#  acorralar a Clover en#  una esquina, forzarle a...
+* Eres un hombre de#  la ley, ¿Cierto?
+* Lo siento pero...
+* Dentro de estas#  circunstancias... Clover#  fue justo.
+* Ya ni sé lo que#  significa "justo".
+* Qué está bien, qué#  está mal...
+* A quién le importa...
+* Todo lo que sé es que...#  esta noche perdí a#  mi mejor amiga.
+* Y el viento...
+* Llevó volando la ceniza.
+* Como si ella ni siquiera#  importara...
+* Para la ley, quizás#  tienes justificación#  en lo que hiciste.
+* Pero para mí... estás#  por debajo de la tierra.
+* Podría reportar tu#  ubicación...
+* O intentar vengarme...
+* Pero sé que eso sólo#  significaría más problema#  para mi.
+* Ahora todo lo que puedo#  preguntarme es por qué.
+* ¿Por qué dudé en#  disparar esa última bala?
+* Siento... que hayas#  tenido que pasar por#  todo eso.
+* Quizás si hubiéramos#  tomado una ruta#  distinta en Waterfall...
+* Tomado decisiones#  diferentes...
+* No te habrían puesto#  en esta situación.
+* Esto se fue de control#  pero...
+* Ya no se puede cambiar.
+* Lo único que queda es#  llevarte a casa.
+* Te lo mereces.
+* Vamos al Castillo.
 clover_crawl_move
 clover_crawl_speed
 clover_overlay_alpha
@@ -11140,9 +11140,9 @@ max_rise_move
 sign_modifier_move
 animation_disjoint_x_move
 time_increase_move
-* (You search the nightstand...)
-* (You find a folded-up PSA#  which you stash in your mail#  bag.)
-* (Nothing but an empty eyeglass#  case sits in the drawer.)
+* (Investigas el velador...)
+* (Encuentras un APE doblado#  el cual guardas en#  tu bolso.)
+* (No hay nada mas que#  un estuche para lentes#  en el velador.)
 * What luck.
 * Turn the power on and#  the whole facility goes#  insane!
 * Since you're now the#  leader and all... 
@@ -11367,9 +11367,9 @@ destroy_on_contact
 aim
 deg_dec
 residue
-* (The sturdy bed sits#  bathing in the warm glow#  of the Dunes.)
-* What a masterwork.#  Hand-carved and#  everything...
-* It's hard to believe#  Chujin had the time to#  craft all of this.
+* (La robusta cama se#  encuentra bañándose del#  brillo de las Dunas.)
+* Que obra maestra.#  Tallada a mano y#  todo...
+* Es difícil creer que#  Chujin tenía el tiempo#  para hacer todo esto.
 direction_start
 spawn_rate
 attack_length
@@ -12097,12 +12097,12 @@ position_factor
 angle_diff
 can_trail
 id_feather_explosion
-* (You open the refrigerator and#  find some leftover corn#  chowder.)
-* You that hungry?
-* Um, alright then.    
-* I suppose she won't#  miss it... right?
-* (You got some Corn Chowder!)
-* (Nothing inside the#  refrigerator seems useful.)
+* (Abres el refrigerador y#  encuentras sobras de#  una sopa de maíz.)
+* ¿Tienes tanta hambre?
+* Um, está bien.    
+* Supongo que no lo#  extrañará... ¿cierto?
+* (¡Obtuviste un poco de#  sopa de maíz!)
+* (Nada dentro del#  refrigerador parece ser#  útil.)
 dir_mult
 spawn_dir
 string_hours
@@ -12422,12 +12422,12 @@ y_modif
 y_modif_height
 string_height
 gml_Script_draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64
-* (You decide to keep a safe#  distance between you and the#  knife.)
-* (You reach for the#  knife on the counter.)
-* Nuh-uh!
-* Kids shouldn't mess#  with knives.
-* ...Kids shouldn't mess#  with guns either.
-* I think I might be#  guilty of child#  endangerment.
+* (Decides mantener tu#  distancia entre el#  cuchillo y tú.)
+* (Agarras el cuchillo#  que está en el#  mostrador.)
+* ¡Nah-ah!
+* Los niños no juegan#  con cuchillos.
+* ...Tampoco deberían#  jugar con pistolas.
+* Puede que sea culpable#  por poner niños en#  peligro.
 obstacle_offset
 xx3
 obstacle3
@@ -13165,9 +13165,9 @@ enc_flag
 enc_time
 orange_wave_last
 wave
-* (Several building bricks are#  scattered around a stuffed#  animal.)
-* ...Almost looks like#  it's watching me.
-* Not sure I like this#  room...
+* (Varios ladrillos de#  construcción dispersos#  alrededor de un peluche.)
+* ...Casi parece que me#  está observando.
+* No estoy segura de#  que me gusta esta#  habitación...
 turret_wave
 real_turret
 feather_count
@@ -13605,11 +13605,11 @@ fly_time
 * Iré a buscarte!#  Te lo garantizo!
 * Supongo que es la hora.
 * Solo sígueme.
-* (A drawer full of#  videotapes.)
-* (A label on the front#  reads: "Home movies.")
-* While I'm sure these#  are adorable...
-* We don't have time to#  watch them.
-* Gotta keep looking for#  whatever spooked Ed and#  Star.
+* (Un cajón lleno de#  cintas de vídeos.)
+* (Uno tiene una etiqueta#  que dice: "Películas para#  ver en casa.")
+* A pesar de que#  seguramente son adorables...
+* No tenemos tiempo para#  verlas.
+* Tenemos que seguir#  buscando lo que sea#  que asustó a Ed y Star.
 left_debris
 right_debris
 small_debris
@@ -13668,13 +13668,13 @@ xspd
 bounce_percent
 rot_dir
 * Chujin Ketsukane 
-* The best of us.
-* (You notice a subtle indention#  in the dirt behind the#  gravestone.)
-* (Inspect further?)
-* (You dig into the ground with#  your hands until you hit#  something solid.)
-* (It's a videotape with a blank#  label.)
-* (You got a Videotape!)
-* (Disturbing a resting place#  like this might be illegal.)
+* El mejor de todos.
+* (Notas una ligera hendidura#  en la tierra detrás#  de la lápida.)
+* (¿Inspeccionar más?)
+* (Excavas la tierra con tus#  manos hasta que tocas algo#  sólido.)
+* (Es una cinta con un#  etiqueta en blanco.)
+* (¡Obtuviste la Cinta en#  blanco!)
+* (Perturbar un lugar de#  descanso así debería ser#  ilegal.)
 debug_render_path
 mouse_check_button
 draw_line_width_color
@@ -13892,9 +13892,9 @@ amp
 uamp
 opacity
 opacity_target
-* (The cabinet contains#  thesis papers on many#  different subjects.)
-* These are all typed on#  cardstock...
-* How wealthy was#  Chujin...?
+* (El gabinete contiene#  trabajos de tesis de#  diferentes asignaturas.)
+* Todos están escritos#  en cartulinas...
+* ¿Qué tan rico era#  Chujin...?
 ¡Deja de molestar#a Clover!
 * Entonces...
 * "Conveniencia" nunca fue#  parte de nuestro#  diccionario de todos modos.
@@ -14102,9 +14102,9 @@ Soda and Mints
 dir_clamp
 * Diablo!
 * Mejor intentémoslo de#  nuevo.
-* (The fireplace is#  making the already-warm#  house warmer.)
-* Pretty#  counterproductive in a#  climate like this.
-* Still, it looks#  beautiful.
+* (La fogáta hace que#  la ya cálida casa#  sea más cálida.)
+* Muy contraproducente#  en un clima como este.
+* Aún así, se ve#  precioso.
 direction_inc_max
 charge_speed
 remnant
@@ -14459,11 +14459,11 @@ T3 Quote Mooch 2
 T7 Obj Mooch
 T9 Obj Mooch
 T9 Quote Mooch 2
-* (Books of a novice#  reading level lie in the#  basket.)
-* (They carry#  similarities to books#  you've recently read.)
-* Aww, I remember reading#  those as a birdling.
-* Not to brag, but I#  finished them all in one#  day.    
-* I may have exceeded my#  classmates by several#  grades...
+* (Libros para un nivel#  de lectura novata yacen#  en el canasto.)
+* (Son similares a libros#  que has leído#  recientemente.)
+* Aww, recuerdo haber leído#  de esos cuando era una#  polluela.
+* No es por presumir, pero#  los terminé todos en#  un día.    
+* Puede que haya superado#  a mis compañeros por#  varios cursos...
 jump_speed
 tongue_attack
 friction
@@ -14962,19 +14962,19 @@ flowey_depth_original
 grass_spawn_inc
 flower
 chairs
-* This must be where they#  ate their meals...
-* What do you see?
+* Aquí debe ser donde#  ellos comían...
+* ¿Qué viste?
 * Hey uh...
-I need your help
-* You think something's#  under there?
+Necesito tu ayuda
+* ¿Crees que hay algo#  ahí abajo?
 * Muy bien...
-* On "three."
-* One...
-* Two...
-* Three!
-* Good eye, Clover.
-* Spooky...
-* Well, uh... After you.
+* A las "tres."
+* Uno...
+* Dos...
+* ¡Tres!
+* Buen ojo, Clover.
+* Escalofriante...
+* Bueno, em... Después de#  ti.
 Casa
 Futuro
 * ¡Buenas!
@@ -15442,7 +15442,7 @@ new_coin
 * This wasn't the plan!!
 * Chujin poured his all#  into Axis and you just-
 * And now... your SOUL...
-* It's...
+* Es que...
 * I was certain. I#  thought you were pure...
 * The mission... It's#  over.
 * This is your fault.
@@ -19654,19 +19654,19 @@ target_object
 * ¡¡Escuche que el Capataz#  tiene política de "16#  strikes, estás fuera"!!
 * ¿¿No podría relajarse#  un poco??
 * ¡JajA!!#  ¡¡Esto es divertido!!
-* Oh my...
-* What... What is all of#  this?
-* Formulas... SOUL#  research...
-* Hold on, look over#  here. 
-* Tapes...
-* Each one has a date on#  it.
-* Y-You know...
-* Maybe this is all a big#  misunderstanding!
-* Yeah, that's probably#  it!
-* We'll just watch these#  and clear the air.
-* Oh... Oh my gosh... 
-* I never knew... He#  never mentioned... 
-* Clover, we have to go.#  Right now.
+* Oh por...
+* Qué... ¿Qué es todo#  esto?
+* Fórmulas...#  investigación de ALMAS...
+* Espera, mira esto. 
+* Cintas...
+* Cada una tiene una#  fecha escrita.
+* S-Sabes...
+* ¡Tal vez todo es un#  gran malentendido!
+* ¡Sí, probablemente es#  eso!
+* Solo veámoslas y#  esclarezcamos todo.
+* Oh... Oh Dios mío... 
+* No sabía... Él nunca#  mencionó... 
+* Clover, tenemos que irnos.#  Ahora.
 * ¿Estás de visita o te perdiste?
 Visita
 Trabajo aquí
@@ -21536,11 +21536,11 @@ max_points
 * I'll hold onto it for#  you.
 * Let's get outta here,#  yeah?
 * (Just some useless scrap.)
-* (Ceroba's many outfits hang in#  the closet.)
-* (You can see someone else's#  clothes hidden behind the front#  row.)
-* Ceroba knows what she#  likes, huh?
-* Usually I'd be envious#  of such intense resolve#  but...	
-* ...I'm not so sure it's#  a good trait anymore.
+* (Varios atuendos de Ceroba#  colgados en el armario.)
+* (Alcanzas a ver la ropa#  de alguien mas escondida#  en la fila frontal.)
+* Ceroba sabe que le gusta,#  ¿huh?
+* Usualmente envidiaría tal#  intensa resolución#  pero...	
+* ...no estoy segura de que#  esa sea una buena#  característica.
 bullet_delay
 spawn_dir_arc
 spawn_dir_inc
@@ -22977,8 +22977,8 @@ spin_angle_dir
 spin_angle_speed
 spin_x_dir
 spin_x_speed
-* (You open a dresser#  drawer and see many#  neatly folded shirts.)
-* I don't think we need#  to look in there.
+* (Abres un cajón del#  tocador y ves varias#  camisetas bien dobladas.)
+* No creo que debamos#  buscar por ahí.
 anim_hands_offset
 head_offset_x
 hands_offset_x
@@ -23643,9 +23643,9 @@ move_speed_h
 move_speed_v
 green_id
 spacing_h_2
-* (A few unfinished#  robots poke out from the#  box.)
-* I heard about Chujin's#  interest in robotics#  once.
-* Guess this is as far as#  he ever got?
+* (Unos robots sin#  terminar se asoman desde#  la caja.)
+* Una vez oí acerca de#  Chujin teniendo interés#  por la robótica.
+* ¿Supongo que esto es lo#  mas lejos que llegó?
 Take it easy, pal!
 I didn't know I#could reflect so#much. Thank you!
 I'm only keeping#my distance so#I can charge at#you later!
@@ -25337,11 +25337,11 @@ Check 3
 * (La misteriosa señora cabra#  asustó a Froggit.)
 * Dulce silencio...
 * Decibat se aleja para encontrar#  un lugar más tranquilo.
-* (An old TV and game console#  gathering dust.)
-* The game case has a#  hand-made cover slip.   #  
-* "Surface Tycoon" it#  says.    
-* Chujin programmed a#  video game for Kanako?  #   
-* Wow... Must've been#  awesome to have him as a#  dad.
+* (Una TV vieja y una#  consola de videojuegos#  agarrando polvo.)
+* El estuche de juegos#  tiene una portada hecha#  a mano.   #  
+* "Magnate de la Superficie"#  dice.    
+* ¿Chujin programó un#  video juego para Kanako?  #   
+* Wow... Debió ser#  asombroso tenerlo a él#  como padre.
 orbit_direction
 orbit_speed
 * Dulce silencio...#* Obtuviste 
@@ -25494,8 +25494,8 @@ C O L L E C T I O N#T I M E .
 * Hmm... 	
 * It is rather late isn't#  it?
 * Narrows down the#  locations they could've#  gone at least.
-* I can't stand looking#  at that...
-* ...Let's just move on.
+* No soporto ver eso...
+* ...Solo continuemos.
 * ...Hellooo?
 * Rusted through.
 * The sign says "If the#  receptionist is#  unreceptive...
