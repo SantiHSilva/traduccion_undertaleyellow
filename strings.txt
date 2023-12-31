@@ -3985,7 +3985,7 @@ bowll a
 * Limpiar
 * Girar
 * Mirar
-* Flatter
+* Elogiar
 * Aceptar
 * Resistir
 * Forcejear
@@ -3996,7 +3996,7 @@ bowll a
 * Mirar
 goosic a
 goosic b
-* Vibe
+* Vibrar
 * Partir
 * Hervir
 * Refrigerar
@@ -4019,7 +4019,7 @@ scr_battle_core_directory_action_1_name
 action_2_important_3
 action_2_color_3
 * Insultar
-* Ogle
+* Bucear
 * Amenazar
 * Distraer
 * Abrazar
@@ -4030,57 +4030,57 @@ action_2_color_3
 * Leer
 * Educar
 * Bailar
-* Pull
+* Empujar
 * Ignorar
 * Resistir
-* Jiggle
-* Avoid
-* Believe
-* Taunt
+* Menear
+* Evadir
+* Creer
+* Provocar
 * Sonreír
-* Inquire
+* Informar
 * Tranqulizar
 * Destello
-* Nap
+* Dormir
 * Criticar
-* Fry
-* Pet
-* Scrutinize
-* Plead
-* Frown
-* Weep
-* Whisper
+* Freír
+* Domesticar
+* Escudriñar
+* Suplicar
+* Fruncir
+* Llorar
+* Susurrar
 gml_Script_scr_battle_core_directory_action_2_name
 scr_battle_core_directory_action_2_name
 action_3_important_3
 action_3_color_3
-* Joke
-* Envy
+* Broma
+* Envidiar
 * Regalar
 * Juzgar
 * Ahuyentar
-* Stomp
+* Pisotón
 * Hipnotizar
 * Reprender
-* Climb
-* Doubt
-* Console
-* Deny
-* Mock
+* Escalar
+* Dudar
+* Consolar
+* Denegar
+* Simular
 * Morder
 * Sonreir
-* Signal
-* Analyze
-* Needle
-* Bake
-* Season
-* Antagonize
-* Cool
-* Toughen
-* Stress
-* Beg
-* Weaken
-* Decay
+* Señalar
+* Analizar
+* Espinas
+* Hornear
+* Condimentar
+* Antagonizar
+* Enfriar
+* Endurecer
+* Estrésar
+* Mendigar
+* Debilitar
+* Decaer
 * Fruncir
 * Recordar
 gml_Script_scr_battle_core_directory_action_3_name
@@ -21596,9 +21596,9 @@ rotate_key
 rotate_key_released
 * ¡Espera! Eso sería una#  salida muy obvia.
 * No seas temerario,#  encontraremos otra#  forma de escapar.
-* Wow, he caught you.#  Shocker.
-* What are you trying to#  accomplish?
-* Come on, stick to the#  plan!
+* Vaya, te descubrió.#  Qué sorpresa.
+* ¿Qué está intentando#  conseguir?
+* ¡Vamos, apégate al#  plan!
 * I CANNOT BELIEVE YOU#  FELL FOR THAT.
 * I AM SMART, THEREFORE I#  PREDICTED YOUR ESCAPE.
 * NOW, BACK YOU GO.
