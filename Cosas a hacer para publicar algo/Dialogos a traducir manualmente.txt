@@ -32,3 +32,24 @@ gml_Object_obj_npc_turtle_Step_0
 Traducir:
 I should\ngo
 Debería\nirme
+
+gml_Object_obj_text_main_screen_shop_geno_Draw_0
+Traducir:
+	Steal	Take
+	Robar	Tomar
+
+gml_Object_obj_chem_05_computer_Step_0
+...\nWaiting for correct\ncompounds to complete\nmixture . . .
+...\nEsperando a que los\ncompuestos correctos\ncompleten la mezcla...
+
+\nVerdict: 
+\nVeredicto:
+
+screen_message = ((("Status:\nCompound 1: " + status_1) + "\nCompound 2: ") + status_2) 
+screen_message = ((("Estado:\nCompuesto 1: " + status_1) + "\nCompuesto 2: ") + status_2) 
+
+\nITEMs ready\nApproach terminal
+\nITEMs listos\nAcércate al terminal
+
+\nBoot complete.\nMixing initialized.
+\nArranque completo. \nMezcla inicializada.

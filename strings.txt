@@ -10364,30 +10364,30 @@ u_uvs
 txl_d
 u_txl_d
 sprite_tex
-* This area seems totally#  abandoned.
-* Guess there's no more#  need for fighting. Real#  shame.
-* A generator, huh?
-* There's probably some#  way to turn it back on#  around he
-* Oh, come on! Again??
-* Hate to rock your world#  but bullets aren't the#  answer to everything!
-* Would it kill you to#  think before shooting at#  your problems?
-* Hey, it's just a#  pattern I've noticed#  recently!
-* You've already solved#  tons of puzzles on our#  journey.
-* I was only curious why#  your patience has worn#  so thin!
-* Cool it, will ya?
-* Heh, I'm afraid that#  door is far too thick to#  shoot down.
-* Looks like you'll have#  to stick with my#  original plan of
+* Esta zona parece#  totalmente abandonada.
+* Supongo que ya no#  hace falta luchar.#  Una verdadera lastima.
+* Un generador, ¿eh?
+* Probablemente haya alguna#  forma de volver a#  prenderlo en alguna parte.
+* ¡Oh, vamos! ¿Otra vez?
+* Odio sacudir tu mundo,#  pero las balas no#  son la respuesta a todo.
+* ¿Te mataría pensar#  antes de disparar a#  tus problemas?
+* Oye, ¡es sólo un#  patrón que he#  notado últimamente!
+* Ya has resuelto#  montones de enigmas#  en nuestro viaje.
+* ¡Sólo tenía curiosidad#  de por qué tu#  paciencia se agoto tanto!
+* Cálmate, ¿quieres?
+* Me temo que esa puerta#  es demasiado gruesa#  para derribarla.
+* Parece que tendrás#  que seguir con mi#  plan original de
 * ...¿Qué?
-* Me?
-* You've found yourself#  some nerve, haven't you?
-* ...Fine.
-* There. Your exit, my#  king.
-* Did you forget my#  warning when you started#  down this road?
-* I'm in control here.
-* That hasn't and won't#  change, got it?
-* The next time you pull#  a stunt like this...
-* Let's just keep moving.
-* (The elevator is#  unresponsive.)
+* ¿Yo?
+* Has encontrado algo#  de valor, ¿verdad?
+* ...Bien.
+* Allí. Su salida,#  mi rey.
+* ¿Olvidaste mi advertencia#  cuando empezaste#  por este camino?
+* Yo tengo el control aquí.
+* Eso no ha cambiado ni#  cambiará,#  ¿entendido?
+* La próxima vez que#  hagas algo así...
+* Sigamos moviéndonos.
+* (El ascensor no#  responde.)
 alpha
 disappear
 credits_y_offset
@@ -11868,22 +11868,22 @@ x_start
 warning
 spawn_distance
 Honeydew Resort Geno
-* (You took 60G from#  the shelf.)
-* (There's nothing#  left.)
+* (Te llevaste 60 de ORO#  de la estantería.)
+* (No queda nada.)
 Cafe Dune Geno
-* (You took 80G from#  the shelf.)
+* (Te llevaste 80 de ORO#  de la estantería.)
 Wild East Gunshop Geno
-* (There's a safe with#  the door left open.)
-* Nothing to take.
+* (Hay una caja fuerte con#  la puerta abierta.)
+* No hay nada que#  llevarse.
 Wild East Saloon Geno
-* (You took 100G#  from behind the#  bar.)
-* (There's no G#  left to take.)
+* (Te llevaste 100 de ORO#  detrás de la barra.)
+* (No queda ningún ORO#  para llevarse.)
 Hotel Shop Geno
-* (You took 500G#  from the register.)
-* (You peer inside the box and#  find some Grassy Fries.)
-* (Some food here.)
-* (You got Grassy Fries!)
-* (You got Grassy Fries.)
+* (Te llevaste 500 de ORO#  de la caja registradora.)
+* (Miras dentro de la caja#  y encuentras unas#  Grassy Fries.)
+* (Algo de comida aquí.)
+* (¡Conseguiste Grassy Fries!)
+* (¡Conseguiste Grassy Fries.)
 spawn_interval
 spawn_direction_variance
 spawned_last
@@ -12671,28 +12671,28 @@ actor_axis
 * (Uh, nevermind.)
 * Wiggle woggle~
 * ¡Ahí está!
-* I shouldn't have fled#  like I did...	
-* You kept going. Kept#  destroying lives.	
-* This isn't self defense#  like I once assumed.	
-* You're on a mission.	
-* This warped sense of#  justice... It won't#  bring them back.	
-* I have reservations#  about the King's#  business just like you.	
-* But you don't have the#  context of those#  actions.	
-* I know... You want to#  believe the best of#  others.	
-* That the fallen humans#  were fully pacifistic#  and didn't initiate       
-* T-The Royal Guard are#  searching for you, let#  me make that clear.
-* You're lucky I'm the#  one who found you. So#  please listen!
-* I've spent my life in#  skepticism.
-* Longing for eventual#  peace between our kinds.
-* If you can believe it,#  I see goodness in you. 
-* Somehow, I still have#  hope you can turn it#  around.
-* I can't apprehend you#  on my own, I already#  tried that...
-* So please... stop this.#  Us monsters don't#  deserve      
-* W-wait!
-* Just listen!	
-* I-I didn't want it to#  come to this but...	
-* I have to go.	
-* You won't get away with#  this, Clover.
+* No debí haber huido#  como lo hice...
+* Seguiste adelante.#  Seguiste destruyendo#  vidas.	
+* Esto no es defensa#  propia como una#  vez supuse.	
+* Tienes una misión.	
+* Este retorcido sentido#  de la justicia...#  No los traerá#  de vuelta.	
+* Tengo reservas sobre#  los asuntos del Rey#  igual que tú.	
+* Pero no tienes el#  contexto de esas#  acciones.	
+* Lo sé... Quieres creer#  lo mejor de los demás.	
+* Que los humanos caídos#  eran totalmente pacifistas#  y no iniciaron       
+* L-la Guardia Real te#  está buscando, que#  quede claro.
+* Tienes suerte de que#  te encontrara. ¡Así#  que, por favor, escucha!
+* Me he pasado la vida#  en el escepticismo.
+* Anhelando la paz final#  entre nuestras clases.
+* Si puedes creerlo,#  veo piedad en ti. 
+* De algún modo, todavía#  tengo esperanza de que#  puedas darle la vuelta.
+* No puedo detenerte yo#  sola, ya lo intenté...
+* Así que por favor...#  detén esto. Nosotros los#  monstruos no merecemos      
+* ¡E-espera!
+* ¡Solo escuchame!	
+* Yo... yo no quería#  llegar a esto pero...
+* Tengo que irme.
+* No te saldrás con#  la tuya, Clover.
 circle_part
 mask_dist
 circle_angle
@@ -14684,7 +14684,7 @@ Room Name
 RESET
 WAIT
 screen_message
-ERROR: Power low
+ERROR: Baja potencia
 screen_message_current
 screen_interact_noloop
 screen_state
@@ -14693,17 +14693,17 @@ compound_active
 compound_destroy
 screen_cursor
 screen_counter
-Reading. . .
-Acception Message
-Accepted.
-Rejection Message
-Declined.
-MISSING
+Leyendo. . .
+Mensaje de aceptación
+Aceptado.
+Mensaje de rechazo
+Rechazado.
+FALTA
 status_1
 status_2
-PRESENT
-. . .Booting process.
-Your ITEM is ready
+PRESENTE
+. . .Proceso de arranque.
+Tu ITEM está listo
 camera_x
 dynamite_spawned_count
 dynamite_spawned_max
@@ -20487,43 +20487,43 @@ bell_animation_end_next_loop
 * (Es un poco exagerado.)
 cutscene_duel_timer
 background_fade_alpha
-* She told me to run.
-* She told me to hide.
-* But nah...
-* That ain't what a#  dignified sheriff would#  do.
-* You see, I've heard#  you've been up to no#  good.
-* You've been mozyin'#  'round...
-* ...Terrorizin' the nice#  folk of this underground#  settlement.
-* You're an outlaw.
-* My job...
-* My job is to bring#  justice upon folks like#  you.
-* Folks who take pleasure#  in disturbin' the peace.
-* You have a method to#  what yer doin'.
-* You coulda shot me by#  now but ya haven't.
-* Howabout we settle this#  fairly?
-* A... dual.
-* Fastest to their weapon#  wins.
-* Ten paces.
+* Ella me dijo que corriera.
+* Ella me dijo que#  me escondiera.
+* Pero nah...
+* Eso no es lo que#  haría un sheriff#  digno.
+* Verás, he oído que#  no has hecho nada#  bueno.
+* Has estado merodeando#  por ahí...
+* ...aterrorizando a la#  gente de este Subsuelo.
+* Eres un bandido.
+* Mi trabajo...
+* Mi trabajo es hacer#  justicia a gente#  como tú.
+* Gente que disfruta#  perturbando la paz.
+* Tienes un método para#  hacer lo que haces.
+* Ya podrías haberme#  disparado, pero#  no lo has hecho.
+* ¿Qué tal si#  resolvemos esto de#  forma justa?
+* Un.. duelo.
+* El más rápido en llegar#  a su arma gana.
+* Diez pasos.
 cutscene_duel_delay
-* Yo... can't do it.
-* Not for real.
-* I'm... I'm such a#  fraud...
-* Thanks for letting me#  feel cool for a short#  moment.
+* Yo... no puedo#  hacerlo.
+* No de verdad.
+* Soy... Soy un#  fraude...
+* Gracias por dejarme#  sentir genial por un#  breve momento.
 starlo_shake_x
 starlo_x_original
-* Star! Everyone's#  evacuated!
-* Why are you still here?#  I told you to-
-* STARLO!!!
+* ¡Star! ¡Todo el mundo#  evacuo!
+* ¿Por qué sigues#  aquí? Te dije#  que...
+* ¡¡¡STARLO!!!
 * C-Ceroba Yo...
-* Nonononono, why didn't#  you listen!?
-* I almost w... won...
-* Y-you... did your best.
-* You're the greatest#  s-sheriff in the#  Underground, Starlo.
-* You are.
-* Th... thanks... for#  playing a... along all#  these... years.
-* Now... d... do what's#  right.
-* Deliver... 
-* J-Justice.
+* Nonononono, ¿por qué#  no me escuchaste?
+* Casi gan... gané...
+* T-tú... hiciste lo#  que pudiste.
+* Eres el mejor#  s-sheriff del#  Subsuelo, Starlo.
+* Lo eres.
+* Gracias... por...#  acompañarme todos#  estos... años.
+* Ahora... h... haz#  lo correcto.
+* Reparte...
+* J-Justicia.
 * ¿Eh? Espera, creo que#  alguien viene hacia aquí.
 * ¡Chicos! ¡Miren aquí!
 * Alguien nuevo ha#  tropezado en nuestra#  humilde ciudad.
@@ -25584,11 +25584,11 @@ I DIDN'T WANT TO
 * I mean, wowza!! MEEE-OWW!!!
 * sorry.
 * My food should be out any#  minute. Can't wait!
-* Regular monsters are#  one thing but...
-* That fox lady you just#  killed was a piece of#  work, huh?
-* If you bested her,#  ASGORE doesn't stand a#  chance!
-* Uh, sure... That works.
-* See you up ahead,#  Clover!
+* Los monstruos normales#  son una cosa, pero...
+* Esa mujer zorro que#  acabas de matar era una#  pieza de trabajo, ¿eh?
+* ¡Si la superaste,#  ASGORE no tiene#  ninguna oportunidad!
+* Uh, claro... Eso#  funciona.
+* ¡Nos vemos adelante,#  Clover!
 * O-Oh... Hello.
 * Please don't mind me.
 * I was only tending to this#  little fella.
