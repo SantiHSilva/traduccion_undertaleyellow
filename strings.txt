@@ -10697,15 +10697,15 @@ execute_normal
 execute_random
 text_effect_2
 egg_eat
-So you know ze#art of ze egg,#but what about#taste?
-Bon Appétit!
-...Incroyable!
-Simply delicious!
-Compliments to#ze chef!
-Oh right, zat#ez me! Hahah!
-But you, my#instructor!
-You are one of#great talent!
-Zank you for#guiding my#spatula!
+Ya conoces el#arte del huevo,#pero ¿y el#sabor?
+¡Bon Appétit!
+...¡Increíble!
+¡Simplemente#delicioso!
+¡Felicidades#al ze chef!
+Oh sí,#¡eze zoy yo!#¡Jajaj!
+¡Pero tú, mi#instructor!
+Tienes un gran#talento.
+¡Zracias por#guiar mi#espátula!
 instance_activate_object
 overlay_2
 circle_alpha
@@ -12776,12 +12776,12 @@ M A C R O#R I B B I T .
 M A C R O#C R O A K .
 new_message_number
 R I B B I T .
-*GIANT FROG#NOISES*
+*RUIDO DE RANA#GIGANTE*
 R I B B I T#R I B B I T
-B I G#C R O A K :D
+G R A N#C R O A K :D
 W O B B L E#W O B B L E
 M A C R O#K E R O
-. . .#(Macro ellipsis.)
+. . .#(Macro elipsis.)
 hand_spawn_chance_max
 hand_spawn_chance_curent
 hand
@@ -14738,10 +14738,10 @@ dynamite_spawned_max
 * Until we cook again! 
 * Au revoir!
 speed_target
-Seen it!
-I hate#reruns!
-They'll reboot#anything#nowadays!
-Gimme something#new!
+¡Ya lo he#visto!
+¡Odio las#repeticiones!
+¡Hoy en día#reinician#cualquier#cosa!
+¡Dame algo#nuevo!
 * YOu.. . ARE LeTTING ME#  GO?
 * UH. WEIRD DeCISION.
 * JuST SO YOU KNoW.. .
@@ -14868,27 +14868,27 @@ Rutherfordium [Rf]
 * Discovered by the prestigious#  Dr. Rutherford Oscar himself.#  Or so he claims.
 gap
 soul_grab_noloop
-To be honest?#Not surprised.
-They were only#greetings!I#ssswear!
-It's true, I#do. Run along#now!
-Ding ding ding!#Got a genius#over here!
-Oh, this and#that. Odds and#ends. Ya know...
-I'm an#excccellent#travel companion!
-Yesss, we're#gonna go far,#you and me!
-I knew you'd#see things my#way, human!
-Come on mate,#don't leave me#out to dry!
-Fine! But you're#missing out#BIG!
-Enjoy the#snake-sized#hole in your#heart!
-H-Help a friend#patch themselves#up, eh?
-Calm down, mate.#We can work#something out...
-I know just#what you need!
-You, me,#perfect match#eh?
-I can cheer#you right up!#Easy!
-Adventure?#That's my#maiden name!
-Why are you#avoiding my#greetings? Come#on!
-What's your story?#Scandals?#Sssecrets...?
-I can help ya#climb out of your#rut, I can!
-You can trussst#me! Swear on#me mum!
+Para ser#honesto...#no me sorprende.
+¡Sólo eran#saludos!#¡Looo juro!
+Es verdad. ¡Vete#ahora!
+¡Ding ding ding!#¡Tengo un#genio por#aquí!
+Oh, esto y#aquello.#Casualidades.#Ya sabes...
+¡Soy un#excelente#compañero#de viajes!
+¡Sí, vamos a llegar#lejos, tú y yo!
+¡Sabía que verías#las cosas a mi#manera, humano!
+¡Vamos, amigo,#no me dejes#solo!
+¡Bien! ¡Pero#te estás#perdiendo# MUCHO!
+¡Disfruta del#agujero del tamaño#de una serpiente#en tu corazón!
+¿Ayudar a un#amigo a curarse,#eh?
+Cálmate,#amigo.#Podemos arreglar#algo...
+¡Sé justo lo que#necesitas!
+Tú, yo, la#pareja perfecta,#¿eh?
+¡Yo puedo#animarte!#¡Fácil!
+¿Aventura?#¡Ese es#mi nombre#de dama!
+¿Por qué evitas mi#saludo? ¡Vamos!
+¿Cuál es tu#historia?#¿Escándalos?#¿Sssecretos...?
+¡Puedo ayudarte a#salir de tu error,#puedo!
+¡Puedes confiar#en mí!#¡Lo juro#por mamá!
 target_bubble
 dbox
 flying_speed
@@ -23613,22 +23613,22 @@ bheight_ratio
 rand_hmin
 rand_hmax
 create_x_dist
-Wait, don't go...
-That's what you#get.
-It's so warm...#Is this what#love feels like?
-Does this mean#you... care about#me?
-At least have the#decency to look#at me!
-Why does#everyone do this#to me?
-What else is#new...
-Could this day#get any worse?
-*Sigh*
-You... think#so?
-I'm not so#sure about#that....
+Espera, no te#vayas...
+Eso es lo que#obtienes.
+Es tan cálido...#¿Es así como#se siente el#amor?
+¿Significa esto#que... yo#te importo?
+¡Al menos ten la#decencia de#mirarme!
+¿Por qué#todos#me hacen#esto?
+Qué más hay de#nuevo...
+¿Podría empeorar#este día?
+*Suspira*
+¿Tú... crees#que...?
+No#estoy#tan seguro#de eso....
 Uhhhh...
-No one loves#me...
-I'm burning up.
-These needles#are such a#curse...
-I'm just a#burden to#everyone...
+Nadie me#ama...
+Estoy ardiendo.
+Estas puas#son una#maldición...
+Sólo soy una#carga para#todos...
 needle_max
 spawn_side
 ed_hand
@@ -23646,23 +23646,23 @@ spacing_h_2
 * (Unos robots sin#  terminar se asoman desde#  la caja.)
 * Una vez oí acerca de#  Chujin teniendo interés#  por la robótica.
 * ¿Supongo que esto es lo#  mas lejos que llegó?
-Take it easy, pal!
-I didn't know I#could reflect so#much. Thank you!
-I'm only keeping#my distance so#I can charge at#you later!
-You're not tough#enough to lay a#hand on me!
-What's so funny,#huh?
-N-no! I'm#practically made#of steel!
-Y-you watch your#mouth!
-You're the one#that should be#careful!
-Really? You mean#it?
-But I... I am#tough.
-This... just#makes me#stronger!
-It'll t-take#more than that#to take me#down!
-You better watch#out!
-You're gonna get#the horns, buddy!
-These cracks are#my battle scars.#Beware!
-I'm waaay#stronger than#you think!
-I wouldn't mess#with me if I#  were you!
+¡Cálmate,#amigo!
+No sabía que#podía reflejar#tanto.#¡Gracias!
+¡Sólo mantengo la#distancia para poder#cargar contra ti#más tarde!
+¡No eres lo#suficientemente#duro para#ponerme una#mano encima!
+¿Qué es tan#gracioso,#huh?
+¡N-no! ¡Estoy#prácticamente#hecho de#acero!
+¡C-cuidado con#lo que dices!
+¡Tú eres el que#debe tener#cuidado!
+¿En serio? ¿Lo#dices en#serio?
+Pero yo...Soy#duro.
+Esto... ¡me#hace más#fuerte!
+¡Se necesitará#más que eso#para#derribarme!
+¡Será mejor que#tengas cuidado!
+¡Te van a poner#los cuernos,#amigo!
+Estas grietas#son mis cicatrices#de batalla.#¡Cuidado!
+¡Soy muuucho más#fuerte de lo#que crees!
+¡Yo que tú no me#metería conmigo!
 marsh_count
 marsh_max
 marsh_disjoint
@@ -23857,30 +23857,30 @@ Oh...
 Me merezco esto...
 Aquí...
 ¡Aquí tienes!
-Gosh, hun.#What are you on#about?
-Do you really mean#that hun? 
-Gosh, you've made me#the happiest florist#around town!
-About what I#expected...
-Oh, come now,#deary.
-I bet my flowers#would look very#pretty on your hat!
-I spend every#day to its#fullest!
-Would you like#any flowers my#dear? 
-Sharing with others#is a great way#to show friendship!
-Aren't flowers just#magnificent?
-It's never too late#to accept a sign#of friendship, you#know.
-I...I'm okay. 
-Better than yours.
-Pah! Don't I know#it!
-Ooo, edgy.
-I don't know,#CAN YOU?
-Come on, where'd#you learn to#insult?
-SORRY ABOUT THAT!!!#Haha.
-Flowers make a#monster stronger! 
-If you want a flower#from me, you gotta#prove yourself!
-Flowers are great!#Orange, blue, yellow...#gotta love 'em!
-My flowers are top#of the line!
-You're kind of#a jerk, you know#  that?
-Just gotta hold#on.
+Cielos, cariño.#¿En qué#estás pensando?
+¿Realmente quieres#decir eso,#cariño? 
+¡Cielos, me has hecho#la florista más#feliz de la#ciudad!
+Más o menos lo#que esperaba...
+Más o menos lo#que esperaba...#Oh, vamos,#querido.
+Apuesto a que mis#flores quedarían#muy bonitas en#tu sombrero.
+¡Aprovecho#cada día#al#máximo!
+¿Quieres#alguna flor#querido? 
+¡Compartir con los#demás es una forma#estupenda de#demostrar amistad!
+¿No son las#flores simplemente#magníficas?
+Nunca es demasiado#tarde para aceptar#una señal de#amistad.
+Yo... estoy bien.
+Mejor que tu.
+¡Pah! ¡No lo sé!
+Ooo, terrible.
+No lo sé,#¿puedes tú?
+Vamos, ¿dónde#aprendiste#a insultar?
+¡¡¡LO SIENTO!!!#Jajaja.
+¡Las flores hacen#más fuerte#al monstruo! 
+¡Si quieres una flor#mía, tienes que#demostrar tu#valía!
+¡Las flores son#geniales!#Naranja, azul,#amarillo...#¡Me encantan!
+¡Mis flores son#de primera!
+Eres un poco#idiota,#¿lo sabías?
+Sólo tienes#que aguantar.
 flowers_instance
 new_hspeed
 bit
@@ -24858,24 +24858,24 @@ warning_line_color
 direction_real
 gun_dir
 gun_dir_inc
-You're a lot stronger#than I gave you#credit for!
-Don't even think#about killing me too.
-Your life is in my#hands.
-Don't worry, I won't#judge you for your#actions.
-I have your back and#you've got mine.
-So let's get out of#here, okay pal?
+¡Eres mucho más#fuerte de lo#que creía!
+Ni se te ocurra#matarme a mí#también.
+Tu vida está en#mis manos.
+No te preocupes,#no te#juzgaré por tus#acciones.
+Yo te cubro las#espaldas y tú#me cubres#las mías.
+Así que salgamos#de aquí, ¿de#acuerdo amigo?
 throw_noloop
 throw_delay_bomb
 dir_min
 dir_max
 hp_current_self_clamp
 glass
-ADEQUATE JOB.
-THANK YOU#FOR YOUR HELP. 
-no problem,#guardener.
-yeah, give#us a call#anytime.
-even just#to hang out#or smth.
-or not,#it's nbd.
+TRABAJO ADECUADO.
+GRACIAS#POR SU AYUDA. 
+no hay problema,#guardener.
+sí, llámanos#cuando quieras.
+incluso sólo para#pasar el rato#o algo así.
+o no, no#hay nada#que hacer.
 arm2
 * WAS IT YOU WHO DISTURBED THE#  FLOR-A? ?
 * I ASK YOU TO PLEASE HAVE MORE#  _RESPECT.
@@ -25482,11 +25482,11 @@ number_pad
 * That's one way of#  opening it!
 * We can finally leave#  this wasteland behind!
 move_delay
-W O R R I E D#R I B B I T.
-T . . .#
-T H E#F I N A L#. . .#
-T H E#F I N A L#F R O G .
-C O L L E C T I O N#T I M E .
+R I B B I T#P R E O C U P A D O
+E . . .#
+E L#F R#. . .#
+E L#F R O G#F I N A L.
+H O R A#D E#R E C O G I D A .
 * Hey! That's a real#  piece of art you made#  there!
 * Give it a go!
 * Wouldja look at that!#  Worked like a charm.
