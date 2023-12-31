@@ -143,16 +143,16 @@ gml_Script_cutscene_screen_fade_in
 cutscene_screen_fade_in
 action_3_selected_count
 enemy_low_hp
-* You tell Sir Slither you don't#  think he can hold on much#  longer.
+* Le dices a Sir Slither que no#  crees que pueda aguantar#  mucho más.
 message
 Action 3 Low HP
 last_action_selected
 Nothing
 last_action_selected_2
 last_action_selected_3
-* You refuse to let Sir Slither#  become a main character.
+* Te niegas a que Sir Slither#  se convierta en#  protagonista.
 Action 3 Message 1
-* You step away from Sir#  Slither. His pursuit falters.
+* Te alejas de Sir Slither.#  Su persecución decae.
 Action 3 Message 0
 gml_Script_scr_dialogue_battle_action_selected_action_3_slither_a
 scr_dialogue_battle_action_selected_action_3_slither_a
@@ -298,11 +298,11 @@ gml_Script_scr_generate_battle_cactony_slither_duo
 scr_generate_battle_cactony_slither_duo
 gml_Script_scr_recreate_heart_battle_menu_text_flowey
 scr_recreate_heart_battle_menu_text_flowey
-* You wriggle within your#  confines. The MERCY vines#  weakened!
-* You criticize Guardener for#  bugging out and attacking you.#  This does not help anyone.
+* Te retuerces dentro de tus#  confines. ¡Las lianas de#  PIEDAD se han debilitado!
+* Criticas a Guardener por#  salirse y atacarte. Esto#  no ayuda a nadie.
 gml_Script_scr_dialogue_battle_action_selected_action_3_guardener
 scr_dialogue_battle_action_selected_action_3_guardener
-* Frog!
+* ¡Frog!
 gml_Script_scr_dialogue_battle_action_selected_action_3_macro
 scr_dialogue_battle_action_selected_action_3_macro
 active
@@ -313,8 +313,8 @@ live_result
 attack_cycle
 gml_Script_scr_end_enemy_attacking_ceroba
 scr_end_enemy_attacking_ceroba
-* You look Jandroid over and#  notice many missing screws.
-* You look Jandroid over and#  tell them they need a shower.
+* Miras por encima a Jandroid#  y notas que faltan#  muchos tornillos.
+* Miras a Jandroid y le dices#  que necesita una ducha.
 gml_Script_scr_dialogue_battle_action_selected_action_3_jandroid_a
 scr_dialogue_battle_action_selected_action_3_jandroid_a
 depth
@@ -359,13 +359,13 @@ gml_Script_live_init
 live_init
 gml_Script_scr_recreate_heart_battle_menu_text_goosic_a
 scr_recreate_heart_battle_menu_text_goosic_a
-* You ready your trusty shield#  for whatever awaits.
+* Preparas tu fiel escudo para#  lo que sea que#  te espere.
 current_turn
-* (You commend Axis' vigilance.)
-* (You tell Axis his steel frame#  is unwavering.)
-* (You tell Axis his energy#  magic is the most impressive#  you've seen.)
+* (Elogias la vigilancia de#  Axis.)
+* (Le dices a Axis que su#  estructura de acero#  es inquebrantable.)
+* (Le dices a Axis que su#  energía mágica es la más#  increible que has visto.)
 Action 1 Message 1
-* (You ask Ceroba to present#  your metallic creation.)
+* (Pides a Ceroba que#  presente su#  creación metálica.)
 gml_Script_scr_dialogue_battle_action_selected_action_1_axis
 scr_dialogue_battle_action_selected_action_1_axis
 ceroba
@@ -412,9 +412,9 @@ gml_Script_scr_draw_diamond
 scr_draw_diamond
 gml_Script_cutscene_screen_melt
 cutscene_screen_melt
-* Cleaning Jandroid wouldn't#  do any good at this point.
+* Limpiar Jandroid no#  serviría de nada a#  estas alturas.
 Action 2 Low HP
-* You offer to give Jandroid#  a scrub. They seem offended.
+* Te ofreces a limpiar a#  Jandroid. Parecen ofendidos.
 Action 2 Message 0
 gml_Script_scr_dialogue_battle_action_selected_action_2_jandroid_b
 scr_dialogue_battle_action_selected_action_2_jandroid_b
@@ -616,8 +616,8 @@ rm_steamworks_34
 * ASGORE is so close!
 * Let's get a move on,#  Clover!
 scr_save_flowey_steamworks
-* You reach out to Dunebud but#  they back up.
-* You shake Dunebud back and#  forth.#* They giggle at you.
+* Extiendes la mano a Dunebud#  pero se echan atrás.
+* Agitas a Dunebud de un lado#  a otro.#* Se ríen de ti.
 gml_Script_scr_dialogue_battle_action_selected_action_2_dunebud_b
 scr_dialogue_battle_action_selected_action_2_dunebud_b
 gml_Script_scr_end_enemy_attacking_bailador_geno
@@ -916,11 +916,11 @@ G. Cactus
 $$$$temp$$$$
 gml_Script_scr_item_stats_restore
 scr_item_stats_restore
-* You pressure Axis' defense but#  he stands firm.
+* Presionas la defensa de Axis#  pero se mantiene firme.
 gml_Script_scr_dialogue_battle_action_selected_action_1_axis_geno
 scr_dialogue_battle_action_selected_action_1_axis_geno
-* You tell Axis that his time is#  up.
-* He chooses not to respond.
+* Le dices a Axis que se le#  ha acabado el tiempo.
+* Decide no responder.
 gml_Script_scr_dialogue_battle_action_selected_action_2_axis_geno
 scr_dialogue_battle_action_selected_action_2_axis_geno
 rm_darkruins_03
@@ -1011,9 +1011,9 @@ can_draw_ghost
 audio_is_playing
 gml_Script_scr_generate_battle_flowey
 scr_generate_battle_flowey
-* You ask Jandroid how they're#  still functioning.
+* Le preguntas a Jandroid cómo#  siguen funcionando.
 Action 1 Low HP
-* You ask Jandroid what their#  primary directive is.
+* Le preguntas a Jandroid cuál#  es su directiva principal.
 gml_Script_scr_dialogue_battle_action_selected_action_1_jandroid_b
 scr_dialogue_battle_action_selected_action_1_jandroid_b
 martlet
@@ -1035,9 +1035,9 @@ gml_Script_scr_cutscene_battle_martlet_final_2_intro
 scr_cutscene_battle_martlet_final_2_intro
 gml_Script_live_preinit_api
 live_preinit_api
-* You calm yourself in the midst#  of the battle.
-* You close your eyes and tap#  your foot to the music. Goosic#  joins you.
-* You try to enjoy the music but#  can't keep up.
+* Te calmas en medio#  de la batalla.
+* Cierras los ojos y das golpecitos#  con el pie al ritmo de la#  música. Goosic se une a ti.
+* Intentas disfrutar de la música#  pero no puedes seguir#  el ritmo.
 gml_Script_scr_dialogue_battle_action_selected_action_1_goosic_a
 scr_dialogue_battle_action_selected_action_1_goosic_a
 view_camera
@@ -1226,9 +1226,9 @@ gml_Script_scr_enemy_timer_attacks_guardener
 scr_enemy_timer_attacks_guardener
 gml_Script_scr_init_flags_hotland
 scr_init_flags_hotland
-* You try to move Goosic's needle#  but it shocks you.
-* Goosic seems to be calming#  down. Shouldn't change the song#  now.
-* You move Goosic's needle to a#  new, calmer record.
+* Intentas mover la aguja de#  Goosic pero te da un susto.
+* Parece que Goosic se está#  calmando. No debería cambiar#  la canción ahora.
+* Mueves la aguja de Goosic#  a un nuevo disco más#  tranquilo.
 gml_Script_scr_dialogue_battle_action_selected_action_3_goosic_a
 scr_dialogue_battle_action_selected_action_3_goosic_a
 gml_Script_scr_start_enemy_attacking_steam
@@ -1247,12 +1247,12 @@ audio_play_sound_at
 Guardener Pacifist Opening
 gml_Script_scr_generate_battle_guardener
 scr_generate_battle_guardener
-* You wriggle within your#  confines. The ITEM vines#  weakened!
-* You plead with Guardener and it#  seems to have an effect. Offense#  level lowered!
-* You try to convince Guardener#  to stop fighting. Offense level#  lowered!	
-* You tell Guardener that this is#  a misunderstanding. Offense#  level lowered!	
-* You ask Guardener to think#  about what she's doing. Offense#  level lowered!
-* You use rational in hopes of#  de-escalating the situation.#  Offense level lowered!
+* Te retuerces dentro de tus#  confines. ¡Las lianas de#  los ITEM se debilitaron!
+* Le suplicas a Guardener y#  parece que surte efecto.#  ¡Nivel de ofensa reducido!
+* Intentas convencer a Guardener#  de que deje de pelear.#  ¡Nivel de ofensa reducido!	
+* Le dices a Guardener que esto#  es un malentendido.#  ¡Nivel de ofensa reducido!	
+* Le pides a Guardener que#  piense en lo que está haciendo.#  ¡Nivel de ofensa reducido!
+* Usas la lógica con la esperanza#  de calmar la situación.#  ¡Nivel de ofensa rebajado!
 Action 2 Message 1
 gml_Script_scr_dialogue_battle_action_selected_action_2_guardener
 scr_dialogue_battle_action_selected_action_2_guardener
@@ -1363,16 +1363,16 @@ case_exec
 T10 Vanish Mooch
 gml_Script_scr_start_enemy_fleeing_feisty_four
 scr_start_enemy_fleeing_feisty_four
-* You grip your sidearm with#  enmity...
-* Something stirs inside.
+* Empuñas tu arma con#  enemistad...
+* Algo se agita dentro.
 gml_Script_scr_dialogue_battle_action_selected_action_3_axis_geno
 scr_dialogue_battle_action_selected_action_3_axis_geno
 gml_Script_scr_start_enemy_attacking_axis
 scr_start_enemy_attacking_axis
-* You attempt to pat Dunebud.#* They slink away.
-* You give Dunebud a few loving#  pats.#* They nuzzle your hand.
+* Intentas acariaciar a Dunebud.#* Se escabullen.
+* Le das a Dunebud unas#  caricias cariñosas#*. Te acaricia la mano.
 Action 1 Sparing
-* You cautiously pat the top of#  Dunebud.#* They seem confused.
+* Le das unas palmaditas cautelosas#  en la cima de Dunebud.#* Parecen confusos.
 gml_Script_scr_dialogue_battle_action_selected_action_1_dunebud_b
 scr_dialogue_battle_action_selected_action_1_dunebud_b
 gml_Script_cutscene_dialogue_nogui
@@ -1388,8 +1388,8 @@ gml_Script_cutscene_screen_fade_out
 cutscene_screen_fade_out
 gml_Script_scr_dialogue_battle_action_selected_action_2_jandroid_a
 scr_dialogue_battle_action_selected_action_2_jandroid_a
-* You ask if Sir Slither can#  keep up his attacks.
-* You ask Sir Slither just what#  he can help you with.
+* Preguntas si Sir Slither puede#  mantener sus ataques.
+* Le preguntas a Sir Slither en#  qué puede ayudar.
 gml_Script_scr_dialogue_battle_action_selected_action_1_slither_a
 scr_dialogue_battle_action_selected_action_1_slither_a
 gml_Script_macros
@@ -2100,10 +2100,10 @@ gml_Script_scr_item_remove
 scr_item_remove
 gml_Script_scr_inventory_check_space
 scr_inventory_check_space
-* You toss Sousborg's cooking#  into the garbage.
-* You tell Sousborg to take the#  egg and crack it over a pan.
-* You tell Sousborg to fill the#  pan with water and turn up the#  heat.
-* You tell Sousborg to wrap the#  egg in plastic and let it chill#  out.
+* Tiras la comida de Sousborg a#  la basura.
+* Le dices a Sousborg que tome#  el huevo y lo rompa sobre#  una sartén.
+* Le dices a Sousborg que llene#  la cacerola de agua y#  suba el fuego.
+* Le dices a Sousborg que envuelva#  el huevo en plástico y#  lo deje enfriar.
 Action 1 Message 2
 gml_Script_scr_dialogue_battle_action_selected_action_1_sousborg
 scr_dialogue_battle_action_selected_action_1_sousborg
@@ -5347,9 +5347,9 @@ gml_Script_scr_enemy_attack_rorrim_mirror
 gml_Script_scr_enemy_attack_rorrim_sparkle
 scr_enemy_timer_attacks_rorrim_solo
 scr_enemy_attack_rorrim_mirror
-* You take a step at Dunebud to#  intimidate them.#* They flinch a little.
-* You make an angry face at Dunebud.#* They get scared.
-* You wave your hand dismissively#  at Dunebud.#* They don't understand.
+* Das un paso hacia Dunebud#  para intimidarlo.#* Se estremece un poco.
+* Pones cara de enfado a#  Dunebud. #* Se asusta.
+* Agitas la mano despectivamente#  a Dunebud. #* No lo entiende.
 scr_dialogue_battle_action_selected_action_3_dunebud_b
 scr_enemy_attack_rorrim_sparkle
 gml_Script_scr_generate_battle_decibat_intro
@@ -5423,12 +5423,12 @@ scr_enemy_attack_dalv_lightning_bolt
 scr_generate_battle_micro_froggit
 2112
 scr_recreate_heart_battle_menu_text_micro_froggit
-* Micro Froggit doesn't seem#  convinced. You may have been#  looking in the wrong direction.
-* You can't tell how#  Micro Froggit is reacting.#* You think it looks flattered.
+* Micro Froggit no parece#  convencido. Puede que hayas estado#  mirando en la dirección equivocada.
+* No puedes decir cómo#  Micro Froggit está reaccionando.#* Crees que parece halagado.
 scr_dialogue_battle_action_selected_action_1_micro_froggit
-* Micro Froggit is shaking, but#  you might just be straining#  your eyes.
+* Micro Froggit está temblando,#  pero puede que esté#  forzando la vista.
 scr_dialogue_battle_action_selected_action_2_micro_froggit
-* You lift your leg up and stomp#  with all your might.
+* Levantas la pierna y pisas#  con todas tus fuerzas.
 scr_dialogue_battle_action_selected_action_3_micro_froggit
 scr_start_enemy_attacking_micro_froggit
 dunebud_2
@@ -5449,28 +5449,28 @@ chosen_dunebud
 scr_enemy_timer_attacks_dunebud_solo
 scr_generate_battle_cactony_solo
 scr_recreate_heart_battle_menu_text_cactony_solo
-* You prick your finger on#  Cactony's bristles.
-* You give Cactony a careful pat#  in between two spines.
+* Te pinchas el dedo en las#  espinas de Cactony.
+* Le das a Cactony una#  palmadita cuidadosa entre#  dos espinas.
 scr_dialogue_battle_action_selected_action_1_cactony_a
-* You ignore Cactony.
-* You keep a safe distance#  between you Cactony.
+* Ignoras a Cactony.
+* Mantienes una distancia#  segura entre tú y Cactony.
 scr_dialogue_battle_action_selected_action_2_cactony_a
 scr_start_enemy_attacking_cactony_solo
 scr_enemy_timer_attacks_cactony_solo
 scr_generate_battle_bowll_solo
 2122
 scr_recreate_heart_battle_menu_text_bowll_solo
-* You reach out toward Bowll but#  he takes a step back.
-* You use your bandana to wipe#  away some mud on Bowll.#* He sparkles.
-* You step towards Bowll but he#  backs up and huffs at you.
+* Te extiendes hacia Bowll, pero#  él da un paso atrás.
+* Usas tu pañuelo para limpiar#  un poco de barro en Bowll.#* Él brilla.
+* Te acercas a Bowll, pero él#  retrocede y resopla#  hacia ti.
 scr_dialogue_battle_action_selected_action_1_bowll_a
 scr_generate_battle_energy_balls
-* You snicker to yourself.#* Bowll doesn't appreciate it.
-* You point out the fragility of#  Bowll's body.#* He looks distressed.
+* Te ríes para ti mismo.#* Bowll no lo aprecia.
+* Señalas la fragilidad del#  cuerpo de Bowll.#* Parece angustiado.
 scr_dialogue_battle_action_selected_action_2_bowll_a
-* You tell Bowll to be careful.#* He doesn't listen.
-* You tell Bowll he's cool the#  way he is.
-* You ask Bowll to open up and be#  genuine with you.
+* Le dices a Bowll que tenga#  cuidado.#* No escucha.
+* Le dices a Bowll que es genial#  tal como es.
+* Le pides a Bowll que se abra y#  sea genuino contigo.
 scr_dialogue_battle_action_selected_action_3_bowll_a
 gml_Script_scr_start_enemy_attacking_bowll_solo_ext
 gml_Script_scr_sme_yellow_rhythm_out_script_bowll
@@ -5542,25 +5542,25 @@ scr_generate_battle_flower_girls_solo
 scr_recreate_heart_battle_menu_text_flower_girls_solo
 scr_start_enemy_attacking_flower_girls
 scr_enemy_timer_attacks_flower_girls
-* You compliment the rich color#  of Violetta's flowers.
-* You tell Violetta her attacks#  are impressive.
-* You reach for Pedla's#  offering.
-* You tell Rosa her flowers are#  stunning.
-* You tell Rosa her attacks are#  impressive.
+* Elogias el rico color de#  las flores de Violetta.
+* Le dices a Violetta que#  sus ataques son impresionantes.
+* Alcanzas la ofrenda de#  Pedla.
+* Le dices a Rosa que sus#  flores son deslumbrantes.
+* Le dices a Rosa que sus#  ataques son impresionantes.
 scr_dialogue_battle_action_selected_action_1_flower_girls
-* You tell Violetta she has#  nothing to fear.
-* You tell Violetta to get lost.
-* You tell Pedla she's the#  sweetest Flower Girl in the#  Underground!
-* You tell Pedla her attacks are#  impressive.
-* You ask if you can have one of#  Rosa's flowers.
-* You ask Rosa to give you a#  real challenge.
+* Le dices a Violetta que#  no tiene nada que temer.
+* Le dices a Violetta que#  se largue.
+* Le dices a Pedla que es#  la Florista más dulce#  del Subsuelo.
+* Le dices a Pedla que sus#  ataques son impresionantes.
+* Preguntas si puedes tener#  una de las flores de Rosa.
+* Le pides a Rosa que te#  presente un verdadero desafío.
 scr_dialogue_battle_action_selected_action_2_flower_girls
-* You tell Violetta she's weird.
-* You tell Violetta she's weak.
-* You tell Pedla you aren't#  interested in any flowers.
-* You tell Pedla you don't want#  her flowers.
-* You tell Rosa she's too loud.
-* You tell Rosa she's weak.
+* Le dices a Violetta que#  es rara.
+* Le dices a Violetta que#  es débil.
+* Le dices a Pedla que no#  estás interesado en#  ninguna flor.
+* Le dices a Pedla que no#  quieres sus flores.
+* Le dices a Rosa que es#  demasiado ruidosa.
+* Le dices a Rosa que es#  débil.
 scr_dialogue_battle_action_selected_action_3_flower_girls
 scr_generate_battle_dummy_training_pacifist
 scr_recreate_heart_battle_menu_text_dummy_training_pacifist
@@ -5738,16 +5738,16 @@ Martlet Catapult
 scr_enemy_timer_attacks_martlet_pacifist
 scr_generate_battle_martlet_genocide
 scr_recreate_heart_battle_menu_text_martlet_genocide
-* Sorry.
+* Lo siento.
 Action 1 Fight Mode
-* You say you're sorry again.
-* You say you're sorry for#  everything.
+* Dices que lo sientes#  otra vez.
+* Dices que lo sientes#  por todo.
 scr_dialogue_battle_action_selected_action_1_martlet_genocide
-* You block out Martlet's rambling.#* She continues anyway.
+* Bloqueas las incoherencias#  de Martlet.#* Continúa de todos modos.
 Action 2 Fight Mode 1
-* You try not to hear Martlet out.
+* Intentas no escuchar a#  Martlet.
 Action 2 Fight Mode 2
-* You ignore Martlet's pleas.
+* Ignoras las súplicas de#  Martlet.
 scr_dialogue_battle_action_selected_action_2_martlet_genocide
 scr_enemy_mode_shift_martlet_genocide
 scr_enemy_mode_shift_end_martlet_genocide
@@ -5765,16 +5765,16 @@ gml_Script_scr_cutscene_battle_guardener_3
 scr_cutscene_battle_guardener_3
 2121
 scr_recreate_heart_battle_menu_text_trihecta_together
-* You attempt to push Trihecta#  over.#* They stand firm.
-* Trihecta topples over!
+* Intentas empujar a Trihecta#  para derribarlos.#* Se mantienen firme.
+* ¡Trihecta se cae!
 Action Separated
-* You push Trihecta away.
+* Empujas a Trihecta lejos.
 scr_dialogue_battle_action_selected_action_1_trihecta
-* You try to pull Trihecta toward#  you, but they won't budge.
-* You pull Trihecta towards you.
+* Empujas a Trihecta para#  alejarlos.
+* Intentas jalar a Trihecta#  hacia ti, pero#  no se mueve.
 scr_dialogue_battle_action_selected_action_2_trihecta
-* You attempt to climb Trihecta,#  but Tri snaps at your foot.
-* You attempt to climb Trihecta.#* Tri pushes you away for#  stepping on them.
+* Intentas escalar a Trihecta,#  pero Tri muerde tu pie.
+* Intentas escalar a Trihecta.#* Tri te empuja por pisarlos.
 scr_dialogue_battle_action_selected_action_3_trihecta
 quote_position
 scr_start_enemy_attacking_trihecta_together
@@ -5782,34 +5782,34 @@ battle_phase_step
 new_current_hp
 scr_generate_battle_trihecta_separated
 scr_recreate_heart_battle_menu_text_trihecta_separated
-* You laugh at Tri.
-* You burst out into laughter#  over their topple.
+* Te ríes de Tri.
+* Te echas a reír a carcajadas por su caída.
 scr_dialogue_battle_action_selected_action_1_tri
 scr_start_enemy_attacking_macro
-* You attempt to climb Tri, but#  they push you away.
-* You attempt to climb Tri, but#  get scolded for plagiarism.
+* Intentas escalar a Tri,#  pero te empujan.
+* Intentas escalar a Tri,#  pero te regañan por plagio.
 scr_dialogue_battle_action_selected_action_2_tri
-* You tell them to hug it out,#  but they aren't listening.
-* You tell Tri, Hec and Ta to#  settle their differences and#  hug it out.
+* Les dices que lo arreglen#  abrazándose, pero no#  te escuchan.
+* Les dices a Tri, Hec y Ta que#  resuelvan sus diferencias#  y se abracen.
 scr_dialogue_battle_action_selected_action_3_tri
-* You laugh at Hec.
+* Te ríes de Hec.
 scr_dialogue_battle_action_selected_action_1_hec
-* You attempt to climb Hec, but#  they snap at you.
-* You attempt to climb Hec, but#  they push you back.
+* Intentas escalar a Hec,#  pero te muerden.
+* Intentas escalar a Hec,#  pero te empujan.
 scr_dialogue_battle_action_selected_action_2_hec
 scr_dialogue_battle_action_selected_action_3_hec
-* You laugh at Ta.
+* Te ríes de Ta.
 scr_dialogue_battle_action_selected_action_1_ta
-* You attempt to climb Ta, but#  they run from you.
-* You attempt to climb Ta... and#  you succeed!#* Ta is very happy.
+* Intentas escalar a Ta,#  pero huyen de ti.
+* Intentas escalar a Ta y#  ¡tienes éxito!#* Ta está muy feliz.
 scr_dialogue_battle_action_selected_action_2_ta
-* You tell Tri, Hec and Ta to#  settle their differences#  and hug it out.
+* Les dices a Tri, Hec y Ta#  que resuelvan sus diferencias#  y se abracen.
 scr_dialogue_battle_action_selected_action_3_ta
 scr_start_enemy_attacking_trihecta_separated
-* You wash Sousborg's oil off of#  your hands.
-* You accuse Sousborg of#  undercooking his food.
-* You tell Sousborg to heat the#  stove until the egg begins to#  sizzle.
-* You tell Sousborg to pet the#  egg. He does. This accomplished#  nothing.
+* Te lavas las manos para quitar#  el aceite de Sousborg.
+* Acusas a Sousborg de no cocinar#  bien su comida.
+* Le dices a Sousborg que caliente#  la estufa hasta que el huevo#  comience a chispear.
+* Le dices a Sousborg que acaricie#  el huevo. Lo hace.#  Esto no logra nada.
 Action 2 Message 2
 scr_dialogue_battle_action_selected_action_2_sousborg
 scr_recreate_heart_battle_menu_text_slither_solo
@@ -5849,11 +5849,11 @@ scr_generate_battle_ceroba_genocide
 scr_recreate_heart_battle_menu_text_ceroba_genocide
 scr_enemy_timer_attacks_ceroba_genocide
 scr_start_enemy_attacking_ceroba_genocide
-* You hold your ground against#  the magic.
+* Te mantienes firme#  contra la magia.
 scr_dialogue_battle_action_selected_action_1_ceroba
-* You take a moment to breathe,#  preparing for what's to come.
+* Te tomas un momento para#  respirar, preparándote#  para lo que viene.
 scr_dialogue_battle_action_selected_action_2_ceroba
-* You attempt to belittle your#  opponent but she's in another#  world.
+* Intentas menospreciar a#  tu oponente pero ella#  está en otro mundo.
 scr_dialogue_battle_action_selected_action_3_ceroba
 scr_generate_battle_starlo
 scr_recreate_heart_battle_menu_text_starlo
@@ -6115,9 +6115,9 @@ sprite_delete
 gml_Script_background_delete
 background_delete
 * AXIS ACTION MESSAGE 2
-* You tell Axis he's not great at#  his job. If he could frown, he#  would.
-* You criticize Axis' attack#  strategy. Steam shoots out of#  his hearing ducts.
-* You say something rude to Axis.#  He "HONESTLY DOES NOT APPRECIATE#  IT."
+* Le dices a Axis que no es muy bueno#  en su trabajo. Si pudiera#  fruncir el ceño, lo haría.
+* Criticas la estrategia de#  ataque de Axis. Vapor sale#  de sus conductos auditivos.
+* Le dices algo grosero a Axis.#  "HONESTAMENTE, NO LO APRECIA."
 scr_dialogue_battle_action_selected_action_2_axis
 sprite_duplicate
 gml_Script_background_duplicate
@@ -6573,8 +6573,8 @@ matrix_build_projection_perspective_fov
 mP
 gml_Script_d3d_set_projection_ext
 d3d_set_projection_ext
-* You tell Sousborg to throw that#  puppy into the oven!
-* You tell Sousborg to grab some#  pepper and sprinkle it over the#  egg.
+* ¡Le dices a Sousborg que meta#  ese cachorro en el horno!
+* Le dices a Sousborg que tome#  un poco de pimienta y lo#  eche sobre el huevo.
 scr_dialogue_battle_action_selected_action_3_sousborg
 ww
 hh
@@ -6755,9 +6755,9 @@ gml_Script_joystick_vpos
 joystick_vpos
 gml_Script_joystick_xpos
 joystick_xpos
-* Nothing on.
-* While this IS your favorite#  channel, Telly-Vis don't look#  amused.
-* Telly finds a show she thinks#  you'll love.
+* No hay nada.
+* Aunque este ES tu canal#  favorito, a los Telly-Vis no#  parece hacerles gracia.
+* Telly encuentra un#  programa que cree#  que te encantará.
 scr_dialogue_battle_action_selected_action_1_tellyvis_a
 gml_Script_joystick_ypos
 joystick_ypos
@@ -8721,9 +8721,9 @@ scr_enemy_timer_attacks_sousborg
 scr_dialogue_battle_action_selected_action_1_macro
 gml_Script_cutscene_dialogue_dark
 cutscene_dialogue_dark
-* You tune Goosic out.
-* You try not to get wrapped up#  in the music.
-* You plug your ears in hopes to#  block the noise. Goosic just#  turns it up.
+* Ignoras a Goosic.
+* Intentas no dejarte#  envolver por la#  música.
+* Te taponas los oídos con#  la esperanza de bloquear el#  ruido. Goosic lo sube.
 scr_dialogue_battle_action_selected_action_2_goosic_a
 gml_Script_scr_text_battle
 scr_text_battle
@@ -8819,8 +8819,8 @@ gml_thread_status_running
 gml_thread_status_waiting
 gml_thread_status_done
 gml_thread_status_error
-* You believe that Sir Slither#  wants to stay alive.
-* You buy into Sir Slither's#  fancy words. Something feels#  off.
+* Crees que Sir Slither#  quiere seguir vivo.
+* Te crees las palabras#  rebuscadas de Sir Slither.#  Algo se siente mal.
 scr_dialogue_battle_action_selected_action_2_slither_a
 scr_start_enemy_attacking_guardener
 gml_Script_scr_axis_clover_scan
@@ -8828,8 +8828,8 @@ scr_axis_clover_scan
 scr_enemy_timer_attacks_asgore
 scr_generate_battle_jandroid_solo
 scr_end_enemy_attacking_axis
-* You couldn't sleep if you#  wanted to.
-* You begin to drift off to the#  dismay of Telly.. 
+* No podías dormir aunque#  quisieras.
+* Empiezas a quedarte#  dormido para desgracia#  de Telly... 
 scr_dialogue_battle_action_selected_action_2_tellyvis_a
 gml_Script_live_room_start
 live_room_start
@@ -8877,11 +8877,11 @@ audio_listener_orientation
 scr_generate_battle_goosic_solo
 gml_Script_scr_verlet_guardener_wind
 scr_verlet_guardener_wind
-* You pull on your shirt#  repeatedly in hopes to beat the#  heat. Your effort fails.
+* Te pones la camiseta varias#  veces con la esperanza de#  combatir el calor. Fracasas.
 scr_dialogue_battle_action_selected_action_3_axis
 scr_screenshake_battle_custom
 * Miras hacia Ceroba, con furia#  por lo que hizo.
-* You think of those you love#  most...
+* Piensas en los que más#  quieres...
 scr_dialogue_battle_action_selected_action_3_ceroba_pacifist
 gml_Script_scr_talking_vendy
 scr_talking_vendy
@@ -8889,7 +8889,7 @@ scr_generate_battle_jandroid_goosic_duo
 gml_Script_scr_talking_moray
 scr_talking_moray
 scr_enemy_timer_attacks_energy_balls
-* Frog?
+* ¿Frog?
 scr_dialogue_battle_action_selected_action_2_macro
 scr_sme_yellow_rhythm_song_data_flowey_nosong
 gml_Script_scr_text_counter_custom
