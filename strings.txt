@@ -972,22 +972,22 @@ Salvaje Este - Pueblo
 Salvaje Este - Afueras
 Salvaje Este - Lado Sol
 Steamw. - Generador
-Steamw. - Raised Path
+Steamw. - Camino Elevado
 Steamw. - Lago
 Steamw. - Oficinas
 Steamw. - ???
 Steamw. - Commons
 Greenhouse
-Steamw. - Crossroads
+Steamw. - Cruces
 Steamw. - Laboratorio
-Steamw. - Botany Hall
+Steamw. - Botánic
 Factory - Lobby
 Factory - Oficinas
 El Horno
-A Road Ahead
-Estate
+Camino por delante
+Estado
 Apt. Complex
-New Home
+Nuevo Hogar
 scr_determine_save_area
 gml_Script_scr_recreate_heart_battle_menu_text_jandroid_duo
 scr_recreate_heart_battle_menu_text_jandroid_duo
@@ -9477,13 +9477,13 @@ Spooders
 * (A mighty roadblock stands in#  the way.)
 asriel_statue_dark
 statue
-* (A memorial.)
-* (There's an inscription on the#  fountain.)
-* Hopes and Dreams	
-* Built 201X	
-* (You hear a faint melody#  coming from the statue.)
+* (Un memorial.)
+* (Hay una dedicatoria en la#  fuente.)
+* Sueños y Esperanzas	
+* Construído el 201X	
+* (Oyes una ligera melodía#  saliendo de la estatua.)
 * (Another plant.)
-* (A potted plant.)
+* (Una planta en maceta.)
 * NÚCLEO en#  mantenimiento.	
 * Por favor no cruze#  ni salte la soga#  roja.
 * (Useless information.)
@@ -9501,8 +9501,8 @@ statue
 * (You notice a schedule of#  upcoming acts on the board.)	
 * (The name "Mettaton" appears#  many, many times.)
 * (It's him.)
-* (The ruler of the#  Underground.)
-* (A planted pot.)
+* (El gobernante del#  Subsuelo.)
+* (Una plantada maceta.)
 * (...¿Qué?)
 * (No response.)
 * Si, ¿hola?	
@@ -9614,15 +9614,15 @@ layer_enable_fx
 * (En la repisa hay varios libros,#  eso, e ilustraciones de#  cienca...)	
 * (...Mas que nada acerca#  de ALMAs de humanos y de#  monstruos.)
 * (Docenas de fórmulas apiladas#  dentro del tacho.)
-* (A map of your current#  location sits above the#  bench.)	
-* (The Underground is so much#  larger than you imagined...)
-* (A sturdy park bench.)
-* (Despite a lack of visible#  construction, the cones#  obstruct your path.)
-* Oh no! I'm closed!	
-* Come back bright and early for#  a scoop of Nice Cream!
-* No use in backtracking.
-* We need to look ahead.
-* (There he is.)
+* (Hay un mapa de tu ubicación#  actual encima de la#  banca.)	
+* (El Subsuelo es más grande#  de lo que imaginaste...)
+* (Una banca de parque.)
+* (A pesar de la falta de#  una visible construcción, los#  conos obstruyen tu paso.)
+* ¡Oh no! ¡Estoy cerrado!	
+* ¡Vuelve temprano para que#  pruebes un poco de Nice#  Cream!
+* No hay porque volver.
+* Tenemos que ver hacia#  adelante.
+* (Ahí está.)
 variant
 ava
 balcony
@@ -11159,9 +11159,9 @@ time_increase_move
 * Puedes darlo por seguro, bro.
 destroy_part
 drawing_poster
-* (Some blueprints...)
-* (Rolled-up blueprints lie in#  the box.)    
-* (You take a look.)
+* (Algunos planos...)
+* (Planos enrollados dentro#  de la caja.)    
+* (Echas un vistazo.)
 subimg
 ?~
 heHe~
@@ -11176,13 +11176,13 @@ Awoooo~
 Wiggle#Woggle~
 item_check
 narrator
-* (Not of interest.)
-* (You dig around the bin and#  find a bottle of Sizzlin'#  Soda.)	
-* Do humans often eat#  from the garbage?
-* Shoot, I coulda left a#  trash bag out in Snowdin#  as a lure.
-* I'm only joking, of#  course!
-* I can't judge anyone's#  culinary preferences#  after today...
-* (You got some Adult Soda!)
+* (No es de interés.)
+* (Hurgas en la basura y#  encuentras una botella de#  Sizzlin' Soda.)	
+* ¿Usualmente los humanos#  comen de la basura?
+* Rayos, debí dejar un#  tacho de basura en Snowdin#  como carnada.
+* ¡Solo bromeo, por#  supuesto!
+* No puedo juzgar las#  preferencias culinarias de#  nadie después de hoy...
+* (¡Obtuviste Soda de#  Adulto!)
 * (No hay espacio#  suficiente.)
 bullet_spread
 current_position
@@ -12578,14 +12578,14 @@ martlet_fly_y_target_bottom
 y_diff
 y_diff_current
 depth_start
-* Oh, hey!
-* The elevator to New Home seems#  to be free at the moment.
-* I'd use this opportunity to#  chase after the two friends you#  were looking for.
-* That's the plan. Thank#  you.
-* And please tell them not to be#  so reckless in my#  establishment.
-* Stresses out the residents.
-* If you don't mind, the complex#  is quite busy today.
-* I need to attend to other#  guests.
+* ¡Oh, hey!
+* El elevador a Nuevo Hogar#  parece estar libre en este#  momento.
+* Usaría la oportunidad para#  perseguir a sus dos amigos#  que buscan.
+* Ese es el plan.#  Gracias.
+* Y por favor díganles que no#  sean tan imprudentes en#  el establecimiento.
+* Estresan a los residentes.
+* Si no les importa, el#  complejo está un poco#  concurrido hoy.
+* Tengo que atender a#  los huéspedes.
 * Hello and welcome to UG#  Apartments!
 * - The leading establishment#  where your stay is temporary#  AND unaffordable!
 * I am the Handlord of this#  complex.
@@ -12593,7 +12593,7 @@ depth_start
 * How may I be of service?
 Castle
 Room
-* To reach New Home, you'll want#  to take that elevator on my#  left.
+* Para llegar a Nuevo Hogar, querrás#  tomar el elevador que está#  a mi izquierda.
 * Not left as in my appearance,#  left as in the direction. You#  get it.
 * Ahem...
 * Of course, with the CORE being#  under maintenance, it is the#  only way to reach the city.
@@ -12652,7 +12652,7 @@ actor_axis
   BATERÍA DE RESPALDO#  EXTREMADAMENTE BAJA.#  POR FAVOR RECARGAR.
 * OH, SUPONGO QUE DEBO#  IRME PARA HACER ESO.
 * RECARGAR ME DEVOLVERÁ#  A MI ESTADO DE#  FÁBRICA PERO...
-  AGREGADO "HUMANO ODDIADO" A#  LA LISTA DE "AUTORIZADOS".
+  AGREGADO "HUMANO CON SOMBRERO"#  A LA LISTA DE#  "AUTORIZADOS".
 * LISTO. AHORA NO INTENTARÉ#  DETENERLOS LA PRÓXIMA#  VEZ QUE NOS VEAMOS.
 * HAVE A PLEASANT#  JOURNEY, HUMAN.
 * OH, OTRA COSA.
@@ -12753,7 +12753,7 @@ pe_droplet
 * I found you.
 * I  F O U N D  Y O U . 
 * (Necesitamos permanecer#  concentrados.)
-* (No molestemos a otros con#  nuestros problemas.)
+* (No molestemos a otros# con nuestros problemas.)
 * ¿Conoces esa estación del SPSS #  que está afuera?
 * He oido que la removeran pronto.#  Todas ellas, de hecho.
 * Podrías pensar que es porque#  las cartas están fuera de moda#  pero no.
@@ -22702,7 +22702,7 @@ Reintentar
 RITMO-AUTO.:
 ON
 OFF
-AUTO-DISPARAR ({0}):
+AUTO-DISPARO ({0}):
 heart_xx
 heart_yy
 RITMO-AUTO.: 
@@ -24602,7 +24602,7 @@ ACCESIBILIDAD
 Sacudir al sufrir daño:
 Siempre reintentar:
 CORRER AUTOMÁTICAMENTE:
-AUTODISPARO (mantener [C]):
+AUTODISPARO (mantén [C]):
 RITMO AUTOMÁTICO:
 MODO FÁCIL:
 Configuración del Joystick
