@@ -1228,7 +1228,7 @@ gml_Script_scr_init_flags_hotland
 scr_init_flags_hotland
 * Intentas mover la aguja de#  Goosic pero te da un susto.
 * Parece que Goosic se está#  calmando. No debería cambiar#  la canción ahora.
-* Mueves la aguja de Goosic#  a un nuevo disco más#  tranquilo.
+* Mueves la aguja de Goosic#  a un nuevo disco más tranquilo.
 gml_Script_scr_dialogue_battle_action_selected_action_3_goosic_a
 scr_dialogue_battle_action_selected_action_3_goosic_a
 gml_Script_scr_start_enemy_attacking_steam
@@ -1251,7 +1251,7 @@ scr_generate_battle_guardener
 * Le suplicas a Guardener y#  parece que surte efecto.#  ¡Nivel de ofensa reducido!
 * Intentas convencer a Guardener#  de que deje de pelear.#  ¡Nivel de ofensa reducido!	
 * Le dices a Guardener que esto#  es un malentendido.#  ¡Nivel de ofensa reducido!	
-* Le pides a Guardener que#  piense en lo que está haciendo.#  ¡Nivel de ofensa reducido!
+* Le pides a Guardener que piense#  en lo que está haciendo.#  ¡Nivel de ofensa reducido!
 * Usas la lógica con la esperanza#  de calmar la situación.#  ¡Nivel de ofensa rebajado!
 Action 2 Message 1
 gml_Script_scr_dialogue_battle_action_selected_action_2_guardener
@@ -1277,7 +1277,7 @@ random_message
 gml_Script_scr_dialogue_battle_action_selected_action_2_feisty_four
 scr_dialogue_battle_action_selected_action_2_feisty_four
 * Ve si las antenas de Telly#  todavía funcionan.#  No funcionan.
-* Ayudas a Telly a encontrar#  algo de# programación.
+* Ayudas a Telly a encontrar#  algo de programación.
 * Vuelves a intentar tocar las#  antenas de Telly, pero ella hace#  un gesto para que te alejes.
 gml_Script_scr_dialogue_battle_action_selected_action_3_tellyvis_a
 scr_dialogue_battle_action_selected_action_3_tellyvis_a
@@ -3502,7 +3502,7 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * El aire se hace más denso.
 * No puedes aguantar#  para siempre.
 * Frog.
-* Esporas blancas se agitan#  en el aire.
+* Esporas blancas se agitan en el#  aire.
 * uno dos tres cuatro cinco seis#  siete Siete sSieEte 7sI=te sEmn#  0sEen SieeteeEeeeeEEEEE
 * Ceroba intenta ignorar la#  condición de sus amigos.
 * El amor de una madre.
@@ -3592,13 +3592,13 @@ scr_battle_core_directory_flavor_text_enemy_1_default_2
 * Huele a botas de cuero y#  a sueños rotos.
 * Vis le recuerda a Telly a qué#  hora se emite su programa favorito,#  pero ella se burla de él.
 * Huele a malas elecciones.
-* Goosic emite música de#  batalla desde su pico.
+* Goosic emite música de batalla#  desde su pico.
 * ¡Sousborg te cocina unos#  espaguetis! ...sin agua.
 * Sientes cómo te envuelven# las ondas de calor#  del horno.
 * Supera sus esfuerzos.
 * ¿¿¿Ribbit???
-* ¡Está floreciendo una#  gran hostilidad!
-* Las enredaderas entran y salen#  del suelo a tu#  alrededor.
+* ¡Está floreciendo una gran#  hostilidad!
+* Las enredaderas entran y salen#  del suelo a tu alrededor.
 * R31n1c14r R31n73n74r#  R31n1c14r R31n73n74r#  R31n1c14r R31n73n74r
 * Una brisa helada envuelve el#  área.
 * Ceroba baja su vista hacia#  el Subsuelo.
@@ -3644,8 +3644,8 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * Huele como una#  desafortunada barbacoa.
 * Uno es todo lo que se#  necesita. Sigue adelante.
 * Macro Froggit da pisotones,#  sacudiendo toda la#  habitación.
-* Guardener te mira con#  desprecio, temblando#  ligeramente.
-* Guardener se mueve a un ritmo#  alarmante. Esto no puede#  ser bueno para el.
+* Guardener te mira con desprecio,#  temblando ligeramente.
+* Guardener se mueve a un ritmo#  alarmante. Esto no puede ser#  bueno para él.
 * ARCHIVO 01 - [REDACTADO]
 * Ceroba mira fijamente a tu ALMA#  con arrepentimiento.
 * Tu ALMA late con gran poder.
@@ -3680,7 +3680,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_4
 * Termina lo que empezaste.
 * ¡Macro Froggit reina!
 * Huele a césped cortado.
-* Empiezas a pensar que ya#  estás harto de plantas.
+* Empiezas a pensar que ya estás#  harto de plantas.
 * desaparecido.
 * El combate continúa.
 * El caos ha sido desatado.
@@ -3788,7 +3788,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_9
 * Goosic se pierde en la música.
 * ¡Sousborg se inclina ante#  tu maestría culinaria!
 * Axis se enfrio.
-* Guardener se enfría mientras el#  vapor se filtra por#  sus brazos.
+* Guardener se enfría mientras el#  vapor se filtra por sus brazos.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_sparing_1
 scr_battle_core_directory_flavor_text_enemy_1_sparing_1
 * Insomnitot está en su#  lugar feliz.
@@ -4071,7 +4071,7 @@ action_3_color_3
 * Sonreir
 * Señalar
 * Analizar
-* Espinas
+* Aguja
 * Hornear
 * Condimentar
 * Antagonizar
@@ -4194,7 +4194,7 @@ enemy_low_hp_3
 * MACRO FROGGIT -- ATQ 
 #* Grande rana.
 * GUARDENER -- ATQ 
-#* Atrapa a los delincuentes para una aprehensión fácil.
+#* Atrapa a los delincuentes para#  una aprehensión fácil.
 #* Debería bajar su ira un poco.
 * Tu mejor amigo!
 #* Un legado para no olvidar.
@@ -6757,7 +6757,7 @@ gml_Script_joystick_xpos
 joystick_xpos
 * No hay nada.
 * Aunque este ES tu canal#  favorito, a los Telly-Vis no#  parece hacerles gracia.
-* Telly encuentra un#  programa que cree#  que te encantará.
+* Telly encuentra un programa#  que cree que te encantará.
 scr_dialogue_battle_action_selected_action_1_tellyvis_a
 gml_Script_joystick_ypos
 joystick_ypos
@@ -8755,7 +8755,7 @@ gml_Script_scr_verlet_updatepoints
 scr_verlet_updatepoints
 gml_Script_cutscene_dialogue_final_flowey
 cutscene_dialogue_final_flowey
-THEY KNOW.#I JUST SAID THAT.
+LO SABEN.#ACABO DE DECIRLO.
 gml_Script_scr_cutscene_battle_guardener_1
 scr_cutscene_battle_guardener_1
 points
@@ -9303,60 +9303,60 @@ room_target
 * (Ni siquiera tú eres#  tan valiente para probar.)
 * ¿Has visto a mi esposa?
 * (Just some litter.)
-* (An old bottle with no message#  inside.)
-* (The message is clear.)
-* (Step by step. One by one.)
+* (Una botella vieja sin ningún#  mensaje dentro.)
+* (El mensaje es claro.)
+* (Paso a paso. Uno a uno.)
 * (A stepladder.)
-* (Nothing of value resides in#  this trash can.)
+* (Nada de valor yace entre la#  basura.)
 * (Nothing of value.)
-* Don't stray too far! 
-* That's the direction#  Axis went!
+* ¡No te alejes tanto! 
+* ¡Esa es la dirección en#  la que fue Axis!
 tiles_shortcut_railing
 ast_shortcut
-* (A dried up fountain.)
-* (A dried up fountain lies#  before you.)	
-* (It doesn't look remotely#  operational anymore.)
+* (Una fuente seca.)
+* (Una fuente seca yace frente#  a ti.)	
+* (No parece que funcione ya.)
 * (Getting tired of plants.)
-* (Various types of plants sit#  within several containers.)	
-* (The smell is... unnatural.)
+* (Varios tipos de plantas#  reposan en distintos#  recipientes.)	
+* (El olor es... antinatural.)
 * (Already dead.)
-* (A grown-over robot.)
-* (Could use a good cleaning.)
-* (A grown-over robot.)	
-* (They're much more silent than#  you're used to.)
-* (You can almost make out a face#  on its screen.)
-* (You avoid touching some#  exposed wires on their back.)
-* (Seems more forgotten than the#  rest.)
-* (This one looks like it could#  cut you.)
-* (You notice a small hat resting#  on top of them.)
-* To: Science Division	
-* Employees have reported the#  generator is showing more wear#  than ever.	
-* The engineers predict the#  machine won't last longer than#  one year from now.	
-* I need you to speed up the#  testing of alternate power#  sources.	
-* The Underground depends on it.
-* - Head Office
-      Science Division
-* To: Head Office	
-* More tests are underway, both#  biological and mechanical.	
-* We don't know which direction#  will ultimately be best for#  monsterkind yet.	
-* However, the chemistry lab did#  have a breakthrough regarding a#  white plant.	
-* I'll get back to you on that#  once further testing has#  commenced.	
-* - Science Division
-* To:            	
-* I think we've got it!	
-* The white plants have proven#  able to generate electricity at#  a fantastic rate!	
-* The only issues are that they#  grow four times faster than#  normal flora...	
-* ...and once their power is#  drained, they wilt into a dark,#  sticky substance.	
-* If this is greenlit, we will#  need a new division to tend to#  these plants.	
-* Otherwise, working conditions#  will suffer greatly.	
-* To: Science Division
-* The plants should suffice as a#  temporary solution.	
-* I've heard one of our top#  scientists is working toward a#  new compound.	
-* One made from special energy.#  It could be the key we need.	
-* Much more time is necessary to#  develop it properly, however.	
-* As for the proposed "Greenhouse#  Division", I have an idea.	
-* Cheaper, more efficient, and#  trustworthy.	
-* I'll send you some blueprints#  shortly. Thank you for your#  time and research.	
+* (Un robot grande.)
+* (Le vendría bien una limpieza.)
+* (Un robot grande.)	
+* (Mucho más silencioso de lo#  que tú acostumbras.)
+* (Casi que puedes dibujar una#  cara en su pantalla.)
+* (Evitas tocar algunos cables#  expuestos en su espalda.)
+* (Parece más olvidado que el#  resto.)
+* (Este parece que podría#  cortarte.)
+* (Notas un pequeño sombrero#  posado en su cabeza.)
+* Para: División Científica	
+* Empleados reportan que el#  generador muestra más desgaste#  que nunca.	
+* Los ingenieros predicen que#  la máquina no durará más de#  un año.	
+* Necesito que aceleren las#  pruebas de fuentes de energía#  alternas.	
+* El Subsuelo depende de ello.
+* - Oficina Central
+        División Científica
+* Para: Oficina Central	
+* Más pruebas se suceden, tanto#  biológicas como mecánicas.	
+* No sabemos qué dirección será#  la mejor para los monstruos#  por ahora.	
+* Sin embargo, el laboratorio ha#  descubierto algo en relación a#  una planta blanca.	
+* Me comunicaré de nuevo con#  ustedes en cuanto se investigue#  más acerca de ello.	
+* - División Científica
+* Para: Oficina Central        	
+* ¡Creo que lo tenemos!	
+* ¡Las plantas blancas han#  probado generar electricidad#  a un ritmo fantástico!	
+* Los únicos problemas son que#  crecen 4 veces más rápido que#  las flores comunes...	
+* ...y que cuando su energía#  muere, se convierten en una#  sustancia oscura y pegajosa.	
+* Si nos dan luz verde, vamos#  a necesitar toda una nueva#  división para tratarlas.	
+* Sino, las condiciones laborales#  sufrirán bastante.	
+* Para: División Científica
+* Las plantas deberían bastar#  como solución temporal.	
+* Escuché que uno de nuestros#  mejores científicos trabaja#  en un nuevo componente.	
+* Hecho con energía especial.#  Podría ser la clave que#  necesitamos.	
+* Se necesita mucho más tiempo#  para desarrollarlo, sin#  embargo.	
+* Respecto a la propuesta#  "División Greenhouse", tengo#  una idea.	
+* Más barata, más eficiente, y#  confiable.	
+* Les enviaré algunos planos#  pronto. Gracias por su tiempo#  e investigaciones.	
 * (Nada útil.)
 * (Miras dentro de la caja.)
 * (Nada de interés aquí.)
@@ -11085,13 +11085,13 @@ noise_pop
 flowey_face
 rand
 xspeed
-* (You peer into the box and find#  a bucket of nails.)	
-* (Las tomas?)
-* (A bucket of nails. Could be#  useful.)
-* (You got Nails!)
-* (You got nails.)
-* (You decide not to touch the#  nails.)
-* (Nothing of use left.)
+* (Miras dentro de la caja y#  encuentras unos clavos.)	
+* (¿Los tomas?)
+* (Unos clavos. Podrían ser útiles.)
+* (¡Obtuviste Clavos!)
+* (Obtuviste clavos.)
+* (Decides no tocarlos.)
+* (Nada de valor queda.)
 route_distance
 spawn_point_inc
 current_spawn_point
@@ -11104,9 +11104,9 @@ npc_axis_run_speed
 axis_run_speed
 * N0.. .
 * R- R3TREATING!
-* Holy...
-* What happened here?
-* Hope this stuff is okay#  to touch...
+* Dios...
+* ¿Qué pasó aquí?
+* Espero que no sea#  dañino tocar esto...
 static_noise
 hurt_sprite
 vanish
@@ -11160,7 +11160,7 @@ time_increase_move
 destroy_part
 drawing_poster
 * (Algunos planos...)
-* (Planos enrollados dentro#  de la caja.)    
+* (Planos enrollados dentro de#  la caja.)    
 * (Echas un vistazo.)
 subimg
 ?~
@@ -11880,10 +11880,10 @@ Wild East Saloon Geno
 * (No queda ningún ORO#  para llevarse.)
 Hotel Shop Geno
 * (Te llevaste 500 de ORO#  de la caja registradora.)
-* (Miras dentro de la caja#  y encuentras unas#  Grassy Fries.)
+* (Miras dentro de la caja y#  encuentras unas Papas Fritas.)
 * (Algo de comida aquí.)
-* (¡Conseguiste Grassy Fries!)
-* (¡Conseguiste Grassy Fries.)
+* (¡Conseguiste Papas Fritas!)
+* (¡Conseguiste Papas Fritas!)
 spawn_interval
 spawn_direction_variance
 spawned_last
@@ -12996,12 +12996,12 @@ target_position
 x_offset_base
 bell_sound
 * ¡Cuidado, Clover!
-* No queremos alertar a#  alguien externo.
-* En especial empleados#  bajo Asogre como el#  SPSS.
-* Tu correo tendrá que#  esperar.
-* No queremos alertar a#  alguien externo.
-* En especial empleados#  bajo Asogre como el#  SPSS.
-* Tu correo tendrá que#  esperar.
+* No queremos alertar a alguien#  externo.
+* En especial empleados de Asgore#  como el SPSS.
+* Tu correo tendrá que esperar.
+* No queremos alertar a alguien#  externo.
+* En especial empleados de Asgore#  como el SPSS.
+* Tu correo tendrá que esperar.
 * Pero nadie vino.
 x_distance
 bounce
@@ -13468,32 +13468,32 @@ picture_alpha
 * Bueno, aquí estamos.
 * Definitivamente lo#  que necesito después#  de esa locura.
 npc_action_sprite
-* I wonder what Starlo's#  up to right now?
-* Probably on some Feisty#  Five quest with a smile#  on his face.
-* I do envy him... to be#  wrapped in optimism and#  fantasy.
-* That's pretty rare#  amongst monsters.
-* Most might act#  cheerful, but life down#  here...
-* ...It's hopeless.
-* That's why they look to#  the King for assurance.
-* They believe once he#  gets seven SOULs and#  breaks the barrier...
-* ...he'll easily be able#  to overthrow whatever#  awaits on the Surface.
-* A rather foolish#  outlook if you ask me.
-* Who knows how the humans#  have prepared for#  retaliation since then?
-* But I digress... We#  should handle our own#  problems first.
-* I can't imagine what#  Kanako's going through#  right now...
-* You haven't seen my#  Kanako yet, have you?
-* Here, take a look.
-* Look at that smile.#  Definitely her father's.
-* Gifted like her father#  too. She's a...
-* ...She didn't deserve#  this life.
-* I truly wish things#  could be different...
-* ...But, that's not what#  "fate" had planned.
-* I apologize for my#  vagueness.
-* I prefer to keep the#  bad memories to myself.
-* Anyway, the Lab#  shouldn't be horribly#  far from here.
-* We WILL get to the#  bottom of this, Clover.
-* In the meantime, you#  can scout ahead. I'm#  gonna rest a bit longer.
-* Just scream if#  something makes an#  attempt on your life.
+* Me pregunto que estará#  haciendo Starlo.
+* Seguro en alguna misión Feisty#  Five con una sonrisa#  en el rostro.
+* Le envidio... eso de#  estar envuelto en#  optimismo y fantasía.
+* No es común eso entre#  los monstruos.
+* La mayoría actúa alegre#  pero la vida aquí#  abajo...
+* ...no tiene esperanza.
+* Es por eso que buscan#  en el Rey sentirse seguros.
+* Creen que una vez#  obtenga siete ALMAS y#  rompa la barrera...
+* ...será capaz de vencer#  fácilmente lo que sea#  que haya en la Superficie.
+* Una forma de verlo#  bastante estúpida si me#  preguntas.
+* ¿Quién sabe cómo se han#  preparado los humanos#  desde entonces?
+* Pero estoy divagando...#  Nosotros deberíamos arreglar#  nuestros problemas primero.
+* No puedo imaginar por#  lo que Kanako esta#  pasando ahora mismo...
+* Aún no has visto a#  mi Kanako, ¿no?
+* Mira, echa un vistazo.
+* Mirá esa sonrisa. La#  misma de su padre, sin#  dudas.
+* Talentosa como él,#  también. Ella es...
+* ...No se merecía esta#  vida.
+* De verdad deseo que#  hubieran sido distinto...
+* ...pero, no es lo que#  "el destino" planeó.
+* Perdona mi ambiguedad.
+* Prefiero mantener los#  malos momentos para mí.
+* Como fuere, el Lab no#  debería estar horriblemente#  lejos de aquí.
+* LLEGAREMOS al fondo de#  esto, Clover.
+* Mientras tanto, puedes#  investigar un poco. Yo#  descansaré un rato más.
+* Simplemente grita si#  algo intenta quitarte#  la vida.
 * Dime, ¿otro explorador#  en este cuello#  de las cuevas?
 * ¡Encantado de conocerte!
 * No te dedicarías a mover#  piedras, ¿verdad?
@@ -14236,66 +14236,66 @@ bottom
 draw_x_offset
 counter_shake
 : 
-WAIT-
-YOU- Y0U / _I. ..
-[>/0FFENSE LEVEL#LOWERED_]
+ESPERA-
+TÚ- TÚ / _YO. ..
+[>/NIVEL DE#OFENSA REDUCIDO_]
 OH. 
-WHAT HAPPENED?
-THERE S_SEEMS TO#BE A GAP IN MY#MEMORY CORE.
-I AM SORRY.
-I HAVE#INCAPACITATED#YOUR OPTIONS.
-I ASK YOU#COOPERATE WITH#ME.
-ACCEPT YOUR#OFFENSE,#TRAMPLER.
-YOU MUST LEARN#THAT PLANTLIFE#IS IMPORTANT.
-MORE IMPORTANT_#THA;N#Y0U. /
-IF YOU DO NOT#YIELD, I WILL#CALL FOR BACKUP.
-YOU ARE A#HANDFUL. 
-I AM GOING TO#COUNT TO 3.
+¿QUÉ PASÓ?
+PARECE H_HABER UN#VACÍO EN MI#NÚCLEO DE MEMORIA.
+LO SIENTO.
+HE#INCAPACITADO#TUS OPCIONES.
+TE PIDO#QUE COOPERES.
+ACEPTA TU#OFENSA,#PISOTEADOR.
+DEBES APRENDER#QUE LA FLORA#ES IMPORTANTE.
+MÁS IMPORTANTE_#QU;E#TÚ. /
+SI TÚ NO#CEDES, LLAMARÉ#REFUERZOS.
+ERES MUY#INQUIETO. 
+CONTARÉ#HASTA 3.
 1...
 2...
-NOT BLUFFING.
+NO MIENTO.
 3.
-[CALLING BACKUP_]
-you called#for help,#guardener?
-CORRECT.
-THIS TRAMPLER DOES#NOT VALUE THE#GREENHOUSE.
-what is#the offense#level, miss?
-10 - TERMINATION.
-level 10!?
-i mean, of#course!
-we are#sorry,#offender.
-guardener#says you#deserve#termination.
-THEY KNOW.
-sooo...  
-ATTACK.   
-right.
-_KEEP IT UP_<
-PLEASE/ STAY IN#Y0UR_CONFINES !
-CLEVERLY DONE.
-YOU HAVE GAINED#MY RESPECT.
-BUT YOU HAVE#NOT GAINED#MY MERCY.
-BOTS,#_ATTACK.
-JUST YOU #AND I AGAIN.
-IT IS TOO BAD#I CANNOT GROW#TIRED.
-FOR YOU,#THAT IS.
-i'm here#for the#attack!    
-OH. YOU#MISSED IT.
-seriously?#maaan.
-HEY, IT#IS OK.
-HERE, A FLOWER#TO CHEER#YOU UP.
-yoo #thanks
-mind if i#attack a#little?
-BY ALL#MEANS.
-STILL#STANDING?
-YOU ARE#RATHER UPSETTING.
-JUST WAIT UNTIL#MY CREATOR HEARS#ABOUT THIS.
-YOU WILL GET#A LONG LECTURE.
-A LECTURE MORE#PAINFUL THAN#ANYTHING I AM#DOING.
-TRUE TORTURE.
-AFTER THAT, THE#HEAD OFFICE WILL#GIVE YOU AN AWARD:
-"EXCELLENCE IN#RUINING#GUARDENER'S DAY"
-DESERVED.
-[GIVE_IN, #0_ALREADY// . ..
+[LLAMANDO REFUERZOS_]
+¿pediste#ayuda,#guardener?
+CORRECTO.
+ESTE PISOTEADOR#NO VALORA#GREENHOUSE.
+¿cuál es#el nivel de#ofensa?
+10 - EXTERMINIO.
+¿¡nivel 10!?
+digo, ¡por#supuesto!
+lo#sentimos,#victimarios.
+guardener#dice que#merecen#exterminio.
+LO SABEN.
+asi queee...  
+ATAQUE.   
+bien.
+_SIGAN ASÍ_<
+POR FAVOR/#MANTENERSE#EN SU_SITIO !
+MUY HÁBILES.
+SE HAN GANADO#MI RESPETO.
+PERO NO#HAN GANADO#MI PERDÓN.
+BOTS,#_ATAQUEN.
+SOLO TÚ Y#YO DE NUEVO.
+QUE MAL QUE#NO PUEDO#CANSARME.
+PARA USTEDES,#AL MENOS.
+¡aquí estoy#para el#ataque!    
+OH. TE#LO PERDISTE.
+¿en serio?#amigoooo.
+HEY, ESTA#TODO BIEN.
+TOMA, UNA FLOR#PARA#ANIMARTE.
+uuu #gracias
+¿te molesta si#ataco un#poco?
+EN#ABSOLUTO.
+¿AÚN DE#PIE?
+ERES MUY#MOLESTO.
+SOLO ESPERA QUE#MI CREADOR#SE ENTERE.
+TENDRÁS QUE OÍR#UNA GRAN#REPRIMENDA.
+UNA REPRIMENDA#MÁS DOLOROSA#QUE LO QUE#ESTOY HACIENDO.
+TORTURA REAL.
+LUEGO DE ESO,#OFICINA CENTRAL#TE PREMIARÁ:
+"EXCELENCIA EN#ARRUINAR EL#DÍA DE GUARDENER"
+MERECIDO.
+[RIND_ANSE, #0_DE UNA VEZ// . ..
 bubble_type
 bubble_x
 bubble_y
@@ -14478,9 +14478,9 @@ tongue
 * They're installing the latest#  music production equipment.#  Fancy stuff.
 * Let's just say you're gonna#  start hearing my hot beats#  everywhere!
 * Whatever your struggle, just#  hold tight. Life gets better!
-* I think that did the#  trick!
-* You're pretty clever in#  intense situations.
-* I'm... impressed.
+* ¡Creo que eso lo#  solucionó!
+* Eres muy listo en#  situaciones intensas.
+* Estoy... impresionada.
 * (A giant sealed door,#  presumably keeping something#  inside...)
 * (La puerta está bloqueada#  del otro lado.)
 * ¿Bloqueada, huh? Raro...
@@ -15058,9 +15058,9 @@ cur_val
 ¿Qué...#Qué estás#haciendo?
 Esto no es#justo...
 head_sprite
-* ¡Ack!
-* ¡Me atrape, Clover!
-* ¡Necesitamos encontrar#  una manera de salir#  de esto! ¡Rápido!
+* ¡Agh!
+* ¡Me atrapó, Clover!
+* ¡Necesitamos encontrar#  una manera de salir de#  esto! ¡Rápido!
 circle_number
 circle_delay
 martlet_leg_back
@@ -15233,8 +15233,8 @@ interacted_with
 * However, the human's SOUL was#  later inexplicably found deep#  in Waterfall...	
 * (You put the book back.)
 text_yy
-* Way to go!
-* I'll do what I can to#  help us escape for good!
+* ¡Hora de irse!
+* ¡Haré lo que pueda para#  ayudarnos a escapar!
 paper_spawn_chance_max
 paper_spawn_chance_current
 skip_noloop
@@ -16412,58 +16412,58 @@ Caí en un charco
 * Solo estoy pensando en# voz alta.
 * Cuando sea mayor, creo#  que escribiré un remoir.
 * Nombraré un capítulo 'La#  vez que un robot enojado#  intentó matarme.'
-* Narrará nuestro gran#  escape acontecido#  aquí,
+* Narrará nuestro gran#  escape acontecido aquí,
 * revelará mi genial idea#  del casillero y
 * recomendará al lector#  pensarlo bien antes#  de molestar robots.
 * En serio, cancelé mi#  membresía en el#  gimnasio el año pasado.
 * Me arrepiento mucho.
-* Mejor movámonos antes#  de que alguien o#  algo nos encuentre.
+* Mejor movámonos antes#  de que alguien o algo#  nos encuentre.
 * Siento que las cosas#  solo pueden complicarse#  más desde ahora.
 * Mantén tu cabeza en#  alto, Clover.
-* Questionar...
-* Have you slept at all#  since you arrived?
-* If not, I don't know#  how you keep up the#  energy.
-* I've had more nights#  without sleep than with#  lately.
-* Takes a real toll.
-* The reason isn't as#  much the company as it#  is the bed.
-* ...Kanako used a#  similar one.
-* Good times...
-* You know, she would#  refuse to sleep until I#  tucked her in.
-* After reluctantly#  bending to her#  demands...
-* ...I'd kiss her#  forehead and say "Love#  you lots."
-* She'd challenge me with#  a cheeky "How much?"
-* Then I'd reply...
-* "My love for you could#  shatter the barrier just#  on its own!"
-* "That's not true!"#  she'd say with the#  cutest grin.
-* And we'd keep going...
-* Back and forth until#  her eyelids grew too#  heavy to continue.
-* Believe it or not, that#  same exchange happened#  every night.
-* Every night until there#  wasn't anyone left to#  tuck in.
-* I appreciate them#  putting handrails here.
-* Sure, we're suspended#  over a bottomless pit#  but hey...
-* Making baby steps#  towards basic safety#  measures.
-* Geez... the#  Steamworks...
-* It's all so... pitiful#  in this state.
-* Abandoned potential#  hurts.
-* At my old home, Chujin#  planted a garden.
-* It was a work of#  compassion. Beautiful.
-* Almost like a#  reflection of his own#  SOUL.
-* When his health began#  to deteriorate... so did#  the garden.
-* "The Meadow" became#  "the Dunes."
-* Seeing a discarded#  place like this...
-* It's familiar.
-* We can care so much for#  something but#  eventually...
-* ...it all comes to an#  end.
-* That's why we must#  forge our own path while#  we can.
-* Cause trust me...
-* Once the guise of good#  times is over... 
-* Life is cruel.
-* I can feel the Lab#  getting closer.
-* We can't let these bots#  deter us.
-* I wish we could help#  them but it's far too#  late.
-* I mean, they aren't#  even real...
-* Yeah... They're only#  some mix of metal and#  magic.
-* So... it's alright.
+* Pregunta...
+* ¿Haz dormido siquiera un#  poco desde que llegaste?
+* Si no, no sé cómo haces#  para mantenerte con#  energía.
+* He pasado más noches#  sin descanso que con,#  últimamente.
+* Realmente se siente.
+* La razón no es tanto#  la compañía sino más#  bien la cama.
+* ...Kanako solía usar#  una parecida.
+* Buenos tiempos...
+* Ya sabes, ella se#  negaba a dormir hasta#  que yo iba a arroparla.
+* Luego de ceder a la#  fuerza a sus demandas...
+* ...le daba un beso en#  la frente y le decía#  "Te quiero tanto."
+* Ella me respondía con un#  atrevido "¿Qué tanto?"
+* Y yo le respondía...
+* "¡Mi amor por ti podría#  romper la barrera por#  si solo!"
+* "¡Mentira!" respondía#  ella con la más tierna#  sonrisa.
+* Y seguíamos...
+* Ida y vuelta hasta que#  sus párpados le pesaran#  demasiado para continuar.
+* Aunque no lo creas,#  esa exacta conversación#  pasaba cada noche.
+* Cada noche hasta que#  ya no hubo nadie para#  arroparla.
+* Aprecio que hayan puesto#  barandas aquí.
+* Obvio, estamos colgando#  sobre un pozo sin fondo#  pero hey...
+* Pequeños pasos hacia#  medidas de seguridad#  básicas.
+* Cielos... toda esta#  fábrica...
+* Es tan... lamentable#  en este estado.
+* Potencial abandonado,#  duele.
+* En mi antigua casa Chujin#  plantó un jardín.
+* Un trabajo lleno de#  pasión. Hermoso.
+* Casi como si fuese un#  reflejo de su propia#  ALMA.
+* Cuando su salud empezó#  a deteriorarse.. también#  lo hizo el jardín.
+* "El Prado" se volvió#  "Las Dunas".
+* Ver un lugar descartado#  como este...
+* Se siente familiar.
+* Podemos apegarnos mucho#  a algo o alguien pero,#  eventualmente...
+* ...todo llega a su fin.
+* Por eso debemos crear#  nuestro propio camino#  mientras podamos.
+* Porque créeme...
+* Cuando el disfraz de#  los buenos tiempos se#  cae... 
+* La vida es cruel.
+* Siento que nos acercamos#  al laboratorio.
+* No podemos dejar que los#  robots nos disuadan.
+* Desearía que pudiéramos#  ayudarlos pero ya es#  demasiado tarde.
+* Y osea, ni siquiera son#  reales...
+* Seh... Solo son una#  mezcla de metal y magia.
+* Así que... esta bien.
 * I bet your faith in me#  is dwindling with every#  new obstacle.
 * I'm just as annoyed as#  you, trust me.
 * This journey should've#  been a cakewalk like I#  said.
@@ -19517,7 +19517,7 @@ current_mus
 * Tomaré eso como un#  sí.
 * Esto será bueno para#  los dos.
 * Vamos a pasar página,#  ¿vale?
-* Abre el camino.
+* Abre camino.
 * (¿Gastar 3 de ORO#  para jugar?)
 * (No hay suficiente#  ORO.)
 * Ah... Ya veo....
@@ -20944,7 +20944,7 @@ current_attack
 Vender
 Hablar
 * Más vapor. Fantástico.
-* Una vez más,#  Clover.
+* Una vez más, Clover.
 * Ya lo tienes.
 * (La puerta está#  cerrada.)
 * ¡Oh, hola, niño!
@@ -22803,41 +22803,41 @@ micro_cloud
 shake_direction_x
 shake_direction_y
 guardener_pitch
-* AM...
-* AWAKE.
-* GUARDENER - MODEL 02 -_#  ST_ATUS, D_MAGED. .   .
-* OH, HE-HELLO THERE.
-* WAS IT YOU WHO#  DISTURBED THE FLOR#  A? ?
-* I ASK YOU TO PLEASE#  HAVE MORE _RESPECT.
-* Um, we apologize. Won't#  happen again.
-* DO NOT WORRY. _
-* SEEING T;HAT THE CHILD#  IS SO Y-Y-OUNG, IT IS#  FORGI>ABLE.
-* I WILL REPORT#  THE_INCIDENT AS A LEVEL#  3-03--__4LLEE
-* EV-EL 10 OFFENSE.
-* LEVEL 10 MEANS - THE#  TERMINATION OF THE TRAMPLER.
-* Hold on!
-* FAREWELL.
-* I WAS ABOUT TO DO SOMETHING..#  .
-* OH YES, I REMEMBER.
-* SENDING LEVEL 3 REPORT_
-* [RESPONSE - NEGATIVE]
-* I APOLOGIZE. ALLOW ME TO CALL#  AGAIN.
-* HELLO? CREATOR?
-* ARE YOU THERE?
-* I BELIEVE MY CREATOR MAY BE#  PLAYING A "PRACTICAL JOKE" ON#  ME.
-* SIGNALING STEAMWORKS HEAD#  OFFICE_
-* [BEEEEP - THE LINE YOU ARE#  CONTACTING HAS BEEN#  DISCONNECTED]
-* WHERE... WHERE IS EVERYBODY?
-* OH... I HAVE ALLOWED IMMENSE#  OVERGROWTH.
-* I UNDERSTAND.
-* IT SEEMS... MY DAY HAS PASSED.
-* ...CANCEL REPORT AND#  REINITIATE HIBERNATION_
-* [HIBERNATION SEQUENCE ENGAGED]
-* I AM SORRY FOR INCONVENIENCING#  YOU.
-* I DO NOT KNOW WHAT THE WORLD#  IS LIKE NOW, NOR D-DO I WISH#  TO. //
-* LIFE WAS. .. M-MUCH BETT>ER...
-* _NOT ;KNOWING...  .
-* Let's... keep moving.
+* ESTOY...
+* DESPIERTO.
+* GUARDENER - MODELO 02 -_#  ES_ADO, D_ÑADO. .   .
+* OH, HO-HOLA.
+* ¿FUERON USTEDES#  LOS QUE DAÑARON LA FLOR#  A? ?
+* LES PIDO POR FAVOR#  TENER MÁS _RESPETO.
+* Um, lo sentimos. No#  volverá a pasar.
+* NO SE PREOCUPEN. _
+* VIENDO Q;UE EL NIÑO#  ES TAN J-J-OVEN, ES#  PERDON>ABLE.
+* LO REPORTARÉ#  COMO_INCIDENTE NIVEL#  3-03--__4NNII
+* VE-EL 10 DE OFENSA.
+* NIVEL 10 SIGNIFICA - EL#  EXTERMINIO DEL PISOTEADOR.
+* ¡Espera!
+* ADIÓS.
+* ESTABA JUSTO POR HACER ALGO..#  .
+* OH SI, YA RECUERDO.
+* ENVIANDO REPORTE NIVEL 3_
+* [RESPUESTA - NEGATIVA]
+* LO LAMENTO. PERMÍTANME#  LLAMAR DE NUEVO.
+* ¿HOLA? ¿CREADOR?
+* ¿ESTÁS AHÍ?
+* CREO QUE MI CREADOR ME ESTA#  HACIENDO UNA "BROMA DE PRÁCTICA".
+* CONTACTANDO CON OFICINA#  CENTRAL_
+* [BEEEEP - LA LÍNEA QUE ESTÁ#  CONTACTANDO HA SIDO#  DESCONECTADA]
+* DÓNDE... ¿DÓNDE ESTAN TODOS?
+* OH... HE PERMITIDO#  SOBRECRECIMIENTO.
+* ENTIENDO.
+* PARECE QUE... MI TIEMPO PASÓ.
+* ..CANCELAR REPORTE Y#  REINICIAR HIBERNACIÓN_
+* [HIBERNACIÓN ACTIVADA]
+* LAMENTO CAUSARLES INCONVENIENTES.
+* NO SÉ COMO ES EL MUNDO AHORA,#  N-NI D-ESEO#  S-SABERLO.. //
+* LA VIDA ERA. .. M-MUCHO MEJ>OR...
+* _SIN ;SABER...  .
+* Mejor... sigamos.
 * There had to be some#  other way...
 * Let's just... keep#  moving.
 guardener_arms_sound
@@ -22905,9 +22905,9 @@ T5 Obj Moray
 T5 Quote Moray
 T8 Obj Moray
 T8 Quote Moray
-* (You peer inside the box and#  find some Gravity Granola.)
-* (You got Gravity Granola!)
-* (You got Gravity Granola.)
+* (Mirás dentro de la caja y#  ves algunas Granolas Gravedad.)
+* (¡Obtienes Granolas Gravedad!)
+* (Obtienes Granolas Gravedad.)
 ps_outer
 trail_col
 pt_trail_outer
@@ -23228,19 +23228,19 @@ Lo siento por#eso.
 No lo estropees#esta vez.
 ¡Enfermo! ¡¿Estás#haciendo esto#a propósito?!
 ¡Bien! Entonces dejaré#de enviarlos.
-* Boy am I glad that fox#  lady let you roam free#  for a bit.
-* Not being able to talk#  to my pal has been#  torture!
-* Now, I know she roped#  ya into some Lab detour#  but...
-* Come on... captive#  monsters? Talk about a#  conspiracy nut!
-* I mean, it's like you#  don't wanna follow my#  advice!
-* Remember your REAL#  mission, Clover.
-* The five children you#  set out to find in the#  first place.
-* There's no need to#  visit that dingy lab, ya#  know?
-* ASGORE's still out#  there threatening human#  lives!
-* Keep your head in the#  game.
-* This is our journey.#  Not Ceroba's.
-* Hey, wait up!
-* I think I'm ready to#  get back into things.
+* Chico, que alivio que#  esa señorita zorro te#  dejara sólo un rato.
+* ¡No poder hablar con mi#  compañero ha sido#  tortura!
+* Ahora, sé que quiere#  que vayas a pasear al#  Laboratorio pero...
+* Vamos... ¿monstruos en#  cautiverio? ¡Tonterías#  conspiranoicas!
+* Osea, ¡es como que tú#  no quieres seguir mis#  consejos!
+* Recuerda tu misión REAL,#  Clover.
+* Los cinco niños que#  viniste a salvar en#  primer lugar.
+* No hay necesidad de#  visitar ese sucio#  laboratorio, ¿sabes?
+* ¡ASGORE sigue por ahí#  amenazando vidas humanas!
+* Mantén tu cabeza en el#  juego.
+* Este es nuestro viaje.#  No el de Ceroba.
+* Hey, ¡espera!
+* Creo que estoy lista#  para seguir.
 ¡Ese era mi hermano!
 ¡Tenía metas en#la vida!
 Ella era mi amiga#(creo).
@@ -24872,9 +24872,9 @@ hp_current_self_clamp
 glass
 TRABAJO ADECUADO.
 GRACIAS#POR SU AYUDA. 
-no hay problema,#guardener.
-sí, llámanos#cuando quieras.
-incluso sólo para#pasar el rato#o algo así.
+no hay#problema,#guardener.
+sí, llámanos#cuando lo#desees.
+incluso para#pasar el rato#o algo así.
 o no, no#hay nada#que hacer.
 arm2
 * WAS IT YOU WHO DISTURBED THE#  FLOR-A? ?
@@ -25225,8 +25225,8 @@ sparing
 Check 1
 Check 2
 Check 3
-* This is only getting#  worse!
-* Don't stop your efforts#  to free us!
+* ¡Esto solo se esta#  poniendo peor!
+* ¡No detengas los#  esfuerzos para#  liberarnos!
 * Heh, I can't believe I thought#  this run might be it.
 * It's no wonder we make a good#  team.
 * You're a lot like me in a way.
