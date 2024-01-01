@@ -10542,64 +10542,64 @@ camera_border_y
 camera_border_x
 FIN
 * Dum dee dum...
-* Um... Disculpe?
-* Rey?
-* Oh?
-* Una visita? A esta hora?
+* Um... ¿Disculpe?
+* ¿Rey?
+* ¿Oh?
+* ¿Una visita? ¿A esta hora?
 * H-Hola Sr. Rey, señor.
 * Es un honor el estar   
 * No hay porque ser tan#  formal.
 * Puedes simplemente#  llamarme "Asgore" si#  deseas.
-* Claro!
+* ¡Claro!
 * Asgore, Rey, señor.
 * Soy Martlet de la#  Guardia Real de la#  División Snowdin.
-* Ah sí! Una de nuestras#  guardias valientes.
-* Gracias por tus#  servicios para el#  Subsuelo!
-* Qué te trae al castillo#  tan tarde?
+* ¡Ah sí! Una de nuestras#  valientes guardias.
+* ¡Gracias por tus#  servicios para el#  Subsuelo!
+* ¿Qué te trae al castillo#  tan tarde?
 * B-Bueno...
 * Este humano me trae#  al Castillo.
 * Su nombre es Clover.
 * Clover...
 * Que lindo nombre...
-* Me disculpo por la falta#  de anticipación!
+* ¡Me disculpo por la#  falta de anticipación!
 * Se que esto puede ser#  una sorpresa pero...
-* De casualidad, no se te#  entregó un manual de los#  Guardias Reales?
-* Un manual?
+* ¿De casualidad, no se te#  entregó un manual de los#  Guardias Reales?
+* ¿Un manual?
 * Claro, me dieron un#  manual.
-* No creo que lo esté#  siguiendo.
+* No creo que le esté#  siguiendo.
 * Ah...
 * Hmm... 
 * Entonces estás#  familiarizada con el#  protocolo...
 * Sin embargo... aquí#  estás.
-* Se lo que parece.
+* Sé lo que parece.
 * Pero verá...
 * Clover no es una mala#  persona.
-* D-de hecho, es una de#  las almas más amables#  que he conocido!
+* ¡D-de hecho, es una de#  las almas más amables#  que he conocido!
 * Tantos le han atacado#  con intenciones de#  lastimarle... 
 * Pero Clover opta por la#  paz.
-* ...Tanto como uno puede# al estar en tales#  situaciones.
+* ...Tanto como uno puede#  al estar en tales#  situaciones.
 * Lo que intento decir#  es... 
 * Clover cree en lo que#  es mejor para otros.#  Incluso monstruos.
 * Y... 
-* Necesita ir a casa.#  Devuelta a la Superficie.
+* Necesita ir a casa.#  Devuelta a la#  Superficie.
 * Devuelta a la#  Superficie...
 * Si tan solo fuera así#  de sencillo.
 * Pero tú de todos los#  monstruos debes saber la#  realidad.
-* Clover es diferente!
-* Esto es diferente!
+* ¡Clover es diferente!
+* ¡Esto es diferente!
 * Desgraciadamente...
-* Lo único que estos#  encuentros nunca son es#  "diferente."
+* Lo único que estos#  encuentros nunca son es#  "diferentes."
 * No en el final.
-* Qu... Que está diciendo?
-* No va a matar a#  Clover verdad!?
+* ¿Qu... ¿Que está#  diciendo?
+* ¡¿No va a matar a#  Clover, verdad?!
 * Si ese es el resultado#  de nuestra batalla...
 * Así tendrá que ser.
-* NO!!
-* No puede hacer eso!!
+* ¡¡NO!!
+* ¡¡No puede hacer eso!!
 * ¡Clover!
-* Defiende tu caso!#  Por favor!!
-* Qué estás haciendo??
-* Di algo!
+* ¡Defiende tu caso!#  ¡¡Por favor!!
+* ¿¿Qué estás haciendo??
+* ¡Di algo!
 noloop_count
 * Estás...
 * No puedes...
@@ -10728,7 +10728,7 @@ peep
 * Lo siento tanto.
 * Deberíamos haber estado#  aquí para ayudar.
 * ¿Ayudar...?
-* Nadie quería que terminara#  de este modo pero...
+* Nadie quería que#  termiara de este#  modo pero...
 * ¿¡Pero qué!?
 * ¿¡Qué demonios hizo#  Ceroba para merecer#  esto!?
 * ¡No dije que#  "mereciera" nada pero#  vamos!
@@ -10738,9 +10738,9 @@ peep
 * ¡Ella estaba perdida!
 * ¡En su cabeza no había#  otra opción!
 * Todo lo que cualquiera#  ve es siempre lo#  que quieren ver.
-* Nunca paran a considera#  el "porqué".
+* Nunca se detienen a#  pensar el "porqué".
 * Quizás para ti, ella#  era sólo una amenaza#  violenta pero...
-* Debajo de la crisis,#  la ví por quien#  realmente era.
+* Detras de su crisis,#  la ví por quien#  realmente era.
 * Una madre trabajadora y#  compasiva que#  lo perdió todo.
 * Sus esperanzas, sus#  sueños...
 * La conocía.
@@ -10750,7 +10750,7 @@ peep
 * Lo intentamos. Por#  mucho tiempo.
 * Queríamos paz.
 * Lo viste.
-* Incluso cuando las#  cosas escalaron, intentamos#  huir.
+* Incluso cuando las#  cosas escalaron,#  intentamos huir.
 * Pero nos quería muertos.
 * Yendo tan lejos como#  acorralar a Clover en#  una esquina, forzarle a...
 * Eres un hombre de#  la ley, ¿Cierto?
@@ -10767,9 +10767,9 @@ peep
 * Pero para mí... estás#  por debajo de la tierra.
 * Podría reportar tu#  ubicación...
 * O intentar vengarme...
-* Pero sé que eso sólo#  significaría más problema#  para mi.
+* Pero sé que eso sólo#  significaría más#  problemas para mi.
 * Ahora todo lo que puedo#  preguntarme es por qué.
-* ¿Por qué dudé en#  disparar esa última bala?
+* ¿Por qué dudé en#  disparar esa última#  bala?
 * Siento... que hayas#  tenido que pasar por#  todo eso.
 * Quizás si hubiéramos#  tomado una ruta#  distinta en Waterfall...
 * Tomado decisiones#  diferentes...
@@ -10924,7 +10924,7 @@ flash_alpha
 new_soul
 new_capsule
 yellow_col
-       Descansa, jóven.
+       Descansa, joven.
            Lo siento.
 box_width
 eq_bar_number
@@ -12932,10 +12932,10 @@ Nuestra pequeña niña... Kanako...#  Ella necesita vivir una vida#  feliz, no a
 * Ok, espera aquí.
 * Tendrás que quedarte#  muy quieta para esto.
 * Cierra tus ojos y#  empezaré la#  extracción-fusión.
-* Podrás sentir un pinchazo#  o dos pero terminará#  antes de que te des cuenta.
+* Podrás sentir un pinchazo#  o dos pero terminará antes#  de que te des cuenta.
 * ¿Entendido?
 * ¡Entendido!
-* Realmente crees en esto#  ¿No?
+* Realmente crees en esto,#  ¿no?
 * Seh.
 * Te amo mucho.
 * Yo te amo más.
@@ -12946,7 +12946,7 @@ Nuestra pequeña niña... Kanako...#  Ella necesita vivir una vida#  feliz, no a
 * ¡Despierta ahora mismo! 
 * ¡Mami está aquí, vamos!
 * Qué...
-        ¿Qué es lo que he hecho?
+        ¿Qué acabo de hacer?
 ¡Hola, Clover!
 Siento mucho#esto, ¡pero he estado#aburrido todo#el día!
 door_menu_open
@@ -13598,11 +13598,11 @@ fly_time
 * Creo que...
 * En lo larga que sea#  mi vida, tú solo#  serás un destello.
 * Pero en ocasiones...
-* Esos "destellos" hacen los#  mayores impactos, sabes?
-* Oh, qué estoy diciendo?
-* Te volveré a ver#  cuando mi raza sea#  libre, recuerdas?
+* Esos "destellos" hacen#  los mayores impactos,#  ¿sabes?
+* Oh,#  ¿qué estoy diciendo?
+* Te volveré a ver#  cuando mi raza sea#  libre, ¿recuerdas?
 * Donde sea que estés#  cuando eso ocurra,
-* Iré a buscarte!#  Te lo garantizo!
+* ¡Iré a buscarte!#  ¡Te lo garantizo!
 * Supongo que es la hora.
 * Solo sígueme.
 * (Un cajón lleno de#  cintas de vídeos.)
@@ -14360,7 +14360,7 @@ Para salvar a los#monstruos de su fin...
 Conservar su legado...
 Valía el riesgo#para mi.
 Ahora mi vida#se acabó.
-Para nadaz.#Para nadie.
+Para nada.#Para nadie.
 He hecho cosas#imperdonables.
 Dejé que mi marido#trabaje hasta#la muerte...
 Puse a mi preciosa#niña en un infierno...
@@ -14552,16 +14552,16 @@ disc_yoffset
 activate_delay
 activate_delay_max
 activate_count
-Así que conoces#la verdad ahora.
+Así que ahora#sabes la#verdad.
 ¿Estás#satisfecho?
 ¿Acaso te alegra#hacerme revivir#mis recuerdos#más oscuros?
 Nunca dije ser#una santa.
-Me ahogo en un#mar de errores como#todos los demás
+Me ahogo en un#mar de errores#como todos#los demás
 Pero en lugar#de ahogarme...
 Persigo el único#rayo de sol que#se asoma por#la superficie.
-Intenté dejar ir#seguir con mi vida...
-Pero supongo que#en el fondo#soy muy terca para#vivir así.
-Este es mi destino.
+Intenté dejar ir#seguir con mi#vida...
+Pero supongo que#en el fondo#soy muy terca#para vivir así.
+Este es mi#destino.
 bullet_hit_overlay
 right_boundary
 left_boundary
@@ -15114,20 +15114,20 @@ active_item
 * Hacia lo que nos#  depare el camino...
 Agh...
 No puedo decir que no#lo vi venir.
-Still, my hopes were#high.
-There's gotta be SOME#way to get what I need.
-Clover's competent...#enough, but still...
-Nothing ever works out#when it comes to them.
+Aún así, mis esperanzas#eran altas.
+Tiene que haber ALGUNA#manera de obtener lo que#quiero.
+Clover es suficientemente...#competente, pero aún así...
+Nunca funciona bien cuando#se trata sobre él.
 Hmm...
-I could reset and try#my luck again...
-Or...
-I could accept what#I've been given and#wait.
-The King is only one#SOUL away now.
-It might be a good idea#to piggyback off the#next human instead.
-Who knows how long that#will take and even#worse,
-If the next human would#be skilled enough to do#what Clover couldn't.
-I need some time to#think it over.
-This isn't the end.
+Podría reiniciar y probar#mi suerte otra vez...
+O...
+Podría aceptar lo que#me han dado y esperar.
+El Rey está solo a#un ALMA ahora mismo.
+Quizás sea una buena#idea molestar al próximo#humano.
+¿Quién sabe cuanto va a#tardar eso e incluso#peor,
+Si es que el siguiente humano#es suficientemente hábil para#hacer lo que Clover no...
+Necesito tiempo#para pensarlo.
+Este no es el final.
 ¿  C-Cuántos#más ?
 ¿  Cuántos hasta que#estés satisfecho ?
 Solo c-cobramos#cinco.
@@ -16288,17 +16288,17 @@ update_talk_val
 * I'm not sure a human#  has ever walked these#  streets.
 * Who's to say, though?
 * Not a whole lot is#  known about those#  previous treks.
-* Huh...
-* I expected a lot more#  citizens.
-* Little eerie when no#  one's around.
-* So this is the#  Castle...
-* Never been inside#  before.
-* Nerve-wracking stuff.
-* For once, I'm at a loss#  for words.
-* This is it, Clover.
-* A few more steps and#  you're free.
-* Maybe we shouldn't be#  in this room...
-* Let's keep going,#  Clover!
+* Mmm...
+* Me esperaba muchos#  más ciudadanos.
+* Un poco inquietante#  cuando no hay nadie#  alrededor.
+* Asi que este es#  el Castillo...
+* Nunca estuve dentro#  antes.
+* Te crispan los nervios.
+* Por primera vez, no#  tengo palabras.
+* Aquí es, Clover.
+* Unos pocos pasos más#  y eres libre.
+* Quizás no deberíamos#  estar en esta#  sala...
+* ¡Vámonos,#  Clover!
 map_entry
 gml_Script_multiple_lines_gml_Object_obj_ceroba_follower_Other_10
 gml_Script_update_talk_val_gml_Object_obj_ceroba_follower_Other_10
@@ -18054,7 +18054,7 @@ x_normal
 * Oh I love the sound of that#  already! Schminner time!
 * Debería comenzar un#  emprendimiento, ¿no lo#  crees Charles?
 * Inventaré varias cosas#  útiles, ¡como una nueva#  actitud para ti!
-¡¡¡Por el futuro#de los Monstruos!!!
+¡¡¡Por el futuro#de los#Monstruos!!!
 * Ay niño. El atuendo.
 * Supongo que eres de las#  Dunas, ¿eh?
 						 #  Dunas
@@ -18725,13 +18725,13 @@ starlo_overlay
 * No, gracias por#  encontrarme. Me facilita#  las cosas. 
 * Si fuera ustedes dos#  dejaría a Clover aquí y#  me olvidaría de esto.
 * Podrá no tener sentido#  para ustedes, pero es#  lo mejor.
-* Para el acto creído,#  ¿Sí? 
+* Para el acto creído,#  ¿sí? 
 * Solo... detente.
 * Podemos cambiar#  esto, Ceroba.
 * ¡Tú misma dijiste que#  Kanako está viva!
 * Vayamos a encontrarla y#  volvamos a nuestra#  vida normal y feliz.
-* "Vida feliz"...#  Ojalá pudiéramos.
-* Yo... mentí sobre Kanako,#  Star. Tenía qué.
+* "Vida feliz"...#  Que fácil decirlo.
+* Yo... mentí sobre Kanako,#  Star. Tenía qué hacerlo.
 * Haber caído es#  prácticamente una#  sentencia de muerte.
 * A no ser que un milagro#  ocurra en el laboratorio,#  no hay...
 * ...No hay esperanza para# ella.
@@ -18743,11 +18743,11 @@ starlo_overlay
 * ¡Esto es su legado! ¡Su#  plan para el futuro!
 * ¡La única esperanza#  para la supervivencia#  de los monstruos!
 * ¡No hables por él!
-* Has visto las cintas,#  ¿Cierto?
-* ¿Honestamente crees que#  esto es lo que él#  quería?
-* No se suponía que Kanako#  fuera un factor en esto!
+* Has visto las cintas,#  ¿cierto?
+* Honestamente, ¿crees que#  esto es lo que él#  quería?
+* ¡Se suponía que Kanako#  no iba a ser un#  factor en esto!
 * Si estuviera aquí, el#  Chujin que conocí-
-* El Chujin que conociste...
+* El Chujin que#  conociste...
 * No lo conocías en#  absoluto.
 * No, Martlet tiene razón.
 * Pudimos haber tenido#  puntos de vista#  diferentes pero...
@@ -18757,17 +18757,17 @@ starlo_overlay
 * No te entiendo.
 * Cuando yo combatí contra#  Clover fui "imprudente."
 * Pero cuando TU quieres#  tomar su ALMA, ¿Es#  "para lo mejor"?
-* No solo la de Clover...#  pero al ALMA de tu propia
+* No solo la de Clover...#  pero la ALMA de tu#  propia
 * ¡Cállate!
-* ¿¡Acaso crees que no sé#  lo lejos que he llegado!?
+* ¿¡Acaso crees que no sé#  lo lejos que he#  llegado!?
 * ¿¿¿Y de dónde viene esta#  subida de humos???
-* Para mí suena como que#  estamos en este foso juntos.
+* Para mí suena como que#  estamos en este foso#  juntos.
 * Ceroba, por favor...
 * Solo... vete y déjame#  terminar lo que empecé.
-* ¡N-No puedes tener#  a Clover!
-* ¡Vamos a ir con ASGORE# y punto!
-* No te atrevas.
-* ¡Martlet, toma a Clover!#  ¡Mantendré a Ceroba#  a raya!
+* ¡N-No puedes llevarte#  a Clover!
+* ¡Vamos a ir con ASGORE#  y punto!
+* Ni te atrevas.
+* ¡Martlet, toma a Clover!#  ¡Mantendré en raya#  a Ceroba!
 * ¡Ve, ahora!
 * ¡Hija de!
 * Me disculpo por lo que#  he hecho.
@@ -18776,38 +18776,38 @@ starlo_overlay
 * Pero ahora... debo#  seguir con mi misión.
 * De algún modo he empezado#  a respetarte demasiado#  pero...
 * Después de todo...#  eres ingenuo.
-* Hay mucho que no entiendes#  sobre los monstruos.
+* Hay mucho que no#  entiendes sobre los#  monstruos.
 * ¿Qué? ¿Pensabas que#  saltarías aquí y los#  encontrarías?
 * Cinco humanos, viviendo#  sus vidas, sin un#  rasguño...
 * Así no es como funciona.
-* Supongo que descubriste#  la verdad, ¿Cierto?#  ¿Entonces qué?
-* ¿Tu plan y el de Martlet#  era atacar el Castillo#  de Asgore buscando venganza?
-* ¿O era simplemente#  suplicar por un boleto#  gratis hacia la Superficie?
+* Supongo que descubriste#  la verdad, ¿cierto?#  Entonces, ¿qué?
+* ¿Tu plan y el de Martlet#  era atacar el Castillo de#  Asgore buscando venganza?
+* ¿O era solo suplicar#  por un boleto gratis#  hacia la Superficie?
 * Él solo necesita dos#  ALMAS más para destruir#  la barrera.
-* No dudaría un SEGUNDO#  en hacer eso una.
-* Pero... ¿Quién soy#  para criticar como maneja#  su trabajo?
-* Aquí estoy a punto de#  hacer exactamente lo mismo...
+* No dudaría un SEGUNDO#  en tomar la tuya.
+* Pero... ¿quién soy para#  criticar como maneja#  su trabajo?
+* Aquí estoy a punto de#  hacer exactamente lo#  mismo...
 * Soy una hipócrita.#  Una mentirosa. Seguro.
 * Pero al menos yo...
-* ...con la guianza de#  Chujin, puedo salvar#  incontables vidas de#  monstruos.
-* Estos dos no puedieron#  entender eso. Y#  Asgore...
+* ...con la guianza de#  Chujin, puedo salvar#  incontables vidas.
+* Estos dos no pudieron#  entender eso.#  Y Asgore...
 * Asgore es un cobarde.
 * No creyó en mi esposo#  en lo absoluto.
 * Él cree que los problemas#  desaparecerán si#  cierra las ventanas.
-* Anhelo la libertar como#  cualquiera pero él...
-* No considera lo que#  pasará una vez obtenga sus#  ALMAS.
-* Tampoco todos los demás.
-* Todos creen que la victoria#  será facil pero ¿Con lo qué#  escuché sobre los humanos? 
-* Son poderosos.#  Despiadados.
+* Anhelo la libertad como#  cualquiera, pero él...
+* No considera lo que#  pasará una vez obtenga#  sus ALMAS.
+* Tampoco ninguno de#  los demás.
+* Todos creen que ganar#  será facil, ¿pero de#  lo qué he escuchado? 
+* Los humanos son#  poderosos. Despiadados.
 * Tan pronto como#  intentemos irnos...
-* ...Nos devolverán# INMEDIATAMENTE hacia#  este infierno.
-* Quieren que nuestra#  miseria se pudra hasta#  que nos rindamos y muramos.
+* ...Nos devolverán#  INMEDIATAMENTE hacia#  este infierno.
+* Quieren pudrirnos en la#  miseria hasta que#  nos rindamos y muramos.
 * No soy mejor que Asgore#  en una escala de#  moralidad, te lo aseguro.
 * Pero lo que soy,#  es proactiva.
 * Vale la pena progeter#  los monstruos, así#  que lo veré hecho.
 * La verdad...
 * No tengo nada que perder#  en mi vida, así que#  acepté tirarlo todo.
-* Combatirás de vuelta,#  pero no puedes#  por siempre.
+* Te defenderás, pero#  no por siempre.
 x_override
 y_override
 starlo_overlay_white
@@ -22431,7 +22431,7 @@ DEBUG MODE:#TOGGLE: 0: ON#CONTROLS:#1/2: BATTLE LEFT/RIGHT#3: START BATTLE:
 #FPS: 
 #FPS REAL: 
 DEBUG MODE:#TOGGLE: 0: OFF
-Para Kanako...
+Por Kanako...
 depth_overworld_text_normal
 item_pause_screen_number
 * Comes el
@@ -24016,16 +24016,16 @@ Conozco algunos#cubos geniales.
 frostermit c
 frostermit b
 fall_max
-* Clover? You're back?
-* I appreciate you#  thinking of us but...
+* ¿Clover? ¿Haz vuelto?
+* Te agradezco que pienses#  en nosotros pero...
 * Deberías irte.
-* Sorry, I don't mean to#  be rude. It's just a#  personal situation.
-* I've found a road to#  contentment in this#  group...
-* I don't want to be#  given false hope and#  slip back into...
-* Nevermind.
-* Not sure if you#  received it, but I sent#  you a letter.
-* Maybe you being here is#  a response to my request#  but...
-* Please leave us be.
+* Lo siento, no intento ser#  grosera. Sólo es una#  situación personal.
+* He encontrado un camino#  hacia la satisfacción#  en este grupo...
+* No quiero que me den#  falsas esperanzas y volver#  a caer en...
+* Olvídalo.
+* No estoy segura si lo#  recibiste, pero te envié#  una carta.
+* Quizás estando tu#  aquí es una respuesta#  a eso pero...
+* Por favor, déjanos en# paz...
 detract
 image_angle_n
 detract_counter
@@ -24524,7 +24524,7 @@ max_angle_pullback
 max_angle_release
 angle_pullback_speed
 angle_release_speed
-Así que ha llegado#a esto.
+Así que ha#llegado a esto.
 Mi última baza.
 id_frame_arm
 package_vsp
@@ -24850,7 +24850,7 @@ swing_speed
 swing_speed_max
 dirnew
 song_pitch
-Para Chujin...
+Por Chujin...
 aim_target
 target_angle
 speed_charge_max
@@ -24966,18 +24966,18 @@ snowflake_xpos
 time_elapsed_decrease_total
 time_elapsed_tail
 sign_modifier_tail
-* Oh. It's you.
-* I'm trying to listen to#  my friend perform, if#  you don't mind.
-* This song is one of my#  favorites but...
-* I don't know how much#  longer Moray will be#  playing it.
+* Oh. Eres tú.
+* Estoy tratando de escuchar#  la actuación de mi amigo,#  si no te importa.
+* Esta canción es una de#  mis favoritas pero...
+* No sé cuanto tiempo#  Moray estará tocándola.
 * Not gonna spend its#  length chatting, sorry.
-* I don't wanna talk,#  alright?
-* Just because you showed#  up and solved a#  problem...
-* You think I should#  magically grow as a#  monster?
-* Break out of my shell#  and "complete my arc?"
+* No quiero hablar,#  ¿vale?
+* Solo porque tu apareciste#  y resolviste un#  problema...
+* ¿Tú crees que mágicamente#  yo crecería como#  monstruo?
+* ¿Salir de mi caparazón#  y "completar mi arco"?
 * Nah...
-* Growth is for main#  characters like Star.
-* I might be as 2D as my#  cards but hey, that's#  fine by me.
+* Crecer es para los#  protagonistas como#  Star.
+* Puede que sean tan 2D#  como mis cartas, pero#  para mi está bien.
 zap
 target_count_max
 target_count
@@ -25191,24 +25191,24 @@ enemy_craniex_status
 dead
 enemy_ms_mettaton_status
 rm_black_screen_cutscene
-* Glad you decided to#  come back.
-* The last time we saw#  each other wasn't too#  pretty, heh.
-* Uh, what I'm gettin' at#  is...
-* Sorry for all those#  hurtful things I said.
-* My temper gets the best#  of me sometimes...
-* Trying to work on it.
-* Doesn't Moray sound#  great?
-* I tried to learn the#  guitar once but my#  fingers were too large.
-* Just one covered all#  six strings.
-* Still, I do enjoy the#  instrument.	
-* Maybe someone could#  build a guitar big#  enough for me?
-* One day, kid. One day.
-* Ya know... I guess you#  do make a pretty good#  deputy.	
-* Good luck, wherever you#  go next.
+* Me alegro de que hayas#  vuelto.
+* La última vez que nos#  vimos no fue muy...#  bonito, eh.
+* Uh, a lo que voy es#  que...
+* Lo siento por todas#  esas cosas hirientes que#  dije.
+* Mi temperamento saca lo#  peor de mi a veces...
+* Intento trabajar en ello.
+* ¿O no que Moray suena#  bien?
+* Traté de aprender la#  guitarra una vez pero mis#  dedos eran muy largos.
+* Solo con uno, cubría#  seis cuerdas.
+* Aún así, disfruto de ese#  instrumento.	
+* ¿Quizás alguien podría#  construir una guitarra#  grande para mi?
+* Algún día, niño. Algún día.
+* Ya sabes... Supongo que#  haces muy bien de ayudante#  del sheriff.	
+* Buena suerte, donde sea que#  vayas.
 * Blub blub...
-* I apologize but we're all out#  of reservations tonight.
-* A large party of ghosts are#  here and the kitchen doesn't#  know how to make ghost food.
-* Please come back in a few#  days. Please...
+* Lo sentimos, pero estamos llenos de#  reservaciones para esta#  noche.
+* Hay una gran fiesta de#  fantasmas por aquí y la cocina no#  sabe hacer comida fantasma.
+* Por favor, vuelve en unos#  días. Por favor...
 * Consultar
 flower_count
 * (Are you sure you want to#  drink the acid?)
@@ -25571,36 +25571,36 @@ W-WAIT.
 WHAT'S GOING ON?
 HOLD ON. PLEASE.
 I DIDN'T WANT TO   
-* This has got to be the best#  restaurant in the Underground.#  Seriously.
-* You can't beat the food, the#  service, the atmosphere...
-* Something has always puzzled#  me though...
-* ...Where is the kitchen?
-* I must confess, there is ONE#  thing about this place that#  gets me down.
-* The music.
-* Like, this band is FINE. A#  little too "new wave" for my#  taste.
-* I miss the acts of my youth.
-* There was this lounge singer#  they'd host... 
-* Bea-u-ti-ful!
-* I mean, wowza!! MEEE-OWW!!!
+* Este tiene que ser el mejor#  restaurante del Subsuelo.#  En serio.
+* No se puede superar la comida,#  el servicio, la atmósfera...
+* Pero hay algo que siempre me#  ha hecho dudar...
+* ...¿Dónde está la cocina?
+* Debo confesar, hay UNA cosa#  de esta lugar que me#  deprime.
+* La música.
+* O sea, la banda está BIEN. Un#  poco "nueva ola" para mi#  gusto.
+* Echo de menos los actos de#  mi juventud.
+* Estaba esta cantante de salón,#  le decían... 
+* Her-mo-sa!
+* Digo, waoz!! MIAA-UUU!!!
 * Lo siento.
-* My food should be out any#  minute. Can't wait!
+* Mi comida debería salir en#  cualquier minuto. ¡No#  puedo esperar!
 * Los monstruos normales#  son una cosa, pero...
 * Esa mujer zorro que#  acabas de matar era una#  pieza de trabajo, ¿eh?
 * ¡Si la superaste,#  ASGORE no tiene#  ninguna oportunidad!
 * Uh, claro... Eso#  funciona.
 * ¡Nos vemos adelante,#  Clover!
-* O-Oh... Hello.
-* Please don't mind me.
-* I was only tending to this#  little fella.
-* You wanna talk more?
-* Uh... h-how about that#  weather?
-* Sure is hot today... like...#  always.
-* Do you like, um... air?
-* I do... I breathe it all the#  time.
-* ...Uh, I'm very sorry.
-* I'm just not in a talking mood#  right now.
-* M-Maybe later...?
-* Sigamos el camino,#  okei	?
+* O-Oh... Hola.
+* Por favor, no me hagas caso.
+* Sólo estaba atendiendo a#  este amiguito.
+* ¿Quieres hablar más?
+* Em... ¿q-que tal está#  el clima?
+* Seguro hace calor... como...#  siempre.
+* Te gusta, um... el aire?
+* A mi si... lo respiro todo#  el tiempo.
+* ...Uh, Lo siento mucho.
+* No estoy de humor para hablar#  ahora mismo.
+* ¿Q-Quizás después...?
+* Sigamos el camino,#  ¿vale?
 * ¡¡¡Hooola!!! ¡¡¡Les doy la#  bienvenida a mi cuerpo!!!
 * ¿¿A donde les gustaría#  ir??
 * Piso de arriba.
