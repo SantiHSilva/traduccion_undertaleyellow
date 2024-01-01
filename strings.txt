@@ -9441,24 +9441,24 @@ target_flag
 Hotland - Crossroads
 Background
 background_dark
-* (A bush.)
-* (The east bush.)
-* (The west bush.)
-* (A strange wall.)
-* (Just a regular wall... right?)
+* (Un arbusto.)
+* (Arbusto del este.)
+* (Arbusto del oeste.)
+* (Un muro extraño.)
+* (Solo es un muro#  normal... ¿cierto?)
 * Nuevo Hogar queda al#  norte de aquí.
 * Hay que ir hacia#  allá.
-* (An enemy is nearby.)
-* (No loose ends.)
+* (Un enemigo está cerca.)
+* (Sin cabos sueltos.)
 foreground
 foreground_dark
-* (A dumpster.)
+* (Un basurero.)
 * (La piscina de los#  campeónes.)
 * (Solo hay avisos de#  desalojamiento.)
 * (...Sin respuesta.)
 * (Nada más que productos#  de tienda retirados.)
 * (No hay nadie dentro.)
-* (The warm glow of a bustling#  lobby.)
+* (El brillo cálido de#  un lobby congestionado.)
 * (Hay una nota en la puerta.)	
 * Extraño, por favor deja#  de comer la comida de gato#  que dejo afuera.
 * Es para un extraviado que#  tenemos con nosotros, no#  para monstruos.
@@ -9466,15 +9466,15 @@ foreground_dark
 * Día de la basura: Lunes	
 * Si no alcanzas el tacho,#  tirá las fundas al barranco#  que queda por el sur.	
 * La lava debería hacer#  el trabajo.
-* (The end lies beyond.)
-* (Let justice be done.)
+* (El final está cerca.)
+* (Hay que servir justicia.)
 as_dark_danza
-* (Can't see in.)
+* (No se puede ver.)
 * (No puedes ver mas allá de#  las largas cortinas#  oscuras dentro.)
 * (Está bloqueado. Solo#  productores musicales.)
 Spooders
-* (This is the wrong way.)
-* (A mighty roadblock stands in#  the way.)
+* (Este es el camino#  equivocado.)
+* (Una imponente barricada#  obstruye el camino.)
 asriel_statue_dark
 statue
 * (Un memorial.)
@@ -9482,11 +9482,11 @@ statue
 * Sueños y Esperanzas	
 * Construído el 201X	
 * (Oyes una ligera melodía#  saliendo de la estatua.)
-* (Another plant.)
+* (Otra planta.)
 * (Una planta en maceta.)
 * NÚCLEO en#  mantenimiento.	
 * Por favor no cruze#  ni salte la soga#  roja.
-* (Useless information.)
+* (Información inútil.)
 * (You notice a ranking sheet on#  the board.)	
 * Winners of the "Actually Magma#  Smoothie Challenge":	
 * - Pyrope (Fastest time.)	
@@ -18052,8 +18052,8 @@ x_normal
 * I suppose we'll have to invent#  a fourth meal of the day.
 * Schminner!
 * Oh I love the sound of that#  already! Schminner time!
-* I ought to go into#  entrepreneurship, don't you#  think Charles?
-* I'll invent many useful#  things, like a new attitude for#  you!
+* Debería comenzar un#  emprendimiento, ¿no lo#  crees Charles?
+* Inventaré varias cosas#  útiles, ¡como una nueva#  actitud para ti!
 ¡¡¡Por el futuro#de los Monstruos!!!
 * Ay niño. El atuendo.
 * Supongo que eres de las#  Dunas, ¿eh?
@@ -21681,7 +21681,7 @@ spawn_dir_wave_inc
 * Para: Rey ASGORE.	
 * Aunque emocionante, este#  proyecto será demandante.	
 * Necesitarmoes que Mining Co.#  trabaje horas extra#  para proveer los materiales.	
-* Además, se llevó a#  cabo una reunión en# la Fábrica.	
+* Además, se llevó a cabo#  una reunión en la#  Fábrica.	
 * ¡Me alegra reportar#  que todo el mundo esta#  a bordo!	
 * Ya hay varias ideas#  de robots pensadas.	
 * Cocina, limpieza, recreación;#  ¡la motivación está#  por los aires!	
@@ -21707,14 +21707,14 @@ spawn_dir_wave_inc
 * Hm, si, ¡creo que el#  reloj central afuera#  se ha detenido!
 * Un ingeniero debería#  arreglarlo pronto.
 * No se preocupe, ¡seguiré#  informando la hora!
-* It's ya boy, Mo!
-* How did I get here?
-* I got contacts, aight? Eyes#  all over the 'Ground.
-* Enough chit-chat though, it's#  business time!
-* As you know, I'm always#  scoutin' around for the next#  big thing, right? Right.
-* So I was on my way here and#  spotted a buncha glowy plants#  on a wall.
-* First thought that sprung to#  mind? Taste them.
-* And I'll tell ya what, the#  stuff hit me like WAM!
+* ¡Es tu hombre, Mo!
+* ¿Cómo llegué hasta acá?
+* Tengo contactos, ¿cachas?#  Ojos por todo el 'Suelo.
+* De todos modos, mucha#  chachara, ¡es hora de#  los negocios!
+* Como sabes, siempre estoy#  en búsqueda de lo nuevo,#  importante, ¿cierto? Cierto.
+* Estaba camino para acá y#  noté varias plantas#  brillando en un muro.
+* ¿Qué fue lo primero que#  pensé? Saboréalos.
+* Y te diré que, ¡esas cosas#  me dieron un WAM!
 * Best cuisine you'll ever#  experience, truly.
 * I even molded them into#  recognizable food shapes for#  that visual appeal!
 * Uh...#  You got something...
@@ -22165,18 +22165,18 @@ Chujin
 * But if you care to know more,#  he does love to talk about#  himself so I would ask him :]
 * Ah snacks... My purpose :]#
 * I highly suggest you purchase#  some! They are made with all#  natural ingredient substitutes!
-* (Hey, Clover, I don't#  think these... two can#  help us. We need to be#  going.)
-* Help? Help with what?
-* Help? Help with what?#* < We can be handy. Whatcha#  hidin'? >
-* Oh, it's nothing! My#  um... kiddo here wanted#  to look at your shop.
-* < That's your kid? When uh...#  when do the they get their#  feathers? >
-* Late bloomer. You know#  how it is.
-* Oh do we ever!
-* Oh do we ever!#* < Bits didn't get his mouth#  until age nine. >
-* Well uh, it was nice to#  meet you but we have#  places to be. Isn't that#  right, child of mine?
-* (Finish up your#  business, please.)
+* (Hey, Clover, No creo#  que estos... dos puedan#  ayudar. Tenemos que#  seguir.)
+* ¿Ayudar? ¿Ayudar en qué?
+* ¿Ayudar? ¿Ayudar en qué?#* < Podemos ser útiles. ¿Qué#  escondes? >
+* ¡Oh, no es nada! Mi#  um... hijo quería#  ver tu tienda.
+* < ¿Ese es tu hijo? Cuándo uh...#  ¿Cuándo le saldrán sus#  plumas? >
+* Floración tardía. Sabes#  como es.
+* ¡Claro que sí!
+* ¡Claro que sí!#* < Bits no obtuvo su boca#  hasta los nueve años. >
+* Bueno uh, fue lindo#  conocerlos pero tenemos que#  irnos. ¿No es así,#  querido hijo?
+* (Termina tús asuntos,#  por favor.)
 box_sndfnt
-* (We really don't have#  time to chat. Maybe#  later, okay?)
+* (En serio no tenemos#  tiempo para charlar. Tal#  vez luego, ¿okei?)
 * El Sr. Fluffybuns es el brillante#  faro de nuestra nación!
 * Una de las principales razones#  por las que estamos tan#  cerca de romper la barrera#  y volver a la superficie.#
 * Una de las principales razones#  por las que estamos tan#  cerca de romper la barrera#  y volver a la superficie.               #* < ¡Sí, El es genial#  pegandole a los humanos! >
