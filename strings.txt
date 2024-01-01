@@ -9274,12 +9274,12 @@ mpoint_down_free
 mpoint_can_dock
 mpoint_dock_xx
 mpoint_dock_yy
-* Safety is priority!	
-* - Wear your Steamworks Safety#  Goggles during work hours!	
-* - Always keep your Steamworks#  ID with you!	
-* - Decontaminate yourself of#  any biohazards before leaving#  the premises!	
-* - But most of all, have fun :)
-* (Some kind of propaganda.)
+* ¡La seguridad es la prioridad!
+* - ¡Usa tus gafas de seguridad#  Steamworks durante las#  horas de trabajo!
+* - ¡Siempre lleva contigo#  tu identificación#  de Steamworks!
+* - Descontamínate de cualquier#  material biológico peligroso antes#  de salir de las instalaciones.
+* - ¡Pero sobre todo,#  diviértete! :)
+* (Alguna especie de propaganda).
 * (Un monstruo sonriendo#  con un eslogan arriba.)	
 * "¡Mañana significa Superficie!"
 murder
@@ -9297,18 +9297,18 @@ room_target
 * (Algunos papeles#  desparramados en la#  mesa.)
 * (Parece una propuesta sin#  terminar de instalación#  de cámaras de seguridad.)
 * Reglas Sala de Descanso:
-* No trabbajar en la sala#  de descanso.
-* No reparar en al sala# de descanso.
-* (Los restos momificados#  de una pizza abandonada.)
+* No trabajar en la sala#  de descanso.
+* No reparar en la sala# de descanso.
+* (Los restos modificados#  de una pizza abandonada.)
 * (Ni siquiera tú eres#  tan valiente para probar.)
 * ¿Has visto a mi esposa?
-* (Just some litter.)
+* (Un poco de basura.)
 * (Una botella vieja sin ningún#  mensaje dentro.)
 * (El mensaje es claro.)
 * (Paso a paso. Uno a uno.)
-* (A stepladder.)
+* (Una escalera.)
 * (Nada de valor yace entre la#  basura.)
-* (Nothing of value.)
+* (Nada de valor.)
 * ¡No te alejes tanto! 
 * ¡Esa es la dirección en#  la que fue Axis!
 tiles_shortcut_railing
@@ -9316,10 +9316,10 @@ ast_shortcut
 * (Una fuente seca.)
 * (Una fuente seca yace frente#  a ti.)	
 * (No parece que funcione ya.)
-* (Getting tired of plants.)
+* (Me estoy cansando de#  las plantas.)
 * (Varios tipos de plantas#  reposan en distintos#  recipientes.)	
 * (El olor es... antinatural.)
-* (Already dead.)
+* (Ya está muerto.)
 * (Un robot grande.)
 * (Le vendría bien una limpieza.)
 * (Un robot grande.)	
@@ -9365,79 +9365,79 @@ ast_shortcut
 * (Sillas.)
 * (Un robocepcionista, congelado#  en el tiempo.)    
 * (Tiene una expresión de#  melancolía.)
-* El mañana es la Superficie!
-* Wishing everyone a productive#  final workday.    
-* Feel free to take pictures#  with your creations, as they#  must be left behind.    
-* As always, thank you for your#  contributions to the#  Steamworks.
-* (The door won't budge without#  proper identification.)
-* (Nothing you haven't seen#  before.)
-* (A pair of matching test tubes#  for you and your significant#  other.)
-* (Empty test tubes.)
-* (A microscope.)
-* (You peer through the#  microscope...)
-* (You spot a cell experiencing#  mitosis.)	
-* (All of the surrounding cells#  cheer in support.)
-* (Just a normal-sized Froggit.)
-* (Unsurprisingly, this printer#  is broken.)
-* (A broken printer.)
-* (The drain of the sink is#  clogged with science.)
-* (A sink.)
-* (There's no saving this sink.)
-* (Doing the dishes without#  being told? Never!)
-* (Unwashed dishes.)
-* (If only you had a pack of#  instant noodles.)
-* (A cold stove.)
-* (The plates are stuck#  together.)
-* (An old machine.)
-* (You spot a note on the#  machine.)	
-* Radiator out of order due to#  releasing lethal radiation for#  several weeks.	
-* If you die within the next#  year, please do not sue.
-* (It's the famous blue juice.)
-* (Nothing good.)
-* (Foul scents seep out from the#  test tubes.)
-* (Test tubes.)
-* (It's one of those things. You#  know.)
-* (Some sort of experiment#  involving carefully measured#  liquids.)
-* (Science stuff.)
-* (A collection of knick-knacks#  from around the Steamworks.)
-* (The doors to the storage#  cabinet are locked.)
-* I am trying to grow energy#  plants but I always end up with#  these leafy things.	
-* They smell like honey and#  won't stop making trumpet#  noises! 	
-* Why does this keep happening#  to me?
-* (A white plant.)
-* (The energy plant emits a#  heavy glow.)
-* (You fight the urge to taste#  it.)
-* (Yet another microscope.)
-* (You discover a pocket#  dimension buried in the#  microverse.)
-* (An empty bottle.)
-* (The ship escaped.)
-* (The door won't budge.)
-* Help wanted for Project:#  Steam!	
-* Are you a monster with an#  above average IQ?	
-* Probably not. But in case you#  are, we NEED YOUR KNOWLEDGE!	
-* King ASGORE has called on the#  greatest monster minds to help#  develop society!	
-* Scientists, engineers,#  mathematicians, janitors - you#  name it!	
-* Sign up at the King's#  settlement and make your way#  southeast.	
-* You'll know you've arrived#  when you see a metallic#  construction site.	
-* The Steamworks: Tomorrow means#  the Surface!
-* (The drawers are filled with#  old tools and other oddities.)
-* (Nothing but junk inside.)
-* (You peer through the#  microscope only to find out#  it's a telescope in disguise.)
-* (No constellations or planets#  can be seen. How#  disappointing.)
-* Today's assignment: Compound#  mixing!
-* The head office said we have#  free use over the Compound#  Computer for today.	
-* They also said the machine#  exploding and killing us all is#  a risk they're willing to take.
-* So grab anything you can and#  toss it in! 	
-* Have fun!
-* (Just a buncha cells being#  cellular.)
-* (You sense great tension#  between these two tubes.)
-* (Always wash your hands before#  handling life-threatening#  chemicals!)
-* (A dry sink.)
-* (Two tubes chillin'.)
+* ¡El mañana es la Superficie!
+* Deseando a todos un#  productivo último#  día de trabajo.    
+* No dude en tomar fotos#  con sus creaciones, ya#  que deben dejarse.
+* Como siempre, gracias por sus#  contribuciones al#  Steamworks.
+* (La puerta no se moverá sin#  la debida identificación.)
+* (Nada que no hayas visto#  antes.)
+* (Un par de tubos de ensayo#  a juego para ti y tu pareja.)
+* (Tubos de ensayo vacíos.)
+* (Un microscopio.)
+* (Miras a través del#  microscopio...)
+* (Observas una célula#  experimentando mitosis.)
+* (Todas las células#  circundantes aplauden#  en apoyo.)
+* (Solo un Froggit de#  tamaño normal.)
+* (Como era de esperar,#  esta impresora está rota.)
+* (Una impresora rota.)
+* (El drenaje del lavaplatos#  está obstruido con#  ciencia.)
+* (Un lavaplatos.)
+* (No hay salvación para#  este lavaplatos.)
+* (¿Lavar los platos sin#  que te lo digan? ¡Nunca!)
+* (Platos sin lavar.)
+* (Si tan solo tuvieras un#  paquete de fideos instantáneos.)
+* (Una estufa fría.)
+* (Los platos están pegados#  entre sí.)
+* (Una vieja máquina.)
+* (Observas una nota en#  la máquina.)
+* Radiador fuera de servicio debido#  a emisión de radiación letal#  durante varias semanas.
+* Si mueres en el próximo#  año, por favor, no#  demandes.
+* (Es el famoso jugo azul.)
+* (Nada bueno.)
+* (Olores desagradables se#  filtran desde los#  tubos de ensayo.)
+* (Tubos de ensayo.)
+* (Es una de esas cosas.#  Ya sabes.)
+* (Alguna especie de experimento#  con líquidos#  cuidadosamente medidos.)
+* (Cosas de ciencia.)
+* (Una colección de chucherías#  de alrededor de#  Steamworks.)
+* (Las puertas del armario de#  almacenamiento están#  cerradas con llave.)
+* Estoy intentando cultivar plantas#  de energía, pero siempre termino con# estas cosas frondosas.
+* ¡Huelen a miel y no dejan#  de hacer ruidos de#  trompeta!
+* ¿Por qué siempre me#  pasa esto a# mí?
+* (Una planta blanca.)
+* (La planta de energía emite#  un resplandor intenso.)
+* (Luchas contra la#  tentación de probarla.)
+* (Otro microscopio.)
+* (Descubres un bolsillo de#  dimensión enterrado#  en el microverso.)
+* (Una botella vacía.)
+* (La nave escapó.)
+* (La puerta no se mueve.)
+* ¡Se busca ayuda para el#  Proyecto: Steam!
+* ¿Eres un monstruo con un#  coeficiente intelectual por#  encima del promedio?
+* Probablemente no. Pero en#  caso de que lo seas,#  ¡NECESITAMOS TU CONOCIMIENTO!
+* El rey ASGORE ha convocado a las#  mentes monstruosas más grandes para#  ayudar a desarrollar la sociedad.
+* Científicos, ingenieros,#  matemáticos, conserjes, lo#  que sea.
+* Inscríbete en el asentamiento#  del rey y dirígete al sureste.
+* Sabrás que has llegado#  cuando veas un sitio de#  construcción metálico.
+* Steamworks: ¡El mañana#  significa la Superficie!
+* (Los cajones están llenos#  de herramientas antiguas#  y otras rarezas.)
+* (Nada más que basura dentro.)
+* (Miras a través del microscopio solo#  para descubrir que es#  un telescopio disfrazado.)
+* (No se pueden ver constelaciones#  o planetas. ¡Qué decepcionante!)
+* Tarea de hoy:#  ¡Mezcla de compuestos!
+* La oficina central dijo que#  tenemos libre uso de l#   Computadora de Compuestos hoy.
+* También dijeron que la explosión#  de la máquina y nuestra muerte son riesgos#  que están dispuestos a correr.
+* ¡Así que agarra lo que puedas#  y tíralo adentro!
+* ¡Diviértete!
+* (Solo un montón de células#  siendo celulares.)
+* (Sientes una gran tensión#  entre estos dos tubos.)
+* (¡Siempre lávate las manos#  antes de manipular sustancias#  químicas mortales!)
+* (Un fregadero seco.)
+* (Dos tubos relajándose.)
 Steamw. - C. Station
 target_flag
-* (Need to find an exit.)
-* (Through those doors.)
+* (Necesito encontrar una#  salida.)
+* (A través de esas puertas.)
 Hotland - Crossroads
 Background
 background_dark
@@ -9487,24 +9487,24 @@ statue
 * NÚCLEO en#  mantenimiento.	
 * Por favor no cruze#  ni salte la soga#  roja.
 * (Información inútil.)
-* (You notice a ranking sheet on#  the board.)	
-* Winners of the "Actually Magma#  Smoothie Challenge":	
-* - Pyrope (Fastest time.)	
-* - Grillby (Calm and#  collected.)
-* - Cinderhead (Struggled but#  finished strong.)
-* - Heats... something (We#  forgot who this was.)
-* - Starlo (Was only trying to#  impress someone.)
-* - Fuku Fire (Most enthusiasm)	
-* - Know Cone (Transported to a#  hospital. We might be in legal#  trouble.)
-* (The others' resting place.)
-* (Your destination.)
-* (You notice a schedule of#  upcoming acts on the board.)	
-* (The name "Mettaton" appears#  many, many times.)
-* (It's him.)
+* (Te das cuenta de una hoja#  de clasificación en#  el tablero.)
+* Ganadores del "Desafío del#  Batido de Magma de la#  Actualidad":
+* - Pyrope (Tiempo más rápido.)
+* - Grillby (Calmado#  y sereno.)
+* - Cinderhead (Tuvo#  dificultades pero#  terminó fuerte.)
+* - Heats... algo#  (Olvidamos quién era.)
+* - Starlo (Solo#  intentaba impresionar a#  alguien.)
+* - Fuku Fire (Mayor#  entusiasmo)
+* - Know Cone (Transportado#  a un hospital. Podríamos# tener problemas legales.)
+* (El lugar de#  descanso de los demás.)
+* (Tu destino.)
+* (Te das cuenta de un#  horario de próximos#  actos en el tablero.)
+* (El nombre "Mettaton"#  aparece muchas, muchas#  veces.)
+* (Es él.)
 * (El gobernante del#  Subsuelo.)
 * (Una plantada maceta.)
 * (...¿Qué?)
-* (No response.)
+* (Sin respuesta.)
 * Si, ¿hola?	
 * ¿Es la ballena cartera con mi#  paquete?	
 * Evitate las rimas y dejalo#  en la puerta, por favor.
@@ -9513,30 +9513,30 @@ statue
 * Regresa cuando haya escapado.
 * Lo sé, Lo sé. Estoy siendo#  desalojado.	
 * Desliza la nota bajo la#  puerta y la añadiré al#  libro de recortes.
-* (A sign.)
+* (Un cartel.)
 * Precaución:#  ¡Resbaladizo cuando está mojado!	
 * Precaución:#  ¡Resbaladizo cuando está seco!	
 * ¡Esta sección de baldosas#  no tiene fricción y no#  sabemos como repararla!
-* (A hazard.)
+* (Un riesgo.)
 * (Resistes la extraña tentación#  de probar el agua#  del trapeador.)
-Please press this switch#  too.#     -Toriel
-* mom? dad?	
-* anybody!
-* help me...	
-* please... help me...
+Por favor, pulse este#  interruptor también.#     -Toriel
+* ¿mamá? ¿papá?	
+* ¡alguien!
+* ayuda...	
+* por favor... ayuda...
 * no...
-* nothing...
-* useless...
-* all of it...
-* ?
-* ???????
-* h-hello?
-* ha!
-* hahahahaha!!!
-* could this be it?
-* yes, it has to be.
-* it must be.
-* it must be!
+* nada...
+* inútil...
+* todo eso...
+* ¿?
+* ¿¿¿¿¿¿¿???????
+* ¿h-hola?
+* ¡ja!
+* ¡¡¡jajajajaja!!!
+* ¿podría ser esto?
+* Sí, tiene que serlo.
+* debe serlo.
+* ¡debe serlo!
 bg_pacifist
 bg_neutral
 bg_geno
@@ -9555,11 +9555,11 @@ furnace_number
 * Plan de Emergencia de Escape#  de Metalworks (o PEEM):	
 * En caso de que alguien#  incendie el cuarto, no use#  el elevador.	
 * Evacuar al piso 01 o usar#  un código para acceder#  al piso 03.
-* (A rusty machine, once used#  for shaping gold ore into#  coins.)
-* (It doesn't seem functional.)
-* (The remnant of Ceroba's#  wrath.)
-* (A large collection of#  familiar stones.)
-* (Unfortunately, nothing in the#  pile catches your eye.)
+* (Una máquina oxidada, antiguamente#  utilizada para dar forma al#  mineral de oro en monedas.)
+* (No parece funcional)
+* (El remanente de la ira#  de Ceroba.)
+* (Una gran colección de#  piedras familiares.)
+* (Por desgracia, no hay nada#  en el fondo que te#  llame la atención).
 * (Una vieja PC entre dos#  escritorios.)
 * (La imágen en la pantalla#  te da un aura nostálgico.)
 * (La nota en la PC#  apagada dice:)    
@@ -9630,9 +9630,9 @@ balcony
 * (Esperas que Ava se#  recupere pronto, pobrecita.)
 * (Un banco de herramientas#  bien usado.)
 * (Se puede oler el polvo#  de la sierra que cubre#  la superficie.)
-* I think the throne room#  is the other way.
-* Let's go back.
-*  Throne Room
+* Creo que la sala del#  trono está al#  otro lado.
+* Volvamos.
+*  Sala del Trono
 soul_color
 soul_target_x
 soul_target_y
