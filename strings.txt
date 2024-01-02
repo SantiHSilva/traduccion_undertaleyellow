@@ -12548,16 +12548,16 @@ glitch_out
 draw_surface_ext
 Ahora, ahora.#Dejen de#contenerse,#todos.
 ¡Usen sus cartas#de triunfo!
-* Two paths...
+* Dos caminos...
 * Espera...
-* That symbol, I've seen#  it on Chujin's work#  uniform.
-* Lemme try one of his#  codes...
+* Ese símbolo, lo he visto#  en los uniformes de#  trabajo de Chujin.
+* Dejame probar sus#  códigos...
 * Nope.
 * Ugh.
-* Well, I only have one#  left but I've already#  used it. 
-* Here goes!
-* Seriously? Same code as#  the Dunes gate?
-* With this kinda#  security, no wonder Axis#  is so vigilant.
+* Bueno, solo me queda uno#  pero lo he usado antes. 
+* ¡Aquí va!
+* ¿En serio? ¿Mismo código#  que la puerta de#  las Dunas?
+* Con esta seguridad, ya#  entiendo porque Axis#  esta tan alerta siempre.
 * Después de ti.
 doorway
 item_page_count
@@ -16464,49 +16464,49 @@ Caí en un charco
 * Y osea, ni siquiera son#  reales...
 * Seh... Solo son una#  mezcla de metal y magia.
 * Así que... esta bien.
-* I bet your faith in me#  is dwindling with every#  new obstacle.
-* I'm just as annoyed as#  you, trust me.
-* This journey should've#  been a cakewalk like I#  said.
-* Even still, it's likely#  the best path to Hotland#  we could've picked.
-* Places like Waterfall#  are heavily patrolled.
-* Guess there's also a#  patrol here but...
-* Between Axis and#  Undyne, I'll take my#  chances.
-* Doesn't seem like these#  bots want to leave the#  Steamworks either.
-* We won't be followed.
-* Keep it up for a little#  longer, okay?
-* So this is the building#  Chujin worked at...
-* Hell of a commute.
-* He was always a#  traveler, though.
-* Back when we first met,#  I lived in the#  mountains.
-* My mother had sent me#  down to Oasis Valley for#  some crops.
-* On the way back, I had#  to cross a rather large#  ditch.
-* While on the bridge, I#  accidentally rolled my#  ankle and fell in.
-* I couldn't climb out no#  matter how hard I tried.#  
-* Even worse, the#  expensive crops were#  ruined.
-* Felt like I was there#  for hours before I heard#  a jingling sound.
-* A hiker approached the#  bridge holding a walking#  stick with a bell on it.
-* He noticed me lying in#  my humble ditch so I#  smiled and said: "Hey."
-* With a kind look, he#  replied: "You look#  awful."
-* I was hooked.
-* He then hopped down and#  tore a strip of his red#  robe to wrap my ankle.
-* And... Well, I could go#  on but... yeah.
-* That's just who he was.#  Caring. Even to a fault.
-Starlo?
+* Apuesto que tu fé en mi#  decrece con cada nuevo#  obstáculo.
+* Estoy tan molesta como#  tú, créeme.
+* Este viaje debía ser#  pan comido como dije.
+* Y aún así, es probable#  que sea lo mejor para#  llegar a Hotland.
+* Lugares como Waterfall#  están fuertemente#  patrullados.
+* Aunque que hay patrulla#  aquí también, supongo,#  pero...
+* Entre Axis y Undyne, sé#  cuáles son mis chances.
+* Y tampoco parece que los#  robots quieran abandonar#  Steamworks.
+* No nos seguirán.
+* Solo un poco más, ¿si?
+* Así que este es el#  edificio donde trabajaba#  Chujin...
+* Que infierno para#  llegar.
+* Aunque él siempre fue#  un viajero.
+* Cuando nos conocimos,#  yo vivía en las#  montañas.
+* Mi madre me mandó a#  Oasis Valley por#  algunos cultivos.
+* Mientras volvía, debía#  cruzar una zanja#  honestamente grande.
+* Cuando pasaba el puente,#  me torcí el tobillo#  y caí en la zanja.
+* No podía trepar de nuevo#  sin importar cuánto lo#  intentaba.
+* Para empeorarlo, los#  costosos cultivos se#  habían arruinado.
+* Se sintió como si#  hubieran pasado horas hasta#  que oí un tintineo.
+* Un excursionista pasó#  por el puente llevando#  un palo con una campanita.
+* Me vió tirada en la#  zanja así que le sonreí#  y dije: "Hey."
+* Con una mirada amable,#  me respondió: "Te ves#  terrible."
+* Estaba enganchada.
+* Saltó dentro del pozo y#  rajó una tira de su#  bata para envolver mi tobillo.
+* Y... Bueno, podría seguir#  pero... si.
+* Él era así. Cariñoso.#  Incluso demasiado.
+¿Starlo?
 Ah.
-* The truth is...
-* I don't think I'll ever#  be able to move on.
-* You know, find someone#  else and try to be happy#  again.
-* I don't think anyone#  like him is out there.
-* You're serious?
-* Perhaps at one point in#  my life I considered it.
-* You know, back when I#  was a naive kid, kinda#  like you.
-* Hey, it's science. Your#  brain is still#  developing.
-* ...I hope.
-* But honestly...
-* I wanted to grow up#  and... Star wouldn't#  follow.
-* In the end, I think#  that was okay.
-* Just look how happy he#  is versus where I ended#  up.
-* He clearly chose the#  better path, heh...
+* La verdad es...
+* No creo que sea capaz#  de superarlo.
+* Ya sabes, buscar alguien#  más y tratar de ser#  feliz de nuevo.
+* No creo que haya nadie#  como él.
+* ¿Lo dices en serio?
+* Quizás en algún punto de#  mi vida lo consideré.
+* Ya sabes, cuando era más#  infantil, como tú.
+* Hey, es ciencia. Tu#  cerebro todavía está#  desarrollándose.
+* ...Espero.
+* Pero honestamente...
+* Yo quería crecer, y...#  Star no lo hizo.
+* Al final, creo que eso#  estuvo bien.
+* Solo compara lo feliz#  que es él con como#  terminé yo.
+* Claramente él eligió el#  mejor camino, ja...
 * Not the greatest#  working conditions from#  what I can see.
 * I know the job paid#  well, though.
 * Of course after Chujin#  left, we needed a new#  source of income.
@@ -25496,18 +25496,18 @@ H O R A#D E#R E C O G I D A .
 * Narrows down the#  locations they could've#  gone at least.
 * No soporto ver eso...
 * ...Solo continuemos.
-* ...Hellooo?
-* Rusted through.
-* The sign says "If the#  receptionist is#  unreceptive...
-* ...check with the robot#  control station three#  floors up." 
-* Robot control#  station...
-* Clover! Are you thinking#  what I'm thinking?
-Axis?
-* Exactly.
+* ...¿Holaaa?
+* Oxidado.
+* El rótulo dice "Si la#  recepcionista es#  poco receptiva...
+* ...consulte la estación#  de control de robots#  3 pisos arriba." 
+* Estación de control de#  robots...
+* ¡Clover! ¿Estás pensando#  lo que yo estoy#  pensando?
+¿Axis?
+* Exacto.
 * You zoned out? Listen!
-* If there's some sorta#  "breaker box" for all#  robots in the area...
-* ...we can shut Axis down#  and get to Hotland#  as planned!
-* It's worth an#  investigation at least.#  Let's go!
+* Si hay algún tipo de "caja#  de fusibles" de todos#  los robots del área..
+* ... ¡podemos apagar a Axis#  e ir a Hotland como#  planeamos!
+* Vale la pena intentarlo#  al menos. ¡Vamos!
 * ST4Y pUT, OK?
 * YoUR'E s-SAFE.
 lightning_last
