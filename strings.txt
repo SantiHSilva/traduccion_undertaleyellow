@@ -17508,7 +17508,7 @@ piece_grav
 * (No me queda claro lo que#  quieren decir con eso,#  pero adelante).
 * Para superar este reto,#  debes derretir el cubo#  de hielo.
 * Asegúrate de que la bola#  llegue al fondo sin#  romperse.
-#                      Snowdin 
+                             #                      Snowdin 
            Martlet
 #  Guardia Real del Subsuelo
 * P.D.
