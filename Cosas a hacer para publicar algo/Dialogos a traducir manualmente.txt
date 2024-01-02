@@ -40,7 +40,7 @@ Traducir:
 
 gml_Object_obj_chem_05_computer_Step_0
 ...\nWaiting for correct\ncompounds to complete\nmixture . . .
-...\nEsperando a que los\ncompuestos correctos\ncompleten la mezcla...
+...\nEsperando a que los\ncompuestos correctos\ncompleten la mezcla. . .
 
 \nVerdict: 
 \nVeredicto:
@@ -53,3 +53,6 @@ screen_message = ((("Estado:\nCompuesto 1: " + status_1) + "\nCompuesto 2: ") + 
 
 \nBoot complete.\nMixing initialized.
 \nArranque completo. \nMezcla inicializada.
+
+Mixing process\ncomplete. Enjoy your\ndeadly acid :)
+Proceso de mezcla\ncompleto. Disfrute\nsu acido mortal :)

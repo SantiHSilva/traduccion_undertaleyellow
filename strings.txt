@@ -1965,7 +1965,7 @@ H. Acid
 * (Las inquebrantables esperanzas#  y sueños de los monstruos.)
 * (Envuelves la bufanda plateada#  alrededor de tu cuello.)
 * (¡Que acogedora!)
-* (No puedes utilizar este objeto.)
+* (No puedes utilizar este#  objeto.)
 * Mejor no beber de él.
 * (Podrías obtener café caliente#  en algún lado.)
 * (No puedes pensar en un posible#  uso para eso.)
@@ -5247,7 +5247,7 @@ scr_enemy_timer_attacks_flier_trio
 scr_generate_battle_penilla_solo
 scr_recreate_heart_battle_menu_text_penilla_solo
 * Felicitas a Penilla y#  su técnica de sombras.#* Ella está disgustada.
-* Felicitas el trabajo de Penilla.#* Se la nota un poco incómoda.
+* Felicitas el trabajo de Penilla.#* Se le nota un poco incómoda.
 scr_dialogue_battle_action_selected_action_1_penilla_a
 * Le dices a Penilla que está#  perdiendo su tiempo.
 * Te paras en medio de Penilla#  y su trabajo.
@@ -5340,7 +5340,7 @@ scr_dialogue_battle_action_selected_action_1_rorrim_a
 scr_dialogue_battle_action_selected_action_2_rorrim_a
 * Le das una risa forzada a#  Rorrim.
 * Sonríes más.
-* Le das una ligera sonrisa.#* Rorrim sonríe de vuelta.
+* Das una ligera sonrisa.#* Rorrim sonríe de vuelta.
 scr_dialogue_battle_action_selected_action_3_rorrim_a
 scr_start_enemy_attacking_rorrim_solo
 gml_Script_scr_enemy_attack_rorrim_mirror
@@ -12737,21 +12737,21 @@ pt_droplet
 pt_burst
 part_type_death
 pe_droplet
-* ...Clover?
-* Clover!!! It is you!
-* I can't believe it!
-* Come here!
-* I was so scared! 
-* This place...
-* It's Snowdin right? Sure looks#  like it.
-* I haven't the slightest clue#  what's going on here.
-* The last thing I remember was#  us talking on that rooftop...
-* Oh yeah! We were going to my#  house!
-* I don't quite know where it is#  from here but we'll search#  together!
-* I'm so happy I found you!
-* So happy I found you.
-* I found you.
-* I  F O U N D  Y O U . 
+* ¿...Clover?
+* ¡¡¡Clover!!! ¡Eres tú!
+* ¡No puedo creerlo!
+* ¡Ven aquí!
+* ¡Estaba tan asustada! 
+* Este lugar...
+* Es Snowdin, ¿verdad?#  Seguro que lo parece.
+* No tengo la menor idea#  de lo que está#  pasando aquí.
+* Lo último que recuerdo es#  a nosotros hablando en#  esa azotea...
+* ¡Ah, sí! ¡Ibamos a mi casa!
+* No sé muy bien dónde está#  a partir de aquí,#  ¡pero buscaremos juntos!
+* ¡Estoy tan contenta de#  haberte encontrado!
+* Me alegra haberte#  encontrado.
+* Te encontré.
+* T E  E N C O N T R É . 
 * (Necesitamos permanecer#  concentrados.)
 * (No molestemos a otros# con nuestros problemas.)
 * ¿Conoces esa estación del SPSS #  que está afuera?
@@ -16687,9 +16687,9 @@ Aventura
 * Una elección muy acertada,#  ¡no puedo burlarme!
 * ¡Sube a mi cesta y#  despegaremos!
 * ¡Hemos llegado sin un#  rasguño!
-* La aventura fue divertida,#  ¡pero ha llegado la hora de partir!
+* La aventura fue divertida,#  ¡pero ha llegado la hora de#  partir!
 * ¡Si necesita más ayuda,#  llame al timbre!
-* ¡La SPSS estará allí con poca resistencia!
+* ¡La SPSS estará allí con poca#  resistencia!
 mail_station_blocked
 * ¡Ah! Hola.
 * Paso por aquí todos#  los días para ver si#  alguien se ha caído.
@@ -20419,7 +20419,7 @@ flash
 * ¡Espero que no te importe#  que venda esa aguja#  online!
 * ¡Ta-ta!
 * Boo-hoo.
-* ¡Buena suerte con el nuevo#  trabajo! ¡¡Ah# ja!!
+* ¡Buena suerte con el nuevo#  trabajo! ¡¡Ah ja!!
 * ¡Pero si es el ayudante!
 * ¿Crees que los Feisty Five#  volverán a estar juntos#  algún día?
 * ¡Espero-espero-espero que sí!
@@ -23208,7 +23208,7 @@ Si ves#proyectiles#como estas...
 ¡Tienes que evitarlos#a toda costa!
 ¡Intenta esquivar mis#balas ahora! ¡Aquí#vienen!
 ¡Buen trabajo,#amigo! En caso de que#te golpeen,¡puedo#GUARDAR tu progreso!
-Eso significa que#si pasa algo malo,# puedo hacer#que no te pase a ti.
+Eso significa que#si pasa algo malo,#puedo hacer#que no te pase a ti.
 spin_radius_speed
 spin_radius_speed_multiplier
 sign_modifier_spin
