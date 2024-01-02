@@ -11010,15 +11010,15 @@ attack_index
 Spawning
 draw_clover_yellow_alpha
 make_colour_rgb
-* Ah, you got my message!#  Great!
+* ¡Ah, recibiste mi#  mensaje! ¡Genial!
 * Que gran vista...
 * Esa gran instalación#  frente a nosotros es#  el NÚCLEO...
 * ...La fuente principal#  de poder del#  Subsuelo.
 * Detrás de eso esta Nuevo#  Hogar. La capital.
                      Nuevo#  Hogar                     
-* ...King ASGORE's Castle.
-* Look, I haven't been#  100% honest with you...
-* My whole life, I was#  taught that humans are#  the enemy.
+* ...El Castillo del Rey#  Asgore.
+* Mira, no he sido 100%#  honesta contigo...
+* Toda mi vida, me han#  enseñado que los humanos#  son los enemigos.
 * But you... you never#  really came across as#  such. 
 * Though...
 * During our journey, I#  did sense a faint,#  alarming aura in you.
@@ -14153,30 +14153,30 @@ clay_piece
 clover_shake
 text_var
 abandoned_geno
-* Ah, you got my message.
-* So you found me...
-* ...King ASGORE's#  Castle.
-* My whole life...
-* My whole life I was#  taught that humans are#  the enemy.
-* And... it looks like#  they were right.
-* But even with that#  prejudice drilled into#  my mind...
-* I think Yo... I sense#  better in you.
-* And I'll admit, you're#  not shy about defending#  yourself.
-* During our journey, I#  sensed an alarming aura#  in you.
-* And... maybe they were#  right.
-* I've been trying my#  best to act nice but...
-* ...for a while now I've#  sensed an alarming aura#  in you.
-* ...thankfully, you#  never did.
-* I had this plan to stop#  your violence if needed.#  
-* I'm...
-* ...I'm not sure if I#  should...
-* I had this plan to stop#  your rampage but...
+* Ah, recibiste mi#  mensaje.
+* Así que me#  encontraste...
+* ...El Castillo del#  Rey Asgore.
+* Toda mi vida...
+* Toda mi vida fui#  enseñada de que los#  humanos son los enemigos.
+* Y... parece que#  tenían razón.
+* Pero incluso con ese#  prejuicio impregnado en#  mi mente...
+* Creo que... presiento#  cosas mejores en ti.
+* Y lo admito, no eres#  tímido al momento de#  defenderte.
+* Durante nuestra jornada,#  he sentido una alarmante#  aura en ti.
+* Y... quizás tenían#  razón.
+* He intentado actuar de#  la mejor manera pero...
+* ...desde hace un rato#  he sentido una alarmante#  aura en ti.
+* ...por suerte, nunca#  lo hiciste.
+* Tenía este plan para#  detener tu violencia#  de ser necesitado.
+* No estoy...
+* ...No estoy segura de#  que deba...
+* Tenía este plan de#  your rampage but...
 * I'm sorry for keeping#  that from you but you#  know how things are...
 * Even so, there's#  another problem...
 * ASGORE needs seven#  human SOULs to destroy#  the barrier.
 * So far he's collected#  five and I fear he'd try#  for another...
 * You might fight back#  and well...
-* I just... can't do it.
+* Solo... no puedo hacerlo.
 * You're a good kid deep#  down, I'm sure of it...
 * But truthfully, I can't#  allow you to visit#  ASGORE.
 * He only needs seven#  human SOULs to destroy#  the barrier.
@@ -14916,11 +14916,11 @@ bullet_list
 wave_number
 bul_spawn
 ring_object
-* (Just your average garbage.)
-* (There's some food here.)
-* (You find a discarded Hot Dog#  in the trash can.)
-* (You got a Hot Dog!)
-* (You're more of a cat person.)
+* (Solo basura normal.)
+* (Hay un poco de comida#  aquí.)
+* (Encuentras un Hot Dog tirado#  en la basura.)
+* (¡Obtuviste un Hot Dog!)
+* (Eres más de gatos.)
 * ¡Espera! ¿¡Otro robot!?
 * ¡No puede ser! ¡No podemos#  pelear con esto!
 * Que tal si Chujo lo hi-
@@ -22569,23 +22569,23 @@ Armor DF 20#* The things you can do with a college education! Raises ATTACK when
 bullet_distance_min
 bullet_attack_dir
 bullet_spin_dir
-* Hey, pal.
-* Heh, what are you doing#  in this cramped alley?
-* I think we both know#  this isn't the way to#  the Castle.
-* You do know that, right?#  
-* Yeah, so let's turn#  around and get on with#  the plan.
-* Clover, come on.
-* Is this about that#  letter you received in#  the Steamworks?
-* It's gotta be a trap. 
-* You're seriously gonna#  fall for something so#  obvious?
-* That bird never got you#  anywhere.
-* You know who did? Me!#  Your best friend!
-* How many times have I#  saved your life? Huh?
-* All Martlet's done is#  put it in danger!
-* Alright, fine!
-* If this is what you#  think is worth your time#  then I... trust you.
-* What else would a friend#  do, after all?
-* Just don't say I didn't#  warn you...
+* Hey, amigo.
+* Heh, ¿qué haces con esta#  pequeña aliada?
+* Creo que ambos sabemos#  que este no es el#  camino al Castillo.
+* Lo sabes, ¿cierto?#  
+* Sí, así que volvamos#  y continuemos con el plan.
+* Clover, vamos.
+* ¿Esto es acerca de esa#  carta que recibiste en#  Steamworks?
+* Debe ser una trampa. 
+* ¿En serio vas a caer#  por algo tan obvio?
+* Esa pájaro nunca te#  llevó a ninguna parte.
+* ¿Sabes quién sí? ¡Yo!#  ¡Tu mejor amigo!
+* ¿Cuántas veces salvé#  tu vida? ¿Huh?
+* ¡Todo lo que ha hecho#  Martlet es ponerte en#  peligro!
+* ¡Está bien, ya!
+* Si crees que esto vale#  la pena entonces...#  confío en ti.
+* Después de todo, ¿para#  qué son los amigos?
+* Solo no digas que no#  te lo advertí...
 generate
 mus_gameover
 * ¿Por qué?
