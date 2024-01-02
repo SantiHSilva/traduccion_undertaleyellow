@@ -14681,7 +14681,7 @@ Reiniciar
 Configuración
 play_time
 Room Name
-RESET
+RESETEAR
 WAIT
 screen_message
 ERROR: Baja potencia
@@ -18960,7 +18960,7 @@ elevator_shake_screen
 last_room
 player_fade_in
 choice_alpha
-STAY
+QUEDARSE
 puzzle_count
 puzzle_finished
 * (El camino se ha abierto.)
