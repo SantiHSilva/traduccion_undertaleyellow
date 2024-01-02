@@ -11010,78 +11010,78 @@ attack_index
 Spawning
 draw_clover_yellow_alpha
 make_colour_rgb
-* Ah, you got my message!#  Great!
+* Ah, ¡recibiste mi mensaje!#  ¡Bien!
 * Que gran vista...
 * Esa gran instalación#  frente a nosotros es#  el NÚCLEO...
 * ...La fuente principal#  de poder del#  Subsuelo.
 * Detrás de eso esta Nuevo#  Hogar. La capital.
                      Nuevo#  Hogar                     
 * ...King ASGORE's Castle.
-* Look, I haven't been#  100% honest with you...
-* My whole life, I was#  taught that humans are#  the enemy.
-* But you... you never#  really came across as#  such. 
-* Though...
-* During our journey, I#  did sense a faint,#  alarming aura in you.
-* I had this backup plan#  in case you started a#  rampage but...
-* ...you never did.
+* Mira, no he sido 100%#  honesta contigo...
+* Toda mi vida, me han#  enseñado que lo humanos#  son los enemigos.
+* Pero tú... en realidad#  nunca te has presentado#  como tal. 
+* Sin embargo...
+* Durante nuestro viaje,#  percibí un aura tenue,#  y alarmante en ti.
+* Tenía este plan de#  respaldo en caso de que#  empezaras un alboroto..
+* ...pero nunca lo hicite.
 syringe_noloop
-* Phew... that feels#  liberating.
-* I'm so sorry for keeping#  that from you. You're a#  good kid.
-* Even so, there's another#  problem...
-* I don't think ASGORE#  would agree.
-* You see, he needs seven#  human SOULs to destroy#  the barrier.
-* So far he's collected#  five and he might try#  for another...
-* Now that we're this#  close...
-* I'm afraid there isn't a#  peaceful way of#  confronting him.
-* I know this isn't the#  path you intended but...
-* Let's... put all this#  behind us.
-* You can come stay with#  me. Live out a happy,#  violence-free childhood!
-* I'll teach you#  craftsmanship...
-* And you can teach me#  marksmanship!
-* You don't deserve to die#  this young.
+* Fiu... es liberador.
+* Siento mucho habértelo#  ocultado. Pero eres#  un buen niño.
+* Aún así, hay otro#  problema...
+* No creo que ASGORE#  esté de acuerdo.
+* Verás, él necesita siete#  ALMAS humanas para#  destruir la barrera.
+* Hasta ahora, ha juntado#  cinco y quizá vaya a#  por otra...
+* Ahora que estamos tan#  cerca...
+* Me temo que no hay una#  manera pacífica de#  confrontarle.
+* Sé que éste no es el#  camino que esperabas#  pero...
+* Dejemos... todo esto#  atrás.
+* Podrías quedarte conmigo.#  ¡Vivir una infancia#  feliz, sin violencia!
+* Te enseñaré#  carpintería...
+* ¡Y tú me enseñarás#  puntería!
+* No mereces morir tan#  joven.
 * ¿Qué te parece?
 Sounds good
 ...Okay
-* Really???
-* Wow! We are going to#  have so much fun!
-* I promise this is the#  best outcome for both of#  us.
-* Well, "roommate," let's#  go to Snowdin!
-  W-What is this?
-  Clover...?
-  W-Why would you...
-* You gotta be kidding me!
-* I just knew something#  like this would happen!
-* And after all we've been#  through...
-* I tried for so long.
-* I tried to uphold a#  friendly persona but#  wow...
-* You really brought me to#  my limit!
-* Though, I gotta say, it#  did feel good to finally#  SNAP, ya know?
-* She never saw it coming!
-* Best of all, she thought#  YOU betrayed her in the#  end!
-* What an IDIOT!
-* I bet she even-   
-* Nuh-uh-uh!
-* Trigger-happy are we?
-* I think you forgot who's#  in charge here.
-* We had a nice run,#  didn't we?
-* Too bad I won't#  miss it.
+* ¿¿¿En serio???
+* Wow! ¡La vamos a pasar#  tan bien!
+* Te prometo que este#  es el mejor resultado#  para ambos.
+* Bueno, "compañero de piso,"#  ¡Vamos a Snowdin!
+  ¿Q-Qué es esto?
+  ¿Clover...?
+  P-Porque harías...
+* ¡Me tienes que estar#  bromeando!
+* ¡Yo sabía que algo como#  esto pasaría!
+* Y después de todo lo#  que pasamos...
+* He tratado por tanto#  tiempo.
+* Intenté mantener una#  imagen amistosa pero#  wow...
+* ¡Realmente me llevaste#  a mi límite!
+* Pero, he de decir, se#  siente bien por fin#  poder MATAR, ¿sabes?
+* ¡Ella nunca lo vió venir!
+* ¡Lo mejor de todo, es que#  pensó que TÚ la habías#  traicionado al final!
+* ¡Que IDIOTA!
+* Me apuesto que ni siquiera-   
+* ¡No-oh-oh!
+* ¿Nos estamos emocionando?
+* Creo que te has olvidado#  de quién está al mando#  aquí.
+* Tuvimos un buen intento,#  ¿no es así?
+* Que mal que no voy#  lo voy a extrañar.
 img_index
 big_flowey
 noise
 noise_pop
-* MMMmm I shoulda done this#  earlier, huh!
-* You're still holding on? So#  stubborn!
-* Lighten up a little, pal!
-* You do know this didn't have to#  happen, right?
-* We had a plan. A simple one.
-* Go. To. ASGORE.
-* But I guess you're too stupid#  to follow directions.
-* Don't know why I thought this#  would end any differently...
-* You've always been predictable.
-* Oh? What do I mean? Well,#  buddy, let me show you!
-* You've always been#  predictable, heh.
-* But enough about YOU.
-* I wanna have a little fun#  before I absorb your SOUL for#  good!
+* ¡MMMmm debería haber hecho#  esto antes, eh!
+* ¿Todavía te aferras? ¡Qué#  terco eres!
+* ¡Relájate un poco, amigo!
+* Tú sabías que esto NO#  tenía que pasar, ¿verdad?
+* Teníamos un plan.#  Uno muy simple.
+* Ve. Hacia. ASGORE.
+* Pero supongo que eres#  muy estúpido para seguir#  instrucciones.
+* No sé porque siquiera#  pensé que esto acabaría#  diferente...
+* Siempre fuiste predecible.
+* ¿Oh? ¿A qué me refiero?#  Bueno, amiguito, ¡déjame#  mostrarte!
+* Siempre fuiste predecible, ¿eh?
+* Pero ya estoy harto de TI.
+* ¡Quiero tener un poco de#  diversión antes de absorber#  tu ALMA!
 flowey_face
 rand
 xspeed
