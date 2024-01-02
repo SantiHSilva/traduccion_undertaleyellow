@@ -9453,7 +9453,7 @@ background_dark
 foreground
 foreground_dark
 * (Un basurero.)
-* (La piscina de los#  campeónes.)
+* (La piscina de los#  campeones.)
 * (Solo hay avisos de#  desalojamiento.)
 * (...Sin respuesta.)
 * (Nada más que productos#  de tienda retirados.)
@@ -9461,10 +9461,10 @@ foreground_dark
 * (El brillo cálido de#  un lobby congestionado.)
 * (Hay una nota en la puerta.)	
 * Extraño, por favor deja#  de comer la comida de gato#  que dejo afuera.
-* Es para un extraviado que#  tenemos con nosotros, no#  para monstruos.
+* Es para un gato extraviado#  que tenemos con nosotros,#  no para monstruos.
 * Gracias.
 * Día de la basura: Lunes	
-* Si no alcanzas el tacho,#  tirá las fundas al barranco#  que queda por el sur.	
+* Si no llegas el tacho,#  tira las fundas al barranco#  que queda por el sur.	
 * La lava debería hacer#  el trabajo.
 * (El final está cerca.)
 * (Hay que servir justicia.)
@@ -9495,7 +9495,7 @@ statue
 * - Heats... algo#  (Olvidamos quién era.)
 * - Starlo (Solo#  intentaba impresionar a#  alguien.)
 * - Fuku Fire (Mayor#  entusiasmo)
-* - Know Cone (Transportado#  a un hospital. Podríamos# tener problemas legales.)
+* - Know Cone (Transportado#  a un hospital. Podríamos#  tener problemas legales.)
 * (El lugar de#  descanso de los demás.)
 * (Tu destino.)
 * (Te das cuenta de un#  horario de próximos#  actos en el tablero.)
@@ -13028,19 +13028,19 @@ Perdón por hacerte#esperar pero...
 Ya estoy aquí.
 all_approached
 human_alpha
-* Ah, rain. Beautiful droplets#  from the sky.
-* What produces rain? Is it#  magic? I wonder.
-* Grandma always said that rain#  is a manifestation of the#  Underground's heartache.
-* "When monsters travel to#  Waterfall to wish their worries#  away...
-* ...Those feelings are sucked up#  into the air and poured out#  across the land.
-* From old sorrow comes new life#  in the soil below."
-* If that's the case, some sad#  monster must've stood in this#  corner for a long time.
-* As I mentioned, Waterfall is#  the best place to go to#  experience rain.
-* Unfortunately, getting there#  from Hotland isn't easy right#  now.
-* Have you noticed that? All of#  the roadblocks scattered about?
-* It's like they don't want#  anyone venturing off a specific#  path or something.
-* If you're carrying any "rain"#  don't be shy about releasing it#  into the air.
-* Holding onto sadness weighs you#  down.
+* Ah, lluvia. Las hermosas#  gotas del cielo.
+* ¿Qué produce la lluvia? ¿Es#  magia? Me pregunto.
+* Mi abuela me decía que la#  lluvia es una manifestación de#  los dolores de cabeza del Subsuelo.
+* "Cuando los monstruos van a#  Waterfall a desear que sus#  problemas se vayan...
+* ...Esos sentimientos son aspirados#  por el aire y vertidos#  por toda la tierra.
+* De las viejas penas nace una#  nueva vida en el suelo."
+* Si eso es así, algunos monstruos#  tristes deben haberse quedado#  en esta esquina un largo tiempo.
+* Como mencioné, Waterfall es#  el mejor lugar para#  experimentar la lluvia.
+* Desafortunadamente, llegar#  desde Hotland no es fácil#  ahora.
+* ¿Te diste cuenta? ¿Todos los#  obstáculos esparcidos por ahí?
+* Es como que no quieren que nadie#  pase por un camino específico#  o algo así.
+* Si llevas algo de "lluvia" no#  tengas reparo en soltarla#  al aire.
+* Aferrarte a la tristeza te#  termina pesando.
 * (A page of rambly writings#  wastes away in the can.)
 * (You take it.)
 * (You reach into the trash#  can...) 	
@@ -13860,29 +13860,29 @@ THANK YOU FOR#CONFIRMING MY#NARCISSISM,#HUMAN.
 NOTE: THAT WAS#A "JOKE."
 * (You do.)
 path_speed_default
-* Hey, where are you off to,#  mate?
-* Any space for a plus one?
-* Just joking around of course!#  Heh...
-* I just... I think it would be#  NEAT if I could like...
-* Join your party or...#  something.
-* But I know you're busy and all#  - so am I!
-* Things pile up, right? Life...
-* 'Course,
-* Your "busy" involves adventure#  and the discovery of wonderful#  treasures.
-* My "busy" is more like making#  sure I don't miss my alimony#  payments.
-* But nah it's cool... it's#  cool...
-* No need to stick around#  worrying about me!
-* You can tell me all about your#  grand journey later.
-* Maybe you could write a book#  about it? And I would like, be#  your editor?
-* I don't know, just thinking#  out loud, heh...
-* I'm starting to think my date#  stood me up.
-* I've been waiting here for#  three hours.
-* The date is tomorrow night but#  would it hurt to show up a#  little early?
-* The silverware is getting#  cold...
-* Who am I kidding?
-* My date is so cute, way out of#  my league.
-* Why would anyone show up twenty#  hours early for someone like#  me?
-* I'm just not cut out for love.
+* Hey, ¿adónde vas,#  amigo?
+* ¿Hay espacio para#  uno más?
+* ¡Te estoy bromenado!#  Ja...
+* Solo que... sería GENIAL que#  yo pudiera...
+* Entrar en tu grupo...#  o algo así.
+* Pero sé que estás ocupado#  - ¡yo también!
+* Las cosas se acumulan,# ¿verdad? la vida...
+* Obviamente,
+* Tu "estoy ocupado" trata de#  aventuras y descubrir#  maravillosos tesoros.
+* Mi "estoy ocupado" es mas de no#  olvidarme de pagar la#  pensión alimenticia.
+* Pero nada, está todo bien,#  todo bien...
+* ¡No necesitas quedarte aquí#  preocupándote por mi!
+* Puedes hablar de toda tu gran#  aventura más tarde.
+* ¿Quizás podrías escribir un#  libro sobre eso? Y podría#  ser tu... ¿editor?
+* No lo sé, solo estoy pensando#  en voz alta, ja...
+* Estoy empezando a pensar que#  mi cita me dejó plantado.
+* He estado esperando aquí por#  unas tres horas.
+* La cita es mañana a la noche#  pero no hace daño a nadie#  llegar más temprano.
+* Los cubiertos se están#  enfriando...
+* ¿A quién engaño?
+* Mi cita es muy tierna, muy#  fuera de mi liga.
+* ¿Por qué alguien vendría veinte#  horas antes por alguien#  como yo?
+* Simplemente no estoy hecho#  para el amor.
 staff_right
 move_noloop
 freq
@@ -14950,14 +14950,14 @@ play_song
 ransong
 bark_song_chance
 * ¿Qué hay?
-* You enjoying the tune we're#  currently bangin' out?
-* Hope you are 'cause it's the#  only one we're playing tonight.
-* No requests this time, sorry#  kid.
-* You might be confused why our#  instruments sound different#  from the usual.
-* Just the sound system this#  place provides. Different mix.#  Out of our hands.
-* Still a vibe, though.
-* Good luck on the rest of your#  journey, human.
-* You've come a long way.
+* ¿Estás disfrutando la#  canción que estamos tocando?
+* Espero que así sea, porque#  es la única de esta noche.
+* No hay pedidos esta vez,#  lo siento niño.
+* Quizás estés confuso porque#  nuestros instrumentos suenan#  diferentes a lo habitual.
+* Es el sonido proveniente#  de este lugar. Diferente mezcla.#  No lo controlamos.
+* Suena bien, de todas formas.
+* Buena suerte en el resto#  de tu aventura,#  humano.
+* Has recorrido un largo#  camino.
 flowey_depth_original
 grass_spawn_inc
 flower
@@ -15438,23 +15438,23 @@ new_coin
 * it's also, like, 300 degrees#  celsius.
 * sorry i'm out of dialogue.
 * Clover... Tú...
-* How could you...
-* This wasn't the plan!!
-* Chujin poured his all#  into Axis and you just-
-* And now... your SOUL...
+* Como pudiste...
+* ¡¡Este no era el plan!!
+* Chujin lo puso todo#  en Axis y tú sólo-
+* Y ahora... tu ALMA...
 * Es que...
-* I was certain. I#  thought you were pure...
-* The mission... It's#  over.
-* This is your fault.
-* I never want to see you#  again.
-* Aaaand there it is!
-* She was totally using#  you, pal.
-* As soon as you act in#  self-defense for once,#  she freaks!
-* But you know what? This#  is good!
-* You're finally free to#  get back on track.
-* No more third parties,#  no more side quests.
-* Just you and me, buddy!#  
-* Just you and me.
+* Tenía certeza. Yo#  creía que eras puro...
+* La misión... Se#  acabó.
+* Esto es tu culpa.
+* No quiero volver a verte#  nunca más.
+* ¡Yyyyyy ahí está!
+* Ella ha estado usándote#  todo este tiempo, amigo.
+* Tan pronto como actúes en#  defensa propia una vez,#  ¡enloquece!
+* Pero, ¿sabes qué?#  ¡Eso es bueno!
+* Finalmente eres libre de#  volver a ponerte en marcha.
+* No más terceros, no más#  misiones secundarias.
+* ¡Sólo tu y yo, amiguito!#  
+* Sólo tu y yo.
 * ¡¡¡Ayudante!!!
 * Me alegra mucho#  de que hayas#  vuelto.
 * ...hace que mi carta#  de despedida sea incómoda,#  ¡pero todo está bien!
@@ -16681,7 +16681,7 @@ Aventura
 * ¡Espero de verdad que le guste#  su correo!
 * En cuanto a mí, ¡debo partir!
 * ¿En qué parte del mundo#  le gustaría volar?
-* Solo tiene que elegir el lugar#  y el signo SPSS
+* Solo tiene que elegir el lugar#  y el signo SPSS.
 * ¡Hola de nuevo, amigo!#  ¿Tienes correo para reclamar?
 * OOF.
 * Una elección muy acertada,#  ¡no puedo burlarme!
@@ -16871,7 +16871,7 @@ audio_sound_gain_gramophone
 * (Una mini nevera barata.)
 * (Nada de lo que hay dentro#  parece ni remotamente comestible.)
 * Alguien me lo hizo#  hace un tiempo.
-* Es un solo maíz del#  campo de maíz de las#  Ruinas.
+* Es solo un maíz del#  campo de maíz de las#  Ruinas.
 * Empecé ese campo a#  partir de un trozo de#  maíz.
 * Antes de cerrar la#  puerta a Snowdin,#  algo pasó.
 * Seguía encontrando maíz#  en la puerta de mi casa.
@@ -16987,7 +16987,7 @@ Ya has hecho#suficiente daño aquí.
 * Nos vemos... más tarde.
 * Tengo que...#  arreglar algo en otra#  habitación.
 * Siéntate,#  ponte cómodo,#  quítate los zapatos.
-* En realidad por favor#  dejatelos puesto, el suelo#  está un poco sucio
+* En realidad por favor#  dejatelos puestos, el#  suelo está un poco sucio
 * No he barrido desde#  esta mañana.
 * Parece que te tomaste#  tu tiempo.
 * Oh, pero no te preocupes#  estoy acostumbrado#  a estar solo.
@@ -17001,8 +17001,8 @@ no_loop_dalv_hallway
 * Pero siéntete libre#  de quedarte todo el#  tiempo que quieras.
 * Bienvenido de nuevo.
 * Um... No estoy seguro#  de qué decir...
-* Hice algunas tarjetas#  para situaciones de# emergencia con amigos...
-* ...pero los he#  perdido.
+* Hice algunas tarjetas#  para situaciones de#  emergencia con amigos...
+* ...pero las he#  perdido.
 * Siéntete como en casa...#  otra vez.
 * ¡Espero haber sido#  un buen anfitrión!
 __b__
@@ -25206,8 +25206,8 @@ rm_black_screen_cutscene
 * Ya sabes... Supongo que#  haces muy bien de ayudante#  del sheriff.	
 * Buena suerte, donde sea que#  vayas.
 * Blub blub...
-* Lo sentimos, pero estamos llenos de#  reservaciones para esta#  noche.
-* Hay una gran fiesta de#  fantasmas por aquí y la cocina no#  sabe hacer comida fantasma.
+* Lo sentimos, pero estamos#  llenos de reservaciones#  para esta noche.
+* Hay una gran fiesta de#  fantasmas por aquí y la cocina#  no sabe hacer comida fantasma.
 * Por favor, vuelve en unos#  días. Por favor...
 * Consultar
 flower_count
