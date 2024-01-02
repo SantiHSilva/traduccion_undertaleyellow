@@ -11103,7 +11103,7 @@ event_music
 npc_axis_run_speed
 axis_run_speed
 * N0.. .
-* R- R3TREATING!
+* R- R3TIRADA!
 * Dios...
 * ¿Qué pasó aquí?
 * Espero que no sea#  dañino tocar esto...
@@ -11207,22 +11207,22 @@ attack_noloop
 heal_amount
 * Ganaste
 HP!
-* What are you thinking!?
-* I know they started the#  fight but we don't know#  the situation!
-* What if it was a glitch#  in their programming?
-* These bots are#  antiques. 
-* We have no right to#  destroy them, got that?
+* ¿¡Qué estás haciendo!?
+* ¡Sé que ellos empezaron la#  pelea pero no sabemos#  la situación!
+* ¿Qué pasa si fue un#  error en su#  programación?
+* Estos robots están#  anticuados. 
+* No tenemos ningún#  derecho de destruirlos,#  ¿sí?
 * ...Sigh.
-* Why are we in this#  situation to begin with?
-* I thought Axis said he#  was the last of his#  kind...
+* ¿Por qué estamos en#  esta situación?
+* Pensaba que Axis había#  dicho que era el#  último de su...
 * Espera... 
-* He introduced himself#  as "Model 014".
-* There must have been 13#  other guard-bot#  prototypes.
-* I suppose only one is#  still functioning.
-* Still, this thing#  definitely wasn't a#  guard-bot...
-* We don't know how many#  other robot types are#  out there.
-* We'll figure it out in#  due time, I'm sure.
-* Just... don't do#  anything stupid.
+* Se introdujo como#  "Modelo 014".
+* Deben haber otros 13#  robots guardias#  prototipos.
+* Supongo que solo uno#  sigue funcionando.
+* Aún así, esta cosa#  definitivamente no era#  un robot guardia...
+* No sabemos que otros#  tipos de robots hay#  por ahí.
+* Lo iremos viendo con#  el tiempo, estoy segura.
+* Sólo... no hagas#  nada estúpido.
 * Te aferras a tus esperanzas...#* ¡Defensa temporalmente aumentada!
 * No te echas atrás...#* ¡Recuperas
 * Piensas en los que más amas..#* ¡Velocidad temporalmente#  aumentada!
