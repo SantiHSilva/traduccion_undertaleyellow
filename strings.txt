@@ -486,44 +486,44 @@ sndfnt
 kill_number
 rm_steamworks_36
 sworks_flag
-* Are we gonna talk about#  what you just did?
-* I've seriously had it#  with this behavior.
-* I aid you for so long#  yet I have to deal with#  your angst?
-* Ever heard of "don't#  bite the hand that feeds#  you?"
-* But, oh, "it's okay to#  bite Flowey because he#  doesn't have hands."
-* Well I used to!
+* ¿Vamos a hablar de lo#  que acabas de hacer?
+* Estoy harto de este#  comportamiento.
+* Te ayude tanto tiempo...#  ¿y aún así tengo que#  lidiar con tu angustia?
+* ¿Has oído alguna vez eso#  de "no muerdas la mano#  que te da de comer?".
+* Pero, oh, "está bien#  morder a Flowey porque#  no tiene manos".
+* ¡Bueno, solía tenerlo!
 * ...
-* I um...
+* Yo um...
 * Heh...
-* I made a promise to#  help you all the way to#  the Castle.
-* So... I will.
-* Just had to make my#  grievances known, ya#  know?
-* A little respect goes a#  long way.
+* Prometí ayudarte#  hasta llegar al#  castillo.
+* Así que... lo haré.
+* Tenía que dar a conocer#  mis quejas, ¿sabes?
+* Con un poco de respeto#  se llega muy lejos.
 prt
 flowey_flag
 @@Other@@
 gml_Script_scr_save_flowey_steamworks
-* These undead piles of#  junk aren't very#  threatening.
-* Not really worth the#  trouble.
-* Still at it, huh?
-* Sorry but I'm runnin'#  low on witty comments at#  this point.
-* ...¿Qué? You want me to#  keep inflating your ego?
-* This was novel back in#  like, Snowdin, but now?
-* I don't know... Aren't#  you bored?
+* Estos montones de#  basura no muertos#  no son muy amenazadores.
+* Realmente no merece#  la pena.
+* Sigues con eso, ¿eh?
+* Lo siento pero me estoy#  quedando sin comentarios#  geniales en este momento.
+* ...¿Qué? ¿Quieres que#  siga inflando tu ego?
+* Esto era novedoso en#  como, Snowdin,#  ¿pero ahora?
+* No sé... ¿No te#  aburres?
 * Cierto.
-* Wow! I am constantly#  astonished by your#  abilities!
-* The skill it must've#  taken to shoot a bunch#  of tin cans!
-* Just, inspiring!
+* ¡Vaya! ¡No dejan de#  asombrarme tus#  habilidades!
+* ¡La habilidad que debes#  haber requerido disparar#  a un montón de latas!
+* Simplemente, ¡inspirador!
 * Okay.
-* We've had our fun in#  this place but#  seriously...
-* This was a big waste of#  time. For both of us.
-* Don't you agree?
-* You proved you could#  best ASGORE a long time#  ago.
-* All of this... It's#  excessive, ya know?
-* So let's just stroll on#  up to the Castle now.
-* No more unnecessary#  battles. 
-* Save your energy for#  the fight that matters,#  okay?
-* Trust me on this,#  buddy.
+* Nos hemos divertido en#  este lugar pero#  en serio...
+* Esto fue una gran#  pérdida de tiempo.#  Para los dos.
+* ¿No estás de acuerdo?
+* Demostraste que podías#  superar a ASGORE#  hace mucho tiempo.
+* Todo esto... Es#  excesivo, ¿sabes?
+* Así que sigamos#  paseando hasta#  el Castillo.
+* No más batallas#  innecesarias. 
+* Guarda tu energía para#  la lucha que importa,#  ¿de acuerdo?
+* Confía en mí en esto,#  amigo.
 * ¿Qué haces aquí atrás?#  ¡La salida es por#  el otro lado, tonto!
 * Pongámonos en marcha.
 rm_steamworks_05
@@ -537,84 +537,84 @@ rm_steamworks_chem_03
 rm_steamworks_chem_06
 rm_steamworks_34
 * ¡Buenas!
-* You seem to be#  progressing well!
-* Not that I expected#  anything else.
-* Let's get out there and#  see what this place has#  to offer!
-* You think anyone still#  lives here?
-* Eh, if they do, you can#  handle it!
-* Let's get a move on,#  buddy!
-* Let's get'cha saved!
-* So it's truly just you#  and me in this place,#  huh?
-* Bit of an anticlimax#  after everything we've#  been through.
-* I'm thankful though, the#  Dunes were draining!
-* Time's a-ticking,#  Clover!
-* Glad to see you out and#  about!	
-* Axis' brain must be#  rusted through.	
-* Didn't take much to#  escape his "trap."	
-* I have a feeling you#  haven't seen the last of#  him, though.
-* The lake ahead looks#  mighty treacherous!
-* Let's take a look at#  what we're dealing with,#  pal!
-* Look at you sailing#  across a blazing lake#  with ease!
-* These robots aren't#  useless after all!
-* You know, it's kinda#  funny...
-* This bot looks like it#  could kick the bucket#  any day...
-* ...Yet it glided across#  the lava no problem.
-* Sure can't say the same#  for Martlet's "sturdy"#  raft, haha!
-* Further into this#  facility we go!
+* ¡Parece que estás#  progresando bien!
+* No es que esperara#  algo diferente.
+* ¡Salgamos y veamos qué#  ofrece este lugar!
+* ¿Crees que alguien#  todavía vive aquí?
+* Eh, si lo hacen,#  ¡podras manejarlo!
+* ¡Vamos, amigo,#  muévete!
+* ¡Vamos a guardar!
+* Así que realmente solo#  tú y yo en este lugar,#  ¿eh?
+* Un poco anticlimático#  después de todo por#  lo que hemos pasado.
+* Aunque estoy agradecido,#  ¡las Dunas eran#  agotadoras!
+* ¡El tiempo apremia,#  Clover!
+* ¡Qué alegría verte#  fuera y activo!
+* El cerebro de Axis#  debe estar oxidado.
+* No tomó mucho escapar#  de su "trampa".
+* Tengo la sensación de#  que no has visto lo#  último de él, sin embargo.
+* ¡El lago que está#  adelante parece muy#  traicionero!
+* ¡Echemos un vistazo#  a lo que estamos#  enfrentando, amigo!
+* ¡Mira cómo navegas#  por un lago ardiente#  con facilidad!
+* ¡Estos robots no son#  inútiles después de todo!
+* Sabes, es un poco#  gracioso...
+* Este robot parece que#  podría dejar de funcionar#  en cualquier momento...
+* ...Aún así, se deslizó#  sobre la lava#  sin problema.
+* Seguro que no puedo decir#  lo mismo de la "robusta"#  balsa de Martlet, ¡jaja!
+* ¡Vamos más adentro de#  esta instalación!
 * ¡Buenas!	
-* Not a fan of this area's#  bleak vibe, honestly.
-* I got my fill of this#  kinda stuff with the#  Ruins.
-* Guess I'm not freezing#  or choking on sand so...
-* ...It's certainly been#  worse, haha!
-* We better get moving#  before this place#  collapses!	
-* It's definitely seen#  better days!
-* What IS all this stuff?
-* It certainly isn't#  natural.
-* I mean, if anyone knows#  flowers, it's me.
-* Bleh!
-* This can't be good for#  my roots.
-* Feel like I'm being#  poisoned the longer we#  sit here.
-* Could you hurry it up?
-* Let's get outta here,#  pal!
-* Golly, that bot sure was#  a handful!
-* Not to mention a total#  rip-off.	
-* Flowers and vines are my#  shtick!
-* Well, I suppose it goes#  to show...
-* ...that mechanical#  imitations can't beat#  the real deal!	
-* I will say, that thing#  honestly felt more#  threatening than Axis.
-* I'm not trying to tell#  you what to do but just#  for consideration...
-* ...Why don't you... ya#  know, "deal with" Axis#  next time you meet?
-* I'm sure it would be#  easy. Just a thought!
-* I suppose it's time to#  get a move on!
-* Who knew the Steamworks#  were so dense!	
-* Like, where are we now?	
-* I see test tubes...#  microscopes...
-* Almost reminds me of...	
-* Eh, I don't know.#  Science isn't my forte.
-* Whatever you do, don't#  drink anything you see#  here.
-* All of this liquid has#  been lying out for years,#  molding.
-* ...Not that you've ever#  been shy of eating#  discarded garbage.
-* Let's see what lies#  ahead, buddy!
-* Just when I thought Axis#  couldn't get any more#  clumsy.	
-* Glad he's gone! 	
-* It's down to us yet#  again, the unwavering#  duo!
-* We do work well as a#  team, don'tcha think?
-* Flowey "the brains" and#  Clover "the brawn!"
-* Not saying you aren't#  smart of course, haha.
-* Watching you solve#  puzzles has been a#  treat!
-* What's up with this#  place and botany?	
-* Are plants and robots#  all these scientists#  care about?
-* I mean, I AM a plant#  but you don't hear me#  talking about it 24/7.
-* We're almost out of this#  facility, I can feel it!	
-* Don't slow down now!
-* Whatever lies ahead, I'm#  sure you'll make the#  right decisions.	
-* Go get 'em!
-* Can you smell that?#  Magma and steel!
-* Newer... steel. Point#  is, we're almost outta#  here, pal! 
-* This journey is about to#  pay off big time thanks#  to you!
-* See you up ahead!
-* ASGORE is so close!
-* Let's get a move on,#  Clover!
+* No soy fanático del#  ambiente sombrío de esta#  área, honestamente.
+* Ya tuve suficiente de#  este tipo de cosas#  con las Ruinas.
+* Supongo que no estoy#  congelándome ni ahogándome#  en arena, así que...
+* ...ciertamente ha sido#  peor, ¡jaja!
+* ¡Mejor nos movemos#  antes de que este#  lugar se derrumbe!
+* ¡Definitivamente he#  visto mejores días!
+* ¿Qué es TODO esto?
+* Ciertamente no es#  natural.
+* Quiero decir, si#  alguien conoce las#  flores, soy yo.
+* ¡Bleh!
+* Esto no puede ser bueno#  para mis raíces.
+* Siento que estoy siendo#  envenenado mientras#  más tiempo estamos aquí.
+* ¿Podrías apurarte un#  poco?
+* ¡Vámonos de aquí,#  amigo!
+* Vaya, ¡ese robot fue#  todo un desafío!
+* Sin mencionar que fue#  sun completo fraude.
+* ¡Las flores y las#  enredaderas son#  mi especialidad!
+* Bueno, supongo que#  eso lo demuestra...
+* ...que las imitaciones#  mecánicas no pueden#  vencer a lo real.
+* Diré que ese aparato#  realmente se sintió#  más amenazante que Axis.
+* No estoy tratando de#  decirte qué hacer, pero#  solo como consideración...
+* ...¿Por qué no... ya#  sabes, "ocuparte" de#  Axis la próxima vez?
+* Estoy seguro de que#  sería fácil.#  ¡Solo es una idea!
+* Supongo que es hora de#  seguir adelante.
+* ¡Quién iba a pensar#  que Steamworks eran#  tan densos!
+* Es como, ¿dónde#  estamos ahora?
+* Veo tubos de#  ensayo...#  microscopios...
+* Eso me recuerda...	
+* Eh, no lo sé. La ciencia#  no es mi fuerte.
+* Sea lo que sea que#  hagas, no bebas nada#  de lo que veas aquí.
+* Todo este líquido ha#  estado ahí fuera durante#  años, mohándose.
+* ...No es que te haya#  dado vergüenza comer#  basura desechada.
+* ¡Veamos lo que nos#  espera, amigo!
+* Justo cuando pensaba#  que Axis no podía#  ser más torpe.
+* ¡Me alegra que se#  haya ido!
+* ¡Nuevamente depende#  de nosotros, el#  dúo incansable!
+* Trabajamos bien como#  equipo, ¿no crees?
+* Flowey "el cerebro"#  y Clover#  "la fuerza bruta".
+* No estoy diciendo que#  no seas inteligente,#  por supuesto, ¡jaja!
+* ¡Ver cómo resuelves#  puzzles ha sido#  un placer!
+* ¿Qué pasa con este#  lugar y la botánica?	
+* ¿Son las plantas y los#  robots lo que preocupa#  a estos científicos?
+* Es decir, SOY una planta#  pero no me oyes#  hablar de eso 24/7.
+* Estamos casi fuera de#  esta instalación,#  ¡puedo sentirlo!	
+* ¡No bajes el ritmo#  ahora!
+* Sea lo que te espera,#  estoy seguro de que tomarás#  las decisiones correctas.	
+* ¡Ve a por ellos!
+* ¿Puedes oler eso?#  ¡Magma y acero!
+* Acero... nuevo. ¡El#  punto es que ya#  casi nos vamos, amigo! 
+* ¡Este viaje va a#  dar sus frutos#  gracias a ti!
+* ¡Nos vemos más#  adelante!
+* ¡ASGORE está muy#  cerca!
+* ¡Vamos a movernos,#  Clover!
 scr_save_flowey_steamworks
 * Extiendes la mano a Dunebud#  pero se echan atrás.
 * Agitas a Dunebud de un lado#  a otro.#* Se ríen de ti.
@@ -1151,14 +1151,14 @@ save_count
 * Al menos esa es mi#  "florosofía."
 * ¡Tenemos lugar a donde#  ir, amigo!
 * Chop chop!
-* Well.
-* Word sure gets around.
-* This is what'cha get#  when you toss out#  “subtlety.”
-* Waging war without a#  care for#  repercussions...
-* I tried to warn you but#  it's too late now.
-* Play it cool from here#  on out, will you?
-* We need to reach the#  Castle.
-* The King awaits...
+* Vaya.
+* Se corre la voz.
+* Esto es lo que obtienes#  cuando descartas#  la "sutileza".
+* Hacer la guerra sin#  importarle las#  repercusiones...
+* Intenté advertirte pero#  ya es demasiado tarde.
+* Tranquilízate de aquí#  en adelante, ¿quieres?
+* Tenemos que llegar al#  Castillo.
+* El Rey espera...
 * Que giro de eventos,#  ¿huh?
 * ¡Que bueno que estoy#  en el equipo vencedo,#  jaja!
 * ¡Apuesto a que podrás#  con Ceroba como si#  nada!
@@ -21437,7 +21437,7 @@ steam_active
 steam_sound_played
 collision_counter_max
 collision_counter
-* Premio Buen Intento en#  Ingeniería: Sr. Chujin Ketsukane
+* Premio Buen Intento en#  Ingeniería: Sr. Chujin#  Ketsukane
 * Nunca me dijo que#  ganó un premio...
 * Estoy orgullosa.
 * INTRUSOS ENCONTRADOS.#  STEAMWORKS: ZONA ESTE.
