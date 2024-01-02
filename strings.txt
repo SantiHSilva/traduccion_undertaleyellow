@@ -11802,8 +11802,8 @@ pl_image_index
 buy_shop_screen_number
 Steamworks Vendy
 Steamworks Vendy Geno
-* Vendy Model 01 - System boot...
-* Scanning customer...
+* Vendy Modelo 01 - Iniciando#  Sistema...
+* Escaneando Cliente...
 point
 action
 * Steamworks Chemist present :]
@@ -13148,10 +13148,10 @@ horse1
 horse2
 explosive_enemy
 can_explode
-* (Take the acid?)
-* (Obtained ACID!)
-* It doesn't seem appetizing.
-* (Crawl through the vent?)
+* (¿Agarrar el ácido?)
+* (¡Obtuviste ÁCIDO!)
+* No se ve sabroso.
+* (¿Arrastrarse por la#  ventilación?)
 sprite_index_og
 warning_id
 bullet_drop
@@ -13469,28 +13469,28 @@ picture_alpha
 * Definitivamente lo#  que necesito después#  de esa locura.
 npc_action_sprite
 * Me pregunto que estará#  haciendo Starlo.
-* Seguro en alguna misión Feisty#  Five con una sonrisa#  en el rostro.
+* Seguro en alguna misión#  Feisty Five con una#  gran sonrisa.
 * Le envidio... eso de#  estar envuelto en#  optimismo y fantasía.
 * No es común eso entre#  los monstruos.
 * La mayoría actúa alegre#  pero la vida aquí#  abajo...
 * ...no tiene esperanza.
-* Es por eso que buscan#  en el Rey sentirse seguros.
+* Es por eso que buscan#  sentirse seguros con#  el Rey.
 * Creen que una vez#  obtenga siete ALMAS y#  rompa la barrera...
-* ...será capaz de vencer#  fácilmente lo que sea#  que haya en la Superficie.
-* Una forma de verlo#  bastante estúpida si me#  preguntas.
-* ¿Quién sabe cómo se han#  preparado los humanos#  desde entonces?
-* Pero estoy divagando...#  Nosotros deberíamos arreglar#  nuestros problemas primero.
+* ...será capaz de vencer#  fácilmente lo que sea#  que haya arriba.
+* Una forma bastante#  estúpida de verlo si#  me preguntas.
+* ¿Quién sabe cómo se han#  preparado los humanos#  desde ese entonces?
+* Pero estoy divagando...#  Debemos arreglar#  nuestros problemas.
 * No puedo imaginar por#  lo que Kanako esta#  pasando ahora mismo...
 * Aún no has visto a#  mi Kanako, ¿no?
 * Mira, echa un vistazo.
 * Mirá esa sonrisa. La#  misma de su padre, sin#  dudas.
 * Talentosa como él,#  también. Ella es...
 * ...No se merecía esta#  vida.
-* De verdad deseo que#  hubieran sido distinto...
+* De verdad deseo que#  hubiera sido distinto...
 * ...pero, no es lo que#  "el destino" planeó.
 * Perdona mi ambiguedad.
 * Prefiero mantener los#  malos momentos para mí.
-* Como fuere, el Lab no#  debería estar horriblemente#  lejos de aquí.
+* De todos modos, el Lab#  no debería estar tan#  lejos de aquí.
 * LLEGAREMOS al fondo de#  esto, Clover.
 * Mientras tanto, puedes#  investigar un poco. Yo#  descansaré un rato más.
 * Simplemente grita si#  algo intenta quitarte#  la vida.
@@ -13577,15 +13577,15 @@ tiles_outside
 rubble
 asset_glass_flash
 asset_broken_glass
-* ENCONTRADOS.
+* LOS ENCONTRÉ.
 dynamic_wall
-* YOU ARE CORNERED,#  HUMAN.
-* I DID NOT WANT TO HURT#  YOU BUT YOU FORCED MY#  GLOVE.
-* PREPARE FOR PAIN.
-* THIS IS A PROBLEM.
-* LOOKS LIKE YOU WIN THIS#  TIME.
-* I WILL RETURN TO#  CAPTURE YOU SOON.
-* DO NOT GO ANYWHERE,#  PLEASE.
+* ESTÁS ACORRALADO,#  HUMANO.
+* NO QUERÍA LASTIMARTE#  PERO FORZASTE A MI#  GUANTE.
+* PREPARATE PARA EL#  DOLOR.
+* ESTO ES UN PROBLEMA.
+* PARECE QUE GANASTE#  POR ESTA VEZ.
+* PRONTO REGRESARÉ#  PARA CAPTURARTE.
+* NO TE VAYAS,#  POR FAVOR.
 steamworks_22_event_throw
 steamworks_22_event_axis_stop_throwing
 steamworks_22_event_deflect
@@ -13795,19 +13795,19 @@ spawn_arrows
 * ¡Oh no! ¡Corre!
 * CONVICTOS FUGADOS#  ENCONTRADOS. STEAMWORKS:#  ZONA DE OFICINAS.
 arrow_down
-* ¡Clover! ¡Los casilleros!
+* ¡Clover! ¡Los#  casilleros!
 * ¡Sígueme!
 * CÓMO.
 * Huff... Huff...
-* ¡Este tipo significa#  problemas!
-* Mi esposo era genial#  como ingenierío.
-* Solo me pregunto por qué#  me oculto todo esto.
+* ¡Este tipo solo da#  problemas!
+* Mi esposo era genial#  como ingeniero.
+* Solo me pregunto por qué#  me ocultó todo esto.
 * Podría haberme dejado#  algún tipo de botón#  de apagado ¿no?
 * ¡EL ROBOT! ¡Olvidé por#  completo nuestro plan!
-* Ugh, lo siento. La próxima#  que veamos a Axis lo#  intentaremos.
+* Ugh, lo siento. La#  próxima que veamos a#  Axis lo intentaremos.
 * DETENIDO.
-* TU VIENES CONMIGO.
-* SUFICIENTE CORRER.
+* Tú VIENES CONMIGO.
+* BASTA DE CORRER.
 player_is_caught
 distance_axis
 distance_pl
@@ -14837,15 +14837,15 @@ ceroba_x_original
 * ADIÓS.
 * ¡Estás haciendo que#  llore, Axis!
 * ¡Detente ya!
-* LOS ROBOTS NO LLORAN.#  YO YA INTENTÉ.
-* Bue, valía la pena.
+* LOS ROBOTS NO LLORAN.#  YA LO INTENTÉ.
+* Bueno, valía la pena#  intentar.
 * ¡Hora del plan C!
 * NO PUEDO MOVERME.
 * Si te hubieras quedado#  con la sorpresa, esto#  no se habría complicado.
 * NO TE BURLES DE MI#  JUICIO.
 * VOLVERÉ PARA#  CAPTURARLOS.
 * ...CON NUEVAS MANOS.
-* Phew, estoy exhausta.
+* Uff, estoy exhausta.
 * En la próxima silla que#  veamos, me tomaré un#  descanso.
 steamworks_22_event_ceroba_guard
 in_bounds
@@ -17763,7 +17763,7 @@ snip_sound
 * QUÉDATE AQUÍ MIENTRAS#  BUSCO A LA SEÑORA ALTA.
 * NO TOQUES NADA.
 * QUÉDATE AQUÍ, DEBO VOLVER#  A PATRULLAR.
-* ¿TIENE LA CAPACIDAD#  DE COOPERAR?
+* ¿TIENES LA CAPACIDAD#  DE COOPERAR?
 * ¿O ESTÁS JUGANDO CONMIGO#  A PROPÓSITO?
 * DE CUALQUIER MANERA,#  ESTOY COMENZANDO A#  ODIARTE [realmente].
 toast
@@ -21715,48 +21715,48 @@ spawn_dir_wave_inc
 * Estaba camino para acá y#  noté varias plantas#  brillando en un muro.
 * ¿Qué fue lo primero que#  pensé? Saboréalos.
 * Y te diré que, ¡esas cosas#  me dieron un WAM!
-* Best cuisine you'll ever#  experience, truly.
-* I even molded them into#  recognizable food shapes for#  that visual appeal!
-* Uh...#  You got something...
-* I ain't done with the pitch#  yet, miss.
-* This is important.
-* But-
-* Like I was sayin', plants?#  More like PLEASED!!!!
-* Visual appeal is half the#  battle I say!
-* Ain't nobody gonna buy ya#  product if it looks ugly#  right???
-* But you would, I know it. Ol'#  Mo can always count on your#  business!
-* Never better, haha!
-* Now, where's my stand?
-* I... uh... I have a few#  products left in my pocket!
-* Don't go yet!
-* Here's what I got. (30 G)
-* I'm still open for business!
-* Take a look! 30G an item!
-* You seem to be carryin' a lot,#  buddy!
-* Come back with a lighter load!
-* Sorry, a monster's gotta make#  a profit from their#  investments.
-* Need that G.
-* (You got some 
+* Verdaderamente es la mejor#  experiencia culinaria.
+* ¡Incluso los moldee a unas#  formas de comida para que#  sean más apetecibles!
+* Uh...#  Tienes algo...
+* Aún no termino mi propuesta,#  señorita.
+* Esto es importante.
+* Pero-
+* Como decía, ¿plantas?#  ¡¡¡¡Más bien PORFAVOR!!!!
+* ¡La presentación visual#  es media batalla ganada#  según yo!
+* ¿¿¿Nadie comprará un#  producto si se ve#  feo cierto???
+* Pero tú sí, lo sé. ¡El#  viejo Mo puede contar#  contigo para negocios!
+* ¡Mejor que nunca, jaja!
+* Ahora, ¿dónde está mi#  puesto?
+* Yo... uh... ¡tengo unos#  cuántos productos más en#  mi bolsillo!
+* ¡No te vayas!
+* Esto es lo que tengo. (30 Oro)
+* ¡Aún estoy dispuesto a#  hacer negocios!
+* ¡Echa un vistazo! ¡30 un ítem!
+* ¡Pareces llevar muchas#  cosas, amigo!
+* ¡Vuelve cuando tengas una#  carga más ligera!
+* Lo siento, un monstruo tiene#  que obtener ganancias de#  sus inversiones.
+* Necesito la plata.
+* (Tienes algo de 
 !)
-* Appreciate it!
-* You're... leavin'?
-* My products are high-quality,#  I swear!
-* Come on, pal!
-* Well... that's all I got.
-* You never were very interested#  in my wares, huh?
-* I guess I'm quite the lousy#  salesman when push comes to#  shove.
-* Thanks for ya time.
-* You cleared me out!
-* Thanks for spending all that#  G. Ya boy appreciates it!
-* All in all, you've been a good#  customer.
-* If ya ever need somethin', you#  can always count on me for#  quality!
-* I ain't the down-to-earth type#  but uh... Thanks...
-* Ya know... for supportin' me so#  much.
-* You emptied my inventory every#  time we crossed paths.
-* I've been in a bit of#  financial trouble to be#  frank...
-* But because of you, (and a#  little luck), I might be able#  to put that behind me.
-* Ya done good, kid. Catch ya#  later!
-* Mo, out!
+* ¡Lo aprecio!
+* ¿Te... vas?
+* Mis productos son de alta#  calidad, ¡lo juro!
+* ¡Vamos, compa!
+* Bueno... eso es todo lo#  que tengo.
+* Nunca te interesaste en#  mis artículos, ¿huh?
+* Supongo que soy un pésimo#  vendedor a la hora de#  la verdad.
+* Gracias por tu tiempo.
+* ¡Me dejaste vacío!
+* Gracias por emplear esa#  plata. ¡Tu hombre la aprecia!
+* A pesar de todo, has sido#  un maravilloso cliente.
+* Si necesitas algo, ¡siempre#  cuentas conmigo en asuntos#  de calidad!
+* No soy del tipo de monstruos#  centrados en la realidad#  pero... Gracias...
+* Ya sabes... por apoyarme#  tanto.
+* Has vaciado mi inventario#  cada vez que nos hemos#  cruzado.
+* Recientemente he estado en#  un problema financiero#  para ser franco...
+* Pero gracias a ti, (y un#  poco de suerte), tal vez#  podré dejar eso atrás.
+* Has hecho bien, chico. ¡Te#  veo luego!
+* ¡Mo, fuera!
 mo_jacket_explode
 action_follow_up
 action_script_follow_up
@@ -22118,28 +22118,28 @@ Chujin
 * Cuando trae a su hija a#  la ciudad, básicamente son#  dos contra  uno, ¡jaja!
 * Ahora que lo pienso, hace#  tiempo que no veo a ese#  canalla.
 * Tenemos que volver a reunir#  a toda la pandilla.
-* Code line 327: "If a customer is#  determined 'unauthorized', treat#  them with utmost disrespect so#  they will not buy up the#  company's snacks."
-* My disrespectful state was#  initiated when I scanned your#  dull face.
-* Bring a Steamworks employee ID#  next time to experience#  "Hospitable Mode."
-* Until then, you may still#  purchase items, but I will tear#  apart your self-esteem while#  you do so...
-* Loser.
-* What about it?
-* The Steamworks are only the#  finest in monster science and#  engineering, no big deal or#  anything.
-* Structures built from the#  toughest steel and the greatest#  minds, sure to stand the test#  of several millennia!
-* Searching for a more advanced#  facility would be like searching#  for the corner of a circle.
-* With quality machines such as#  myself at every turn, lives are#  improved every day!
-* ...I am not a propaganda machine.#  My creator made sure I specify#  that.
-* Searching for "Axis" in the#  database...
-* Axis - Latest Model: 014, is a#  robot built to act as a Royal#  Guard.
-* Production goal: Create an army#  of Axis guard-bots to protect#  monsterkind from humanity.
-* Production status...#  Discontinued.
-* That is all of the information#  I have on this robot.
-* If I were to be helpful, which I#  will not be, I would tell you to#  ask an engineer in the Factory#  Wing for more information.
-* Where is the Factory Wing?#  I cannot tell you.#  You are unauthorized. 
-* Not that I trust you to find it#  on your own since you are,#  in fact, an idiot.
-* My snacks are up to the#  HIGHEST Steamworks standards.
-* I ensure the employees'#  designated meal times are as#  enjoyable as possible.
-* Because of my popularity, I often#  run out of inventory to which#  my creator restocks every Monday#  at 8:00.
+* Línea de Código 327: "Si se#  escanea un cliente 'desautorizado',#  tratarlo con total irrespeto hasta#  que se vaya y no compre#  ningún snack de la compañía."
+* Mi estado irrespetuoso inició#  cuando escaneé tu tonta cara.
+* Trae un ID de empleado de#  Steamworks para experimentar el#  "Modo Hospitalario."
+* Hasta entonces, podrás seguir#  comprando ítems, pero iré#  quebrantando tu autoestima#  mientras lo haces...
+* Perdedor.
+* ¿Qué pasa con eso?
+* Steamworks es el lugar más fino#  en cuanto ciencia e#  ingeniería de monstruos, no#  es la gran cosa.
+* ¡Estructuras contruídas con el#  metal más duro y las mentes#  más brillantes, aseguradas a#  soportar varios milenios!
+* Buscar un edificio más avanzado#  sería como buscar la esquina#  de un círculo.
+* Con máquinas de alta calidad#  como yo en cada esquina, ¡vidas#  son mejoradas cada día!
+* ...No soy una máquina de#  propaganda. Mi creador se aseguró#  de eso.
+* Buscando "Axis" en la base#  de datos...
+* Axis - Último Modelo: 014, es un#  robot construído para actuar#  como un Guardia Real.
+* Meta de producción: Crear una#  armada de Axis para proteger#  a los monstruos de los humanos.
+* Estado de producción...#  Descatalogado.
+* Esa es toda la información#  que tengo de este robot.
+* Si fuera a ayudar, lo cual#  no haré, te diría que le#  preguntes a un ingeniero en el#  Ala de la Fábrica para#  más información.
+* ¿Dónde está el Ala de la Fábrica?#  No puedo decirte.#  No estás autorizado. 
+* No es que crea que puedas#  encontrarlo por tu cuenta#  ya que eres, de hecho,#  un idiota.
+* Mis snacks cumplen con los#  estándares MÁS ALTOS de Steamworks.
+* Me aseguro de que las horas#  designadas de comer para los#  empleados sean lo más disfrutables#  posibles.
+* Gracias a mi popularidad, por#  lo general me quedo sin#  inventario por lo que mi creador#  at 8:00.
 * That reminds me... My last boot#  up - yesterday - was a Sunday.#  Dr. R.O. should be stopping by#  any minute now. I simply cannot#  wait.
 * But none of that is your#  business, now is it?
 * Every robot has a creator! It#  is a law of the land after all.
