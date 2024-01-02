@@ -9438,7 +9438,7 @@ Steamw. - C. Station
 target_flag
 * (Necesito encontrar una#  salida.)
 * (A través de esas puertas.)
-Hotland - Crossroads
+Hotland - Intersección
 Background
 background_dark
 * (Un arbusto.)
@@ -15911,8 +15911,8 @@ Guardar
 Regresar
 point_selected
 Snowdin - Bosque
-Dunes - Minas del Este
-Dunes - Valle del Oasis
+Dunas - Minas del Este
+Dunas - Valle del Oasis
 Salvaje Este - Granja
 * Are you sure you want to#  drop the 
 * You cannot drop the#  
