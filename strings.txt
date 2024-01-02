@@ -5712,7 +5712,7 @@ scr_generate_battle_martlet_pacifist
 scr_recreate_heart_battle_menu_text_martlet_pacifist
 * Golpeas el suelo con el pie.#* Martlet intenta hablar aún#  más rápido.
 * Finges un bostezo. #* Martlet empieza a hablar#  más rápido todavía.
-* Golpeas tu muñeca impacientemente.#* Martlet parece arrepentida e#  intenta hablar un más rápido.
+* Golpeas tu muñeca ansiosamente.#* Martlet parece arrepentida e#  intenta hablar más rápido.
 scr_dialogue_battle_action_selected_action_1_martlet_pacifist
 * Ignoras las tonterías de Martlet.#* No parece que se haya#  dado cuenta.
 scr_dialogue_battle_action_selected_action_2_martlet_pacifist
@@ -12632,29 +12632,29 @@ actor_axis
 * LISTO. AHORA TIENES UN#  ARMA "BLANCA."
 * LOS VACÍOS LEGALES#  SON MARAVILLOSOS, ¿NO#  LO CREES?
 * TUS CRÍMENES ACABAN#  AQUÍ, HUMANO.
-* I APOLOGIZE FOR#  TORMENTING YOU AND#  CALLING YOU NAMES.
-* MY CODED PROTOCOL#  BLINDED ME FROM#  SOMETHING...
-* SOMETHING CALLED...#  "BASIC DECENCY."
-* IT IS NOT EASY TO HAVE#  NO CONTROL OVER#  EMOTIONS, YOU KNOW.
-* TO BE HONEST...
-* WHEN I LOOK AT YOU, I#  GROW A LITTLE ENVIOUS.
-* INDIVIDUALITY.
-* YOU HAVE THE FREEDOM TO#  BE UNIQUE. TO CHOOSE.
-* BOTS LIKE ME ARE JUST#  ONE MODEL AMONG MANY.
-* THOUGH, THAT DOES NOT#  SEEM LIKE SUCH THE CASE#  ANYMORE.
-* THE STEAMWORKS HAVE#  SEEN BETTER DAYS, ALONG#  WITH ITS BOTS.
-* BUT I BELIEVE WE CAN#  MAKE IT WORK.
-* IF WE LEFT THIS PLACE,#  WE WOULD ONLY CAUSE#  ISSUES AND BE SHUT DOWN.
-* BUT HERE, WE DO HAVE A#  FORM OF FREEDOM.
-* THE FREEDOM TO BE#  FLAWED.
-* ALL THAT TO SAY, I#  WOULD NOT INVITE ANY#  OTHER HUMANS HERE.
-* SOMEONE WILL JUMP THEM.
+* TE PIDO DISCULPAS POR#  ATORMENTARTE E#  INSULTARTE.
+* MI PROTOCOLO CODIFICADO#  ME CEGÓ DE ALGO#  LLAMADO...
+* ALGO LLAMADO...#  "DECENCIA BÁSICA."
+* NO ES FÁCIL EL NO TENER#  CONTROL SOBRE TUS#  EMOCIONES, SABES.
+* SIENDO HONESTO...
+* CUANDO TE VEO A TI, ME#  DAS UN POCO DE ENVIDIA.
+* INDIVIDUALIDAD.
+* TIENES LA LIBERTAD DE#  SER ÚNICO. DE ELEGIR.
+* LOS ROBOTS COMO YO SON#  SOLO UN MODELO ENTRE MUCHOS.
+* SIN EMBARGO, YA NO#  PARECE QUE ESO SEA#  ASÍ.
+* LOS STEAMWORKS HAN#  VISTO MEJORES DÍAS,#  JUNTO A SUS ROBOTS.
+* PERO CREO QUE PODEMOS#  HACER QUE FUNCIONE.
+* SI DEJAMOS ESTE LUGAR,#  SOLO CAUSARIAMOS#  PROBLEMAS Y NOS APAGARÍAN.
+* PERO AQUÍ, TENEMOS UNA#  FORMA DE LIBERTAD.
+* LA LIBERTAD DE SER#  IMPERFECTO.
+* Y TODO ESO, PARA DECIR#  QUE NO INVITARÍA A#  OTRO HUMANO AQUÍ.
+* ALGUIEN SALTARÁ SOBRE ELLOS.
   BATERÍA DE RESPALDO#  EXTREMADAMENTE BAJA.#  POR FAVOR RECARGAR.
 * OH, SUPONGO QUE DEBO#  IRME PARA HACER ESO.
 * RECARGAR ME DEVOLVERÁ#  A MI ESTADO DE FÁBRICA#  PERO...
   AGREGADO "HUMANO CON SOMBRERO"#  A LA LISTA DE#  "AUTORIZADOS".
-* LISTO. AHORA NO INTENTARÉ#  DETENERLOS LA PRÓXIMA#  VEZ QUE NOS VEAMOS.
-* HAVE A PLEASANT#  JOURNEY, HUMAN.
+* LISTO. AHORA NO INTENTARÉ#  DETENERTE LA PRÓXIMA#  VEZ QUE NOS VEAMOS.
+* QUE TENGAS UNA#  PLACENTERA AVENTURA,#  HUMANO.
 * OH, OTRA COSA.
 * LEAVE THE POWER ON WHEN#  YOU EXIT, WILL YOU?
 * I LIKE LIVING. 
@@ -16689,7 +16689,7 @@ Aventura
 * ¡Hemos llegado sin un#  rasguño!
 * La aventura fue divertida,#  ¡pero ha llegado la hora de#  partir!
 * ¡Si necesita más ayuda,#  llame al timbre!
-* ¡La SPSS estará allí con poca#  resistencia!
+* ¡El SPSS estará allí con poca#  resistencia!
 mail_station_blocked
 * ¡Ah! Hola.
 * Paso por aquí todos#  los días para ver si#  alguien se ha caído.
