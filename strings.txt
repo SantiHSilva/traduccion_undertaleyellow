@@ -11010,78 +11010,93 @@ attack_index
 Spawning
 draw_clover_yellow_alpha
 make_colour_rgb
-* Ah, you got my message!#  Great!
+<<<<<<< HEAD
+* Ah, ¡recibiste mi mensaje!#  ¡Bien!
+=======
+* ¡Ah, recibiste mi#  mensaje! ¡Genial!
+>>>>>>> fef070e7261c83e270c03385ea065fcedd2a08e2
 * Que gran vista...
 * Esa gran instalación#  frente a nosotros es#  el NÚCLEO...
 * ...La fuente principal#  de poder del#  Subsuelo.
 * Detrás de eso esta Nuevo#  Hogar. La capital.
                      Nuevo#  Hogar                     
+<<<<<<< HEAD
 * ...King ASGORE's Castle.
-* Look, I haven't been#  100% honest with you...
-* My whole life, I was#  taught that humans are#  the enemy.
+* Mira, no he sido 100%#  honesta contigo...
+* Toda mi vida, me han#  enseñado que lo humanos#  son los enemigos.
+* Pero tú... en realidad#  nunca te has presentado#  como tal. 
+* Sin embargo...
+* Durante nuestro viaje,#  percibí un aura tenue,#  y alarmante en ti.
+* Tenía este plan de#  respaldo en caso de que#  empezaras un alboroto..
+* ...pero nunca lo hicite.
+=======
+* ...El Castillo del Rey#  Asgore.
+* Mira, no he sido 100%#  honesta contigo...
+* Toda mi vida, me han#  enseñado que los humanos#  son los enemigos.
 * But you... you never#  really came across as#  such. 
 * Though...
 * During our journey, I#  did sense a faint,#  alarming aura in you.
 * I had this backup plan#  in case you started a#  rampage but...
 * ...you never did.
+>>>>>>> fef070e7261c83e270c03385ea065fcedd2a08e2
 syringe_noloop
-* Phew... that feels#  liberating.
-* I'm so sorry for keeping#  that from you. You're a#  good kid.
-* Even so, there's another#  problem...
-* I don't think ASGORE#  would agree.
-* You see, he needs seven#  human SOULs to destroy#  the barrier.
-* So far he's collected#  five and he might try#  for another...
-* Now that we're this#  close...
-* I'm afraid there isn't a#  peaceful way of#  confronting him.
-* I know this isn't the#  path you intended but...
-* Let's... put all this#  behind us.
-* You can come stay with#  me. Live out a happy,#  violence-free childhood!
-* I'll teach you#  craftsmanship...
-* And you can teach me#  marksmanship!
-* You don't deserve to die#  this young.
+* Fiu... es liberador.
+* Siento mucho habértelo#  ocultado. Pero eres#  un buen niño.
+* Aún así, hay otro#  problema...
+* No creo que ASGORE#  esté de acuerdo.
+* Verás, él necesita siete#  ALMAS humanas para#  destruir la barrera.
+* Hasta ahora, ha juntado#  cinco y quizá vaya a#  por otra...
+* Ahora que estamos tan#  cerca...
+* Me temo que no hay una#  manera pacífica de#  confrontarle.
+* Sé que éste no es el#  camino que esperabas#  pero...
+* Dejemos... todo esto#  atrás.
+* Podrías quedarte conmigo.#  ¡Vivir una infancia#  feliz, sin violencia!
+* Te enseñaré#  carpintería...
+* ¡Y tú me enseñarás#  puntería!
+* No mereces morir tan#  joven.
 * ¿Qué te parece?
 Sounds good
 ...Okay
-* Really???
-* Wow! We are going to#  have so much fun!
-* I promise this is the#  best outcome for both of#  us.
-* Well, "roommate," let's#  go to Snowdin!
-  W-What is this?
-  Clover...?
-  W-Why would you...
-* You gotta be kidding me!
-* I just knew something#  like this would happen!
-* And after all we've been#  through...
-* I tried for so long.
-* I tried to uphold a#  friendly persona but#  wow...
-* You really brought me to#  my limit!
-* Though, I gotta say, it#  did feel good to finally#  SNAP, ya know?
-* She never saw it coming!
-* Best of all, she thought#  YOU betrayed her in the#  end!
-* What an IDIOT!
-* I bet she even-   
-* Nuh-uh-uh!
-* Trigger-happy are we?
-* I think you forgot who's#  in charge here.
-* We had a nice run,#  didn't we?
-* Too bad I won't#  miss it.
+* ¿¿¿En serio???
+* Wow! ¡La vamos a pasar#  tan bien!
+* Te prometo que este#  es el mejor resultado#  para ambos.
+* Bueno, "compañero de piso,"#  ¡Vamos a Snowdin!
+  ¿Q-Qué es esto?
+  ¿Clover...?
+  P-Porque harías...
+* ¡Me tienes que estar#  bromeando!
+* ¡Yo sabía que algo como#  esto pasaría!
+* Y después de todo lo#  que pasamos...
+* He tratado por tanto#  tiempo.
+* Intenté mantener una#  imagen amistosa pero#  wow...
+* ¡Realmente me llevaste#  a mi límite!
+* Pero, he de decir, se#  siente bien por fin#  poder MATAR, ¿sabes?
+* ¡Ella nunca lo vió venir!
+* ¡Lo mejor de todo, es que#  pensó que TÚ la habías#  traicionado al final!
+* ¡Que IDIOTA!
+* Me apuesto que ni siquiera-   
+* ¡No-oh-oh!
+* ¿Nos estamos emocionando?
+* Creo que te has olvidado#  de quién está al mando#  aquí.
+* Tuvimos un buen intento,#  ¿no es así?
+* Que mal que no voy#  lo voy a extrañar.
 img_index
 big_flowey
 noise
 noise_pop
-* MMMmm I shoulda done this#  earlier, huh!
-* You're still holding on? So#  stubborn!
-* Lighten up a little, pal!
-* You do know this didn't have to#  happen, right?
-* We had a plan. A simple one.
-* Go. To. ASGORE.
-* But I guess you're too stupid#  to follow directions.
-* Don't know why I thought this#  would end any differently...
-* You've always been predictable.
-* Oh? What do I mean? Well,#  buddy, let me show you!
-* You've always been#  predictable, heh.
-* But enough about YOU.
-* I wanna have a little fun#  before I absorb your SOUL for#  good!
+* ¡MMMmm debería haber hecho#  esto antes, eh!
+* ¿Todavía te aferras? ¡Qué#  terco eres!
+* ¡Relájate un poco, amigo!
+* Tú sabías que esto NO#  tenía que pasar, ¿verdad?
+* Teníamos un plan.#  Uno muy simple.
+* Ve. Hacia. ASGORE.
+* Pero supongo que eres#  muy estúpido para seguir#  instrucciones.
+* No sé porque siquiera#  pensé que esto acabaría#  diferente...
+* Siempre fuiste predecible.
+* ¿Oh? ¿A qué me refiero?#  Bueno, amiguito, ¡déjame#  mostrarte!
+* Siempre fuiste predecible, ¿eh?
+* Pero ya estoy harto de TI.
+* ¡Quiero tener un poco de#  diversión antes de absorber#  tu ALMA!
 flowey_face
 rand
 xspeed
@@ -11103,7 +11118,7 @@ event_music
 npc_axis_run_speed
 axis_run_speed
 * N0.. .
-* R- R3TREATING!
+* R- R3TIRADA!
 * Dios...
 * ¿Qué pasó aquí?
 * Espero que no sea#  dañino tocar esto...
@@ -11207,22 +11222,22 @@ attack_noloop
 heal_amount
 * Ganaste
 HP!
-* What are you thinking!?
-* I know they started the#  fight but we don't know#  the situation!
-* What if it was a glitch#  in their programming?
-* These bots are#  antiques. 
-* We have no right to#  destroy them, got that?
+* ¿¡Qué estás haciendo!?
+* ¡Sé que ellos empezaron la#  pelea pero no sabemos#  la situación!
+* ¿Qué pasa si fue un#  error en su#  programación?
+* Estos robots están#  anticuados. 
+* No tenemos ningún#  derecho de destruirlos,#  ¿sí?
 * ...Sigh.
-* Why are we in this#  situation to begin with?
-* I thought Axis said he#  was the last of his#  kind...
+* ¿Por qué estamos en#  esta situación?
+* Pensaba que Axis había#  dicho que era el#  último de su...
 * Espera... 
-* He introduced himself#  as "Model 014".
-* There must have been 13#  other guard-bot#  prototypes.
-* I suppose only one is#  still functioning.
-* Still, this thing#  definitely wasn't a#  guard-bot...
-* We don't know how many#  other robot types are#  out there.
-* We'll figure it out in#  due time, I'm sure.
-* Just... don't do#  anything stupid.
+* Se introdujo como#  "Modelo 014".
+* Deben haber otros 13#  robots guardias#  prototipos.
+* Supongo que solo uno#  sigue funcionando.
+* Aún así, esta cosa#  definitivamente no era#  un robot guardia...
+* No sabemos que otros#  tipos de robots hay#  por ahí.
+* Lo iremos viendo con#  el tiempo, estoy segura.
+* Sólo... no hagas#  nada estúpido.
 * Te aferras a tus esperanzas...#* ¡Defensa temporalmente aumentada!
 * No te echas atrás...#* ¡Recuperas
 * Piensas en los que más amas..#* ¡Velocidad temporalmente#  aumentada!
@@ -14153,30 +14168,30 @@ clay_piece
 clover_shake
 text_var
 abandoned_geno
-* Ah, you got my message.
-* So you found me...
-* ...King ASGORE's#  Castle.
-* My whole life...
-* My whole life I was#  taught that humans are#  the enemy.
-* And... it looks like#  they were right.
-* But even with that#  prejudice drilled into#  my mind...
-* I think Yo... I sense#  better in you.
-* And I'll admit, you're#  not shy about defending#  yourself.
-* During our journey, I#  sensed an alarming aura#  in you.
-* And... maybe they were#  right.
-* I've been trying my#  best to act nice but...
-* ...for a while now I've#  sensed an alarming aura#  in you.
-* ...thankfully, you#  never did.
-* I had this plan to stop#  your violence if needed.#  
-* I'm...
-* ...I'm not sure if I#  should...
-* I had this plan to stop#  your rampage but...
+* Ah, recibiste mi#  mensaje.
+* Así que me#  encontraste...
+* ...El Castillo del#  Rey Asgore.
+* Toda mi vida...
+* Toda mi vida fui#  enseñada de que los#  humanos son los enemigos.
+* Y... parece que#  tenían razón.
+* Pero incluso con ese#  prejuicio impregnado en#  mi mente...
+* Creo que... presiento#  cosas mejores en ti.
+* Y lo admito, no eres#  tímido al momento de#  defenderte.
+* Durante nuestra jornada,#  he sentido una alarmante#  aura en ti.
+* Y... quizás tenían#  razón.
+* He intentado actuar de#  la mejor manera pero...
+* ...desde hace un rato#  he sentido una alarmante#  aura en ti.
+* ...por suerte, nunca#  lo hiciste.
+* Tenía este plan para#  detener tu violencia#  de ser necesitado.
+* No estoy...
+* ...No estoy segura de#  que deba...
+* Tenía este plan de#  your rampage but...
 * I'm sorry for keeping#  that from you but you#  know how things are...
 * Even so, there's#  another problem...
 * ASGORE needs seven#  human SOULs to destroy#  the barrier.
 * So far he's collected#  five and I fear he'd try#  for another...
 * You might fight back#  and well...
-* I just... can't do it.
+* Solo... no puedo hacerlo.
 * You're a good kid deep#  down, I'm sure of it...
 * But truthfully, I can't#  allow you to visit#  ASGORE.
 * He only needs seven#  human SOULs to destroy#  the barrier.
@@ -14916,11 +14931,11 @@ bullet_list
 wave_number
 bul_spawn
 ring_object
-* (Just your average garbage.)
-* (There's some food here.)
-* (You find a discarded Hot Dog#  in the trash can.)
-* (You got a Hot Dog!)
-* (You're more of a cat person.)
+* (Solo basura normal.)
+* (Hay un poco de comida#  aquí.)
+* (Encuentras un Hot Dog tirado#  en la basura.)
+* (¡Obtuviste un Hot Dog!)
+* (Eres más de gatos.)
 * ¡Espera! ¿¡Otro robot!?
 * ¡No puede ser! ¡No podemos#  pelear con esto!
 * Que tal si Chujo lo hi-
@@ -17508,7 +17523,7 @@ piece_grav
 * (No me queda claro lo que#  quieren decir con eso,#  pero adelante).
 * Para superar este reto,#  debes derretir el cubo#  de hielo.
 * Asegúrate de que la bola#  llegue al fondo sin#  romperse.
-#                      Snowdin 
+                             #                      Snowdin 
            Martlet
 #  Guardia Real del Subsuelo
 * P.D.
@@ -22569,23 +22584,23 @@ Armor DF 20#* The things you can do with a college education! Raises ATTACK when
 bullet_distance_min
 bullet_attack_dir
 bullet_spin_dir
-* Hey, pal.
-* Heh, what are you doing#  in this cramped alley?
-* I think we both know#  this isn't the way to#  the Castle.
-* You do know that, right?#  
-* Yeah, so let's turn#  around and get on with#  the plan.
-* Clover, come on.
-* Is this about that#  letter you received in#  the Steamworks?
-* It's gotta be a trap. 
-* You're seriously gonna#  fall for something so#  obvious?
-* That bird never got you#  anywhere.
-* You know who did? Me!#  Your best friend!
-* How many times have I#  saved your life? Huh?
-* All Martlet's done is#  put it in danger!
-* Alright, fine!
-* If this is what you#  think is worth your time#  then I... trust you.
-* What else would a friend#  do, after all?
-* Just don't say I didn't#  warn you...
+* Hey, amigo.
+* Heh, ¿qué haces con esta#  pequeña aliada?
+* Creo que ambos sabemos#  que este no es el#  camino al Castillo.
+* Lo sabes, ¿cierto?#  
+* Sí, así que volvamos#  y continuemos con el plan.
+* Clover, vamos.
+* ¿Esto es acerca de esa#  carta que recibiste en#  Steamworks?
+* Debe ser una trampa. 
+* ¿En serio vas a caer#  por algo tan obvio?
+* Esa pájaro nunca te#  llevó a ninguna parte.
+* ¿Sabes quién sí? ¡Yo!#  ¡Tu mejor amigo!
+* ¿Cuántas veces salvé#  tu vida? ¿Huh?
+* ¡Todo lo que ha hecho#  Martlet es ponerte en#  peligro!
+* ¡Está bien, ya!
+* Si crees que esto vale#  la pena entonces...#  confío en ti.
+* Después de todo, ¿para#  qué son los amigos?
+* Solo no digas que no#  te lo advertí...
 generate
 mus_gameover
 * ¿Por qué?
