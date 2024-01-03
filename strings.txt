@@ -11599,7 +11599,7 @@ IT IS. ..#BEAUTIFUL.
 * veo que llevas un arma#  tú mismo.
 * uno de seis tiros, ¿Cierto?,#  elegante, me gusta.
 * asegúrate de ser responsable#  con ella.
-* es "seguridad primero" en#  las steamworks después#  de todo.
+* es "seguridad primero" en#  steamworks después#  de todo.
 * debo empezar a pensar en qué#  llevar en mi cita.
 * antes vi a un tipo con un buen#  chaleco y un sombrero.
 * quizás podría pedirle un#  consejo.
@@ -11668,7 +11668,7 @@ axis_pitch
 * DIAGNÓSTICO DE AMENAZA_
 * NIVEL DE AMENANZA: 10_
 * EMPATÍA: IGNORADA_
-* BIENVENIDO A LAS#  STEAMWORKS, HUMANO.
+* BIENVENIDO A#  STEAMWORKS, HUMANO.
 * LAS COSAS NO HAN#  ESTADO YENDO A TU#  MODO, ¿ME EQUIVOCO?
 * ME TEMO QUE LO QUE BUSCAS#  HA...
 * . . .EXPIRADO.
@@ -11888,25 +11888,25 @@ spawn_interval
 spawn_direction_variance
 spawned_last
 pollen
-* I. ..
-* I DID ALL I C0ULD.
-* I wAS OnLY ABLE TO sAVE#  A FEW buT...
-* NoW_ I KN0W YOU WILL#  LE4VE ThIS PLaCE#  UNSATISFIED.
-* TH3 SAME FaTE ThEY mET#  MAY AWAiT ME,
-* BuT I WILL N0 LONG,ER#  RUN FRom YOU.
-* ThAT CANN0N OF DE4TH#  YOU WIeLD iS STR0NG.. .
-* CoULDN'T GET us ALL,#  HUH?
-* IT SE3MS MaNY BOTS#  EvADED Y0U.
-* BUT AS yOU CAN SEE, I#  AM STILL H3RE.
-* WeLL, ,,
-* I DECIdED I WILL N0#  LONG,ER RUN FRom YOU.
-* BUT AS you CAN SEE, . .
-* I H4VE DRaWN A "WEAP0n"#  OF MY OWN_.
-* NoW.. . AS THE K1DS#  SAY,
-* COME AT ME.
-* BUT I H4VE DRaWN A#  "WEAP0n" OF MY OWN_.
-* SO. ..
-* WhY NOT TRY Y0UR LUCK?
+* HICE. ..
+* HICE TODO LO QUE PUED3.
+* SóLO PuDE SALVaR A UNOS#  POCOS perO... 
+* AHoRA_ S3 QUE DEJAR4S#  EsTE LUgAR INSATISFECHO.
+* PUEDE QUE ME ESPErE 3L#  MISMO DeSTINO,
+* PeRO YA N0 CORRE,RÉ#  De TI.
+* EsE CAÑ0N DE MU3RTE#  QUE LLeVAS eS FUERT3.. .
+* No pUDISTE ACABAR con#  TODOS, ¿EH? 
+* PAR3CE QuE VARIOS#  BOTS T3 EsQUIVARON.
+* PERO COMO pUEDES VER,#  SIGO AQU1.
+* BuENO, ,,
+* DECId1 QUE YA N0#  CORRE,RÉ dE TI.
+* PERO como PUEDES VER, . .
+* H3 TOmADO UN "ARm4" PROPIA_.
+* AHoRA.. . COMO LOS#  ÑIÑOS DICEN,
+* VAMOS A ELLO.
+* PERO  H3 TOmADO UN#  "ARm4" PROPIA_.
+* ENTONCES. ..
+* ¿PoR QUé NO PRU3BAS TU#  SUERTE?
 yellow_overlay_alpha
 * (Get on?)
 jump_noloop
@@ -12954,12 +12954,12 @@ door_solution
 instance_deactivate_object
 acid_sound
 door_fade_out
-* (The door melted away.)
-* (A roadblock.)
-* (A complex lock mechanism#  blocks your exit.)
-* (What could open it up?)
+* (La puerta se derritió.)
+* (Un obstáculo.)
+* (Un complejo mecanismo de#  un candado impide#  tu salida.)
+* (¿Qué podría abrirlo?)
 * (No se te ocurre cómo#  hacer que esto funcione.)
-* (You use the ACID to ACID#  away at the DOOR.)
+* (Usas el ÁCIDO para#  derretir la puerta.)
 * HOLA.
 * I HAD TROUBLE LOCATING#  YOU AFTER OUR LAST#  ENCOUNTER.
 * WORRY NO MORE, I HAVE#  LOCATED YOU.
@@ -13041,12 +13041,12 @@ human_alpha
 * Es como que no quieren que nadie#  pase por un camino específico#  o algo así.
 * Si llevas algo de "lluvia" no#  tengas reparo en soltarla#  al aire.
 * Aferrarte a la tristeza te#  termina pesando.
-* (A page of rambly writings#  wastes away in the can.)
-* (You take it.)
-* (You reach into the trash#  can...) 	
-* (You pull out a crumpled up#  essay titled "Mixin' It Up!")	
-* (It's typed in size 13 font to#  better reach the minimum page#  requirement... of 1.)	
-* (You stash the essay in your#  mail bag.)
+* (Una página de escritos#  dispersos tirados en#  la basura.)
+* (Lo tomas.)
+* (Buscas en el cubo de#  basura...)
+* (Tomas un ensayo arrugado#  titulado "¡Mezclándolo!")
+* (Está escrito en fuente tamaño 13#  para llegar mejor al requisito#  mínimo de... 1 página.)	
+* (Metes el ensayo en tu mochila#  de correos.)
 mask_index
 spawner_log
 jump_interval
@@ -13542,30 +13542,30 @@ dynamic_mus
 dynamic_mus_pos
 darken_target
 darken_current
-* The Underground is full#  of beauty.
-* Friends... Families...
-* Hopes... Dreams...
-* Or at least... it was.
-* Though valiantly they#  fought...
-* Nobody could stop you,#  could they?
-* I had hoped this day#  wouldn't come.
-* Retaliation was#  inevitable but...
-* I believed we could#  handle it as we always#  have.
-* My dear friends... 
-* I know why you are here#  but... I'm afraid it's#  too late.
-* Your goal is out of#  reach.
-* Monsterkind's plight is#  not something I take#  pride in...
-* But it is a conflict#  not of our making.
-* One thing is certain,#  however.
-* Your violence has#  ensured this war never#  to end.
-* Many more, of both our#  kinds, will perish#  because of this day.
-* Such is the path you#  chose.
-* Even if you chose#  differently...
-* The unfortunate truth#  of the matter is...
-* Your fate was sealed#  the moment you entered#  my kingdom.
-* We will rebuild.
-* And with the help of#  your SOUL, we will be#  free.
-* Goodbye.
+* El Subsuelo está lleno#  de belleza.
+* Amigos... Familias...
+* Esperanzas... Sueños...
+* O al menos... lo era.
+* Aunque batallaron#  con valentía...
+* Nadie pudo detenerte,#  ¿Me equivoco?
+* Estaba esperando que#  este día no llegara.
+* La represalia era#  inevitable pero...
+* Pensaba que podíamos#  manejarlo como siempre#  lo hemos hecho.
+* Mis queridos amigos...
+* Sé por qué estás aquí#  pero... me temo que#  es demasiado tarde.
+* Tu objetivo está#  fuera de alcance.
+* El apuro de los monstruos#  no es algo de lo#  que me enorgullezca.
+* Pero no es un conflicto#  que hayamos iniciado.
+* Sin embargo, una cosa#  es segura.
+* Tu violencia ha#  asegurado que esta guerra#  nunca termine.
+* Muchos más, de ambas#  especies, fallecerán#  debido a este día.
+* Tal es el camino que#  elegiste.
+* Incluso si hubieras#  elegido algo diferente...
+* La desafortunada verdad#  del asunto es que...
+* Tu destino fue sellado#  en el momento que#  entraste a mi reino.
+* Vamos a reconstruir.
+* Y con la ayuda de tu#  ALMA, seremos libres.
+* Adiós.
 charge_percentage
 charge_sound
 audio_sound_get_pitch
@@ -13726,7 +13726,7 @@ npc_direction_hold
 * PUEDO SENTIR MI CARA#  TRANSFORMÁNDOSE EN#  GRIS CLARO.
 * ¿SABES QUÉ?#  OLVÍDALO.
 * ESTO ES ENTRE YO Y MI#  E-DIARIO.
-* DIVIÉRTETE EN LAS#  STEAMWORKS, HUMANO.
+* DIVIÉRTETE EN#  STEAMWORKS, HUMANO.
 * SI PLANEAS NADAR EN#  EL LAGO HIRVIENDO,#  USA FLOTADORES.
 * EL SALVAVIDAS FUE#  RECIENTEMENTE ASCENDIDO#  A SALVAMUERTES.
 * TRÁGICO. XD.
@@ -13761,7 +13761,7 @@ npc_direction_hold
 * NO TE SEPARASTE,#  ¿O SÍ? 
 * SÉ QUE LOS JÓVENES SE#  PIERDEN EN LOS SUPERMERCADOS#  TODO EL TIEMPO.
 * Y SI PIENSAS AL RESPECTO...
-* LAS STEAMWORKS PODRÍAN#  SER MÁS GRANDES#  QUE UN SUPERMERCADO.
+* STEAMWORKS PODRÍA#  SER MÁS GRANDE#  QUE UN SUPERMERCADO.
 * Y SI... ¿Y SI MI#  FUTURO HIJO SE PIERDE#  AQUÍ?
 * ESTO NO ES BUENO. NO#  ES BUENO EN ABSOLUTO.
 * ME LLEVAS DIRECTO A#  LA ZONA DE ANSIEDAD.
@@ -16654,8 +16654,8 @@ shot_big
 draw_color
 arc_sprite_attack
 spawn_save_box
-* (Nothing but the echoes of#  your efforts linger.)
-* (You are filled with a sense#  of justice.)
+* (No queda nada más que los#  ecos de tus esfuerzos.)
+* (Estás lleno con un sentido#  de justicia.)
 upsprite
 downsprite
 leftsprite
@@ -22774,7 +22774,7 @@ actor_orion
 * Esperaba que él#  estuviera aquí, escondiéndose#  en su habitación o algo.
 * Ahora... no tengo idea.
 * ¿Quizás escapó? Su imperio#  acaba de derrumbarse debajo#  suyo.
-* ¿Pero dónde? El camino que tomó#  sólo lleva a la puerta de#  las Steamworks.
+* ¿Pero dónde? El camino que tomó#  sólo lleva a la puerta de#  Steamworks.
 * ¿Crees que él... saltó de la#  cerca
 * ¡No hay manera! ¡No puede#  hacer eso! ¡No hay nada#  allí abajo!
 * ¿Pero él ha sido de el tipo#  de apegarse a las reglas?#  Puede que hubiera...	
@@ -25133,31 +25133,31 @@ A todos.
 obj_quote_defeat_ext_2
 MISS
 sound_play_noloop
-* ThIS D_OR iS SEALED SO.. .
-* LeAVE US Al0NE, PLeASE.
-* I KN0W W_WHY YOU ARE heRE.
-* BuT I CAN EXP;;LAIN.
-* TRY ALL yOU LIKE BUT tHE#  STEAMWORKS... .
-* ALL oF US.
-* WE ARe SURVIV0RS.
-* BRuTE FoRCE_WON'T S0LVE#  ANyTHING.
-* He's gone.
-* So what's the plan now?
-* This door's beyond my#  abilities so don't look#  at me.
-* Already checked it.
-* The factory wing,#  right?
-* Yeah. Place has more#  locks than a hair salon.
+* EsTA P_ERTA esT4 SELLADA#  ASÍ QUE...
+* D3jANOS S0lOS, POr fAVOR.
+* S3 P_PORQUE ESTÁS aqUÍ.
+* PerO PUEDO EXP;;LICAR.
+* INTENTA LO qUE QUIERAS#  PERo STEAMWORKS... .
+* TODOS nOSOTROS.
+* SOMOs SUPERVIV1ENTES.
+* LA FUeRZA BRuTA NO#  S0LUCIONARÁ NAdA.
+* Se fue.
+* ¿Cuál es el plan entonces?
+* Esta puerta está más#  allá de mis habilidades#  así que no me mires.
+* Ya lo comprobé.
+* El ala de la fábrica,#  ¿Cierto?
+* Seh. Este lugar tiene#  más candados que un#  cerrajero.
 * Ok veamos...
-* It's called "humor."#  Don't suppose you've#  heard of it.
-* (Geez, and I thought I#  was soulless.)
-* Well, there's certainly#  a lot of junk lying#  around.
-* I know you're on a#  strict "shoot don't#  think" regiment but...
-* For once, you're gonna#  have to get creative.
-* Shocking. Distressing,#  even. I know.
-* But I've seen you work#  your brain before so... 
-* Give it a shot.
-* Get to it!
-* Gotta go!
+* Es llamado "humor."#  Supongo que no has#  oído hablar de él.
+* (Rayos, y pensaba que#  yo era el desalmado.)
+* Bueno, ciertamente hay#  un montón de basura#  tirada por ahí.
+* Sé que estás en el#  estricto régime de#  "dispara, no pienses" pero...
+* Por esta vez, tendrás#  que ser creativo.
+* Sorprende. Inquietante,#  incluso. Lo sé.
+* Pero he visto a tu#  cerebro funcionar antes#  así que...
+* Dale un intento.
+* ¡A por ello!
+* ¡Debo irme!
 check_sound
 obj_dialogue_battle_action_selected_action_4
 obj_dialogue_battle_action_selected_action_5
@@ -25558,19 +25558,19 @@ dir_wiggle
 gml_Script_shoot_fail_gml_Object_obj_wild_revolver_circle_multi_pre_Step_0
 Mustard
 * Best kept in a liquid or solid#  state of matter.
-My SHIELD iS#IMPERVI0US TO#YOuR BULL3TS.
-SO yOU_SHOULD#G1VE uP.
-AND AnYWAY, ,,
-AS I SAID#bEF0RE..
-I CAN eXAPLAIN#EV3RYTHING to#YOU.
-Y0U SEE, I DO#nOT HAvE THE#FrE3DOMS YoU#HAVE.
-MY PR0GRAMMING.#..
-I H4D no_CHOICE.
-I WAS FORCED#TO NEUTRALIZE#THAT HUMAN.
-W-WAIT.
-WHAT'S GOING ON?
-HOLD ON. PLEASE.
-I DIDN'T WANT TO   
+Mi ESCUDO eS#INMUN3 A TuS#BAL4S.
+ASÍ qUE_DEBERÍAS#R3NDIrTE.
+Y DE ToDOS MODOS, ,,
+COMO DIJE#aNT3S..
+PUEDO#eXEPLICARTE#T0DO
+S4BES, NO#tENGO lAS#LiBERT4DES QUE#tU TIENES.
+MI PR0GRAMACIÓN.#..
+no TUV3_ELECCIÓN.
+FUI FORZADO A#NEUTRALIZAR#ESE HUMANO.
+E-ESPERA.
+¿QUÉ OCURRE?
+ESPERA. POR FAVOR.  
+NO QUERÍA
 * Este tiene que ser el mejor#  restaurante del Subsuelo.#  En serio.
 * No se puede superar la comida,#  el servicio, la atmósfera...
 * Pero hay algo que siempre me#  ha hecho dudar...
