@@ -14177,34 +14177,34 @@ abandoned_geno
 * Hasta ahora consiguió#  cinco y temo que#  al querer la tuya...
 * Te defiendas y#  bueno...
 * Solo... no puedo hacerlo.
-* Eres un buen niño por#  dentro, I'm sure of it...
-* But truthfully, I can't#  allow you to visit#  ASGORE.
-* He only needs seven#  human SOULs to destroy#  the barrier.
-* So far he's collected#  five and I know he'd try#  for another.
-* You would fight back#  and well...
-* Gosh, I must be crazy!
-* If you're going to#  shoot me, do it now.
-* You'll never get past#  ASGORE.
-* He's our only guiding#  light and not one to be#  snuffed out.
-* So go ahead... Mark#  your tally.
-* Let's... put all this#  behind us. End the#  conflict.
-* You can come stay with#  me. Live out a happy,#  violence-free childhood.
-* You don't deserve to#  die this young.
-* Thanks a bunch, Clover!
-* Hey, smile a little!#  This is a new beginning!
-* C'mon, "roommate",#  let's go to Snowdin!
-* I'm not certain this is#  the right decision#  but...
-* You've gone through so#  much. More than any#  child should.
-* I believe you can#  change for the better.
-* I understand if you're#  hesitant but please...#  trust me...
-* Thank you, Clover.
-* This is the best#  outcome for everyone.
+* Eres un buen niño por#  dentro, yo lo sé...
+* Pero en serio, no#  puedo permitir que veas#  a ASGORE.
+* ASGORE necesita siete#  ALMAs humanas para#  romper la barrera.
+* Hasta ahora consiguió#  cinco y temo que#  al querer la tuya...
+* Te defiendas y#  bueno...
+* ¡Dios, debo estar loca!
+* Si vas a dispararme,#  hazlo ahora.
+* Nunca pasarás de#  ASGORE.
+* Él es nuestra única#  luz guiante y no una#  que se pueda apagar.
+* Así que adelante...#  Haz tu recuento.
+* Solo... pongamos todo#  esto atrás. Acabemos#  con el conflicto.
+* Puedes venir y quedarte#  conmigo. Vivir una feliz,#  y sin violencia juventud.
+* No mereces morir tan#  jóven.
+* ¡En serio muchas#  gracias, Clover!
+* ¡Hey, sonríe un poco!#  ¡Es un nuevo comienzo!
+* ¡Vamos, "compañero",#  vamos a Snowdin!
+* No estoy segura de que#  sea la decisión correcta#  pero...
+* Has pasado por tanto.#  Mucho más de lo que#  un niño debe pasar.
+* Creo que puedes cambiar#  y mejorar.
+* Entiendo si estás#  indeciso pero en serio...#  confía en mi...
+* Gracias, Clover.
+* Esto es lo mejor para#  todos.
 * Well, "roommate", let's#  go to Snowdin.
-* You're... not attacking#  me...?
-* I think... I hope...#  you can change for the#  better.
+* ¡Vamos, "compañero",#  vamos a Snowdin!
+* Creo... que espero...#  que puedas cambiar y#  mejorar.
 * ...¿Qué te parece?
-* Well... let's go to#  Snowdin.
-  I should've k-known...
+* Bueno... vamos a#  Snowdin.
+  Debí s-saberlo...
 message_insert
 * Our friendship was#  always one sided, wasn't#  it?
 * After all, you never#  bothered to save even#  ONCE!
