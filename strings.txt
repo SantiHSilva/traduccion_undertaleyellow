@@ -21824,8 +21824,8 @@ You can't#carry any#more. Too#bad.
 You do not#have enough#space :[
 Thank you#for backing#out.
 Changed your#mind?
-* Why why#  why why-
-* Sí?
+* Porque#  porque-
+* ¿Sí?
 ¡Observalo!
 ¡Lo aprecio!
 < Dinero.#Se#necesita. >
@@ -22154,32 +22154,32 @@ Chujin
 * No es que crea que puedas#  encontrarlo por tu cuenta#  ya que eres, de hecho,#  un idiota.
 * Mis snacks cumplen con los#  estándares MÁS ALTOS de Steamworks.
 * Me aseguro de que las horas#  designadas de comer para los#  empleados sean lo más disfrutables#  posibles.
-* Gracias a mi popularidad, por#  lo general me quedo sin#  inventario por lo que mi creador#  at 8:00.
-* That reminds me... My last boot#  up - yesterday - was a Sunday.#  Dr. R.O. should be stopping by#  any minute now. I simply cannot#  wait.
-* But none of that is your#  business, now is it?
-* Every robot has a creator! It#  is a law of the land after all.
-* Mine is Dr. Rutherford Oscar!
-* Prestigious engineer, chemist,#  botanist, architect, doctor,#  dentist, archeologist,#  geologist, zoologist, chef,
-* ...tailor, musician, athlete,#  forklift operator, pilot,#  writer...
-* ...salesman, mailsman, snailsman,#  beekeeper, birdkeeper, veteran,#  veterinarian, electrician,#  beautician, magician, war#  criminal, banker, pranker,#  fish-tanker, and...#
-* ...3% shareholder in the#  government. 
-* What a guy!
-* You know what they say:#  Steamworks makes the dream#  work!
-* This is the place to BE for#  progress!
-* Each profession has its own#  division, and I am not one for#  math! 
-* Ha ha, I am only kidding of#  course! All robots are forced#  to love math!
-* The Factory Wing is where home#  appliances are created for#  monsterkind to enjoy.#
-* From refrigerators to washing#  machines, the assembly line#  makes it easy for monsters to#  take it easy!#
-* And do not forget the second#  floor which specializes in#  smelting materials mined around#  the Underground into the#  currency known as G.#
-* It's what makes the economy#  run as adequately as it does!
-* From the Chemistry Wing to the#  Greenhouse, there is a job for#  everyone!
-* I apologize, customer. My#  hospitable code is preventing#  me from releasing any#  classified information on my#  colleagues.#
-* Though we appear as#  individuals, us robots are#  quite the hivemind. All#  controlled by a station to the#  west of my current location.#
-* Axis, however, is a bit of an#  exception. The 'black sheep' of#  the robotics project to put it#  lightly.#
-* Can you imagine acting outside#  a governing fist that only#  gives you one purpose and no#  hope of freedom? Could NOT be#  me!#
-* But if you care to know more,#  he does love to talk about#  himself so I would ask him :]
-* Ah snacks... My purpose :]#
-* I highly suggest you purchase#  some! They are made with all#  natural ingredient substitutes!
+* Gracias a mi popularidad, por#  lo general, me quedo sin#  inventario a las 8:00.
+* Eso me recuerda... mi último#  arranque - ayer - fue un domingo.#  El Dr. R.O. debería venir#  aquí en cualquier minuto. Ya no#  puedo esperar.
+* Pero nada de eso te#  interesa, ¿verdad?
+* ¡Todos los robots tienen un creador!#  Es una ley de estas tierras#  después de todo.
+* ¡El mio es el Dr. Rutherford Oscar!
+* Prestigioso ingeniero, químico,#  botánico, aquitecto, doctor,#  dentista, arqueólogo,#  geólogo, zoólogo, chef,
+* ...sastre, músico, atleta,#  operador de carretilla elevadora,#  piloto, escritor...
+* ...empresario, cartero, productor de#  caracoles, cuidador de abejas, de aves,#  veterano, veterinario, electricista,#  esteticista, mago, criminal#  de guerra, banquero, bromista,#  cuidador de peceras, y...#
+* ...accionista, del 3%#  del gobierno. 
+* ¡Que hombre!
+* Ya sabes lo que se dice:#  ¡Steamworks hace realidad#  el sueño!
+* ¡Este es el lugar#  adecuado para progresar!
+* ¡Cada profesión tiene su#  propia división, y yo no soy de#  matemáticas! 
+* ¡Ja ja, estoy bromeando,#  por supuesto! Todos los robots están#  forzados a amar las#  matemáticas!
+* El Ala de Fábrica es donde#  se crean los electrodomésticos#  para que los monstruos los#  disfruten.
+* Desde refrigeradores, hasta#  lavadoras, el montaje se facilita#  para que los monstruos se#  lo tomen con calma!#
+* Y no nos olvidemos del segundo#  piso, el cual se especializa en#  la fundición de materiales minados#  del Subsuelo, convertidos en la#  moneda actual conocida como ORO.#
+* ¡Es lo que hace que la economía#  funcione de la forma adecuada!
+* Desde el Ala de Química de#  Greenhouse, ¡hay trabajo para#  todo el mundo!
+* Me disculpo, cliente. Mi#  código de hospitalidad me#  previene de revelar toda#  información clasificada de#  mis colegas.#
+* Aunque aparentemos ser#  individuales, nosotros los#  robots, somos la menta colmena. Todo#  controlado por la estación al#  oeste de mi posición.#
+* Sin embargo, Axis, es una#  excepción. La 'oveja negra' de#  los proyectos robóticos por decir#  de alguna manera.#
+* ¿Te imaginas actuar al margen#  de un puño gobernante que sólo#  te da un propósito y ninguna#  esperanza de libertad? ¡Yo no#  podría!#
+* Pero si te importa saber más,#  él ama hablar sobre si mismo#  así que yo le preguntaría a él :]
+* Ah aperitivos... mi propósito :]#
+* ¡Te recomiendo mucho que los#  compres! ¡Todos están hechos con#  sustitutos de ingredientes naturales!
 * (Hey, Clover, No creo#  que estos... dos puedan#  ayudar. Tenemos que#  seguir.)
 * ¿Ayudar? ¿Ayudar en qué?
 * ¿Ayudar? ¿Ayudar en qué?#* < Podemos ser útiles. ¿Qué#  escondes? >
@@ -25221,7 +25221,7 @@ rm_black_screen_cutscene
 * Ya sabes... Supongo que#  haces muy bien de ayudante#  del sheriff.	
 * Buena suerte, donde sea que#  vayas.
 * Blub blub...
-* Lo sentimos, pero ya no #  tememos reservaciones#  para esta noche.
+* Lo sentimos, pero ya no#  tememos reservaciones#  para esta noche.
 * Hay una gran fiesta de#  fantasmas por aquí y la cocina#  no sabe hacer comida fantasma.
 * Por favor, vuelve en unos#  días. Por favor...
 * Consultar
