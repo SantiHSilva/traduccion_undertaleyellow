@@ -777,7 +777,7 @@ ds_list_encounters
 Encounters
 steal_list
 ds_list_steal
-Steal
+Robar
 fast_travel_list
 ds_list_fasttravel
 FastTravel
@@ -11590,19 +11590,19 @@ I_MUST DESERVE#THIS. .. .
 I SUP-POSE Y0U#F/EEL DIFF3RENTLY#BUT TO ME.. .
 THE GARDEN_#. .
 IT IS. ..#BEAUTIFUL.
-* do you know where guardener#  went?
-* i felt we really hit it off.
-* i'm thinking of calling her up#  for work inquiries - aka asking#  her out on a hot date.
-* i know bot love is forbidden#  but that makes it ten times#  more exciting.
-* and besides, they can't smite#  the smitten.
-* not as long as i'm strapped.
-* i see you carry a sidearm#  yourself.
-* a sixshooter, right? reliable,#  stylish, i like it.
-* make sure to be responsible#  with it.
-* it's "safety first" in the#  steamworks after all.
-* i gotta start thinking of what#  to wear on my date.
-* saw a fella in a nice vest and#  hat earlier.
-* maybe i could get some advice#  from him.
+* ¿sabes dónde fue guardener?
+* siento que nos llevamos muy#  bien.
+* pienso en llamarla para temas#  de trabajo - osea invitarla a#  una cita caliente.
+* sé que el amor robot está#  prohibido pero es lo hace#  diez veces más emocionante.
+* y de todos modos, no#  pueden batir al batido.
+* no mientras esté amarrado.
+* veo que llevas un arma#  tú mismo.
+* uno de seis tiros, ¿Cierto?,#  elegante, me gusta.
+* asegúrate de ser responsable#  con ella.
+* es "seguridad primero" en#  las steamworks después#  de todo.
+* debo empezar a pensar en qué#  llevar en mi cita.
+* antes vi a un tipo con un buen#  chaleco y un sombrero.
+* quizás podría pedirle un#  consejo.
 BzZT-Z// z. ._ .
 . . . Q-qQ-
 -QU_É OC/URrIÓ#CONMIG...O¿?
@@ -15641,7 +15641,7 @@ flavor
 genoAreaDR
 obj_floweydialogue
 Bueno... Eso fue#algo.
-Eres más fuerte#de lo que creía!
+¡Eres más fuerte#de lo que creía!
 Estos monstruos#nunca tuvieron#oportunidad contra#ti.
 Por qué pones#esa cara?
 Ni te atrevas#en pensar matarme#también.
@@ -15649,7 +15649,7 @@ Recuerda, Yo soy#quien te mantiene#con vida.
 Tú vida está#en mis manos.
 No te preocupes,#no te juzgaré#por tus acciones.
 Los amigos no son#juiciosos entre si#verdad?
-Tu me cubres#y yo te cubro.
+Tú me cubres#y yo te cubro.
 Así que salgamos#de aquí,#okei compa?
 animateTalk
 gradient_height
@@ -21778,7 +21778,7 @@ portrait_author_torso
 message_alt
 message_draw_alt
 message_alt_length
-Take
+Tomar
 item_max_count
  ORO
 ¿Algo#se ve bien?
@@ -22769,20 +22769,20 @@ no_loop_moving
 actor_crestina
 actor_dad
 actor_orion
-* So you can't find Starlo#  anywhere?
-* That isn't like him at all!
-* I was hoping he was#  here, hiding in his room#  or something.	
-* Now... I have no idea.
-* Maybe he ran away? His empire#  did just crumble beneath him.
-* Where though? The path he took#  only leads to the Steamworks#  gate.
-* Do you think he... jumped the#  fence?
-* There's no way! He can't do#  that! There's nothin' out#  there!
-* Was he ever one to stick to#  the rules though? He#  might've...
-* It's okay, stay calm. We#  haven't exhausted our#  options yet.	
-* I'm sure he'll return#  soon. He's too much of#  a softy at heart.
-* I hope you're right...
-* (An abandoned pickaxe.)
-* (You got a pickaxe!)
+* ¿Así que no puedes#  encontrar a Starlo#  en ninguna parte?
+* ¡Esto no es como él en#  absoluto!
+* Esperaba que él#  estuviera aquí, escondiéndose#  en su habitación o algo.
+* Ahora... no tengo idea.
+* ¿Quizás escapó? Su imperio#  acaba de derrumbarse debajo#  suyo.
+* ¿Pero dónde? El camino que tomó#  sólo lleva a la puerta de#  las Steamworks.
+* ¿Crees que él... saltó de la#  cerca
+* ¡No hay manera! ¡No puede#  hacer eso! ¡No hay nada#  allí abajo!
+* ¿Pero él ha sido de el tipo#  de apegarse a las reglas?#  Puede que hubiera...	
+* Está bien, hay que calmarse.#  No usamos todas nuestras#  opciones todavía.
+* Estoy seguro que#  regresará pronto. En su#  corazón es un blandengue.
+* Espero que tengas razón...
+* (Un pico abandonado.)
+* (¡Obtuviste un pico!)
 custom_fade_direction
 custom_fade_alpha
 custom_fade_rate
