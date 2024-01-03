@@ -11010,18 +11010,13 @@ attack_index
 Spawning
 draw_clover_yellow_alpha
 make_colour_rgb
-<<<<<<< HEAD
-* Ah, ¡recibiste mi mensaje!#  ¡Bien!
-=======
 * ¡Ah, recibiste mi#  mensaje! ¡Genial!
->>>>>>> fef070e7261c83e270c03385ea065fcedd2a08e2
 * Que gran vista...
 * Esa gran instalación#  frente a nosotros es#  el NÚCLEO...
 * ...La fuente principal#  de poder del#  Subsuelo.
 * Detrás de eso esta Nuevo#  Hogar. La capital.
                      Nuevo#  Hogar                     
-<<<<<<< HEAD
-* ...King ASGORE's Castle.
+* ...El Castillo del Rey#  Asgore.
 * Mira, no he sido 100%#  honesta contigo...
 * Toda mi vida, me han#  enseñado que lo humanos#  son los enemigos.
 * Pero tú... en realidad#  nunca te has presentado#  como tal. 
@@ -11029,16 +11024,6 @@ make_colour_rgb
 * Durante nuestro viaje,#  percibí un aura tenue,#  y alarmante en ti.
 * Tenía este plan de#  respaldo en caso de que#  empezaras un alboroto..
 * ...pero nunca lo hicite.
-=======
-* ...El Castillo del Rey#  Asgore.
-* Mira, no he sido 100%#  honesta contigo...
-* Toda mi vida, me han#  enseñado que los humanos#  son los enemigos.
-* But you... you never#  really came across as#  such. 
-* Though...
-* During our journey, I#  did sense a faint,#  alarming aura in you.
-* I had this backup plan#  in case you started a#  rampage but...
-* ...you never did.
->>>>>>> fef070e7261c83e270c03385ea065fcedd2a08e2
 syringe_noloop
 * Fiu... es liberador.
 * Siento mucho habértelo#  ocultado. Pero eres#  un buen niño.
