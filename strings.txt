@@ -10882,17 +10882,17 @@ text_y_final
 * You should take it easy#  for a while, pal!
 * Grab a snack, hydrate,#  won't bother me!
 * Need to be in tip-top#  shape for what's coming!
-* Can I be real with you?
-* I'm gonna be real with#  you.
-* I get it. Stomping#  around, full of anger,#  boredom...
-* Laying waste to#  everything in your path#  - we all have hobbies.
-* But, heh, come on...
-* How is this forwarding#  your cause?
-* These aren't monsters.
-* As far as I'm concerned#  they're barely even#  conscious.
-* We don't have time for#  this little joyride of#  yours.
-* In my opinion, of#  course!
-* Fine, we can talk later#  I guess.
+* ¿Puedo ser honesto contigo?
+* Voy a ser honesto contigo.
+* Lo entiendo. Destruir#  por ahí, lleno de ira,#  aburrimiento...*
+* Arrasando con todo#  en tu camino - todos#  tenemos hobbies.
+* Pero, je, vamos...
+* ¿Cómo está esto#  contribuyendo a tu causa?
+* Estos no son monstruos.
+* En cuanto a mi conciernte#  apenas están#  siquiera conscientes.
+* No tenemos tiempo para#  esta pequeña escapada#  tuya.
+* ¡En mi opinión, por#  supuesto!
+* Bien, podemos hablar luego#  supongo.
 attack_count
 attack_turret
 excluded_number
@@ -11103,7 +11103,7 @@ event_music
 npc_axis_run_speed
 axis_run_speed
 * N0.. .
-* R- R3TIRADA!
+* ¡R- R3TIRADA!
 * Dios...
 * ¿Qué pasó aquí?
 * Espero que no sea#  dañino tocar esto...
@@ -11534,39 +11534,37 @@ object_get_parent
 subscene
 * ¡Bam!
 * Sabes quién es, ¿verdad?
-* It's ya boy
-* ...Mo.
-* Hey, buddy... What's with the#  piece?
-* I thought we had a connection,#  ya know?
-* Like some sorta vaguely#  illegal partnership!
-* You don't think I'm here to#  stab ya in the back, do you?
-* I may be many things but the#  last thing I am is a snitch!
-* Hey hey hey!!
-* There ain't nothin' up my#  sleeve, kid! Nothin' but fur#  and admittedly cheap cologne!
-* What you see is what you get#  with Mo!
-* I ain't some unassuming badass#  waiting for a chance to unleash#  an attack!
-* I'm just a salesman, alright?
-* I'll leave, just put down the#  gun.
-Rob
-Refrain
-* It's money you want, right?
-* Everyone loves money!
-* H-Here, this is all I got!
-* (You received 450G.)
+* Hey, amigo.. ¿Qué pasa con el#  fierro?
+* Pensé que teníamos una conexión,  ¿Sabes?
+* Como un tipo de asociación#  vagamente ilegal!  
+* No crees que esto aquí para#  apuñalarte en la#  espalda, ¿Cierto?
+* ¡Podré ser varias cosas pero#  lo último que soy es un soplón!
+* ¡¡Hey hey hey!!
+* ¡No hay nada en mi manga,#  niño! Nada más que pelaje y#  colonia ciertamente barata!
+* ¡Lo que ves es lo que#  obtienes con Mo!
+* ¡No soy un modesto rudo#  esperando una oportunidad#  para desatar un ataque!
+* Sólo soy un vendedero, ¿Entiendes?
+* Me iré, sólo baja el arma.
+Asaltar
+Abstenerse
+* Lo que quieres es dinero,#  ¿Cierto?  
+* ¡Todo el mundo ama el dinero!
+* ¡T-Toma, esto es todo lo#  que tengo!
+* (Obtuviste 450 de oro.)
 sound_noloop
-* Okay...
-* Okay. We're cool, right?
-* Ya know, I'm just gonna take#  my window and get outta here.
-* I think I've had enough of#  this lifestyle...
-* Man...
-* It's over for me.
-* I'm a goner...
-* If not now, tomorrow.
-* Enjoy that G. It's good#  company.
-* I'll wait outside.
-* Where'd you go?
-* It's like I blinked and#  lost you.
-* Well, uh, don't do that#  again.
+* Ok...
+* Ok. Estamos bien,#  ¿Cierto?
+* Ya sabes, voy a tomar mi#  puesto e irme de aquí.
+* Creo que tuve suficiente#  de este estilo de vida...
+* Viejo...
+* Se acabó para mí.
+* Estoy arruinado...
+* Si no es hoy, mañana.
+* Disfruta ese oro.#  Es buena compañía. 
+* Esperaré afuera.
+* ¿Dónde fuiste?
+* Es como que pestañú y#  te perdí.
+* Bueno, eh, no hagas eso#  de nuevo.
 object_array
 keyboard_key_release
 keyboard_key_press
@@ -11656,40 +11654,40 @@ sin_current
 x_offset_max
 b_speed
 axis_pitch
-* VANDAL SPOTTED.#  STEAMWORKS: EASTERN#  BRANCH.
-* SCANNING_
-* HUMAN DETECTED_
-* WAIT. . .
-* THIS IS FAMILIAR.
-* ACCESSING MEMORY BANK_
-* MEMORY BANK BLOCKED_
+* VÁNDALO ENCONTRADO.#  STEAMWORKS: RAMA#  ESTE.
+* ESCANEANDO_
+* HUMANO DETECTADO_
+* ESPERA. . .
+* ESTO ES FAMILIAR.
+* ACCEDIENDO BANCO DE#  MEMORIA_
+* BANCO DE MEMORIA#  BLOQUEADO_
 * HM.
-* WELL. IT MATTERS NOT.
-* THREAT DIAGNOSIS_
-* THREAT LEVEL: 10_
-* EMPATHY: BYPASSED_
-* WELCOME TO THE#  STEAMWORKS, HUMAN.
-* THINGS HAVEN'T BEEN#  GOING YOUR WAY, HAVE#  THEY?
-* I'M AFRAID WHAT YOU ARE#  AFTER HAS. . .
-* . . .EXPIRED.
-* FIVE SOULS ARE ALL THAT#  WAIT FOR YOU IF YOU#  REACH THE CASTLE.
-* BUT I'M GUESSING YOU#  PIECED THAT TOGETHER#  ALREADY.
-* IT IS INTERESTING. . .
-* HUMANS AND MONSTERS,#  WHILE DIFFERENT, DO#  SHARE ONE THING.
-* A HUNGER FOR THE SOUL#  OF THE OTHER.
-* I SUPPOSE THAT IS NO#  DIFFERENT HERE.
-* MY USUAL PROTOCOL CALLS#  FOR MERE APPREHENSION#  BUT. . .
-* YOUR THREAT LEVEL#  PERMITS ME TO INITIATE#  ATTACK.
-* STAND DOWN, HUMAN. IT#  WILL ALL BE OVER SOON.
+* BUENO. NO IMPORTA.
+* DIAGNÓSTICO DE AMENAZA_
+* NIVEL DE AMENANZA: 10_
+* EMPATÍA: IGNORADA_
+* BIENVENIDO A LAS#  STEAMWORKS, HUMANO.
+* LAS COSAS NO HAN#  ESTADO YENDO A TU#  MODO, ¿ME EQUIVOCO?
+* ME TEMO QUE LO QUE BUSCAS#  HA...
+* . . .EXPIRADO.
+* CINCO ALMAS SON TODO LO#  QUE TE ESPERAN SI#  LLEGAS AL CASTILLO.
+* PERO SUPONGO QUE YA#  DESCIFRASTE ESO.
+* ES INTERESANTE. . .
+* HUMANOS Y MONSTRUOS,#  AUNQUE DIFERENTES,#  COMPARTEN UNA COSA.
+* EL HAMBRE POR EL ALMA#  DEL OTRO.
+* SUPONGO QUE NO HAY#  DIFERENCIA AQUÍ.
+* MI PROTOCOLO USUAL PIDE#  MERA DETENCIÓN PERO. . .
+* TU NIVEL DE AMENAZA#  ME PERMITE INICIAR#  ATAQUE.
+* QUÉDATE QUIETO, HUMANO#  TODO TERMINARÁ PRONTO.
 flash_delay
 shoot_noloop
 * AH. . .
-* DAMAGE CRITICAL_
-* t-zzz THReAT . ..
-* thReat L-LeVEL 99;99#  9999 99_9. .
-* I REMEMB3R NOW.. . ..
-* THe 0THERS.. .
-* I MUST EVaCUATE . .
+* DAÑO CRÍTICO_
+* a-zzz AMeNAZA . ..
+* N-NiVEL amEnaza 99;99#  9999 99_9. .
+* YA RECU3DO.. . ..
+* LOs 0TROS.. .
+* DEBO EVaCUAR . .
 * ¿En quién te has#  convertido?
 * ¡Porque esto seguro#  que no es el Starlo#  con el que crecí!
 * Ahora no es un buen#  momento para esto.
@@ -11808,7 +11806,7 @@ point
 action
 * Steamworks Chemist present :]
 * ¡!
-* Attempting shut down!
+* ¡Intentando apagarse!
 Override
 text_linebreak_limit_shop
 text_separation_shop
