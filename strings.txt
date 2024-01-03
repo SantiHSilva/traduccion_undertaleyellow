@@ -11534,8 +11534,10 @@ object_get_parent
 subscene
 * ¡Bam!
 * Sabes quién es, ¿verdad?
+* Es tu amigo
+* ...Mo.
 * Hey, amigo.. ¿Qué pasa con el#  fierro?
-* Pensé que teníamos una conexión,  ¿Sabes?
+* Pensé que teníamos una#  conexión,  ¿Sabes?
 * Como un tipo de asociación#  vagamente ilegal!  
 * No crees que esto aquí para#  apuñalarte en la#  espalda, ¿Cierto?
 * ¡Podré ser varias cosas pero#  lo último que soy es un soplón!
