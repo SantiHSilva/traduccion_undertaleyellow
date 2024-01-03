@@ -9257,7 +9257,7 @@ tv_off
 * (Máquinas antiguas.)
 * (El olor de la ropa vieja sin#  lavar te hace sentir mareado.)
 * (Ropa desechada.)
-* (Un par de vaqueros cargo#  están pegados a la mesa.#  Lleva ahí un rato.)
+* (Un par de vaqueros cargo#  están pegados a la mesa.#  Llevan ahí un rato.)
 * (Miras dentro de#  la cámara...)	
 * (Está demasiado oscuro#  para distinguir algo.)
 steam_interval
@@ -9987,24 +9987,24 @@ slither c
 * AXIS MODELO 014 LISTO#  PARA CUIDAR Y PROTEGER.
   AXIS                                        
 * INTRUSOS ENCONTRADOS.#  STEAMWORKS: ZONA#  ESTE.
-* YOUR CRIMES ARE AS#  FOLLOWS:
-* - TRESPASSING ON#  PRIVATE PROPERTY.
-* - UTILIZING MACHINERY#  WITHOUT PERMISSION.
-* - HUMAN.
-* HOW TO YOU PLEAD TO#  THESE ACCUSATIONS?
-Not guilty
-Guilty
-* PLAYING TOUGH ARE WE?
-* THAT IS NO MATTER.
-* I WILL SCAN YOUR FACE#  WITH MY LIE DETECTOR.
-* REALLY?
-* THAT WAS EASY.
-* YOUR CRIMES WILL BE#  REPORTED TO AN#  AUTHORITY.
-* OH WAIT, THAT IS ME.
-* ENJOY YOUR ISOLATION,#  HUMAN.
-* INCREDIBLE.
-* YOU HAVE THE MOST#  EMOTIONLESS FACE I HAVE#  EVER SEEN.
-* I WILL JUST HAVE TO GO#  WITH MY NON-EXISTENT GUT#  AND SAY YOU WERE LYING.
+* TUS CRÍMENES SON LOS#  SIGUIENTES:
+* - INVADIR PROPIEDAD#  PRIVADA.
+* - UTILIZAR MAQUINARIA#  SIN AUTORIZACIÓN.
+* - HUMANO.
+* ¿QUÉ TIENES PARA DECIR#  SOBRE ESTO?
+No culpable
+Culpable
+* JUEGO DURO, ¿EH?
+* ESO NO IMPORTA.
+* ESCANEARÉ TU CARA#  CON MI DETECTOR DE#  MENTIRAS.
+* ¿EN SERIO?
+* ESO FUE FÁCIL.
+* TUS CRÍMENES SERÁN#  REPORTADOS A UNA#  AUTORIDAD.
+* OH ESPERA, ESE SOY#  YO.
+* DISFRUTA TU ENCIERRO,#  HUMANO.
+* INCREÍBLE.
+* TIENES LA CARA MÁS#  INEXPRESIVA QUE YO#  HAYA VISTO.
+* USARÉ MI INEXISTENTE#  INSTINTO Y DIRÉ QUE#  ESTAS MINTIENDO.
 ts_steamworks
 attack_timer
 base_sprite
@@ -10068,7 +10068,7 @@ correct_item
 * Wow... 
 * Desearía que Chujin me#  hubiera invitado a venir#  en aquellos días.
 * Esta casa es#  increíble... 
-* ¡Uh-Sí! Entremos y#  veamos el porque de#  tanta conmoción.
+* ¡Ah-Sí! Entremos y#  veamos el porqué de#  tanta conmoción.
 * Así que, ¿lo descifraron?
 * ...Sí.
 * Ceroba intentaba terminar#  un plan que Chujin le#  dejó.
@@ -10351,11 +10351,11 @@ draw_text_ext
 * ¡Ahhhh!
 * ¡Nada como Boba-Soup (TM)#  de Steamworks para#  llenar el tanque!
 * ¿Qué? No actúes como si#  nunca lo hubieses oído.
-* Did you know that humans also#  run on a liquid? It's called#  "blood."
-* Apparently it doesn't taste#  any good, which is like, a#  total shame.
-* I'd let you try this stuff but#  it's total poison to#  non-robots.
-* How do I know that? I don't.
-* I just wanna deter you from#  draining my sweet sweet lake.
+* ¿Sabías que los humanos#  también usan líquido?#  Se llama  "sangre."
+* Aparentemente no sabe#  nada bien, lo que es#  realmente una pena.
+* Te dejaría probar un poco#  de esto pero, es como#  súper nocivo para no-bots.
+* ¿Cómo sé eso? No lo sé.
+* Solo quiero disuadirte de#  drenar mi dulce dulce lago.
 * (Slurp slurrrp)
 time
 u_time
@@ -10365,7 +10365,7 @@ txl_d
 u_txl_d
 sprite_tex
 * Esta zona parece#  totalmente abandonada.
-* Supongo que ya no#  hace falta luchar.#  Una verdadera lastima.
+* Supongo que ya no#  hace falta luchar.#  Una verdadera lástima.
 * Un generador, ¿eh?
 * Probablemente haya alguna#  forma de volver a#  prenderlo en alguna parte.
 * ¡Oh, vamos! ¿Otra vez?
@@ -16236,39 +16236,39 @@ update_talk_val
 * That changes here!	
 * Whatever awaits us,#  I'll do my best to help!
 * Trek on, Clover!
-* I want you to know that#  you can trust me.
-* Some monster's haven't#  been incredibly#  accommodating to you.	
-* Me included...	
-* But please don't let#  those experiences warp#  your perception of us!	
-* Especially the#  potential backstabbing#  we're dealing with now.	
-* Our history with#  humanity is a harsh and#  complicated one.	
-* Not everyone takes it#  well.
-* I don't know if I'm#  ready for this.
-* Way to get yourself#  into a mess, Martlet.	
-* Bang up job.
-* You doing alright?	
-* Sure look like you#  are.	
-* I can only hope your#  confidence rubs off on#  me.
-* Just a smidge.
-* Until now, I haven't#  done any real#  investigations.	
-* Though, one time I did#  have to look into a#  Snowdin gang.	
-* I heard reports they#  were harassing visitors#  so I checked it out.	
-* I didn't find a gang#  but a few cups did make#  me play a game.	
-* They moved so fast it#  made me dizzy! I#  couldn't beat ‘em!	
-* They had a name... What#  was it? "The Scrufflers"#  or something like that.	
-* Wait... Gangs have#  names!	
-* They were probably#  friends with the other#  gang!	
-* Gah-I should've pieced#  it together sooner!
-* Almost there...
-* Here we go...	
+* Quiero que sepas que#  puedes confiar en mí.
+* Algunos monstruos no#  han sido muy#  cooperadores contigo.	
+* Yo incluída...	
+* ¡Pero por favor no#  dejes que eso arruine#  tu percepción de nosotros!	
+* Especialmente la#  potencial traición que#  estamos investigando ahora.	
+* Nuestra historia con#  la humanidad es dura#  y complicada.	
+* No todos se lo toman#  a bien.
+* No sé si estoy lista#  para esto.
+* Que forma de meterte#  en un lío, Martlet.	
+* Excelente trabajo.
+* ¿Estás bien?	
+* Eso parece.	
+* Solo puedo desear que#  tu confianza en mí#  mejore.
+* Aunque sea un poco.
+* Hasta ahora, nunca he#  hecho una verdadera#  investigación.	
+* Aunque, una vez tuve#  que buscar una banda#  en Snowdin.	
+* Recibí reportes de#  que molestaban visitantes#  por lo que investigué.	
+* No encontré una banda#  pero unas copas me#  hicieron jugar un juego.	
+* ¡Se movían muy rápido!#  ¡Me marearon! ¡No#  pude ganarles!	
+* Tenían un nombre... #  ¿Cómo era? ¿"Scrufflers"?#  Algo así.	
+* Espera... ¡las pandillas#  tienen nombres!	
+* ¡Seguro eran amigos#  de la otra banda!	
+* Gah-¡Debí haberlo#  pensado antes!
+* Ya casi llegamos...
+* Aquí vamos...	
 * Sin vuelta atrás...
-* Talk about#  extravagant!	
-* This must've taken#  years to build...	
-* Well, if it were done#  traditionally.
-* Maybe magic had#  something to do with it?
-* Guess we should choose#  a direction.
-* East, west, up to you.
-* We'll find what we need#  eventually.
+* ¡Esto si que es#  extravagancia!	
+* Esto debe haber#  llevado años para#  construise...	
+* Bueno, con métodos#  tradicionales.
+* ¿Quizás usaron algo#  de magia?
+* Supongo que debemos#  elegir una dirección.
+* Este, oeste, tú#  decides.
+* Encontraremos lo que#  buscamos eventualmente.
 * This place is a little#  eerie when no one's#  around.	
 * Long, dim halls... dust#  filling each beam of#  light...	
 * Regular dust that is...
@@ -19332,7 +19332,7 @@ player_npc
 * ¡Me enferma! ¡Tía#  fallida 101 si me#  preguntas!
 * A veces me gusta hablar de#  mis pequeños snoodlekins,#  ¿es tan malo?
 * Lo siento, ¿de qué#  estábamos hablando, cariño?
-* (No molestemos a los demás#  con nuestros problemas.)
+* (No molestemos a los#  demás con nuestros#  problemas.)
 * Oye, amigo.
 * Sé que dirás que no,#  pero vendo abrazos gratis.
 * Maldita sea, ya has#  leído mi cartel, ¿no?
@@ -19467,7 +19467,7 @@ draw_glitches
 * A este paso voy a ser#  toda una gradiente.
 * Sí. Ajá. Genial. Sigue#  molestándome. Me encanta.
 party_member_present_martlet
-* (Un pozo de los deseos con#  una gran cantidad de#  ORO en su interior.)
+* (Un pozo de los deseos con#  una gran cantidad de ORO#  en su interior.)
 * (¿Tomar el ORO?)
 * (¡Obtuviste 5 de ORO!)
 * (También te retractaste#  de muchos deseos de monstruos.)
@@ -21614,14 +21614,14 @@ rotate_key_released
 * Vaya, te descubrió.#  Qué sorpresa.
 * ¿Qué está intentando#  conseguir?
 * ¡Vamos, apégate al#  plan!
-* I CANNOT BELIEVE YOU#  FELL FOR THAT.
-* I AM SMART, THEREFORE I#  PREDICTED YOUR ESCAPE.
-* NOW, BACK YOU GO.
-* WHAT. WHY.
-* DID YOU THINK I WOULD#  JUST LEAVE AFTER ONE#  ATTEMPT?
-* ... I WAS ABOUT TO,#  ACTUALLY. THAT WAS#  CLOSE.
-* I WILL LOCK THE DOOR#  FROM NOW ON.
-* BYE NOW.
+* NO PUEDO CREER QUE#  CAYERAS EN ESO.
+* SOY INTELIGENTE, ASÍ#  QUE PREDIJE TU ESCAPE.
+* AHORA, REGRESAS.
+* QUÉ. POR QUÉ.
+* ¿PENSABS QUE YO#  ME IRÍA DESPUÉS DE#  UN INTENTO?
+* ... IBA A HACERLO,#  REALMENTE. ESO#  ESTUVO CERCA.
+* CERRARÉ LA PUERTA#  DESDE AHORA.
+* AHORA ADIÓS.
 repeat_count
 launch_sound
 warning_col
@@ -21630,12 +21630,12 @@ warning_count
 smoke
 * Eso no fue divertido.
 * Seamos muy cautelosos#  desde ahora, ¿okay?
-* They're gone.
-* Sigh... This is so#  confusing...
-* I thought Axis said he#  was the last of his#  kind?
-* Wait... he introduced#  himself as "Model 014".
-* Guess we're lucky only#  one still functions,#  huh.
-* Just... be extremely#  careful.
+* Se fue.
+* Sigh... esto es muy#  confuso...
+* Pensé que Axis dijo#  que era el último#  de su tipo.
+* Espera... se presentó#  a si mismo como#  "Modelo 014".
+* Supongo que tenemos#  suerte que solo uno#  siga funcionando, huh.
+* Solo... sé en extremo#  cuidadoso.
 * Ugh, sin salida.
 * Parece que tendremos#  que vol-
 move_in_direction
@@ -25048,8 +25048,8 @@ outline_start_inc
 imagea_default
 thick_default
 color_default
-* Debí preguntar donde#  estaban los "papeles y#  cintas, ¿huh?
-* Hmm... Supongo que podemos#  investigar un poco.
+* Debí preguntar dónde#  estaban los "papeles y#  cintas", ¿huh?
+* Hmm... Supongo que#  podemos investigar#  un poco.
 * Debe haber una oficina#  por alguna parte...
 * Debemos encontrar las#  cosas que mencionó Ed#  antes de irnos.
 target_sprite
@@ -25615,7 +25615,7 @@ I DIDN'T WANT TO
 * ...Uh, Lo siento mucho.
 * No estoy de humor para hablar#  ahora mismo.
 * ¿Q-Quizás después...?
-* Sigamos el camino,#  ¿si?
+* Sigamos el camino, ¿si?
 * ¡¡¡Hooola!!! ¡¡¡Les doy la#  bienvenida a mi cuerpo!!!
 * ¿¿A dónde les gustaría ir??
 * Piso de arriba.
