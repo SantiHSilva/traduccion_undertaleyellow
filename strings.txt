@@ -976,7 +976,7 @@ Steamw. - Camino Elevado
 Steamw. - Lago
 Steamw. - Oficinas
 Steamw. - ???
-Steamw. - Commons
+Steamw. - Comúnes
 Invernadero
 Steamw. - Cruces
 Steamw. - Laboratorio
@@ -1857,47 +1857,47 @@ H. Acid
 * (Está muy ácida.)
 * (Comes el Maiz de caramelo.)
 * (Ahora ya sabes porque#  fue desechado.)
-* (You eat the Golden Pear.)
-* (The immense flavor hugs your#  tastebuds.)
-* ( Overall... Not bad.)
-* (You scarf down the Corn Dog.)
-* (You can't help but feel bad#  for doing it.)
-* (You are unable to sew the#  Patch back on your hat.)
-* (You stick the feather into#  your hat.)
-* (It gives you a proud feeling.)
-* (With a shimmer, you tie the#  Golden Bandana around your#  neck.)
-* (You feel like you can take on#  anything now.)
+* (Comes la Golden Pear.)
+* (El inmenso sabor abraza#  a tus papilas gustativas.)
+* (En general... No está mal.)
+* (Deboras el Corn Dog.)
+* (No puedes evitar sentirte#  mal por hacerlo.)
+* (No puedes coser el Patch#  atrás de tu sombrero.)
+* (Pones la pluma en tu#  sombrero.)
+* (Te hace sentir orgulloso.)
+* (En un segundo, amarras la#  Golden Bandana alrededor#  de tu cuello.)
+* (Sientes que ahora puedes#  aguantar lo que sea.)
 * (Cargas tu pistola con#  las piedras.)
 * (Ahora se siente más#  pesada.)
-* (You load the Silver Ammo#  into your gun.)
-* (The pellets shimmer#  in the light.)
-* (You load the rubber ammo into#  your weapon.)
-* (You cautiously load the Glass#  into your gun.)
-* (Phew! No cuts!)
-* (You load the Flint#  into your gun.)
-* (Might start some fire#   with this one!)
+* (Cargas la Silver Ammo#  en tu pistola.)
+* (Los pétalos brillan en#  la luz.)
+* (Cargas la rubber ammo en#  tu pistola.)
+* (Cargas con cuidado el Glass#  en tu pistola.)
+* (¡Phew! ¡Sin cortes!)
+* (Carglas el Flint#  en tu pistola.)
+* (¡Se puede iniciar un#   incendio con este!)
 * (Lames el glaseado de#  la esponja.)
 * (Tú boca se siente limpiesita!)
-* (You brave the hot Honeydew#  Coffee.)
-* (You can feel your taste buds#  burning off.)
-* (You take a sip out of#  the adult soda.)
+* (Tomas valor y bebes el#  Honeydew Coffee hirviente.)
+* (Sientes que tus papilas#  gustativas se queman.)
+* (Tomas un sorbo de la#  adult soda.)
 * (...)
-* (Tastes like water.)
-* (You eat the pancake.)
-* (The syrup is very sweet!)
-* (You eat the cookie.)
-* (It feels like it is watching#  you eat it.)
-* (You eat the Hot Chocolate Pop.)
-* (It has the distinct flavor of#  something that was once hot.)
-* (You eat the Lukewarm Chocolate#  Pop.)
-* (It has the distinct flavor of#  something that was once hot#  then left to sit for too long.)
-* (It isn't great.)
-* (You eat the Cold Chocolate Pop.)
-* (It has the distinct flavor only#  possessed by truly cold things.)
-* (You chug the Half N' Half#  Golden Coffee.)
-* (It tastes like... regular#  coffee.)
-* (You take a huge bite out#  of the cactus.)
-* (It bites back.)
+* (Sabe a agua.)
+* (Comes el pancake.)
+* (¡El jarabe es múy dulce!)
+* (Comes la galleta.)
+* (Sientes como si te mirara#  mientras la comes.)
+* (Comes el Hot Chocolate Pop.)
+* (Tiene el distintivo sabor#  a algo que alguna vez#  estuvo caliente.)
+* (Comes el Lukewarm Chocolate#  Pop.)
+* (Tiene el distintivo sabor#  a algo que estuvo#  caliente y luego se pudrió.)
+* (No es bueno.)
+* (Comes el Cold Chocolate Pop.)
+* (Tiene el distintivo sabor#  de cosas realmente heladas.)
+* (Tragas el Half N' Half#  Golden Coffee.)
+* (Sabe a... café normal.)
+* (Le das un buen mordizco#  al cactus.)
+* (Te muerde de vuelta.)
 * (You eat the Packing Peanuts.)
 * (Aside from the taste, texture,#  and potential health risk,#  they're not that bad.)
 * (You down the bag of Trail Mix.)
@@ -2463,7 +2463,7 @@ gml_Script_scr_save_flowey_dark_ruins
 * Vaya, se está poniendo#  un poco polvoriento,#  por aquí ¿no?
 col_modif
 * ¿No te gusta mucho#  la misericordia?
-* Está bien, mientras#  te lleve a ser amigo#  de ASGORE!
+* ¡Está bien, mientras#  te lleve a ser amigo#  de ASGORE!
 ##     ASGORE
 message_col
 * Realmente tienes#  pasión ahí.
@@ -8945,7 +8945,7 @@ nextroom
 * Solo los valientes proceden.#* Valientes, tontos.#* Ninguno camina por el medio.
 * Mantente en el camino.
 ¡Presiona este interruptor,#por favor! #     -Toriel
-¡También presiona este#interruptor, por favor! #     -Toriel
+¡También activa este#interruptor, por favor! #     -Toriel
 * "¡Presiona [
 ] para leer#  carteles!"
 * (Este cartel está oculto#  por las hojas.)
@@ -8981,7 +8981,7 @@ message2
 * (Garabatos.)
 * Amigo:#* No temas a lo desconocido.#* A veces son agradables.
 * (Una figura familiar.)
-* (Una entidad#  desconocida.)
+* (Una entidad desconocida.)
 * (¿El... ALMA de alguien?)
 * Me parece recordar lo que#  una vez vi tan frecuente...
 * Lo que recordaba...#* Parece que ahora está#  olvidado...
@@ -23249,7 +23249,7 @@ Emm... Yo no soy#realmente yo...
 Tienes razón.#Algo tiene que#cambiar.
 No lo acepto.
 ¡Así es!#¡Sabía que te darías#cuenta!
-Si, totalmente#de acuerdo.
+Sí, totalmente#de acuerdo.
 Lo mismo#digo.
 ¡No tienes sentido#de las tendencias#de la moda moderna!
 Eso me dolió a#un nivel personal.
@@ -23331,33 +23331,33 @@ Supongo que#podría descansar.
 He estado#haciendo esto#por un tiempo...
 Entonces...#lo pegaré de#nuevo.
 Un sacapuntas#sería útil#en estos#momentos...
-Debo mantener#filosas mis#habilidades!
+¡Debo mantener#filosas mis#habilidades!
 La vida del#artista es pura#soledad.
 ¿Así que mi#trabajo a mano#llevó a esto?
 Zer o no Zer?
 Quería que él#se fuera, pero#no así!
-Pero ella era#tan dulce!
-Él no merecía#morir!
+¡Pero ella era#tan dulce!
+¡Él no merecía#morir!
 Mi motivación#realmente se#está muriendo.
-Aww! Que#adorable!
-Finalmente, alguien#con quien llevarse!
+¡Aww! ¡Que#adorable!
+¡Finalmente, alguien#con quien llevarse!
 Lo siento, No#dibujo solicitudes.
-Podemos hablar#acerca de#algo más?
+¿Podemos hablar#acerca de#algo más?
 penilla c
 can_fade
 can_rotate
 stop_image_speed
-Qué fue#ese#sonido?
+¿Qué fue#ese#sonido?
 *Chirrido#espontáneo*
 L-lo que#te haga#feliz.
 Ahora#solo#invades mi#espacio.
-Lo que#te haga#feliz!#supongo...
-Lo que#te haga#feliz!
+¡Lo que#te haga#feliz!#supongo...
+¡Lo que#te haga#feliz!
 No puedo#sentir tu#amor.
 ¡Amo los#abrazos!#<3
 Estoy#sintiendo#el amor~
 Solo#quiero#ver una#sonrisa.
-EN SERIO?!?
+¿¡¿EN SERIO?!?
 *ladra*#*ladra*
 ¡Es la#intención#lo que#cuenta!
 ¿Por qué#no estás#feliz?
@@ -23410,11 +23410,11 @@ Le falta#algo.
 Te ves perfecto.
 No puedes#fastidiarme.
 Las sonrisas#no pasan de#moda.
-No te asusta#la mala suerte?
+¿No te asusta#la mala suerte?
 Esto no es#bueno...
 Mejor revisa#la comida en#tus dientes.
 Amarillo es#el nuevo negro.
-Quién es#el más justo#de todos?
+¿Quién es#el más justo#de todos?
 ¿Te gusta#lo que ves?
 rorrim c
 rorrim b
@@ -23428,8 +23428,8 @@ Dulce silencio...
 Más silencio#por favor...
            #No hagas ruido.#¡Hush hushh!
 No te muevas.#            #      #             
-Muevete#En silencio.#¡Hushh hushh!
-Muevete
+Muévete#En silencio.#¡Hushh hushh!
+Muévete
 No te vayas.#Hushh hushh!
 Solo fantasmas#por favor. ¡Hushh#hushh!
 ¡Hushh cachorro!
