@@ -4190,13 +4190,13 @@ enemy_low_hp_3
 * SOUSBORG -- ATQ 
 #* Una receta para el desastre.
 * AXIS -- ATQ 
-#* Hoy significará la superficie.
+#* El hoy significará la superficie.
 * MACRO FROGGIT -- ATQ 
-#* Grande rana.
+#* Rana grande.
 * GUARDENER -- ATQ 
 #* Atrapa a los delincuentes para#  una aprehensión fácil.
 #* Debería bajar su ira un poco.
-* Tu mejor amigo!
+* ¡Tu mejor amigo!
 #* Un legado para no olvidar.
 * Devoción absoluta.
 #* Un digno oponente.
@@ -9464,7 +9464,7 @@ foreground_dark
 * Es para un gato extraviado#  que tenemos con nosotros,#  no para monstruos.
 * Gracias.
 * Día de la basura: Lunes	
-* Si no llegas el tacho,#  tira las fundas al barranco#  que queda por el sur.	
+* Si no llegas al tacho,#  tira las fundas al barranco#  que queda por el sur.
 * La lava debería hacer#  el trabajo.
 * (El final está cerca.)
 * (Hay que servir justicia.)
@@ -11041,7 +11041,7 @@ syringe_noloop
 * No mereces morir tan#  joven.
 * ¿Qué te parece?
 Sounds good
-...Okay
+...Okei
 * ¿¿¿En serio???
 * Wow! ¡La vamos a pasar#  tan bien!
 * Te prometo que este#  es el mejor resultado#  para ambos.
@@ -11049,13 +11049,13 @@ Sounds good
   ¿Q-Qué es esto?
   ¿Clover...?
   P-Porque harías...
-* ¡Me tienes que estar#  bromeando!
+* ¡Tienes que estar#  bromeando!
 * ¡Yo sabía que algo como#  esto pasaría!
 * Y después de todo lo#  que pasamos...
 * He tratado por tanto#  tiempo.
 * Intenté mantener una#  imagen amistosa pero#  wow...
 * ¡Realmente me llevaste#  a mi límite!
-* Pero, he de decir, se#  siente bien por fin#  poder MATAR, ¿sabes?
+* Pero, he de decirlo, se#  siente bien por fin#  poder MATAR, ¿sabes?
 * ¡Ella nunca lo vió#  venir!
 * ¡Lo mejor de todo, es#  que pensó que TÚ la#  habías traicionado!
 * ¡Que IDIOTA!
@@ -11064,7 +11064,7 @@ Sounds good
 * ¿Nos estamos#  emocionando?
 * Creo que te has olvidado#  de quién está al mando#  aquí.
 * Tuvimos un buen intento,#  ¿no es así?
-* Que mal que no voy#  lo voy a extrañar.
+* Que mal que no lo#  voy a extrañar.
 img_index
 big_flowey
 noise
@@ -12505,7 +12505,7 @@ actor_toriel
 * Te estarás preguntando#  que está pasando...
 * Yo soy TORIEL, guardiana#  de las RUINAS.
 * Te he dejado#  seguir tu camino#  tantas veces.
-* Vamos, presiona#  el interruptor de la izquierda.
+* Vamos, presiona#  el interruptor de la#  izquierda.
 * Sabes cuál#  es el camino de la izquierda, #  ¿Verdad?
 * Presiona el interruptor #  que te he marcado.
 x_offset_prev
@@ -12521,7 +12521,7 @@ current_destination
 * Tenía que intervenir.
 * Al principio, mis esfuerzos#  parecían funcionar.
 music_stop_noloop
-* Las tensión aumentaba#  y abandonabas las Ruinas.
+* La tensión aumentaba#  y abandonabas las Ruinas.
 * Pero luego, #  aparecieron otros problemas...
 * No importa cuántas veces#  hayas pasado por el#  mismo lugar...
 keep_on_screen
@@ -12529,7 +12529,7 @@ keep_on_screen
 x_min
 lasers_activate
 lasers_active
-* Tenia que apartarte#  del camino del fracaso#  lo antes posible.
+* Tenía que apartarte#  del camino del fracaso#  lo antes posible.
 * Asi que manipulé#  un pequeño interruptor y...
 * Bueno, ¡el resto#  es historia!
 msg_flowey
@@ -13463,7 +13463,7 @@ bullet_number_max
 bullet_number_current
 bullet_distance
 Aw hombre...
-File 1 Loaded
+Archivo 1 Cargado
 picture_alpha
 * Bueno, aquí estamos.
 * Definitivamente lo#  que necesito después#  de esa locura.
@@ -14188,12 +14188,12 @@ abandoned_geno
 * Él es nuestra única#  luz guiante y no una#  que se pueda apagar.
 * Así que adelante...#  Haz tu recuento.
 * Solo... pongamos todo#  esto atrás. Acabemos#  con el conflicto.
-* Puedes venir y quedarte#  conmigo. Vivir una feliz,#  y sin violencia juventud.
+* Puedes venir y quedarte#  conmigo. Vivir feliz y#  sin violencia.
 * No mereces morir tan#  jóven.
 * ¡En serio muchas#  gracias, Clover!
 * ¡Hey, sonríe un poco!#  ¡Es un nuevo comienzo!
 * ¡Vamos, "compañero",#  vamos a Snowdin!
-* No estoy segura de que#  sea la decisión correcta#  pero...
+* No estoy segura de que#  esta sea la decisión#  correcta pero...
 * Has pasado por tanto.#  Mucho más de lo que#  un niño debe pasar.
 * Creo que puedes cambiar#  y mejorar.
 * Entiendo si estás#  indeciso pero en serio...#  confía en mi...
@@ -14618,16 +14618,16 @@ song_pos
 * ¡¡¡Jajajajaja!!!
 * ¿Pensaste que te escapaste#  por un segundo verdad?
 * Eres alguien atento...
-* Apuesto a que hubieras podido#  soportar a ASGORE si te hubieras#  molestado en llegar a él.
+* Apuesto a que hubieras podido#  contra ASGORE si te hubieras#  molestado en ir por él. 
 * A pesar de que tus decisiones#  en esta línea temporal no#  me sirven más...
 * No ODIÉ directamente el tiempo#  que pasamos juntos. No todo.
 * Dos almas perdidas decidiendo#  quien vive o muere...
 * La mayor parte del tiempo eras#  insufrible pero cuando te#  rendiste...
-* ...Te rendiste ante tus#  verdaderos impulsos violentos. Esa#  fue la mejor parte.
+* ...Te rendiste ante tus#  verdaderos impulsos violentos.#  Eso fue lo mejor.
 * Ahí fue cuando supe que tenías#  lo suficiente para pelear contra#  el Rey.
 * Pero eso fue hace mucho atrás,#  jaja. ¡Solo mírate ahora!
 * ¡Apenas eres reconocible!
-* Sabes, algunos dicen que el#  color amarillo representa justicia.
+* Sabes, algunos dicen que el#  color amarillo representa#  justicia.
 * Casi, pero no es la palabra#  que yo elegiría...
 * Amarillo es el color del#  juicio.
 * Consecuencia...
@@ -14635,8 +14635,8 @@ song_pos
 * Ahhh, tienes razón.
 * ¿A quién le importa todo eso?
 * ¡La vida es acerca de emociones!#  ¡Lo divertidas que son las#  experiencias!
-* ¡Nuestro tiempo aquí ha sido#  mucho mejor que cualquier interacción#  afuera!
-* ¡Y no pienso que termine pronto!
+* ¡Nuestro tiempo aquí ha sido#  mucho mejor que cualquier otra#  interacción!
+* ¡Y no pienso en terminarlo#  pronto!
 * Por supuesto, no puede durar#  para siempre.
 * Después de tomar tu ALMA,#  mataré a ASGORE.
 * ¡Absorberé a todos esos pobres#  niños que no pudiste salvar!
@@ -14903,9 +14903,9 @@ impact
 dmg
 hp_self_last
 hint_noloop
-{0} - Shoot
-{0} - Autofire
-{0} - Dash
+{0} - Dipara
+{0} - AutoDispara
+{0} - Corre
 sequence_idle
 door_open
 wall
@@ -15027,7 +15027,7 @@ Additional Spritework:
 And you!
 Not Special - No Thanks:
 The Shufflers
-Gracias por jugar!
+¡Gracias por jugar!
 y_slow_down
 slow_down_treshold
 flowey_noloop
@@ -22573,7 +22573,7 @@ bullet_spin_dir
 * Heh, ¿qué haces con esta#  pequeña aliada?
 * Creo que ambos sabemos#  que este no es el#  camino al Castillo.
 * Lo sabes, ¿cierto?#  
-* Sí, así que volvamos#  y continuemos con el plan.
+* Sí, así que volvamos#  y continuemos con el#  plan.
 * Clover, vamos.
 * ¿Esto es acerca de esa#  carta que recibiste en#  Steamworks?
 * Debe ser una trampa. 
