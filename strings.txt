@@ -2463,7 +2463,7 @@ gml_Script_scr_save_flowey_dark_ruins
 * Vaya, se está poniendo#  un poco polvoriento,#  por aquí ¿no?
 col_modif
 * ¿No te gusta mucho#  la misericordia?
-* Está bien, mientras#  te lleve a ser amigo#  de ASGORE!
+* ¡Está bien, mientras#  te lleve a ser amigo#  de ASGORE!
 ##     ASGORE
 message_col
 * Realmente tienes#  pasión ahí.
@@ -4196,7 +4196,7 @@ enemy_low_hp_3
 * GUARDENER -- ATQ 
 #* Atrapa a los delincuentes para#  una aprehensión fácil.
 #* Debería bajar su ira un poco.
-* Tu mejor amigo!
+* ¡Tu mejor amigo!
 #* Un legado para no olvidar.
 * Devoción absoluta.
 #* Un digno oponente.
@@ -9662,7 +9662,7 @@ pedestal_is_active
 twitchy
 text_effect
 attack
-Todo por la oportunidad#de hacer una#diferencia.
+Todo por la#oportunidad de#hacer una#diferencia.
 Una oportunidad.
 ¿PoR CU4NTO TIEMP0#VAMoS A HACER#ESTO?
 NO PENS3 qUE LoS#ROBOTS PODR1AN#CAN5aRsE.
@@ -11223,7 +11223,7 @@ HP!
 * No sabemos que otros#  tipos de robots hay#  por ahí.
 * Lo iremos viendo con#  el tiempo, estoy segura.
 * Sólo... no hagas#  nada estúpido.
-* Te aferras a tus esperanzas...#* ¡Defensa temporalmente aumentada!
+* Te aferras a tus esperanzas...#* ¡Defensa temporalmente#  aumentada!
 * No te echas atrás...#* ¡Recuperas
 * Piensas en los que más amas..#* ¡Velocidad temporalmente#  aumentada!
 arrive
@@ -12496,7 +12496,7 @@ g_DistortAmount
 fx_set_parameter
 g_CellSize
 * Verás, te he estado#  observando durante#  un tiempo.
-* Dios, ¿Qué carrera es esto?#  Deben haber demasiados.
+* Dios, ¿qué intento es este?#  Debe ser de los#  cientos.
 * ¡Casi pierdo la cuenta!#  Jajaja...
 soundfont
 actor_toriel
@@ -12882,7 +12882,7 @@ destroy_noloop
 * No hay otro sitio al que#  ir que hacia arriba.
 draw_alpha_black
 draw_overlay_alpha
-Nuestra pequeña niña... Kanako...#  Ella necesita vivir una vida#  feliz, no afectada por mi trabajo.
+Nuestra pequeña niña... Kanako. Ella#necesita vivir una vida feliz, sin#verse afectada por mis esfuerzos.
      Ese es mi último deseo.
 * ¿¡Kanako!?
 * ¿¡Qué haces aquí abajo!?
@@ -12909,8 +12909,8 @@ Nuestra pequeña niña... Kanako...#  Ella necesita vivir una vida#  feliz, no a
 * Creo que he removido#  toda corrupción que#  tenía."
   Creo que he removido#  toda corrupción que#  tenía."
 * ...Negando la necesidad#  de alguien puro#  de corazón. Sí.
-* ¡Así que lo hiciste1
-* El deseo de papi se haría#  realidad, ¿Cierto?
+* ¡Así que lo hiciste!
+* El deseo de papi se#  haría realidad,#  ¿cierto?
 * ¡Lo haríamos sonreir!#  ¡Estaría orgulloso#  de nosotras! 
 * Él no quería que tú#  fueras parte de esto.#  Y estoy de acuerdo.
 * ¡Déjame hacerlo!
@@ -12932,7 +12932,7 @@ Nuestra pequeña niña... Kanako...#  Ella necesita vivir una vida#  feliz, no a
 * Ok, espera aquí.
 * Tendrás que quedarte#  muy quieta para esto.
 * Cierra tus ojos y#  empezaré la#  extracción-fusión.
-* Podrás sentir un pinchazo#  o dos pero terminará antes#  de que te des cuenta.
+* Podrás sentir un#  pinchazo o dos, pero#  se irá rápido.
 * ¿Entendido?
 * ¡Entendido!
 * Realmente crees en esto,#  ¿no?
@@ -13203,24 +13203,24 @@ offset_y_scroll_speed
 * Clover... 
 * Clover ganó.
 * ¿Ustedes tuvieron una#  batalla? ¿Y el#  ayudante ganó?
-* (Mis clases funcionaron...)
+* (Mis clases#  funcionaron...)
 * Espera, ¿Qué tanto me#  perdí?
 * No sé que hacer.
 * Disculparme, hacer#  excusas, nada cambiaría#  la realidad.
-* Cavé un pozo demasiado#  profundo como# para salir.
+* Cavé un pozo demasiado#  profundo como#  para salir.
 * Y para nada...
 * Oye...
 * ¿Dónde estaba yo hace#  unas horas?
 * En esta misma situación.
 * Mi juicio estaba nublado#  y arruinado.
-* Pero me perdonaste. Y los#  otros cuatro también#  lo hicieron.
+* Pero me perdonaste. Y#  los otros cuatro#  también lo hicieron.
 * Ambos tomamos malas#  decisiones, no#  lo puedo negar, pero...
 * Pero hay esperanza. Al#  menos... creo que#  la hay.
 * No... no puedo empezar#  a comprender por lo#  que has pasado...
-* Pero esta fue absolutamente#  una horrible manera#  de lidiar con ello.
+* Pero, esta fue una#  horrible manera#  de lidiar con ello.
 * No puedes cambiar lo#  que ha ocurrido,#  tienes razón.
 * Pero puedes controlar#  cómo vivirás a#  partir de ahora.
-* Tus acciones significarán#  todo.
+* Tus acciones#  significarán todo.
 * Chujin. Su legado. Su#  deseo.
 * Nunca será cumplido.
 * Chujin podrá no ser#  el monstruo perfecto que#  pensé que era.
@@ -13271,7 +13271,7 @@ offset_y_scroll_speed
 * Debería llevar a#  Clover a Snowdin?
 * ¿Esconderlo por el#  resto de nuestras#  vidas?
 * Seh, ¿Por qué Clover#  no puede quedarse#  con nosotros?
-* Osea, es posible pero#  la Guardia Real lo#  empezaría a buscar, ¿No?
+* Osea, es posible pero#  la Guardia Real lo#  empezaría a buscar, ¿no?
 * ¿Luego de tantos#  encuentros Clover#  sólo desaparece?
 * No sería la primera#  vez.
 * ¡Ohh sí! ¡Probablemente#  pensarían que ocurrió#  lo mismo otra vez!
@@ -13293,35 +13293,35 @@ offset_y_scroll_speed
 * Lo siento pero no creo#  que usteden tengan una sala#  para discutir ahora mismo.
 * ¡Vamos ustedes dos!#  ¡Déjenlo
 camera_xx
-You probably want to go home dontcha?
-Humanity already won by trapping us#down here, yet they keep twisting#the knife.
-This cannot continue any longer!
-You must have#places to go,#correct?
-The Castle...#The barrier.
-I did everything#in my power to#entertain...
-...so monsters#wouldn't have to#worry about being#stuck down here.
-Anyway, we'll bypass the Royal Guard#and plead your case to ASGORE!
-Remember your REAL mission, Clover.
-Asgore only needs#two more SOULS to#shatter the barrier.
-What a world it#would be if I had#two whole friends.
-Most might act cheerful,#but life down here...
-...It's hopeless.
-...The five children#you set out to find#in the first place.
-Despite its ups and#downs, our little#adventure was a blast.
-ASGORE's still out there#threatening human lives!
-I MUST THANK#YOU FOR OPENING#MY EYES.
-Keep your head in the game!
-Turns out you're a pretty#damn good leader, Clover!
-Come on, Clover!
-You are a kind soul.#One of the best I've met.
+Probablemente quieras  irte a casa, ¿verdad?
+¡La raza humana ya ganó atrapándonos# aquí abajo y ellos siguen# retorciendo el cuchillo!
+¡Esto no puede seguir así!
+Debes tener#lugares a,#los que ir,#¿verdad?
+El Castillo...#La barrera.
+Hice todo lo posible#para entretener...
+...para que nadie#se preocupara de#estar aquí abajo.
+De todos modos, pasaré  por alto la Guardia#Real y te defenderé ante ASGORE.
+Recuerda tu misión REAL, Clover.
+ASGORE necesita siete#ALMAs humanas para#romper la barrera.
+Qué mundo sería#si tuviera dos amigos#enteros.
+Puedes actuar alegremente,#pero la vida aquí abajo...
+...Es desesperante.
+...Los cinco niños que#viniste a salvar en#primer lugar.
+A pesar de sus altibajos,#nuestra pequeña#aventura fue increíble.
+¡ASGORE sigue ahí#atormentando vidas humanas!
+DEBO AGRADECERLES#POR ABRIR#MIS OJOS.
+¡Mantén tu cabeza en alto, Clover!
+¡Al parecer has sido un#muy buen líder, Clover!
+¡Vamos, Clover!
+Eres un alma noble.#De las mejores que#he conocido.
 ¡Clover!
 * ¿¡Clover, qué estás#  haciendo!?
 * Hey, eh...
 * ¿Clover? ¿Qué#  sucede?
 * Nos estás asustando.
 * ¿Q-Qué significa eso?
-Es hora
-Es hora de irme
+Es hora.
+Es hora de irme.
 * No... 
 * No no no no no-pen-#  ¡Pensaremos en algo!
 * ¡Tenemos opciones!
@@ -13333,18 +13333,18 @@ Es hora de irme
 * Lo dices en serio.
 * ...Entiendo.
 * Todo este tiempo, ¿Qué#  hemos estado haciendo?
-* Arrastrar a Clover por ahí...#  sujetando una correa.
+* Arrastrar a Clover por#  ahí... sujetado a#  una correa.
 * De forma egoísta.
 * Clover vino aquí por#  su propia voluntad.
 * ...También merece#  dejarlo por ella.
-* Pero no quieres este#  resultado, ¿Cierto?
+* Pero no quieres este#  resultado, ¿cierto?
 * Seguramente...
 * Si hubiera otro#  modo...
 * Pero hay que asumirlo.#  No lo hay.
 * Creo que Clover#  se dió cuenta de#  ello hace tiempo.
 * Por mucho que quiera#  detenerte...
 * Lo veo. En tus ojos.
-* Esto es por nuestra#  voluntad... ¿Cierto?
+* Esto es por nuestra#  libertad... ¿cierto?
 * Eres el humano más#  valiente y altruista#  que he conocido.
 * Por supuesto, sólo#  he conocido uno...
 * Pero si alguna vez#  conozco uno, espero#  que sea igual a ti.
@@ -13359,9 +13359,9 @@ Es hora de irme
 * Bueno...
 * Entiendo si ustedes#  dos no quieres estar#  aquí para...
 * Ya saben.
-* ¿Tienes lo necesario?
+* ¿Tienes lo que#  necesitas?
 * Lo tengo.
-* Supongo que el sol#  está bajando.
+* Supongo que el sol#  se está poniendo.
 * Te... te veré luego,#  compañero.
 * ¿Tienes un recibo#  para eso?
 * Gracias, niño.
@@ -13378,16 +13378,16 @@ soul_canister
 * ¿Quieres...
 * ...que me quede?
 Ve
-Voy... a estar bien
+Voy... a estar bien.
 * Esto no será#  olvidado.
 sdnfnt
-  Así que, ¿Así termina?
+  Así que, ¿así termina?
   ¿Todo ese trabajo sólo para#  convertirte en otro#  eslabón de la cadena?
   Je, ¡Eres tan predecible!
   Podría deshacer todo esto#  pero ahora... Quizás te has#  ganado tu descanso.  
   Después de todo, siempre#  hay otro.
   No puedo decir que fue divertido#  así que... Supongo que#  aquí nos separamos.
-  Oh, ¿A quién engaño?
+  Oh, ¿a quién engaño?
   Hasta que nos veamos#  de nuevo... amigo.
 clower_crawl_speed
 Backgrounds_1
@@ -14518,8 +14518,8 @@ Un consejo, por#favor rebobina tus#cintas antes de#alimentarme.
 ¿Puede alguien#solo callar a#Señorita cerebro#de tubo?
 Solo... acaba#con esto.
 image_speed_counter
-* Why hello! Hope you're having#  a glorious day!
-* I'd give you a flower but#  those are in low supply around#  here.
+* ¡Hola! ¡Espero que tengas#  un glorioso día!
+* Te daría una flor pero#  hay pocas de esas#  por aquí.
 * I hope a friendly smile#  suffices!
 * Honestly, the Dunes are not#  the best place for my sisters#  and I.
 * But I feel an obligation to be#  here. You know, to help grow#  the ecosystem.
@@ -18409,52 +18409,52 @@ aviator_xspd
 * ¿No es ella una belleza?#* Los barcos son naves,#  ya sabes.
 * La llamo Ava para#  abreviar. ¿No es lindo?
 * ¿Subir al barco?
-* YOU LISTEN! KNOW CONE HAS PLAN!
-* GONNA GO TO TOP OF BIG HILL!#  BIG BIG HILL! 
-* CAN SEE HOTLANDS FROM BIG HILL!
-* FIRE FAR AWAY NOT HURT KNOW#  CONE!
-* KNOW CONE PROUD OF PLAN!
-* KNOW CONE SHOW INTELLECTUAL#  PROMISE!
-* AND GET SEE FIRE!
-* Pinch pinch!
-* Just kidding!
-* I'm so glad the Royal Guard#  protects our home.
-* Well, not my home really.
-* My home is on my back and I#  protect it at all costs!
-* Or... it protects me?
-* It's a mutually beneficial#  relationship!
-* I've been thinking of moving#  soon actually.
-* There are so many cool places#  out there!
-* I took a vacation to the Wild#  East a while back.
-* Maybe I'll move there, it#  seemed really cool.
-* At least based on my experience#  as a tourist.
+* ESCUCHA! KNOW CONE TIENE UN#  PLAN!
+* ¡VOY A IR A GRAN MONTAÑA!#  ¡GRANDE GRANDE! 
+* ¡PODER VER HOTLAND DESDE#  MONTAÑA!
+* ¡DISPARAR LEJOS Y NO A#  KNOW CONE!
+* ¡KNOW CONE ORGULLOSO#  DEL PLAN!
+* ¡KNOW CONE PROMESA#  INTELECTUAL!
+* ¡Y CONSIGUE VER#  FUEGO!
+* ¡Pinch pinch!
+* ¡Solo bromeo!
+* Me alegra que la Guardia#  Real proteja nuestro hogar.
+* Bueno, en realidad no es#  mi casa.
+* ¡Mi casa está en mi espalda#  y la protejo a toda costa!
+* O... ¿mi casa me protege#  a mi?
+* ¡Es una relación de#  beneficio mutuo!
+* He estado pensando en#  mudarme pronto.
+* ¡Hay tantos buenos#  lugar por ahí!
+* Me tomé unas vacaciones en#  el Viejo Este hace tiempo.
+* Quizá me mude allí, se#  ve bastante bien.
+* Al menos, basado en mi#  experiencia como turista.
 * Zzz ... zzz
 * ... ngh uh... mmm...
-* ... no I don't know where the...#  pudding...
-* The pudding... is... zzz
-* I-I, I'm up! Yeah -uh- up! 
-* Is-is there school today?
-* Am I late? Did I miss it?
-* What time is it?
-* Aw, I'm never gonna be able to#  fall back to sleep now.
-* I was having this great dream#  about clementine pudding.
-* It was delicious and now I'll#  YAWN* never be...
-* Never... be able to... go back#  to... zzz.
-* I'm so relieved now.
-* Everyone's on the ground safe.
-* I love the ground here,
-* Lotsa soft snow for a safe#  landing.
-* I wonder if only children have#  to deal with this.
-* Monsters climbing all over your#  head, I mean.
-* Got any good tips on getting#  footprints out of fur?
-* Hey, where you going to next?
-* Anywhere exciting?
-* Can I come?
-* I can be helpful if you let me#  come!
-* I can be, um, uh-a hat!
-* I'll be a great hat! Keep your#  head nice an' toasty!
-* You want a nice snuggly hat?
-* I can keep your ears warm!
+* ... no no sé donde está el...#  pudín...
+* El pudín... está... zzz
+* E-E, ¡Estoy! Si,#  ¡Estoy despierto! 
+* ¿Hay clases hoy?
+* ¿Llego tarde? ¿Me las he#  perdido?
+* ¿Qué hora es?
+* Aw, ahora no voy a ser#  capaz de dormir.
+* Estaba teniendo un sueño#  buenísimo sobre pudín de#  clementina.
+* Estaba delicioso y ahora#  no *BOSTEZO* seré...
+* Capaz... de poder... volver#  a... zzz.
+* Estoy tan aliviado ahora.
+* Todo el mundo está a salvo.
+* Amo estar aquí,
+* Hay bastante nieve y es#  segura de andar.
+* Me pregunto si solo los#  niños tienen que lidar#  con esto.
+* Monstruos caminando por#  tu cabeza, digo.
+* ¿Tienes algún buen consejo#  para quitar huellas de#  la piel?
+* ¿Hey, ahora donde te vas?
+* ¿Un lugar emocionante?
+* ¿Puedo ir?
+* ¡Puedo ayudarte si me#  dejas ir!
+* Puedo ser, um, un-u sombrero!
+* ¡Seré un buen sombrero!#  ¡Mantendré tu cabeza limpia#  y calentita!
+* ¿Quieres un gorro bien#  calentito?
+* ¡Puedo mantener tus orejas#  calentitas!
 feather_direction
 feather_radius_increase
 feather_angle_increase
@@ -19257,7 +19257,7 @@ player_npc
 * ¿Recuerdas que te dije#  que detuve a un humano#  la semana pasada?
 * ¡Eeees ella!
 * ????????????
-* ¿Todavía crees que soy...#  tu capitán te explicó#  que no soy humana, verdad?
+* ¿Todavía crees que soy...#  tu capitán te explicó#  que no soy humana, ¿verdad?
 * Por favor, dime que#  lo hizo.
 * ¡Oh! ¡Lo siento#  mucho! Solo pensé#  que...
 * No, no, lo siento,#  es solo que...
@@ -21178,7 +21178,7 @@ circle_r_max
 wind_sound
 * ¿Por qué ocurrió esto?
 * Hice todo lo posible#  para entretener...
-* ...para que todos#  no se preocuparan de#  estar aquí abajo.
+* ...para que nadie#  se preocupara de#  estar aquí abajo.
 * En todo momento#  intenté animar a#  Ceroba...
 * Solo quería a Kanako#  fuera de su mente.
                 Kanako                   
