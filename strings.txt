@@ -3503,7 +3503,7 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * No puedes aguantar#  para siempre.
 * Frog.
 * Esporas blancas se agitan en el#  aire.
-* uno dos tres cuatro cinco seis#  siete Siete sSieEte 7sI=te sEmn#  0sEen SieeteeEeeeeEEEEE
+* uno dos tres cuatro cinco seis#  siete Siete sSieEte 7sI=te sIme#  0sIte SieeteeEeeeeEEEEE
 * Ceroba intenta ignorar la#  condición de sus amigos.
 * El amor de una madre.
 * El enemigo mira hacia el frente.
@@ -10119,7 +10119,7 @@ correct_item
 * Hey, ¿para qué son#  los amigos?
 * Yo puedo decir algunas#  cosas... ¡digo-sí,#  no hay problema!
 * Clover, búscame en el#  techo de SS#  Apartamentos.
-                                       SS#  #  Apartamentos        
+                       #           SS#  Apartamentos        
 * Averiguaremos todo#  esto, ¡lo prometo!
 * Yo uh... te deseo#  suerte con esto,#  en serio.
 * ¡Sí, apuesto a que#  atraparemos bandidos de#  nuevo pronto!
@@ -21580,7 +21580,7 @@ butt2_width
 butt2_height
 butt2_color
 * ¡Perfecto! ¡Hiciste#  nada!
-* Por lo menos pon#  UN POCO de esfuerzo# en esto.
+* Por lo menos pon#  UN POCO de esfuerzo#  en esto.
 * ¿Todo listo?
 * Impresionante.#  En serio.
 * Realmente te#  esforzaste haciendo#  este, huh.
@@ -21696,7 +21696,7 @@ spawn_dir_wave_inc
 * Tic-toc - tic-toc -#  tic-toc...
 * La hora actual es 6:26,#  ¡mañana del Lunes!
 * Quizás haya notado que#  los manzaneros afuera de#  Steamworks estan floreciendo.
-* ¡Eso significa que# la primavera llegó! 
+* ¡Eso significa que#  la primavera llegó! 
 * ¡En esta época mi creador#  recomienda un picnic a#  las orillas del río!
 * ¿Por qué esa mirada? ¿No#  nos vimos antes?
 * ¡Soy el Abuelo Reloj#  del Subsuelo!
