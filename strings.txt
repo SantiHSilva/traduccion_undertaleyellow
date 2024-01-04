@@ -1944,7 +1944,7 @@ H. Acid
 * (Equipaste 
 * (Cargaste la Ice Pellet Ammo.)
 * (Tu pistola ahora hace#  frio al contacto.)
-* (Decides cargar los#  granos de café.)
+* (Decides cargar los#  granos de café.)(equipas con
 * (Tu pistola huele deliciosa.)
 * (Decidiste cargar las súper balas.)
 * (Tu pistola se siente más liviana#  Más que tu consciencia...)
@@ -1956,7 +1956,7 @@ H. Acid
 * (¡Tus pantalones se sienten más resistentes que#  antes!)
 * (Te pones la impresionante#  chaqueta amarilla resaltadora.)
 * (¡Estas totalmente listo para preocuparte#  por los negocios!)
-* (Equipas con orgullo la funda  lujosa.)
+* (Equipas con orgullo la#  funda lujosa.)
 * (Estas listo para todo#  desde ahora!)
 * (Te colocas la bufanda dorada.#* Tu tremendo gusto por el estilo#  hace que los enemigos te contemplen.)
 * (Envuelves las gafas de seguridad#  alrededor de tu sombrero.)
@@ -2026,7 +2026,7 @@ info
 * (El snack prohibido.)
 * "Soda de adultos" - Cura ??? HP#* (Un líquido trasparente#  sin olor.)
 * "Paquete de nueces" - Cura 10 HP
-* (Ideal para prevenir daño o#  destrucción de un frágil estómago.)
+* (Ideal para prevenir daño o#  destrucción de un frágil#  estómago.)
 * "Mezcla de frutos secos" - Cura 13 HP"
 * (Seleccionas absolutamente todo#  menos las pasas.)
 * "Té helado" - Cura 20 HP"#* (Un vaso de dulce y suave té.)
@@ -2403,8 +2403,8 @@ gml_Script_scr_save_flowey_snowdin
 * Sí que hace frío.
 * Deberías moverte.
 * ¿Has estado pensando#  en lo que dije?
-* Con el debido respeto#  a su proceso de toma#  de decisiones...
-* Pero, ¿le importaría#  darse prisa?
+* Con el debido respeto#  a tu proceso de toma#  de decisiones...
+* Pero, ¿te importaría#  darte prisa?
 * Hace frío aquí y#  no quiero congelarme.
 * Muévete, niño.
 * Habrá más tiempo#  para pensar después.
@@ -3503,7 +3503,7 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * No puedes aguantar#  para siempre.
 * Frog.
 * Esporas blancas se agitan en el#  aire.
-* uno dos tres cuatro cinco seis#  siete Siete sSieEte 7sI=te sEmn#  0sEen SieeteeEeeeeEEEEE
+* uno dos tres cuatro cinco seis#  siete Siete sSieEte 7sI=te sIme#  0sIte SieeteeEeeeeEEEEE
 * Ceroba intenta ignorar la#  condición de sus amigos.
 * El amor de una madre.
 * El enemigo mira hacia el frente.
@@ -10119,7 +10119,7 @@ correct_item
 * Hey, ¿para qué son#  los amigos?
 * Yo puedo decir algunas#  cosas... ¡digo-sí,#  no hay problema!
 * Clover, búscame en el#  techo de SS#  Apartamentos.
-                                       SS#  #  Apartamentos        
+                       #           SS#  Apartamentos        
 * Averiguaremos todo#  esto, ¡lo prometo!
 * Yo uh... te deseo#  suerte con esto,#  en serio.
 * ¡Sí, apuesto a que#  atraparemos bandidos de#  nuevo pronto!
@@ -11868,7 +11868,7 @@ x_start
 warning
 spawn_distance
 Honeydew Resort Geno
-* (Te llevaste 60 de ORO#  de la estantería.)
+* (Te llevaste#  60 de ORO#  de la estantería.)
 * (No queda nada.)
 Cafe Dune Geno
 * (Te llevaste 80 de ORO#  de la estantería.)
@@ -12653,7 +12653,7 @@ actor_axis
 * OH, SUPONGO QUE DEBO#  IRME PARA HACER ESO.
 * RECARGAR ME DEVOLVERÁ#  A MI ESTADO DE FÁBRICA#  PERO...
   AGREGADO "HUMANO CON SOMBRERO"#  A LA LISTA DE#  "AUTORIZADOS".
-* LISTO. AHORA NO INTENTARÉ#  DETENERTE LA PRÓXIMA#  VEZ QUE NOS VEAMOS.
+* Okey. AHORA NO INTENTARÉ#  DETENERTE LA PRÓXIMA#  VEZ QUE NOS VEAMOS.
 * QUE TENGAS UNA#  PLACENTERA AVENTURA,#  HUMANO.
 * OH, OTRA COSA.
 * LEAVE THE POWER ON WHEN#  YOU EXIT, WILL YOU?
@@ -13688,10 +13688,10 @@ ZzzZZKKZ#DPPP-D_-A - _
 BZZT_Zz#PRpP /
 LO HICE DE NUEVO.#CÓMO.
 ESPERA. ESTO#ES TU CULPA. POR#SUPUESTO LO ES.
-NO ME ELECTROCUTES#DE NUEVO, ¿OK?
+NO ME#ELECTROCUTES#DE NUEVO, ¿OK?
 AZ_a_D?f#F . .
-E-ESTOY EMPE_ZANDO#A ARREPENTIRME DE#DARTE ESA TAPA.
-¿PODRÍAS PORFAVOR#SOLTARLA?
+E-ESTOY#EMPE_ZANDO#A ARREPENTIRME DE#DARTE ESA TAPA.
+¿PODRÍAS#PORFAVOR#SOLTARLA?
 SOLO TÍRALO#AL HOYO ARDIENTE#DEBAJO NUESTRO.#SIMPLE.
 ZBsssZ t-t-D#? d
 ESO ES SUFICIENTE.
@@ -14393,7 +14393,7 @@ camera_y
 * Ceroba huyó así que#  él fue tras ella.
 * ¿¡Solo!?
 * ¿¡Por qué dejaste que#  haga eso!?
-* Star conoce a Ceroba más#  que cualquiera, Moray.
+* Star conoce a Ceroba más#  que cualquiera,#  Moray.
 * Bueno... No estoy tan#  seguro de eso ahora.
 * Moray me mandó un#  mensaje acerca de que#  estabas en peligro...
 * ...¡así que dejé lo#  que estaba haciendo y#  volé hacia acá!
@@ -15378,7 +15378,7 @@ elevator_sound
 * Sí... Bueno, fuimos a tu#  antigua casa para hacer#  los arreglos.
 * Después de todo, esta#  sería la oportunidad#  perfecta para regresar.
 * Ed, ¿qué encontraste#  mientras limpiaban?
-* Uh... Estaba barriendo el#  suelo y noté algo...
+* Uh... Estaba barriendo#  el suelo#  y noté algo...
 * Una escotilla casi#  invisible. Una entrada...
 * Ceroba... ¿qué está#  sucediendo realmente?
 * ¿Qué fue lo que#  realmente le pasó a#  Kanako?
@@ -16869,7 +16869,7 @@ audio_sound_gain_gramophone
 * (Es una mini nevera.)
 * (Está casi vacío.)
 * (Una mini nevera barata.)
-* (Nada de lo que hay dentro#  parece ni remotamente comestible.)
+* (Nada de lo que hay dentro#  parece ni remotamente#  comestible.)
 * Alguien me lo hizo#  hace un tiempo.
 * Es solo un maíz del#  campo de maíz de las#  Ruinas.
 * Empecé ese campo a#  partir de un trozo de#  maíz.
@@ -17414,7 +17414,7 @@ draw_triangle
 * Todas tus acciones#  hasta ahora, están#  como selladas.
 * Nuestro pequeño secreto.
 * Así que, si quieres,#  puedes cambiarlo todo#  ahora mismo.
-* Corre por el resto#  del Subsuelo como si nada#  hubiera pasado.
+* Corre por el resto#  del Subsuelo como si#  nada hubiera pasado.
 * Solo recuerda, matar a#  algunos solitarios de#  las ruinas era una cosa.
 * Pero ahora estás fuera#  amigo.
 * Ya no se puede borrar,#  así que piénsalo bien.
@@ -21580,7 +21580,7 @@ butt2_width
 butt2_height
 butt2_color
 * ¡Perfecto! ¡Hiciste#  nada!
-* Por lo menos pon#  UN POCO de esfuerzo# en esto.
+* Por lo menos pon#  UN POCO de esfuerzo#  en esto.
 * ¿Todo listo?
 * Impresionante.#  En serio.
 * Realmente te#  esforzaste haciendo#  este, huh.
@@ -21696,7 +21696,7 @@ spawn_dir_wave_inc
 * Tic-toc - tic-toc -#  tic-toc...
 * La hora actual es 6:26,#  ¡mañana del Lunes!
 * Quizás haya notado que#  los manzaneros afuera de#  Steamworks estan floreciendo.
-* ¡Eso significa que# la primavera llegó! 
+* ¡Eso significa que#  la primavera llegó! 
 * ¡En esta época mi creador#  recomienda un picnic a#  las orillas del río!
 * ¿Por qué esa mirada? ¿No#  nos vimos antes?
 * ¡Soy el Abuelo Reloj#  del Subsuelo!
@@ -23149,7 +23149,7 @@ advance
 * (¿Quieres saber un#  secreto?)
 * SI QUIERO SABER UN#  SECRETO.
 * (Me dijo que le gustas#  pero que saldrá contigo#  solo si es casual.)
-* (Conocele un poco ¿sabes?)
+* (Conocele un poco#  ¿sabes?)
 * (Pregúntale su nombre o#  algo.)
 * OKEI.
 * ¡Okei, bueno! ¡Dale un#  intento!
@@ -23992,7 +23992,7 @@ Gracias- Digo#
               #iglúU !
 IGLÚ IGLÚ ! !
 Ow... Digo-                
-             #SONIDO DE IGLÚ ! !
+             #SONIDO DE# IGLÚ ! !
 I-Iglú?
 Sonidos de iglú#repelente!
 Iglú iglú.
@@ -24381,7 +24381,7 @@ Así que puedes#recibir un golpe.
 Siento oír eso.
 ¡Eso significa que#tendré que golpear#más fuerte!
 Sabes, casi me#alegro de que me#atacaras cuando lo#hiciste.
-Si hubieras esperado,#podría haberte dicho#adónde fueron los otros.
+Si hubieras esperado,#podría haberte dicho#adónde fueron#los otros.
 Pero ahora nunca#los encontrarás.
 Todo esto es una#tragedia.
 Y lo más triste#es que no era#necesario.
@@ -24408,7 +24408,7 @@ Entiendo si estás#asustado, ¡pero#tienes que confiar#en mí!
 ¡Ow ow ow! Mira,#¡lo entiendo!
 Tienes miedo y#no sabes qué hacer,#¡todo el mundo#lo tiene!
 ¡Pero no puedes#desquitarte conmigo!
-Si vas por ahí#hiriendo a todo el mundo#todo el tiempo, bueno...
+Si vas por ahí#hiriendo a todo el#mundo todo el#tiempo, bueno...
 ¡Nadie te#ayudará nunca!
 ¡Oye!#¡Despierta!
 ¡¿Le haces esto a#todo el que intenta#ser amable contigo?!
@@ -24416,7 +24416,7 @@ Tú...#tú lo haces,#¿verdad?
 Tú eres de quien#todos huyen,#¿verdad?
 Y-yo no se#que hacer...#He sido tan...#ingenua.
 Solo eres un niño.
-Bueno, seré#honesto contigo.
+Bueno, seré#honesta contigo.
 Mi manual no dice#nada sobre esta#situación específica.
 No obstante...
 Sé que ya ha#ocurrido algo#parecido.
