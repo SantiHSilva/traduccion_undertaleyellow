@@ -977,7 +977,7 @@ Steamw. - Lago
 Steamw. - Oficinas
 Steamw. - ???
 Steamw. - Commons
-Greenhouse
+Invernadero
 Steamw. - Cruces
 Steamw. - Laboratorio
 Steamw. - Botánic
@@ -9286,7 +9286,7 @@ murder
 x_target
 y_target
 room_target
-* (Esta estación de seguridad#  sería útil para vigilar#  robots...)
+* (Esta estación de seguridad#  sería útil para vigilar#  animatrónicos...)
 * (...si solo hubiera cámaras#  en Steamworks.)
 * (Una máquina de bebidas#  portátil.)
 * (Conveniente.)
@@ -9426,7 +9426,7 @@ ast_shortcut
 * (No se pueden ver constelaciones#  o planetas. ¡Qué decepcionante!)
 * Tarea de hoy:#  ¡Mezcla de compuestos!
 * La oficina central dijo que#  tenemos libre uso de l#   Computadora de Compuestos hoy.
-* También dijeron que la explosión#  de la máquina y nuestra muerte son riesgos#  que están dispuestos a correr.
+* También dijeron que la explosión#  de la máquina y nuestra muerte#  son riesgos a correr.
 * ¡Así que agarra lo que puedas#  y tíralo adentro!
 * ¡Diviértete!
 * (Solo un montón de células#  siendo celulares.)
@@ -10060,11 +10060,11 @@ coffee
 cactus
 _
 floorlights_
-* (Something seems to have once#  rested here...)
-* (A beautiful flower made of#  solid gold.)
-* (Unfortunately, it's stuck to#  the pedestal.)
+* (Algo parece haber una vez#  descansado aquí...)
+* (Una hermosa flor hecha de#  oro macizo.)
+* (Desafortunadamente, está#  pegado al pedestal.)
 correct_item
-* (Nothing happened.)
+* (No ocurrió nada.)
 * Wow... 
 * Desearía que Chujin me#  hubiera invitado a venir#  en aquellos días.
 * Esta casa es#  increíble... 
@@ -10142,7 +10142,7 @@ correct_item
 * ¡Todo saldrá bien al#  final, amigo! 
 * (You open the storage cabinet#  and find some Dihydrogen#  Monoxide.)
 * (There's some water inside.)
-* (¿Tomarlo?)
+* (¿Tomar?)
 Sí
 No
 * (You got Dihydrogen Monoxide!)
@@ -10824,25 +10824,25 @@ track_spawner
 idle_animation
 * ¡Oi, si quieres entrar al club,#  debe' eperar en la línea!
 * Eso es, a menos de que estés#  en la lista VIP. 
-* I doubt it but it wouldn't 'urt#  to check.
-* Wouldja look at that! I got a#  lad 'ere that looks just like#  you!
-* Go on, then!
-* Got a lotta impatient monsters#  who show up 'ere.
-* Surely by now they would know#  not to come durin' crab hour!
-* The crabs are Mr. Bailador's#  understudies.
-* "The Sentinels of Sound" 'e#  calls 'em.
-* Not sure where he rounded the#  fellas up but the guy gets#  around.
-* I try not to dabble in their#  business, I'm just 'ere for the#  paycheck.
-* You 'ave fun in there!
-* Oi, club's closed.
-* Mr. Bailador isn't answering#  'is phone.
-* Sure 'e's always travlin' but#  it ain't like him to miss crab#  hour.
-* Ah well, the understudies just#  left to go searchin' for 'im.
-* Wild night this is...
-* Didja not 'ear me the first#  time?
-* Ain't no dancin' happenin'#  tonight.
-* Do it somewhere else if ya#  must.
-* 'Ope I'm still gettin' paid#  for this...
+* Lo dudo, pero no estaría#  mal verificar.
+* ¡Mira eso! Tengo un chico#  aquí que se parece#  mucho a ti.
+* ¡Adelante, entonces!
+* Tenemos muchos monstruos#  impacientes que aparecen#  aquí.
+* Seguro a estas alturas sabrían#  que no deben venir durante#  la hora de los cangrejos.
+* Los cangrejos son los#  suplentes del#  Sr. Bailador.
+* Él los llama "Los Centinelas#  del Sonido".
+* No estoy seguro de dónde#  reunió a los muchachos,#  pero el tipo se mueve.
+* Intento no meterme en sus#  asuntos, sólo estoy#  aquí por la paga.
+* ¡Diviértete ahí dentro!
+* Oi, el club esta cerrado.
+* El Sr. Bailador no está#  respondiendo su teléfono.
+* Claro que siempre viaja, pero#  no de él perderse la hora#  del cangrejo.
+* Ah bueno, los suplentes#  acaban de irse#  a buscarlo.
+* Noche salvaje es esto...
+* ¿No me escuchaste la#  primera vez?
+* Esta noche no se baila.
+* Hazlo en otro sitio#  si es necesario.
+* 'Ope espero que aún#  me paguen por esto...
 pellet_count
 bul
 distance_current
@@ -10961,15 +10961,15 @@ shader_uvs
 * (¿Continuar?)
 Regresar
 Continuar
-* Brrr! Sure is chilly out here!
-* Nothing a smile can't#  persevere through, though!
-* I'm waiting for my siblings to#  find their way out!
-* We're all going to migrate to#  a warmer environment!
-* Somewhere we can really plant#  some roots!
-* Before you leave us, you#  should try hugging someone!
-* You never know how effective#  it may be!
-* Call it a "Sweet Corn#  Challenge!"
-* So cold! So cold!
+* ¡Brrr! ¡Seguro que#  hace frío aquí fuera!
+* Sin embargo, ¡nada que una#  sonrisa no pueda superar!
+* ¡Estoy esperando a que mis#  hermanos encuentren la salida!
+* ¡Todos vamos a emigrar a un#  entorno más cálido!
+* ¡Un lugar donde podamos#  plantar raíces de verdad!
+* Antes de que nos dejes,#  ¡deberías intentar#  abrazar a alguien!
+* ¡Nunca se sabe lo#  eficaz que puede ser!
+* Llamalo "¡Desafio de#  Sweet Corn!"
+* ¡Qué frío! ¡Qué frío!
 vspeed_max
 hand_left_displacement_y
 Ceroba... 
@@ -11269,20 +11269,20 @@ default
 * Sí, gracias.
 * No, ¡gracias a ustedes,#  empleados!
 * ¡Gracias por hacer que el#  Subsuelo brille un poco más!
-* Man, I don't know what's goin'#  on these days.
-* Debt... Drama...
-* When did this gang get so#  serious?
+* Viejo, no sé qué pasa#  estos días.
+* Deuda... Drama...
+* ¿Cuándo se volvió tan#  seria esta pandilla?
 * Frankly...
-* I liked it when we just played#  shuffle games with the#  residents.
-* You wanna know my real dream?
-* Bein' a bodyguard!
-* For someone of status, of#  course.
-* Keepin' watch while they carry#  out business... That sounds fun.
-* I know I'd be a pro at it#  since I've been practicin' my#  pivot.
-* No one could ever sneak by#  without my blinkers catchin'#  'em!
-* Don't worry about us.
-* Best to leave this type-a#  business to the Shufflers.
-* Yeah, Shufflers.
+* Me gustaba cuando sólo#  jugábamos a barajar#  con los residentes.
+* ¿Quieres saber cuál es#  mi verdadero sueño?
+* ¡Ser guardaespaldas!
+* Para alguien de estatus,#  por supuesto.
+* Vigilando mientras hacen#  negocios... Eso#  suena divertido.
+* Sé que sería un profesional#  ya que he estado#  practicando mi pivote.
+* ¡Nadie podría esconderse#  sin que mis anteojeras#  lo atraparan!
+* No te preocupes por#  nosostros.
+* Es mejor dejar este#  asunto a los Shufflers.
+* Sí, Shufflers.
 * Espera...
 dance_timer_max
 dance_timer
@@ -11486,31 +11486,31 @@ player_fade_out
 ypos3
 ypos4
 ypos5
-* How goes it, lil fella?
-* Sorry, but we're on a station#  break at the moment.
-* What's broadcasting in the#  meantime?
-* Why my face of course!
-* Ugh, this break can't end soon#  enough!
-* When can I play a movie I#  like?
-* Your movies go against the#  very nature of television!
-* Gratuitous violence... heavy#  cursing... a secret third#  thing...
-* Third thing?
-* Oh you mean
-* Nuh-uh-uh! Off limits!!
-* We can only host mild cursing#  with censored/and or cartoon#  violence.
-* TV-14 at worst!
-* Yeeeah, but that's not gonna#  stop anybody, now is it?
-* We hope we've entertained you,#  fella!
-* Television is a wonderful#  invention!
-* It's even better when you sit#  inches from the screen with#  your eyes WIDE open!
-* ¿Qué? No! Don't do that, kid.#  Don't listen to her.
-* Sí! Destroy your eyesight!!
-* Your lenses should thicken#  with every exam!!!
-* You can't just say these kinds#  of things to kids!
-* (Shut your flap, Vis! I'm#  running an optometrist ad!)
-* That doesn't make it better!!!
-* We'll be back after these#  messages!
-* Man, I hope not.
+* ¿Qué tal, amiguito?
+* Lo siento, pero estamos en#  un descanso de la estación#  en este momento.
+* ¿Qué se emite mientras#  tanto?
+* Mi cara, por supuesto.
+* ¡Uf, este descanso no puede#  terminar lo suficientemente#  pronto!
+* ¿Cuándo puedo poner una#  película que me guste?
+* ¡Sus películas van contra#  la naturaleza misma#  de la televisión!
+* Violencia gratuita...#  palabrotas... una#  tercera cosa secreta...
+* ¿Tercera cosa?
+* Oh, quieres decir
+* ¡Nuh-uh-uh! ¡Fuera de los#  límites!
+* Sólo podemos acoger insultos#  leves con violencia censurada# o dibujos animados.
+* ¡TV-14 en el peor de#  los casos!
+* Sí, pero eso no va a detener#  a nadie, ¿verdad?
+* ¡Esperamos haberte#  entretenido, amiguito!
+* ¡La televisión es un#  invento maravilloso!
+* ¡Es aún mejor cuando te#  sientas cerca de la pantalla#  con los ojos BIEN abiertos!
+* ¿Qué? ¡No! No hagas eso,#  niño. No la escuches.
+* ¡Sí! ¡Destruye tu vista!
+* ¡¡¡Tus lentillas deberían#  espesar!! ¡¡¡Con#  cada examen!!!
+* ¡No puedes decir este tipo#  de cosas a los niños!
+* (¡Cierra el pico, Vis!#  ¡Voy a poner un anuncio#  de optometrista!)
+* ¡¡¡Eso no lo hace#  mejor!!!
+* ¡Volveremos después de#  estos mensajes!
+* Amigo, espero que no.
 ¿Sigh... Mooch?
 geno_target_angle
 id_store
@@ -11599,7 +11599,7 @@ IT IS. ..#BEAUTIFUL.
 * veo que llevas un arma#  tú mismo.
 * uno de seis tiros, ¿Cierto?,#  elegante, me gusta.
 * asegúrate de ser responsable#  con ella.
-* es "seguridad primero" en#  las steamworks después#  de todo.
+* es "seguridad primero" en#  steamworks después#  de todo.
 * debo empezar a pensar en qué#  llevar en mi cita.
 * antes vi a un tipo con un buen#  chaleco y un sombrero.
 * quizás podría pedirle un#  consejo.
@@ -11668,7 +11668,7 @@ axis_pitch
 * DIAGNÓSTICO DE AMENAZA_
 * NIVEL DE AMENANZA: 10_
 * EMPATÍA: IGNORADA_
-* BIENVENIDO A LAS#  STEAMWORKS, HUMANO.
+* BIENVENIDO A#  STEAMWORKS, HUMANO.
 * LAS COSAS NO HAN#  ESTADO YENDO A TU#  MODO, ¿ME EQUIVOCO?
 * ME TEMO QUE LO QUE BUSCAS#  HA...
 * . . .EXPIRADO.
@@ -11835,25 +11835,25 @@ app_surf_width
 screen_parts
 part_height
 draw_surface_part_ext
-* I got to go back.
-* I want to go back to the#  Ruins.
-* The dump was a total bust!
-* No anime to be found at ALL!
-* Just like, eight identical#  piles of trash. It sucked!
-* In the Ruins, I could power up#  freely.
-* No one minded me screaming#  down those purple halls.
-* Out here, there's all these#  monsters just waiting to JUDGE#  me.
-* Like, come on.
-* I'm not "disturbing the#  peace", I'm becoming god.
-* Sorry for the attitude.
-* The main character trait of my#  current power tier is "easily#  pissed."
-* Out of my control.
-* I bet some anime would help me#  unwind.
-* There's this one show you#  should totally check out.
-* It's over 1,000 episodes but#  I'm sure you could catch up#  within a few weeks.
-* Just let me know and we'll#  begin the marathon!
-* We can talk more later.
-* Right now, I gotta figure out#  where to begin my next arc.
+* Tengo que volver.
+* Quiero volver a las#  Ruinas.
+* ¡El vertedero fue un fracaso#  total!
+* ¡No hay anime en ABSOLUTO!
+* Como ocho montones idénticos#  de basura. ¡Apestaba!
+* En las Ruinas, podía#  potenciarme libremente.
+* A nadie le importó que#  gritara por esos#  pasillos morados.
+* Aquí fuera, están todos#  esos monstruos esperando#  para JUZGARME.
+* Por favor.
+* No estoy "perturbando la paz",#  me estoy convirtiendo#  en dios.
+* Perdón por la actitud.
+* El rasgo principal de mi#  actual nivel de poder#  es "enojarse fácilmente".
+* Fuera de mi control.
+* Apuesto a que un poco de#  anime me ayudaría a#  relajarme.
+* Hay un programa que deberías ver.
+* Tiene más de 1.000 episodios,#  pero seguro que podrás#  verlo en pocas semanas.
+* Házmelo saber y ¡empezaremos#  la maratón!
+* Podemos hablar más tarde.
+* Ahora mismo, tengo que#  averiguar dónde empezar#  mi próximo arco.
 image_speed_base
 animation_end
 shader
@@ -11888,25 +11888,25 @@ spawn_interval
 spawn_direction_variance
 spawned_last
 pollen
-* I. ..
-* I DID ALL I C0ULD.
-* I wAS OnLY ABLE TO sAVE#  A FEW buT...
-* NoW_ I KN0W YOU WILL#  LE4VE ThIS PLaCE#  UNSATISFIED.
-* TH3 SAME FaTE ThEY mET#  MAY AWAiT ME,
-* BuT I WILL N0 LONG,ER#  RUN FRom YOU.
-* ThAT CANN0N OF DE4TH#  YOU WIeLD iS STR0NG.. .
-* CoULDN'T GET us ALL,#  HUH?
-* IT SE3MS MaNY BOTS#  EvADED Y0U.
-* BUT AS yOU CAN SEE, I#  AM STILL H3RE.
-* WeLL, ,,
-* I DECIdED I WILL N0#  LONG,ER RUN FRom YOU.
-* BUT AS you CAN SEE, . .
-* I H4VE DRaWN A "WEAP0n"#  OF MY OWN_.
-* NoW.. . AS THE K1DS#  SAY,
-* COME AT ME.
-* BUT I H4VE DRaWN A#  "WEAP0n" OF MY OWN_.
-* SO. ..
-* WhY NOT TRY Y0UR LUCK?
+* HICE. ..
+* HICE TODO LO QUE PUED3.
+* SóLO PuDE SALVaR A UNOS#  POCOS perO... 
+* AHoRA_ S3 QUE DEJAR4S#  EsTE LUgAR INSATISFECHO.
+* PUEDE QUE ME ESPErE 3L#  MISMO DeSTINO,
+* PeRO YA N0 CORRE,RÉ#  De TI.
+* EsE CAÑ0N DE MU3RTE#  QUE LLeVAS eS FUERT3.. .
+* No pUDISTE ACABAR con#  TODOS, ¿EH? 
+* PAR3CE QuE VARIOS#  BOTS T3 EsQUIVARON.
+* PERO COMO pUEDES VER,#  SIGO AQU1.
+* BuENO, ,,
+* DECId1 QUE YA N0#  CORRE,RÉ dE TI.
+* PERO como PUEDES VER, . .
+* H3 TOmADO UN "ARm4" PROPIA_.
+* AHoRA.. . COMO LOS#  ÑIÑOS DICEN,
+* VAMOS A ELLO.
+* PERO  H3 TOmADO UN#  "ARm4" PROPIA_.
+* ENTONCES. ..
+* ¿PoR QUé NO PRU3BAS TU#  SUERTE?
 yellow_overlay_alpha
 * (¿Subirse?)
 jump_noloop
@@ -11964,26 +11964,26 @@ base_speed
 bomb_collision_check
 angle_dif
 gml_Script_bomb_collision_check_gml_Object_obj_battle_enemy_attack_axis_bomb_geno_Step_0
-* Is that a new hat?
-* Love it!
-* Average eyes probably couldn't#  tell it changed but my eyes are#  anything but!
-* For starters, I can't blink!
-* I think I settled on a goal#  for my journey.
-* I wish to become the King's#  tailor!
-* Sí, you heard that right!
-* His look, his whole presence,#  it's nothing short of iconic!
-* Oh the cloaks I could craft...
-* He's already a ten out of ten#  but hey, we can shoot for#  eleven, baby!
-* I find this resort so quant,#  don't you agree?
-* Tying the wooden aesthetic#  together with bears and honey?
+* ¿Es ese un sombrero nuevo?
+* ¡Me encanta!
+* ¡Los ojos comunes no notarían#  el cambio, pero los#  míos son diferentes!
+* Para empezar, ¡no puedo#  parpadear!
+* Creo que he fijado una#  meta para mi viaje.
+* ¡Deseo convertirme en#  el modisto del Rey!
+* Sí, ¡has oído bien!
+* Su mirada, toda su presencia,#  ¡es nada menos que#  icónica!
+* Oh, las capas que podría#  hacer...
+* ¡Ya es un diez sobre diez,#  pero podemos aspirar#  al once, cariño!
+* Este complejo me parece#  tan acogedor, ¿no#  te parece?
+* ¿Uniendo la estética de la#  madera con los osos y la miel?
 * ¡Esplendido!
-* The whole place really says#  "We love you and would never#  maul you."
-* A real victory over bear#  prejudice.
-* Oh, right! My complexion.
-* What can I say?
-* I'm not a fan of baby blue.
-* Knock 'em dead out there!
-* Figuratively.
+* Todo el lugar dice: "Te#  queremos y nunca te#  maltrataríamos".
+* Una auténtica victoria#  sobre los prejuicios#  de los osos.
+* ¡Ah, sí! Mi caracter.
+* ¿Qué puedo decir?
+* No soy fan del azul bebé.
+* ¡Que se mueran ahí fuera!
+* En sentido figurado.
 audio_noloop
 twinkle
 spear_spawn_count
@@ -12203,19 +12203,19 @@ shader_alpha
 alpha_new
 alpha_id
 ds_map_add
-* I keep trying to sneak#  a drink from Dina but#  she won't let me!
-* It's not fair, being#  the ONLY member who#  can't touch the stuff.
-* Oh, wait, am I being a#  bad influence?
-* Right, uhhhh...
-* Vegetables! Education!#  The stock market!#  OoooOOOooo!!
-* While I'm sad you're#  leaving us, I know#  you'll do great things.
-* Give 'em heck, Clover!
-* Clover!! Hiya!
-* Just dropping by?
-* Sucks you aren't#  actually joining the#  squad.
-* With two small bodies,#  we could steal SO much#  sh-
+* Sigo intentando sacarle#  una copa a Dina,#  ¡pero no me deja!
+* No es justo ser el#  ÚNICO miembro que no#  puede tocar las cosas.
+* Oh, espera, ¿estoy#  siendo una mala#  influencia?
+* Cierto, uhhhh...
+* ¡Verduras! ¡Educación!#  ¡La bolsa!#  ¡¡OoooOOOooo!!
+* Aunque me entristece#  que nos dejes, sé#  que harás grandes cosas.
+* ¡Dale fuerte, Clover!
+* ¡Clover! ¡Hola!
+* ¿Sólo pasabas por aquí?
+* Es una pena que no te#  unas al equipo.
+* Con dos cuerpos#  pequeños, podríamos#  robar tanta...
 * Uh...	
-* ...I should probably#  stop saying the quiet#  part out loud, heh!
+* ...debería dejar de#  decir la parte tranquila#  en voz alta, ¡eh!
 idle
 throw_interval
 ball_spawn_noloop
@@ -12303,48 +12303,48 @@ x0
 y0
 angle0
 image_alpha_trail
-Correct
-No, I am
-* Oh my! You startled me!
-* I know my eyes aren't what they#  used to be but...
-* ...You aren't a machine,#  correct?
-* I can't believe it. Another#  monster in the Steamworks? 
-* Thought I was the only one.
-* I'm not incredibly social but#  you're welcome to rest up here.
-* Hm? You look nothing like the#  others.
-* Don't pull my leg now. At my#  age, it might break off.
-* This facility used to be the#  epicenter for innovation back#  in the day.
-* In my prime I was a chemist.#  A pretty good one too.
-* That is... until they let#  everyone go.
-* Said there were too many cooks#  in the kitchen, wanted to focus#  in.
-* Couldn't let my passion go that#  easily so I hid away when they#  locked up. 
-* Now I have the freedom to#  experiment whenever and however#  I please.
-* Though... no one is around to#  witness my efforts.
-* Personally, I blame the#  shutdown on the robotics#  project, unruly things.
-* I thought I was rid of their#  antics until an hour or so ago.
-* The facility powered up and#  they all began to roam like#  zombies back from the dead.
-* I hid here in the meantime.#  Those heaps of metal are mighty#  unpredictable.
-* I'm guessing it was you, right?#  The one who turned the#  generator back on?
-* I must thank you, it isn't#  ideal to live in the dark.
-* Many times I have attempted the#  journey but the obstacles are#  far too numerous.
-* No need to worry, though. Life#  has been just fine.
-* Aside from the reserves left#  behind, those white plants are#  quite edible.
-* Couldn't run out of food if I#  wanted to.
-* On your way out, feel free to#  use any equipment you like.
-* While I prefer working alone...
-* ...I can't deny that science#  is best accomplished as a#  collaborative effort.
-* I'm going to wait here until#  the robots disperse but I wish#  you luck on your travels!
-* What a day, what a day.
-* It seems those wily bots have#  finally calmed themselves.
-* Thank goodness too, my hideout#  was getting awfully cramped!
-* Since the power was turned on,#  all of the equipment functions#  again!
-* That means I'm free to conduct#  experiments without#  limitations!
-* It has been some time since I#  operated that computer over#  there.
-* I had forgotten that they#  programmed a game into the#  mixing process.
-* Was that really necessary?
-* My ancient eyes can barely#  keep up!
-* I apologize for cutting our#  talk short but there is so much#  to do now.
-* You'll just have to wait until#  after the tests.
+Correcto
+No, lo soy
+* ¡Oh, Dios mío! ¡Me asustaste!
+* Sé que mis ojos ya no son#  lo que eran, pero...
+* ...no eres una máquina,#  ¿correcto?
+* No me lo puedo creer. ¿Otro#  monstruo en Steamworks? 
+* Creía que era el único.
+* No soy increíblemente social#  pero eres bienvenido a#  descansar aquí.
+* ¿Qué? No te pareces en nada#  a los otros.
+* No me fastidies. A mi edad,#  podría romperse.
+* Estas instalaciones solían#  ser el epicentro de#  la innovación.
+* En mis mejores tiempos fui#  químico. Uno bastante#  bueno también.
+* Eso es... hasta que dejaron#  ir a todo el mundo.
+* Dijo que había demasiados#  cocineros en la cocina,#  quería centrarse en ella.
+* No podía dejar escapar mi#  pasión tan fácil, así que me#  escondí cuando cerraron. 
+* Ahora tengo la libertad de#  experimentar cuando y#  como me plazca.
+* Aunque... no hay nadie#  cerca para presenciar#  mis esfuerzos.
+* Personalmente, culpo del#  cierre al proyecto de#  robótica, cosas ingobernables.
+* Pensaba que me había librado#  de sus payasadas hasta#  hace una hora o así.
+* La instalación se encendió#  y todos empezaron a ir#  como zombis resucitados.
+* Me escondí aquí mientras tanto.# Esos montones de metal#  son poderosamente impredecibles.
+* Supongo que fuiste tú,#  ¿verdad? ¿El que volvió a#  encender el generador?
+* Debo agradecértelo, no es#  ideal vivir a oscuras.
+* Muchas veces he intentado el#  viaje pero los obstáculos#  son demasiado numerosos.
+* Pero no hay por qué#  preocuparse. La vida#  ha ido bien.
+* Aparte de las reservas que#  dejan, esas plantas blancas#  son bastante comestibles.
+* No podría quedarme sin comida#  aunque quisiera.
+* Al salir, siéntete libre de#  usar el equipo que#  quieras.
+* Aunque prefiero trabajar#  solo...
+* ...no puedo negar que la#  ciencia se logra mejor como#  esfuerzo de colaboración.
+* Voy a esperar aquí hasta que#  los robots se dispersen, ¡pero#  te deseo suerte en tus viajes!
+* Vaya día, vaya día.
+* Parece que esos astutos bots#  por fin se han calmado.
+* Menos mal, mi escondite se#  estaba volviendo muy estrecho.
+* Desde que se conectó la#  alimentación, todos los#  equipos funcionan de nuevo.
+* Eso significa que soy libre#  de realizar experimentos#  sin limitaciones.
+* Hace tiempo que no manejo#  ese computador de ahí.
+* Había olvidado que#  programaron un juego en#  el proceso de mezcla.
+* ¿Era realmente necesario?
+* Mis antiguos ojos apenas#  pueden seguir el ritmo.
+* Me disculpo por acortar#  nuestra charla, pero hay#  mucho que hacer ahora.
+* Tendrás que esperar hasta#  después de las pruebas.
 impact_sound_noloop
 new_item
 overlay_draw_enabled_follower
@@ -12479,7 +12479,7 @@ fill_percentage_inc
 execute_destroy
 default_alpha
 * (Percibes intenciones#  caníbales.)
-* ¡Hey!
+* ¡Oye!
 portrait_enabled
 spr_blank
 tori_dialogue
@@ -12586,30 +12586,30 @@ depth_start
 * Estresan a los residentes.
 * Si no te importa, el#  complejo está un poco#  concurrido hoy.
 * Tengo que atender a#  los huéspedes.
-* Hello and welcome to UG#  Apartments!
-* - The leading establishment#  where your stay is temporary#  AND unaffordable!
-* I am the Handlord of this#  complex.
-* Please do not say you "find it#  quite simple." You will be#  kicked out.
-* How may I be of service?
-Castle
-Room
+* ¡Hola y bienvenido a SS#  Apartamentos!
+* - El establecimiento líder#  donde su estancia es#  temporal ¡e inasequible!
+* Soy el propietario de este#  lugar.
+* Por favor, no diga que "le#  parece bastante sencillo".#  Será expulsado.
+* ¿En qué puedo servirle?
+Castillo
+Cuarto
 * Para llegar a Nuevo Hogar, querrás#  tomar el elevador que está#  a mi izquierda.
-* Not left as in my appearance,#  left as in the direction. You#  get it.
+* No a la izquierda de mi, a la#  izquierda como en la3  dirección. Tú lo entiendes.
 * Ahem...
-* Of course, with the CORE being#  under maintenance, it is the#  only way to reach the city.
-* Heavy traffic is expected.
-* Let me check if we have any#  openings...
-* ...Sí, aquí estamos.
-* We have a Platinum Deluxe#  apartment on the top floor.
-* Though the down payment will#  cost you about... 6500G
-* Wait, you aren't even old#  enough to rent a room. 
-* Bring a parent or guardian next#  time.
-* Oh! Hold on a second!
-* I think I recognize you...
-* Yeah, it's the hat!
-* A blue, feathered monster came#  in here and asked if I would#  tell you to go to the roof.
-* She wanted to "meet you on the#  roof" is what she said exactly.
-* All I ask is please do not do#  anything illegal on the#  premises.
+* Por supuesto, con el NUCLEO en#  mantenimiento, es la única#  forma de llegar a la ciudad.
+* Se espera un tráfico intenso.
+* Déjeme comprobar si#  tenemos alguna disponible...
+* ...Sí, aquí está.
+* Tenemos un apartamento#  Platinum Deluxe en#  la última planta.
+* Aunque el pago inicial te#  costará unos...#  6500 de ORO.
+* Espera, ni siquiera tienes#  edad para alquilar un#  cuarto. 
+* Trae a un padre o tutor la#  próxima vez.
+* ¡Oh! ¡Espera un segundo!
+* Creo que te reconozco...
+* ¡Sí, es el sombrero!
+* Un monstruo azul con plumas vino#  aquí y me preguntó si te#  diría que fueras a la azotea.
+* Quería "encontrarte en el#  tejado" es lo que#  dijo exactamente.
+* Todo lo que pido es que por#  favor no hagan nada ilegal#  en las instalaciones.
 actor_axis
 * [MAIN POWER SOURCE NOT#  FOUND_]
 * [INITIATING EMERGENCY#  BACKUP POWER_]
@@ -12659,16 +12659,16 @@ actor_axis
 * LEAVE THE POWER ON WHEN#  YOU EXIT, WILL YOU?
 * I LIKE LIVING. 
 * THANKS.
-* HE HE !
-* MUÉVELO SUAVE !
+* ¡ JE JE !
+* ¡ MUÉVELO SUAVE !
 * Gwah gwah goggle wibble woo~
-* (You smile and nod like you#  understood Dunebud.)
+* (Sonríes y asientes como si#  entendieras a Dunebud.)
 * Blep blep boop wub weeeee~
-* (Hold on...)
+* (Espera...)
 * Pleep plop doop de do~
-* (Could it be?)
+* (¿Podría ser?)
 * Wuwuwu aaaaAAAAAAAAAAAAAAA#  hehe~
-* (Uh, nevermind.)
+* (Uh, no importa.)
 * Wiggle woggle~
 * ¡Ahí está!
 * No debí haber huido#  como lo hice...
@@ -12761,14 +12761,14 @@ pe_droplet
 * ¡Envio directo a los buzones#  de los ciudadanos desde ahora!
 * Conveniente, pero algo#  agridulce. Disfruté de mis#  caminatas a la antigua estación.
 * Al menos esto significa que todo#  el mundo mantiene sus trabajos.#  ¡Esas son buenas noticias!
-* While the new mail system is#  nice, the King's kinda given up#  on improving society.
-* I respect what's been#  accomplished but most monsters#  act like we've peaked.
-* Not true, there's always more#  that could be done in my#  opinion!
-* We could use better public#  transportation for example.#  Like a train!
-* Or better yet, a subway train!
-* ...Wait, wouldn't all trains#  be considered subway trains#  here? 
-* I wonder if I could get a job#  as a mailmonster?
-* Sure I can't fly but I placed#  fourth on my highschool track#  team!
+* Aunque el nuevo sistema de correo#  es bonito, el Rey ha#  renunciado a mejorar la sociedad.
+* Respeto lo conseguido, pero#  muchos de los monstruos#  actúan como si tocaramos techo.
+* No es cierto, ¡en mi#  opinión siempre se#  puede hacer más!
+* Nos vendría bien un mejor#  transporte público, por#  ejemplo. ¡Como un tren!
+* O mejor aún, ¡un tren#  subterráneo!
+* ...Espera, ¿aquí no se#  consideraría que todos#  los trenes son de metro? 
+* ¿Me pregunto si podría#  conseguir un trabajo#  como "monstruo de correo"?
+* Claro que no puedo volar,#  pero quedé cuarto en el#  equipo de atletismo.
 ver
 hor
 C R O A K .
@@ -12863,23 +12863,23 @@ shockwave
 hit_noloop
 gml_Script_state_switch_gml_Object_obj_battle_enemy_attack_mecha_frog_hand_Step_0
 destroy_noloop
-* I basically helped Dalv move#  out all by myself.
-* Soon as the exit to Snowdin#  was open, the others bolted.
-* But not me. Nope.
-* I'm loyal like that.
-* Don't mean to bring the mood#  down but uh...
-* The beach house I was eyeing?
-* Down payment alone is like,#  100 G's.
-* Not one-hundred G,#  one-hundred-GRAND.
-* But yeah, no, I'm chill about#  it.
-* Everyone knows the housing#  bubble is gonna burst.
-* As soon as that happens, I am#  cleaning UP!
-* Heh, I do dabble in economics#  if you were wondering.
-* Been hitting the market HARD#  lately.
-* I got the sickest portfolio -#  you would believe it.
-* Every stock I own is in rapid#  decline.
-* Life is genuinely good right#  now.
-* Nowhere to go but up!
+* Básicamente ayudé a Dalv a#  mudarse yo solo.
+* En cuanto se abrió la#  salida a Snowdin, los#  demás salieron corriendo.
+* Pero yo no. No.
+* Soy así de leal.
+* No quiero bajar el ánimo,#  pero...
+* ¿La casa de la playa que#  estaba mirando?
+* Sólo el pago inicial son#  como 100 de los#  grandes.
+* No cien de ORO, cien#  GRANDES.
+* Pero sí, no, estoy#  tranquilo al respecto.
+* Todo el mundo sabe que la#  burbuja inmobiliaria#  va a estallar.
+* Tan pronto como eso ocurra,#  ¡voy a limpiar!
+* Me dedico a la economía, por#  si te lo estabas#  preguntando.
+* Ha estado golpeando el#  mercado DURO#  últimamente.
+* Tengo la cartera más enferma# - de lo que te#  creerías.
+* Todas las acciones que poseo#  están en rápido declive.
+* La vida es realmente buena#  ahora mismo.
+* No hay otro sitio al que#  ir que hacia arriba.
 draw_alpha_black
 draw_overlay_alpha
 Nuestra pequeña niña... Kanako...#  Ella necesita vivir una vida#  feliz, no afectada por mi trabajo.
@@ -12954,12 +12954,12 @@ door_solution
 instance_deactivate_object
 acid_sound
 door_fade_out
-* (The door melted away.)
-* (A roadblock.)
-* (A complex lock mechanism#  blocks your exit.)
-* (What could open it up?)
+* (La puerta se derritió.)
+* (Un obstáculo.)
+* (Un complejo mecanismo de#  un candado impide#  tu salida.)
+* (¿Qué podría abrirlo?)
 * (No se te ocurre cómo#  hacer que esto funcione.)
-* (You use the ACID to ACID#  away at the DOOR.)
+* (Usas el ÁCIDO para#  derretir la puerta.)
 * HOLA.
 * I HAD TROUBLE LOCATING#  YOU AFTER OUR LAST#  ENCOUNTER.
 * WORRY NO MORE, I HAVE#  LOCATED YOU.
@@ -13041,12 +13041,12 @@ human_alpha
 * Es como que no quieren que nadie#  pase por un camino específico#  o algo así.
 * Si llevas algo de "lluvia" no#  tengas reparo en soltarla#  al aire.
 * Aferrarte a la tristeza te#  termina pesando.
-* (A page of rambly writings#  wastes away in the can.)
-* (You take it.)
-* (You reach into the trash#  can...) 	
-* (You pull out a crumpled up#  essay titled "Mixin' It Up!")	
-* (It's typed in size 13 font to#  better reach the minimum page#  requirement... of 1.)	
-* (You stash the essay in your#  mail bag.)
+* (Una página de escritos#  dispersos tirados en#  la basura.)
+* (Lo tomas.)
+* (Buscas en el cubo de#  basura...)
+* (Tomas un ensayo arrugado#  titulado "¡Mezclándolo!")
+* (Está escrito en fuente tamaño 13#  para llegar mejor al requisito#  mínimo de... 1 página.)	
+* (Metes el ensayo en tu mochila#  de correos.)
 mask_index
 spawner_log
 jump_interval
@@ -13542,30 +13542,30 @@ dynamic_mus
 dynamic_mus_pos
 darken_target
 darken_current
-* The Underground is full#  of beauty.
-* Friends... Families...
-* Hopes... Dreams...
-* Or at least... it was.
-* Though valiantly they#  fought...
-* Nobody could stop you,#  could they?
-* I had hoped this day#  wouldn't come.
-* Retaliation was#  inevitable but...
-* I believed we could#  handle it as we always#  have.
-* My dear friends... 
-* I know why you are here#  but... I'm afraid it's#  too late.
-* Your goal is out of#  reach.
-* Monsterkind's plight is#  not something I take#  pride in...
-* But it is a conflict#  not of our making.
-* One thing is certain,#  however.
-* Your violence has#  ensured this war never#  to end.
-* Many more, of both our#  kinds, will perish#  because of this day.
-* Such is the path you#  chose.
-* Even if you chose#  differently...
-* The unfortunate truth#  of the matter is...
-* Your fate was sealed#  the moment you entered#  my kingdom.
-* We will rebuild.
-* And with the help of#  your SOUL, we will be#  free.
-* Goodbye.
+* El Subsuelo está lleno#  de belleza.
+* Amigos... Familias...
+* Esperanzas... Sueños...
+* O al menos... lo era.
+* Aunque batallaron#  con valentía...
+* Nadie pudo detenerte,#  ¿Me equivoco?
+* Estaba esperando que#  este día no llegara.
+* La represalia era#  inevitable pero...
+* Pensaba que podíamos#  manejarlo como siempre#  lo hemos hecho.
+* Mis queridos amigos...
+* Sé por qué estás aquí#  pero... me temo que#  es demasiado tarde.
+* Tu objetivo está#  fuera de alcance.
+* El apuro de los monstruos#  no es algo de lo#  que me enorgullezca.
+* Pero no es un conflicto#  que hayamos iniciado.
+* Sin embargo, una cosa#  es segura.
+* Tu violencia ha#  asegurado que esta guerra#  nunca termine.
+* Muchos más, de ambas#  especies, fallecerán#  debido a este día.
+* Tal es el camino que#  elegiste.
+* Incluso si hubieras#  elegido algo diferente...
+* La desafortunada verdad#  del asunto es que...
+* Tu destino fue sellado#  en el momento que#  entraste a mi reino.
+* Vamos a reconstruir.
+* Y con la ayuda de tu#  ALMA, seremos libres.
+* Adiós.
 charge_percentage
 charge_sound
 audio_sound_get_pitch
@@ -13701,7 +13701,7 @@ BUENA SUERTE.
 ¿¿¿EN SERIO???
 ESTOY LLEGANDO A#NIVELES GRANDES#DE [molesto].
 NIVEL 7 AL#MENOS.#TU CULPA.
-QUE TE [jodan]#QUE TE [jodan]#QUE TE [jodan]#QUE TE [jodan]#QUE TE [jodan]#
+QUE TE [atornillen]#QUE TE [atornillen]#QUE TE [atornillen]#QUE TE [atornillen]#QUE TE [atornillen]#
 DoPDzzzZ_//
 GAH. 
 NO QUIERES#VERME CON#BATERÍA BAJA.
@@ -13726,7 +13726,7 @@ npc_direction_hold
 * PUEDO SENTIR MI CARA#  TRANSFORMÁNDOSE EN#  GRIS CLARO.
 * ¿SABES QUÉ?#  OLVÍDALO.
 * ESTO ES ENTRE YO Y MI#  E-DIARIO.
-* DIVIÉRTETE EN LAS#  STEAMWORKS, HUMANO.
+* DIVIÉRTETE EN#  STEAMWORKS, HUMANO.
 * SI PLANEAS NADAR EN#  EL LAGO HIRVIENDO,#  USA FLOTADORES.
 * EL SALVAVIDAS FUE#  RECIENTEMENTE ASCENDIDO#  A SALVAMUERTES.
 * TRÁGICO. XD.
@@ -13761,7 +13761,7 @@ npc_direction_hold
 * NO TE SEPARASTE,#  ¿O SÍ? 
 * SÉ QUE LOS JÓVENES SE#  PIERDEN EN LOS SUPERMERCADOS#  TODO EL TIEMPO.
 * Y SI PIENSAS AL RESPECTO...
-* LAS STEAMWORKS PODRÍAN#  SER MÁS GRANDES#  QUE UN SUPERMERCADO.
+* STEAMWORKS PODRÍA#  SER MÁS GRANDE#  QUE UN SUPERMERCADO.
 * Y SI... ¿Y SI MI#  FUTURO HIJO SE PIERDE#  AQUÍ?
 * ESTO NO ES BUENO. NO#  ES BUENO EN ABSOLUTO.
 * ME LLEVAS DIRECTO A#  LA ZONA DE ANSIEDAD.
@@ -13849,16 +13849,16 @@ message_number
 fade_inc
 fall_speed_max
 weakpoint
-Yo... WHAT?
-WELL...#I MEAN, YEAH.
-THANK YOU,#I GUESS.
-COME ON, YOU#DO NOT MEAN#THAT.
-YOU DO?
-WHOA. HEY.#I FEEL FUNNY.
-I FEEL...#GOOD.
-THANK YOU FOR#CONFIRMING MY#NARCISSISM,#HUMAN.
-NOTE: THAT WAS#A "JOKE."
-* (You do.)
+Yo... ¿QUÉ?
+BUENO... QUIERO#DECIR, SÍ.
+GRACIAS,#SUPONGO.
+VAMOS, NO#QUIERES#DECIR ESO.
+¿QUIERES?
+WHOA. HEY.#ME SIENTO RARO.
+ME SIENTO...#BIEN.
+GRACIAS POR#CONFIRMAR MI#NARCISISMO, HUMANO.
+NOTA: ESO FUE#UNA#BROMA.
+* (Tú lo haces.)
 path_speed_default
 * Hey, ¿adónde vas, amigo?
 * ¿Hay espacio para uno más?
@@ -14019,53 +14019,53 @@ rect_size_x
 rect_size_y
 draw_vertex
 Parmesan y Red Pepper
-* El tercer dúo italiano más famoso.
+* El tercer dúo italiano más#  famoso.
 alarm_beep
 fmartlet_sppool
-wow#SerIOUSLY!?!?!?.
-WHOA#therE!!
-HahA!!#Cool Trick!!
-W//what#was_That? /(
-St_amwrrks#Need_/ scruBbed#0
+¿¡¿¡¿¡wow#En sERIO!?!?!?.
+¡¡WOW#esperA!!
+¡¡JajA#Truco Genial!!
+¿Q//qué#qué_Fue eso? /(
+St_amwrrks#NecesitA_/#refRegar#0
 AaAAaoo/aa/.#Bzzt.’"<<<
-//Cleaaaaan - _
-LLLet's#;-:_#Wassh up
-To rid the#Underground of#SOAP!!!
-To cle//a--I#mean help all#Germs conquer#the land!!
-NO YOU!!
-You are RUDE!#Take THIS!!
-I can't beLIEVE#you Would propose#such a Thing!
-Don't comE#ANY cLosER!!
-YEAH yeAH!!#puMP IT UP!!!!
-goNNA woRK so#MucH HARDER!!!
+//Limpiaaaar - _
+VVVamos#;-:_#A limmpiar
+¡¡¡Para#remover el#JABÓN del#Subsuelo!!!
+Para lim//pi--#digo ayudar a#todos los gérmenes#conquistar el mundo!!
+¡¡NO, TÚ!!
+¡Eres MALEDUCADO!#¡¡Toma ESTO!!
+¡No puedo crEER#que Propusieras#tal Cosa!
+¡¡No tE#aCerquES MÁs!!!
+¡¡SEH sEH!!#¡¡¡¡ANímATE!!!!
+¡¡¡voY a traBAJAR#MáS DURO!!!
 *Hum-DEE-DUM#dE-DUMM!!
-*ToGther we#are Strong!!!
-HA Heh!!#Bet I am DIRTIER#than YOU!!
-It iS time#to Meet Our#Mops!!
-Gee, you're too#Clean! Let's#staIN thaT VEsT!!
-Nothin' like the#smell of RuSted#meTal in the#Morning!!
-I will NeVER take#out the TrASH!#YOU CAN'T MAKE#ME!!!
-Scrub-a-dub-dub!#Sewage in the#tub!!!
-Want a sip of#my Mop Water?#It's FReshly MaDe!! 
-* Oh, didn't see you there!
-* I'm just staring at this pond#  for my next landscape study.
-* It reminds me of us.#  Individuals, I mean.
-* Most of it is beautiful.#  Perfection at a glance.
-* But then you look closer and#  see a hole cut right through.
-* Jagged, invasive... defacing#  and weakening what should be a#  masterpiece.
-* Sure, you could fill it in,#  but it would only be a faux#  correction to the whole.
-* It may look stronger than#  before, but the wound will#  always be present.
-* Then again, maybe it's just a#  pond with a hole in it.
-* I thought starting small would#  be best after leaving the#  Ruins.
-* It's a little overwhelming,#  thinking of how much art I can#  make now.
-* Drawing in increments for#  sanity's sake, heh!
-* When I feel like branching#  out, I might try my hand at ice#  sculpting!
-* I would definitely need a#  teacher, though.
-* There is this one monster who#  is highly proficient at ice#  magic.
-* They roam the higher#  elevations south of here last I#  heard.
-* Probably too busy for silly#  art projects, unfortunately.
-* Sorry, but I have work to do!
-* Catch you later, yeah?
+*¡¡¡JuNts somos#Fuertes!!!
+¡¡JA Je!!#Apuesto que soy#más SUCIO#que TÚ!!!
+¡¡Es horA de#que Conozcas#Nuestros#trapeadores!!!
+¡Vaya, eres muy#Limpio! Vamos#a ensucIAR esE#CHalecO!!!
+¡¡Nada como el#olor del meTal#OxiDado en la#Mañana!!
+¡NuNCA sacaré la#BasURA! ¡¡¡NO#PUEDES OBLIGARME!!!  
+¡Li-li-limpiando!#¡¡¡Suciedad#eliminando!!!
+¿Quieres un trago#de mi Agua de#Trapeador?#¡¡ReCIén HeCha!!
+* ¡Oh, no te había visto!
+* Estoy mirando este#  estanque para mi#  próximo estudio de paisaje.
+* Me recuerda a nosotros.#  Individuos,#  quiero decir.
+* La mayor parte es hermosa.#  Perfección a simple#  vista.
+* Pero entonces miras más de#  cerca y ves un#  agujero que te atraviesa.
+* Rasgado, invasivo...#  desfigurando y debilitando lo#  que es una obra maestra.
+* Claro, podrías rellenarlo,#  pero sólo sería una corrección#  falsa del conjunto.
+* Puede parecer más fuerte que#  antes, pero la herida#  siempre estará presente.
+* Por otra parte, tal vez es#  sólo un estanque con#  un agujero en él.
+* Pensé que empezar poco a#  poco sería lo mejor después#  de dejar las Ruinas.
+* Es un poco abrumador#  pensar en todo el arte#  que puedo hacer ahora.
+* Dibujando en incrementos#  para mantener la#  cordura, ¡eh!
+* Cuando me apetezca#  diversificarme, quizá#  pruebe a esculpir en hielo.
+* Aunque sin duda#  necesitaría un profesor.
+* Hay un monstruo que#  domina la magia del#  hielo.
+* Vagan por las elevaciones#  más altas al sur de aquí,#  lo último que oí.
+* Probablemente este ocupado#  para proyectos artísticos#  tontos, por desgracia.
+* ¡Lo siento, pero tengo#  trabajo que hacer!
+* Nos vemos luego, ¿sí?
 x_center
 y_center
 sign_modifier_radius
@@ -14206,26 +14206,26 @@ abandoned_geno
 * Bueno... vamos a#  Snowdin.
   Debí s-saberlo...
 message_insert
-* Our friendship was#  always one sided, wasn't#  it?
-* After all, you never#  bothered to save even#  ONCE!
-* Still...
-* Oops! Got to her first!
-* Though I must say...
-* The whole “false sense#  of security” bit? Very#  clever.
-* Don't tell me you were#  ACTUALLY trying to turn#  this around.
-* After what you did to#  all those poor monsters?
-* ¡¡¡Jajajajaja!!!
-* That's just too funny!
-* I don't care how#  mind-numbingly#  sympathetic she was...
-* There is no ticket to#  redemption for your#  actions.
-* ...Oh, right!
-* Surprise! I betrayed#  you!
-* Real sorry, but hey,#  thanks for abandoning#  your rampage!
-* You were gettin' pretty#  strong for a second#  there.
-* I'm not usually the#  worrying type but whew!
-* Dodged a bullet! Haha!
-* Whoa! Make that two!
-* I think you forgot#  who's in charge here.
+* Nuestra amistad#  siempre fue#  independiente,  ¿no?
+* Después de todo,#  ¡nunca te molestaste en#  guardar ni UNA SOLA VEZ!
+* Aún así...
+* ¡Uy! ¡Llegó a#  ella primero!
+* Aunque debo decir...
+* ¿Lo de la "falsa#  sensación de seguridad"?#  Muy inteligente.
+* No me digas que#  REALMENTE intentabas#  darle la vuelta a esto.
+* ¿Después de lo que#  le hiciste a todos#  esos pobres monstruos?
+* ¡¡¡Jajajaja!!!
+* ¡Esto es demasiado#  gracioso!
+* No me importa lo#  alucinantemente#  simpática que fuera...
+* No hay posibilidad#  de redención por#  tus acciones.
+* ...¡Oh, cierto!
+* ¡Sorpresa!#  ¡Te traicioné!
+* Lo siento mucho, pero#  oye, ¡gracias por#  abandonar tu ira!
+* Te estabas poniendo#  muy fuerte por#  un segundo.
+* No suelo ser de los#  que se preocupan,#  pero ¡uf!
+* ¡Esquivé una bala!#  ¡Jajaja!
+* ¡Vaya!#  ¡Que sean dos!
+* Creo que has olvidado#  quién manda aquí.
 empty
 empty_last
 dir_last
@@ -14265,7 +14265,7 @@ ESTE PISOTEADOR#NO VALORA#GREENHOUSE.
 digo, ¡por#supuesto!
 lo#sentimos,#victimarios.
 guardener#dice que#merecen#exterminio.
-LO SABEN.
+LO SABE.
 asi queee...  
 ATAQUE.   
 bien.
@@ -14468,20 +14468,20 @@ jump_speed
 tongue_attack
 friction
 tongue
-* You caught me chillin' by my#  brand new house.
-* That's right! Just bought this#  sucker!
-* I've been down in the dumps#  lately so I thought it was time#  to move on.
-* Do something nice for myself,#  ya know?
-* I highly recommend doing#  something nice for yourself#  every now and then.
-* It's therapeutic!
-* Can't let anyone inside yet,#  got a crew doing renovations.
-* They're installing the latest#  music production equipment.#  Fancy stuff.
-* Let's just say you're gonna#  start hearing my hot beats#  everywhere!
-* Whatever your struggle, just#  hold tight. Life gets better!
+* Me descubriste relajándome en#  mi casa nueva.
+* ¡Así es! ¡Acabo de comprar#  esta porquería!
+* He estado deprimido#  últimamente, así que pensé que#  era hora de seguir adelante.
+* Hacer algo bueno por mí mismo,#  ¿sabes?
+* Recomiendo encarecidamente#  hacer algo bonito por uno#  mismo de vez en cuando.
+* ¡Es terapéutico!
+* No puedo dejar entrar a nadie#  aún, tengo un equipo#  haciendo renovaciones.
+* Están instalando lo último en#  equipos de producción#  musical. Cosas de lujo.
+* Digamos que vas a empezar a#  oír mis ritmos calientes#  por todas partes.
+* Sea cual sea tu lucha,#  simplemente agárrate#  fuerte. La vida mejora.
 * ¡Creo que eso lo#  solucionó!
 * Eres muy listo en#  situaciones intensas.
 * Estoy... impresionada.
-* (A giant sealed door,#  presumably keeping something#  inside...)
+* (Una puerta gigante sellada,#  presumiblemente guardando#  algo dentro...)
 * (La puerta está bloqueada#  del otro lado.)
 * ¿Bloqueada, huh? Raro...
 * Supongo que Ed y Star#  tomaron otro camino.
@@ -15188,14 +15188,14 @@ image_scale_inc
 image_scale_inc_max
 * Eh eh eh, eso no.
 * No se permiten ciudadanos#  desde aquí.
-* We're currently under heavy#  spider construction as you can#  see.
-* Ain't set to finish until 20XX#  or so.
-* You think building a spider#  home is simple?
-* Spin a web here, spin a web#  there, voila, right?
-* Wrong.
-* It takes muscle. Eight biceps#  on every worker.
-* Of course, biceps aren't#  typically part of the leg but#  my team operates above rules.
-* Gonna need you to move along.#  Your presence is intimidating#  everyone here.
+* Actualmente estamos en plena#  construcción de arañas,#  como puedes ver.
+* No está previsto que termine#  hasta 20XX o así.
+* ¿Crees que construir una#  casa araña es sencillo?
+* Hila una telaraña aquí, hila#  una telaraña allá,#  voilá, ¿verdad?
+* Error.
+* Se necesita músculo.#  Ocho bíceps en cada#  trabajador.
+* Por supuesto, los bíceps no#  son parte de la pierna pero#  mi equipo sobrepasa las reglas.
+* Voy a necesitar que te#  muevas. Tu presencia está#  intimidando a todos aquí.
 interacted_with
 * (You examine the#  bookshelf...)	
 * (A title called "Mysteries of#  the Underground" catches your#  eye.)	
@@ -15791,7 +15791,7 @@ button_y
 button_highlight
 button_width
 button_height
-DONE
+HECHO
 button_text
 pencil_xx
 pencil_yy
@@ -16654,8 +16654,8 @@ shot_big
 draw_color
 arc_sprite_attack
 spawn_save_box
-* (Nothing but the echoes of#  your efforts linger.)
-* (You are filled with a sense#  of justice.)
+* (No queda nada más que los#  ecos de tus esfuerzos.)
+* (Estás lleno con un sentido#  de justicia.)
 upsprite
 downsprite
 leftsprite
@@ -17075,28 +17075,28 @@ __b__
 * Los monstruos de aquí#  necesitan a alguien a#  quien admirar.
 * Podría hacerles felices.
 * Bueno, en fin. Parece#  que la salida está#  bloqueada...
-* I'm usually a chill dude but#  today has not been my day. Let#  me tell you:
-* First, the attendant needs my#  name so she can save me a room.
-* "Mr. Cursor," I reply. She#  steps back and goes "Like some#  kind of warlock?"
-* I say "What? Warlock?" with#  visible confusion.
-* "I like to roll that ten-sided#  die as much as the next guy but#  no, I'm Mr. CURSOR."
-* Turns out, she thought I said#  "Curser" like I was gonna hex#  the joint!
-* Really didn't need her input#  on my iconic name but whatever.#  
-* So then, I walk over to the#  elevator to head back to New#  Home.
-* It's busy, so I wait, and I#  wait, and I wait, and LITERALLY#  THREE HOURS PASS!
-* Next thing I know, the#  elevator opens but OOPS!!
-* Mr. Cursor has a tendency to#  timeout and fall asleep every#  five minutes!! 
-* SO I MISSED MY ONE CHANCE!!!
-* And now I'm stuck here and#  don't know WHEN I'LL EVER GET#  TO
+* Normalmente soy un tipo#  tranquilo, pero hoy no ha#  sido mi día. Déjame decirte:
+* Primero, la encargada necesita#  mi #nombre para poder#  guardarme una habitación.
+* "Sr. Cursor", respondo. Ella#  da un paso atrás y dice:#  "¿Como una especie de brujo?".
+* Digo "¿Qué? ¿Warlock?" con#  visible confusión.
+* "Me gusta tirar el dado de#  diez caras tanto como al que#  más, pero no, soy el Sr. CURSOR".
+* ¡Resulta que pensó que había#  dicho "Curser" como si fuera#  a embrujar el local!
+* Realmente no necesitaba su#  entrada en mi nombre#  icónico pero lo que sea. 
+* Entonces, me dirijo al#  ascensor para volver#  a Nuevo Hogar.
+* Está ocupado, así que espero,#  y espero, y espero, y#  PASAN LITERALMENTE TRES HORAS.
+* Lo siguiente que sé, es que#  el ascensor se abre pero#  ¡¡¡OOPS!!!
+* El Sr. Cursor tiene tendencia#  a quedarse dormido cada#  cinco minutos. 
+* ¡¡¡ASÍ QUE PERDÍ MI ÚNICA#  OPORTUNIDAD!!!
+* Y ahora estoy atrapada#  aquí y no sé#  CUÁNDO LLEGARÉ A
 * Lo siento... Tengo que#  calmarme y respirar#  cuando las cosas se calienten.
 * ¿De qué estaba hablando?
 * Ugh, mi memoria apesta.
-* Yo, I monitored the situation#  further and it just clicked#  with me!
-* What if I tried to ram my way#  into the elevator by force?
-* Like just charge straight into#  the doors!
-* Eh, well... on second thought,#  if I tried that I might slip a#  disk...
-* You think this place has free#  Wi-Fi? I'm uh, pretty bored.
-* GO HOME!!!
+* Yo, supervisé la situación más#  a fondo y ¡simplemente#  me di cuenta!
+* ¿Y si intento entrar a la#  fuerza en el ascensor?
+* ¡Como embestir directamente a#  las puertas!
+* Eh, bueno... pensándolo bien,#  si lo intentara podría#  resbalarme un disco...
+* ¿Crees que este lugar tiene#  Wi-Fi gratis? Estoy#  uh, bastante aburrido.
+* ¡¡¡VE A CASA!!!
 y1
 y2
 * Te declaro un honorario#  centinela del silencio.
@@ -17510,7 +17510,7 @@ piece_grav
 * Asegúrate de que la bola#  llegue al fondo sin#  romperse.
                              #                      Snowdin 
            Martlet
-#  Guardia Real del Subsuelo
+                        #  Guardia Real del Subsuelo
 * P.D.
 * Si uno de los troncos se#  atasca, basta con menearlo#  un poco.
 * El otro día me di cuenta#  que se atascaba, pero ya#  sabes como es H.T.M.
@@ -17534,7 +17534,7 @@ arrived_count
 * Recalibrar el puzzle#  de roca de lava...#  ¡Listo!
 * Bueno, debería aguantar#  unos cuantos usos#  al menos.
 * ¡Y eso es suficiente#  para mí!
-* ¡Próxima parada,#  Honeydew Resort!
+* ¡Próxima parada,#  Resort Honeydew!
 minX
 maxX
 moveDir
@@ -17546,14 +17546,14 @@ camera_end
 box_xx
 box_yy
 jingle_noloop
-* Greetings! Hello! How do you#  do?
-* I have a very special letter#  just for you!
-* Why so sudden, without a ring?
-* Because priority mail is what#  I bring!
-* Make sure to read it before I#  flee!
-* The one who sent it paid a#  premium fee!
-* Hope my speedy service helped#  you out!
-* The UGPS always delivers#  without a doubt!
+* ¡Saludos! ¡Hola! ¿Cómo está?
+* ¡Tengo una carta muy#  especial para ti!
+* ¿Por qué tan de repente,#  sin un ring?
+* ¡Porque correo prioritario#  es lo que traigo!
+* ¡Asegúrate de leerlo antes#  de que huya!
+* El que lo envió pagó una#  ¡cuota premium!
+* Espero que mi rápido#  servicio te haya#  ayudado.
+* ¡La SPSS siempre cumple#  sin duda!
 camera_base_x
 camera_base_y
 box_x
@@ -17996,43 +17996,43 @@ ransong_new
 * Si quieres oír algo#  diferente, solo habla conmigo,#  ¿de acuerdo?
 * Una nevera llena de miel,#  lista para beber. 
 * ¿...Ñam?
-* Look who it is!
-* Didn't think I'd see you back#  here before the boss.
-* He left on business...
-* That's all...
-* Aight, I'll spill, you've#  convinced me.
-* There's a fella who likes to#  loiter ‘round here. You#  might've seen ‘em.
-* Yeeaah well, we got history.
-* While back, he set up a shop.#  On OUR turf.
-* The boss was STEAMIN'. Real#  peeved off, ya know?
-* But Rephil, bein' the upsittin'#  citizen he is, thought#  it best to strike a deal.
-* If the fella were to pay us a#  mortgage, we wouldn't kick him#  to the cold.
-* Sounds fair, right?
-* Well, his little venture#  didn't go so well.
-* His end of the deal wasn't#  exactly kept up, so Rephil did#  what had to be done.
-* ...¿Qué? You don't like our#  methods?
-* Hey, don't spend money you#  don't have. All's I'm sayin'.
-* Yeah yeah, there's more to the#  story.
-* So the guy still owes us big#  time, right?
-* Well we kept an eye on him for#  a while as he tried these#  “pop-up shop” things.
-* It was quiet. Peaceful, even.#  Until recently...
-* He seemed to be in a hurry.#  Briefcase all packed and such.
-* The boss was MIGHTY#  suspicious, so we set a game up#  for him.
-* The ball was summoned and the#  stakes were high.
-* Suddenly he shouts “LOOK! IT'S#  A BIRD!” and we turn around#  QUICK.
-* Turns out there actually was a#  bird and it was sick.
-* BUT! 
-* In that moment, he STOLE our#  Orange Ball (limited edition)#  and ran!
-* By the time Rephil noticed,#  the fella was long gone.
-* Ohhh Rephil was PIPIN' mad!#  Understandably.
-* So that's about where we are#  now.
-* The whole thing has been a#  frickin' pain.
-* I'd be off searchin' with the#  boss but {0} gets lonely#  easily.
-* What's that classic saying? Oh#  yeah:
-* "A Shuffler never leaves a#  Shuffler behind."
-* That's like, rule 5.
-* The boss broke rule 5!
-* What the hell!
+* ¡Mira quién es!
+* No pensé que te vería de#  vuelta aquí antes#  que el jefe.
+* Se fuera por negocios...
+* Eso es todo...
+* Muy bien, lo diré, me has#  convencido.
+* Hay un tipo al que le gusta#  merodear por aquí. Puede#  que los hayas visto.
+* Síí, bueno, tenemos historia.
+* Cuando regresó, abrió una#  tienda. En NUESTRO#  territorio.
+* El jefe estaba ENFADADO.#  Realmente cabreado,#  ¿sabes?
+* Pero Rephil, como ciudadano#  que es, pensó que era#  mejor llegar a un acuerdo.
+* Si el tipo nos pagara una#  hipoteca, no lo#  echaríamos a la calle.
+* Suena justo, ¿verdad?
+* Bueno, su pequeña aventura#  no fue muy bien.
+* Su parte del trato no  la#  cumplió, así que Rephil hizo#  lo que había que hacer.
+* ...¿Qué? ¿No te gustan#  nuestros métodos?
+* Oye, no gastes dinero que no#  tienes. Es todo lo#  que digo.
+* Sí, sí, hay más en la#  historia.
+* El tipo aún nos debe#  mucho, ¿verdad?
+* Bueno, lo vigilamos durante un#  tiempo mientras probaba esas#  cosas de tienda pop-up.
+* Era tranquilo. Hasta#  hace poco...
+* Parecía tener prisa.#  Maletín lleno y tal.
+* El jefe sospechaba MUCHO,#  así que le preparamos#  un juego.
+* La pelota estaba convocada y#  había mucho en juego.
+* De repente grita "¡MIREN! ES#  UN PÁJARO!" y nos damos#  la vuelta RÁPIDAMENTE.
+* Resulta que en realidad#  había un pájaro y#  estaba enfermo.
+* ¡PERO! 
+* En ese momento, ¡ROBÓ#  nuestro Balón Naranja (edición#  limitada) y se fue corriendo!
+* Cuando Rephil se dio cuenta,#  el tipo ya se había ido.
+* ¡Ohhh Rephil estaba PIPIN#  'loco! Comprensiblemente.
+* Así que en eso estamos#  ahora.
+* Todo este asunto ha sido un#  maldito dolor.
+* Estaría fuera buscando con el#  jefe, pero {0} se siente#  solo con facilidad.
+* ¿Cuál es el dicho clásico?#  Ah, sí:
+* "Un Shuffler nunca deja#  atrás a otro Shuffler".
+* Eso es como la#  regla 5.
+* ¡El jefe rompió#  la regla 5!
+* ¡Qué demonios!
 is_caught
 tongue_parent
 jitter
@@ -18044,8 +18044,8 @@ x_normal
 * Creo que este elevador#  va hacia el Castillo.
 * Probablemente el#  último lugar a donde#  Ceroba huiría.
 * Sigamos buscando en el#  área por ahora.
-* Now Charles, I know you've had#  a long day but...
-* If the dishes in the sink#  aren't done, we can't eat#  dinner!
+* Charles, sé que has tenido#  un día muy largo, pero...
+* Si los platos del#  lavaplatos no están#  lavados, ¡no podemos cenar!
 * Ni se te ocurra calentar#  una cena de tele.
 * ¡No tienen los nutrientes#  que mi maridito necesita para#  estar grande y fuerte!
 * Oh por! Llevamos tanto tiempo#  discutiendo, que pasó la hora de#  cenar!
@@ -18684,7 +18684,7 @@ fadein_time
 * Saltaron hacia mí y#  ahora... ¿Supongo que#  somos amigos?	
 * ¿Es así como funciona?	
 * En cualquier caso, bien.
-* Si hay algún tesoro3  por ahí, puedes quedártelo.	
+* Si hay algún tesoro#  por ahí, puedes#  quedártelo.	
 * Creo que estas ranas#  funky son todo lo#  que necesito ahora.
 * Oh, y mi hermano, creo. Que está bien.
 * A veces, la felicidad es#  solo un par de amigos#  relajándose en una cueva.	
@@ -20047,11 +20047,11 @@ petal_dir
 * ¡Espero que lo pases#  maravillosamente-bien-feliz#  aquí!
 * ¡Ah, ja! ¡Oh si!#  Seguro que sí.
 * H-howwa.
-* Eswoy awquí wor low wowypops.
-* Dewspués de rewgistrarwme, el#  Dowc diwo que se we hawían#  acawado los wowypops awyer.
+* Eswoy awquí wor low pawlewtas.
+* Dewspués de rewgistrarwme, el#  Dowc diwo que se we hawían#  acawado los pawlewtas awyer.
 * Bummuh...
 * Al wenos tenwo eswa cama#  suwia pawa aniwarme.
-* ¿Sawes qué es mejor qwe los#  wowypops? Pops de chowcolate#  cawiente.
+* ¿Sawes qué es mejor qwe los#  pawlewtas? Pops de chowcolate#  cawiente.
 * Un wimpático wombre#  llamado Mo me regaló# uno un día.
 * Mownstohs como él werecen# un wran awrazo.
 * Me wregunto cuánto wardará#  el Dowc en warse cuenta we#  que no eswoy enferwo.
@@ -20689,7 +20689,7 @@ actor_ace
 * Eso es lo que he dicho.
 * No, lo pronunciaste con#  un sonido "UA"#  en lugar de "OO".
 * Jefe, ¿te has estado#  saltando la clase de#  Gramática Vaquera?
-* Dualidad, duelo, ¿a#  quién le importa?#  Tomate, patata, todo eso.
+* Dualidad, duelo, ¿a#  quién le importa?#  Tomate, papa, todo eso.
 * Tienen que dejar#  de interrumpirme tan#  seguido.
 * Altera mi zen fronterizo.
 * ¿Dónde estaba?
@@ -20828,7 +20828,7 @@ actor_train
 * ¡Yo diría que#  aprobaste, amigo!
 * Estaré en el lugar#  habitual para la#  tarea final.
 * Nos vemos por ahí.
-* ¡Hey! ¿Alguien nos#  va a desatar?
+* ¡Oigan! ¿Alguien nos#  va a desatar?
 * ¡Última llamada!
 * ¡Vengan aquí!
 * ¿Están todos listos?
@@ -21370,7 +21370,7 @@ bombs
 ceroba_x_dest
 ceroba_end_dir
 * Esto sí que es#  un problema.
-* No estoy seguro de que#  mis perdigones sirvan de#  algo en esta puerta.
+* No estoy seguro de que#  mis balas sirvan de#  algo en esta puerta.
 * ¿Quizás haya una llave#  en alguna parte? ¡Sé#  creativo, amigo!
 liquid_image_index
 liquid_amount
@@ -21406,7 +21406,7 @@ yy_needle
 attack_started
 attack_can_end
 block_successful
-* Hey Clover, vuelve aquí.#  Creo que lo#  resolví.
+* Oye Clover, vuelve aquí.#  Creo que lo#  resolví.
 * ¿Otro equipo? Estás#  perdiendo el tiempo,#  amigo.
 * Hasta ahora, estos#  monstruos solo te#  han traído desgracias.
 * Siento que seguir las#  órdenes de esa señora no#  acabará de otra manera.
@@ -22165,7 +22165,7 @@ Chujin
 * Pero si te importa saber más,#  él ama hablar sobre si mismo#  así que yo le preguntaría a él :]
 * Ah aperitivos... mi propósito :]#
 * ¡Te recomiendo mucho que los#  compres! ¡Todos están hechos con#  sustitutos de ingredientes naturales!
-* (Hey, Clover, No creo#  que estos... dos puedan#  ayudar. Tenemos que#  seguir.)
+* (Oye, Clover, No creo#  que estos... dos puedan#  ayudar. Tenemos que#  seguir.)
 * ¿Ayudar? ¿Ayudar en qué?
 * ¿Ayudar? ¿Ayudar en qué?#* < Podemos ser útiles. ¿Qué#  escondes? >
 * ¡Oh, no es nada! Mi#  um... hijo quería#  ver tu tienda.
@@ -22180,7 +22180,7 @@ box_sndfnt
 * El Sr. Fluffybuns es el brillante#  faro de nuestra nación!
 * Una de las principales razones#  por las que estamos tan#  cerca de romper la barrera#  y volver a la superficie.#
 * Una de las principales razones#  por las que estamos tan#  cerca de romper la barrera#  y volver a la superficie.               #* < ¡Sí, El es genial#  pegandole a los humanos! >
-* ¡Hey ahora! ASGORE lleva un gran#  peso en sus hombros, ya#  sabes. teniendo que lidiar con#  todas las cosas desagradables#  de recolectar ALMAs humanas#  no es un trabajo divertido.
+* ¡Oye ahora! ASGORE lleva un gran#  peso en sus hombros, ya#  sabes. teniendo que lidiar con#  todas las cosas desagradables#  de recolectar ALMAs humanas#  no es un trabajo divertido.
 * ¡Sin embargo#  lo maneja como un campeón!
 * ¡No podría elegir a alguien#  más para guiarnos a#  un futuro brillante!
 * ¡No podría elegir a alguien#  más para guiarnos a#  un futuro brillante!#* < Caray, si te gusta mucho,#  ¿porqué no te casas con él? >
@@ -22569,7 +22569,7 @@ Armor DF 20#* The things you can do with a college education! Raises ATTACK when
 bullet_distance_min
 bullet_attack_dir
 bullet_spin_dir
-* Hey, amigo.
+* Oye, amigo.
 * Heh, ¿qué haces con esta#  pequeña aliada?
 * Creo que ambos sabemos#  que este no es el#  camino al Castillo.
 * Lo sabes, ¿cierto?#  
@@ -22774,7 +22774,7 @@ actor_orion
 * Esperaba que él#  estuviera aquí, escondiéndose#  en su habitación o algo.
 * Ahora... no tengo idea.
 * ¿Quizás escapó? Su imperio#  acaba de derrumbarse debajo#  suyo.
-* ¿Pero dónde? El camino que tomó#  sólo lleva a la puerta de#  las Steamworks.
+* ¿Pero dónde? El camino que tomó#  sólo lleva a la puerta de#  Steamworks.
 * ¿Crees que él... saltó de la#  cerca
 * ¡No hay manera! ¡No puede#  hacer eso! ¡No hay nada#  allí abajo!
 * ¿Pero él ha sido de el tipo#  de apegarse a las reglas?#  Puede que hubiera...	
@@ -24060,59 +24060,59 @@ in_angle
 angle_range
 vsp_max
 child_number
-* (The leatherbound book's title#  reads: Martlet's Day to Day!)
-* (You flip to an early page and#  see an entry.)
-* Entry 3.
-* So far, living on my own has#  been BORING.
-* I don't know what to do with#  myself most of the time.
-* Sure, I have a TV but monsters#  don't exactly produce much#  content.
-* My mom says I “need a job” but#  more importantly, I need a#  hobby.
-* The guy who built my balcony#  seemed to enjoy what he was#  doing.
-* Maybe I'll ask him to teach me#  how to... 
-* I don't know, nail planks of#  wood to houses? 
-* It would be a start. UvU#
-* (You flip through a few#  pages.)
-* Entry 8.
-* I think this "tinkering" thing#  is for me.
-* I knew my B- in art class had#  a purpose!
-* And Mr. Chujin is SO NICE!
-* He gladly took my wings under#  his wing and now I'm making#  wooden blocks!
-* Sounds boring, but I'm working#  toward carving a buncha them...
-* ...to build one of those#  "wooden tower" games.
-* Chujin thought it would be a#  good beginner project! ^v^
-* (You flip through a few more#  pages.)
-* Entry 19.
-* I had a conversation with Mr.#  Chujin last night.
-* We're about to start making#  contraptions - like robotics!
-* Turns out, he specialized in#  engineering at the Steamworks.
-* He said he doesn't talk about#  his past job much out here.
-* Likes to keep things casual#  while helping out the#  townsfolk.
-* So I asked him why he's#  helping me like he is.
-* He said he has a daughter#  named “Kanako.”
-* “The world, as it is, is a#  dark place” he said. “A place#  unfit for a kid.”
-* He believes that small acts of#  kindness will lead to a better#  world.
-* Not only for him, or me, but#  for Kanako.
-* Sooo yeah! Got a little deep#  there, but I get it.
-* Him teaching me would, in#  theory, lead to me teaching#  someone else - etc, etc.
-* Sounds like he wants to leave#  a lasting legacy or something.
-* Guy's got big aspirations,#  that's for sure. 
-* Caaan't relate. =v=#
-* Entry 27.
-* Welp, I couldn't procrastinate#  any longer.
-* I had to... get a job. ;v;
-* Signed up for the Royal Guard.
-* I'm not one for combat but#  with my new skills, I could#  make a mighty fine puzzle!
-* Had to tell Chujin the good#  news so I brought it up while#  we were on break.
-* To my surprise, he wasn't#  happy.
-* Said the job was dangerous.
-* That humans themselves are#  dangerous.
-* I don't wanna believe what he#  told me but...
-* ...the look in his eyes was#  incredibly sincere.
-* So... yeah.
-* On the bright side, I can#  stave off my newfound paranoia,
-* Because I was assigned boring#  Lab duty.
-* Stand outside the Lab doors#  and keep watch. Fuuuuuuun. TvT#
-* (The following entry is ripped#  out.)
+* (El título del libro encuadernado#  en cuero dice:#  ¡Día a Día de Martlet!)
+* (Pasas a una página temprana#  y ves una entrada.)
+* Entrada 3.
+* Hasta ahora, vivir sola#  ha sido ABURRIDA.
+* No sé qué hacer con#  mi tiempo la mayor#  parte del tiempo.
+* Claro, tengo una televisión, pero#  los monstruos no producen#  precisamente mucho contenido.
+* Mi mamá dice que "necesito un#  trabajo", pero más importante,#  necesito un pasatiempo.
+* El tipo que construyó mi balcón#  parecía disfrutar lo#  que hacía.
+* Quizá le pida que me#  enseñe a... 
+* No sé, ¿clavar tablones de#  madera en las casas? 
+* Sería un comienzo. UvU
+* (Pasas unas cuantas#  páginas.)
+* Entrada 8.
+* Creo que esto de#  "trastear" es para mí.
+* ¡Sabía que mi B- en#  clase de arte tenía#  un propósito!
+* ¡Y el Sr. Chujin es#  TAN AMABLE!
+* Alegremente tomó mis alas bajo#  su protección y ahora estoy#  haciendo bloques de madera!
+* Suena aburrido, pero estoy#  trabajando para#  tallar un montón de eso...
+* ...para construir uno de#  esos juegos de#  "torres de madera".
+* ¡Chujin pensó que sería#  un buen proyecto#  para principiantes! ^v^
+* (Pasas unas cuantas#  páginas más.)
+* Entrada 19.
+* Tuve una conversación con#  el Sr. Chujin anoche.
+* Estamos a punto de empezar#  a hacer inventos, ¡como#  robótica!
+* Resulta que se especializó#  en ingeniería en#  Steamworks.
+* Dijo que no habla mucho de#  su trabajo pasado por aquí.
+* Le gusta mantener las cosas#  informales mientras ayuda a#  los habitantes del pueblo.
+* Entonces le pregunté por#  qué me está ayudando#  como lo hace.
+* Dijo que tiene una hija#  llamada "Kanako".
+* “El mundo, tal como es, es un#  lugar oscuro”, dijo. “Un lugar#  inapropiado para un niño”.
+* Cree que pequeños actos de#  amabilidad llevarán a un mundo#  mejor.
+* No solo para él, o para mí,#  sino para Kanako.
+* Así que sí! Se puso un#  poco profundo ahí,#  pero lo entiendo.
+* Él enseñándome llevaría, en#  teoría, a que yo enseñara#  a alguien más, etcétera.
+* Parece que quiere dejar un legado#  duradero o algo así.
+* El tipo tiene grandes aspiraciones,#  eso es seguro.
+* No puedo identificarme. =v=
+* Entrada 27.
+* Bueno, no pude procrastinar#  más.
+* Tuve que... conseguir un#  trabajo. ;v;
+* Me inscribí en la#  Guardia Real.
+* No soy fanático del combate, pero#  con mis nuevas habilidades, podría#  hacer un puzzle muy bueno!
+* Tuve que contarle la buena#  noticia a Chujin, así que lo mencioné#  mientras estábamos en el descanso.
+* Para mi sorpresa, no estaba#  contento.
+* Dijo que el trabajo#  era peligroso.
+* Que los propios humanos#  son peligrosos.
+* No quiero creer lo que#  me dijo, pero...
+* ...la mirada en sus ojos#  era increíblemente sincera.
+* Así que... sí.
+* En el lado positivo, puedo#  aliviar mi recién descubierta#  paranoia,
+* Porque me asignaron una#  aburrida tarea de#  laboratorio.
+* Pararse afuera de las puertas#  del laboratorio y vigilar.#  Divertido. TvT
+* (La siguiente entrada#  está arrancada fuera.)
 No nos dejaré#caer.
 Como si este día#no pudiera#empeorar.
 Por favor,#déjame bajar#ahora.
@@ -24472,13 +24472,13 @@ warning_angle_master
 warning_angle_speed
 warning_counter
 warning_multiplier
-* (You notice a sign in the#  receptionist office.)
-* Do not eat the writing#  utensils! Not again...
-* (You wonder what tragic event#  warranted this sign.)
-* (A familiar display.)
-* (The receptionist is#  unreceptive.)
-* (They seemed to be in the#  middle of creating a new#  Steamworks ID.)
-* (Finish their work?)
+* (Observas un cartel en la#  oficina de recepción.)
+* ¡No te comas los utensilios#  para escribir! Otra#  vez no...
+* (Te preguntas qué trágico#  suceso justificó#  esta señal.)
+* (Una pantalla familiar.)
+* (La recepcionista es#  poco receptiva.)
+* (Parecían estar en medio#  de la creación de un#  nuevo ID de Steamworks.)
+* (¿Terminar su trabajo?)
 explosion_count
 explosion_max
 explosion_alarm
@@ -24877,11 +24877,11 @@ sí, llámanos#cuando lo#desees.
 incluso para#pasar el rato#o algo así.
 o no, no#hay nada#que hacer.
 arm2
-* WAS IT YOU WHO DISTURBED THE#  FLOR-A? ?
-* I ASK YOU TO PLEASE HAVE MORE#  _RESPECT.
-* BU-T DO NOT WORRY. _
-* SEEING T;HAT YOU ARE SO#  Y-Y-OUNG, IT IS FORGI>ABLE.
-* I WILL REPORT THE_INCIDENT AS#  A LEVEL 3-03--__4LLEE
+* ¿FUISTE TU QUIÉN PERTURBÓ EL#  PISO-A? ?
+* TE PIDO POR FAVOR QUE TENGAS#  MÁS _RESPETO.
+* PER-O NO TE#  PREOCUPES. _
+* VIENDO QUE E;ES TAN#  J-J-OVEN, ES PER>ONABLE.
+* INFORMARE DEL_INCIDENTE COMO#  DE 3-03--__4LLEE
 no_loop_animation
 draw_white_overlay
 draw_left
@@ -25111,7 +25111,7 @@ Tal vez...
 Necesito alertar#a los otros#guardias...
 ¡Por favor,#quédate aquí!
 Huff... huff...
-Realmente no me di#cuenta de que#estabas luchando#contra mí#hasta este#momento.
+Realmente no me di#cuenta de que estabas#luchando contra mí#hasta este momento.
 Quizás... ¿Te molesté?
 Me disculpo#profundamente#si...
 Me han dado una#buena paliza,#¿eh?
@@ -25133,31 +25133,31 @@ A todos.
 obj_quote_defeat_ext_2
 MISS
 sound_play_noloop
-* ThIS D_OR iS SEALED SO.. .
-* LeAVE US Al0NE, PLeASE.
-* I KN0W W_WHY YOU ARE heRE.
-* BuT I CAN EXP;;LAIN.
-* TRY ALL yOU LIKE BUT tHE#  STEAMWORKS... .
-* ALL oF US.
-* WE ARe SURVIV0RS.
-* BRuTE FoRCE_WON'T S0LVE#  ANyTHING.
-* He's gone.
-* So what's the plan now?
-* This door's beyond my#  abilities so don't look#  at me.
-* Already checked it.
-* The factory wing,#  right?
-* Yeah. Place has more#  locks than a hair salon.
+* EsTA P_ERTA esT4 SELLADA#  ASÍ QUE...
+* D3jANOS S0lOS, POr fAVOR.
+* S3 P_PORQUE ESTÁS aqUÍ.
+* PerO PUEDO EXP;;LICAR.
+* INTENTA LO qUE QUIERAS#  PERo STEAMWORKS... .
+* TODOS nOSOTROS.
+* SOMOs SUPERVIV1ENTES.
+* LA FUeRZA BRuTA NO#  S0LUCIONARÁ NAdA.
+* Se fue.
+* ¿Cuál es el plan entonces?
+* Esta puerta está más#  allá de mis habilidades#  así que no me mires.
+* Ya lo comprobé.
+* El ala de la fábrica,#  ¿Cierto?
+* Seh. Este lugar tiene#  más candados que un#  cerrajero.
 * Ok veamos...
-* It's called "humor."#  Don't suppose you've#  heard of it.
-* (Geez, and I thought I#  was soulless.)
-* Well, there's certainly#  a lot of junk lying#  around.
-* I know you're on a#  strict "shoot don't#  think" regiment but...
-* For once, you're gonna#  have to get creative.
-* Shocking. Distressing,#  even. I know.
-* But I've seen you work#  your brain before so... 
-* Give it a shot.
-* Get to it!
-* Gotta go!
+* Es llamado "humor."#  Supongo que no has#  oído hablar de él.
+* (Rayos, y pensaba que#  yo era el desalmado.)
+* Bueno, ciertamente hay#  un montón de basura#  tirada por ahí.
+* Sé que estás en el#  estricto régime de#  "dispara, no pienses" pero...
+* Por esta vez, tendrás#  que ser creativo.
+* Sorprende. Inquietante,#  incluso. Lo sé.
+* Pero he visto a tu#  cerebro funcionar antes#  así que...
+* Dale un intento.
+* ¡A por ello!
+* ¡Debo irme!
 check_sound
 obj_dialogue_battle_action_selected_action_4
 obj_dialogue_battle_action_selected_action_5
@@ -25212,9 +25212,9 @@ rm_black_screen_cutscene
 * Consultar
 flower_count
 * (Are you sure you want to#  drink the acid?)
-Hum-DEE-DUM#dE-DUMM!!
-ToGther we#are Strong!!!
-Want a sip of#my Mop Water?#It's FReshly#MaDe!! 
+¡¡Hum-DEE-DUM#dE-DUMM!!
+*¡¡¡JuNts somos#Fuertes!!!
+¿Quieres un trago#de mi Agua de#Trapeador?#¡¡ReCIén HeCha!!
 dir_noloop
 PÁGINA 1
 PÁGINA 2
@@ -25471,16 +25471,16 @@ axis_shield_pulse_alpha
 axis_shield_pulse_alpha_inc
 battery_level_target
 actor_flowey
-* Golly, ain't this#  dandy?	
-* Everyone you met just#  abandoned you for their#  own interests.
-* Those aren't real#  friends, no way.
-* I'm here for you#  though! Always will be!
-* Now... let's get outta#  here.
-* I'm not too sure how to#  open this door.
-* Hold on.
+* Caramba, ¿no es genial?
+* Todos los que conociste#  te abandonaron por sus#  propios intereses.
+* Esos no son amigos de#  verdad, de#  ninguna manera.
+* ¡Estoy aquí para ti!#  Siempre lo estaré.
+* Ahora... salgamos de#  aquí.
+* No estoy muy seguro#  de cómo abrir#  esta puerta.
+* Espera.
 number_pad
-* That's one way of#  opening it!
-* We can finally leave#  this wasteland behind!
+* ¡Esa es una forma de#  abrirla!
+* ¡Por fin podremos#  dejar atrás este#  páramo!
 move_delay
 R I B B I T#P R E O C U P A D O
 E . . .#
@@ -25508,17 +25508,17 @@ H O R A#D E#R E C O G I D A .
 * Si hay un tipo de "caja#  de fusibles" de todos#  los robots del área..
 * ¡Podemos apagar a Axis#  e ir a Hotland como#  planeamos!
 * Vale la pena intentarlo,#  al menos. ¡Vamos!
-* ST4Y pUT, OK?
-* YoUR'E s-SAFE.
+* QUÉD4T3 aHÍ,#¿OK?
+* EsTÁS a SALVO.
 lightning_last
-* Howdy again!
-* Golly, this area sure#  is grim!
-* Doesn't look like#  anyone's been around for#  years.
-* This machine looks#  mighty important though!
-* Snoop around and see#  what you can find!
-* Talk to you soon!
-EW!!! Soap???? 
-No!!#You diSGuST ME!#Get away!!
+* ¡Buenas de nuevo!
+* ¡Caramba, esta zona sí#  que es deprimente!
+* No parece que nadie haya#  estado por aquí#  desde hace años.
+* ¡Pero esta máquina#  parece muy importante!
+* Fisgonea a ver qué#  encuentras.
+* ¡Hasta pronto!
+¡¡EW!!!#¿¿¿¿JABÓN???? 
+¡¡No!!#¡¡Me eSTás#moLESTANdo!!¡¡Aléjate!!
 wdirection
 ribbon_1
 ribbon_2
@@ -25558,19 +25558,19 @@ dir_wiggle
 gml_Script_shoot_fail_gml_Object_obj_wild_revolver_circle_multi_pre_Step_0
 Mustard
 * Best kept in a liquid or solid#  state of matter.
-My SHIELD iS#IMPERVI0US TO#YOuR BULL3TS.
-SO yOU_SHOULD#G1VE uP.
-AND AnYWAY, ,,
-AS I SAID#bEF0RE..
-I CAN eXAPLAIN#EV3RYTHING to#YOU.
-Y0U SEE, I DO#nOT HAvE THE#FrE3DOMS YoU#HAVE.
-MY PR0GRAMMING.#..
-I H4D no_CHOICE.
-I WAS FORCED#TO NEUTRALIZE#THAT HUMAN.
-W-WAIT.
-WHAT'S GOING ON?
-HOLD ON. PLEASE.
-I DIDN'T WANT TO   
+Mi ESCUDO eS#INMUN3 A TuS#BAL4S.
+ASÍ qUE_DEBERÍAS#R3NDIrTE.
+Y DE ToDOS MODOS, ,,
+COMO DIJE#aNT3S..
+PUEDO#eXEPLICARTE#T0DO
+S4BES, NO#tENGO lAS#LiBERT4DES QUE#tU TIENES.
+MI PR0GRAMACIÓN.#..
+no TUV3_ELECCIÓN.
+FUI FORZADO A#NEUTRALIZAR#ESE HUMANO.
+E-ESPERA.
+¿QUÉ OCURRE?
+ESPERA. POR FAVOR.  
+NO QUERÍA
 * Este tiene que ser el mejor#  restaurante del Subsuelo.#  En serio.
 * No se puede superar la comida,#  el servicio, la atmósfera...
 * Pero hay algo que siempre me#  ha hecho dudar...
