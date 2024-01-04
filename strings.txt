@@ -4153,7 +4153,7 @@ enemy_low_hp_3
 #* Manteniendome Firme.
 #* Atolondrada.
 * DUNEBUD -- ATQ 
-#* Cuestionandome.
+#* Cuestionándome.
 #* Buscando algo de diversión.
 * CACTONY -- ATQ 
 #* Carece de cariño físico.
@@ -10016,20 +10016,20 @@ attack_delay
 attackmax_repeat
 attack_list
 old_value
-* Uh ! Uh ! What a s-s-sound !
-* You hearing this, human ?
-* Odd, a bit short, but#  endearing .
-* Kinda like you !
-* Life wouldn't be the same#  without m-m-music !
-* What's your favorite kind of#  music, huh ?
-* Our listeners would love to#  kn-o-o-ow !
-* [ANSWER HERE]
-* Oh ! That's one of my#  favorites t-t-too !
-* Oh, yes, I forgot to mention#  that we are L-I-V-E live right#  now !
-* We have a lovely audience#  tonight !
-* Say "hi", audience ! !
-* Must be a w-w-weak signal ? ?
-* You're listening to G-G-GOOSIC#  RADIO 108.1 - spinning 24/7 ! !
+* ¡ Oh ! ¡Oh! ¡ Qué#  s-s-sonido ! 
+* ¿ Escuchas esto, humano ?
+* Extraño, algo corto, pero#  adorable.
+* ¡ Algo como tú !
+* ¡ La vida no sería lo#  mismo sin m-m-música ! 
+* ¿ Cúal es tu tipo favorito#  de música, eh ?
+* ¡ Nuestros oyentes amarían#  sa-a-a-ber !
+* [RESPUESTA AQUÍ]
+* ¡ Oh ! ¡ Esa también es#  una de mis fa-a-avoritas !
+* ¡ Oh, sí, olvidé mencionar#  de que estamos en V-I-V-O#  ahora mismo !
+* ¡Esta noche tenemos un gran#  público !
+* ¡ ¡ Di "hola", público ! !
+* ¿ ¿ Debe ser una señal#  d-d-débil ? ? ?
+* Estás escuchando RADIO G-G-GOOSIC#  108.1 - girando 24/7 !  !
 is_active
 arrow_dir
 turn_angle_target
@@ -10332,7 +10332,7 @@ Por qué...
 ¿¡Por qué!?
 ¡Si no lo#logro, se acabó!
 ¡¡Muere!!
-¡¡¡Solo muere!!!
+¡¡¡Sólo muere!!!
 ¡¡¡¡¡MUERE!!!!!
 letter_array
 letter_current
@@ -10355,7 +10355,7 @@ draw_text_ext
 * Aparentemente no sabe#  nada bien, lo que es#  realmente una pena.
 * Te dejaría probar un poco#  de esto pero, es como#  súper nocivo para no-bots.
 * ¿Cómo sé eso? No lo sé.
-* Solo quiero disuadirte de#  drenar mi dulce dulce lago.
+* Sólo quiero disuadirte de#  drenar mi dulce dulce lago.
 * (Slurp slurrrp)
 time
 u_time
@@ -10797,9 +10797,9 @@ Hydrogen [H]
 compound_id
 * The lightest and most#  prevalent element in the#  universe.
 shaky_text
-* I'm famished.	
-* 'Boutta yomp on some rocks!
-* I hope they don't dock pay for#  eating the workplace...
+* Estoy hambriento.
+* ¡Hora de engullir algunas rocas!
+* Espero que no descuenten el#  sueldo por comer el lugar#  de trabajo...
 soul_particles_ps
 pt_ef_soul_particles
 pe_ef_soul_particles
@@ -10864,24 +10864,24 @@ text_alpha
 white_text
 text_x_final
 text_y_final
-* Hum-dee-dum!
-* A few more days of scrubbing#  and this inch of the bridge#  will be spotless!!
-* No offense, but you look like#  you could use a cleaning!
-* Golly gee! If I weren't on#  duty, I'd help!
-* What to do? What to do?
-* Say... mosey on back to the#  generator complex!
-* You can toss yourself into one#  of the washing#  machines!!!
-* (Note: You should not toss#  yourself in a washing machine.)
-* You want a sip of my mop#  water???
-* I know you do!!
-* Drink up!! DriNk UP!!!
-* I know I usually let you#  handle imminent threats#  but...
-* ...You really looked#  cornered back there!
-* My friendliness pellets#  sure come in handy in#  tight spots!
-* Anyway, you must be#  totally out of breath#  after that.
-* You should take it easy#  for a while, pal!
-* Grab a snack, hydrate,#  won't bother me!
-* Need to be in tip-top#  shape for what's coming!
+* ¡Hum-dee-dum!
+* ¡¡Un par de días más de fregado#  y esta pulgada del puente#  estará impecable!!
+* Sin ofender, pero te ves como#  si pudieras estar un poco#   más limpio!
+* ¡Caray! Ni no estuviera#  trabajando, ¡Te#  ayudaría!
+* ¿Qué hago? ¿Qué hago?
+* Quizás... ¡Deambular por el#  complejo del generador!
+* ¡¡¡Puedes lanzarte dentro de#  una de las lavadoras!!!
+* (Nota: No deberías lanzarte#  dentro de una de las#  lavadoras.)
+* ¿¿¿Quieres un trago de#  mi agua de trapeador???
+* ¡¡Sé que lo haces!!
+* ¡¡Bebe!! ¡¡¡BeBE!!!
+* Sé que normalmente te#  dejo manejar amenazas#  inminentes pero...
+* ...¡Realmente de veías#  acorralado allí! 
+* ¡Mis pétalos de la amistad#  seguro vendrían bien#  en estas situaciones!
+* Como sea, debes estar#  totalmente sin aliento#  luego de eso.
+* ¡Deberías tomarte las#  cosas con calma por un rato,#  amigo! 
+* ¡Toma un refrigerio,#  hidrátate, ¡No me#  molestará!
+* ¡Debes estar en tu#  mejor forma para lo que#  viene!
 * ¿Puedo ser honesto contigo?
 * Voy a ser honesto contigo.
 * Lo entiendo. Destruir#  por ahí, lleno de ira,#  aburrimiento...*
@@ -12247,7 +12247,7 @@ spawn_pos
 spawn_pos_last
 double_pillar_noloop
 battle_box_third
-* Sorry kid, I ain't got time to#  chat right now...
+* Lo siento niño, no tengo tiempo#  para hablar ahora mismo...
 box_overlay_alpha
 can_charge
 Fight
@@ -13425,27 +13425,27 @@ T10 Quote Ed
 * ...¿Por qué esa mirada?
 * Tengo pareja.#  ¿¿¿Súperame???
 * (El ascensor está en uso.)
-D-DOn'T HATE#ON MY m/MusIC#TASTES_
-BiT OF A#H-H-HARSH nOISE#COMPLAINT/ /
-KEEP UP !#KEEP UP !
-IF YOU CAN'T#V-VIBE TO IT,#GIVE IT U-U-UP !
-Okay, yeah !#I see you !
-Oh, now THIS#is groovy !
-WHAT'S THAT ?#MORE VOLUME ?
-D-D-DISRESPECTFUL !
-Come o-on,#relax a#l-l-little .
-N-No need to#be bashful,#buddy .
-HEY W-W-what#is... this ?
-WAIT !#I... Oh ?
-Don't k-kill#the mood :)
-I like#th-this one :)
-This is#n-nice :)
-Mhm,#yeah :)
-bzt- YOU'RE#LISTENING TO#D-E-A-T-H#RADIO-O-o !
-TH-TH-THIS ONE#GOES OUT TO ALL#THE HUMANS#OUT THERE !
-LOUDER !#LOUDER !#LOUDER !
-I'M G-GIVING AWAY#ONE FREE TICKET#TO THE A-A-AFTERLIFE !
-bzt- AND NOW A WORD#FROM OUR SPONSOR:#BULLET-PATTERNS ! 
+N-nO ODIES#MIS GUSTOS#m/MusICALES_
+AlgO D-D-DURA#LA QUEJA#DE sONIDO/ /
+¡ VAMOS !#¡ VAMOS !
+¡SI NO PUEDES#B-BAILARLO,#RÍNDE-E-E-TE !
+¡ Ok, seh !#¡ Te veo luego !
+¡Oh, ahora#ESTO es genial !
+¿ QUÉ ES ESO ?#¿ MÁS VOLUMEN ?
+¡I-I-IRRESPUTOSO !
+Va-a-mos,#relájate un#p-p-poco.
+N-No tienes que#ser tímido,#amigo -
+HEY Q-Q-qué#es... esto ?
+¡ ESPERA !#Yo... ¿ Oh ?
+NO a-arruines#el humor :)
+Me gusta#e-esta :)
+Esto está#b-bien :)
+Mhm,#seh :)
+bzt- ¡ESTÁS#ESCUCHANDO LA#RARDIO-O-o#M-U-E-R-T-E !
+¡ E-E-ESTA VA PARA#TODOS LOS#HUMANOS#ALLÍ FUERA !
+¡ MÁS FUERTE !#¡ MÁS FUERTE !#¡ MÁS FUERTE !#
+¡ ESTOY D-DANDO#UN BOLETO GRATIS#AL U-U-ULTRATUMBA !
+bzt- ¡ Y AHORA UNA#PALABRA DE NUESTRO#PATROCINADOR:#PATRONES DE ATAQUE !
 effect_counter
 spacing_h
 spacing_v
@@ -14742,11 +14742,11 @@ speed_target
 ¡Odio las#repeticiones!
 ¡Hoy en día#reinician#cualquier#cosa!
 ¡Dame algo#nuevo!
-* YOu.. . ARE LeTTING ME#  GO?
-* UH. WEIRD DeCISION.
-* JuST SO YOU KNoW.. .
+* ¿mE.. . ME DeJAS IR?
+* EH. EXTRAÑA DeCISIóN.
+* SóLO PARA QUE SEPaS.. .
 * Y0U STILL [freaking]#  SUCK.
-* FEEL FREE TO TRIP aND#  FALL TO YOuR DEATH ON#  THE WaY OUT.
+* SIÉNTETE LIBRE dE#  CAER HAcIA TU MUERTE#  MIENTRAS TE VaS.
 ring_sound
 pellet_spawn_noloop
 alt_bullet_speed
@@ -15271,7 +15271,7 @@ roof_foreground
 roof_base
 roof_foreground_destroyed
 roof_base_destroyed
-* Pretty easy when#  there's so few left.
+* Es sencillo cuando#  quedan tan pocos.
 part_axis_bg_em
 part_type_colour3
 part_axis_bg_dark
