@@ -14639,7 +14639,7 @@ song_pos
 * ¡Y no pienso que termine pronto!
 * Por supuesto, no puede durar#  para siempre.
 * Después de tomar tu ALMA,#  mataré a ASGORE.
-* ¡Absorveré a todos esos pobres#  niños que no pudiste salvar!
+* ¡Absorberé a todos esos pobres#  niños que no pudiste salvar!
 * Entonces y solo entonces, me#  convertiré en DIOS.
 * Pero por ahora... esto es solo#  el comienzo. 
 * Así que por favor, resiste.
@@ -25300,34 +25300,34 @@ Check 3
 * Por ahora, sin embargo,#  tengo que continuar con esto.	
 * Sé lo que es estar al fondo#  y sin esperanzas.	
 * Esto... aunque es increíblemente#  frustrante...	
-* This act has gotten me the#  closest I've ever been to my#  goal.	
-* It's the first time I've felt#  like I've made true progress.	
-* Sure I could try rigging a new#  puzzle...	
-* Drag you into another#  alternate path...	
-* But even I don't have the#  patience for that.	
-* I know deep down that my plan#  WILL work out.	
-* What I don't know is whether#  that plan involves you in the#  end.	
-* ...Alive, that is.	
-* But I've blabbered on enough.	
-* It's time for me to fake a#  smile through another#  excruciating journey.	
-* Don't mess it up again.
+* Este acto me ha llevado lo#  más cerca a mi meta hasta#  ahora.	
+* Es la primera vez que siento#  que he hecho verdadero progreso.	
+* Claro, puedo intentar arreglar#  otro puzzle...	
+* Arrastrarte a un camino#  alternativo...	
+* Pero incluso yo no tengo la#  paciencia para eso.	
+* En lo profundo de mi sé que#  mi plan VA a funcionar.	
+* Lo que no sé es si mi plan#  te involucre al final.	
+* ...Vivo, eso es.	
+* Pero he balbuceado demasiado.	
+* Es mi hora de fingir mi#  sonrisa a través de otro#  viaje emocionante.	
+* No lo arruines de nuevo.
 * Hablando de un "callejón#  sin salida".
 * Eso no es gracioso.
 * Nada de esto lo es.
 * No debería estar aquí.#  Otra vez no.
-* I mean, come on...
-* Don't I have anything better#  to do?
-* You know? It's strange.
-* Something's off here.
-* We're alone in my mind right#  now.
-* It's clear that we're alone,#  right?
-* Then why I can't shake it...
-* In moments like this where all#  is quiet... that's when I feel#  it.
-* Only since you showed up has#  it been this way.
-* I have to reset again.
-* I have to reset until I find#  the right path.
-* Until you make the right#  choices.
-* Until it...
+* Es que, por favor...
+* ¿No tengo algo mejor que#  hacer?
+* ¿Sabes? Es extraño.
+* Algo no cuadra aquí.
+* Estamos solos en mi mente#  en este momento.
+* Está claro que estamos solos,#  ¿cierto?
+* Entonces por qué no lo#  entiendo...
+* En momentos como este donde#  todo es silencio... ahí es#  cuando lo siento.
+* Solo desde que llegaste ha#  sido de esa forma.
+* Tengo que resetear de nuevo.
+* Tengo que resetear hasta#  encontrar el camino correcto.
+* Hasta que hagas las decisiones#  correctas.
+* Hasta ese entonces...
 * Okei, okei, te dejaré ir.
 * Tengo que practicar mi#  monólogo de introducción.
 * ¡Prepárate antes de la gran#  caída!
