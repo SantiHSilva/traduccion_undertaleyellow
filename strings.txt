@@ -1877,14 +1877,14 @@ H. Acid
 * (Carglas el Flint#  en tu pistola.)
 * (¡Se puede iniciar un#   incendio con este!)
 * (Lames el glaseado de#  la esponja.)
-* (Tú boca se siente limpiesita!)
-* (Tomas valor y bebes el#  Honeydew Coffee hirviente.)
+* (¡Tu boca se siente limpiesita!)
+* (Tomas valor y bebes el#  Café Honeydew hirviente.)
 * (Sientes que tus papilas#  gustativas se queman.)
-* (Tomas un sorbo de la#  adult soda.)
+* (Tomas un sorbo de la soda de#  adulto.)
 * (...)
 * (Sabe a agua.)
 * (Comes el pancake.)
-* (¡El jarabe es múy dulce!)
+* (¡El jarabe es muy dulce!)
 * (Comes la galleta.)
 * (Sientes como si te mirara#  mientras la comes.)
 * (Comes el Hot Chocolate Pop.)
@@ -1929,16 +1929,16 @@ H. Acid
 * (Delicious!)
 * (You enjoy the Floral#  Cupcake.)
 * (What a rich flavor!)
-* (You eat the Monster Candy.)
-* (The taste is faintly#  familiar...)
+* (Comes el Caramelo Monstruo.)
+* (El sabor es ligeramente#  familiar...)
 * (You pop the Monster Candy+ in#  your mouth.)
 * (The overwhelming sweetness is#  at war with your taste buds.)
-* (You savor the C-B Strudel.)
-* (The taste is strangely#  familiar...)
-* (You scarf down the 'dog.)
-* (Mmm, hits the spot!)
-* (You nervously drink the Corn#  Chowder.)
-* (...Could've been worse.)
+* (Saboreas el C-B Strudel.)
+* (El sabor es extrañamente#  familiar...)
+* (Te sampas el perro caliente.)
+* (Mmm, ¡justo en el punto!)
+* (Bebes nerviosamente la Sopa#  de Maíz.)
+* (...podía ser peor.)
 * (Equipaste#  
 .)
 * (Equipaste 
@@ -2012,12 +2012,12 @@ info
 * "Balas de goma" - Arma AT 0#* (Pequeñas, seguras, no-tóxicas#  balas de goma.)
 * "Pastel esponjoso" - Cura 14 HP
 * (Un bizcocho delicioso que no raya.#  ¡Tiene el doble de# absorción!)
-*"Café Hndw" - Cura 14 HP#* (¡Requiere gran valentia poder#  beber algo así de caliente!)
+*"Café Hndw" - Cura 14 HP#* (¡Requiere gran valentía poder#  beber algo así de caliente!)
 * "Panqueue Hndw" - Cura 16 HP #* (Un panqueque listo para comer#  con almíbar de miel.)
 * "G.B. Oso" - Cura 20 HP#* (Una galleta hecha para#  verse como el rostro de alguien.)
 * (¡Que creativa y original#  idea!)
-* "Caliente Pop" - Cura 14 HP#* (Chocolate bien caliente, enfriado y#  luego recalentado.)
-* "Tibio Pop" - Cura 8 HP#* (Chocolate bien caliente enfriado hasta# estar tibio.)
+* "Caliente Pop" - Cura 14 HP#* (Chocolate caliente, enfriado y#  luego recalentado.)
+* "Tibio Pop" - Cura 8 HP#* (Chocolate caliente enfriado hasta# estar tibio.)
 * "Congelado Pop" - Cura 12 HP#* (Chocolate calentado, enfriado#  y luego congelado.)
 * "Café G." - (Reduce el peso#  de tu alma, da un aumento#  de velocidad por 3 turnos.)
 * (Una bebida deliciosa, mitad#  metal de transición.)
@@ -2046,7 +2046,7 @@ info
  "Guiso de Flores" - Cura 20 HP"#* (Una taza de caldo aromático#  con guarnición floral.)
  "Granola Gravedad" - Cura 30 HP"#* ("¡El sabor es de#  otro mundo!" ...Uh huh.) 
  "H2O" - Cura 20 HP"#* (Líquido químico.)
- "Chips Popato" - Cura 13HP"#* (Chips popato de siempre.)
+ "Chips Popato" - Cura 13HP"#* (Chips Popato de siempre.)
  "Carne seca" - Cura 16 HP"#* (Delicia de#  una tienda común.)
  "Pastel" - Cura 30 HP"#* (Un pastel de limón#  con cerezas arriba.)
  "Magdalena Floral" - Cura 50 HP"
@@ -2055,7 +2055,7 @@ info
  "Caramelo Monstruo" - Cura 10 HP"
 * (El dulce olor a caramelo#  sale por el envoltorio.)
  "Caramelo Monstruo+" - Cura 15 HP"#* (Una delicia saborizada#  doblemente con azúcar.)
- "Strudel C-B" - Cura 30 HP"#* (Hecho com canela fresca#  y caramelo.)
+ "Strudel C-B" - Cura 30 HP"#* (Hecho con canela fresca#  y caramelo.)
  "Sopa de Maíz" - Cura 15 HP"#* (Restos de hace semanas#  del refri de Ceroba.)
  "Feisty Slider" - Cura 30 HP"
 * (¡Una pequeña hamburguesa#  con gran sabor! ¡A solo#  30 de oro en la Taberna!)
@@ -5966,19 +5966,19 @@ item_number
 item_sound
 con_keep_previous
 con_message_number
-* (You eat the 
+* (Comes el 
 * (You scarf down the 
-* (You drink the Latte...)
-* (...HP fully restored.)
-* (Overall... Not bad.)
+* (Bebes el Latte...)
+* (...HP recuperados totalmente.)
+* (En general... nada mal.)
 protection
 restore
-* (You scarf down the 'dog.)#  (Mmm, hits the spot!)
+* (Te sampas el perro caliente.)#  (Mmm, ¡el punto justo!)
 equip
 weapon
 armor
 ammo
-* (Your gun now smells#  delightful.)
+* (Tu arma ahora huele#  delicioso.)
 * (You stick the 
  into#  your hat.)
 accessory
@@ -5991,12 +5991,12 @@ message_add
 cmsgn
 * (¡Recuperaste 
  PV!)
-* (Your HP was maxed out.)
-* (You gained 
+* (Tus PV se llenaron.)
+* (¡Recuperaste 
  PP!)
-* (Your PP was maxed out.)
+* (Tus PP se llenaron.)
  SP!)
-* (Your SP was maxed out.)
+* (Tu SP se llenó.)
  turns!
 * (Your RP was maxed out.)
 gml_Script_scr_item_use_text_yellow
@@ -10332,7 +10332,7 @@ Por qué...
 ¿¡Por qué!?
 ¡Si no lo#logro, se acabó!
 ¡¡Muere!!
-¡¡¡Sólo muere!!!
+¡¡¡Solo muere!!!
 ¡¡¡¡¡MUERE!!!!!
 letter_array
 letter_current
@@ -12886,11 +12886,11 @@ Nuestra pequeña niña... Kanako...#  Ella necesita vivir una vida#  feliz, no a
      Ese es mi último deseo.
 * ¿¡Kanako!?
 * ¿¡Qué haces aquí abajo!?
-* ¿Es... Es verdad?
+* ¿Es... es verdad?
 * ¿Soy... diferente?
 * Kanako yo...
 * Papi dijo que habría#  vivido por mucho tiempo#  si yo no estuviera aquí.
-* Él todavia... estaría...
+* Él todavía... estaría...
 * ¡No, no!
 * ¡Tu padre te amaba!
 * Y no quería ponerte#  en ningún peligro.
@@ -12911,7 +12911,7 @@ Nuestra pequeña niña... Kanako...#  Ella necesita vivir una vida#  feliz, no a
 * ...Negando la necesidad#  de alguien puro de#  corazón. Sí.
 * ¡Así que lo hiciste!
 * El deseo de papi se haría#  realidad, ¿cierto?
-* ¡Lo haríamos sonreir!#  ¡Estaría orgulloso de#  nosotras! 
+* ¡Lo haríamos sonreír!#  ¡Estaría orgulloso de#  nosotras! 
 * Él no quería que tú#  fueras parte de esto.#  Y estoy de acuerdo.
 * ¡Déjame hacerlo!
 * Quiero hacer lo correcto.#  Ser útil por una vez.
