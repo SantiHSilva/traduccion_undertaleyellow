@@ -4000,7 +4000,7 @@ goosic b
 * Partir
 * Hervir
 * Refrigerar
-* Brace
+* Asegurar
 * Plan B
 * Frog
 * Recolectar
@@ -22447,123 +22447,123 @@ text_separation_overworld
 obj_dialogue_box_overworld
 text_vdisjoint_overworld_normal
 text_hdisjoint_overworld_normal
-Cura 10 HP#* Has a distinct,#  non-licorice flavor.
+Cura 10 PV#* Tiene un sabor,#  distinto al regaliz.
 Croquet Roll
-Cura 15 HP#* Fried dough traditionally served with a mallet.
+Cura 15 PV#* Masa frita servida#  tradicionalmente con un mazo.
 Stick
-Weapon AT 0#* Its bark is worse than#  its bite.
+Arma AT 0#* Ladra más de lo#  que muerde.
 Bandage
-Cura 10 HP#* It has already been used several times.
+Cura 10 PV#* Ya se ha usado#  varias veces.
 Rock Candy
-Cura 1 HP#* Here is a recipe to make this at home: 1. Find a rock
+Cura 1 PV#* Aquí hay una receta para hacerlo#  en casa: 1. Encuentra una roca
 Pumpkin Rings
-Cura 8 HP#* A small pumpkin cooked like onion rings.
-Cura 12 HP#* A donut made with Spider Cider in the batter.
+Cura 8 PV#* Una calabaza pequeña cocinada#  como anillos de cebolla.
+Cura 12 PV#* Una dona con cidra#  de araña en la masa
 Stoic Onion
-Cura 5 HP#* Even eating it raw, the tears just won't come.
+Cura 5 PV#* Incluso comiendolo crudo,#  Las lagrimas no salen.
 Ghost Fruit
-Cura 16 HP#* If eaten, it will never pass to the other side.
+Cura 16 PV#* Si se come, nunca#  pasará al otro lado.
 Spider Cider
-Cura 24 HP#* Made with whole spiders, not just the juice.
+Cura 24 PV#* Hecho con arañas,#  no solo el jugo.
 Butterscotch Pie
-All HP#* Butterscotch-cinnamon pie, one slice.
+Cura todos los PV#* Una porcion de tarta#  de caramelo con canela.
 Faded Ribbon
-Armor DF 3#* If you're cuter, monsters won't hit you as hard.
-Weapon AT 3#* Made of plastic. A rarity nowadays.
+Armadura DF 3#* Si eres guapo,#  no te pegarán tan fuerte.
+Arma AT 3#* Hecha de plastico.#  Una rareza en estos días.
 Tough Glove
-Weapon AT 5#* A worn pink leather glove. For five-fingered folk.
+Arma AT 5#* Un guante de cuero rosa#  desgastado. Para gente de 5 dedos.
 Manly Bandanna
-Armor DF 7#* It has seen some wear. It has abs drawn on it.
+Armadura DF 7#* Se ha desgastado un poco.#  Tiene abdominales dibujados.
 Snowman Piece
-Cura 45 HP#* Please take this to the ends of the earth.
+Cura 45 PV#* Por favor, lleva esto a#  los confines de la tierra.
 Nice Cream
-Cura 15 HP#* Instead of a joke, the wrapper says something nice.
+Cura 15 PV#* En vez de un chiste, la#  envoltura dice algo bonito.
 Puppydough Icecream
-Cura 28 HP#* Made by young pups.
+Cura 28 PV#* Hecho por cachorritos.
 Bisicle
-Cura 11 HP#* It's a two-pronged popsicle, so you can eat it twice.
+Cura 11 PV#* Es una paleta de dos puntas,#  puedes comerla dos veces.
 Unisicle
-Cura 11 HP#* It's a SINGLE-pronged popsicle. Wait, that's just normal...
+Cura 11 PV#* Es una paleta de una punta.#  Espera, es una paleta normal...
 Cinnamon Bun
-Cura 22 HP#* A cinnamon roll in the shape of a bunny.
+Cura 22 PV#* Un rollo de canela#  en forma de conejo.
 Temmie Flakes
-Cura 2 HP#* It's just torn up pieces of colored construction paper.
+Cura 2 PV#* Son trozos de#  cartulina de colores
 Abandoned Quiche
-Cura 34 HP#* A psychologically damaged spinach egg pie.
+Cura 34 PV#* Un pastel de huevo con#  espinacas mentalmente lastimado.
 Old Tutu
-Armor DF 10#* Finally, a protective piece of armor.
+Armadura DF 10#* Finalmente, una pieza#  de armadura protectora.
 Ballet Shoes
-Wpn AT 7#* These used shoes make you feel incredibly dangerous.
+Arma AT 7#* Estos zapatos usados te hacen#  sentir increíblemente peligroso.
 Punch Card
-Battle Item#* Use to make punching attacks stronger in one battle. Use outside of battle to look at the card.
+Item de combate#* Hace más daño en combate.#  Usalo fuera de combate para mirarlo.
 Annoying Dog
-Dog A little white dog. It's fast
+Un pequeño perro blanco.#  Es rápido
 Dog Salad
-Cura ?? HP#* Recovers HP. (Hit Poodles.)
+Cura ?? PV#* Recupera PV.#  (Caniches Golpeados.)
 Dog Residue
-Dog Item Shiny trail left behind by a dog.
-Dog Item Dog-shaped husk shed from a dog's carapace.
-Dog Item Dirty dishes left unwashed by a dog.
-Dog Item Glowing crystals secreted by a dog.
-Dog Item Jigsaw puzzle left unfinished by a dog.
-Dog Item Web spun by a dog to ensnare prey.
+Objeto perro. Un rastro brillante#  dejado por un perro.
+Objeto perro. Cáscara en forma de perro#  desprendida del caparazón.
+Objeto perro. Platos sucios dejados#  por un perro.
+Objeto perro. Cristales brillantes#  segregados por un perro.
+Objeto perro. Rompecabezas dejado sin#  terminar por un perro.
+Objeto perro. Telaraña tejida por un perro#  para atrapar a su presa.
 Astronaut Food
-Cura 21 HP#* For feeding a pet astronaut.
+Cura 21 PV#* Para alimentar una#  mascota astronauta.
 Instant Noodles
-Cura HP#* Comes with everything you need for a quick meal!
+Cura PV#* Viene con lo necesario#  para una comida rápida!
 Crab Apple
-Cura 18 HP#* An aquatic fruit that resembles a crustacean.
-Cura 20 HP#* The "meat" is made of something#  called a "water sausage."
+Cura 18 PV#* Fruta acuática parecida#  a un crustáceo.
+Cura 20 PV#* La "carne" está hecha de algo#  llamado "salchicha en agua".
 Hot Cat
-Cura 21 HP#* Like a hot dog, but with little cat ears on the end.
+Cura 21 PV#* Como un perro caliente, pero#  scon orejitas de gato al final.
 Glamburger
-Cura 27 HP#* A hamburger made of edible glitter and sequins.
-Cura 10 HP#* Made from glowing marshwater. Increases SPEED for one battle.
+Cura 27 PV#* Una hamburguesa hecha de brillantina#  y lentejuelas comestibles..
+Cura 10 PV#* Hecho de agua de pantano brillante.#  Aumenta la VELOCIDAD en un combate.
 Starfait
-Cura 14 HP#* A sweet treat made of sparkling stars.
+Cura 14 PV#* Una golosina hecha de#  estrellas brillantes.
 Legendary Hero
-Cura 40 HP#* Sandwich shaped like a sword. Increases ATTACK when eaten.
+Cura 40 PV#* Emparedado con forma de espada.#  Aumenta el ATAQUE al comerlo.
 Butty Glasses
-Armor DF 6#* Glasses marred with wear. Increases INV by 9. (After you get hurt by an attack, you stay invulnerable for longer.)
+Armadura DF 6#* Gafas estropeadas por el uso. Aumenta la INV en 9. (Después de ser herido, eres invulnerable durante más tiempo.)
 Torn Notebook
-Weapon AT 2#* Contains illegible scrawls. Increases INV by 6. (After you get hurt by an attack, you stay invulnerable for longer.)
+Arma AT 2#* Contiene garabatos ilegibles. Aumenta la INV en 6. (Después de ser herido, eres invulnerable durante más tiempo).
 Stained Apron
-Armor DF 11#* Cura 1 HP every other turn.
+Armadura DF 11#* Cura 1 PV cada#  dos turnos.
 Burnt Pan
-Weapon AT 10#* Damage is rather consistent. Consumable items heal 4 more HP.
+Arma AT 10#* El daño es bastante consistente.#  Los item consumibles curan 4 PV más.
 Cowboy Hat
-Armor DF 12#* This battle-worn hat makes you want to grow a beard. It also raises ATTACK by 5.
+Armadura DF 12#* Este sombrero te da ganas de dejarte barba. También aumenta el ATAQUE en 5.
 Empty Gun
-Weapon AT 12#* An antique revolver. It has no ammo. Must be used precisely, or damage will be low.
+Arma AT 12#* Un revólver antiguo. No tiene munición. Debe usarse con precisión, o el daño será bajo.
 Heart Locket
-Armor DF 15#* It says "Best Friends Forever."
+Armadura DF 15#* Dice "Mejores#  amigos por siempre."
 Worn Dagger
-Weapon AT 15#* Perfect for cutting plants and vines.
+Arma AT 15#* Perfecto para cortar#  plantas y enredaderas.
 Real Knife
-Weapon AT 99#* Here we are!
+Arma AT 99#* ¡Ya llegamos!
 The Locket
-Armor DF 99#* You can feel it beating.
+Armadura DF 99#* Lo puedes sentir latir.
 Bad Memory
-Hurts 1 HP#* ?????
+Lastima 1 PV#* ¿¿¿¿¿?????
 Dream
-Cura 12 HP#* The goal of "Determination."
+Cura 12 PV#* El objetivo de#  la "Determinación".
 Undyne's Letter
-Unique Letter written for Dr. Alphys.
+Carta única escrita para la Dra. Alphys.
 Undyne Letter EX
-Unique It has DON'T DROP IT written on it.
-Cura 13 HP#* Regular old popato chisps.
+Tienes escrito unicamente#  NO LO TIRES en él
+Cura 13 PV#* Papas fritas normales.
 Junk Food
-Cura 17 HP#* Food that was probably once thrown away.
+Cura 17 PV#* Comida que probablemente#  se tiró.
 Mystery Key
-Unique It is too bent to fit on your keychain.
+Unica que está doblada#  para caber en el llavero.
 Face Steak
-Cura 60 HP#* Huge steak in the shape of Mettaton's face. (You don't feel like it's made of real meat...)
+Cura 60 PV#* Enorme filete con la forma de la cara de Mettaton. (No parece que esté hecho de carne de verdad...)
 Hush Puppy
-Cura 65 HP#* This wonderful spell will stop a dog from casting magic.
+Cura 65 PV#* Este maravilloso hechizo#  impedirá que un perro haga magia.
 Snail Pie
-Cura Some HP#* An acquired taste.
+Cura Algún PV#* Un gusto adquirido.
 temy armor
-Armor DF 20#* The things you can do with a college education! Raises ATTACK when worn. Recovers HP every other turn. INV up slightly.
+Armadura DF 20#* ¡Lo que hace una educación universitaria! Aumenta el ATAQUE. Recupera PV cada dos turnos. Aumenta ligeramente el INV.
 * "
 "
 bullet_distance_min
