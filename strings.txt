@@ -13437,7 +13437,7 @@ Va-a-mos,#relájate un#p-p-poco.
 N-No tienes que#ser tímido,#amigo -
 HEY Q-Q-qué#es... esto ?
 ¡ ESPERA !#Yo... ¿ Oh ?
-NO a-arruines#el humor :)
+NO a-arruines#el ambiente :)
 Me gusta#e-esta :)
 Esto está#b-bien :)
 Mhm,#seh :)
@@ -13628,13 +13628,13 @@ Party Popper
 * The element of surprise.
 trapdoor_spawn_particles
 * Oh, hey.
-* I'm just uh, admiring the#  view.
-* I was just on my way to talk#  to the Foreman. Yep.
-* The boulders stopped falling a#  while ago.
-* My teacher never taught me it#  could rain rocks down here.
-* Weather... crazy stuff.
-* Well, I'm gonna go soon.
-* Hope my eternal gratitude#  helped you!
+* Sólo estoy eh, admirando#  la vista.
+* Estoy sólo en mi camino de#  hablar con el Capataz. Sep.
+* Las rocas dejaron de caer hace#  un rato.
+* Mi profesor nunca me enseñó#  que las rocas podrían#  llover aquí abajo.
+* El clima... de locos.
+* Bueno, voy a irme pronto.
+* ¡Espero que mi eterna#  gratitud te haya#  ayudado!
 dialogue
 * ¿dónde estoy?
 crayon_color
