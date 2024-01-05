@@ -17103,15 +17103,15 @@ y2
 * Confío en ti para mantener#  la paz y el orden#  del ruido.
 * Iré a conquistar nuevas#  tierras en el nombre de#  la tranquilidad.
 * Esto es un hhonor muy grande#  así que mantenlo secreto#  hhush hhush.
-* Oh hey! I was just thinking...
-* I really have to show you#  this house I'm checking out!
-* It's on a beach just#  outside of the Ruins. 
-* Hey, what's with that look?#* I'm following your advice#  and being myself. 
-* I'll just be myself in#  a really cool beach house! 
-* You gotta get out and#  live a little once in#  a while. 
-* If you stay in one place#  too long it feels like things#  start to loop. 
-* It can drive you a little#  crazy. 
-* I'm totally gonna learn all#  the hip dance moves out there!
+* ¡Oh, hola! Estaba#  pensando...
+* ¡Realmente tengo que#  mostrarte esta casa#  que estoy revisando!
+* Está en una playa a las#  afueras de las Ruinas. 
+* Oye, ¿por qué me ves asi?#*  Sigo tu consejo y#  soy yo mismo. 
+* Seré yo mismo en ¡una#  casa de playa muy bonita! 
+* Tienes que salir y vivir#  un poco de vez en#  cuando. 
+* Si te quedas demasiado#  tiempo, las cosas#  empiezan a entrar en bucle. 
+* Puede volverte un poco#  loco. 
+* ¡Voy a aprenderme todos#  los pasos de baile#  de moda!
 shoot_buffer
 turn_state
 charged_shot_type
@@ -17127,33 +17127,33 @@ fireCheck
 image_angle_final
 damage_2
 damage_3
-* Wow, I can go wherever I want#  now? I was tired of hiding#  from Dalv! 
-* You can only draw so many#  landscapes of tiny cracks and#  good hiding rocks! 
-* I finally got to see the big#  drawing of a sweet corn cob#  I made!
-* I can't believe Dalv hung#  it up!
-* I know he loves his corn#  but I can't believe he#  liked my art that much!
-* I also can't believe we've been#  friends for so long and I only#  just got to see his house!
-* I've always considered Dalv#  and me to be friends. 
-* He just likes to not#  be bothered sometimes. 
-* Entiendo. Sometimes I just#  want to be alone to do#  my art! 
-* I mean, if we weren't friends,#  I wouldn't go out of my way#  so much to give him his space! 
-* I just can't wait to sketch#  the outside!
-* Yo, Dalv is opening the door to#  Snowdin!
-* It's been so long!
-* I know what my first#  stop will be. 
-* Dump, here I come! 
-* Do you watch anime? 
-* I HIGHLY recommend it!
-* I mean some of it is#  total garbage... 
-* But most of it is SOOO good!
-* Maybe we could watch some#  together!
-* This new "not hiding" thing#  will take some getting used#  to. 
-* I wonder what kind of#  adventures I can go on#  now.
-* I could go out and solve#  the secrets of the entire#  Underground!
-* Meet every monster, brave#  every danger, see everything#  I can!
-* Maybe I'll even find#  a way back to the Surface!#* You never know!
-* Anyone can be a hero.#* Maybe you could be one#  too!
-* You might wanna get a#  new hat. That one is#  looking a bit worn.
+* Vaya, ¿ahora puedo irme?#  Estaba cansado de#  esconderme de Dalv. 
+* ¡Sólo se podia dibujar#  paisajes de grietas diminutas#  y rocas bien escondidas!
+* ¡Por fin he podido ver el#  gran dibujo de una mazorca#  de maíz dulce que hice!
+* ¡No puedo creer que#  Dalv lo haya colgado!
+* Sé que le encanta su maíz,#  ¡pero no puedo creer que#  le gustara tanto mi arte!
+* No puedo creer que seamos#  amigos desde hace mucho#  y que acabe de ver su casa.
+* Siempre considere que#  Dalv y yo somos amigos. 
+* A veces le gusta que no le#  molesten. 
+* Entiendo. ¡A veces sólo quiero#  estar solo para hacer#  mi arte!
+* ¡Si no fuéramos amigos, no#  me desviaría tanto para#  darle su espacio! 
+* ¡No puedo esperar a#  dibujar el exterior!
+* ¡Mira, Dalv está#  abriendo la puerta#  a Snowdin!
+* ¡Paso tanto tiempo!
+* Ya sé cuál será mi#  primera parada. 
+* ¡Vertedero, allá voy! 
+* ¿Ves anime? 
+* ¡Lo recomiendo#  ENCARECIDAMENTE!
+* Quiero decir que algunas#  de ellas son#  basura total... 
+* ¡Pero la mayoría es TAN#  buena!
+* ¡Quizás podríamos ver#  algo juntos!
+* Habrá que acostumbrarse#  a esto de "no#  esconderse". 
+* Me pregunto qué tipo de#  aventuras podré#  vivir ahora.
+* ¡Podría salir y resolver#  los secretos de todo el#  Subsuelo!
+* ¡Enfrentarme a todos,#  afrontar los peligros,#  ver todo lo que pueda!
+* ¡Quizá encuentre la forma#  de volver a la superficie!#* ¡Nunca se sabe!
+* Cualquiera puede ser un#  héroe.#* ¡Incluso tú puedas serlo!
+* Deberías comprarte un#  sombrero nuevo. Ese#  parece un poco gastado.
 * Ahora puedo cumplir mi#  sueño de abrir una parada#  de abrazos gratis.
 * Veré las caras#  sonrientes de todo el#  mundo. 
 * ¡Ten cuidado con Dalv!#  Ya deberías haber recibido#  un gran abrazo.
@@ -17164,18 +17164,18 @@ damage_3
 * ¡No, en serio!#  ¡Dame tu teléfono y#  te daré el número!
 * ¡Los abrazos hacen girar el mundo!
 next
-* Oh, are you hiding from#  Dalv too?
-* There isn't much room but#  you're welcome to join me!
-* I know lots of games#  to kill time!
-* How about we play count#  the dust!
-* We see who can count#  the most dust before#  getting bored!
-* Ready? Go!
-* Thirty-three, thirty-four,#  thirty-five...
-* Seventy-eight, seventy-nine...
-* ACHOO!
-* Oh dear... I lost#  count...
-* I guess you win then!
-* Is it dusty in here#  or is it just me?
+* Oh, ¿te estás escondiendo#  de Dalv también?
+* No hay mucho sitio pero#  ¡eres bienvenido!
+* ¡Conozco muchos juegos#  para matar el tiempo!
+* ¿Qué tal si jugamos a#  contar el polvo?
+* ¡A ver quién cuenta#  más polvos antes#  de aburrirse!
+* ¿Preparado?#  ¡Adelante!
+* Treinta y tres,#  treinta y cuatro,#  treinta y cinco...
+* Setenta y ocho,#  setenta y nueve...
+* ¡ACHOO!
+* Oh cielos... Perdí#  la cuenta...
+* ¡Supongo que tú#  ganas entonces!
+* ¿Hay mucho polvo aquí#  o soy yo?
 part_sys
 part_system_position
 * ¡¡Whoa!!
@@ -17297,16 +17297,16 @@ Prepárate para mi#más fuerte#ataq-
 * (No se mueve.)
 dr
 * (Es un trozo de maíz#  abandonado.)
-* (¡Obtuviste un Candy Corn!)
+* (¡Obtuviste un Maíz#  Dulce!)
 * (Probablemente no sea#  lo suficientemente bueno#  para ti.)
-* (A beautiful, delicious-looking#  Golden Pear catches your eye.)
-* (You got the Golden Pear!)
-* (Beauty is in the eye#  of the beholder anyway.)
+* (Una hermosa Pera Dorada#  de aspecto delicioso#  descubre tu mirada.)
+* (¡Obtuviste una#  Pera Dorada!)
+* (De todos modos, la belleza#  está en el ojo#  del que mira.)
 * (Una pequeña pila de piedras#  convenientemente en forma de#  bala.)
-* (Obtuviste Piedras!)
+* (¡Obtuviste Piedras!)
 * (Las piedras son muy#  peligrosas.)
 * (Es una pluma perdida.)
-* (¡Ahoras tienes una#  Stray Feather!)
+* (¡Ahoras tienes una#  Pluma Perdida!)
 * (Lo ignoras.#* Lo callejero no son más#  que problemas.)
 footstep_counter
 pitch
@@ -17314,8 +17314,8 @@ ms
 new_petal
 * (Es una caja con maíz "especial"#  escrito en crayón rosa.)
 * (No queda nada útil.)
-* (Hay un Corn Dog escondido#  entre las mazorcas de maíz.)
-* ¡Obtuviste un Corn Dog!
+* (Hay un Perro de Maíz#  escondido entre#  las mazorcas de maíz.)
+* ¡Obtuviste un Perro#  de Maíz!
 * (Podría morderte.)
 * Tengo la impresión#  de que te gusta#  rodar solo.
 * Ya sabes, aún no#  acepta mi oferta#  de "guardar".
@@ -17330,7 +17330,7 @@ new_petal
           guardar 
 * Talvez lo olvidaste.
 * Espera...	
-* ¿Esto es por mi vaga#amenaza de antes?
+* ¿Esto es por mi vaga#  amenaza de antes?
 * ¡Solo estaba bromeando¡#  ¡Ya me conoces!
 * Oh, bueno,#supongo que todavía no.
 * Heh, que problema...
@@ -17341,7 +17341,7 @@ new_petal
 * ¿Te lo esperabas?
 * Soy un poco más#  útil de lo que pensabas.
 * Cualquier cosa que no#  puedas hacer por ti#  mismo es mi trabajo.
-* Gran trabajo#  llegando hasta aquí!
+* ¡Gran trabajo#  llegando hasta aquí!
 * Chico, me alegro#  de estar de tu lado.
 * Prepárate porque#  nos espera un#  largo viaje.
 * ¡Esto va a ser muy#  divertido!
@@ -17349,7 +17349,7 @@ new_petal
 * You hear movement in the#  distance...
 arrow
 finish
-* The Micro Froggits are waving#  goodbye.
+* Los Micro Froggits#  se despiden.
 soul_switch_treshold
 exitCutscene
 fadeAlpha
@@ -17374,11 +17374,11 @@ part_startEm
 * (Era solo un poco de#  suciedad en la nieve.)
 * (Te limpias la mano#  en una sospechosa marca#  en la pared de roca.)
 * (Requiere una autodisciplina#  considerable, pero ignoras#  la roca interesante.)
-* Seems like the base of a#  snowdog.
-* Touch it?
-* It was just some dirt in the#  snow.
-* You wipe off your hand on a#  suspicious carving in the rock#  face.
-* It takes considerable#  self-discipline, but you ignore#  the interesting rock.
+* Parece la base de un#  perro de nieve.
+* ¿Tocarlo?
+* Era sólo un poco de suciedad#  en la nieve.
+* Te limpias la mano en una3  sospechosa talla en#  la pared rocosa.
+* Requiere una autodisciplina#  considerable, pero ignoras#  la roca interesante.
 dir_speed
 dir_speed_max
 point_x_1
@@ -17631,8 +17631,8 @@ slurpy_solution
 * ...Desafortunadamente no de#  una forma pertinente, pero#  bueno... una notificación.
 * (Es un árbol.#  Nada especial.)
 * (Un árbol viejo y frágil.)
-* (¿Tomar los Ice Pellets?)
-* (¡Obtuviste Ice Pellets!)
+* (¿Tomar bolitas de hielo?)
+* (¡Obtuviste Bolitas de#  Hielo!)
 * Decia, "Si la vida te viene#  demasiado deprisa, pulsa 
  y#  tomatelo  con calma."
 kiosk_hsp
