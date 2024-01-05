@@ -2107,7 +2107,7 @@ scr_inventory_check_space
 Action 1 Message 2
 gml_Script_scr_dialogue_battle_action_selected_action_1_sousborg
 scr_dialogue_battle_action_selected_action_1_sousborg
-Carta de Inicio
+Intro Letter
 mail
 mail_list_read
 ds_list_find_index

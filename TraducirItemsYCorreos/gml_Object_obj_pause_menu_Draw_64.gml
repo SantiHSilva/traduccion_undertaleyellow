@@ -112,8 +112,8 @@ if item_inspect
 }
 if mail_open
 {
-    draw_sprite_ext(spr_dialoguebox, 1, (xx + 125), (yy + 56), 2.6, 2.6, image_angle, c_white, image_alpha)
-    draw_sprite_ext(spr_dialoguebox, 0, (xx + 125), (yy + 56), 2.5, 2.5, image_angle, c_white, image_alpha)
+    draw_sprite_ext(spr_dialoguebox, 1, (xx + 130), (yy + 56), 2.7, 2.6, image_angle, c_white, image_alpha)
+    draw_sprite_ext(spr_dialoguebox, 0, (xx + 130), (yy + 56), 2.6, 2.5, image_angle, c_white, image_alpha)
     draw_set_font(fnt_battle)
     for (n = 0; n < mail_display_count; n++)
     {
@@ -124,7 +124,7 @@ if mail_open
         if (n == 0 && mail_offset == 0 && global.mail_pinned)
             draw_set_color(c_yellow)
         if (mail_name != undefined)
-            draw_text((xx + 65), ((yy - 15) + (n * 15)), string_hash_to_newline(mail_name))
+            draw_text((xx + 65), ((yy - 15) + (n * 15)), string_hash_to_newline(obtenerEmailSpanish(mail_name)))
     }
     draw_set_color(c_white)
     draw_text((xx + 65), (yy + 115), string_hash_to_newline("LEER"))
