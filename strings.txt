@@ -11378,14 +11378,14 @@ hint_draw
 hint_alpha
 bbox_overlay_alpha
 block
-* What do we have here...
-* Really? ANOTHER locked#  door?
-* How many unique doors#  are installed in this#  place?
-* Hablar about#  inconsistent!
-* Well, I don't see a#  slot for your ID card...
-* There's plenty of#  science equipment lying#  around.
-* Maybe we can drill#  through with something? 
-* Start searching!
+* Qué tenemos aquí...
+* ¿En serio? ¿OTRA puerta#  bloqueada?
+* ¿Cuántas puertas únicas#  están instaladas en#  este lugar?
+* ¡Hablando de#  inconsistente!
+* Bueno, no veo una#  ranura para tu Tarjeta#  ID...
+* Hay gran cantidad de#  equipamiento científico#  tirado por ahí.
+* ¿Quizás podemos taladrarla#  con algo?
+* ¡Hora de buscar!
 mooch_fly_away
 mooch_fly_away_no_loop
 T3 Appear Mooch
@@ -14304,19 +14304,19 @@ can_hit
 sound_playing
 play_sound
 pl_die
-* One day, I'm gonna travel down#  this belt myself.	
-* I wanna see where it leads!
-Bad idea
-Do it!
-* You think that's dangerous? 
-* I've got a hardhat, don't I?
-* Come on, you'll never have any#  fun if you're uptight all the#  time!
-* I'll have to wait until the#  shift's over.
-* Thanks for the confidence#  boost!
-* I gotta say, sorting through#  the same gemstones every day is#  getting old.	
-* I bet the Surface has a ton#  we've never heard about!	
-* Ironic that the first thing I#  wanna do when we're free is#  explore more caves, haha!
-* Welp, gotta get back to it!
+* Algún día, voy a viajar por este#  cinturón yo mismo.
+* ¡Quiero ver dónde lleva!
+Mala idea
+¡Hazlo!
+* ¿Crees que es peligroso?
+* Tengo un casco, ¿No?
+* ¡Vamos, nunca podrás divertirte#  si estás nervioso todo el#  tiempo!
+* Tendré que esperar hasta que#  el turno termine.
+* ¡Gracias por el empujón de#  confianza!
+* Debo decir, revisar todas las#  mismas gemas cada día se#  está haciendo aburrido.
+* ¡Apuesto a que la Superficie#  tiene un montón de las que#  nunca hemos escuchado!	
+* Irónico que lo primero que#  quiero hacer cuando seamos libres#  es explorar más cuevas, ¡Jaja!
+* ¡Bueno, hora de continuar con esto!
 new_camera
 cam_width_half
 cam_height_half
@@ -14371,17 +14371,17 @@ shopkeeper_sprite_default
 shopkeeper_sprite
 portrait_alt
 new_sprite
-* bot fact:
-* "bots all have a passion for#  something. a programmed#  fixation."
-* for example, i'm a huge fan of#  arson.
-* "bots are not allowed to#  swear. it is indecent and#  rude."
-* alas, i am cursed to this#  family friendly environment.
-* "bots are not allowed to#  engage in romantic#  relationships.
-* it would run the risk of#  bypassing the sentience#  suppression system."
-* ...what does "romantic#  relationships" mean?
-* why can't we interact with#  friendly boats from the roman#  empire?
-* i only memorized three bot#  facts.
-* anything i say now would only#  be bot fiction.
+* dato de bot:
+* "todos los bots tienen una#  pasión por algo. una#  obsesión programada."
+* por ejemplo, yo soy un gran fan#  de los incendios.
+* "los bots no tienen permitido#  insultar. es indecente#  y de mala educación."
+* lamentablemente, estoy#  condenado a este ambiente#  para toda la familia.
+* "los bots no tienen#  permitido comprometerse#  en relaciones románticas."
+* llevaría al riego de#  sobrepasar el sistema de#  supresión de consciencia.
+* ¿...qué significa una#  "relación romántica"?
+* ¿por qué no podemos#  interactuar con botes amistosos#  del imperio romano?  
+* sólo memoricé tres datos#  de bots.
+* todo lo que diga ahora sería#  sólo ficción de bot.
 old_spawner
 overlap_timer
 camera_y
@@ -14518,16 +14518,16 @@ Un consejo, por#favor rebobina tus#cintas antes de#alimentarme.
 ¿Puede alguien#solo callar a#Señorita cerebro#de tubo?
 Solo... acaba#con esto.
 image_speed_counter
-* Why hello! Hope you're having#  a glorious day!
-* I'd give you a flower but#  those are in low supply around#  here.
-* I hope a friendly smile#  suffices!
-* Honestly, the Dunes are not#  the best place for my sisters#  and I.
-* But I feel an obligation to be#  here. You know, to help grow#  the ecosystem.
-* One day, we'll return this#  place to its former glory!#  Mmhm!
-* I've heard rumors about an#  abandoned greenhouse FILLED#  with flowers.
-* Not sure how or why such a#  thing would exist but I really#  wanna see it!
-* Remember to give flowers lots#  of love and attention!
-* They are alive and can teach#  you many things!
+* ¡Muy buenas! ¡Espero que estés#  teniendo un día glorioso!
+* Te daría una flor pero hay#  bajo suministro de ellas#  ahora mismo.
+* ¡Espero que una sonrisa#  amistosa sea suficiente!
+* Honestamente, las Dunas no#  son el mejor lugar par mis#  hermanas y yo.
+* Pero siento una obligación de#  estar aquí. Ya sabes, para ayudar#  que crezca el ecosistema.
+* ¡Algún día, regresaremos#  este lugar a su antigua#  gloria! ¡Sí!
+* He escuchado rumores de un#  invernadero abandonado LLENO#  de flores.
+* ¡No sé cómo o por qué tal#  cosa existiría pero realmente#  quiero verlo!
+* ¡Recuerda darle a las flores#  gran cantidad de amor#  y atención!
+* ¡Están vivas y pueden#  enseñarte muchas cosas!
 sh_uvs
 pixelate_surf
 shader_set_uniform_f_array
@@ -15200,38 +15200,38 @@ interacted_with
 * (Examinas la#  estantería...)	
 * (Un título llamado "Misterios#  del Subsuelo" te#  descubre.)	
 * (¿Leer?)
-* Chapter One: Blunko's#  Blunder.
-* Located in Oasis Valley, in a#  modern cafe you can't miss,#  lies an arcade cabinet.
-* Painted blue and coated with a#  thick layer of dust, it sits#  there, out of order.
-* Few monsters recall seeing it#  up and running and that might#  be on purpose.
-* On the cabinet, two logos#  reside: Team Y and Blunko#  Industries.
-* The same two human companies#  that created the Mew Mew Love#  Blaster cabinet.
-* Legends say it was playable#  for a time after it was#  recovered from the dump...
-* ...but its contents were#  "unpleasant" upon experience.#	
-* (You flip to the next#  chapter.)
-* (Continue reading?)
-* Chapter Two: The Path.
-* The Underground is a vast#  place.
-* Throughout it are pathways#  and/or fences to lead monsters#  from place to place.
-* But maybe, just maybe, the#  paths are truly there to keep#  you safe.
-* In a report from 20XX, a#  father recalled fishing with#  his son in the Snowdin forest.
-* As the father prepared his#  line, his son wandered past the#  fence and into the trees.
-* The father didn't notice at#  first but soon began to search#  for the child.	
-* "Before I found ____, it felt#  like I was in a daze," the#  father recounts.
-* "Just... nothing out there."
-* Chapter Three: The Phantom#  SOUL.	
-* Seven human SOULS are all it#  takes to destroy the barrier#  that intraps us monsters...	
-* ...and over time, King ASGORE#  and the Royal Guard have#  ensured we reach that goal.	
-* This process has been#  controversial among some#  residents but...
-* ..."War is not pleasant" says#  the head of the Royal Guard.	
-* Typically, when a human falls#  into our home, they're#  "collected" within hours.
-* But one time... it took#  years.	
-* It was a typical afternoon in#  Snowdin...	
-* Suddenly, a human was spotted#  in the area before swiftly#  fleeing for Waterfall.	
-* This, surprisingly, was the#  last time they were seen#  alive.	
-* Officials at the time said the#  disappearance most likely meant#  the human was hiding.	
-* However, the human's SOUL was#  later inexplicably found deep#  in Waterfall...	
-* (You put the book back.)
+* Capítulo Uno: El Error#  de Blunko.
+* Ubicado en el Valle Oasis, en#  una cafetería que no te puedes#  perder, se encuentra un arcade.
+* Pintada de azul y cubierta de una#  gruesa capa de polvo, se#  encuentra ahí, fuera de servicio.
+* Pocos monstruos recuerdan verla#  funcionando y eso puede#  ser a propósito. 
+* En la máquinas, residen dos#  logos: Team Y y Blunko#  Industries.
+* Las mismas dos compañías#  humanas que crearon la máquina de#  Mew Mew Love Blaster.
+* Las leyendas dicen que fue#  jugable por un tiempo luego#  de ser recuperada del basurero...
+* ...pero sus contenido eran#  "desagradables" de experienciar.#
+* (Volteas al siguiente#  capítulo.)
+* (¿Sigues leyendo?)
+* Capítulo Dos: El Camino.
+* El Subsuelo es un lugar#  vasto.
+* Entre medio hay caminos y/o#  vallas que llevan a los monstruos#  de un lugar a otro.
+* Pero quizás, y sólo quizás,#  los caminos realmente están#  ahí para mantenerte a salvo.
+* En un reporte de 20XX, un#  padre recordaba pescar con su#  hijo en el bosque de Snowdin.
+* Mientras el padre preparaba su#  línea, su hijo deambulaba fuera#  de la valla hacia los árboles.	
+* El padre no se dió cuenta al#  inicio pero pronto empezó a#  buscar a su hijo.
+* "Antes de encontrar ____, me#  sentía aturdido," el padre#  relata.
+* "Sólo... nada allí fuera."
+* Capítulo Tres: El ALMA#  Fantasma.	
+* Siete ALMAS humanas es todo#  lo que toma para destruir la#  barrera que nos encierra...
+* ...y con el tiempo, el Rey#  ASGORE y la Guardia Real han#  asegurado llegar a ese objetivo. 	
+* Este proceso ha sido#  controversial entre algunos#  residentes pero...
+* ..."La guerra no es agradable"#  dice la líder de la#  Guardia Real.
+* Típicamente, cuando un humano#  cae a nuestro hogar,#  son "recogidos" en pocas horas.
+* Pero una vez... tomó#  años.
+* Era una tarde típica en#  Snowdin...
+* De pronto, un humano fue visto#  en el área antes de huir#  velozmente hacia Waterfall.	
+* Esta, sorprendentemente, fue#  la última vez que fue#  visto con vida.
+* Los oficiales en ese tiempo#  dijeron que la desaparición#  significaba que se estaba escondiendo.
+* Sin embargo, el ALMA humana fue#  encontrada inexplicablemente en las#  profundidades de Waterfall.
+* (Pones el libro en su lugar.)
 text_yy
 * ¡Hora de irse!
 * ¡Haré lo que pueda para#  ayudarnos a escapar!
