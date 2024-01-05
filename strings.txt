@@ -961,13 +961,13 @@ Snowdin - Cabaña Rota
 Snowdin - Sendero
 Snowdin - Resort
 Snowdin - Corredor
-Dunes - Cueva
-Dunes - Árbol
+Dunas - Cueva
+Dunas - Árbol
 Minas - Elevador
 Minas - Vagoneta
-Dunes - Cima de montaña
-Dunes - Parque infantil
-Dunes - Pozo
+Dunas - Cima de montaña
+Dunas - Parque infantil
+Dunas - Pozo
 Salvaje Este - Pueblo
 Salvaje Este - Afueras
 Salvaje Este - Lado Sol
@@ -10089,7 +10089,7 @@ correct_item
 * ¡Sí, Clover necesita#  estar seguro con#  nosotros! 
 * ¡No puede cumplir su#  objetivo si Clover está#  oculto!
 * No vamos a dejar que#  cumpla su objetivo.#  Y de todas formas...
-* Wild East es un#  destino turístico-#  un lugar público.
+* Salvaje Este es un#  destino turístico-#  un lugar público.
 * Mis colegas ya han de#  saber que un humano está#  en el Subuelo.
 * ¡Si Clover se queda#  aquí, eventualmente#  desmantelarían el pueblo!
 * Es mejor ir avanzando,#  ¿sí?
@@ -11736,7 +11736,7 @@ shoot_noloop
 * ...No importa.
 * ...¿Estás bien?
 * ¿Yo? Estoy bien.
-* Yo... tenía algo que#  hacer en Oasis Valley.#  Me tengo que ir.
+* Yo... tenía algo que#  hacer en Valle del#  Oasis. Me tengo que ir.
 * Adiós, Clover.
 no_loop_badge
 * Eso fue extraño... pero#  no es tu problema. 
@@ -14428,7 +14428,7 @@ camera_y
 * Seguro no es nada...#  ¿verdad? 
 * Chujin fue como un#  padre para mi.
 * No se qué sería de mi#  vida sin él.
-* Te... dejaré ir al#  frente. Solo ve hacia#  Oasis Valley.
+* Te... dejaré ir al#  frente. Solo ve hacia#  Valle del Oasis.
 * Que bueno volverte a#  ver, de todas formas.
 npc_reset
 bounce_speed
@@ -16303,7 +16303,7 @@ map_entry
 gml_Script_multiple_lines_gml_Object_obj_ceroba_follower_Other_10
 gml_Script_update_talk_val_gml_Object_obj_ceroba_follower_Other_10
 * Más te vale no estar#  pensando en volver a#  las Dunas.
-* Seguro amaste Wild East#  por todo lo que sé pero#  debemos concentrarnos.
+* Seguro amaste Salvaje Este#  por todo lo que sé pero#  debemos concentrarnos.
 * En otro momento, ¿okay?
 * Hm, me pregunto cuál era#  el propósito de estos#  monitores.
 * ¿Saludar trabajadores#  cuando entraban?
@@ -16478,7 +16478,7 @@ Caí en un charco
 * Que infierno para#  llegar.
 * Aunque él siempre fue#  un viajero.
 * Cuando nos conocimos, yo#  vivía en las montañas.
-* Mi madre me mandó a#  Oasis Valley por#  algunos cultivos.
+* Mi madre me mandó a#  Valle del Oasis por#  algunos cultivos.
 * Mientras volvía, debía#  cruzar una zanja#  honestamente grande.
 * Cuando pasaba el puente,#  me torcí el tobillo#  y caí en la zanja.
 * No podía trepar de nuevo#  sin importar cuánto lo#  intentara.
@@ -17647,7 +17647,7 @@ men_vsp
 * Si todo falla, solo#  bailaré aquí afuera. Nadie#  puede detenerme.
 Don natural
 Brick toys
-* Viajaste con Martlet#  antes de llegar a Wild#  East, ¿verdad?
+* Viajaste con Martlet#  antes de llegar a#  Salvaje Este, ¿verdad?
 * Ella es como una#  reparadora si recuerdo#  bien.
 * ¿Te enseñó algo de cómo#  construir cacharros?
 * Parecías saber lo que#  estabas haciendo...
@@ -18222,7 +18222,7 @@ gml_Script_state_switch_gml_Object_obj_battle_enemy_attack_macro_knight_Step_0
 * Si no fuera muy perezoso,#  iría al Honeydew Resort y me#  tomaría un café caliente.
 * ¿Para mí? ¿Cómo#  podría agradecértelo?
 * Toma, encontré esto en#  la nieve. Probablemente#  estuvo allí por años.
-* (Obtuviste un Soggy Mitten.)
+* (Obtuviste un Guante Mojado.)
 * El café está un poco caliente.
 * Voy a dejarlo enfriar.#  No estoy loco, sabes.
 * Mientras tanto, me pondré#  a hacer una fogata para#  no congelarme.
@@ -18243,7 +18243,7 @@ gml_Script_state_switch_gml_Object_obj_battle_enemy_attack_macro_knight_Step_0
 platform
 chain
 fall
-Silver [Ag]
+Plata [Ag]
 * El elemento de la decepción.
 clover_fall
 * Extraño.
@@ -18425,7 +18425,7 @@ aviator_xspd
 * ¡Es una relación de#  beneficios mutuos!
 * He estado pensando en#  mudarme pronto a#  decir verdad.
 * ¡Hay muchos lugares#  interesantes allá#  afuera!
-* Fui de vacaciones a#  Wild East hace un#  tiempo.
+* Fui de vacaciones a#  Salvaje Este hace un#  tiempo.
 * Quizás debería mudarme#  allí, parecía muy#  cool.
 * Al menos basado en mi#  experiencia como turista.
 * Zzz ... zzz
@@ -18934,7 +18934,7 @@ launch_timer_max
 arrow_alpha
 soul_dir
 * Minas del Este.
-Astatine [At]
+Astatina [At]
 . . . ¿Cómo has conseguido#  esto?
 * (Observas una hebilla de#  cinturón desechada en uno#  de los compartimentos.)
 * (¡Has "tomado prestada"#  una hebilla de acero!)
@@ -19166,8 +19166,8 @@ npc_clover
 * HORARIO DE APERTURA#  LUN-VIE: 8:00 - 16:00#  SÁB-DOM: 8:00 - 14:00
 * PAUSA PARA COMER#  12:00 - 12:15
 glass_width
-* (¿Tomar los mug shards?)
-* (¡Obtuviste Glass Ammo!)
+* (¿Tomar los trozos#  de taza?)
+* (¡Obtuviste Munición#  de Vidrio!)
 fortune
 fortune_ready
 * ¡Hola, viajero!
@@ -19348,8 +19348,8 @@ player_npc
 * (¡Obtuviste un Spider Donut!)
 * Eres muy amable.#  ¡Que tenga un buen día!
 Escribe un número.
-* ¿Visitando desde el Wild East,#  verdad?
-                      Wild East            
+* ¿Visitando desde el#  Salvaje Este,#  verdad?
+                     #  Salvaje Este            
 * Debo decir que no he#  visto tu cara por aquí.
 * ¡Bienvenido a mi casa,#  jovencito!
 * Como habrás notado,#  tengo un don para la#  preservación de la vida.
@@ -19385,8 +19385,8 @@ object_is_active
 * (En las buenas y en las malas,#  y con el paso del tiempo,#  ¡el retoño florecerá!)
 * (Lo que antes era una idea#  en la mente de alguien es#  ahora una realidad.)
 * (Un poco de trabajo duro y#  dedicación es lo que se necesita#  para hacer algo especial.)
-* ¡Bienvenido a Oasis Valley!
-                Oasis Valley 
+* ¡Bienvenido al Valle del#  Oasis!
+                 Valle del#  Oasis 
 * ¡Hogar de la mayor masa de#  agua de las Dunas!
 in_battle_twitch_timer
 turns_passed_max
@@ -19479,9 +19479,9 @@ party_member_present_martlet
 * Recuerdo que este juego#  funcionaba más#  eficientemente en el pasado.
 * La presión del aire parece#  haber sido manipulada#  o algo así.
 * Teniendo en cuenta que esta#  mesa se dobla como la AC,#  no son buenas noticias.
-* Este es el único lugar que#  tiene tendencias modernas#  en las Dunes.
+* Este es el único lugar que#  tiene tendencias modernas#  en las Dunas.
 * ¿Cómo viven los monstruos#  sin la vieja electricidad?
-* ¡Especialmente los de Wild#  East!
+* ¡Especialmente los de#  Salvaje Este!
 * Esa vida no es para mí.
 * Por cierto, últimamente he#  oído hablar de reforestar#  las Dunas.
 * No sé cómo, pero#  ¡yo lo apoyo!
@@ -19601,8 +19601,8 @@ Capataz
 * Pasos de bebé.
 * He oído que hay#  varios peligros#  alrededor de las Dunas.
                  #                 #                   Dunas
-* Espero que no sean#  del Wild East#  gastando bromas.
-                    #      Wild East                 
+* Espero que no sean#  del Salvaje Este#  gastando bromas.
+                    #      Salvaje Este                 
 * Suelen salirse de#  la línea de vez#  en cuando.
 * No puedo evitar sentir#  que son una mala#  influencia para Moray.
 * Ah, estos asuntos no#  te interesan. Me#  disculpo.
@@ -19626,7 +19626,7 @@ Capataz
 * Si necesitas un lugar#  donde esconderte,#  puedes quedarte aquí.
 * Odiaría que un joven#  como tú se metiera#  en problemas.
 * Espero que el#  pequeño Moray#  esté bien...
-* Tengo que ir al#  Wild East en cuanto#  pueda.
+* Tengo que ir al#  Salvaje Este en cuanto#  pueda.
 * Bruh...
 target_bounds_left
 target_bounds_right
@@ -20250,7 +20250,7 @@ anim_grow
 * Roncar, hablar dormido,#  crujir los dientes...#  es bastante agotador.
 * Aunque no puedo quejarme#  mucho. Es un lugar#  gratis para vivir.
 * Verás, en el pasado,#  no vivía aquí.
-* Tengo... bueno, tenía un#  lugar cerca de Oasis#  Valley.
+* Tengo... bueno, tenía un#  lugar cerca del Valle#  del Oasis.
 * Supongo que lo superé...#  me mudé aquí hace#  unas semanas.
 * Star y yo hemos sido#  amigos desde la infancia,#  así que no hay renta.
 * Es agradable...
@@ -21160,7 +21160,7 @@ blackjack_npc
 * Bien, Movámonos.
 * ¡Veamos qué tienes!
 * Toma esta fiel pistola#  como un regalo de#  mi parte.
-* (¡Obtuviste un Wild#  Revolver!)
+* (¡Obtuviste un Revólver#  Salvaje!)
 * ¡Seguro que apruebas#  esta parte del#  entrenamiento!
 * Tengo que contarle esto#  a Ceroba.
 * Duda mucho cuando se#  trata de ti.
@@ -21258,7 +21258,7 @@ wind_sound
 * Supongo que ahora le falta#  confianza. ¿No es triste?
 * Los cultivos se ven muy bien,#  si me permites decirlo.
 * Te daría un poco, pero aún#  no están listos para comer.
-* Si estás por Oasis Valley#  este fin de semana, ¡pásate por#  el mercado de agricultores!
+* Si estás en Valle del Oasis#  este fin de semana, ¡pásate por#  el mercado de agricultores!
 * Lo siento, no puedo hablar#  mucho. Me estoy preparando#  para la cosecha.
 * (Debe ser una de esas#  personas del Salvaje Este.)
 * ¿Eh? No, no he dicho#  nada.
