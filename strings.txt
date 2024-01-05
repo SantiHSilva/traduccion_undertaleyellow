@@ -9706,63 +9706,63 @@ static_flicker
     Buenos días, al habla Chujin.
    No tengo mucho tiempo estos#   días para hacer un diario, asi#   que opté por grabar un video.
     No tengo idea de quién verá#    esto, pero lo veo mejor para#    documentar mi trabajo.
- Eso es todo por ahora.#    Me despido.
+       Eso es todo por ahora.#            Me despido.
          Al habla Chujin...
-  Hoy viajé a Snowdin con#  mi hija por negocio ocasional.
-  Mientras estaba ocupado, Kanako#  fue a jugar con un residente.
-     Ahí es cuando ocurrió...
-Unos cuantos ciudadanos corrieron#hacia mi diciendo que un humano#había entrado en el área.
-  Este humano... atacó al monstruo#  con el que estaba Kanako.
-  Ella estaba tan cerca... pudo#  ser la siguiente...
-  Nadie estuvo ahí para protegerla...#  Ni siquiera yo...
+      Hoy viajé a Snowdin con#    mi hija por negocio ocasional.
+  Mientras estaba ocupado, Kanako#   fue a jugar con un residente.
+      Ahí es cuando ocurrió...
+  Unos cuantos ciudadanos corrieron#   hacia mi diciendo que un humano#     había entrado en el área.
+  Este humano... atacó al monstruo#      con el que estaba Kanako.
+  Ella estaba tan cerca... pudo#        ser la siguiente...
+Nadie estuvo ahí para protegerla...#          Ni siquiera yo...
                 ...
-  No lo entiendo... ¡es que no#  lo entiendo!
- ¡La raza humana ya ganó atrapándonos# aquí abajo y ellos siguen# retorciendo el cuchillo!
+          No lo entiendo...#      ¡es que no lo entiendo!
+¡La raza humana ya ganó atrapándonos#    aquí abajo y ellos siguen#     retorciendo el cuchillo!
     ¡Esto no puede seguir así!
-   A partir de hoy, estaré buscando#   una manera de parar esta#   injusticia de una vez por todas.
-  Al habla Chujin con noticias#  desafortunadas...
- Fui... despedido de mi posición# como ingeniero.
-   ¡He puesto todo de mi en el#   proyecto pero no fue#   suficiente!
-  ¡La programación estaba rota pero#  sé que podría haberla arreglado#  con unas iteraciones más!
-   ¡¿Por qué soy castigado por#   intentar tomarme nuestros#   problemas en serio?! 
-  ...Me siento como si yo fuera el#  único que no ha olvidado o que no  #  vive en la ignorancia...
-   Le he dicho a Ceroba que me#   retiré. No puedo dejar que#   ella piense menos de mí.
-  Pero basta de eso... ya está#  en el pasado. 
-    Debo vivir en el presente#    y planificar el futuro.
-   Probar de que puedo salvar a#   los monstruos... de otra#   manera.
+   A partir de hoy, estaré buscando#      una manera de parar esta#   injusticia de una vez por todas.
+     Al habla Chujin con noticias#          desafortunadas...
+   Fui... despedido de mi posición#          como ingeniero.
+    ¡He puesto todo de mi en el#       proyecto pero no fue#            suficiente!
+  ¡La programación estaba rota pero#  sé que podría haberla arreglado#     con unas iteraciones más!
+    ¡¿Por qué soy castigado por#      intentar tomarme nuestros#        problemas en serio?! 
+  ...Me siento como si yo fuera el#  único que no ha olvidado o que no#      vive en la ignorancia...
+     Le he dicho a Ceroba que me#    retiré. No puedo dejar que#      ella piense menos de mí.
+         Pero basta de eso...#        ya está en el pasado. 
+     Debo vivir en el presente#       y planificar el futuro.
+   Probar de que puedo salvar a#          los monstruos...#          de otra manera.
           Al habla Chujin.
- Tras años de búsqueda, ¡he hecho# un avance!
-  Monstruos Jefes... ellos podrían#  ser la clave para la supervivencia#  de los monstruos.
- He sido capaz de llegar a esta# conclusión porque yo... 
-   ...llevo dentro el gen del#   Monstruo Jefe.
-Esto significa que mi ALMA es mucho#más fuerte que las de los otros#monstruos.
-  Mucho más importante, los#  Monstruos Jefe son inmortales#  hasta que tienen descendencia.
- Ahora mismo, los monstruos son# pocos en números comparados# a los humanos pero...
-  ...¿Qué tal si cualquiera pudiera#  convertirse en un Monstruo Jefe#  como yo? ¿Como... Kanako?
- Como nación y ejército, ¡podríamos# poseer suficiente poder para# tomar la Superficie de vuelta!
-  Mi teoría para esto involucra la#  fusión de un ALMA humana y un ALMA#  de Monstruo Jefe.
-   De eso, se puede extraer suero,#   el cual podría transformar#   cualquier monstruo promedio.
- ...Desafortunadamente, no tengo la# suficiente evidencia para demostrar# que el suero es posible.
+       Tras años de búsqueda,#       ¡he hecho un avance!
+  Monstruos Jefes... ellos podrían# ser la clave para la supervivencia#          de los monstruos.
+  He sido capaz de llegar a esta#      conclusión porque yo... 
+    ...llevo dentro el gen del#           Monstruo Jefe.
+Esto significa que mi ALMA es mucho#  más fuerte que las de los otros#            monstruos.
+     Mucho más importante, los#   Monstruos Jefe son inmortales#   hasta que tienen descendencia.
+  Ahora mismo, los monstruos son#    pocos en números comparados#       a los humanos pero...
+  ...¿Qué tal si cualquiera pudiera#  convertirse en un Monstruo Jefe#     como yo? ¿Como... Kanako?
+ Como nación y ejército, ¡podríamos#    poseer suficiente poder para#   tomar la Superficie de vuelta!
+  Mi teoría para esto involucra la# fusión de un ALMA humana y un ALMA#          de Monstruo Jefe.
+   De eso, se puede extraer suero,#     el cual podría transformar#    cualquier monstruo promedio.
+ ...Desafortunadamente, no tengo la# suficiente evidencia para demostrar#      que el suero es posible.
       Debo hacer más pruebas.
 chujin_tapes_effects
        Al... Al habla Chujin.
-   Temía que esto podría pasar.#   La ciencia es un juego#   peligroso.
-  Tontamente, he experimentado#  conmigo mismo... varias veces.
-Una y otra vez, el sujeto rechazaba#la fusión, y creo saber por qué.
+    Temía que esto podría pasar.#       La ciencia es un juego#            peligroso.
+    Tontamente, he experimentado#   conmigo mismo... varias veces.
+Una y otra vez, el sujeto rechazaba#  la fusión, y creo saber por qué.
                 ...
           Seré directo.... 
-  Mi ALMA se ha deteriorado y no#  sé cuanto tiempo me queda.
-   Sin embargo... creo que mi#   teoría es más fuerte que nunca.
-   Este es un mensaje para mi#   querida Ceroba:
-   Esta búsqueda está en tus manos.#   Nadie más debe escuchar esto.
-  Después de que me vaya... busca al#  siguiente humano que caiga aquí.
-      Alguien de corazón puro#      - no corrompido.
+  Mi ALMA se ha deteriorado y no#     sé cuanto tiempo me queda.
+     Sin embargo... creo que mi#   teoría es más fuerte que nunca.
+   Este es un mensaje para mi#         querida Ceroba:
+  Esta búsqueda está en tus manos.#    Nadie más debe escuchar esto.
+Después de que me vaya... busca al#  siguiente humano que caiga aquí.
+      Alguien de corazón puro#          no corrompido.
    Necesito que obtengas su ALMA#   pero no en cualquier parte...
-  Debes tener un ALMA de Monstruo#  Jefe cerca para fusionarla.
+  Debes tener un ALMA de Monstruo#    Jefe cerca para fusionarla.
           Necesitarás a...
            ...Demonios.
- Busca a otro Monstruo Jefe en el# Subsuelo. Cualquier otro...# por favor.
-Nuestra pequeña niña... Kanako. Ella#necesita vivir una vida feliz, sin#verse afectada por mis esfuerzos.
+ Busca a otro Monstruo Jefe en el#    Subsuelo. Cualquier otro...#            por favor.
+Nuestra pequeña niña... Kanako. Ella#necesita vivir una vida feliz, sin#  verse afectada por mis esfuerzos.
       Ese es mi último deseo.
 HOW?
 overlay_alpha_default
@@ -9973,7 +9973,7 @@ pellet_multiplier
 * ¿Acaso registró a todos#  los que fueron amigos#  de él?
 * Sandra, Luis, Dr. Fish,#  Rosa, Martlet...
 * Espera, ¿¿¿Martlet???
-* ¿¿Encontró a otro#  monstruo con mi nombre??
+* ¿¿Encontró a otro#  monstruo con#  mi nombre??
 * ¡No puede ser que nadie#  haya hablado de eso!#
 hit_flash
 hp_self
@@ -10111,7 +10111,7 @@ correct_item
 * Pregunten si alguien vió#  a qué dirección fueron#  desde allá.
 * Espera, nosotros también#  tenemos que ir, ¿cierto?
 * ¡Necesitan toda la ayuda#  posible!
-* Aprecio la oferta pero#  no vengan. Esto puede ser#  peligroso.
+* Aprecio la oferta pero#  no vengan. Esto puede#  ser peligroso.
 * Quédense aquí y hagan#  feliz al pueblo como#  siempre lo han hecho.
 * ...Okei. ¡Pero por favor#  estén seguros!
 * Lo intentaré. Gracias#  por toda su ayuda.
