@@ -5082,7 +5082,7 @@ Pancake
 * F Slider
 * Pear
 * G. Coffee
-* Pistola de juguete
+* Toy Gun
 * W. Revolver
 * Worn Hat
 * Rubber
