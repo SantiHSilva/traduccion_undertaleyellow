@@ -20618,8 +20618,8 @@ starlo_x_original
 * Esta ciudad está llena#  de emoción.#  Especialmente ahora.
 * ¡Vámonos, amigos!
 * Oh, y Plumitas...
-* Bienvenida a The Wild#  East.
-               The Wild#  East 
+* Bienvenida al Salvaje#  Este.
+                Salvaje#  Este 
 * ¿No puede uno descansar algo?
 * ¡Me pusieron en revisión#  médica toda la tarde! 
 * Apenas puedo mover los#  dedos, ¡y mucho menos#  lavarlos con tu jabón raro!
@@ -21424,11 +21424,11 @@ ball_delay_list
 tile_alpha
 * El generador ya ha sido puesto#  en marcha.
 flicker_count
-* ERROR: COOLANT PRESSURE LOW
-* GENERATOR STATUS: UNSTABLE
-* Gee, wonder how that#  came to be?
-* I think I'm gonna start#  praying for our safety.
-* Ya know, in case the#  facility explodes while#  we're knee deep in it.
+* ERROR: PRESIÓN DE#  REFRIGERANTE BAJA
+* ESTADO DEL GENERADOR:#  INESTABLE
+* Vaya, ¿me pregunto cómo#  llegó a ser eso?
+* Creo que voy a empezar#  a rezar por nuestra#  seguridad.
+* Ya sabes, por si la#  instalación explota#  mientras estemos dentro.
 part_smokesys_back
 part_smokesys_front
 part_smokeEm_back
@@ -21567,7 +21567,7 @@ dbox_xx
 dbox_yy
 dbox_width
 dbox_height
-{0} - Select/Place#{1} - Cancel selection#{2} - Rotate/Scale item
+{0} - Seleccionar/Poner#{1} - Cancela selección#{2} - Rotar/Escalar item
 butt1_xx
 butt1_yy
 butt1_width
@@ -21799,16 +21799,16 @@ Tus fondos son#insuficientes,#niño.
 Deja de cargar#tanto.
 No me#interesa.
 ¿Qué quieres#saber?
-Go away.
-Choose an#item!
-Curse my#programming.
-Item#dispensed!
-You are broke.#lol.
-* You do not have enough money#  :[
-You can't#carry any#more. Too#bad.
-You do not#have enough#space :[
-Thank you#for backing#out.
-Changed your#mind?
+Vete.
+¡Elija un#item!
+Maldigo mi#programación.
+¡Item#dispensado!
+Estás quebrado.#lol.
+* No tienes suficiente dinero#  :[
+No puedes#llevar más.#Muy mal.
+No tienes#suficiente#espacio :[
+Gracias#por#retirarte.
+¿Has cambiado#de opinión?
 * Porque#  porque-
 * ¿Sí?
 ¡Observalo!
@@ -22225,7 +22225,7 @@ Hotland (NUEVO)
 * Oh, ¡eres un pesado!#
 * ...¿Tengo razón? ¿Lo entiendes?#
 * ...¿Tengo razón? ¿Lo entiendes?#* < Cállate. >
-Toriel? (NUEVO)
+¿Toriel? (NUEVO)
 * Honestamente, no sé mucho#  sobre la antigua reina. Su#  paradero, como está...#  Todo un misterio.#
 * Por supuesto, no son asuntos míos#  así que no lo he investigado.#
 * Por supuesto, no son asuntos míos#  así que no lo he investigado.#* < He visto tu reserva de#  revistas de chismes.#  No le mientas al cliente. >#
@@ -22838,8 +22838,8 @@ guardener_pitch
 * LA VIDA ERA. .. M-MUCHO MEJ>OR...
 * _SIN ;SABER...  .
 * Mejor... sigamos.
-* There had to be some#  other way...
-* Let's just... keep#  moving.
+* Tenía que haber#  otra forma...
+* Sigamos... moviéndonos.
 guardener_arms_sound
 was_invisible
 image_speed_normal
@@ -23056,29 +23056,29 @@ flowey_depth_og
 background_alpha
 path_noloop
 pl_path
-* Glad I was able to catch#  ya in time!
-* What is this, the third#  tumble you've survived#  on your journey?
-* For having the name#  "Clover" you sure aren't#  lucky!
-* I'm only kiddin' around#  of course.
-* I'd say you're more of#  a machine than that bot#  up there, haha!
-* Gosh, I hoped we had a#  straight shot to an exit#  but... of course not.
-* If you meet that hunk#  of metal again, try not#  to get caught.
-* Or... ya know...#  killed.
-* Although, dying WOULD#  save more time now that#  I think about it...
-* I could just revive ya#  on the spot!
-* No amount of gruesome#  deaths could stop ol'#  Clover!
-* Ain't that neato?
-* (A cork board with several#  unimportant notes on it.)
-* (A few sticky notes are pinned#  to the cork board.)	
-* Will someone tell Dr. Fish to#  stop using the lab to create#  colored slime?	
-* I don't care if it makes funny#  noises, it does not count as#  work.
-* Todo: -Try new things -Fail#  miserably -Quit my job.
-* (A few sticky notes are pinned#  to the cork board.)
-* (This one consists of all 31#  trillion numbers of pi written#  in crayon.)
-* (This one points to the note#  with the pi numbers.)	
-* What a showoff.
-* Check it: pi x infinity.	
-* Owned B)
+* ¡Me alegro de haberte#  descubierto a#  tiempo!
+* ¿Qué es esto, la tercera#  voltereta a la que#  sobrevives en tu viaje?
+* ¡Para tener el nombre de#  "Clover" seguro que#  no tienes suerte!
+* Sólo estoy bromeando#  por supuesto.
+* Yo diría que eres más#  máquina que ese robot#  de ahí arriba, ¡jaja!
+* Dios, esperaba que#  tuviéramos una salida#  directa pero... no.
+* Si vuelves a encontrarte#  con ese pedazo de metal,#  intenta que no te vea.
+* O... ya sabes...#  asesinado.
+* Aunque, GUARDAR antes de#  morir ahorra más tiempo#  ahora que lo pienso...
+* ¡Podría revivirte en#  el acto!
+* ¡Ninguna muerte#  espantosa podría#  detener a Clover!
+* ¿No es genial?
+* (Una pizarra de corcho con#  varias notas sin#  importancia.)
+* (En la pizarra de corcho#  hay pegadas algunas#  notas adhesivas.)	
+* ¿Alguien le dirá a Dr. Pez que#  deje de usar el laboratorio#  para crear baba de color?	
+* No me importa si hace ruidos#  graciosos, no#  cuenta como trabajo.
+* Qué hacer: -Hacer cosas nuevas#  -Fracasar estrepitosamente#  -Renunciar a mi trabajo.
+* (Unas cuantas notas adhesivas#  están pegadas a la#  pizarra de corcho.)
+* (Este consiste en los 31#  trillones de números de#  pi escritos con crayón.)
+* (Este señala la nota con#  los números pi.)	
+* Qué presumido.
+* Compruébalo:#  pi x infinito.	
+* Propio B)
 during_dialogue
 id_martlet_wing_gust
 image_alpha_temp
@@ -23176,17 +23176,17 @@ advance
 * GRACIAS.
 * No te preocupes por#  Axis.
 * Tenemos que continuar.
-* About Hotland.
-* I can't go.
-* You didn't destroy Axis#  and I thank you but...
-* Your SOUL...
-* I was sure it was...
-* Nevermind. There's no#  explaining it.
-* I'm sorry...
-* Hey, cheer up!
-* Self-defense. That's#  all it was.
-* You know what? This is#  good, actually!
-* You're finally free to#  get back on track!
+* Sobre Hotland.
+* No puedo ir.
+* No has destruido Axis#  y te lo agradezco#  pero...
+* Tu ALMA...
+* Estaba seguro de que#  era...
+* No importa. No tiene#  explicación.
+* Lo siento...
+* ¡Oye, anímate!
+* Defensa propia. Eso es#  todo lo que fue.
+* ¿Sabes qué? ¡Esto es#  bueno, en realidad!
+* ¡Por fin eres libre de#  volver a la pista!
 ps_inner
 pt_trail_inner
 low_hp_state
@@ -23888,12 +23888,12 @@ flower_spawned_count
 flower_spawned_max
 green_flower_spawned
 spawn_flower
-Do you have what#it takes to be#among ze greats?
-Tell me, how does#one cook zis#brittle spheroid?
-What ez ze next#step, hm?
-Only master chefs#know ze secret#to perfect-e-on!
-Almost zere!
-Ze final step#ez...?
+¿Tiene lo que hay#que tener para#eztar entre#los grandes?
+Dígame, ¿cómo se#cocina ezte#frágil esferoide?
+Cuál ez el#ziguiente paso,#¿hm?
+¡Sólo los maestros#cocineros conozen#el secreto de#la perfe-cción!
+¡Ya casi#eztá aquí!
+¿Ze último#paso ez...?
 boulder_spawned_count
 Huh? Qué?#Creo que#asentí...
 Tanto por la noche.
@@ -24439,32 +24439,32 @@ fcreate_alarm
 warning_number
 expl1
 expl2
-* Yo, how are'ya?
-* Wait, are you from the Wild#  East? That's hilarious!
-* Say "howdy!" Come on, DO IT!
-Howdy!
-* PFFT! I LOVE IT!
-* What, you thought I was making#  fun of you?
-* Ha, no way! You're the most#  fun group of monsters around#  here.
-* Plus, you have a saloon.
-* ...What? I like the food#  there, that's all.
-* BOOOO!
-* No real member of the Wild#  East would pass up a "howdy."
-* You definitely don't get human#  culture.
-* Have you met my sisters?#  They're kinda annoying.
-* Pedla's like, WAY too happy#  all the time.
-* Just be normal and fake your#  happiness, like me!
-* And Violetta? I'm not sure.
-* I think all she needs is to#  find love or something.
-* Like, get out there, girl!
-* I got work to do so I'll see#  ya.
-* Remember to eat your veggies,#  stay hydrated, and say "howdy"#  more often.
-* That's very important.
+* Hola, ¿cómo estás?
+* Espera, ¿eres del Salvaje#  Este? ¡Qué gracioso!
+* Di "¡buenas!" Vamos, ¡hazlo!
+¡Buenas!
+* ¡PFFT! ¡ME ENCANTA!
+* ¿Qué, pensabas que me#  estaba burlando de ti?
+* ¡Ja, no puede ser! Son el#  grupo de monstruos más#  divertido por aquí.
+* Además, tienes una#  taberna.
+* ...¿Qué? Me gusta la comida#  allí, eso es todo.
+* ¡BOOOO!
+* Ningún verdadero miembro del# Salvaje Este dejaría#  pasar un "buenas".
+* Definitivamente no tienes#  cultura humana.
+* ¿Conoces a mis hermanas?#  Son algo molestas.
+* Pedla es como, demasiada#  feliz todo el tiempo.
+* Sé normal y finge tu#  felicidad, ¡como yo!
+* ¿Y Violetta? No lo sé.
+* Creo que todo lo que#  necesita es encontrar#  el amor o algo así.
+* ¡Sal ahí fuera, chica!
+* Tengo trabajo que hacer así#  que nos vemos.
+* Recuerda comer verduras,#  hidratarte y decir#  "buenas" más frecuente.
+* Eso es muy importante.
 alarm_count
 distance_amount
 distance_side
-* (It's a gun.)
-* (Got the Wild Revolver!)
+* (Es un arma.)
+* (¡Conseguiste el#  Revólver Salvaje!)
 can_spiral
 warning_radius
 warning_radius_increase
@@ -24582,7 +24582,7 @@ Basta de charla.
 Starlo era el...#el único amigo#que me quedaba.
 Lo que has hecho#es imperdonable.
 ... 
-Tú SABRÁS el#dolor que has causado.
+Tú SABES el#dolor que has causado.
 Mira.
 ¡Mírame, cobarde!
 Los frutos de tu#trabajo.
@@ -25120,12 +25120,12 @@ Esto es bastante#repentino,#pero...
 Al menos pude#bailar para el#mundo#una última vez.
 Me divertí...
 El poder de la#danza es algo#maravilloso...
-* Guess I had this coming.
-* If only I wore my safety#goggles, heh...
-* I can't lie...
-* I'm not ready...
-* Let my parents know...
-* ...I'll be away for a while.
+* Supongo que me lo#  merecía.
+* Si al menos llevara mis#  gafas de seguridad...
+* No puedo mentirte...
+* No estoy listo...
+* Que mis padres sepan...
+* ...que estaré fuera#  un tiempo.
 Nunca he sido bueno#con las#palabras...
 Así que sólo#diré esto:
 Lo siento...
@@ -25211,9 +25211,9 @@ rm_black_screen_cutscene
 * Por favor, vuelve en unos#  días. Por favor...
 * Consultar
 flower_count
-* (Are you sure you want to#  drink the acid?)
+* (¿Seguro que quieres beber#  el ácido?)
 ¡¡Hum-DEE-DUM#dE-DUMM!!
-*¡¡¡JuNts somos#Fuertes!!!
+*¡¡¡JuNtos somos#Fuertes!!!
 ¿Quieres un trago#de mi Agua de#Trapeador?#¡¡ReCIén HeCha!!
 dir_noloop
 PÁGINA 1
@@ -25332,7 +25332,7 @@ Check 3
 * Tengo que practicar mi#  monólogo de introducción.
 * ¡Prepárate antes de la gran#  caída!
 * ¡Hasta luego, Clover!
-* You check the sole of your boot#  for signs of squished Froggit.#* You only find your dusty boot.
+* Compruebas tu bota en busca de#  signos de Froggit aplastado.#* Sólo encuentras polvo.
 * ¡GANASTE!#* Obtuviste 0 XP y 
 * (La misteriosa señora cabra#  asustó a Froggit.)
 * Dulce silencio...
@@ -25384,14 +25384,14 @@ DEBUG MODE:#TOGGLE: 0: ON#FPS:
 frog1
 frog2
 sequence_layer_2
-* I got put on minecart duty a#  few minutes ago.
-* Sure, you already completed#  today's job but tomorrow's#  coming!
-* First I get tied down to#  tracks, now I gotta operate#  tracks!
-* This wasn't what I meant by#  wanting to get my life back on#  track!!!
-* You're gonna show up tomorrow#  to do this for me, right?
-* We're best buds... right?
-* DID OUR INTIMATE ELEVATOR RIDE#  MEAN NOTHING???
-* Sorry, can't talk anymore.#  I've got everything to#  overthink.
+* Me pusieron de guardia hace#  unos minutos.
+* Seguro que ya has completado#  el trabajo de hoy,#  pero ¡ya viene mañana!
+* ¡Primero me atan a las vías#  y ahora tengo que manejarlas!
+* No me refería a esto cuando#  decía que quería volver#  a encarrilar mi vida.
+* Vas a aparecer mañana#  para hacer esto por#  mí, ¿verdad?
+* Somos mejores amigos...#  ¿verdad?
+* ¿NUESTRO ÍNTIMO VIAJE EN#  ASCENSOR NO SIGNIFICÓ#  NADA?
+* Lo siento, no puedo hablar#  más. Tengo todo para#  pensar demasiado.
 Item
 fnt_determination_mono
 spike
@@ -25424,16 +25424,16 @@ sc_yscale
 sc_angle
 sc_color
 sc_alpha
-* I wish those miners would've#  told me about the boulder#  problem.
-* I coulda charged right through#  'em, breaking into a million#  bits!
-* Uh-breaking THEM into a#  million bits. Not me. Ahem.
-* I've learned a lot from being#  a clean boy.
-* Mostly how absolutely#  disgusting the Dunes are.
-* I mean, everything's covered#  in sand!
-* Whoever built that giant fan#  needs to build a giant vacuum.
-* You're lucky that bandana#  you're wearing isn't red.
-* We'd probably have issues,#  haha!
-* Never forget to sparkle out#  there!
+* Ojalá esos mineros me hubieran#  hablado del problema#  de las rocas.
+* ¡Podría haberlos atravesado,#  rompiéndolos en un#  millón de pedazos!
+* Uh-rompiéndolos en un millón#  de pedacitos.#  Yo no. Ejem.
+* He aprendido mucho siendo#  un chico limpio.
+* Sobre todo lo absolutamente#  asquerosas que son#  las Dunas.
+* Quiero decir, ¡todo está#  cubierto de arena!
+* El que haya construido ese#  ventilador gigante debe#  hacer una aspiradora gigante.
+* Tienes suerte de que ese#  pañuelo que llevas#  no sea rojo.
+* Probablemente tendríamos#  problemas, ¡jaja!
+* ¡Nunca olvides brillar#  ahí fuera!
 x_increase_type
 y_increase_type
 x_increase
@@ -25487,10 +25487,10 @@ E . . .#
 E L#F R#. . .#
 E L#F R O G#F I N A L.
 H O R A#D E#R E C O G I D A .
-* Hey! That's a real#  piece of art you made#  there!
-* Give it a go!
-* Wouldja look at that!#  Worked like a charm.
-* I might have to#  personally commission#  you someday, haha!
+* ¡Oye! ¡Eso que hiciste#  es una auténtica obra#  de arte!
+* ¡Inténtalo!
+* ¡Mira eso! Funcionó#  de maravilla.
+* Puede que algún día#  tenga que encargárselo#  personalmente, ¡jaja!
 * Hmm... 	
 * Es un poco tarde, ¿no?
 * Menos lugares a los#  que pudieron haber#  ido, al menos.
@@ -25557,7 +25557,7 @@ ceroba_body_frame
 dir_wiggle
 gml_Script_shoot_fail_gml_Object_obj_wild_revolver_circle_multi_pre_Step_0
 Mustard
-* Best kept in a liquid or solid#  state of matter.
+* Se conserva mejor en#  estado líquido o sólido.
 Mi ESCUDO eS#INMUN3 A TuS#BAL4S.
 ASÍ qUE_DEBERÍAS#R3NDIrTE.
 Y DE ToDOS MODOS, ,,
