@@ -30,8 +30,12 @@ function obtenerEmailSpanish(argument0) //gml_Script_obtenerEmailSpanish
     ds_map_add(lista, "Missing Poster", "Poster Desaparecidos");
     ds_map_add(lista, "Steamworks ID", "Ident. Steamworks");
 
-    if ds_map_exists(lista, abuscar)
-        return ds_map_find_value(lista, abuscar);
-    return abuscar;
+    resultado = abuscar
+
+    if ds_map_exists(lista, abuscar){
+        resultado = ds_map_find_value(lista, abuscar)
+        ds_list_destroy(lista)
+    }
+    return resultado;
 }
 

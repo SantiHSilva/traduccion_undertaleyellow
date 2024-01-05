@@ -41,8 +41,12 @@ function obtenerRoomSpanish() //gml_Script_obtenerRoomSpanish
     ds_map_add(cuartos, "Apt. Complex", "Complejo de Apartamentos");
     ds_map_add(cuartos, "New Home", "Nuevo Hogar");
 
-    if ds_map_exists(cuartos, cuarto_actual)
-        return ds_map_find_value(cuartos, cuarto_actual)
-    return cuarto_actual
+    resultado = cuarto_actual
+
+    if ds_map_exists(cuartos, cuarto_actual){
+        resultado = ds_map_find_value(cuartos, cuarto_actual)
+        ds_map_destroy(cuartos)
+    }
+    return resultado
 }
 

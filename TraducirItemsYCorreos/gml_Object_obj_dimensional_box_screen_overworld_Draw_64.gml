@@ -15,7 +15,7 @@ for (var i = 1; i <= 8; i++)
         if (global.item_slot[i] == "Dihydrogen Monoxide")
             draw_text((xx + 32), ((yy + 12) + (i * 16)), string_hash_to_newline("H2O"))
         else if (global.item_slot[i] == "Friendliness Pellets")
-            draw_text((xx + 32), ((yy + 12) + (i * 16)), string_hash_to_newline("P. Amistad"))
+            draw_text((xx + 32), ((yy + 12) + (i * 16)), string_hash_to_newline("Bolitas Amist."))
         else
             draw_text((xx + 32), ((yy + 12) + (i * 16)), string_hash_to_newline(obtenerItemSpanish(string(global.item_slot[i]))))
     }
@@ -32,7 +32,7 @@ for (i = 0; i <= 9; i++)
         if (item_name == "Dihydrogen Monoxide")
             item_name = "H2O"
         else if (item_name == "Friendliness Pellets")
-            item_name = "P. Amistad"
+            item_name = "Bolitas Amist."
         draw_text((xx + 178), ((yy + 28) + (i * 16)), string_hash_to_newline(obtenerItemSpanish(string(item_name))))
     }
 }
