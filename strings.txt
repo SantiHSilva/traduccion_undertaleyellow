@@ -15024,9 +15024,9 @@ Futuro
 Nerosensei
 StillLiam
 Additional Spritework:
-And you!
-Not Special - No Thanks:
-The Shufflers
+¡Y tú!
+No Especial - No Gracias:
+Los Shufflers
 ¡Gracias por jugar!
 y_slow_down
 slow_down_treshold
@@ -15197,8 +15197,8 @@ image_scale_inc_max
 * Por supuesto, los bíceps no#  son parte de la pierna pero#  mi equipo sobrepasa las reglas.
 * Voy a necesitar que te#  muevas. Tu presencia está#  intimidando a todos aquí.
 interacted_with
-* (You examine the#  bookshelf...)	
-* (A title called "Mysteries of#  the Underground" catches your#  eye.)	
+* (Examinas la#  estantería...)	
+* (Un título llamado "Misterios#  del Subsuelo" te#  descubre.)	
 * (¿Leer?)
 * Chapter One: Blunko's#  Blunder.
 * Located in Oasis Valley, in a#  modern cafe you can't miss,#  lies an arcade cabinet.
@@ -15310,7 +15310,7 @@ angle_spread
 can_raise
 vspeed_inc
 * (Una solitaria chaqueta#  de seguridad cuelga#  de la pared.)
-* (¡Obtuviste un Safety Jacket!)
+* (¡Obtuviste una#  Chaqueta de Seguridad!)
 * (Varios monstruos#  disfrutan de una buena#  partida de póquer.)
 * ...¿Cómo sigo perdiendo?
 * (¡Las cosas se ponen duras!#  ¡Podría ser el juego#  de cualquiera!)
@@ -15354,18 +15354,18 @@ oscillator
 colliding_clay
 eye_shoot
 sequence_layer_goosic
-* I figured out where#  those boulders were#  coming from.	
-* Turns out North Star#  set the machines up for#  "Feisty Missions."	
-* Had a friendly chat#  with him about it all.	
-* He immediately#  apologized so... I#  forgave him.	
-* How could I say no to#  his overwhelming charm?	
-* I'm only monster.
-* As my old man used to#  say: mine on, kid!	
-* Okay, he uh... he never#  said that. I said that.#  Just now.
-* (It's full of epic emptiness.)
-* (You open the mysterious chest#  as an epic melody slowly#  crescendos in your head.)
-* (You found a Golden Bandana!)
-* (You got the Golden Bandana!)
+* Descubrí de dónde venían#  esas piedras.
+* Resulta que North Star#  preparó las máquinas#  para "Misiones Feisty".
+* Tuve una charla#  amistosa con él#  sobre todo esto.
+* Inmediatamente se#  disculpó, así#  que... lo perdoné.	
+* ¿Cómo podría decir#  que no a su#  abrumador encanto?	
+* Sólo soy un monstruo.
+* Como solía decir mi#  viejo: ¡sigue así,#  niño!	
+* Vale, él... él nunca#  dijo eso. Yo dije eso.#  Justo ahora.
+* (Está lleno de un#  vacío épico.)
+* (Abres el misterioso cofre#  mientras una melodía épica#  cresce lentamente en tu cabeza.)
+* (¡Has encontrado#  un Pañuelo Dorado!)
+* (¡Obtuviste el#  Pañuelo Dorado!)
 * En serio lo logramos...
 * Espero que este elevador#  funcione.
 elevator_sound
@@ -15427,16 +15427,16 @@ new_coin
 * ¿Cuando llegará alguien que#  me proporcione diversión?
 * Ese será el día.
 * Supongo que no lastimará#  esperar un poco más.
-* oh hey. no hard feelings about#  the fight earlier.
-* like sure, we kinda broke the#  first law of robotics but tbh,#  we live in a lawless land. 
-* anarchy reigns in this#  metallic hellscape.
-* the three of us are the last#  Lil Bots around.
-* only became that way an hour#  ago.
-* one of our models rallied#  seven others to high dive into#  the burning lake.
-* why? beats me.
-* apparently the stuff tastes#  good but the calories can't be#  good for you.
-* it's also, like, 300 degrees#  celsius.
-* sorry i'm out of dialogue.
+* oh hey. sin resentimientos#  por la pelea de antes.
+* claro que hemos roto la#  primera ley de la robótica,#  pero vivimos sin ley. 
+* la anarquía reina en este#  infierno metálico.
+* nosotros tres somos los#  últimos Lil Bots#  que quedan.
+* sólo se volvió así hace#  una hora.
+* uno de nuestros modelos#  reunió a otros siete para#  saltar al lago en llamas.
+* ¿por qué? ni idea.
+* aparentemente las cosas#  saben bien pero las calorias no#  pueden ser buenas para ti.
+* también es, como,#  300 grados celsius.
+* lo siento me he#  quedado sin dialogo.
 * Clover... Tú...
 * Como pudiste...
 * ¡¡Este no era el plan!!
@@ -15517,7 +15517,7 @@ xx_3
 pain_sound
 * (...Phew.)
 * (Un pastel en su jaula.)
-* (Te gustaría un poco#  de Cake pero prefieres#  no alertar a Axis.)
+* (Te gustaría un poco#  de Tarta pero prefieres#  no alertar a Axis.)
 * (¿Arriesgarse?)
 * (Más vale prevenir#  que lamentar.)
 cood_x
@@ -15549,17 +15549,17 @@ bul_hsp
 bul_vsp
 hurt_interval
 flowey_npc
-* Looks like things are#  heating up!
-* Literally, that is.
-* Since you shut the bots#  down, it should be an#  easy stroll to the exit.
+* ¡Parece que las cosas#  se están calentando!
+* Literalmente, eso es.
+* Desde que cerraste los#  robots, debería ser un#  paseo hasta la salida.
 * Buena suerte, Clover.
-* But just in case, I'd#  like to give you a#  little gift...
-* From your best friend.
-* I think it's time you#  try your hand at#  wielding the pellets.
-* Sure, you could use#  rubber, silver, nails,#  whatever.
-* But these are#  the real deal.
-* It's fully up to you#  but I just wanted to let#  you know...
-* ...Our partnership#  means a lot to me.
+* Pero por si acaso, me#  gustaría hacerte un#  pequeño regalo...
+* De tu mejor amigo.
+* Creo que es hora de#  que pruebes a manejar#  las balas.
+* Claro, puedes usar#  goma, plata, clavos,#  lo que sea.
+* Pero estos son de#  verdad.
+* Depende totalmente de#  ti pero sólo quería#  que supieras...
+* ...Nuestra relación#  significa mucho para#  mí.
 pacifist_cutscene
 * (Escuchas la bulla de#  los ventiladores dentro#  de la consola caliente.)	
 * (Es mejor dejarlo así.)
@@ -15593,7 +15593,7 @@ Atrás
 * ERROR: No se pudo#  terminar la tarea.
 * Era broma ;)
 * Apagado de emergencia#  completado.
-* Why did you select this#  option then?
+* ¿Por qué ha elegido#  esta opción?
 text_box_noloop
 autowalk_direction_no_loop
 get_last_room_no_loop
@@ -15829,10 +15829,10 @@ hint_marker_alpha
 note_destroy
 fail_sound
 moving_cabinet
-* (A presence is cowering behind#  the storage cabinet.)	
-* (But it won't budge.)
-* (You notice wall cracks peeking#  out from behind the cabinet.)	
-* (Move it?)
+* (Una presencia se esconde detrás#  del armario.)	
+* (Pero no se mueve.)
+* (Notas grietas en la pared#  asomando por detrás#  del armario.)	
+* (¿Moverlo?)
 cave_y_end
 clover_y_end
 y_increase
@@ -15914,11 +15914,11 @@ Snowdin - Bosque
 Dunas - Minas del Este
 Dunas - Valle del Oasis
 Salvaje Este - Granja
-* Are you sure you want to#  drop the 
-* You cannot drop the#  
-TA-TA-TAKE#A CHILL PILL#BUDDY !
-THREE'S A CROWD !#IT'S CONCERT#TIME !
-I SEE YOUR MOVES !#GET IT GET IT !
+* ¿Estás seguro de que quieres tirar 
+* No se puede tirar el#  
+¡TO-TO-TÓMATE#UN CALMANTE#AMIGO!
+¡TRES SON MULTITUD!#¡ES HORA DEL#CONCIERTO!
+VEO TUS MOVIMIENTOS.#¡CONSÍGUELO,#CONSÍGUELO!
 MAIL TEXT
 mail_text_color
 text_draw_y
@@ -15933,7 +15933,7 @@ mail_height
 stamp_yy
 stamp_xx
 heart_y
-* Are you sure you want to#  drop the mail?
+* ¿Seguro que quieres#  tirar el correo?
 appear
 [ Presiona Z o ENTER ]
 first_time
@@ -16017,12 +16017,12 @@ walk_direction_flip
 destination_count
 up_sprite_old
 left_sprite_old
-* Hello. This is MARTLET.
-* Just kidding, I'm TESTLET.#* I'm here to show you#  how I can walk around.
-* Watch and learn, kiddo!
+* Hola. Soy MARTLET.
+* Sólo bromeaba, soy TESTLET.#* Estoy aquí para mostrarte#  cómo puedo caminar.
+* ¡Mira y aprende, niño!
 arrived
-* I bet you can't walk#  like that, scrub.
-* Testlet, out!
+* Apuesto a que no puedes#  caminar así, matorral.
+* ¡Testlet, fuera!
 martlet_fly_away
 spr_rals_up
 spr_rals_right
@@ -16034,22 +16034,22 @@ npc_move_current
 last_player_dir
 y_new
 drawpath
-* This is really bad.
-* I'm a fake test Starlo.
-* But I won't leave#  it this way!
-* (It doesn't have to be this way.)
+* Esto es realmente malo.
+* Soy una prueba falsa#  Starlo.
+* ¡Pero no lo dejaré así!
+* (No tiene por qué ser#  así.)
 * A
-* I'm really sorry about#  the pops Starlo.
-* When I see them...#  It's like a demon takes#  over.
-* Look at it from#  my point of view.
-* You're looking forward#  to some pops after a#  long hard work day...
-* Only to come home#  just to see...
-* Just to see...
-* Argh!
-* I need time...
-* Loool worth it.
-* Those pops were#  delicious.
-* What are YOU looking#  at?!
+* Siento mucho lo de las#  paletas de#  Starlo.
+* Cuando los veo... es#  como si un demonio#  se apoderara de mí.
+* Míralo desde#  mi punto de vista.
+* Te apetecen unas#  palomitas después de#  un duro día de trabajo...
+* Sólo para volver a#  casa sólo para#  ver...
+* Sólo para ver...
+* ¡Argh!
+* Necesito tiempo...
+* Loool vale la pena.
+* Esas paletas estaban# deliciosas.
+* ¡¿Qué ESTÁS mirando?!
 default_x
 default_y
 action_script
@@ -16098,17 +16098,17 @@ Oye ¡no arruinesn#mi circuito#eléctrico!
 ¡No toques eso!#En serio, voy#a lastimarte.
 ¡Vivo la vida en#gloriosa definición#estándar!#¡Nada mejor!
 Nunca oigas el#consejo de Vis.#¡Es un bocón!
-Network TV? Yeah,#I do the work,#and they net#the profits!
+¿Red de TV? ¡Sí,#yo hago el#trabajo y#ellos obtienen#los beneficios!
 xview_orig
 yview_orig
-* Just tricked some chump into#  doin' my job for me.	
-* Told 'em the Foreman wanted#  him on minecart duty, ha!	
-* What's with that look? It was#  only a prank.
-* 'Ay, why you starin'?
-* I swear, it's all you kids do!
-* Don'tcha have somewhere to#  be?	
-* Hopscotch game or somethin'?	
-* Go on, get!
+* Sólo engañé a un tonto para#  que hiciera mi trabajo#  por mí.	
+* Les dije que el capataz lo#  quería de guardia en#  el carro de minas.	
+* ¿Por qué esa mirada? Era#  sólo una broma.
+* 'Ay, ¿por qué te#  quedas mirando?
+* ¡Lo juro, es todo#  lo que hacén los#  niños!
+* ¿No tienes ningún#  sitio donde estar?	
+* ¿Jugar a la pata#  sola o algo así?	
+* ¡Vamos, vete!
 martlet_takeoff_sound
 axis_charge_sound
 sprites_water_override
@@ -16366,7 +16366,7 @@ Caí en un charco
 * Escuché que New Home#  está superpoblada.
 * Algunos suburbios aquí#  y otros por allá#  deberían arreglarlo.
 * ...Quizás drenar el#  lago de sustancia mortal#  primero.
-* New Home...
+* Nuevo Hogar...
 * Lo que se quejaría#  Chujin de ese lugar.
 * Larga historia.
 * Política, creativos#  siendo creativos...#  You know.
@@ -16386,10 +16386,10 @@ Caí en un charco
 * ...No te importa,#  ¿verdad?
 * ...Bien. 
 * No entiendo a los#  humanos.
-* Looks like this way's a#  dead end.
-* Heading west might be#  best.
-* Huh. Accidental rhyme.
-* Nice.
+* Parece que este camino#  es un callejón#  sin salida.
+* Dirigirse al oeste#  podría ser lo#  mejor.
+* Huh. Rima accidental.
+* Bien.
 * No te pelearé si#  quieres subir al ferry-bot#  de nuevo pero...
 * ...no puedo decir#  que lo disfruté.
 * Ya sabes... a centímetros#  de quemarte viva#  en un jugo luminoso.
@@ -16819,7 +16819,7 @@ attack_color
 readjust
 * (Hay un libro de párrafos#  bien escritos sobre el#  escritorio.)
 * (Todos parecen ser muy#  similares.)
-* (¿Lees uno?)
+* (¿Leer uno?)
 * Dalv es un solitario que vive en# las ruinas del Hogar.
 * Le gusta pasear tranquilamente en oscuridad,#  limpiar y mejorar las canciones#  de su órgano.
 * Quiere compartir con la# juventud del Subsuelo...
