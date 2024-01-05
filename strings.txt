@@ -981,13 +981,13 @@ Invernadero
 Steamw. - Cruces
 Steamw. - Laboratorio
 Steamw. - Botánic
-Factory - Lobby
-Factory - Oficinas
+Fábrica - Vestíbulo
+Fábrica - Oficinas
 El Horno
 Camino por delante
-Estado
-Apt. Complex
-Nuevo Hogar
+Propiedad
+Complejo de Apartamentos
+Nuevo Hogar 
 scr_determine_save_area
 gml_Script_scr_recreate_heart_battle_menu_text_jandroid_duo
 scr_recreate_heart_battle_menu_text_jandroid_duo
