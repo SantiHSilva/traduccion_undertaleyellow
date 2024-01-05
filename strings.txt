@@ -3710,7 +3710,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_5
 * Los Jandroid se están#  trapeando las caras.
 * Goosic sube el volumen de la#  música mientras Jandroid#  pasa la fregona.
 * ¡Guardener da todo lo que#  tiene!
-* ¡buenas! ¡soy flowey! ¡flowey#  la flor! ¡hm pareces confundido!#  toriel debió haberte ens-
+* ¡buenas! ¡soy flowey! ¡flowey#  la flor! ¡hmmm pareces confuso!#  toriel debió haberte ens-
 * La concentración de Ceroba#  aumenta.
 * El enemigo no puede durar para#  siempre.
 * Rotundidad.
@@ -4077,7 +4077,7 @@ action_3_color_3
 * Antagonizar
 * Enfriar
 * Endurecer
-* Estrésar
+* Estresar
 * Mendigar
 * Debilitar
 * Decaer
@@ -4243,7 +4243,7 @@ gml_Script_scr_dialogue_battle_action_selected_action_1_jandroid_a
 gml_Script_scr_dialogue_battle_action_selected_action_1_goosic_b
 gml_Script_scr_dialogue_battle_action_selected_action_1_macro
 gml_Script_scr_dialogue_battle_action_selected_action_1_guardener
-* Recovered 30% of your HP!
+* ¡Recuperaste 30% de tu PV!
 gml_Script_scr_battle_core_directory_action_1_selected_event
 gml_Script_scr_battle_core_directory_action_1_selected_text
 scr_battle_core_directory_action_1_selected_text
@@ -9485,7 +9485,7 @@ statue
 * (Otra planta.)
 * (Una planta en maceta.)
 * NÚCLEO en#  mantenimiento.	
-* Por favor no cruze#  ni salte la soga#  roja.
+* Por favor no cruze ni salte#  la soga roja.
 * (Información inútil.)
 * (Te das cuenta de una hoja#  de clasificación en#  el tablero.)
 * Ganadores del "Desafío del#  Batido de Magma de la#  Actualidad":
@@ -10320,8 +10320,8 @@ layer_remove_x_inc
 spawn_vines
 actor_clover
 * ¿Clover?
-* Where did you go, buddy?
-* Get b a c k   h   e    r     e 
+* ¿A dónde te fuiste, amiguito?
+* Vuelve p a r a   a   c    á      
 snake_spawn_last
 attack_tick
 snake_spawn_x
@@ -11056,12 +11056,12 @@ Sounds good
 * Intenté mantener una#  imagen amistosa pero#  wow...
 * ¡Realmente me llevaste#  a mi límite!
 * Pero, he de decir, se#  siente bien por fin#  poder MATAR, ¿sabes?
-* ¡Ella nunca lo vió venir!
-* ¡Lo mejor de todo, es que#  pensó que TÚ la habías#  traicionado al final!
+* ¡Ella nunca lo vió#  venir!
+* ¡Lo mejor de todo, es#  que pensó que TÚ la#  habías traicionado!
 * ¡Que IDIOTA!
-* Me apuesto que ni siquiera-   
+* Apuesto que ni siquiera-   
 * ¡No-oh-oh!
-* ¿Nos estamos emocionando?
+* ¿Nos estamos#  emocionando?
 * Creo que te has olvidado#  de quién está al mando#  aquí.
 * Tuvimos un buen intento,#  ¿no es así?
 * Que mal que no voy#  lo voy a extrañar.
@@ -11069,7 +11069,7 @@ img_index
 big_flowey
 noise
 noise_pop
-* ¡MMMmm debería haber hecho#  esto antes, eh!
+* ¡MMMmm debí haber hecho#  esto antes, eh!
 * ¿Todavía te aferras? ¡Qué#  terco eres!
 * ¡Relájate un poco, amigo!
 * Tú sabías que esto NO#  tenía que pasar, ¿verdad?
@@ -11908,7 +11908,7 @@ pollen
 * ENTONCES. ..
 * ¿PoR QUé NO PRU3BAS TU#  SUERTE?
 yellow_overlay_alpha
-* (Get on?)
+* (¿Subirse?)
 jump_noloop
 overlay
 * (Un hueco vació está ante ti.)
@@ -12511,19 +12511,19 @@ actor_toriel
 x_offset_prev
 * Estoy orgulloso de ti,#  mi niño.
 * ¡Adelante,#  empuja la roca!
-* Estás aprendiendo#  mucho, mi niño!
-* He visto#  el mismo comportamiento#  infantil...
+* ¡Estás aprendiendo#  mucho, mi niño!
+* He visto el mismo#  comportamiento infantil...
 current_destination
-* Y más de...
-* Y más de.
-* Claro, pequeñas decisiones#  aquí y allá#  variarían pero...
-* El viaje siempre#  terminaría contigo#  viviendo ignorantemente con Toriel.
+* Una y otra...
+* Y otra vez.
+* Claro, pequeñas decisiones#  aquí y allá varian pero...
+* El viaje siempre#  termina contigo viviendo#  ignorantemente con Toriel.
 * Tenía que intervenir.
 * Al principio, mis esfuerzos#  parecían funcionar.
 music_stop_noloop
 * Las tensión aumentaba#  y abandonabas las Ruinas.
 * Pero luego, #  aparecieron otros problemas...
-* No importa cuántas veces#  hayas viajado por...
+* No importa cuántas veces#  hayas pasado por el#  mismo lugar...
 keep_on_screen
 * Siempre morías.
 x_min
@@ -12534,7 +12534,7 @@ lasers_active
 * Bueno, ¡el resto#  es historia!
 msg_flowey
 * ¡Oh, vamos! ¿Todavía estás aquí?
-* ¡Pensé que almenos mi historia#  te aburriría tanto#  que te rendirías!
+* ¡Pensé que al menos mi historia#  te aburriría tanto#  que te rendirías!
 * ¿De verdad quieres hacer esto#  por las malas? 
 * Jajaja, ¡de acuerdo!
 * ¡Divirtámonos un poco antes de#  que absorba tu ALMA para siempre!
@@ -12744,14 +12744,14 @@ pe_droplet
 * ¡Estaba tan asustada! 
 * Este lugar...
 * Es Snowdin, ¿verdad?#  Seguro que lo parece.
-* No tengo la menor idea#  de lo que está#  pasando aquí.
-* Lo último que recuerdo es#  a nosotros hablando en#  esa azotea...
-* ¡Ah, sí! ¡Ibamos a mi casa!
-* No sé muy bien dónde está#  a partir de aquí,#  ¡pero buscaremos juntos!
+* No tengo la menor idea#  de lo que está pasando aquí.
+* Lo último que recuerdo es#  a nosotros hablando en#  ese techo...
+* ¡Ah, sí! ¡Íbamos a mi casa!
+* No sé muy bien dónde está#  partiendo de aquí,#  ¡pero la buscaremos juntos!
 * ¡Estoy tan contenta de#  haberte encontrado!
 * Me alegra haberte#  encontrado.
 * Te encontré.
-* T E  E N C O N T R É . 
+* T E   E N C O N T R É . 
 * (Necesitamos permanecer#  concentrados.)
 * (No molestemos a otros# con nuestros problemas.)
 * ¿Conoces esa estación del SPSS #  que está afuera?
@@ -13636,7 +13636,7 @@ trapdoor_spawn_particles
 * Well, I'm gonna go soon.
 * Hope my eternal gratitude#  helped you!
 dialogue
-* where am i?
+* ¿dónde estoy?
 crayon_color
 draw_y_offset
 pointed_at
@@ -13656,7 +13656,7 @@ gear_current
 launch_dir_new
 dir_new
 arm_return
-Ahora, ¡recuerda#lo que te#enseñé!
+Ahora, ¡recuerda#lo que te enseñé!
 ¡Esquiva las balas!
 advance_message
 distance_counter
@@ -14613,50 +14613,50 @@ controller_flowey
 hp_bar_alpha
 fun_value_check
 song_pos
-* H O W D Y .
-* Have fun with your friend back#  there?
-* Hahahahaha!!!
-* Thought you slipped away for a#  second didn't ya?
-* You are quite a vigilant one...
-* Bet you could've outlasted#  ASGORE if you bothered to reach#  him.
-* Even though your choices in#  this timeline are useless to me#  now...
-* I didn't outright HATE our time#  together. Not all of it.
-* Two lost souls deciding who#  lives or dies...
-* Most of the time you were#  insufferable but when you gave#  in...
-* ...Gave in to your true violent#  urges. That was the best part.
-* That's when I knew you had it#  in you to fight the King.
-* But that was so long ago, haha.#  Just look at you now!
-* Barely recognizable!
-* You know, some say yellow is#  the color of justice.
-* Close, but that's not the word#  I would choose...
-* Yellow is the color of#  judgment.
-* Consequence...
-* You would know, wouldn't you?
-* Ahhh, you're right.
-* Who cares about all that?
-* Life's all about the thrill!#  How fun your experiences are!
-* Our time here has been way#  better than any interaction out#  there!
-* And I'm not looking for it to#  end any time soon!
-* Of course, it can't last#  forever.
-* After I overtake your SOUL,#  I'll kill ASGORE.
-* I'll absorb all those poor#  children you couldn't save!
-* Then and only then, I will#  become GOD.
-* But for now... this is only the#  beginning. 
-* So please, resist.
-* Let's entertain each other a#  while longer.
-* After all, in this world...
- IT'S KILL OR BE KILLED
+* B U E N A S .
+* ¿Te divertiste con tu amiga#  por allá?
+* ¡¡¡Jajajajaja!!!
+* ¿Pensaste que te escapaste#  por un segundo verdad?
+* Eres alguien atento...
+* Apuesto a que hubieras podido#  soportar a ASGORE si te hubieras#  molestado en llegar a él.
+* A pesar de que tus decisiones#  en esta línea temporal no#  me sirven más...
+* No ODIÉ directamente el tiempo#  que pasamos juntos. No todo.
+* Dos almas perdidas decidiendo#  quien vive o muere...
+* La mayor parte del tiempo eras#  insufrible pero cuando te#  rendiste...
+* ...Te rendiste ante tus#  verdaderos impulsos violentos. Esa#  fue la mejor parte.
+* Ahí fue cuando supe que tenías#  lo suficiente para pelear contra#  el Rey.
+* Pero eso fue hace mucho atrás,#  jaja. ¡Solo mírate ahora!
+* ¡Apenas eres reconocible!
+* Sabes, algunos dicen que el#  color amarillo representa justicia.
+* Casi, pero no es la palabra#  que yo elegiría...
+* Amarillo es el color del#  juicio.
+* Consecuencia...
+* Tú lo sabes, ¿verdad?
+* Ahhh, tienes razón.
+* ¿A quién le importa todo eso?
+* ¡La vida es acerca de emociones!#  ¡Lo divertidas que son las#  experiencias!
+* ¡Nuestro tiempo aquí ha sido#  mucho mejor que cualquier interacción#  afuera!
+* ¡Y no pienso que termine pronto!
+* Por supuesto, no puede durar#  para siempre.
+* Después de tomar tu ALMA,#  mataré a ASGORE.
+* ¡Absorveré a todos esos pobres#  niños que no pudiste salvar!
+* Entonces y solo entonces, me#  convertiré en DIOS.
+* Pero por ahora... esto es solo#  el comienzo. 
+* Así que por favor, resiste.
+* Entretengamonos por un rato#  más.
+* Después de todo, en este mundo...
+ ES MATAR O MORIR
 fight_end
 * Oye.
-* And here we go.
-* Just give up!
-* Come on!
+* Y aquí vamos.
+* ¡Solo ríndete!
+* ¡Vamos!
 * Uh-huh...
-* WHAT IS WRONG WITH YOU???
-* Idiot!
-* Please!
-* I really hate you, you know that?
-* Y o u . . .
+* ¿¿¿QUÉ ESTÁ MAL CONTIGO???
+* ¡Idiota!
+* ¡Por favor!
+* En serio te odio, ¿sabías eso?
+* T ú . . .
 * . . . . . .
 * ......
 camw_old
@@ -14668,9 +14668,9 @@ camw_new
 camh_new
 camx_new
 camy_new
-* Useless...
-* Even now...
-* All of it.
+* Inútil...
+* Incluso ahora...
+* Todo esto.
 * ¿Qué es esto?
 * Genial.
 hp
@@ -15027,7 +15027,7 @@ Additional Spritework:
 And you!
 Not Special - No Thanks:
 The Shufflers
-Thank you for playing!
+Gracias por jugar!
 y_slow_down
 slow_down_treshold
 flowey_noloop
@@ -25227,79 +25227,79 @@ Check 2
 Check 3
 * ¡Esto solo se esta#  poniendo peor!
 * ¡No detengas los#  esfuerzos para#  liberarnos!
-* Heh, I can't believe I thought#  this run might be it.
-* It's no wonder we make a good#  team.
-* You're a lot like me in a way.
-* Too stubborn to lie down and#  accept your situation.
-* Too... determined.
-* You're so annoying.
-* I thought this would be fun,#  and I suppose it was...
-* ...For a moment.
-* But I'm over it now.
-* I don't think either of us feel#  like fighting for all eternity#  so...
-* I'll cut you a deal.
-* I'm going to reset. Back to#  when you first arrived.
-* Of course, you probably won't#  remember this.
-* We can be "pals" all over#  again. Reunited.
-* If we end up in the same spot,#  I may try this again.
-* If you can remember anything#  from right now...
-* Try to make different decisions#  next time.
-* There's a better timeline out#  there for both of us.
-* Not that I care about you, this#  outcome just sucks.
-* It was all in my mind!
-* No one could see it, it wasn't#  threatening lives...
-* Doesn't come close to what I'm#  TRULY aiming for.
-* When I reach that goal, you'll#  be there to witness it.
-* A spectacle like the world's#  never seen!
-* So... When we meet again in#  that dingy room...
-* You're gonna help me get what I#  want.
-* Like it or not, I decide your#  fate now.
-* Haha! If only I could see your#  reaction to all this!
-* Oh, who am I kidding?
-* Your face would only look like#  it always did!
-* Here we are again.
-* Wasn't as terrifying or flashy#  as it was the first time, huh?
-* Cut me some slack! My#  imagination is only so vast!
-* Forget it. I might as well be#  talking to a wall.
-* You don't retain your memory#  after resets.
-* That's why I have to explain#  the same things every time.
-* Place the same savepoints,#  make the same comments...
-* "Golly, this place sure is#  ____!" 
-* "Keep up the good work,#  buddy!"
-* "Remember your mission!"
-* Over and over and over and#  over...
-* But I notice things each run.
-* You solve puzzles faster.
-* You defeat monsters faster.
-* You navigate the Underground#  like you have a map.
-* All that, yet I know your#  memory is wiped clean.
-* I can't explain it...
-* Maybe at some point it will#  all culminate.
-* You will finally lead me to#  what I need.
-* Until then, I'll reset.
-* And reset and reset and reset#  and reset and reset and reset#  and reset and
-* Why do we keep ending up here?
-* Every time you make certain#  choices, it's the rooftop.
+* Heh, no puedo creer que pensé#  que este intento sería distinto.
+* No es sorpresa que hagamos#  un buen equipo.
+* De alguna manera te pareces mucho#  a mi.
+* Muy terco para sentarse y#  aceptar tu situación.
+* Muy... determinado.
+* Eres tan molesto.
+* Creí que esto sería divertido,#  supongo que lo fue...
+* ...Por un momento.
+* Pero ya me cansé.
+* No creo que ninguno de los#  queramos pelear por toda la#  eternidad así que...
+* Te ofrezco un trato.
+* Voy a resetear. De vuelta a#  cuando llegaste.
+* Por supuesto, probablemente no#  recordarás esto.
+* Podemos ser "amigos" de nuevo.#  Reunidos.
+* Si terminamos en el mismo#  lugar, puede que intente esto#  de nuevo.
+* Si recuerdas cualquier cosa de#  ahora en adelante...
+* Intenta hacer diferentes#  decisiones la próxima vez.
+* Hay una mejor línea temporal#  para ambos.
+* No es que me importes, este#  resultado simplemente apesta.
+* ¡Todo estaba en mi mente!
+* Nadie lo notaba, no#  amenazaba vidas...
+* No se acerca a lo que REALMENTE#  busco.
+* Cuando llegue a esa meta,#  tú estarás para presenciarlo.
+* ¡Un espectáculo nunca antes#  visto por el mundo!
+* Así que... Cuando nos volvamos#  a encontrar en esa mugrosa#  habitación...
+* Vas a ayudarme con lo que#  quiero.
+* Te guste o no, yo decido tu#  destino ahora.
+* ¡Jaja! ¡Si tan solo pudiera#  ver tu reacción ante todo#  esto!
+* Oh, ¿a quién engaño?
+* ¡Tu cara se vería como siempre#  se ha visto!
+* Aquí estamos de nuevo.
+* No fue tan terrorífico y#  deslumbrante como la primera vez,#  ¿huh?
+* ¡Dame un respiro! ¡Mi#  imaginación tiene su límite!
+* Olvídalo. Igual y le estoy#  hablando a una pared.
+* No retienes tu memoria después#  de los reseteos.
+* Es por eso que tengo que#  explicarte las mismas cosas#  de nuevo.
+* Colocar los mismos puntos de#  guardados, hacer los mismos#  comentarios...
+* "¡Caramba, este lugar si que es#  ____!" 
+* "¡Sigue así, amigo!"
+* "¡Recuerda tu misión!"
+* Una y otra y otra y otra#  vez...
+* Pero en cada intento siempre#  noto algo.
+* Resuelves los puzzles más#  rápido.
+* Derrotas los enemigos más#  rápido.
+* Navegas el Subsuelo como#  si tuvieras un mapa.
+* Todo eso, sin embargo sé que#  tu memoria está completamente#  limpia.
+* No puedo explicarlo...
+* Tal vez en algún punto todo#  culmine.
+* Finalmente me llevarás a lo#  que necesito.
+* Hasta entonces, resetearé.
+* Restearé y restearé y #  restearé y restearé y #  restearé y restearé y
+* ¿Por qué siempre terminó#  aquí?
+* Siempre que haces  ciertas#  decisiones, es el techo.
 * Martlet siempre te convence#  para que vayas con ella.
-* Am I supposed to just... let#  that happen?
-* No... I've seen you surrender#  and adapt before.
-* It doesn't lead anywhere.
-* So, what? Is this it? Is this#  the way it has to be?
-* When I first steered you into#  the Dark Ruins...
-* I could've sworn I was onto#  something.
-* But it feels like your life -#  your fate - is locked in.
-* As if there's a specific way#  it MUST play out.
-* If that's true... what does#  that fate lead to? Ultimately?
-* ...Maybe you're not the one I#  need?
-* Maybe you're only a stepping#  stone? A... precursor.
-* "They come. They leave. They#  die."
-* That's what she always said.
-* There will be another.	
-* And this "helpful" act... It's#  not working.	
-* I need to embrace who I really#  am as soon as I'm rid of you.	
-* For now, however, I have to#  keep it up.	
-* I know what it's like to be at#  rock bottom without hope.	
-* This... while incredibly#  frustrating...	
+* ¿Se supone que... debo dejar#  que eso ocurra?
+* No... te he visto rendirte#  y adapatarte antes.
+* No lleva a ninguna parte.
+* Así que, ¿qué? ¿Esto estodo?#  ¿Esta es la manera en#  la que debe de ser?
+* La primera vez que te oriente a#  las Ruinas Oscuras...
+* Juraba estar consiguiendo algo.
+* Pero parece que tu vida -#  tu destino - está sellado.
+* Como si hubiera una manera#  específica en la que TIENE que#  ocurrir.
+* Si eso es cierto... ¿a qué#  lleva ese destino? ¿a fin#  de cuentas?
+* ...¿Tal vez no eres a quien#  necesito?
+* ¿Tal vez solo eres un escalón#  Un... precursor.
+* "Ellos llegan. Se van. Se#  mueren."
+* Es lo que ella siempre dice.
+* Habrá otro.	
+* Y este acto de "ayuda"...#  no está funcionando.	
+* Necesito aceptar quien soy#  realmente apenas me deshaga#  de ti.	
+* Por ahora, sin embargo,#  tengo que continuar con esto.	
+* Sé lo que es estar al fondo#  y sin esperanzas.	
+* Esto... aunque es increíblemente#  frustrante...	
 * This act has gotten me the#  closest I've ever been to my#  goal.	
 * It's the first time I've felt#  like I've made true progress.	
 * Sure I could try rigging a new#  puzzle...	
@@ -25328,10 +25328,10 @@ Check 3
 * I have to reset until I find#  the right path.
 * Until you make the right#  choices.
 * Until it...
-* Alright, alright, I'll let you#  go.
-* I do need a little time to#  practice my intro monologue,#  though.
-* Feel free to pace yourself#  before the big fall!
-* See ya later, Clover!
+* Okei, okei, te dejaré ir.
+* Tengo que practicar mi#  monólogo de introducción.
+* ¡Prepárate antes de la gran#  caída!
+* ¡Hasta luego, Clover!
 * You check the sole of your boot#  for signs of squished Froggit.#* You only find your dusty boot.
 * ¡GANASTE!#* Obtuviste 0 XP y 
 * (La misteriosa señora cabra#  asustó a Froggit.)
