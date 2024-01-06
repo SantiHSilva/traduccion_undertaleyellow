@@ -981,13 +981,13 @@ Invernadero
 Steamw. - Cruces
 Steamw. - Laboratorio
 Steamw. - Botánic
-Factory - Lobby
-Factory - Oficinas
+Fábrica - Vestíbulo
+Fábrica - Oficinas
 El Horno
 Camino por delante
-Estado
-Apt. Complex
-Nuevo Hogar
+Propiedad
+Complejo de Apartamentos
+Nuevo Hogar 
 scr_determine_save_area
 gml_Script_scr_recreate_heart_battle_menu_text_jandroid_duo
 scr_recreate_heart_battle_menu_text_jandroid_duo
@@ -1887,14 +1887,14 @@ H. Acid
 * (¡El jarabe es muy dulce!)
 * (Comes la galleta.)
 * (Sientes como si te mirara#  mientras la comes.)
-* (Comes el Hot Chocolate Pop.)
+* (Comes la Paleta de Chocolate#  caliente.)
 * (Tiene el distintivo sabor#  a algo que alguna vez#  estuvo caliente.)
-* (Comes el Lukewarm Chocolate#  Pop.)
+* (Comes la Paleta de Chocolate#  tibio.)
 * (Tiene el distintivo sabor#  a algo que estuvo#  caliente y luego se pudrió.)
 * (No es bueno.)
-* (Comes el Cold Chocolate Pop.)
+* (Comes la Paleta de Chocolate#  frío.)
 * (Tiene el distintivo sabor#  de cosas realmente heladas.)
-* (Tragas el Half N' Half#  Golden Coffee.)
+* (Tragas el Mitad y#  Mitad Café Dorado.)
 * (Sabe a... café normal.)
 * (Le das un buen mordizco#  al cactus.)
 * (Te muerde de vuelta.)
@@ -2016,10 +2016,10 @@ info
 * "Panqueue Hndw" - Cura 16 HP #* (Un panqueque listo para comer#  con almíbar de miel.)
 * "G.B. Oso" - Cura 20 HP#* (Una galleta hecha para#  verse como el rostro de alguien.)
 * (¡Que creativa y original#  idea!)
-* "Caliente Pop" - Cura 14 HP#* (Chocolate caliente, enfriado y#  luego recalentado.)
-* "Tibio Pop" - Cura 8 HP#* (Chocolate caliente enfriado hasta# estar tibio.)
-* "Congelado Pop" - Cura 12 HP#* (Chocolate calentado, enfriado#  y luego congelado.)
-* "Café G." - (Reduce el peso#  de tu alma, da un aumento#  de velocidad por 3 turnos.)
+* "Paleta Caliente" - Cura 14 HP#* (Chocolate caliente, enfriado y#  luego recalentado.)
+* "Paleta Tibia" - Cura 8 HP#* (Chocolate caliente enfriado hasta# estar tibio.)
+* "Paleta Congelada" - Cura 12 HP#* (Chocolate calentado, enfriado#  y luego congelado.)
+* "Café Dor." - (Reduce el peso#  de tu alma, da un aumento#  de velocidad por 3 turnos.)
 * (Una bebida deliciosa, mitad#  metal de transición.)
 * (Solo huele como café, creo...)
 * "G. Cactus" - (Cura 15 HP#  por 3 turnos. El primer#  bocado quita 5 HP.)
@@ -2052,10 +2052,10 @@ info
  "Magdalena Floral" - Cura 50 HP"
 * (Hermoso pastel coronado#  con una flor dorada#  de glaseado.)
  "Hot Dog" - Cura 20 HP"#* (Una comida representativa#  de tu insulto habitual.)
- "Caramelo Monstruo" - Cura 10 HP"
+ "Caramelo Monstruoso" - Cura 10 HP"
 * (El dulce olor a caramelo#  sale por el envoltorio.)
- "Caramelo Monstruo+" - Cura 15 HP"#* (Una delicia saborizada#  doblemente con azúcar.)
- "Strudel C-B" - Cura 30 HP"#* (Hecho con canela fresca#  y caramelo.)
+ "Caramelo Monstruoso+" - Cura 15 HP"#* (Una delicia saborizada#  doblemente con azúcar.)
+ "Pudín Cara-Nela" - Cura 30 HP"#* (Hecho con canela fresca#  y caramelo.)
  "Sopa de Maíz" - Cura 15 HP"#* (Restos de hace semanas#  del refri de Ceroba.)
  "Feisty Slider" - Cura 30 HP"
 * (¡Una pequeña hamburguesa#  con gran sabor! ¡A solo#  30 de oro en la Taberna!)
@@ -2107,7 +2107,7 @@ scr_inventory_check_space
 Action 1 Message 2
 gml_Script_scr_dialogue_battle_action_selected_action_1_sousborg
 scr_dialogue_battle_action_selected_action_1_sousborg
-Carta de Inicio
+Intro Letter
 mail
 mail_list_read
 ds_list_find_index
@@ -5082,7 +5082,7 @@ Pancake
 * F Slider
 * Pear
 * G. Coffee
-* Pistola de juguete
+* Toy Gun
 * W. Revolver
 * Worn Hat
 * Rubber
@@ -10471,17 +10471,17 @@ river_ambience
 * He estado pensando#  en ese día.
 * Un montón.
 * El tiempo es algo,#  gracioso, ¿Sabes?
-* Supongo que en el#  panorama de mi vida, fuiste#  sólo un parpadeo.
+* Supongo que en el#  panorama de mi vida,#  fuiste sólo un parpadeo.
 * Pero a menudo, esos#  "parpadeos" son los que#  más impacto causan.
 * El Rey me ofreció una#  promoción.
-* Un puesto en Nuevo#  Hogar.
-* Pero luego de experimentar#  lo peor que el trabajo#  tiene que ofrecer...
+* Un puesto en Nuevo#  Hogar. Pero...
+* Luego de experimentar#  lo peor que el trabajo#  tiene que ofrecer...
 * Lo rechacé.
 * No sólo eso, tomé#  mis dos semanas, je.
 * Allí... allí sentí#  que hay mejores causas#  en las que puedo entrar.
 * De todas formas...
 * Perdón por ponerte#  en otro de mis botes#  otra vez.
-* Podrá no ser la despedida#  más apropiada luego#  del útimo viaje...
+* Podrá no ser la#  despedida más apropiada#  luego del útimo viaje...
 * Pero es el mejor tributo#  que se me ocurrió.
 actor_starlo
 actor_ceroba
@@ -10511,7 +10511,7 @@ actor_ceroba
 . ¿A dónde iba con esto?
 * Clover te ayudó a salir#  de tu situación.
 * Sí.
-* En definitiva, Clover fue#  muy amable conmigo.
+* En definitiva, Clover#  fue  muy amable conmigo.
 * Tiene sentido.
 * Es un placer conocoerte,#  Dalv.
 * Gracias por venir.
@@ -12899,7 +12899,7 @@ Nuestra pequeña niña... Kanako. Ella#necesita vivir una vida feliz, sin#verse 
 * Has estado intentando#  terminarlo, ¿cierto?
 * Con mis habilidades#  limitadas... sí.
 * Pero no te involucra.
-* He estado buscando formas#  de crear el suero sin#  un Monstruo Jefe.
+* He estado buscando#  formas de crear el suero#  sin un Monstruo Jefe.
 * Lo... resolveré.#  Tengo que hacerlo.
 * Encontré esto en la#  basura.
 * ¡! 
@@ -13224,7 +13224,7 @@ offset_y_scroll_speed
 * Chujin. Su legado. Su#  deseo.
 * Nunca será cumplido.
 * Chujin podrá no ser#  el monstruo perfecto que#  pensé que era.
-* Pero incluso sus secretos#  más oscuros tienen#  un origen empático.
+* Pero incluso sus#  secretos más oscuros tienen#  empatía.
 * Y justo eso allí...#  es su legado.
 * No se encuentra en#  el suero para "salvar#  el mundo."
 * Todos los que ayudó,#  todo lo que construyó...
@@ -13437,7 +13437,7 @@ Va-a-mos,#relájate un#p-p-poco.
 N-No tienes que#ser tímido,#amigo -
 HEY Q-Q-qué#es... esto ?
 ¡ ESPERA !#Yo... ¿ Oh ?
-NO a-arruines#el humor :)
+NO a-arruines#el ambiente :)
 Me gusta#e-esta :)
 Esto está#b-bien :)
 Mhm,#seh :)
@@ -13628,13 +13628,13 @@ Party Popper
 * The element of surprise.
 trapdoor_spawn_particles
 * Oh, hey.
-* I'm just uh, admiring the#  view.
-* I was just on my way to talk#  to the Foreman. Yep.
-* The boulders stopped falling a#  while ago.
-* My teacher never taught me it#  could rain rocks down here.
-* Weather... crazy stuff.
-* Well, I'm gonna go soon.
-* Hope my eternal gratitude#  helped you!
+* Sólo estoy eh, admirando#  la vista.
+* Estoy sólo en mi camino de#  hablar con el Capataz. Sep.
+* Las rocas dejaron de caer hace#  un rato.
+* Mi profesor nunca me enseñó#  que las rocas podrían#  llover aquí abajo.
+* El clima... de locos.
+* Bueno, voy a irme pronto.
+* ¡Espero que mi eterna#  gratitud te haya#  ayudado!
 dialogue
 * ¿dónde estoy?
 crayon_color
@@ -15339,7 +15339,7 @@ vspeed_inc
 * Y luego... Bueno,#  seguirás tu camino.
 * ¡Pero no te preocupes#  por mí! 
 * ¡Cuando nos liberemos,#  nos volverémos a ver#  en la Superficie!
-* Para ese entonces, ya#  has de haber crecido.#  Será divertido ¿no crees?
+* Para ese entonces, ya#  habrás crecido.#  Será divertido ¿no?
 * El punto es, me alegra#  haberme topado contigo.
 * Okey... Tenemos que#  seguir avanzando.
 * Por allá. Al Oeste#  de Nuevo Hogar.
@@ -17704,13 +17704,13 @@ Cancelar
 * ¿No pudiste mantenerte#  alejado?
 * Bueno-BAM-Tome su elección.
 * Gran elección.
-* Disfruta de ese Pop, amigo.
+* Disfruta de esa#  paleta, amigo.
 * Lo siento, amigo.#  Voy a necesitar más#  ORO que eso.
 * Uh-oh, parece que#  no tienes espacio para#  este item.
 * Vuelve cuando hayas#  hecho algo más de#  espacio.
 * ¡Qué artículo tan popular!#  Ojalá pudiera venderte más,#  pero se me han acabado.
 * ¡Eh, qué haces ahí!
-* ¡Eso no es un Pop!
+* ¡Eso no es una paleta!
 * ¿Me estás abandonando?#  ¿No te interesa mi#  mercancía?
 * ¿No tengo tu temperatura#  preferida?
 * Ah, ya veo. Necesitas algo#  de tiempo para pensarlo.
@@ -22173,7 +22173,7 @@ Chujin
 * Floración tardía. Sabes#  como es.
 * ¡Claro que sí!
 * ¡Claro que sí!#* < Bits no obtuvo su boca#  hasta los nueve años. >
-* Bueno uh, fue lindo#  conocerlos pero tenemos que#  irnos. ¿No es así,#  querido hijo?
+* Bueno uh, fue lindo#  conocerlos pero tenemos# que irnos. ¿No es así,#  querido hijo?
 * (Termina tús asuntos,#  por favor.)
 box_sndfnt
 * (En serio no tenemos#  tiempo para charlar. Tal#  vez luego, ¿okei?)
