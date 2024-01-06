@@ -2140,38 +2140,38 @@ Spam Letter 7
 Spam Letter 8
 Spam Letter 9
 Steamworks ID
-#¡Ven a nuestro lugar, nuevo amigo!#¡No importa que deambules#o te mantengas en un solo lugar!#¡Esperamos que tengas amigos con#cartas divertidas para enviar,#y siempre con una sonrisa#en tu rostro! ¡Aquí tienes más correo#sin estrés!#¡Esperamos volver a verte!##La SPSS
-#Greetings, my savior and fond#acquaintance. I would like to#extend further gratitude for#your assistance.If it weren't#for you, my papillae would#surely be permanently attached#to that pole.##Thanks to you, I made#it home in time for#supper. I must say , Mother#really outdid herself this#time! The food was#exquisite! Many thanks!#Sincerely yours,##-Slurpy#
-#If you're reading this, it#means you had the pleasure of#meeting me.##I'll make this snappy.#You're not gonna believe#it. I'm selling a new,#premium product for HALF OFF.##I know what you're saying,#"I would gladly pay full price#for your products."I appreciate#that, I really do. But this#ain't the time for high#prices.##Just find my stand and#I'll give ya the juicy#details.##Huh? Where is my stand?#I don't even know myself.#Should probably go find that.##Good luck!#-Mo
-#Greetings, Clover! Life has#been a treat since we last saw#each other. I packed up all of#my belongings and set out for#Snowdin.##I recently found a nice#place to settle down. I think#you'll like it! Oh! And all of#the neighbors moved out with#me.I'm not too sure where each#one went, but I know they are#doing well.##I'm also taking art lessons#from Penilla now. She gave#me the cold truth and said#my art needed lots of#improvement. It stung at first,#but then I remembered that you#should always aim to improve#yourself.##Ah. Look at me rambling#again. I hope the mail#service doesn't charge#extra for that.##It was nice to talk to you#again! Even if it is over#written text. Please visit me#in the future! Life is#getting a lot better,###-Dalv
-#To our latest Shufflers recruit:#Toast here. There's someone out#in the wild that we forgot to#warn ya about. This scruffy#fella with a blue hat. Don't#interact with him or support#his endeavors. I won't tell ya#why cause this letter reads way#cooler as a mystery.#
+#¡Ven a nuestro lugar, nuevo amigo!#¡No importa que deambules#o te mantengas en un solo lugar!#¡Esperamos que tengas amigos con#cartas divertidas para enviar,#y siempre con una sonrisa#en tu rostro! ¡Aquí tienes más correos#sin estrés!#¡Esperamos volver a verte!##La SPSS
+#Saludos, mi salvador y querido#conocido. Me gustaría extender#mi gratitud por su ayuda.# Si no fuera por usted,#mis papilas estarían#permanentemente atadas a#ese poste.##Gracias a ti, llegué a#casa a tiempo para la cena.#¡Debo decir que, Mamá#realmente se superó esta#vez! ¡La comida estaba#exquisita! Muchas gracias.#Atentamente, ##-Slurpy#
+#Si estás leyendo esto,#significa que has tenido el#placer de conocerme.##Haré esto rápido.#No te lo vas a creer.#Estoy vendiendo un NUEVO#producto PREMIUM a mitad#de precio.##Sé lo que estás diciendo,#"Con gusto pagaría el precio#completo por tus productos."#Te lo agradezco, de verdad.#Pero estos no son tiempos#para precios altos.##Busca mi puesto y te#daré los jugosos detalles.##¿Eh? ¿Qué dónde está mi puesto?#¡Ni siquiera yo lo sé!.#Probablemente debería buscarlo...##¡Buena suerte!#-Mo
+#¡Saludos, Clover! La vida ha#sido una delicia desde la última#vez que nos vimos. Empaqué todas#mis pertenencias y partí#hacia Snowdin.##Hace poco encontré un lugar#bonito para establecerme. ¡Creo#que te gustará! ¡Oh! Y todos los#vecinos se mudaron conmigo.#No estoy muy seguro de adónde#fue cada uno, pero sé#que les va bien.##Ahora también estoy tomando#clases de arte con Penilla.#Me dijo la pura verdad:#mi arte necesita muchas mejoras.#Al principio me dolió,#pero luego recordé que siempre#hay que intentar mejorar.##Ah. Mira como divago#otra vez. Espero que el#sevicio de correos no cobre#extra por eso.##¡Ha sido un placer volver#a hablar contigo! Aunque sea#sobre un texto escrito. Por favor,#¡visítame en el futuro! La vida#es cada vez mejor,###-Dalv
+#Para nuestro último#recluta de los Shufflers:#Al habla Toast. Hay un personaje#allí afuera que nos olvidamos#de advertirte. Este tipo#desaliñado y con gorro azúl.#No interactúes con él o#apoyes su negocio. No te diré#por qué porque esta carta se#ve mejor como un misterio.#
 fun_swig_name
-#Now, I'll let {0} finish this.
-#He gets upset when he misses#
-out on writing letters.
+#Ahora, dejaré a {0} que#termine esto.
+#Se enoja cuando se pierde# 
+la escritura de cartas.
 #
-#Yeah, upset.
+#Seh, mucho.
 #-{0} 
-#Hello, appreciated guest!##We greatly enjoyed your company#at The Honeydew Resort (Snowdin#Establishment)! You can always#count on us for quality time#with the whole family! From our#relaxing hot spring, to our#live music, there's a little#something for everyone!##We hope to see you again,#anonymous citizen of the#Underground!##-The Honeydew Family
-MIXIN' IT UP - By Dr. Rob##Entering the field of#chemistry can be tough. Maybe#you never went to college.#Maybe you find it hard#to grasp complex equations.#Maybe you were kicked out of#your highschool science class#for "developing poison during#school hours."##We're all different, but we#all share one similarity: magic.#It's easy to rely on magic in the#in the day to day, but have you#ever wondered what it would be#like to live... without it?##What would we do if we couldn't#light a fireplace with a snap#of our fingers? Spawn weapons#out of thin air? Use wings to#soar above the trees? Sleep?##That's where science comes in!#Nature's magic. Elements, or#"compounds" make up most of the#Underground as we know it.#When you combine two or more#compounds you can create amazing#things. For example, by taking#the compound "Oxygen" and#SMASHING it together with two#"Hydrogen" compounds, you get# "Dihydrogen Oxide," also known#as "water" (catchy name, right?)###Here, you try:#Let's say you want to melt through#a high-security safe to become#rich... hypothetically. The#solution you would need is#called "Hydrochloric Acid"#which involves the two#compounds _____ and _____.#Fill in the blanks to#empty the banks :)#######D- Unfocused and rushed.#Why did you write a#worksheet problem in#a reflective essay?
-#######################################################D- Unfocused and rushed.#Why did you write a#worksheet problem in#a reflective essay?
-To: Clover#(who's hopefully alive)##Meet me on the roof of#UG Apartments as soon#as you can.##There's something on#my mind.###- Martlet of the Royal Guard#(Snowdin Division)#####
-Dear citizens of the Underground:#We are calling for fallen down#monsters to be sent to Hotland for#important scientific  research.###Should you choose to participate,#your loved ones will be#treated with utmost respect,#their condition heavily#monitored, and you regularly#notified of their status.###This is a chance for tragedy to#be turned into opportunity. For#monsterkind to finally see the#light of the Surface thanks to#its citizens' invaluable bravery#and sacrifice.##For your consideration,##Royal Science Division#####
-The Helper-Bot Guidelines:##1.#Every manufactured bot must have#a practical function installed.#A purpose for being:#(Cooking, cleaning,#agriculture, etc).##2.#Bots should have tiers of#emotion to better integrate#into society.#Coding a personality into#each one is recommended.#It makes them more#personable/easy to be around.##3.#All bots are to have a strong#connection with living things: #(Their creators, average monsters,#other bots, etc).#If deprived of this, some may#become easily agitated#and restless.#Others may be unphased.#Depends on the model.##4.#If a bot acts out of line or#malfunctions, they are to be#shut down. Typically, a hard#reset will do the trick.#Termination is a last resort.#If a shutdown isn't possible,#they can be coaxed back to#their normal state.##5.#Absolutely NO bots are allowed#outside the Steamworks at#this time. Until King#ASGORE is ready to begin mass#production, this project is#classified.##6.Most of all, have fun :)####
-#Howdy, Clover!#It's yer favorite sheriff,#North Star, with an#important update!##I did some soul searchin'#while staring directly at#the shiny stone on top#of the Mines.##After recovering from temporary#blindness, I shamefully#approached my posse.##Well, I spare ya the#gruesome details (me cryin')#but in the end, they#forgave me.##So the Feisty Five are#back! Now twice as sensitive#to everyone’s feelin's!##When we returned to town,#Ceroba and Dina had set#up a party in the Saloon#- which was great##I really wish you were#still here, but I SUPPOSE#you deserve yer freedom ;)##Anyway, it’s all good,#so don't mosey 'round#worryin' 'bout me or#nothin'.##I do have the tendency#to occupy around 60% of#someone's brain after they#meet me...#But I reckon it's time#to let go.####Happy trails!#- North "Starlo" Star##
-#Hey, Clover. Something's up.##I made up with the posse#as planned. All was going#well, but then I began#worrying about you and#Ceroba. That's when I got#the idea to break into#Ceroba's old house and spruce#it up to celebrate her#and Kanako's eventual return.#Well, when Ed was sweeping#around, he found some kinda#secret room. Seems like it#belonged to Chujin. We didn't#have time to dig into#its content but all I#know is it worried us both.##You may be in danger.##Then again, maybe not.#Just... come back to#the Wild East for now.#I can only hope this#letter reaches you in time.####- Starlo
-#Hello again, dear comrade!#I hope this letter finds#you in the very picture#of health.##I heard word that you#were venturing near the#vicinity of Hotland.##Being that the resting#temperature in that region#is so high, I have#included one premium#Snowdin snow sphere.##I hope it keeps you#at an ideal temperature#throughout your journey.##Next time you are in#Snowdin, feel free to#drop in.##Mother will surely prepare#you a palatable meal.###Sincerely yours,#-Slurpy###(The letter and envelope#are very wet.)#
-#Oye.##We don't know each other#very well but ever since#you left the Wild East,#I've been pacing around in#my head about your journey#and everything surrounding it.##Wherever you are, I fear#your situation will grow#dangerous. Far more than#it already has.##By now, I assume you've#heard about the King. Well,#each fallen human who has#encountered him in the past#hasn't survived. As skilled#as you are, I don't#believe you would either.#I understand why you would#want to confront him#(believe me, I have my#reservations as well),#but perhaps it isn't the#wisest path forward?##I don't know what you#should do, nor am I#going to act like I#currently have any#influence over your#destination, but your#original plan - avenging the#humans, escaping the Underground,#whatever it may be...#It's impossible.##I'm sorry. A warning is#the best I can do.####- Ceroba
-#1001001 100000 1000100#1001111 100000 1001110#1001111 1010100 100000#1001011 1001110 1001111#1010111 100000 1001000#1001111 1010111 100000#1010100 1001111 100000#1010011 1000101 1001110#1000100 100000 1001100#1000101 1010100 1010100#1000101 1010010 1010011#101110 100000 1001000#1000101 1001100 1010000#100000 1001101 1000101#101110##- Axis
-#Hey, you! Are you wanting to#  help society? Don't know where#  to start? Well here's the: Top#  Ten Reasons to Join the Royal#  Guard!##10 - Awesome training courses!#9 - A shiny badge!#8 - Your own area to guard!#7 - A leather-bound protocol#guidebook!#6 - Free space! Insert your#own here!#5 - A weapon of your choice!#4 - Bragging rights!#3 - Free health insurance!#2 - Being more intimidating#than before!#1 - Your own battle-ready#uniform!!#So what are you waiting for?#Sign up today!####Disclaimer: The Royal Guard is a#serious job with life-threatening#possibilities. This list was#created for promotional purposes #only. The Royal Guard is not#liable for any promises#made in this list.# 
-#Have you ever found yourself#stranded in the desert, wishing#you had an air-conditioned room#to relax in? Well look no#further than Cafe Dune! The#most modern facility in the#Dunes! Try our premium lattes#or game it up in our#state-of-the-art arcade! It's#all right here at Cafe Dune!##Located in Oasis Valley - See#  you soon!
-#The ultimate question:What are#the ideal proportions for#lemonade? It is a mystery that#has boggled all manner of#monsters since Surface days of#yore. It has bested generations#of royal scientists and yet has#remained elusive... Until#now! Behold! The perfect#ratio!##22% water#22% sugar#41% lemon juice#?????????????##Want to find out that last#ingredient? Well why not#subscribe to It's A Lemon#Monthly! Have the perfect#lemonade recipe delivered to#your door: Every. Single.#Month. What are you waiting for?#Only 18,300g for a three year#subscription!##Order now, now,#  NOW!
-#hi..........##please visit blook acres#in waterfall, if you want.....##we have snails..... #they're neat........##......bye.
-#If you're a foxy monster#looking for love, look no#further than yours truly! I'm an#elite athlete with more G than#I know what to do with. My IQ is#so large, I could shatter the#barrier just by staring at#it. Regrets? My only regret in#life is that I don't own a#dumbbell heavier than 150kg.##I could go on for eons,#but enough about me.#Write your number here and send#this letter back if you want#your world changed!##__________
-#Hello.#This is the Royal Treasury#notifying you that you#definitely owe us 700G. Monsters#must pay taxes to King ASGORE#as of right now. I hear you#getting all flustered but I#assure you that I am correct.#Now, insert the G into the#envelope and return this letter#or......Or else you get a life#sentence without a trial. Yup.##  
-#The monster life can be#stressful, we all know that.#Wouldn’t you like to have a#taste of Surface life? Well#here in the Wild East, we#pride ourselves on being#the most authentic experience#you'll find in the Underground!##Located east of Oasis Valley#  - Stop on by, partner!#  
-#Hello Underground friend, and#thank you for taking the#time out of your busy schedule#to read this message.##We here at the Society for#Monster Health (SMH) are reaching#out for support in our noble#mission of putting an end to#unsolicited spam mail.##This unwanted clutter is an extra#stress and possible danger to#the mental state of monsters#everywhere, in addition to#putting needless physical strain#on our poor mail monsters.##Please join the fight against#this wasteful spam mail by#signing up for our petition#today!
-#Looking for a job?#Here at Mining Co. we#hire just about anyone#who applies!##Criminal past? Doesn't matter.#Criminal future? Doesn't matter!##We want everyone to feel#secure in our cave away#from home! So what are#you waiting for? Apply#today and help society!###(Disclaimer: Not liable for#any work-related accidents#that may or may not occur.)##  
+#¡Hola, apreciado huésped!##¡Disfrutamos mucho de su#compañía en el Resort Honeydew#(Sede Snowdin)!#¡Siempre podrá contar#con nosotros para un rato de#calidad en familia! Desde nuestras#relajantes aguas termales,#hasta música en vivo,#hay un poco de#todo para todos!##¡Deseamos volver a verle,#ciudadano anónimo del#Subsuelo!##-Familia Honeydew##
+MÉZCLALO - Por Dr. Rob##Entrar en el área de la#química puede ser complicado.#Quizás nunca fuiste al colegio.#Quizás te cueste entender#ecuaciones complicadas.#Quizás te echaron de la#clase de ciencias del instituto#por "elaborar veneno en#horario de clases."##Todos somos diferentes, pero#compartimos una similitud: magia.#Es fácil confiar en la magia en#el día a día, pero#¿alguna vez te has preguntado#cómo sería vivir... sin ella?##¿Qué haríamos si no pudiésemos#encender una fogata con el#chasquido de los dedos? ¿Crear#armas de la nada? ¿Usar alas#para elevarse por#encima de los árboles?#¿Dormir?##¡Ahí es cuando entra la ciencia!#La magia de la naturaleza.#Los elementos, o "compuestos"#constituyen la mayor parte#del Subsuelo tal y como lo#conocemos. Cuando combinas dos#o más componentes#puedes crear cosas increíbles##Por ejemplo, tomando un#compuesto de "Oxígeno" y#COLISIONARLOS con dos#componentes de "Hidrógeno",#obtienes "Óxido de Dihidrógeno",#también conocido como#"Agua" (nombre pegadizo, ¿verdad?)###Aquí, intenta esto:#Digamos que quieres derretir una#puerta de ALTA SEGURIDAD para#volverte rico... hipotéticamente.#La solucion que necesitas se#llama "Ácido Hidroclórico"#que contiene los dos#compuestos _____ y _____.#Rellena los espacios en blanco#para vaciar los bancos :)#######D- Desenfocado y apresurado.#¿Por qué escribiste un#problema de hoja de trabajo#de forma reflexiva?
+#############################################################D- Desenfocado y apresurado.#¿Por qué escribiste un#problema de hoja de trabajo#de forma reflexiva?
+Para: Clover#(que espero que esté vivo)##Ven a verme al tejado de#Apartamentos SS lo más pronto#que puedas.##Tengo algo en#mente.###- Martlet de la Guardia Real#(División Snowdin)#####
+Queridos ciudadanos del Subsuelo:#Hacemos un llamado para que#monstruos que hayan caído, sean#enviados a Hotland para una#importante investigación#científica.###Si quieres participar,#tus seres queridos serán#tratados con el máximo respeto,#monitorearemos profundamente su#condición, y se les notificará#periódicamente de su estado.###Esta es una oportunidad para#que la tragedia se vuelva esperanza.#Para que los monstruos por fin#puedan ver la superficie, gracias#a su valiente e invaluable#sacrificio.##Para su consideración,#Real División de Ciencias#####
+Directrices del Robot Ayudante:##1.#Todo robot manufacturado, debe#tener una función práctica#instalada. Un propósito de ser:#(Cocinar, Limpiar,#Agricultura, etc).##2.#Los Robots deben tener diferentes#niveles de emociones, para#integrarse mejor en la sociedad.#Codificar la personalidad de cada#una es recomendada.#Les hace más agradables#y más fácil para andar por ahí.##3.#Todos los robots deben tener#una fuerte conexión con cosas#vivas: (Sus creadores, monstruos#promedio, otros robots, etc).#Si se les priva de esto, algunos#pueden agitarse e inquietarse#con facilidad.#Otros a lo mejor no se alteran.#Depende del modelo.##4.#Si un robot actúa fuera de línea# o está defectuoso, debe de ser#apagado. Normalmente, un#reinicio lo resolvería.#La terminación es#el último recurso.#Si apagarlo no es posible,#se les puede convencer para que#vuelvan a su estado normal.##5.#NINGÚN Robot está autorizado#a salir de Steamworks en#estos momentos. Hasta que#el Rey ASGORE no esté#listo para dar comienzo#a la producción masiva,#este proyecto es clasificado.##6.Y por sobretodo, diviértanse :)####
+#¡Buenas, Clover!#¡Es tu sheriff favorito,#North Star, con una#importante actualización!##Hice un examen de conciencia#mientras miraba directamente#a la piedra brillante que#había en lo alto de las Minas.##Después de recuperarme de la#ceguera temporal, Me acerqué#vergonzosamente a mi pandilla.##Bueno, te ahorraré los#espantosos detalles (lloré)#pero al final, me#perdonaron.##¡Así que los Feisty Five#están devuelta! ¡Ahora el doble#de sensibles que antes!##Cuando volvimos a la ciudad,#Ceroba y Dina organizaron una#fiesta en la Taberna#- estuvo bien.##Desearía que todavía#estés aquí, pero SUPONGO que#mereces tu libertad ;)##Como sea, está todo bien,#así que no andes por ahí#preocupándote por mi ni#nada por el estilo.##Tengo la tendencia de ocupar#el 60% del cerebro de alguien#después de que me#conoce...#Pero supongo que esta vez#hay que dejar ir.####¡Feliz viaje!#- North "Starlo" Star##
+#Oye, Clover. Algo ocurrió.##Me reconcilié con la pandilla#como estaba previsto. Todo iba#bien, pero de repente me#preocupé por ti y#Ceroba. Ahí es cuando tuve la#idea de entrar a la antigua#casa de Ceroba y arreglarla#para celebrar el eventual regreso#de ella y Kanako.#Bueno, cuando Ed estaba limpiando,#encontró algo que parecía una#sala secreta. Parece que#pertenecía a Chujin. No teníamos#tiempo para profundizar más#sobre el contenido pero lo#que si sé es que nos preocupamos.##Quizás estés en peligro.##De nuevo, solo quizás.#Sólo... vuelve al#Salvaje Este por ahora.#Solo puedo rezar que esta#carta te llegue a tiempo.####- Starlo
+#¡Hola de nuevo, querido camarada!#Espero que esta carta te#encuentre en perfecto#estado de salud.##He escuchado que te estás#aventurando cerca de la#vecindad de Hotland.##Dado que la temperatura#en esa región es#tan alta, he incluido#una esfera de nieve PREMIUM#de Snowdin.##Espero que te mantenga#en una temperatura ideal#durante tu aventura.##La próxima vez que estés#por Snowdin, pásate por#aquí.##Mi Madre seguro que te#prepara un plato rico.###Atentamente,#-Slurpy##(La carta y el sobre#están muy mojados.)####
+#Oye.##Sé que no nos conocemos#muy bien pero desde que#dejaste el Salvaje Este,#he estado dándole vueltas#a tu aventura en mi cabeza y#todo alrededor de ella.##Donde sea que estés, me#temo que tu situación será#más peligrosa. Mucho más#de lo que ya es.##Por ahora, asumo que ya has#escuchado acerca del Rey. Bueno,#todos los humanos que se#han encontrado con él en el# pasado, no sobrevivieron. Por#más habilidoso que seas, no#creo que tú tampoco lo hagas.#Entiendo porque quieres#enfrentarle (créeme,# yo también tengo#mis reservaciones),#pero, ¿quizás no sea el#camino más sabio?##No sé que es lo que#deberías hacer, tampoco#voy a hacer como si tuviera#alguna infuencia sobre tu#destino, pero tu plan original de#vengar a los humanos, escapando#del Subsuelo, como sea...#Es imposible.##Lo siento. Una advertencia#es lo mejor que puedo dar.####- Ceroba
+#001001110 01001111 00100000#01010011 01000101 00100000#01000011 01001111 01001101#01001111 00100000 01000101#01001110 01010110 01001001#01000001 01010010 00100000#01000101 01001110 01010110#01001001 01000001 01010010#00100000 01000011 01000001#01010010 01010100 01000001#01010011 00101100 00100000#01000001 01011001 01010101#01000100 01000101 01001110#01001101 01000101 00101110##- Axis
+#¡Oye, tú! ¿Quieres ayudar a#  la sociedad? ¿No sabes donde#  empezar? Bueno, aquí están:#  Diez Razones Para Unirte#  A La Guardia Real!##10 - ¡Impresionantes cursos# de entrenamiento!#9 - ¡Un parche brillante!#8 - ¡Tu propia área para vigilar!#7 - ¡Un libro de guía hecho#de cuero!#6 - ¡Espacio libre! ¡Inserta tu#razón aquí!#5 - ¡Una arma propia a elegir!#4 - ¡Derecho a presumir!#3 - ¡Seguro de vida gratuito!#2 - ¡Ser más intimidante que#antes!#1 - ¡Tu propio uniforme de#combate!#¿Que estás esperando?#¡Regístrate hoy!####Importante: La Guardia Real es#un trabajo serio con#posibilidades de arriesgar tu vida.#Esta lista fue creada únicamente#por motivos promocionales.#La Guardia Real no se#hace responsable de ninguna de#las promesas de esta lista.# 
+#¿Alguna vez te has visto#vagado en el desierto,#deseando tener una habitación#bien acondicionada para relajarte?#¡Bueno vente a Cafe Dune!#La instalación más moderna#de las Dunas! ¡Pruebe nuestros#cafés con leche de primera calidad,#o juegue en nuestro#moderno salón recreativo!#¡Se está muy bien en Cafe Dune!##¡Localizado en Valle Oasis##¡Te#veremos#pronto!##
+#La última pregunta: ¿Cuáles#son las proporciones ideales#para la limonada? Es un misterio#que ha desconcertado a todo#tipo de monstruos desde los#tiempos de la Superficie.#Ha pasado por generaciones de#científicos reales y, sin embargo,#sigue siendo difícil de alcanzar... #¡Hasta ahora! ¡Contemplen!#¡La proporción perfecta!##22% agua#22% azúcar#41% jugo de limón#?????????????##¿Quieres saber cual es el#último ingrediente? Bueno,#¡subscríbete a Un Limón#Mensual! Obtiene la receta#perfecta de la limonada a#tu puerta: Todos. Los.#Meses. ¿Qué estás esperando?#Solo 18.300 Oro por una#suscripción de TRES AÑOS!##¡Ordena ya, ya,#  YA!
+#holi..........##porfavor visite blook acres#en waterfall, si quiere.....##tenemos caracoles..... #están geniales........##......chao.
+#Si eres un monstruo zorrito#en búsqueda del amor, ¡no#busques más! Soy un atleta#de elite con más Oro que#cualquier otro. Mi CI es#tan grande, que podría romper#la barrera tan solo con mirarla#¿Arrepentimientos? De lo#único que me arrepiento en la#vida es de no tener una mancuerna#de más de 150 kilogramos.##Podría seguir durante eones,#pero ya basta de hablar de mi.#¡Escribe tu nombre en la#parte de abajo de esta carta#si quieres cambiar tu vida!##__________##
+#Hola.#Esta es la Tesorería Real#notificándole que, definitivamente,#usted nos debe 700 de Oro.#Los monstruos deben pagar impuestos#al Rey ASGORE desde ahora. Le#oigo ponerse nervioso, pero#le aseguro que estoy en lo cierto.#Ahora, inserte el Oro en el#sobre y devuelva esta carta#o......o sino, se le dará la#pena de muerte sin juicio. Yep.##  
+#La vida del monstruo puede#ser estresante, todos lo sabemos.#¿No le gustaría tener el sabor#de la vida en la Superficie? #Bueno, aquí en el Salvaje Este, nos#enorgullece tener la experiencia#más auténtica que encontrará en#el Subsuelo!##Localizado al Este de Valle Oasis#  - ¡Pásate, compañero!#  
+#Hola amigo del Subsuelo, y#gracias por hacernos un espacio#en tu ocupada agenda para#leer nuestro mensaje.##Somos la Sociedad para la#Salud de los Monstruos (SSM) y#estamos buscando cooperación para#nuestra noble misión de terminar#con los correos de spam molestos.##Este desorden no deseado es un#estrés adicional y un posible#peligro para el estado mental de#los monstruos en todas partes,#además de someter a nuestros#pobres monstruos a un esfuerzo#físico innecesario.##¡Por favor, entre en la lucha por#detener los correos inútiles de#spam registrándose en nuestra#petición hoy mismo!###
+#¿Buscas trabajo?#¡Aquí en Mining Co. estamos#contratando prácticamente a#cualquiera que postule!##¿Cargos criminales? No importa.#¿Futuro delincuente? ¡Da igual!##¡Queremos que todo el mundo se#sienta seguro en nuestra cueva#lejos de casa! Entonces, ¿qué#estás esperando? ¡Postula#hoy y ayuda a la sociedad!###(Importante: No nos hacemos#responsables de ningún accidente#que pueda o no pueda ocurrir.)##  
 mail_text
 mail_text_colored
 mail_stamp
@@ -10083,7 +10083,7 @@ correct_item
 * Es una larga historia...#  Ella cayó enferma#  tiempo atrás.
 * Ceroba la mandó al Lab#  esperando poder remediar#  la situación.
 * No tenía idea...
-* Okei. ¿Dónde fue el#  último lugar que viste#  a Ceroba ir, Ed?
+* Okey. ¿Dónde fue el#  último lugar que viste#  a Ceroba ir, Ed?
 * No vas a llevar a#  Clover directo a ella,#  ¿verdad?
 * Eso es exactamente lo#  que ella quiere, ¿no?
 * ¡Sí, Clover necesita#  estar seguro con#  nosotros! 
@@ -11497,7 +11497,7 @@ ypos5
 * ¿Tercera cosa?
 * Oh, quieres decir
 * ¡Nuh-uh-uh! ¡Fuera de los#  límites!
-* Sólo podemos acoger insultos#  leves con violencia censurada# o dibujos animados.
+* Sólo podemos acoger insultos#  leves con violencia censurada#  o dibujos animados.
 * ¡TV-14 en el peor de#  los casos!
 * Sí, pero eso no va a detener#  a nadie, ¿verdad?
 * ¡Esperamos haberte#  entretenido, amiguito!
@@ -11505,7 +11505,7 @@ ypos5
 * ¡Es aún mejor cuando te#  sientas cerca de la pantalla#  con los ojos BIEN abiertos!
 * ¿Qué? ¡No! No hagas eso,#  niño. No la escuches.
 * ¡Sí! ¡Destruye tu vista!
-* ¡¡¡Tus lentillas deberían#  espesar!! ¡¡¡Con#  cada examen!!!
+* ¡¡¡Tus lentillas deberían#  espesar!!! ¡¡¡Con#  cada examen!!!
 * ¡No puedes decir este tipo#  de cosas a los niños!
 * (¡Cierra el pico, Vis!#  ¡Voy a poner un anuncio#  de optometrista!)
 * ¡¡¡Eso no lo hace#  mejor!!!
@@ -13190,7 +13190,7 @@ part_type_alpha2
 zen_dialogue_gain
 offset_y_current
 offset_y_scroll_speed
-* Me... me diste una#  b-buena golpiza, ¿Eh?
+* Me... me diste un#  b-buen golpe, ¿Eh?
 * S-Star lo...
 * No te preocupes#  demasiado...
 * Entiendo que me lo#  merecía por el fiasco#  del Salvaje Este.
@@ -13246,7 +13246,7 @@ offset_y_scroll_speed
 * Gracias, Martlet.
 * Clover.
 * Te debo una disculpa a#  ti, más que a todo.
-* Nuestro tiempo en#  Steamworks y todo lo#  que dije... No fue Falso.
+* Nuestro tiempo en#  Steamworks y todo lo#  que dije... No fue falso.
 * Sí me permitió olvidar#  momentáneamente mis#  problemas y divertirme.
 * Pero mi razonamiento#  de estar aquí...
 * No puedo empezar a
@@ -13260,15 +13260,15 @@ offset_y_scroll_speed
 * ¡No! ¿¿¿Ya???
 * Por triste que sea,#  Clover tiene que irse#  a casa.
 * Eso no funcionará.
-* Seguro, nosotros#  conocemos a Clover por#  quien es pero Asgore...
+* Seguro, nosotros#  conocemos a Clover por#  quien es, pero Asgore...
 * No verá a Clover como#  nosotros. Y no le#  importa aprender.
 * ¡Pero esta situación#  es única!
-* El Rey siempre ha sido#  amable y comprensivo!
-* Seh, Clover no#  dañaría a nadie!
+* ¡El Rey siempre ha sido#  amable y comprensivo!
+* Seh, ¡Clover no#  dañaría a nadie!
 * ¿Creen que eso ha#  importado en el pasado?
 * La verdad apesta, pero#  es lo que es.
 * Entonces, ¿Qué?
-* Debería llevar a#  Clover a Snowdin?
+* ¿Debería llevar a#  Clover a Snowdin?
 * ¿Esconderlo por el#  resto de nuestras#  vidas?
 * Seh, ¿Por qué Clover#  no puede quedarse#  con nosotros?
 * Osea, es posible pero#  la Guardia Real lo#  empezaría a buscar, ¿no?
@@ -13277,7 +13277,7 @@ offset_y_scroll_speed
 * ¡Ohh sí! ¡Probablemente#  pensarían que ocurrió#  lo mismo otra vez!
 * Pero... ¿Qué pasa#  con los otros?
 * Ya sabes, los#  siguientes humanos.
-* Clover puede vivir#  una vida feliz pero#  ellos tienen que morir?
+* ¿Clover puede vivir#  una vida feliz pero#  ellos tienen que morir?
 * Oh.
 * ...No conocemos sus#  corazones.
 * Quizás ellos
@@ -13285,7 +13285,7 @@ offset_y_scroll_speed
 * ¿Acaso no has#  aprendido nada?
 * ¡Estoy valorando#  nuestras opciones!
 * Estamos entre la#  espada y la pared,#  ¿Entiendes?
-* Hey, cálmensen, chicos.
+* Hey, cálmense, chicos.
 * ¡Sabes que realmente#  pensé que el fiasco de#  esta noche fue suficiente!
 * Todos hablamos#  y las cosas estaban#  yendo bien.
 * Pero inmediatamente#  sugieres dar a#  futuros niños a
@@ -13293,23 +13293,23 @@ offset_y_scroll_speed
 * Lo siento pero no creo#  que usteden tengan una sala#  para discutir ahora mismo.
 * ¡Vamos ustedes dos!#  ¡Déjenlo
 camera_xx
-Probablemente quieras  irte a casa, ¿verdad?
+Probablemente quieras  irte#a casa, ¿verdad?
 ¡La raza humana ya ganó atrapándonos# aquí abajo y ellos siguen# retorciendo el cuchillo!
 ¡Esto no puede seguir así!
 Debes tener#lugares a,#los que ir,#¿verdad?
 El Castillo...#La barrera.
-Hice todo lo posible#para entretener...
+Hice todo lo#posible para#entretener...
 ...para que nadie#se preocupara de#estar aquí abajo.
-De todos modos, pasaré  por alto la Guardia#Real y te defenderé ante ASGORE.
+De todos modos, pasaré  por alto la#Guardia Real y te defenderé#ante ASGORE.
 Recuerda tu misión REAL, Clover.
-ASGORE necesita siete#ALMAs humanas para#romper la barrera.
-Qué mundo sería#si tuviera dos amigos#enteros.
+ASGORE necesita siete#ALMAS humanas para#romper la barrera.
+Qué mundo sería#si tuviera dos#amigos enteros.
 Puedes actuar alegremente,#pero la vida aquí abajo...
 ...Es desesperante.
 ...Los cinco niños que#viniste a salvar en#primer lugar.
-A pesar de sus altibajos,#nuestra pequeña#aventura fue increíble.
+A pesar de sus#altibajos, nuestra#aventura fue increíble.
 ¡ASGORE sigue ahí#atormentando vidas humanas!
-DEBO AGRADECERLES#POR ABRIR#MIS OJOS.
+DEBO#AGRADECERLES#POR ABRIR#MIS OJOS.
 ¡Mantén tu cabeza en alto, Clover!
 ¡Al parecer has sido un#muy buen líder, Clover!
 ¡Vamos, Clover!
@@ -14414,7 +14414,7 @@ camera_y
 * Está bien... Solo no se#  desvíen.
 * No puedo dejarlo escapar#  ni algo parecido.
 * ¿Saben cómo llegar?
-* Okei, nos encontraremos#  allá.
+* Okey, nos encontraremos#  allá.
 * Aún tengo que explicarle#  todo al grupo.
 * Mientras tanto.
 * Vamos, Clover.
@@ -14757,7 +14757,7 @@ new_pellet
 * (Una hoja con apuntes#  pulcramente escritos yace#  en la basura.)
 * (Lo echas a tu bolso.)
 * Áreas de trabajo...
-* Okei, entonces... Ha de#  haber otro código por#  encontrar.
+* Okey, entonces... Ha de#  haber otro código por#  encontrar.
 * Ya sabes cómo es.
 * Debe ser la oficina del#  gerente.
 * De seguro tiene acceso#  a todos los códigos.
@@ -15094,7 +15094,7 @@ active_item
 * ¡Claro que sí, pero no#  he trabajado aquí!
 * ¿¿¿Entonces estás aquí#  ilegalmente???
 * En ese caso...  
-* Okei, ¡haremos el#  trabajo!
+* Okey, ¡haremos el#  trabajo!
 * Clover, este bot puede#  tener conexión con Axis.
 * Parece que habrá que#  hacer lo que pida para#  evitar la atención.
 * Puedes manejar esta cosa#  ¿verdad?
@@ -15341,7 +15341,7 @@ vspeed_inc
 * ¡Cuando nos liberemos,#  nos volverémos a ver#  en la Superficie!
 * Para ese entonces, ya#  has de haber crecido.#  Será divertido ¿no crees?
 * El punto es, me alegra#  haberme topado contigo.
-* Okei... Tenemos que#  seguir avanzando.
+* Okey... Tenemos que#  seguir avanzando.
 * Por allá. Al Oeste#  de Nuevo Hogar.
 * El elevador de abajo#  nos debería llevar#  directo para allá.
 * Después de eso... no#  estoy segura.
@@ -16283,7 +16283,7 @@ update_talk_val
 * Es un día normal en#  el Subsuelo. Sip.
 * ...Esperemos que#  termine normal también.
 * Debemos tomar ese#  elevador a Nuevo Hogar.
-* ...Si es queno esta#  ocupado, claro.
+* ...Si es que no esta#  ocupado, claro.
 * Y aquí estamos...#  la gran ciudad.
 * No estoy segura que#  algún humano haya#  caminado estas calles.
 * Pero quién sabe, ¿no?
@@ -23151,7 +23151,7 @@ advance
 * (Me dijo que le gustas#  pero que saldrá contigo#  solo si es casual.)
 * (Conocele un poco#  ¿sabes?)
 * (Pregúntale su nombre o#  algo.)
-* OKEI.
+* OKEY.
 * ¡Okei, bueno! ¡Dale un#  intento!
 * HOLA MI NOMBRE ES AXIS#  ¿CUÁL ES TU NOMBRE?
 * JA JA ERES TAN GRACIOSA#  ¿¿¿TE CASAS CONMIGO???
@@ -23159,7 +23159,7 @@ advance
 * DIJO QUE SÍ.
 * HONESTAMENTE ESTOY IGUAL#  DE SORPRENDIDO QUE TÚ.
 * ESTO ES GENIAL.
-* Okei, entonces bien por#  ti.
+* Okey, entonces bien por#  ti.
 * Bien, no es por ser#  aguafiestas pero Clover#  y yo tenemos que irnos.
 * ¿A DÓNDE?
 * Hotland. Solo es un#  viaje de negocios.
@@ -25328,7 +25328,7 @@ Check 3
 * Tengo que resetear hasta#  encontrar el camino correcto.
 * Hasta que hagas las decisiones#  correctas.
 * Hasta ese entonces...
-* Okei, okei, te dejaré ir.
+* Okey, okey, te dejaré ir.
 * Tengo que practicar mi#  monólogo de introducción.
 * ¡Prepárate antes de la gran#  caída!
 * ¡Hasta luego, Clover!
