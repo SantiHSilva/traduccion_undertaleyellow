@@ -17593,9 +17593,9 @@ part_dropEm
 part_drop
 slurpy_menu_open
 slurpy_solution
-* Yo descongelo a los que huyen#  de algo.
-* Quiero seguirlos...#  pero no puedo.
-* Estoy asustado...
+* Di a aldien hudiendo#  de adgo.
+* Quiedo deguidlos...#  peddo no puedo.
+* Edtoy adudtado...
 * ¡Oye! ¡Tú!
 * ¿Puedez ayudadne con esto?
 * He efstado afquí por dos howas.
