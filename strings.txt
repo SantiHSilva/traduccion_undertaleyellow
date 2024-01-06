@@ -1944,7 +1944,7 @@ H. Acid
 * (Equipaste 
 * (Cargaste la Ice Pellet Ammo.)
 * (Tu pistola ahora hace#  frio al contacto.)
-* (Decides cargar los#  granos de café.)(equipas con
+* (Decides cargar los#  granos de café.)
 * (Tu pistola huele deliciosa.)
 * (Decidiste cargar las súper balas.)
 * (Tu pistola se siente más liviana#  Más que tu consciencia...)
@@ -2450,9 +2450,9 @@ gml_Script_scr_save_flowey_snowdin
 * Siéntete libre de#  holgazanear durante un#  tiempo, niño.
 * Estaré aquí comprobando#  las aguas termales.
 * Estamos casi fuera de#  aquí.
-* Me sorprende que ese#  guardia nunca te viera#  cerca, ¿sabes?
+* Me sorprende que esa#  guardia nunca te viera#  cerca, ¿sabes?
 * Sus puzzles seguro que#  no eran impresionantes,#  eso seguro.
-* Sabiendo eso, yo no#  me preocuparía si te#  los encuentras.
+* Sabiendo eso, yo no#  me preocuparía si te#  la encuentras.
 * Pase lo que pase,#  ¡te deseo suerte!
 * No me digas que#  ahora te asusta la#  Guardia Real.
 * Viste a esa señora,#  ¿verdad? Estarás bien.
@@ -3575,7 +3575,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_2
 * Frostermit está dando un#  ritmo con sus pinzas.
 * Una ráfaga de viento amenaza#  con derribar la pila#  de Trihecta.
 * Tri, Hec y Ta son amistosos#  y libres.
-* Una ráfaga de viento sopla una#  pequeña pluma azúl en tu cara.#* Martlet parece avergonzada.
+* Una ráfaga de viento sopla una#  pequeña pluma azul en tu cara.#* Martlet parece avergonzada.
 * El sonido del viento helado#  te rodea.
 * Dunebud empieza a hacer#  gárgaras con una#  canción.
 * Cactony intenta recoger#  algunas agujas que se#  le cayeron.
@@ -9049,9 +9049,9 @@ reverse
 * (El agua está bloqueada#  por las escaleras.)
 * (El suelo está#  ligeramente húmedo.)
 * (¡Ayuda, no#  puedo derretirme!)
-* 10 pasos hacia el Este-3a Cartel#* 10 pasos hacia el Oeste-1a Cartel
-* 10 pasos hacia el Oeste - 2a#  Cartel
-* 10 pasos hacia el Este - 2a#  Cartel
+* 10 pasos hacia el Este-Cartel 3#* 10 pasos hacia el Oeste-Cartel 1
+* 10 pasos hacia el Oeste - 2ndo#  Cartel
+* 10 pasos hacia el Este - 2ndo#  Cartel
 * A quien corresponda:
 * Me di cuenta de un fallo#  fatal del primer puzzle#  en su diseño.
 * ¿Cómo se supone que#  un intruso lo vería?
@@ -15916,7 +15916,7 @@ Snowdin - Bosque
 Dunas - Minas del Este
 Dunas - Valle del Oasis
 Salvaje Este - Granja
-* ¿Estás seguro de que quieres#  tirar 
+* ¿Estás seguro de que quieres tirar 
 * No se puede tirar el#  
 ¡TO-TO-TÓMATE#UN CALMANTE#AMIGO!
 ¡TRES SON MULTITUD!#¡ES HORA DEL#CONCIERTO!
@@ -17969,7 +17969,7 @@ Menores
 * Sí, estoy de acuerdo.
 * En esta melodía agridulce#  hay algo especialmente#  pertinente ahora.
 * Vaya, oye, ¿en serio?
-* ¿Aprecias el sonido#  agridulce de una#   escala menor?
+* ¿Aprecias el sonido#  agridulce de una#  escala menor?
 * ¡Nunca pensé que encontraría#  otro fan!
 * Nadie por aquí los aprecia#  como yo.
 * Ni siquiera mis compañeros#  de banda.
@@ -18293,7 +18293,7 @@ compound
 * ¡Pero conozco este#  sitio como la palma#  de mi mano!
 * ¡Ya no me pierdo mucho!
 * ¡Puedo llevarte a#  donde quieras ir!
-* Voy a arriesgarme, pero...
+* Voy a arriesgarme, #  pero...
 * ¡Eres humano! ¿Verdad?
 * ¡Lo sabía! ¡Sabía que#  encontraría un humano!#  ¡Eres humano! ¿Verdad?
 * ¡Te pareces a este#  tipo del póster que#  vi una vez!
@@ -24186,7 +24186,7 @@ execute_change
 * ¿A veces me pregunó que estará#  haciendo ese murciélago? Tal#  vez vive en una cueva.
 * Si fuera tú, ¡me dejaría#  llevar y bailaría con los#  demás!
 * ¡Uno nunca sabe cuando será#  su último baile!
-¡Martlet de la Guardia#Real encontro un#humano!
+¡Martlet de la Guardia#Real encontró un#humano!
 ¡Prepárense#para la captura!
 Protocolo uno, ¡sé#cordial y permite#a tu oponente#el primer ataque!
  Martlet                                            
@@ -24238,7 +24238,7 @@ Bien, ahora el#protocolo número#dos: ¡contraatacar!
 ¡Ha llegado el momento#de mostrate la#verdadera fuerza#de una Guardia#Real!
 ¡Ow!#Eso duele...
 Uh, lo siento,#es que, mira,#mi guía...
-En realidad no#decía que ser#atacado dolería tanto...
+En realidad no#decía que ser#atacado dolería#  tanto...
 Supongo que tiene#sentido, pero aún#así...
 ...ow...
 ¡¡Ow!!
