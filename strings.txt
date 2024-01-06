@@ -2415,7 +2415,7 @@ gml_Script_scr_save_flowey_snowdin
 * Es solo nieve, hielo,#  monstruos, y posible#  riesgo de congelación.
 * ¡Nada de eso, amigo!#  ¡Ahora sal ahí fuera!
 * Cuanto más tiempo#  estés hablando conmigo,
-* Cuanto mayor sea ese#  riesgo de congelación.
+* Mayor será ese riesgo#  de congelación.
 * ¡Ahora muévete!
 * ¿Qué tal lo llevas?
 * Las cosas no se ponen#  más fáciles, ¿eh?.
@@ -3414,7 +3414,7 @@ scr_battle_core_directory_flavor_text_enemy_1_special_5
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_special_6
 scr_battle_core_directory_flavor_text_enemy_1_special_6
 * Flier está reconsiderando#  las decisiones en su vida.
-* Penilla parece como si ella# pudiera romperse por la presión.
+* Penilla parece como si ella#  pudiera romperse por la presión.
 * La sonrisa de Sweet Corn#  parece forzada.
 * Crispy Scroll confía en su#  autoimpuesta armadura#  argumental.
 * Tu reflejo está sesgado.
@@ -3617,7 +3617,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * Crispy Scroll está hablando#  boberías.
 * Rorrim mira alrededor.
 * Dalv parece estar en conflicto#  con su lado más humano.
-* Si entrecierras los ojos,#  Micro Froggit#  parece feliz.
+* Si entrecierras los ojos,#  Micro Froggit parece feliz.
 * Insomnitot intenta quitarse#  el sueño de encima.
 * Know Cone golpeando una roca#  contra una rama caída.#* La rama se rompe.
 * Algo huele a pescado.
@@ -8988,7 +8988,7 @@ message2
 * Así que no importa, supongo.
 * (Es una antorcha de madera con#  una gran llama apoyada en#  la parte superior.)
 * (Una antorcha.)
-* (Está profundamente dormido. #* Tal vez no deberías#  molestarlo.)
+* (Está profundamente dormido. #* (Tal vez no deberías#  molestarlo.)
 * (El agua parece#  refrescantemente sucia.)
 * (Agua.)
 * Propiedad de Dalv.#  (El monstruo de la capa.)#* ¡NO PASAR!
@@ -9049,9 +9049,9 @@ reverse
 * (El agua está bloqueada#  por las escaleras.)
 * (El suelo está#  ligeramente húmedo.)
 * (¡Ayuda, no#  puedo derretirme!)
-* 10 pasos hacia el Este-Cartel 3#* 10 pasos hacia el Oeste-Cartel 1
-* 10 pasos hacia el Oeste - 2ndo#  Cartel
-* 10 pasos hacia el Este - 2ndo#  Cartel
+* 10 pasos hacia el Este - Cartel 3#* 10 pasos hacia el Oeste-Cartel 1
+* 10 pasos hacia el Oeste - Cartel 2
+* 10 pasos hacia el Este - Cartel 1
 * A quien corresponda:
 * Me di cuenta de un fallo#  fatal del primer puzzle#  en su diseño.
 * ¿Cómo se supone que#  un intruso lo vería?
@@ -16825,7 +16825,7 @@ readjust
 * Quiere compartir con la#  juventud del Subsuelo...
 * ...la importancia de#  aceptar y respetar#  los deseos de los demás.
 * El resto de la página está#  garabateada.
-* (Hay un libro de párrafos#  bien escritos sobre el escritorio.)
+* (Hay un libro de párrafos#  bien escritos sobre el#  escritorio.)
 audio_sound_gain_radio
 audio_sound_gain_gramophone
 * (Es un gramófono.)
@@ -16833,7 +16833,7 @@ audio_sound_gain_gramophone
 * (Tal vez sea un abuelitáfono.)
 * (Un disco llamado #  "Prueba de Órgano de Dalv"#  está en cola para escuchar.)
 * (¿Escuchar?)
-* (El disco debe estar dañado o# roto.)
+* (El disco debe estar dañado o#  roto.)
 * (¿Poner fin a esta música#  miserable?)
 * (Apagas el gramófono.)
 * (Tal vez sea un trabajo en#  progreso.)
@@ -17106,7 +17106,7 @@ y2
 * ¡Oh, hola! Estaba#  pensando...
 * ¡Realmente tengo que#  mostrarte esta casa#  que estoy revisando!
 * Está en una playa a las#  afueras de las Ruinas. 
-* Oye, ¿por qué me ves asi?#*  Sigo tu consejo y#  soy yo mismo. 
+* Oye, ¿por qué me ves asi?#* Sigo tu consejo y#  soy yo mismo. 
 * Seré yo mismo en ¡una#  casa de playa muy bonita! 
 * Tienes que salir y vivir#  un poco de vez en#  cuando. 
 * Si te quedas demasiado#  tiempo, las cosas#  empiezan a entrar en bucle. 
@@ -17301,7 +17301,7 @@ dr
 * (Probablemente no sea#  lo suficientemente bueno#  para ti.)
 * (Una hermosa Pera Dorada#  de aspecto delicioso#  descubre tu mirada.)
 * (¡Obtuviste una#  Pera Dorada!)
-* (De todos modos, la belleza#  está en el ojo#  del que mira.)
+* (De todos modos, la belleza#  está en el ojo del que#  mira.)
 * (Una pequeña pila de piedras#  convenientemente en forma de#  bala.)
 * (¡Obtuviste Piedras!)
 * (Las piedras son muy#  peligrosas.)
@@ -23357,7 +23357,7 @@ No puedo#sentir tu#amor.
 ¡Amo los#abrazos!#<3
 Estoy#sintiendo#el amor~
 Solo#quiero#ver una#sonrisa.
-¿¡¿EN SERIO?!?
+¿¡¿EN#SERIO?!?
 *ladra*#*ladra*
 ¡Es la#intención#lo que#cuenta!
 ¿Por qué#no estás#feliz?
@@ -23365,9 +23365,9 @@ Me siento...#lastimada.
 Te amo#tanto <3
 Eres tan#dulce <3
 Los abrazos#son la#mejor#medicina!
-Amigo?
+¿Amigo?
 *tararea#junto a#la música*
-Lo estás#haciendo#genial,#Dulzura!
+Lo estás#haciendo#genial,#¡dulzura!
 *chirrido*#*chirrido*
 Puedes#hacerlo!
 Recuerda,#Siempre te#amo! <3
@@ -23902,11 +23902,11 @@ Linda canción...#zzzz...
 Eres un       #buen cantante#...em...
         *BOSTEZO*#                 
 Me gusta esa#canción...
-No te sabes#una más alegre?
+¿No te sabes#una más alegre?
 ¡Ya sé lo#que pretendes.#No va a#funcionar!
 Tu no eres#mi jefe.
 Si, si,#no hablarle#a extraños.
-Suenas como#mis padres!
+¡Suenas como#mis padres!
 Buen intento.
 ¿Tengo...#un poco...#de sueño?
 *BOSTEZO*
@@ -23914,7 +23914,7 @@ Ow... ahora me#duele la cabeza.
 No hay porque#ser tan grosero.
 Zzzz...zzz
 *Ronca*
-Zzzzz... fideos... zzz
+Zzzzz...#fideos...#zzz
 Cuando tienes#amigos, no#necesitas dormir!
 Vamos a#quedarnos despiertos#y charlar!
 Vamos a iniciar#un club nocturno.
@@ -23939,12 +23939,12 @@ return_in_box
 in_box_trail
 ¿¡DONDE TOT IRSE!?#¡¡ELLOS DIVERTIDOS!!
 TOT DUERME. KNOW CONE DESEA DULCES SUEÑOS.
-¡TÚ QUERER LLAMA!# ¡KNOW CONE VER#A TRAVÉS!
+¡TÚ QUERER LLAMA!#¡KNOW CONE VER#A TRAVÉS!
 ¡KNOW CONE QUIERE VER#FUEGO! ¿KNOW CONE#SEGUIR FUEGO SUEÑO?
 ¡FUEGO BUENO!#EXTRAÑO MALO!
 ¿FUEGO MALO? ¡INTENTAS#AYUDAR KNOW CONE?#KNOW CONE APRECIARLO!
 ¿FUEGO DERRETIR A KNOW#CONE? ¡KNOW CONE NO#SABERLO! ¡TÚ BUEN#AMIGO DE KNOW CONE!
-¡KNOW CONE DISCULPARSE!#¡DEJAR KNOW#CONE SOLO!
+¡KNOW CONE#DISCULPARSE!#¡DEJAR KNOW#CONE SOLO!
 ¿TÚ SER PROFESOR?#¡MI IGNORANCIA TU CULPA#AHORA! ¡EN TU CARA!
 ¡SI KNOW CONE NO#SABE NO SER CULPA DE#KNOW CONE!#¡ESO ES GROSERO!
 ¡NO ERES EMPÁTICO#A KNOW CONE! ¡ESO#ENOJAR A KNOW CONE!
@@ -24002,7 +24002,7 @@ No hay nada#que ver...#¿verdad?
 Eso es un poco#rudo sabes...
 Aspirante.
 ¡A la próxima#yo lidero!
-¿Podrías venir#a bailar junto#a mi seguido?
+¿Podrías venir#a bailar con-#migo más#seguido?
 ¡¿En serio?!#¡¿Como ninja?!
 Parece que#en un#pellizco...
 Mi hogar...
