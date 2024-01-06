@@ -15916,7 +15916,7 @@ Snowdin - Bosque
 Dunas - Minas del Este
 Dunas - Valle del Oasis
 Salvaje Este - Granja
-* ¿Estás seguro de que quieres tirar 
+* ¿Estás seguro de que quieres#  tirar 
 * No se puede tirar el#  
 ¡TO-TO-TÓMATE#UN CALMANTE#AMIGO!
 ¡TRES SON MULTITUD!#¡ES HORA DEL#CONCIERTO!
