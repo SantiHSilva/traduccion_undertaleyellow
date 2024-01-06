@@ -17223,7 +17223,7 @@ Prepárate para mi#más fuerte#ataq-
 * (Hay maíz en la telaraña.)
 * (Una mazorca de maíz.)
 * Soy FLOWEY. 
-     FLOWEY  
+       FLOWEY  
 * ¡FLOWEY la FLOR!
    FLOWEY    FLOR 
 * Pareces una persona#  bastante segura de#  sí misma.
@@ -17262,7 +17262,7 @@ Prepárate para mi#más fuerte#ataq-
         #        FLOWEY  #   FLOWEY    FLOR 
 * Probablemente quieras#  irte a casa, ¿verdad?
 * ¡Pues te espera un #  largo viaje!
-* Si alguna vez necesitas#  guardar ¡buscame!
+* Si alguna vez necesitas#  guardar ¡búscame!
 * Dejaré estas #  pequeñas cosas por ahí.
 * Bueno, supongo que eso#  es todo.
 * ¡A por ellos, amigo!
@@ -23204,7 +23204,7 @@ attack_start
 Tu LV representa#tu AMOR... es...
 Je... Estoy seguro#de que no tendrás que#preocuparte por eso.
 En el subsuelo,#los monstruos pueden#intentar#¡atacarte!
-Si ves#proyectiles#como estas...
+Si ves#proyectiles#como estos...
 ¡Tienes que evitarlos#a toda costa!
 ¡Intenta esquivar mis#balas ahora! ¡Aquí#vienen!
 ¡Buen trabajo,#amigo! En caso de que#te golpeen,¡puedo#GUARDAR tu progreso!
