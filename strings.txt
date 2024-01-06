@@ -2011,7 +2011,7 @@ info
 * (Te hace invulnerable#  por unos pocos golpes.)
 * "Balas de goma" - Arma AT 0#* (Pequeñas, seguras, no-tóxicas#  balas de goma.)
 * "Pastel esponjoso" - Cura 14 HP
-* (Un bizcocho delicioso que no raya.#  ¡Tiene el doble de# absorción!)
+* (Un bizcocho delicioso que no#  raya. ¡Tiene el doble#  de absorción!)
 *"Café Hndw" - Cura 14 HP#* (¡Requiere gran valentía poder#  beber algo así de caliente!)
 * "Panqueue Hndw" - Cura 16 HP #* (Un panqueque listo para comer#  con almíbar de miel.)
 * "G.B. Oso" - Cura 20 HP#* (Una galleta hecha para#  verse como el rostro de alguien.)
@@ -45038,3 +45038,320 @@ test
 custom_env
 filt+fx
 gx_mod_wallpaper
+obtenerRoomSpanish
+gml_GlobalScript_obtenerRoomSpanish
+cuartos
+cuarto_actual
+resultado
+gml_Script_obtenerRoomSpanish
+The Furnace
+Dark Ruins - Entrance
+Dark Ruins - Main
+Dark Ruins - Cliff
+Dark Ruins - Puzzle
+Dark Ruins - Hall
+Snowdin - Delta Rock
+Snowdin - Ruined Shack
+Snowdin - Pathway
+Snowdin - Corridor
+Dunes - Cave
+Dunes - Tree
+Mines - Elevator
+Mines - Minecart
+Dunes - Mountaintop
+Dunes - Playground
+Dunes - Well
+Wild East - Town
+Wild East - Outskirts
+Wild East - Sunnyside
+Steamw. - Generator
+Steamw. - Raised Path
+Steamw. - Lake
+Steamw. - Offices
+Steamw. - Commons
+Greenhouse
+Steamw. - Crossroads
+Steamw. - Laboratory
+Steamw. - Botánico
+Steamw. - Botany Hall
+Factory - Lobby
+Factory - Offices
+Camino por Delante
+A Road Ahead
+Estate
+Apt. Complex
+Nuevo Hogar
+New Home
+Steamw. - C. Station
+RESET
+obtenerEmailSpanish
+gml_GlobalScript_obtenerEmailSpanish
+abuscar
+lista
+gml_Script_obtenerEmailSpanish
+Introducción
+Correo Spam 1
+Correo Spam 2
+Correo Spam 3
+Correo Spam 4
+Correo Spam 5
+Correo Spam 6
+Correo Spam 7
+Correo Spam 8
+Correo Spam 9
+Carta de Slurpy
+Carta de los Shufflers
+Carta de Dalv
+Carta de Mo
+Puntos de Balas
+ASP
+Carta de Slurpy 2
+Starlo (Urgente)
+Starlo Actualización
+CORREO???
+Ceroba (Importante)
+Carta de Martlet
+Martelt's Letter
+¡Mézclalo! (Instructivo)
+Carta del Resort
+Poster Desaparecidos
+Ident. Steamworks
+obtenerItemSpanish
+gml_GlobalScript_obtenerItemSpanish
+buscar
+objetos
+objectos
+gml_Script_obtenerItemSpanish
+Rollo de Croquet
+Palo
+Vendaje
+Roca de Caramelo
+Anillo de Calabaza
+Cebolla Estoica
+Fruta Fantasma
+Cidra de Araña
+Tarta de Caramelo
+Cinta Desteñida
+Guante Duro
+Bandana Varonil
+Trozo de Hombre de Nieve
+Helagradable
+Helado para Cachorros
+Bizcocho
+Uniscocho
+Conejo de Canela
+Copo Temmie
+Quiche Abandonado
+Viejo Tutu
+Zapatos de Ballet
+Tarjeta Perforada
+Perro Molesto
+Ensalada para Perro
+Resudio de Perro
+Comida de Astronauta
+Fideos Instantáneos
+Manzana Cangrejo
+Gatito Caliente
+Glamburguesa
+Cebo Estelar
+Héroe Legendario
+Gafas Protectoras
+Cuaderno Rasgado
+Delantal Manchado
+Sartén Quemada
+Sombrero de Vaquero
+Pistola Vacía
+Medallón de Corazón
+Daga Desgastada
+Cuchillo Real
+El Medallón
+Malos Recuerdos
+Sueño
+Carta de Undyne
+Carta de Undyne EX
+Comida Chatarra 0
+Junk Food 0
+Llave Misteriosa
+Cara de Filete
+Cachorrito Silencioso
+Tarta de Caracol
+Armadura Temy
+Revólver Salvaje
+Munición de Vidrio
+Cactus Dorado
+Golden Cactus
+Guante Mojado
+Limonada
+Maíz de Caramelo
+Pera Dor.
+Maíz de Perro
+Parche
+Pluma
+Pañuelo Dor.
+Balas de Roca
+Balas de Plata
+Balas de Vidrio
+Muni. de Goma
+Pastel Esponjoso
+Café Hndw
+Panqueque Hndw
+G.B. Oso
+Paleta Caliente
+Paleta Tibia
+Paleta Fría
+Café Dorado
+Soda de Adultos
+Paquete de Nueces
+Mezcla Seca
+Té Helado
+Té Verde
+Té de Mar
+Pastel de Frutas
+Rosquilla Araña
+Aguhelada
+Latte del Oasis
+Galleta de Canela
+Cerveza de Raíz
+Pólvora
+Ensalada Musgo
+Patatas Fritas
+Guiso de Flores
+Granola Gravedad
+Papitas Fritas
+Carne Seca
+Pastel
+Pastelito Floral
+Perrito Caliente
+Caramelo Monstruoso
+Caramelo Monstruoso+
+Pudín de Cara-Nela
+Sopa de Maíz
+Hamburguesa Feisty
+Broche Honeydew
+Broche de la Banda
+Hebilla de Acero
+Chaqueta Segura
+Gafas Seguras
+Broche Delta Rune
+Pañuelo Plateado
+Café Tibio
+Fósforos
+Mapa Snowdin
+Pico
+Balas Heladas
+Balas de Café
+Super Balas
+Balas de Piedra
+Clavos
+Bolitas Amistosas
+Pañuelo Dorado
+Funda Elegante
+Cinta de Vídeo
+H. Ácido
+Collar Roto
+Dihidrógeno Monóxido
+* Café Tib.
+* Galleta
+* Nueces
+* G Gravedad
+* Pastelito Fl.
+* P. Fritas
+* CrmMnstr
+* CrmMnstr+
+* Hamburg F.
+* Pera
+* Café Dor.
+* Revolver S.
+* Goma
+* Roca
+* Bal. Helada.
+* Bal. de Café
+* Bal. de Piedra
+* Bolitas Amist.
+* Broche Banda
+* F Elegante
+* Gafas
+* DR Broche
+* Pañuelo D.
+Bolitas Amist.
+P. Amistad
+variablenormal
+variablenormal2
+Snowdin - Forest
+Dunes - West Mines
+Dunes - Oasis Valley
+Wild East - Farm
+Hotland - Crossroads
+obj_bordeParche
+gml_Object_obj_bordeParche_Create_0
+imgAncho
+imgAlto
+escalaAncho
+escalaAlto
+pantallaAncho
+pantallaAlto
+factorAncho
+factorAlto
+factor
+nuevoAncho
+nuevoAlto
+desplazamientoX
+desplazamientoY
+juegoAlto
+juegoAncho
+factorJuego
+reduccion
+escalaJuegoX
+escalaJuegoY
+ponerenX
+ponerenY
+display_get_width
+display_get_height
+gml_Object_obj_bordeParche_Draw_76
+BORDE_RUINAS
+SPRITE_BORDER
+BG_DEFAULT
+BORDE_DARKRUINS
+BORDE_SNOWDIN
+BORDE_WATERFALL
+BORDE_HOTLAND
+BORDE_CARTAS
+BORDE_DUNAS
+BORDE_STEAMWORKS
+BORDE_CASTLE
+BORDE_MANSION
+BORDE_INICIO
+BORDE_CONFIG
+BORDE_MEWMEWMINIGAME
+BORDE_CHUJINCINTAS
+rm_ruins
+rm_darkruins
+rm_dalv
+rm_snowdin
+rm_waterfall
+rm_dunes
+rm_steamworks
+rm_castle
+rm_newhome
+rm_mansion
+rm_new_home
+debitat
+escala
+cartas_bg_borde
+¡
+windowH
+windowW
+window_set_size
+window_get_height
+window_get_width
+ - Seleccionar/Poner#
+ - Cancelar selección#
+ - Rotar/Escalar Item
+DEVOL.
+ * ¡Espera! ¿¡Otro#   robot!?
+ * ¡No puede ser! ¡No#   podemos pelear#   con esto!
+ * Que tal si Chujo lo#   hi-
+ * ¿Sabes qué?#   Hablaremos después.
+ * Encontremos una forma#   pacífica de#   superarlo.
+ * Haré lo mejor para#   protegernos.
+* ¡No puede ser! ¡No#  podemos pelear#  con esto!
