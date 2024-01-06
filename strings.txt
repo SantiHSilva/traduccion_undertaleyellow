@@ -10471,17 +10471,17 @@ river_ambience
 * He estado pensando#  en ese día.
 * Un montón.
 * El tiempo es algo,#  gracioso, ¿Sabes?
-* Supongo que en el#  panorama de mi vida, fuiste#  sólo un parpadeo.
+* Supongo que en el#  panorama de mi vida,#  fuiste sólo un parpadeo.
 * Pero a menudo, esos#  "parpadeos" son los que#  más impacto causan.
 * El Rey me ofreció una#  promoción.
-* Un puesto en Nuevo#  Hogar.
-* Pero luego de experimentar#  lo peor que el trabajo#  tiene que ofrecer...
+* Un puesto en Nuevo#  Hogar. Pero...
+* Luego de experimentar#  lo peor que el trabajo#  tiene que ofrecer...
 * Lo rechacé.
 * No sólo eso, tomé#  mis dos semanas, je.
 * Allí... allí sentí#  que hay mejores causas#  en las que puedo entrar.
 * De todas formas...
 * Perdón por ponerte#  en otro de mis botes#  otra vez.
-* Podrá no ser la despedida#  más apropiada luego#  del útimo viaje...
+* Podrá no ser la#  despedida más apropiada#  luego del útimo viaje...
 * Pero es el mejor tributo#  que se me ocurrió.
 actor_starlo
 actor_ceroba
@@ -10511,7 +10511,7 @@ actor_ceroba
 . ¿A dónde iba con esto?
 * Clover te ayudó a salir#  de tu situación.
 * Sí.
-* En definitiva, Clover fue#  muy amable conmigo.
+* En definitiva, Clover#  fue  muy amable conmigo.
 * Tiene sentido.
 * Es un placer conocoerte,#  Dalv.
 * Gracias por venir.
@@ -12899,7 +12899,7 @@ Nuestra pequeña niña... Kanako. Ella#necesita vivir una vida feliz, sin#verse 
 * Has estado intentando#  terminarlo, ¿cierto?
 * Con mis habilidades#  limitadas... sí.
 * Pero no te involucra.
-* He estado buscando formas#  de crear el suero sin#  un Monstruo Jefe.
+* He estado buscando#  formas de crear el suero#  sin un Monstruo Jefe.
 * Lo... resolveré.#  Tengo que hacerlo.
 * Encontré esto en la#  basura.
 * ¡! 
@@ -13224,7 +13224,7 @@ offset_y_scroll_speed
 * Chujin. Su legado. Su#  deseo.
 * Nunca será cumplido.
 * Chujin podrá no ser#  el monstruo perfecto que#  pensé que era.
-* Pero incluso sus secretos#  más oscuros tienen#  un origen empático.
+* Pero incluso sus#  secretos más oscuros tienen#  empatía.
 * Y justo eso allí...#  es su legado.
 * No se encuentra en#  el suero para "salvar#  el mundo."
 * Todos los que ayudó,#  todo lo que construyó...
@@ -15339,7 +15339,7 @@ vspeed_inc
 * Y luego... Bueno,#  seguirás tu camino.
 * ¡Pero no te preocupes#  por mí! 
 * ¡Cuando nos liberemos,#  nos volverémos a ver#  en la Superficie!
-* Para ese entonces, ya#  has de haber crecido.#  Será divertido ¿no crees?
+* Para ese entonces, ya#  habrás crecido.#  Será divertido ¿no?
 * El punto es, me alegra#  haberme topado contigo.
 * Okei... Tenemos que#  seguir avanzando.
 * Por allá. Al Oeste#  de Nuevo Hogar.
@@ -22173,7 +22173,7 @@ Chujin
 * Floración tardía. Sabes#  como es.
 * ¡Claro que sí!
 * ¡Claro que sí!#* < Bits no obtuvo su boca#  hasta los nueve años. >
-* Bueno uh, fue lindo#  conocerlos pero tenemos que#  irnos. ¿No es así,#  querido hijo?
+* Bueno uh, fue lindo#  conocerlos pero tenemos# que irnos. ¿No es así,#  querido hijo?
 * (Termina tús asuntos,#  por favor.)
 box_sndfnt
 * (En serio no tenemos#  tiempo para charlar. Tal#  vez luego, ¿okei?)
