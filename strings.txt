@@ -2060,7 +2060,7 @@ info
  "Feisty Slider" - Cura 30 HP"
 * (¡Una pequeña hamburguesa#  con gran sabor! ¡A solo#  30 de oro en la Taberna!)
 * (...Dice la publicidad#  impresa en el envoltorio.)
-* "Pin Honeydew" - Armad. DF 4#* (Un pin promocional del#  Resort Honeydew de Snowdin.)
+* "Pin Honeydew" - Armad. DF 4#* (Un pin promocional del#  Honeydew Resort de Snowdin.)
 * "Pin Banda" - Armad. DF 5#* (Pin conmemorativo de un#  concierto al que no fuiste..)
 * "Hebilla Acero" - Armad. DF 7#* (Brillante hebilla hecha#  con finos mateirales.)
 * "Chaqueta Seguridad" - Armad. DF 6
@@ -2426,7 +2426,7 @@ gml_Script_scr_save_flowey_snowdin
 * ¡Sigue así, amigo!
 * Sigues haciéndolo#  muy bien, amigo.
 * ¿Supongo que necesitabas#  una confirmación extra?
-* No te preocupes, lo dije#  en serio, como la primera#  vez y como la segunda.
+* No te preocupes, lo dije#  en serio, como la#  primera y segunda vez.
 * Te agradezco que#  quieras que te felicite#  por tercera vez.
 * Pero no tienes que#  apoyarte en mí para ser#  tú apoyo emocional.
 * Puedes creer en ti#  mismo un poco también,#  amigo.
@@ -15650,7 +15650,7 @@ Tú vida está#en mis manos.
 No te preocupes,#no te juzgaré#por tus acciones.
 Los amigos no son#juiciosos entre si#verdad?
 Tú me cubres#y yo te cubro.
-Así que salgamos#de aquí,#okei compa?
+Así que salgamos#de aquí,#¿okei compa?
 animateTalk
 gradient_height
 colors
@@ -16787,10 +16787,10 @@ diary_music
 * (Es el diario de Dalv.)
 * (Abres el diario.)
 * (Solo hay una entrada.#  Parece nueva.)
-* Hoy empezó como cualquier otro# día.
+* Hoy empezó como cualquier otro#  día.
 * Me levanté de la cama, me#  cepillé los colmillos y#  desayuné un buen tazón de maíz.
 * Pops hizo un chiste muy#  gracioso a costa de Broom#  y todos nos reímos.
-* Me puse mi capa y#  salí a dar mi paseo diario.
+* Me puse mi capa y salí#  a dar mi paseo diario.
 * Me he dado cuenta de que#  hoy ha aparecido otro maíz#  azul en tu maizal.
 * Siempre me siento mal por# desechar el maíz especial, pero# no puedo arriesgarme a enfermar.
 * Algo interesante ocurrió#  un poco más tarde.
@@ -16804,7 +16804,7 @@ diary_music
 * Eso no es verdad.
 * Lo sabes.
 * Lo sé.
-* Me diste la mano#  cuando más lo necesitaba.
+* Me diste la mano cuando#  más lo necesitaba.
 * ...me ayudaste a sobrellevar# el pasado...
 * ¿Cómo pueden ser tan malos?
 * ¿Qué saben ellos?
@@ -16820,10 +16820,10 @@ readjust
 * (Hay un libro de párrafos#  bien escritos sobre el#  escritorio.)
 * (Todos parecen ser muy#  similares.)
 * (¿Leer uno?)
-* Dalv es un solitario que vive en# las ruinas del Hogar.
-* Le gusta pasear tranquilamente en oscuridad,#  limpiar y mejorar las canciones#  de su órgano.
-* Quiere compartir con la# juventud del Subsuelo...
-* ...la importancia de#  aceptar y respetar# los deseos de los demás.
+* Dalv es un solitario que vive#  en las ruinas del Hogar.
+* Le gusta pasear tranquilamente#  en oscuridad,  limpiar y#  mejorar sus canciones.
+* Quiere compartir con la#  juventud del Subsuelo...
+* ...la importancia de#  aceptar y respetar#  los deseos de los demás.
 * El resto de la página está#  garabateada.
 * (Hay un libro de párrafos#  bien escritos sobre el escritorio.)
 audio_sound_gain_radio
@@ -16831,10 +16831,10 @@ audio_sound_gain_gramophone
 * (Es un gramófono.)
 * (Parece bastante viejo.)
 * (Tal vez sea un abuelitáfono.)
-* (Un disco llamado #  "Prueba de Organo de Dalv" está en cola para escuchar.)
+* (Un disco llamado #  "Prueba de Órgano de Dalv"#  está en cola para escuchar.)
 * (¿Escuchar?)
 * (El disco debe estar dañado o# roto.)
-* (¿Poner fin a esta#  música miserable?)
+* (¿Poner fin a esta música#  miserable?)
 * (Apagas el gramófono.)
 * (Tal vez sea un trabajo en#  progreso.)
 * (Un viejo gramófono.)
@@ -16867,7 +16867,7 @@ audio_sound_gain_gramophone
 * Muy bien.
 * Más para mí, supongo.
 * (Es una mini nevera.)
-* (Está casi vacío.)
+* (Está casi vacía.)
 * (Una mini nevera barata.)
 * (Nada de lo que hay dentro#  parece ni remotamente#  comestible.)
 * Alguien me lo hizo#  hace un tiempo.
@@ -16955,7 +16955,7 @@ cam2
 * Atraparme aquí no fue#  suficiente, así que me#  quieres cazar...
 * ¿Verdad?
 ¿Qué?
-* Y estaba empezando a#  aceptar mi realidad.#  La crueldad...
+* Y eso que estaba empezando#  a aceptar mi realidad.#  La crueldad...
 * Lo que te hice ese día#  no fue mi intención,#  yo solo...
 * No importa. Las palabras#  no son suficientes.
 * Yo... No quiero pelear con#  nadie, pero has invadido#  mi casa.
@@ -16965,16 +16965,16 @@ cam2
 * ¿Quieres...#  ver mi casa?#  ¿O algo así?
 * Tengo que ir allí así#  que supongo que puedes#  ir si tienes tiempo.
 ¿Me estás... perdonando?
-Pero... ¿qué pasa con ellos?
+Pero... ¿qué pasa con#  los demás?
 ¿Por qué solo yo?
 ¡Qué me hace tan#especial!
-¿O es así como#  planeas hacerme daño?
-Llevándoselos a todos...
+¿O es así como# planeas hacerme daño?
+Llevándote a todos...
 ...No los necesito.#Estare bien por mi cuenta.
-Lo he estado haciendo#lo suficiente...
+Lo he estado haciendo#por mucho tiempo...
 Creo que deberías irte.
 Ya has hecho#suficiente daño aquí.
-* Supongo que... Realmente#  estoy solo ahora...
+* Supongo que... realmente#  estoy solo ahora...
 * Todo esto fue un#  malentendido, ¿verdad?
 * Estaré esperando en#  mi casa.
 * Ven cuanto te#  apetezca.
@@ -17434,7 +17434,7 @@ geno_snowdin
 * Es una luna de miel#  estupenda y exótica.
 * Por desgracia, estamos un#  poco perdidos en este#  momento.
 * Dice que sabe dónde#  estamos, pero creo que#  solo está avergonzado.
-* ¿Alguna idea de dónde#  podríamos conseguir un mapa?
+* ¿Tienes alguna idea de dónde#  podríamos conseguir un mapa?
 * (Sacas el mapa.)
 * ¿Un mapa?#  ¡Fantástico! 
 * ¿Hiciste esto solo para#  nosotros?
@@ -17534,7 +17534,7 @@ arrived_count
 * Recalibrar el puzzle#  de roca de lava...#  ¡Listo!
 * Bueno, debería aguantar#  unos cuantos usos#  al menos.
 * ¡Y eso es suficiente#  para mí!
-* ¡Próxima parada,#  Resort Honeydew!
+* ¡Próxima parada,#  Honeydew Resort!
 minX
 maxX
 moveDir
@@ -23334,8 +23334,8 @@ Un sacapuntas#sería útil#en estos#momentos...
 ¡Debo mantener#filosas mis#habilidades!
 La vida del#artista es pura#soledad.
 ¿Así que mi#trabajo a mano#llevó a esto?
-Zer o no Zer?
-Quería que él#se fuera, pero#no así!
+¿Zer o no Zer?
+Quería que él#se fuera, ¡pero#no así!
 ¡Pero ella era#tan dulce!
 ¡Él no merecía#morir!
 Mi motivación#realmente se#está muriendo.
@@ -23470,13 +23470,13 @@ Yo... No sé como#hacer las cosas#bien ahora...
 Temía que esto#ocurriera.#Qué mala suerte.
 Sabes, a pesar de#tus pensamientos...
 Los monstruos#no son malos.
-Los monstruos#representa#la esperanza, el bien.
+Los monstruos#representan#la esperanza, el bien.
 Aquí todo el mundo#solo intenta encontrar#un poco de alegría.
-Pero... Supongo que#no estás para alegrías.
-¿A quién quiero#engañar? No me#creerias.
+Pero... Supongo que#no estás para#  alegrías.
+¿A quién quiero#engañar? No me#creerías.
 Yo soy el que#se volvió hostil#primero.
 Pero esto no#es un error...
-Luchas a#propósito.
+Luchas a propósito.
 Si te niegas a ser#pacífico...
 Yo tampoco#seré pacífico.
 A pesar de lo#que he dicho, los#monstruos no somos#debiles.
@@ -23982,23 +23982,23 @@ x_speed_hold
 I-iglú.
 Solo es un#iglú! Espera,#¿Ya habías#dicho eso?
 ¡Sip, nada que#ver aquí!
-Qué es eso#siquiera? Digo-         
+¿Qué es eso#siquiera? Digo-         
                           IGLÚ ! !
 Um, holi...#¿Puedo unirme?
 No te#refieres a-               
                    IGLÚ IGLÚ ! !
 Sonidos de iglú#apreciativos!
 Gracias- Digo#       
-              #iglúU !
-IGLÚ IGLÚ ! !
+              #¡iglúU!
+¡¡IGLÚ IGLÚ!!
 Ow... Digo-                
-             #SONIDO DE# IGLÚ ! !
+             #SONIDO DE IGLÚ
 I-Iglú?
-Sonidos de iglú#repelente!
+¡Sonidos de iglú#repelente!
 Iglú iglú.
 Sonidos de iglú.
 Ten cuidado.#Mis pinzas#son feroces.
-No hay nada#que ver...#verdad?
+No hay nada#que ver...#¿verdad?
 Eso es un poco#rudo sabes...
 Aspirante.
 A la próxima#yo lidero!
@@ -25093,11 +25093,11 @@ Pero...
 Aquí la felicidad#siempre ha#sido un#deseo.
 Hubiera sido#un buen amigo.
 Lo habría hecho.
-Se supone que#me despediré#por última#vez...
+Se supone que#me despediría#por última#vez...
 Pero... No#tengo a nadie#de quien#despedirme...
 Es difícil#admitirlo,#pero yo...
 ...creo que he estado#mintiéndome a mí#mismo durante#un tiempo.
-Se puso#solitario aquí#abajo.
+Se puso solitario#  aquí abajo.
 Ahora creo que sí#eres real.
 Heh...
 Me he cansado#demasiado pero...
