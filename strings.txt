@@ -961,13 +961,13 @@ Snowdin - Cabaña Rota
 Snowdin - Sendero
 Snowdin - Resort
 Snowdin - Corredor
-Dunes - Cueva
-Dunes - Árbol
+Dunas - Cueva
+Dunas - Árbol
 Minas - Elevador
 Minas - Vagoneta
-Dunes - Cima de montaña
-Dunes - Parque infantil
-Dunes - Pozo
+Dunas - Cima de montaña
+Dunas - Parque infantil
+Dunas - Pozo
 Salvaje Este - Pueblo
 Salvaje Este - Afueras
 Salvaje Este - Lado Sol
@@ -981,13 +981,13 @@ Invernadero
 Steamw. - Cruces
 Steamw. - Laboratorio
 Steamw. - Botánic
-Factory - Lobby
-Factory - Oficinas
+Fábrica - Vestíbulo
+Fábrica - Oficinas
 El Horno
 Camino por delante
-Estado
-Apt. Complex
-Nuevo Hogar
+Propiedad
+Complejo de Apartamentos
+Nuevo Hogar 
 scr_determine_save_area
 gml_Script_scr_recreate_heart_battle_menu_text_jandroid_duo
 scr_recreate_heart_battle_menu_text_jandroid_duo
@@ -1877,68 +1877,68 @@ H. Acid
 * (Carglas el Flint#  en tu pistola.)
 * (¡Se puede iniciar un#   incendio con este!)
 * (Lames el glaseado de#  la esponja.)
-* (Tú boca se siente limpiesita!)
-* (Tomas valor y bebes el#  Honeydew Coffee hirviente.)
+* (¡Tu boca se siente limpiesita!)
+* (Tomas valor y bebes el#  Café Honeydew hirviente.)
 * (Sientes que tus papilas#  gustativas se queman.)
-* (Tomas un sorbo de la#  adult soda.)
+* (Tomas un sorbo de la soda de#  adulto.)
 * (...)
 * (Sabe a agua.)
 * (Comes el pancake.)
-* (¡El jarabe es múy dulce!)
+* (¡El jarabe es muy dulce!)
 * (Comes la galleta.)
 * (Sientes como si te mirara#  mientras la comes.)
-* (Comes el Hot Chocolate Pop.)
+* (Comes la Paleta de Chocolate#  caliente.)
 * (Tiene el distintivo sabor#  a algo que alguna vez#  estuvo caliente.)
-* (Comes el Lukewarm Chocolate#  Pop.)
+* (Comes la Paleta de Chocolate#  tibio.)
 * (Tiene el distintivo sabor#  a algo que estuvo#  caliente y luego se pudrió.)
 * (No es bueno.)
-* (Comes el Cold Chocolate Pop.)
+* (Comes la Paleta de Chocolate#  frío.)
 * (Tiene el distintivo sabor#  de cosas realmente heladas.)
-* (Tragas el Half N' Half#  Golden Coffee.)
+* (Tragas el Mitad y#  Mitad Café Dorado.)
 * (Sabe a... café normal.)
 * (Le das un buen mordizco#  al cactus.)
 * (Te muerde de vuelta.)
-* (Comes el Packing Peanuts.)
-* (Fuera del sabor, textura,#  y potencial riesgo a la salud,#  no están tan malo.)
-* (Devoraste la bolsa de#  Trail Mix.)
-* (Todo lo que saboreas son#  uvas secas.)
-* (Tomas un vaso de té.#  Está muy rebajado.)
-* (Tomas el Green Tea.#  Se siente tóxico.)
-* (Tomas el Sea Tea. ¡La#  velocidad de tu ALMA#  aumenta!)
-* (Devoras el Fruitcake.#  ¡Los Swealterstones queman tu#  garganta!)
-* (No te preocupes, las arañas#  no lo hicieron.)
-* (Tomas el Icewater.#  Definitivamente sabe a algo#  pero no puedes describirlo.)
-* * (Tomas el Latte...)
+* (Te comes el maní del paquete.)
+* (Aparte del sabor, la textura y#  el potencial riesgo a la#  salud. No están tan mal)
+* (Comes los frutos secos.)
+* (Todo lo que saboreas son pasas.)
+* (Bebes el vaso de té. Está muy#  aguado.)
+* (Bebes el Té Verde. Se siente#  tóxico.)
+* (Bebes el Té de Mar. ¡La#  velocidad de tu ALMA#  aumenta!)
+* (Comes el pastel de frutas.#  ¡Las Swealterstones queman#  tu garganta!)
+* (No te preocupes, la araña no#  lo hizo.)
+* (Bebes el agua congelada.#  Definitivamente sabe a algo pero#  no sabes describirlo.)
+* * (Bebes el Latte...)
 * (Comes la galleta...)
-* (Bebes la Root Beer. ¡La#  carbonación cosquillea!)
-* (Comes el Feisty Slider.#  Parecido al equipo, su#  sabor es... ambicioso.)
-* (Pones la pólvora en tu boca#  y casi te atoras hasta#  morir.) 
-* (Te preparas y comes la#  Moss Salad.)
-* (La textura solo se puede#  describir como "insolación")
-* (Tapas tu nariz y comes#  las Grassy Fries.)
-* (¿Esto es a lo que tu cida#  ha llegado?)
-* (Te aseguras de que Flowey no#  esté mirando mientras lo#  pruebas.)
-* (Mmm... macizo...)
-* (Muerdes la Gravity#  Granola.)
-* (¡Realmente puedes sentir los#  9.8 metros!)
-* (Bebes el H2O. Sabe similar a#  un limpiador de ventanas...)
-* (Comes las Popato Chisps.#  El crujido es ensordecedor.)
-* (Devoras el Beef Jerky.)
+* (Te bajas la Cerveza de Raíz.#  ¡La carbonatación hormiguea!)
+* (Comes la Feisty Slider. Se#  parece al equipo, su sabor es#  ... ambiocoso.)
+* (Pones la pólvora en tu boca y#  casi mueres asfixiado.) 
+* (Te llenas de valor y comes#  la ensalada de musgo.)
+* (La textura solo puede ser#  descrita como "insolación".)
+* (Te tapas la nariz y comes#  las papas fritas.)
+* (¿A esto realmente ha#  caído la vida?)
+* (Te aseguras de que Flowey#  no te vea antes de probar.)
+* (Mmm... grueso...)
+* (Comes las Granolas Gravedad.)
+* (¡Realmente puedes saborear#  los 9.8 metros!)
+* (Bebes el H2O. Sabe un poco#  a limpiador de vidrios...)
+* (Comes los Chips Popato.#  El crujir es ensordecedor.)
+* (Te comes la carne seca.)
 * (Que sabor tan clásico.)
-* (Disfrutas varios trozos#  de pastel.)
+* (Disfrutas muchos trozos de#  torta.)
 * (¡Delicioso!)
-* (Disfrutas el Floral#  Cupcake.)
+* (Disfrutas la Magdalena#  Floral.)
 * (¡Que rico sabor!)
-* (Comes el Monster Candy.)
-* (Esto sabe ligeramente#  familiar...)
-* (Pones el Monster Candy+ en#  tu boca.)
-* (La abrumadora dulzura entra#  en guerra con tus papilas#  gustativas.)
+* (Comes el Caramelo Monstruo.)
+* (El sabor es ligeramente#  familiar...)
+* (Pones el Caramelo Monstruo+ en#  tu boca.)
+* (La abrumadora dulzura enstá#  en guerra con tus papilas#  gustativas.)
 * (Saboreas el C-B Strudel.)
 * (El sabor es extrañamente#  familiar...)
-* (Devoras el 'dog.)
+* (Te sampas el perro caliente.)
 * (Mmm, ¡justo en el punto!)
-* (Tomas nervioso el Corn#  Chowder.)
-* (...Pudo ser peor.)
+* (Bebes nerviosamente la Sopa#  de Maíz.)
+* (...Podía ser peor.)
 * (Equipaste#  
 .)
 * (Equipaste 
@@ -2011,15 +2011,15 @@ info
 * (Te hace invulnerable#  por unos pocos golpes.)
 * "Balas de goma" - Arma AT 0#* (Pequeñas, seguras, no-tóxicas#  balas de goma.)
 * "Pastel esponjoso" - Cura 14 HP
-* (Un bizcocho delicioso que no raya.#  ¡Tiene el doble de# absorción!)
-*"Café Hndw" - Cura 14 HP#* (¡Requiere gran valentia poder#  beber algo así de caliente!)
+* (Un bizcocho delicioso que no#  raya. ¡Tiene el doble#  de absorción!)
+*"Café Hndw" - Cura 14 HP#* (¡Requiere gran valentía poder#  beber algo así de caliente!)
 * "Panqueue Hndw" - Cura 16 HP #* (Un panqueque listo para comer#  con almíbar de miel.)
 * "G.B. Oso" - Cura 20 HP#* (Una galleta hecha para#  verse como el rostro de alguien.)
 * (¡Que creativa y original#  idea!)
-* "Caliente Pop" - Cura 14 HP#* (Chocolate bien caliente, enfriado y#  luego recalentado.)
-* "Tibio Pop" - Cura 8 HP#* (Chocolate bien caliente enfriado hasta# estar tibio.)
-* "Congelado Pop" - Cura 12 HP#* (Chocolate calentado, enfriado#  y luego congelado.)
-* "Café G." - (Reduce el peso#  de tu alma, da un aumento#  de velocidad por 3 turnos.)
+* "Paleta Caliente" - Cura 14 HP#* (Chocolate caliente, enfriado y#  luego recalentado.)
+* "Paleta Tibia" - Cura 8 HP#* (Chocolate caliente enfriado hasta# estar tibio.)
+* "Paleta Congelada" - Cura 12 HP#* (Chocolate calentado, enfriado#  y luego congelado.)
+* "Café Dor." - (Reduce el peso#  de tu alma, da un aumento#  de velocidad por 3 turnos.)
 * (Una bebida deliciosa, mitad#  metal de transición.)
 * (Solo huele como café, creo...)
 * "G. Cactus" - (Cura 15 HP#  por 3 turnos. El primer#  bocado quita 5 HP.)
@@ -2046,16 +2046,16 @@ info
  "Guiso de Flores" - Cura 20 HP"#* (Una taza de caldo aromático#  con guarnición floral.)
  "Granola Gravedad" - Cura 30 HP"#* ("¡El sabor es de#  otro mundo!" ...Uh huh.) 
  "H2O" - Cura 20 HP"#* (Líquido químico.)
- "Chips Popato" - Cura 13HP"#* (Chips popato de siempre.)
+ "Chips Popato" - Cura 13HP"#* (Chips Popato de siempre.)
  "Carne seca" - Cura 16 HP"#* (Delicia de#  una tienda común.)
  "Pastel" - Cura 30 HP"#* (Un pastel de limón#  con cerezas arriba.)
  "Magdalena Floral" - Cura 50 HP"
 * (Hermoso pastel coronado#  con una flor dorada#  de glaseado.)
  "Hot Dog" - Cura 20 HP"#* (Una comida representativa#  de tu insulto habitual.)
- "Caramelo Monstruo" - Cura 10 HP"
+ "Caramelo Monstruoso" - Cura 10 HP"
 * (El dulce olor a caramelo#  sale por el envoltorio.)
- "Caramelo Monstruo+" - Cura 15 HP"#* (Una delicia saborizada#  doblemente con azúcar.)
- "Strudel C-B" - Cura 30 HP"#* (Hecho com canela fresca#  y caramelo.)
+ "Caramelo Monstruoso+" - Cura 15 HP"#* (Una delicia saborizada#  doblemente con azúcar.)
+ "Pudín Cara-Nela" - Cura 30 HP"#* (Hecho con canela fresca#  y caramelo.)
  "Sopa de Maíz" - Cura 15 HP"#* (Restos de hace semanas#  del refri de Ceroba.)
  "Feisty Slider" - Cura 30 HP"
 * (¡Una pequeña hamburguesa#  con gran sabor! ¡A solo#  30 de oro en la Taberna!)
@@ -2107,7 +2107,7 @@ scr_inventory_check_space
 Action 1 Message 2
 gml_Script_scr_dialogue_battle_action_selected_action_1_sousborg
 scr_dialogue_battle_action_selected_action_1_sousborg
-Carta de Inicio
+Intro Letter
 mail
 mail_list_read
 ds_list_find_index
@@ -2140,38 +2140,38 @@ Spam Letter 7
 Spam Letter 8
 Spam Letter 9
 Steamworks ID
-#¡Ven a nuestro lugar, nuevo amigo!#¡No importa que deambules#o te mantengas en un solo lugar!#¡Esperamos que tengas amigos con#cartas divertidas para enviar,#y siempre con una sonrisa#en tu rostro! ¡Aquí tienes más correo#sin estrés!#¡Esperamos volver a verte!##La SPSS
-#Greetings, my savior and fond#acquaintance. I would like to#extend further gratitude for#your assistance.If it weren't#for you, my papillae would#surely be permanently attached#to that pole.##Thanks to you, I made#it home in time for#supper. I must say , Mother#really outdid herself this#time! The food was#exquisite! Many thanks!#Sincerely yours,##-Slurpy#
-#If you're reading this, it#means you had the pleasure of#meeting me.##I'll make this snappy.#You're not gonna believe#it. I'm selling a new,#premium product for HALF OFF.##I know what you're saying,#"I would gladly pay full price#for your products."I appreciate#that, I really do. But this#ain't the time for high#prices.##Just find my stand and#I'll give ya the juicy#details.##Huh? Where is my stand?#I don't even know myself.#Should probably go find that.##Good luck!#-Mo
-#Greetings, Clover! Life has#been a treat since we last saw#each other. I packed up all of#my belongings and set out for#Snowdin.##I recently found a nice#place to settle down. I think#you'll like it! Oh! And all of#the neighbors moved out with#me.I'm not too sure where each#one went, but I know they are#doing well.##I'm also taking art lessons#from Penilla now. She gave#me the cold truth and said#my art needed lots of#improvement. It stung at first,#but then I remembered that you#should always aim to improve#yourself.##Ah. Look at me rambling#again. I hope the mail#service doesn't charge#extra for that.##It was nice to talk to you#again! Even if it is over#written text. Please visit me#in the future! Life is#getting a lot better,###-Dalv
-#To our latest Shufflers recruit:#Toast here. There's someone out#in the wild that we forgot to#warn ya about. This scruffy#fella with a blue hat. Don't#interact with him or support#his endeavors. I won't tell ya#why cause this letter reads way#cooler as a mystery.#
+#¡Ven a nuestro lugar, nuevo amigo!#¡No importa que deambules#o te mantengas en un solo lugar!#¡Esperamos que tengas amigos con#cartas divertidas para enviar,#y siempre con una sonrisa#en tu rostro! ¡Aquí tienes más correos#sin estrés!#¡Esperamos volver a verte!##La SPSS
+#Saludos, mi salvador y querido#conocido. Me gustaría extender#mi gratitud por su ayuda.# Si no fuera por usted,#mis papilas estarían#permanentemente atadas a#ese poste.##Gracias a ti, llegué a#casa a tiempo para la cena.#¡Debo decir que, Mamá#realmente se superó esta#vez! ¡La comida estaba#exquisita! Muchas gracias.#Atentamente, ##-Slurpy#
+#Si estás leyendo esto,#significa que has tenido el#placer de conocerme.##Haré esto rápido.#No te lo vas a creer.#Estoy vendiendo un NUEVO#producto PREMIUM a mitad#de precio.##Sé lo que estás diciendo,#"Con gusto pagaría el precio#completo por tus productos."#Te lo agradezco, de verdad.#Pero estos no son tiempos#para precios altos.##Busca mi puesto y te#daré los jugosos detalles.##¿Eh? ¿Qué dónde está mi puesto?#¡Ni siquiera yo lo sé!.#Probablemente debería buscarlo...##¡Buena suerte!#-Mo
+#¡Saludos, Clover! La vida ha#sido una delicia desde la última#vez que nos vimos. Empaqué todas#mis pertenencias y partí#hacia Snowdin.##Hace poco encontré un lugar#bonito para establecerme. ¡Creo#que te gustará! ¡Oh! Y todos los#vecinos se mudaron conmigo.#No estoy muy seguro de adónde#fue cada uno, pero sé#que les va bien.##Ahora también estoy tomando#clases de arte con Penilla.#Me dijo la pura verdad:#mi arte necesita muchas mejoras.#Al principio me dolió,#pero luego recordé que siempre#hay que intentar mejorar.##Ah. Mira como divago#otra vez. Espero que el#sevicio de correos no cobre#extra por eso.##¡Ha sido un placer volver#a hablar contigo! Aunque sea#sobre un texto escrito. Por favor,#¡visítame en el futuro! La vida#es cada vez mejor,###-Dalv
+#Para nuestro último#recluta de los Shufflers:#Al habla Toast. Hay un personaje#allí afuera que nos olvidamos#de advertirte. Este tipo#desaliñado y con gorro azúl.#No interactúes con él o#apoyes su negocio. No te diré#por qué porque esta carta se#ve mejor como un misterio.#
 fun_swig_name
-#Now, I'll let {0} finish this.
-#He gets upset when he misses#
-out on writing letters.
+#Ahora, dejaré a {0} que#termine esto.
+#Se enoja cuando se pierde# 
+la escritura de cartas.
 #
-#Yeah, upset.
+#Seh, mucho.
 #-{0} 
-#Hello, appreciated guest!##We greatly enjoyed your company#at The Honeydew Resort (Snowdin#Establishment)! You can always#count on us for quality time#with the whole family! From our#relaxing hot spring, to our#live music, there's a little#something for everyone!##We hope to see you again,#anonymous citizen of the#Underground!##-The Honeydew Family
-MIXIN' IT UP - By Dr. Rob##Entering the field of#chemistry can be tough. Maybe#you never went to college.#Maybe you find it hard#to grasp complex equations.#Maybe you were kicked out of#your highschool science class#for "developing poison during#school hours."##We're all different, but we#all share one similarity: magic.#It's easy to rely on magic in the#in the day to day, but have you#ever wondered what it would be#like to live... without it?##What would we do if we couldn't#light a fireplace with a snap#of our fingers? Spawn weapons#out of thin air? Use wings to#soar above the trees? Sleep?##That's where science comes in!#Nature's magic. Elements, or#"compounds" make up most of the#Underground as we know it.#When you combine two or more#compounds you can create amazing#things. For example, by taking#the compound "Oxygen" and#SMASHING it together with two#"Hydrogen" compounds, you get# "Dihydrogen Oxide," also known#as "water" (catchy name, right?)###Here, you try:#Let's say you want to melt through#a high-security safe to become#rich... hypothetically. The#solution you would need is#called "Hydrochloric Acid"#which involves the two#compounds _____ and _____.#Fill in the blanks to#empty the banks :)#######D- Unfocused and rushed.#Why did you write a#worksheet problem in#a reflective essay?
-#######################################################D- Unfocused and rushed.#Why did you write a#worksheet problem in#a reflective essay?
-To: Clover#(who's hopefully alive)##Meet me on the roof of#UG Apartments as soon#as you can.##There's something on#my mind.###- Martlet of the Royal Guard#(Snowdin Division)#####
-Dear citizens of the Underground:#We are calling for fallen down#monsters to be sent to Hotland for#important scientific  research.###Should you choose to participate,#your loved ones will be#treated with utmost respect,#their condition heavily#monitored, and you regularly#notified of their status.###This is a chance for tragedy to#be turned into opportunity. For#monsterkind to finally see the#light of the Surface thanks to#its citizens' invaluable bravery#and sacrifice.##For your consideration,##Royal Science Division#####
-The Helper-Bot Guidelines:##1.#Every manufactured bot must have#a practical function installed.#A purpose for being:#(Cooking, cleaning,#agriculture, etc).##2.#Bots should have tiers of#emotion to better integrate#into society.#Coding a personality into#each one is recommended.#It makes them more#personable/easy to be around.##3.#All bots are to have a strong#connection with living things: #(Their creators, average monsters,#other bots, etc).#If deprived of this, some may#become easily agitated#and restless.#Others may be unphased.#Depends on the model.##4.#If a bot acts out of line or#malfunctions, they are to be#shut down. Typically, a hard#reset will do the trick.#Termination is a last resort.#If a shutdown isn't possible,#they can be coaxed back to#their normal state.##5.#Absolutely NO bots are allowed#outside the Steamworks at#this time. Until King#ASGORE is ready to begin mass#production, this project is#classified.##6.Most of all, have fun :)####
-#Howdy, Clover!#It's yer favorite sheriff,#North Star, with an#important update!##I did some soul searchin'#while staring directly at#the shiny stone on top#of the Mines.##After recovering from temporary#blindness, I shamefully#approached my posse.##Well, I spare ya the#gruesome details (me cryin')#but in the end, they#forgave me.##So the Feisty Five are#back! Now twice as sensitive#to everyone’s feelin's!##When we returned to town,#Ceroba and Dina had set#up a party in the Saloon#- which was great##I really wish you were#still here, but I SUPPOSE#you deserve yer freedom ;)##Anyway, it’s all good,#so don't mosey 'round#worryin' 'bout me or#nothin'.##I do have the tendency#to occupy around 60% of#someone's brain after they#meet me...#But I reckon it's time#to let go.####Happy trails!#- North "Starlo" Star##
-#Hey, Clover. Something's up.##I made up with the posse#as planned. All was going#well, but then I began#worrying about you and#Ceroba. That's when I got#the idea to break into#Ceroba's old house and spruce#it up to celebrate her#and Kanako's eventual return.#Well, when Ed was sweeping#around, he found some kinda#secret room. Seems like it#belonged to Chujin. We didn't#have time to dig into#its content but all I#know is it worried us both.##You may be in danger.##Then again, maybe not.#Just... come back to#the Wild East for now.#I can only hope this#letter reaches you in time.####- Starlo
-#Hello again, dear comrade!#I hope this letter finds#you in the very picture#of health.##I heard word that you#were venturing near the#vicinity of Hotland.##Being that the resting#temperature in that region#is so high, I have#included one premium#Snowdin snow sphere.##I hope it keeps you#at an ideal temperature#throughout your journey.##Next time you are in#Snowdin, feel free to#drop in.##Mother will surely prepare#you a palatable meal.###Sincerely yours,#-Slurpy###(The letter and envelope#are very wet.)#
-#Oye.##We don't know each other#very well but ever since#you left the Wild East,#I've been pacing around in#my head about your journey#and everything surrounding it.##Wherever you are, I fear#your situation will grow#dangerous. Far more than#it already has.##By now, I assume you've#heard about the King. Well,#each fallen human who has#encountered him in the past#hasn't survived. As skilled#as you are, I don't#believe you would either.#I understand why you would#want to confront him#(believe me, I have my#reservations as well),#but perhaps it isn't the#wisest path forward?##I don't know what you#should do, nor am I#going to act like I#currently have any#influence over your#destination, but your#original plan - avenging the#humans, escaping the Underground,#whatever it may be...#It's impossible.##I'm sorry. A warning is#the best I can do.####- Ceroba
-#1001001 100000 1000100#1001111 100000 1001110#1001111 1010100 100000#1001011 1001110 1001111#1010111 100000 1001000#1001111 1010111 100000#1010100 1001111 100000#1010011 1000101 1001110#1000100 100000 1001100#1000101 1010100 1010100#1000101 1010010 1010011#101110 100000 1001000#1000101 1001100 1010000#100000 1001101 1000101#101110##- Axis
-#Hey, you! Are you wanting to#  help society? Don't know where#  to start? Well here's the: Top#  Ten Reasons to Join the Royal#  Guard!##10 - Awesome training courses!#9 - A shiny badge!#8 - Your own area to guard!#7 - A leather-bound protocol#guidebook!#6 - Free space! Insert your#own here!#5 - A weapon of your choice!#4 - Bragging rights!#3 - Free health insurance!#2 - Being more intimidating#than before!#1 - Your own battle-ready#uniform!!#So what are you waiting for?#Sign up today!####Disclaimer: The Royal Guard is a#serious job with life-threatening#possibilities. This list was#created for promotional purposes #only. The Royal Guard is not#liable for any promises#made in this list.# 
-#Have you ever found yourself#stranded in the desert, wishing#you had an air-conditioned room#to relax in? Well look no#further than Cafe Dune! The#most modern facility in the#Dunes! Try our premium lattes#or game it up in our#state-of-the-art arcade! It's#all right here at Cafe Dune!##Located in Oasis Valley - See#  you soon!
-#The ultimate question:What are#the ideal proportions for#lemonade? It is a mystery that#has boggled all manner of#monsters since Surface days of#yore. It has bested generations#of royal scientists and yet has#remained elusive... Until#now! Behold! The perfect#ratio!##22% water#22% sugar#41% lemon juice#?????????????##Want to find out that last#ingredient? Well why not#subscribe to It's A Lemon#Monthly! Have the perfect#lemonade recipe delivered to#your door: Every. Single.#Month. What are you waiting for?#Only 18,300g for a three year#subscription!##Order now, now,#  NOW!
-#hi..........##please visit blook acres#in waterfall, if you want.....##we have snails..... #they're neat........##......bye.
-#If you're a foxy monster#looking for love, look no#further than yours truly! I'm an#elite athlete with more G than#I know what to do with. My IQ is#so large, I could shatter the#barrier just by staring at#it. Regrets? My only regret in#life is that I don't own a#dumbbell heavier than 150kg.##I could go on for eons,#but enough about me.#Write your number here and send#this letter back if you want#your world changed!##__________
-#Hello.#This is the Royal Treasury#notifying you that you#definitely owe us 700G. Monsters#must pay taxes to King ASGORE#as of right now. I hear you#getting all flustered but I#assure you that I am correct.#Now, insert the G into the#envelope and return this letter#or......Or else you get a life#sentence without a trial. Yup.##  
-#The monster life can be#stressful, we all know that.#Wouldn’t you like to have a#taste of Surface life? Well#here in the Wild East, we#pride ourselves on being#the most authentic experience#you'll find in the Underground!##Located east of Oasis Valley#  - Stop on by, partner!#  
-#Hello Underground friend, and#thank you for taking the#time out of your busy schedule#to read this message.##We here at the Society for#Monster Health (SMH) are reaching#out for support in our noble#mission of putting an end to#unsolicited spam mail.##This unwanted clutter is an extra#stress and possible danger to#the mental state of monsters#everywhere, in addition to#putting needless physical strain#on our poor mail monsters.##Please join the fight against#this wasteful spam mail by#signing up for our petition#today!
-#Looking for a job?#Here at Mining Co. we#hire just about anyone#who applies!##Criminal past? Doesn't matter.#Criminal future? Doesn't matter!##We want everyone to feel#secure in our cave away#from home! So what are#you waiting for? Apply#today and help society!###(Disclaimer: Not liable for#any work-related accidents#that may or may not occur.)##  
+#¡Hola, apreciado huésped!##¡Disfrutamos mucho de su#compañía en el Resort Honeydew#(Sede Snowdin)!#¡Siempre podrá contar#con nosotros para un rato de#calidad en familia! Desde nuestras#relajantes aguas termales,#hasta música en vivo,#hay un poco de#todo para todos!##¡Deseamos volver a verle,#ciudadano anónimo del#Subsuelo!##-Familia Honeydew##
+MÉZCLALO - Por Dr. Rob##Entrar en el área de la#química puede ser complicado.#Quizás nunca fuiste al colegio.#Quizás te cueste entender#ecuaciones complicadas.#Quizás te echaron de la#clase de ciencias del instituto#por "elaborar veneno en#horario de clases."##Todos somos diferentes, pero#compartimos una similitud: magia.#Es fácil confiar en la magia en#el día a día, pero#¿alguna vez te has preguntado#cómo sería vivir... sin ella?##¿Qué haríamos si no pudiésemos#encender una fogata con el#chasquido de los dedos? ¿Crear#armas de la nada? ¿Usar alas#para elevarse por#encima de los árboles?#¿Dormir?##¡Ahí es cuando entra la ciencia!#La magia de la naturaleza.#Los elementos, o "compuestos"#constituyen la mayor parte#del Subsuelo tal y como lo#conocemos. Cuando combinas dos#o más componentes#puedes crear cosas increíbles##Por ejemplo, tomando un#compuesto de "Oxígeno" y#COLISIONARLOS con dos#componentes de "Hidrógeno",#obtienes "Óxido de Dihidrógeno",#también conocido como#"Agua" (nombre pegadizo, ¿verdad?)###Aquí, intenta esto:#Digamos que quieres derretir una#puerta de ALTA SEGURIDAD para#volverte rico... hipotéticamente.#La solucion que necesitas se#llama "Ácido Hidroclórico"#que contiene los dos#compuestos _____ y _____.#Rellena los espacios en blanco#para vaciar los bancos :)#######D- Desenfocado y apresurado.#¿Por qué escribiste un#problema de hoja de trabajo#de forma reflexiva?
+#############################################################D- Desenfocado y apresurado.#¿Por qué escribiste un#problema de hoja de trabajo#de forma reflexiva?
+Para: Clover#(que espero que esté vivo)##Ven a verme al tejado de#Apartamentos SS lo más pronto#que puedas.##Tengo algo en#mente.###- Martlet de la Guardia Real#(División Snowdin)#####
+Queridos ciudadanos del Subsuelo:#Hacemos un llamado para que#monstruos que hayan caído, sean#enviados a Hotland para una#importante investigación#científica.###Si quieres participar,#tus seres queridos serán#tratados con el máximo respeto,#monitorearemos profundamente su#condición, y se les notificará#periódicamente de su estado.###Esta es una oportunidad para#que la tragedia se vuelva esperanza.#Para que los monstruos por fin#puedan ver la superficie, gracias#a su valiente e invaluable#sacrificio.##Para su consideración,#Real División de Ciencias#####
+Directrices del Robot Ayudante:##1.#Todo robot manufacturado, debe#tener una función práctica#instalada. Un propósito de ser:#(Cocinar, Limpiar,#Agricultura, etc).##2.#Los Robots deben tener diferentes#niveles de emociones, para#integrarse mejor en la sociedad.#Codificar la personalidad de cada#una es recomendada.#Les hace más agradables#y más fácil para andar por ahí.##3.#Todos los robots deben tener#una fuerte conexión con cosas#vivas: (Sus creadores, monstruos#promedio, otros robots, etc).#Si se les priva de esto, algunos#pueden agitarse e inquietarse#con facilidad.#Otros a lo mejor no se alteran.#Depende del modelo.##4.#Si un robot actúa fuera de línea# o está defectuoso, debe de ser#apagado. Normalmente, un#reinicio lo resolvería.#La terminación es#el último recurso.#Si apagarlo no es posible,#se les puede convencer para que#vuelvan a su estado normal.##5.#NINGÚN Robot está autorizado#a salir de Steamworks en#estos momentos. Hasta que#el Rey ASGORE no esté#listo para dar comienzo#a la producción masiva,#este proyecto es clasificado.##6.Y por sobretodo, diviértanse :)####
+#¡Buenas, Clover!#¡Es tu sheriff favorito,#North Star, con una#importante actualización!##Hice un examen de conciencia#mientras miraba directamente#a la piedra brillante que#había en lo alto de las Minas.##Después de recuperarme de la#ceguera temporal, Me acerqué#vergonzosamente a mi pandilla.##Bueno, te ahorraré los#espantosos detalles (lloré)#pero al final, me#perdonaron.##¡Así que los Feisty Five#están devuelta! ¡Ahora el doble#de sensibles que antes!##Cuando volvimos a la ciudad,#Ceroba y Dina organizaron una#fiesta en la Taberna#- estuvo bien.##Desearía que todavía#estés aquí, pero SUPONGO que#mereces tu libertad ;)##Como sea, está todo bien,#así que no andes por ahí#preocupándote por mi ni#nada por el estilo.##Tengo la tendencia de ocupar#el 60% del cerebro de alguien#después de que me#conoce...#Pero supongo que esta vez#hay que dejar ir.####¡Feliz viaje!#- North "Starlo" Star##
+#Oye, Clover. Algo ocurrió.##Me reconcilié con la pandilla#como estaba previsto. Todo iba#bien, pero de repente me#preocupé por ti y#Ceroba. Ahí es cuando tuve la#idea de entrar a la antigua#casa de Ceroba y arreglarla#para celebrar el eventual regreso#de ella y Kanako.#Bueno, cuando Ed estaba limpiando,#encontró algo que parecía una#sala secreta. Parece que#pertenecía a Chujin. No teníamos#tiempo para profundizar más#sobre el contenido pero lo#que si sé es que nos preocupamos.##Quizás estés en peligro.##De nuevo, solo quizás.#Sólo... vuelve al#Salvaje Este por ahora.#Solo puedo rezar que esta#carta te llegue a tiempo.####- Starlo
+#¡Hola de nuevo, querido camarada!#Espero que esta carta te#encuentre en perfecto#estado de salud.##He escuchado que te estás#aventurando cerca de la#vecindad de Hotland.##Dado que la temperatura#en esa región es#tan alta, he incluido#una esfera de nieve PREMIUM#de Snowdin.##Espero que te mantenga#en una temperatura ideal#durante tu aventura.##La próxima vez que estés#por Snowdin, pásate por#aquí.##Mi Madre seguro que te#prepara un plato rico.###Atentamente,#-Slurpy##(La carta y el sobre#están muy mojados.)####
+#Oye.##Sé que no nos conocemos#muy bien pero desde que#dejaste el Salvaje Este,#he estado dándole vueltas#a tu aventura en mi cabeza y#todo alrededor de ella.##Donde sea que estés, me#temo que tu situación será#más peligrosa. Mucho más#de lo que ya es.##Por ahora, asumo que ya has#escuchado acerca del Rey. Bueno,#todos los humanos que se#han encontrado con él en el# pasado, no sobrevivieron. Por#más habilidoso que seas, no#creo que tú tampoco lo hagas.#Entiendo porque quieres#enfrentarle (créeme,# yo también tengo#mis reservaciones),#pero, ¿quizás no sea el#camino más sabio?##No sé que es lo que#deberías hacer, tampoco#voy a hacer como si tuviera#alguna infuencia sobre tu#destino, pero tu plan original de#vengar a los humanos, escapando#del Subsuelo, como sea...#Es imposible.##Lo siento. Una advertencia#es lo mejor que puedo dar.####- Ceroba
+#001001110 01001111 00100000#01010011 01000101 00100000#01000011 01001111 01001101#01001111 00100000 01000101#01001110 01010110 01001001#01000001 01010010 00100000#01000101 01001110 01010110#01001001 01000001 01010010#00100000 01000011 01000001#01010010 01010100 01000001#01010011 00101100 00100000#01000001 01011001 01010101#01000100 01000101 01001110#01001101 01000101 00101110##- Axis
+#¡Oye, tú! ¿Quieres ayudar a#  la sociedad? ¿No sabes donde#  empezar? Bueno, aquí están:#  Diez Razones Para Unirte#  A La Guardia Real!##10 - ¡Impresionantes cursos# de entrenamiento!#9 - ¡Un parche brillante!#8 - ¡Tu propia área para vigilar!#7 - ¡Un libro de guía hecho#de cuero!#6 - ¡Espacio libre! ¡Inserta tu#razón aquí!#5 - ¡Una arma propia a elegir!#4 - ¡Derecho a presumir!#3 - ¡Seguro de vida gratuito!#2 - ¡Ser más intimidante que#antes!#1 - ¡Tu propio uniforme de#combate!#¿Que estás esperando?#¡Regístrate hoy!####Importante: La Guardia Real es#un trabajo serio con#posibilidades de arriesgar tu vida.#Esta lista fue creada únicamente#por motivos promocionales.#La Guardia Real no se#hace responsable de ninguna de#las promesas de esta lista.# 
+#¿Alguna vez te has visto#vagado en el desierto,#deseando tener una habitación#bien acondicionada para relajarte?#¡Bueno vente a Cafe Dune!#La instalación más moderna#de las Dunas! ¡Pruebe nuestros#cafés con leche de primera calidad,#o juegue en nuestro#moderno salón recreativo!#¡Se está muy bien en Cafe Dune!##¡Localizado en Valle Oasis##¡Te#veremos#pronto!##
+#La última pregunta: ¿Cuáles#son las proporciones ideales#para la limonada? Es un misterio#que ha desconcertado a todo#tipo de monstruos desde los#tiempos de la Superficie.#Ha pasado por generaciones de#científicos reales y, sin embargo,#sigue siendo difícil de alcanzar... #¡Hasta ahora! ¡Contemplen!#¡La proporción perfecta!##22% agua#22% azúcar#41% jugo de limón#?????????????##¿Quieres saber cual es el#último ingrediente? Bueno,#¡subscríbete a Un Limón#Mensual! Obtiene la receta#perfecta de la limonada a#tu puerta: Todos. Los.#Meses. ¿Qué estás esperando?#Solo 18.300 Oro por una#suscripción de TRES AÑOS!##¡Ordena ya, ya,#  YA!
+#holi..........##porfavor visite blook acres#en waterfall, si quiere.....##tenemos caracoles..... #están geniales........##......chao.
+#Si eres un monstruo zorrito#en búsqueda del amor, ¡no#busques más! Soy un atleta#de elite con más Oro que#cualquier otro. Mi CI es#tan grande, que podría romper#la barrera tan solo con mirarla#¿Arrepentimientos? De lo#único que me arrepiento en la#vida es de no tener una mancuerna#de más de 150 kilogramos.##Podría seguir durante eones,#pero ya basta de hablar de mi.#¡Escribe tu nombre en la#parte de abajo de esta carta#si quieres cambiar tu vida!##__________##
+#Hola.#Esta es la Tesorería Real#notificándole que, definitivamente,#usted nos debe 700 de Oro.#Los monstruos deben pagar impuestos#al Rey ASGORE desde ahora. Le#oigo ponerse nervioso, pero#le aseguro que estoy en lo cierto.#Ahora, inserte el Oro en el#sobre y devuelva esta carta#o......o sino, se le dará la#pena de muerte sin juicio. Yep.##  
+#La vida del monstruo puede#ser estresante, todos lo sabemos.#¿No le gustaría tener el sabor#de la vida en la Superficie? #Bueno, aquí en el Salvaje Este, nos#enorgullece tener la experiencia#más auténtica que encontrará en#el Subsuelo!##Localizado al Este de Valle Oasis#  - ¡Pásate, compañero!#  
+#Hola amigo del Subsuelo, y#gracias por hacernos un espacio#en tu ocupada agenda para#leer nuestro mensaje.##Somos la Sociedad para la#Salud de los Monstruos (SSM) y#estamos buscando cooperación para#nuestra noble misión de terminar#con los correos de spam molestos.##Este desorden no deseado es un#estrés adicional y un posible#peligro para el estado mental de#los monstruos en todas partes,#además de someter a nuestros#pobres monstruos a un esfuerzo#físico innecesario.##¡Por favor, entre en la lucha por#detener los correos inútiles de#spam registrándose en nuestra#petición hoy mismo!###
+#¿Buscas trabajo?#¡Aquí en Mining Co. estamos#contratando prácticamente a#cualquiera que postule!##¿Cargos criminales? No importa.#¿Futuro delincuente? ¡Da igual!##¡Queremos que todo el mundo se#sienta seguro en nuestra cueva#lejos de casa! Entonces, ¿qué#estás esperando? ¡Postula#hoy y ayuda a la sociedad!###(Importante: No nos hacemos#responsables de ningún accidente#que pueda o no pueda ocurrir.)##  
 mail_text
 mail_text_colored
 mail_stamp
@@ -4000,7 +4000,7 @@ goosic b
 * Partir
 * Hervir
 * Refrigerar
-* Brace
+* Asegurar
 * Plan B
 * Frog
 * Recolectar
@@ -5082,7 +5082,7 @@ Pancake
 * F Slider
 * Pear
 * G. Coffee
-* Pistola de juguete
+* Toy Gun
 * W. Revolver
 * Worn Hat
 * Rubber
@@ -5956,9 +5956,9 @@ execute_sp
 execute_rp
 nonconsumable
 item_category
-* (Its accuracy seems#  compromised.)
-* (You aren't sure how to start a#  fire with these safely.)
-* (Better not drink it.)
+* (Su precisión parece#  comprometida.)
+* (No estás seguro de cómo#  encender un fuego con#  ellos de forma segura.)
+* (Mejor no beberlo.)
 * (Tomas la 
 consumable
 healing
@@ -5966,24 +5966,24 @@ item_number
 item_sound
 con_keep_previous
 con_message_number
-* (You eat the 
-* (You scarf down the 
-* (You drink the Latte...)
-* (...HP fully restored.)
-* (Overall... Not bad.)
+* (Comes el 
+* (Te zampas el 
+* (Bebes el Latte...)
+* (...HP recuperados totalmente.)
+* (En general... nada mal.)
 protection
 restore
-* (You scarf down the 'dog.)#  (Mmm, hits the spot!)
+* (Te sampas el perro caliente.)#  (Mmm, ¡el punto justo!)
 equip
 weapon
 armor
 ammo
-* (Your gun now smells#  delightful.)
-* (You stick the 
- into#  your hat.)
+* (Tu arma ahora huele#  delicioso.)
+* (Pegas el 
+ en#  tu sombrero.)
 accessory
-* (You pin the 
-#  to your hat.)
+* (Fijas el 
+#  a tu sombrero.)
 heart_battle_fighting_x
 heart_battle_fighting_y
 You equip the 
@@ -5991,67 +5991,67 @@ message_add
 cmsgn
 * (¡Recuperaste 
  PV!)
-* (Your HP was maxed out.)
-* (You gained 
+* (Tus PV se llenaron.)
+* (¡Recuperaste 
  PP!)
-* (Your PP was maxed out.)
+* (Tus PP se llenaron.)
  SP!)
-* (Your SP was maxed out.)
+* (Tu SP se llenó.)
  turns!
-* (Your RP was maxed out.)
+* (Tu RP fue maximizado.)
 gml_Script_scr_item_use_text_yellow
 scr_item_use_text_yellow
 item_info_hold
-* (The grim reminder of your#  mission. Justice is needed.)
+* (El sombrío recordatorio de#  tu misión. La justicia#  es necesaria.)
 item_info_message
 story_item
-* (Some of them are wet.)
-* (It was probably left sitting in#  the snow a while.)
-* (A belt buckle made of steel.)
+* (Algunos estan húmedos.)
+* (Probablemente fue abandonado#  en la nieve por un tiempo.)
+* (Una hebilla de cinturón#  hecha de acero.)
 item_value
 Cura 
- HP#* (Doesn't smell too appetizing.)
- HP#* (Your teeth hurt just looking#  at it.)
- HP#* * (A genuine Corn Dog with#  soft, fluffy ears.)
- HP#* (A delicious sponge that doesn't#  scratch.)
-* (Has 2x the absorption!)
- HP#* (A little burnt on one side, but#  looks yummy anyway.)
- HP#* (Piping hot chocolate, frozen,#  then reheated.)
- HP#* (Piping hot chocolate cooled to#  lukewarm status.)
- HP#* (Piping hot chocolate, cooled#  cold.)
- HP#* (¡Se necesita verdadera valentia para#  tomar algo así de caliente!)
- HP#* (An off-the-griddle pancake with#  honey-syrup.)
- HP#* (A cookie made to look like#  someone's face.)
+ HP#* (No huele muy apetitoso.)
+ HP#* (Te duelen los dientes de solo#  mirarlo.)
+ HP#* * (Un genuino Perro de Maíz#  con suaves y peludas#  orejas.)
+ HP#* (Una esponja deliciosa que no#  raspa.)
+* (¡Tiene el doble de absorción!)
+ HP#* (Un poco quemado de un lado,#  pero se ve rico de#  todas formas.)
+ HP#* (Chocolate bien caliente,#  conegaldo y luego#  recalentado.)
+ HP#* (Chocolate bien caliente#  enfriado hasta estar#  tibio.)
+ HP#* (Chocolate bien caliente,#  enfriado en frío.)
+ HP#* (¡Se necesita verdadera valentía para#  tomar algo así de caliente!)
+ HP#* (Un panqueque recién hecho con#  almíbar de miel.)
+ HP#* (Una galleta hecha para#  parecer la cara de#  alguien.)
  HP
-* (Everything but the raisins#  has been picked out. Cura 13#  HP.)
- "Sea Tea" - Cura 10 HP"#* (Glowing tea that'll jolt your system.)
- "Floral Cupcake" - Cura ?? HP
- "Root Beer" - Cura 25 HP"#* (It's family friendly!)
+* (Todo menos las pasas ha#  sido tomado ya. Cura 13#  PV.)
+ "Té de Mar" - Cura 10 PV"#* (Té resplandeciente que sacudirá#  tu sistema.)
+ "Magdalena Floral" - Cura ?? PV
+ "Cerveza de Raíz" - Cura 25 PV"#* (¡Para toda la familia!)
 Grants 
- PP#* (Makes you invulnerable#  for a pear of hits.)
+ PP#* (Te hace invulnerable por#  un par de golpes.)
  SP
-* (Halves the weight of your soul, giving you a speed boost for three enemy attacks.)
-Cura 15 HP por 3 turnos
-The first bite hurts for 5 HP.
+* (Recorta el peso de tu alma,#  aumentando tu velocidad por#  tres turnos del rival.)
+Cura 15 PV por 3 turnos.
+El primer bocado quita 5 PV.
 Weapon AT 
-#* (No descripción.)
+#* (Sin descripción.)
 Armor DF 
 Ammo AT 
-#* (Small, safe, non-toxic#  rubber pellets.)
-#* (Like rocks, but smaller.#* Good makeshift ammo.)
-#* (Very conveniently shaped ice#  cubes.)
-#* (Literal shards of glass.#  Yep.)
-#* (A dusty, black rock.#  Might be useful for combat.)
-#* (A pack of reflective pellets.)
-* (A perfect shot deals#  triple the damage.)
+#* (Pequeñas, seguras y no# tóxicas bolitas de goma.)
+#* (Como rocas, pero pequeñas.#  Buena munición improvisada.)
+#* (Cubos de hielo con una forma#  realmente conveniente.)
+#* (Literalmente fragmentos de#  vidrio. Sep.)
+#* (Una roca polvorienta y#  negra. Puede ser útil para#  el combate.)
+#* (Un paquete de bolitas#  reflectantes.)
+* (Un disparo perfecto hará daño#  triplicado.)
 Accessory DF 
-#* (A loosely sewn on patch.)
-* (It's not strong but it's trustworthy.)
-#* (An old, forgotten feather.)
-* (It needs a good preening.)
-#* (A pin advertising the Honeydew#  Resort in Snowdin.)
-#* (A pin commemorating a concert#  you didn't go to.)
-#* (A leather weapon-holder,#  perfect for duels at noon.)
+#* (Un parche flojamente#  cosido.)
+* (No es muy fuerte pero es#  confiable.)
+#* (Una vieja y olvidada pluma.)
+* (Necesita un buen#  acicalamiento.)
+#* (Un pin promocional del Resort#  Honeydew de Snowdin.)
+#* (Un pin conmemorativo de un#  concierto al que no#  fuiste.)
+#* (Una funda de arma de cuero,#  perfecta para duelos al#  mediodía.)
 gml_Script_scr_item_info_text_yellow
 scr_item_info_text_yellow
 gml_Script_scr_determine_item_droppable_yellow
@@ -9434,7 +9434,7 @@ ast_shortcut
 * (¡Siempre lávate las manos#  antes de manipular sustancias#  químicas mortales!)
 * (Un fregadero seco.)
 * (Dos tubos relajándose.)
-Steamw. - C. Station
+Steamw. - C. Estación
 target_flag
 * (Necesito encontrar una#  salida.)
 * (A través de esas puertas.)
@@ -9662,7 +9662,7 @@ pedestal_is_active
 twitchy
 text_effect
 attack
-Todo por la oportunidad#de hacer una#diferencia.
+Todo por la#oportunidad de#hacer una#diferencia.
 Una oportunidad.
 ¿PoR CU4NTO TIEMP0#VAMoS A HACER#ESTO?
 NO PENS3 qUE LoS#ROBOTS PODR1AN#CAN5aRsE.
@@ -9706,65 +9706,65 @@ static_flicker
     Buenos días, al habla Chujin.
    No tengo mucho tiempo estos#   días para hacer un diario, asi#   que opté por grabar un video.
     No tengo idea de quién verá#    esto, pero lo veo mejor para#    documentar mi trabajo.
- Eso es todo por ahora.#    Me despido.
+       Eso es todo por ahora.#            Me despido.
          Al habla Chujin...
-  Hoy viajé a Snowdin con#  mi hija por negocio ocasional.
-  Mientras estaba ocupado, Kanako#  fue a jugar con un residente.
-     Ahí es cuando ocurrió...
-Unos cuantos ciudadanos corrieron#hacia mi diciendo que un humano#había entrado en el área.
-  Este humano... atacó al monstruo#  con el que estaba Kanako.
-  Ella estaba tan cerca... pudo#  ser la siguiente...
-  Nadie estuvo ahí para protegerla...#  Ni siquiera yo...
+      Hoy viajé a Snowdin con#    mi hija por negocio ocasional.
+  Mientras estaba ocupado, Kanako#   fue a jugar con un residente.
+      Ahí es cuando ocurrió...
+  Unos cuantos ciudadanos corrieron#   hacia mi diciendo que un humano#     había entrado en el área.
+  Este humano... atacó al monstruo#      con el que estaba Kanako.
+  Ella estaba tan cerca... pudo#        ser la siguiente...
+Nadie estuvo ahí para protegerla...#          Ni siquiera yo...
                 ...
-  No lo entiendo... ¡es que no#  lo entiendo!
- ¡La raza humana ya ganó atrapándonos# aquí abajo y ellos siguen# retorciendo el cuchillo!
+          No lo entiendo...#      ¡es que no lo entiendo!
+¡La raza humana ya ganó atrapándonos#    aquí abajo y ellos siguen#     retorciendo el cuchillo!
     ¡Esto no puede seguir así!
-   A partir de hoy, estaré buscando#   una manera de parar esta#   injusticia de una vez por todas.
-  Al habla Chujin con noticias#  desafortunadas...
- Fui... despedido de mi posición# como ingeniero.
-   ¡He puesto todo de mi en el#   proyecto pero no fue#   suficiente!
-  ¡La programación estaba rota pero#  sé que podría haberla arreglado#  con unas iteraciones más!
-   ¡¿Por qué soy castigado por#   intentar tomarme nuestros#   problemas en serio?! 
-  ...Me siento como si yo fuera el#  único que no ha olvidado o que no  #  vive en la ignorancia...
-   Le he dicho a Ceroba que me#   retiré. No puedo dejar que#   ella piense menos de mí.
-  Pero basta de eso... ya está#  en el pasado. 
-    Debo vivir en el presente#    y planificar el futuro.
-   Probar de que puedo salvar a#   los monstruos... de otra#   manera.
+   A partir de hoy, estaré buscando#      una manera de parar esta#   injusticia de una vez por todas.
+     Al habla Chujin con noticias#          desafortunadas...
+   Fui... despedido de mi posición#          como ingeniero.
+    ¡He puesto todo de mi en el#       proyecto pero no fue#            suficiente!
+  ¡La programación estaba rota pero#  sé que podría haberla arreglado#     con unas iteraciones más!
+    ¡¿Por qué soy castigado por#      intentar tomarme nuestros#        problemas en serio?! 
+  ...Me siento como si yo fuera el#  único que no ha olvidado o que no#      vive en la ignorancia...
+     Le he dicho a Ceroba que me#    retiré. No puedo dejar que#      ella piense menos de mí.
+         Pero basta de eso...#        ya está en el pasado. 
+     Debo vivir en el presente#       y planificar el futuro.
+   Probar de que puedo salvar a#          los monstruos...#          de otra manera.
           Al habla Chujin.
- Tras años de búsqueda, ¡he hecho# un avance!
-  Monstruos Jefes... ellos podrían#  ser la clave para la supervivencia#  de los monstruos.
- He sido capaz de llegar a esta# conclusión porque yo... 
-   ...llevo dentro el gen del#   Monstruo Jefe.
-Esto significa que mi ALMA es mucho#más fuerte que las de los otros#monstruos.
-  Mucho más importante, los#  Monstruos Jefe son inmortales#  hasta que tienen descendencia.
- Ahora mismo, los monstruos son# pocos en números comparados# a los humanos pero...
-  ...¿Qué tal si cualquiera pudiera#  convertirse en un Monstruo Jefe#  como yo? ¿Como... Kanako?
- Como nación y ejército, ¡podríamos# poseer suficiente poder para# tomar la Superficie de vuelta!
-  Mi teoría para esto involucra la#  fusión de un ALMA humana y un ALMA#  de Monstruo Jefe.
-   De eso, se puede extraer suero,#   el cual podría transformar#   cualquier monstruo promedio.
- ...Desafortunadamente, no tengo la# suficiente evidencia para demostrar# que el suero es posible.
+       Tras años de búsqueda,#       ¡he hecho un avance!
+  Monstruos Jefes... ellos podrían# ser la clave para la supervivencia#          de los monstruos.
+  He sido capaz de llegar a esta#      conclusión porque yo... 
+    ...llevo dentro el gen del#           Monstruo Jefe.
+Esto significa que mi ALMA es mucho#  más fuerte que las de los otros#            monstruos.
+     Mucho más importante, los#   Monstruos Jefe son inmortales#   hasta que tienen descendencia.
+  Ahora mismo, los monstruos son#    pocos en números comparados#       a los humanos pero...
+  ...¿Qué tal si cualquiera pudiera#  convertirse en un Monstruo Jefe#     como yo? ¿Como... Kanako?
+ Como nación y ejército, ¡podríamos#    poseer suficiente poder para#   tomar la Superficie de vuelta!
+  Mi teoría para esto involucra la# fusión de un ALMA humana y un ALMA#          de Monstruo Jefe.
+   De eso, se puede extraer suero,#     el cual podría transformar#    cualquier monstruo promedio.
+ ...Desafortunadamente, no tengo la# suficiente evidencia para demostrar#      que el suero es posible.
       Debo hacer más pruebas.
 chujin_tapes_effects
        Al... Al habla Chujin.
-   Temía que esto podría pasar.#   La ciencia es un juego#   peligroso.
-  Tontamente, he experimentado#  conmigo mismo... varias veces.
-Una y otra vez, el sujeto rechazaba#la fusión, y creo saber por qué.
+    Temía que esto podría pasar.#       La ciencia es un juego#            peligroso.
+    Tontamente, he experimentado#   conmigo mismo... varias veces.
+Una y otra vez, el sujeto rechazaba#  la fusión, y creo saber por qué.
                 ...
           Seré directo.... 
-  Mi ALMA se ha deteriorado y no#  sé cuanto tiempo me queda.
-   Sin embargo... creo que mi#   teoría es más fuerte que nunca.
-   Este es un mensaje para mi#   querida Ceroba:
-   Esta búsqueda está en tus manos.#   Nadie más debe escuchar esto.
-  Después de que me vaya... busca al#  siguiente humano que caiga aquí.
-      Alguien de corazón puro#      - no corrompido.
+  Mi ALMA se ha deteriorado y no#     sé cuanto tiempo me queda.
+     Sin embargo... creo que mi#   teoría es más fuerte que nunca.
+   Este es un mensaje para mi#         querida Ceroba:
+  Esta búsqueda está en tus manos.#    Nadie más debe escuchar esto.
+Después de que me vaya... busca al#  siguiente humano que caiga aquí.
+      Alguien de corazón puro#          no corrompido.
    Necesito que obtengas su ALMA#   pero no en cualquier parte...
-  Debes tener un ALMA de Monstruo#  Jefe cerca para fusionarla.
+  Debes tener un ALMA de Monstruo#    Jefe cerca para fusionarla.
           Necesitarás a...
            ...Demonios.
- Busca a otro Monstruo Jefe en el# Subsuelo. Cualquier otro...# por favor.
-Nuestra pequeña niña... Kanako. Ella#necesita vivir una vida feliz, sin#verse afectada por mis esfuerzos.
+ Busca a otro Monstruo Jefe en el#    Subsuelo. Cualquier otro...#            por favor.
+Nuestra pequeña niña... Kanako. Ella#necesita vivir una vida feliz, sin#  verse afectada por mis esfuerzos.
       Ese es mi último deseo.
-HOW?
+¿CÓMO?
 overlay_alpha_default
 sequence_layer
 idle_seq
@@ -9973,7 +9973,7 @@ pellet_multiplier
 * ¿Acaso registró a todos#  los que fueron amigos#  de él?
 * Sandra, Luis, Dr. Fish,#  Rosa, Martlet...
 * Espera, ¿¿¿Martlet???
-* ¿¿Encontró a otro#  monstruo con mi nombre??
+* ¿¿Encontró a otro#  monstruo con#  mi nombre??
 * ¡No puede ser que nadie#  haya hablado de eso!#
 hit_flash
 hp_self
@@ -10083,13 +10083,13 @@ correct_item
 * Es una larga historia...#  Ella cayó enferma#  tiempo atrás.
 * Ceroba la mandó al Lab#  esperando poder remediar#  la situación.
 * No tenía idea...
-* Okei. ¿Dónde fue el#  último lugar que viste#  a Ceroba ir, Ed?
+* Okey. ¿Dónde fue el#  último lugar que viste#  a Ceroba ir, Ed?
 * No vas a llevar a#  Clover directo a ella,#  ¿verdad?
 * Eso es exactamente lo#  que ella quiere, ¿no?
 * ¡Sí, Clover necesita#  estar seguro con#  nosotros! 
 * ¡No puede cumplir su#  objetivo si Clover está#  oculto!
 * No vamos a dejar que#  cumpla su objetivo.#  Y de todas formas...
-* Wild East es un#  destino turístico-#  un lugar público.
+* Salvaje Este es un#  destino turístico-#  un lugar público.
 * Mis colegas ya han de#  saber que un humano está#  en el Subuelo.
 * ¡Si Clover se queda#  aquí, eventualmente#  desmantelarían el pueblo!
 * Es mejor ir avanzando,#  ¿sí?
@@ -10111,7 +10111,7 @@ correct_item
 * Pregunten si alguien vió#  a qué dirección fueron#  desde allá.
 * Espera, nosotros también#  tenemos que ir, ¿cierto?
 * ¡Necesitan toda la ayuda#  posible!
-* Aprecio la oferta pero#  no vengan. Esto puede ser#  peligroso.
+* Aprecio la oferta pero#  no vengan. Esto puede#  ser peligroso.
 * Quédense aquí y hagan#  feliz al pueblo como#  siempre lo han hecho.
 * ...Okei. ¡Pero por favor#  estén seguros!
 * Lo intentaré. Gracias#  por toda su ayuda.
@@ -10140,16 +10140,16 @@ correct_item
 * ¡Estoy siempre cubriendo#  tu espalda así que#  no te preocupes!
 * Nos libraremos de ella#  y continuaremos nuestro#  camino, ¿facilísimo no?
 * ¡Todo saldrá bien al#  final, amigo! 
-* (You open the storage cabinet#  and find some Dihydrogen#  Monoxide.)
-* (There's some water inside.)
+* (Abres el armario y#  encuentras Dihidrógeno#  Monóxido.)
+* (Hay un poco de#  agua dentro.)
 * (¿Tomar?)
 Sí
 No
-* (You got Dihydrogen Monoxide!)
-* (You got water.)
+* (¡Obtuviste Dihidrógeno#  Monóxido!)
+* (Obtuviste Agua.)
 * (No hay suficiente#  espacio de#  inventario.)
-* (Could be expired.)
-* (Nothing inside but#  oddly-shaped glass.)
+* (Podría estar caducado.)
+* (En el interior no hay nada#  más que cristales de#  formas extrañas.)
 x_target_original
 attack_state
 attack_number
@@ -10332,7 +10332,7 @@ Por qué...
 ¿¡Por qué!?
 ¡Si no lo#logro, se acabó!
 ¡¡Muere!!
-¡¡¡Sólo muere!!!
+¡¡¡Solo muere!!!
 ¡¡¡¡¡MUERE!!!!!
 letter_array
 letter_current
@@ -10471,17 +10471,17 @@ river_ambience
 * He estado pensando#  en ese día.
 * Un montón.
 * El tiempo es algo,#  gracioso, ¿Sabes?
-* Supongo que en el#  panorama de mi vida, fuiste#  sólo un parpadeo.
+* Supongo que en el#  panorama de mi vida,#  fuiste sólo un parpadeo.
 * Pero a menudo, esos#  "parpadeos" son los que#  más impacto causan.
 * El Rey me ofreció una#  promoción.
-* Un puesto en Nuevo#  Hogar.
-* Pero luego de experimentar#  lo peor que el trabajo#  tiene que ofrecer...
+* Un puesto en Nuevo#  Hogar. Pero...
+* Luego de experimentar#  lo peor que el trabajo#  tiene que ofrecer...
 * Lo rechacé.
 * No sólo eso, tomé#  mis dos semanas, je.
 * Allí... allí sentí#  que hay mejores causas#  en las que puedo entrar.
 * De todas formas...
 * Perdón por ponerte#  en otro de mis botes#  otra vez.
-* Podrá no ser la despedida#  más apropiada luego#  del útimo viaje...
+* Podrá no ser la#  despedida más apropiada#  luego del útimo viaje...
 * Pero es el mejor tributo#  que se me ocurrió.
 actor_starlo
 actor_ceroba
@@ -10511,7 +10511,7 @@ actor_ceroba
 . ¿A dónde iba con esto?
 * Clover te ayudó a salir#  de tu situación.
 * Sí.
-* En definitiva, Clover fue#  muy amable conmigo.
+* En definitiva, Clover#  fue  muy amable conmigo.
 * Tiene sentido.
 * Es un placer conocoerte,#  Dalv.
 * Gracias por venir.
@@ -10793,9 +10793,9 @@ direction_current
 direction_inc
 bullet_count
 arc_radius
-Hydrogen [H]
+Hidrógeno [H]
 compound_id
-* The lightest and most#  prevalent element in the#  universe.
+* El elemento más#  ligero y prevalente del#  universo.
 shaky_text
 * Estoy hambriento.
 * ¡Hora de engullir algunas rocas!
@@ -11206,7 +11206,7 @@ pp_original
 attack_noloop
 heal_amount
 * Ganaste
-HP!
+PV!
 * ¿¡Qué estás haciendo!?
 * ¡Sé que ellos empezaron la#  pelea pero no sabemos#  la situación!
 * ¿Qué pasa si fue un#  error en su#  programación?
@@ -11223,7 +11223,7 @@ HP!
 * No sabemos que otros#  tipos de robots hay#  por ahí.
 * Lo iremos viendo con#  el tiempo, estoy segura.
 * Sólo... no hagas#  nada estúpido.
-* Te aferras a tus esperanzas...#* ¡Defensa temporalmente aumentada!
+* Te aferras a tus esperanzas...#* ¡Defensa temporalmente#  aumentada!
 * No te echas atrás...#* ¡Recuperas
 * Piensas en los que más amas..#* ¡Velocidad temporalmente#  aumentada!
 arrive
@@ -11321,8 +11321,8 @@ part_dist
 pt_Lava_Particles
 pe_Lava_Particles
 part_emitter_stream
-* (Take the Friendliness#  Pellets?)
-* (You got the Friendliness#  Pellets!)
+* (¿Tomar las Bolitas#  Amistosas?)
+* (¡Obtuviste Bolitas#  Amistosas!)
 default_generation_speed
 generation_speed
 preset_positions
@@ -11334,7 +11334,7 @@ spawn_point_y
 * (Una tenue cara está#  impregnada a la pantalla#  de la máquina...)
 * (...observando el gran abismo#  de rocas y hierro.)
 * (Observas un poco de Granolas#  Gravedad dentro de la#  máquina.)
-* (Some food lies within the#  robotic husk.)
+* (Algo de comida yace dentro#  de la cáscara robótica.)
 * (¡Obtuviste Granolas Gravedad!)
 frog_jump
 grav
@@ -11378,14 +11378,14 @@ hint_draw
 hint_alpha
 bbox_overlay_alpha
 block
-* What do we have here...
-* Really? ANOTHER locked#  door?
-* How many unique doors#  are installed in this#  place?
-* Hablar about#  inconsistent!
-* Well, I don't see a#  slot for your ID card...
-* There's plenty of#  science equipment lying#  around.
-* Maybe we can drill#  through with something? 
-* Start searching!
+* Qué tenemos aquí...
+* ¿En serio? ¿OTRA puerta#  bloqueada?
+* ¿Cuántas puertas únicas#  están instaladas en#  este lugar?
+* ¡Hablando de#  inconsistente!
+* Bueno, no veo una#  ranura para tu Tarjeta#  ID...
+* Hay gran cantidad de#  equipamiento científico#  tirado por ahí.
+* ¿Quizás podemos taladrarla#  con algo?
+* ¡Hora de buscar!
 mooch_fly_away
 mooch_fly_away_no_loop
 T3 Appear Mooch
@@ -11497,7 +11497,7 @@ ypos5
 * ¿Tercera cosa?
 * Oh, quieres decir
 * ¡Nuh-uh-uh! ¡Fuera de los#  límites!
-* Sólo podemos acoger insultos#  leves con violencia censurada# o dibujos animados.
+* Sólo podemos acoger insultos#  leves con violencia censurada#  o dibujos animados.
 * ¡TV-14 en el peor de#  los casos!
 * Sí, pero eso no va a detener#  a nadie, ¿verdad?
 * ¡Esperamos haberte#  entretenido, amiguito!
@@ -11505,7 +11505,7 @@ ypos5
 * ¡Es aún mejor cuando te#  sientas cerca de la pantalla#  con los ojos BIEN abiertos!
 * ¿Qué? ¡No! No hagas eso,#  niño. No la escuches.
 * ¡Sí! ¡Destruye tu vista!
-* ¡¡¡Tus lentillas deberían#  espesar!! ¡¡¡Con#  cada examen!!!
+* ¡¡¡Tus lentillas deberían#  espesar!!! ¡¡¡Con#  cada examen!!!
 * ¡No puedes decir este tipo#  de cosas a los niños!
 * (¡Cierra el pico, Vis!#  ¡Voy a poner un anuncio#  de optometrista!)
 * ¡¡¡Eso no lo hace#  mejor!!!
@@ -11580,27 +11580,27 @@ indicator_on
 flash_count
 variation
 BZstzZ;Z t_T#//98 .. -
-[CRITICAL MEMORY#ERROR]
-;TRAMPLED_#FLOWERS . . .
-I CANNOT RECALL/#WHAT HA-S#TRANSPIRED _
-IF_MY BOTANICAL#C0NDUCT WAS#/UNSATISFACTORY. . .
-NO.. . I WILL#N/NoT MAKE#EXCUSES_
-I_MUST DESERVE#THIS. .. .
-[SYSTEM FAILING.#SEEK REPAIRS#IMMEDIATELY]
-I SUP-POSE Y0U#F/EEL DIFF3RENTLY#BUT TO ME.. .
-THE GARDEN_#. .
-IT IS. ..#BEAUTIFUL.
+[ERROR CRÍTICO DE#MEMORIA]
+;FLORES_#PISOTEADAS . . .
+NO RECUERDO/#QUE H-HA#OCURRIDO _
+SI_MI CONDUCTA#BOTÁNICA FUE#/INSATISFACTORIA. . .
+NO.. . N-NO#P/PONDRÉ NINGUNA#EXCUSA
+SEGURO_ME MEREZCO#ESTO. .. .
+[SISTEMA FALLANDO.#BUSCAR REPARO#INMEDIATAMENTE]
+SUP-ONGO QUE TÚ#L/O VES DIFERENTE#PERO PARA MI.. .
+EL JARDÍN_#. .
+ES. ..#HERMOSO.
 * ¿sabes dónde fue guardener?
 * siento que nos llevamos muy#  bien.
 * pienso en llamarla para temas#  de trabajo - osea invitarla a#  una cita caliente.
-* sé que el amor robot está#  prohibido pero es lo hace#  diez veces más emocionante.
+* sé que el amor robot está#  prohibido pero eso lo hace#  diez veces más emocionante.
 * y de todos modos, no#  pueden batir al batido.
 * no mientras esté amarrado.
 * veo que llevas un arma#  tú mismo.
-* uno de seis tiros, ¿Cierto?,#  elegante, me gusta.
+* una de seis tiros, ¿cierto?,#  elegante, me gusta.
 * asegúrate de ser responsable#  con ella.
 * es "seguridad primero" en#  steamworks después#  de todo.
-* debo empezar a pensar en qué#  llevar en mi cita.
+* debo empezar a pensar qué#  llevar en mi cita.
 * antes vi a un tipo con un buen#  chaleco y un sombrero.
 * quizás podría pedirle un#  consejo.
 BzZT-Z// z. ._ .
@@ -11736,7 +11736,7 @@ shoot_noloop
 * ...No importa.
 * ...¿Estás bien?
 * ¿Yo? Estoy bien.
-* Yo... tenía algo que#  hacer en Oasis Valley.#  Me tengo que ir.
+* Yo... tenía algo que#  hacer en Valle del#  Oasis. Me tengo que ir.
 * Adiós, Clover.
 no_loop_badge
 * Eso fue extraño... pero#  no es tu problema. 
@@ -11806,7 +11806,7 @@ Steamworks Vendy Geno
 * Escaneando Cliente...
 point
 action
-* Steamworks Chemist present :]
+* Steamworks Químico presente :]
 * ¡!
 * ¡Intentando apagarse!
 Override
@@ -12005,8 +12005,8 @@ spawn_offset
 shake_count
 glitch
 heart_grabbed
-Titanium [Ti]
-* What all robots will be made#  out of when they overtake the#  world.
+Titanio [Ti]
+* De qué estarán hechos#  todos los robots cuando#  dominen el mundo.
 feather_radius
 feather_speed
 feather_alpha
@@ -12056,8 +12056,8 @@ ins_puzzle_
 instance_activate_layer
 draw_tilemap
 draw_text_transformed
-   INITIALIZING...
-MIX SUCCESSFUL
+   INICIALIZANDO...
+MEZCLA EXITOSA
 x_point
 y_point
 angle_pos
@@ -12496,7 +12496,7 @@ g_DistortAmount
 fx_set_parameter
 g_CellSize
 * Verás, te he estado#  observando durante#  un tiempo.
-* Dios, ¿Qué intento es este?#  Deben ser demasiados.
+* Dios, ¿qué intento es este?#  Debe ser de los#  cientos.
 * ¡Casi pierdo la cuenta!#  Jajaja...
 soundfont
 actor_toriel
@@ -12611,17 +12611,17 @@ Cuarto
 * Quería "encontrarte en el#  tejado" es lo que dijo#  exactamente.
 * Todo lo que pido es que por#  favor no hagan nada ilegal#  en las instalaciones.
 actor_axis
-* [MAIN POWER SOURCE NOT#  FOUND_]
-* [INITIATING EMERGENCY#  BACKUP POWER_]
+* [FUENTE DE ENERGÍA#  PRINCIPAL NO ENCONTRADA_]
+* [INICIANDO ENERGÍA#  DE RESPALDO_]
 * H-H-HUMA-NO.
-* Y-YOU HAVE ANGERED ME#  GREATLY.
-* I HAVE HAD IT WITH YOU#  DOING NOTHING AS I FAIL#  OVER AND OVER.
-* DO YOU KNOW HOW HARD IT#  WAS TO GET THE ACID OUT#  OF MY STEEL?
-* I HAD TO PUT MYSELF IN#  A WASHING MACHINE. IT#  WAS QUITE DIZZYING.
-* THOUGH I DO FEEL, AS#  THE KIDS SAY: "FRESH AS#  HELL."
-* ANYWAY.
-* IF YOU CANNOT TELL, I#  AM [ticked] OFF AND OUT#  OF NON-LETHAL OPTIONS.
-* THAT, AND THIS FURNACE#  HAS A NICE "TIME TO DIE"#  AESTHETIC TO IT.
+* M-ME HAS ENFADADO#  MUCHO.
+* YA TUVE SUFICIENTE DE#  TI NO HACIENDO NADA#  MIENTRAS YO FALLO Y FALLO.
+* ¿SABES LO DIFÍCIL QUE#  FUE SACAR EL ÁCIDO DE#  MI ACERO?
+* TUVE QUE PONERME EN UNA#  MÁQUINA LAVADORA. FUE UN#  POCO VERTIGINOSO.
+* AUNQUE ME SIENTO, COMO#  DICEN LOS NIÑOS: "FRESCO#  COMO EL INFIERNO".
+* COMO SEA.
+* POR SI NO LO NOTASTE#  ESTOY [ENOJADO] Y CORTO DE#  OPCIONES NO LETALES.
+* ESO, Y QUE ESTE HORNO#  TIENE UNA GRAN ESTÉTICA#  "HORA DE MORIR".
 * ASÍ QUE PREPÁRATE. VOY#  A ATACARTE.
 * QUÉ.
 * MI PROGRAMACIÓN ME#  IMPIDE ATACARTE.
@@ -12656,9 +12656,9 @@ actor_axis
 * Okey. AHORA NO INTENTARÉ#  DETENERTE LA PRÓXIMA#  VEZ QUE NOS VEAMOS.
 * QUE TENGAS UNA#  PLACENTERA AVENTURA,#  HUMANO.
 * OH, OTRA COSA.
-* LEAVE THE POWER ON WHEN#  YOU EXIT, WILL YOU?
-* I LIKE LIVING. 
-* THANKS.
+* DEJA LA ENERGÍA#  ENCENDIDA CUANDO#  SALGAS, ¿QUIERES?
+* ME GUSTA VIVIR. 
+* GRACIAS.
 * ¡ JE JE !
 * ¡ MUÉVELO SUAVE !
 * Gwah gwah goggle wibble woo~
@@ -12882,15 +12882,15 @@ destroy_noloop
 * No hay otro sitio al que#  ir que hacia arriba.
 draw_alpha_black
 draw_overlay_alpha
-Nuestra pequeña niña... Kanako...#  Ella necesita vivir una vida#  feliz, no afectada por mi trabajo.
+Nuestra pequeña niña... Kanako. Ella#necesita vivir una vida feliz, sin#verse afectada por mis esfuerzos.
      Ese es mi último deseo.
 * ¿¡Kanako!?
 * ¿¡Qué haces aquí abajo!?
-* ¿Es... Es verdad?
+* ¿Es... es verdad?
 * ¿Soy... diferente?
 * Kanako yo...
 * Papi dijo que habría#  vivido por mucho tiempo#  si yo no estuviera aquí.
-* Él todavia... estaría...
+* Él todavía... estaría...
 * ¡No, no!
 * ¡Tu padre te amaba!
 * Y no quería ponerte#  en ningún peligro.
@@ -12899,19 +12899,19 @@ Nuestra pequeña niña... Kanako...#  Ella necesita vivir una vida#  feliz, no a
 * Has estado intentando#  terminarlo, ¿cierto?
 * Con mis habilidades#  limitadas... sí.
 * Pero no te involucra.
-* He estado buscando formas#  de crear el suero sin#  un Monstruo Jefe.
+* He estado buscando#  formas de crear el suero#  sin un Monstruo Jefe.
 * Lo... resolveré.#  Tengo que hacerlo.
 * Encontré esto en la#  basura.
 * ¡! 
 * Lo resolviste.#  La semana pasada.
 * "Usando los restos del#  ex... extracto del#  ALMA humana...
   "Usando los restos del#  ex... extracto del#  ALMA humana...
-* Creo que he eliminado#  toda corrupción que#  tenía."
-  Creo que he eliminado#  toda corrupción que#  tenía."
-* ...Negando la necesidad#  de alguien puro de#  corazón. Sí.
+* Creo que he removido#  toda corrupción que#  tenía."
+  Creo que he removido#  toda corrupción que#  tenía."
+* ...Negando la necesidad#  de alguien puro#  de corazón. Sí.
 * ¡Así que lo hiciste!
-* El deseo de papi se haría#  realidad, ¿cierto?
-* ¡Lo haríamos sonreir!#  ¡Estaría orgulloso de#  nosotras! 
+* El deseo de papi se#  haría realidad,#  ¿cierto?
+* ¡Lo haríamos sonreir!#  ¡Estaría orgulloso#  de nosotras! 
 * Él no quería que tú#  fueras parte de esto.#  Y estoy de acuerdo.
 * ¡Déjame hacerlo!
 * Quiero hacer lo correcto.#  Ser útil por una vez.
@@ -12932,7 +12932,7 @@ Nuestra pequeña niña... Kanako...#  Ella necesita vivir una vida#  feliz, no a
 * Ok, espera aquí.
 * Tendrás que quedarte#  muy quieta para esto.
 * Cierra tus ojos y#  empezaré la#  extracción-fusión.
-* Puedes sentir un pinchazo#  o dos pero terminará#  antes de que lo notes.
+* Podrás sentir un#  pinchazo o dos, pero#  se irá rápido.
 * ¿Entendido?
 * ¡Entendido!
 * Realmente crees en esto,#  ¿no?
@@ -12961,32 +12961,32 @@ door_fade_out
 * (No se te ocurre cómo#  hacer que esto funcione.)
 * (Usas el ÁCIDO para#  derretir la puerta.)
 * HOLA.
-* I HAD TROUBLE LOCATING#  YOU AFTER OUR LAST#  ENCOUNTER.
-* WORRY NO MORE, I HAVE#  LOCATED YOU.
-* MY LAST PLAN DID NOT#  WORK SO I WILL TRY#  SOMETHING NEW.
+* TUVE PROBLEMAS PARA#  LOCALIZARTE DESPUÉS DE#  NUESTRO ÚLTIMO ENCUENTRO.
+* NO TE PREOCUPES MÁS,#  TE HE LOCALIZADO.
+* MI ÚLTIMO PLAN NO#  FUNCIONÓ ASÍ QUE#  PROBARÉ ALGO NUEVO.
 path_change_point
-No way!
-Sure!
-* I JUST FOUND THIS#  HIGHLY-CORROSIVE#  CONCOCTION.
-* I WOULD LIKE TO APPLY#  IT ON YOUR SKIN.
-* WILL YOU BE MY TEST#  SUBJECT?
-* WONDERFUL.
-* CORRECT DECISION.
-* ALLOW ME TO TERMINATE#  THE CORK FIRST.
-* IT IS TOUGH TO OPEN#  CONTAINERS...
-* ...WHEN MY ONLY POINT#  OF FORCE IS AT THE BACK#  OF MY HANDS.
-* ALMOST HAVE IT.
-* [Shoot]
-* DO NOT FRET, I WILL#  RETRIEVE ANOTHER TUBE-
+¡No puede ser!
+¡Claro!
+* ACABO DE ENCONTRAR#  ESTA MEZCLA ALTAMENTE#  CORROSIVA.
+* ME GUSTARÍA APLICARLO#  EN TU PIEL.
+* ¿QUIERES SER MI#  SUJETO DE PRUEBA?
+* MARAVILLOSO.
+* UNA DECISIÓN CORRECTA.
+* PERMÍTANME TERMINAR#  EL TAPÓN PRIMERO.
+* ES DIFÍCIL ABRIR#  CONTENEDORES...
+* ...CUANDO MI PUNTO#  DE FUERZA ESTÁ EN EL#  DORSO DE MIS MANOS.
+* CASI LO TENGO.
+* [Rayos]
+* NO SE PREOCUPE,#  VOY A RECUPERAR#  OTRO TUBO...
 * HUH.
-* HOW THE TABLES TURN.
+* CÓMO CAMBIAN LAS#  COSAS.
 axis_acid_sound
 boom
 pellet_number_inc
 flowey_hit
 pt_Effect1
 pe_Effect1
-* This object can handle any flavor text.
+* Este objeto puede manejar#  cualquier texto#  de sabor.
 spawn_frog
 spawn_green_frog
 my_frog
@@ -13081,11 +13081,11 @@ gml_Script_martlet_wing_spawn_gml_Object_obj_fmartlet_spawner_feathers_wings_Ste
 grow_noloop
 self_destroy
 stickbug_delay
-* Can you believe I'm STILL#  mining?	
-* I'm just THAT committed to my#  job!!	
+* ¿Puedes creer que TODAVÍA#  estoy minando?
+* ¡Estoy TAN comprometido#  con mi trabajo!
 * ...	
-* ...You think Angie heard that?
-* I am confined to these brown#  walls forever!!!!!
+* ...¿Crees que Angie#  escuchó eso?
+* ¡¡¡¡¡Estoy confinado a#  estas paredes marrones#  para siempre!!!!!
 cymbal
 dif
 T2 Appear Ace
@@ -13120,30 +13120,30 @@ bullet_spawner
 homing_speed
 h_variation
 sin_speed
-* Leave us alone will you?
-* This is a family matter.
-D../inner _:wiLl#be <r-Ready .>#Soon.
-Sw/>.eet _or#SAVory?	
-Ah yes! Just a#light tap on ze#edge!
-Underground?#Undercooked!#What ez ze issue?
-Quelle#impolitesse!
-Water? Pah!#I cannot touch such#a zing!
-No! Ze egg ez#already out of#its casing!
-Oui! Turn up#ze heat!
-What ez going on#inside your tiny#head? Non!
-We are not making#pie! Get it#togezer!
-Ze meal ez not#even done and#you want#leftovers?
-Hopeless!#Unprofessional!
-It accomplished#giving me joy...#but I cannot eat#joy!
-Ze egg is not#alive! Well...#not anymore :/
-Of course!#I must sow ze#seeds of flavour!
-If you can't#stand ze heat...#good!
-Natural#ingredients!#Never#substitute!
-A bit of zis...#a bit of zat...
-C'est croquant,#c'est fondant...
-Réjouis-toi!#I am only going#to bring you to a#light boil!
-Longue vie au#roi, courte vie#à l'humain!
-Your complexion...#un poulet cru.#Some food will#help!
+* Déjanos en paz, ¿quieres?
+* Se trata de un asunto familiar.
+La C../ena _:estAra#<l-Lista .>#Pronto.
+¿Du/>.lce _o#SALado?	
+¡Ah, sí! ¡Sólo#un ligero golpecito#en ez borde!
+¿Subsuelo?#¡Subcocido!#¿Cuál es el#problema?
+¡Qué#maleducado!
+¿Agua? ¡Pah!#¡No puedo#tocar#semejante coza!
+¡No! ¡Ze huevo#ya eztá fuera#de su envoltura!
+¡Oui! ¡Sube za#temperatura!
+¿Qué paza dentro#de tu#cabecita? ¡Non!
+¡No estamos#haciendo tarta!#¡Tozo junto!
+¿Za comida ni#ziquiera está#hecha y#quieressobras?
+¡Sin#esperanzas!#¡Poco#profesional!
+Cumpliste dándome#alegría... ¡pero#no puedo comer#alegría!
+¡Ze huevo no#está vivo!#Bueno...#ya no :/
+¡Claro!#¡Debo sembrar#zemillas de#sabour!
+Si no soportas#ze calor...#¡bien!
+¡Ingredientes#naturales!#¡Nunca#sustituir!
+Un poco de#zis... un#poco de zat...
+Crujiente,#derretido...
+¡Alégraze!#¡Sólo voy a#llevarte a#un ligero#hervor!
+¡Larga vie al rey,#viva l' humanos!
+Tu personalidad...#un pollot crudo.#¡Algo de comida#ayudará!
 horse1
 horse2
 explosive_enemy
@@ -13190,7 +13190,7 @@ part_type_alpha2
 zen_dialogue_gain
 offset_y_current
 offset_y_scroll_speed
-* Me... me diste una#  b-buena golpiza, ¿Eh?
+* Me... me diste un#  b-buen golpe, ¿Eh?
 * S-Star lo...
 * No te preocupes#  demasiado...
 * Entiendo que me lo#  merecía por el fiasco#  del Salvaje Este.
@@ -13203,28 +13203,28 @@ offset_y_scroll_speed
 * Clover... 
 * Clover ganó.
 * ¿Ustedes tuvieron una#  batalla? ¿Y el#  ayudante ganó?
-* (Mis clases funcionaron...)
+* (Mis clases#  funcionaron...)
 * Espera, ¿Qué tanto me#  perdí?
 * No sé que hacer.
 * Disculparme, hacer#  excusas, nada cambiaría#  la realidad.
-* Cavé un pozo demasiado#  profundo como# para salir.
+* Cavé un pozo demasiado#  profundo como#  para salir.
 * Y para nada...
 * Oye...
 * ¿Dónde estaba yo hace#  unas horas?
 * En esta misma situación.
 * Mi juicio estaba nublado#  y arruinado.
-* Pero me perdonaste. Y los#  otros cuatro también#  lo hicieron.
+* Pero me perdonaste. Y#  los otros cuatro#  también lo hicieron.
 * Ambos tomamos malas#  decisiones, no#  lo puedo negar, pero...
 * Pero hay esperanza. Al#  menos... creo que#  la hay.
 * No... no puedo empezar#  a comprender por lo#  que has pasado...
-* Pero esta fue absolutamente#  una horrible manera#  de lidiar con ello.
+* Pero, esta fue una#  horrible manera#  de lidiar con ello.
 * No puedes cambiar lo#  que ha ocurrido,#  tienes razón.
 * Pero puedes controlar#  cómo vivirás a#  partir de ahora.
-* Tus acciones significarán#  todo.
+* Tus acciones#  significarán todo.
 * Chujin. Su legado. Su#  deseo.
 * Nunca será cumplido.
 * Chujin podrá no ser#  el monstruo perfecto que#  pensé que era.
-* Pero incluso sus secretos#  más oscuros tienen#  un origen empático.
+* Pero incluso sus#  secretos más oscuros tienen#  empatía.
 * Y justo eso allí...#  es su legado.
 * No se encuentra en#  el suero para "salvar#  el mundo."
 * Todos los que ayudó,#  todo lo que construyó...
@@ -13246,7 +13246,7 @@ offset_y_scroll_speed
 * Gracias, Martlet.
 * Clover.
 * Te debo una disculpa a#  ti, más que a todo.
-* Nuestro tiempo en#  Steamworks y todo lo#  que dije... No fue Falso.
+* Nuestro tiempo en#  Steamworks y todo lo#  que dije... No fue falso.
 * Sí me permitió olvidar#  momentáneamente mis#  problemas y divertirme.
 * Pero mi razonamiento#  de estar aquí...
 * No puedo empezar a
@@ -13260,24 +13260,24 @@ offset_y_scroll_speed
 * ¡No! ¿¿¿Ya???
 * Por triste que sea,#  Clover tiene que irse#  a casa.
 * Eso no funcionará.
-* Seguro, nosotros#  conocemos a Clover por#  quien es pero Asgore...
+* Seguro, nosotros#  conocemos a Clover por#  quien es, pero Asgore...
 * No verá a Clover como#  nosotros. Y no le#  importa aprender.
 * ¡Pero esta situación#  es única!
-* El Rey siempre ha sido#  amable y comprensivo!
-* Seh, Clover no#  dañaría a nadie!
+* ¡El Rey siempre ha sido#  amable y comprensivo!
+* Seh, ¡Clover no#  dañaría a nadie!
 * ¿Creen que eso ha#  importado en el pasado?
 * La verdad apesta, pero#  es lo que es.
 * Entonces, ¿Qué?
-* Debería llevar a#  Clover a Snowdin?
+* ¿Debería llevar a#  Clover a Snowdin?
 * ¿Esconderlo por el#  resto de nuestras#  vidas?
 * Seh, ¿Por qué Clover#  no puede quedarse#  con nosotros?
-* Osea, es posible pero#  la Guardia Real lo#  empezaría a buscar, ¿No?
+* Osea, es posible pero#  la Guardia Real lo#  empezaría a buscar, ¿no?
 * ¿Luego de tantos#  encuentros Clover#  sólo desaparece?
 * No sería la primera#  vez.
 * ¡Ohh sí! ¡Probablemente#  pensarían que ocurrió#  lo mismo otra vez!
 * Pero... ¿Qué pasa#  con los otros?
 * Ya sabes, los#  siguientes humanos.
-* Clover puede vivir#  una vida feliz pero#  ellos tienen que morir?
+* ¿Clover puede vivir#  una vida feliz pero#  ellos tienen que morir?
 * Oh.
 * ...No conocemos sus#  corazones.
 * Quizás ellos
@@ -13285,7 +13285,7 @@ offset_y_scroll_speed
 * ¿Acaso no has#  aprendido nada?
 * ¡Estoy valorando#  nuestras opciones!
 * Estamos entre la#  espada y la pared,#  ¿Entiendes?
-* Hey, cálmensen, chicos.
+* Hey, cálmense, chicos.
 * ¡Sabes que realmente#  pensé que el fiasco de#  esta noche fue suficiente!
 * Todos hablamos#  y las cosas estaban#  yendo bien.
 * Pero inmediatamente#  sugieres dar a#  futuros niños a
@@ -13293,35 +13293,35 @@ offset_y_scroll_speed
 * Lo siento pero no creo#  que usteden tengan una sala#  para discutir ahora mismo.
 * ¡Vamos ustedes dos!#  ¡Déjenlo
 camera_xx
-You probably want to go home dontcha?
-Humanity already won by trapping us#down here, yet they keep twisting#the knife.
-This cannot continue any longer!
-You must have#places to go,#correct?
-The Castle...#The barrier.
-I did everything#in my power to#entertain...
-...so monsters#wouldn't have to#worry about being#stuck down here.
-Anyway, we'll bypass the Royal Guard#and plead your case to ASGORE!
-Remember your REAL mission, Clover.
-Asgore only needs#two more SOULS to#shatter the barrier.
-What a world it#would be if I had#two whole friends.
-Most might act cheerful,#but life down here...
-...It's hopeless.
-...The five children#you set out to find#in the first place.
-Despite its ups and#downs, our little#adventure was a blast.
-ASGORE's still out there#threatening human lives!
-I MUST THANK#YOU FOR OPENING#MY EYES.
-Keep your head in the game!
-Turns out you're a pretty#damn good leader, Clover!
-Come on, Clover!
-You are a kind soul.#One of the best I've met.
+Probablemente quieras  irte#a casa, ¿verdad?
+¡La raza humana ya ganó atrapándonos# aquí abajo y ellos siguen# retorciendo el cuchillo!
+¡Esto no puede seguir así!
+Debes tener#lugares a,#los que ir,#¿verdad?
+El Castillo...#La barrera.
+Hice todo lo#posible para#entretener...
+...para que nadie#se preocupara de#estar aquí abajo.
+De todos modos, pasaré  por alto la#Guardia Real y te defenderé#ante ASGORE.
+Recuerda tu misión REAL, Clover.
+ASGORE necesita siete#ALMAS humanas para#romper la barrera.
+Qué mundo sería#si tuviera dos#amigos enteros.
+Puedes actuar alegremente,#pero la vida aquí abajo...
+...Es desesperante.
+...Los cinco niños que#viniste a salvar en#primer lugar.
+A pesar de sus#altibajos, nuestra#aventura fue increíble.
+¡ASGORE sigue ahí#atormentando vidas humanas!
+DEBO#AGRADECERLES#POR ABRIR#MIS OJOS.
+¡Mantén tu cabeza en alto, Clover!
+¡Al parecer has sido un#muy buen líder, Clover!
+¡Vamos, Clover!
+Eres un alma noble.#De las mejores que#he conocido.
 ¡Clover!
 * ¿¡Clover, qué estás#  haciendo!?
 * Hey, eh...
 * ¿Clover? ¿Qué#  sucede?
 * Nos estás asustando.
 * ¿Q-Qué significa eso?
-Es hora
-Es hora de irme
+Es hora.
+Es hora de irme.
 * No... 
 * No no no no no-pen-#  ¡Pensaremos en algo!
 * ¡Tenemos opciones!
@@ -13333,18 +13333,18 @@ Es hora de irme
 * Lo dices en serio.
 * ...Entiendo.
 * Todo este tiempo, ¿Qué#  hemos estado haciendo?
-* Arrastrar a Clover por ahí...#  sujetando una correa.
+* Arrastrar a Clover por#  ahí... sujetado a#  una correa.
 * De forma egoísta.
 * Clover vino aquí por#  su propia voluntad.
 * ...También merece#  dejarlo por ella.
-* Pero no quieres este#  resultado, ¿Cierto?
+* Pero no quieres este#  resultado, ¿cierto?
 * Seguramente...
 * Si hubiera otro#  modo...
 * Pero hay que asumirlo.#  No lo hay.
 * Creo que Clover#  se dió cuenta de#  ello hace tiempo.
 * Por mucho que quiera#  detenerte...
 * Lo veo. En tus ojos.
-* Esto es por nuestra#  voluntad... ¿Cierto?
+* Esto es por nuestra#  libertad... ¿cierto?
 * Eres el humano más#  valiente y altruista#  que he conocido.
 * Por supuesto, sólo#  he conocido uno...
 * Pero si alguna vez#  conozco uno, espero#  que sea igual a ti.
@@ -13359,9 +13359,9 @@ Es hora de irme
 * Bueno...
 * Entiendo si ustedes#  dos no quieres estar#  aquí para...
 * Ya saben.
-* ¿Tienes lo necesario?
+* ¿Tienes lo que#  necesitas?
 * Lo tengo.
-* Supongo que el sol#  está bajando.
+* Supongo que el sol#  se está poniendo.
 * Te... te veré luego,#  compañero.
 * ¿Tienes un recibo#  para eso?
 * Gracias, niño.
@@ -13378,16 +13378,16 @@ soul_canister
 * ¿Quieres...
 * ...que me quede?
 Ve
-Voy... a estar bien
+Voy... a estar bien.
 * Esto no será#  olvidado.
 sdnfnt
-  Así que, ¿Así termina?
+  Así que, ¿así termina?
   ¿Todo ese trabajo sólo para#  convertirte en otro#  eslabón de la cadena?
   Je, ¡Eres tan predecible!
   Podría deshacer todo esto#  pero ahora... Quizás te has#  ganado tu descanso.  
   Después de todo, siempre#  hay otro.
   No puedo decir que fue divertido#  así que... Supongo que#  aquí nos separamos.
-  Oh, ¿A quién engaño?
+  Oh, ¿a quién engaño?
   Hasta que nos veamos#  de nuevo... amigo.
 clower_crawl_speed
 Backgrounds_1
@@ -13437,7 +13437,7 @@ Va-a-mos,#relájate un#p-p-poco.
 N-No tienes que#ser tímido,#amigo -
 HEY Q-Q-qué#es... esto ?
 ¡ ESPERA !#Yo... ¿ Oh ?
-NO a-arruines#el humor :)
+NO a-arruines#el ambiente :)
 Me gusta#e-esta :)
 Esto está#b-bien :)
 Mhm,#seh :)
@@ -13625,16 +13625,16 @@ spray_interval
 spray_amount
 new_spray
 Party Popper
-* The element of surprise.
+* El elemento sorpresa.
 trapdoor_spawn_particles
 * Oh, hey.
-* I'm just uh, admiring the#  view.
-* I was just on my way to talk#  to the Foreman. Yep.
-* The boulders stopped falling a#  while ago.
-* My teacher never taught me it#  could rain rocks down here.
-* Weather... crazy stuff.
-* Well, I'm gonna go soon.
-* Hope my eternal gratitude#  helped you!
+* Sólo estoy eh, admirando#  la vista.
+* Estoy sólo en mi camino de#  hablar con el Capataz. Sep.
+* Las rocas dejaron de caer hace#  un rato.
+* Mi profesor nunca me enseñó#  que las rocas podrían#  llover aquí abajo.
+* El clima... de locos.
+* Bueno, voy a irme pronto.
+* ¡Espero que mi eterna#  gratitud te haya#  ayudado!
 dialogue
 * ¿dónde estoy?
 crayon_color
@@ -14038,7 +14038,7 @@ Para lim//pi--#digo ayudar a#todos los gérmenes#conquistar el mundo!!
 ¡¡No tE#aCerquES MÁs!!!
 ¡¡SEH sEH!!#¡¡¡¡ANímATE!!!!
 ¡¡¡voY a traBAJAR#MáS DURO!!!
-*Hum-DEE-DUM#dE-DUMM!!
+*¡¡Hum-DEE-DUM#dE-DUMM!!
 *¡¡¡JuNts somos#Fuertes!!!
 ¡¡JA Je!!#Apuesto que soy#más SUCIO#que TÚ!!!
 ¡¡Es horA de#que Conozcas#Nuestros#trapeadores!!!
@@ -14098,7 +14098,7 @@ pause_time_max
 talk_noloop
 talk_noise
 Soda and Mints
-* The deadliest mixture of them#  all.
+* La mezcla más mortífera#  de todas.
 dir_clamp
 * ¡Mierda!
 * Mejor intentémoslo de#  nuevo.
@@ -14304,19 +14304,19 @@ can_hit
 sound_playing
 play_sound
 pl_die
-* One day, I'm gonna travel down#  this belt myself.	
-* I wanna see where it leads!
-Bad idea
-Do it!
-* You think that's dangerous? 
-* I've got a hardhat, don't I?
-* Come on, you'll never have any#  fun if you're uptight all the#  time!
-* I'll have to wait until the#  shift's over.
-* Thanks for the confidence#  boost!
-* I gotta say, sorting through#  the same gemstones every day is#  getting old.	
-* I bet the Surface has a ton#  we've never heard about!	
-* Ironic that the first thing I#  wanna do when we're free is#  explore more caves, haha!
-* Welp, gotta get back to it!
+* Algún día, voy a viajar por este#  cinturón yo mismo.
+* ¡Quiero ver dónde lleva!
+Mala idea
+¡Hazlo!
+* ¿Crees que es peligroso?
+* Tengo un casco, ¿No?
+* ¡Vamos, nunca podrás divertirte#  si estás nervioso todo el#  tiempo!
+* Tendré que esperar hasta que#  el turno termine.
+* ¡Gracias por el empujón de#  confianza!
+* Debo decir, revisar todas las#  mismas gemas cada día se#  está haciendo aburrido.
+* ¡Apuesto a que la Superficie#  tiene un montón de las que#  nunca hemos escuchado!	
+* Irónico que lo primero que#  quiero hacer cuando seamos libres#  es explorar más cuevas, ¡Jaja!
+* ¡Bueno, hora de continuar con esto!
 new_camera
 cam_width_half
 cam_height_half
@@ -14327,7 +14327,7 @@ cam_x_min
 cam_y_min
 cam_x_max
 cam_y_max
-* My poor boy... where did you#  go?
+* Mi pobre niño...#  ¿dónde te has metido?
 idle_sequence
 damage_disjoint_timer
 damage_disjoint_timer_max
@@ -14371,17 +14371,17 @@ shopkeeper_sprite_default
 shopkeeper_sprite
 portrait_alt
 new_sprite
-* bot fact:
-* "bots all have a passion for#  something. a programmed#  fixation."
-* for example, i'm a huge fan of#  arson.
-* "bots are not allowed to#  swear. it is indecent and#  rude."
-* alas, i am cursed to this#  family friendly environment.
-* "bots are not allowed to#  engage in romantic#  relationships.
-* it would run the risk of#  bypassing the sentience#  suppression system."
-* ...what does "romantic#  relationships" mean?
-* why can't we interact with#  friendly boats from the roman#  empire?
-* i only memorized three bot#  facts.
-* anything i say now would only#  be bot fiction.
+* dato de bot:
+* "todos los bots tienen una#  pasión por algo. una#  obsesión programada."
+* por ejemplo, yo soy un gran fan#  de los incendios.
+* "los bots no tienen permitido#  insultar. es indecente#  y de mala educación."
+* lamentablemente, estoy#  condenado a este ambiente#  para toda la familia.
+* "los bots no tienen#  permitido comprometerse#  en relaciones románticas."
+* llevaría al riego de#  sobrepasar el sistema de#  supresión de consciencia.
+* ¿...qué significa una#  "relación romántica"?
+* ¿por qué no podemos#  interactuar con botes amistosos#  del imperio romano?  
+* sólo memoricé tres datos#  de bots.
+* todo lo que diga ahora sería#  sólo ficción de bot.
 old_spawner
 overlap_timer
 camera_y
@@ -14414,7 +14414,7 @@ camera_y
 * Está bien... Solo no se#  desvíen.
 * No puedo dejarlo escapar#  ni algo parecido.
 * ¿Saben cómo llegar?
-* Okei, nos encontraremos#  allá.
+* Okey, nos encontraremos#  allá.
 * Aún tengo que explicarle#  todo al grupo.
 * Mientras tanto.
 * Vamos, Clover.
@@ -14428,7 +14428,7 @@ camera_y
 * Seguro no es nada...#  ¿verdad? 
 * Chujin fue como un#  padre para mi.
 * No se qué sería de mi#  vida sin él.
-* Te... dejaré ir al#  frente. Solo ve hacia#  Oasis Valley.
+* Te... dejaré ir al#  frente. Solo ve hacia#  Valle del Oasis.
 * Que bueno volverte a#  ver, de todas formas.
 npc_reset
 bounce_speed
@@ -14446,7 +14446,7 @@ puff_x_2
 smoke_1
 smoke_2
 Neon
-* Believed to be but a myth#  until recently.
+* Hasta hace poco se creía#  que no era más#  que un mito.
 noise_alpha
 noise_timer
 noise_timer_max
@@ -14518,16 +14518,16 @@ Un consejo, por#favor rebobina tus#cintas antes de#alimentarme.
 ¿Puede alguien#solo callar a#Señorita cerebro#de tubo?
 Solo... acaba#con esto.
 image_speed_counter
-* Why hello! Hope you're having#  a glorious day!
-* I'd give you a flower but#  those are in low supply around#  here.
-* I hope a friendly smile#  suffices!
-* Honestly, the Dunes are not#  the best place for my sisters#  and I.
-* But I feel an obligation to be#  here. You know, to help grow#  the ecosystem.
-* One day, we'll return this#  place to its former glory!#  Mmhm!
-* I've heard rumors about an#  abandoned greenhouse FILLED#  with flowers.
-* Not sure how or why such a#  thing would exist but I really#  wanna see it!
-* Remember to give flowers lots#  of love and attention!
-* They are alive and can teach#  you many things!
+* ¡Muy buenas! ¡Espero que estés#  teniendo un día glorioso!
+* Te daría una flor pero hay#  bajo suministro de ellas#  ahora mismo.
+* ¡Espero que una sonrisa#  amistosa sea suficiente!
+* Honestamente, las Dunas no#  son el mejor lugar par mis#  hermanas y yo.
+* Pero siento una obligación de#  estar aquí. Ya sabes, para ayudar#  que crezca el ecosistema.
+* ¡Algún día, regresaremos#  este lugar a su antigua#  gloria! ¡Sí!
+* He escuchado rumores de un#  invernadero abandonado LLENO#  de flores.
+* ¡No sé cómo o por qué tal#  cosa existiría pero realmente#  quiero verlo!
+* ¡Recuerda darle a las flores#  gran cantidad de amor#  y atención!
+* ¡Están vivas y pueden#  enseñarte muchas cosas!
 sh_uvs
 pixelate_surf
 shader_set_uniform_f_array
@@ -14591,8 +14591,8 @@ current_frog_top
 current_frog_bot
 attack_delay_max
 glitch_sound
-Sodium [Na]
-* An essential part of any#  balanced breakfast.
+Sodio [Na]
+* Una parte esencial de#  cualquier desayuno#  equilibrado.
 feather_angle_total_max
 intro_noloop
 white_alpha
@@ -14707,36 +14707,36 @@ Tu ITEM está listo
 camera_x
 dynamite_spawned_count
 dynamite_spawned_max
-* Ah, bonjour! Mon apprenti!
-* Welcome back to ze kitchen!
-* Thanks to your infinite#  wisdom, I have kept myself#  busy!
-* Oui! Nossing but frying eggs#  for ze past ‘our!
-* I am gifting free samples so#  have a taste if you like!
-* Have you seen ze flora#  everywhere?
-* Ces plantes blanches...
-* Well! Zeir taste iz just#  lovely!
-* I ground some up into a new#  spice to use on zi eggs!
-* But, for some reason, zi eggs#  did not like it.
-* Zey melted in my pan when the#  spice touched zem!
-* Quelle tragédie! Amour#  interdit!
-* You are ze first monstre I#  have spoken to in a while!
-* I do miss conversing with#  ozers, espessially my creator!
-* We have a lot in common. Our#  physique, voice, culinary#  skills - zey all match!
-* I was confused why we were zi#  only ones in ze Steamworks like#  zis...
-* He said zat many monstres come#  from ze outside world. Ze#  Surface!
-* And on ze Surface are many#  different types of beings from#  different places!
-* When all monstres migrated to#  zis mountain, some of zem#  hailed from zose places!
-* And so, zeir wonderful#  traditions and cultures have#  spread around down here!
-* What a beautiful sing!
-* I asked my creator where his#  family was from.
-* He told me about a land far#  away with millions like me!
-* But I simply cannot believe#  such a sing!
-* Millions of culinary bots#  living togezer?
-* Impossible!
-* Zere would not be enough#  frying pans to go around!
-* I better get back to ze stove!
-* Until we cook again! 
-* Au revoir!
+* ¡Ah, bonjour!#  ¡Mon apprenti!
+* ¡Bienvenido de vuelta#  a la cozina!
+* ¡Gracias a tu infinita#  sabiduría, me he#  mantenido#  ocupado!
+* ¡Oui! ¡Nada más que freír#  huevos durante la#  úlzima hora!
+* ¡Estoy regalando muestras#  gratis, así que#  prueba si te gusta!
+* ¿Has visto la flora#  por todas partes?
+* Cestas plantas#  blanchas...
+* ¡Bien! Su zabor es#  zimplemente encantador!
+* Trituré algunas para hacer#  una nueva especia para#  usar en loz huevos!
+* Pero, por alguna razón,#  a loz huevos no#  les gustó.
+* ¡Ze derritieron en mi#  sartén cuando la#  espezia lo tocó!
+* ¡Qué tragédie!#  ¡Amour prohibido!
+* Eres el primer monztre#  con el que he#  hablado en un tiempo.
+* Echo de menos conversar con#  otroz, especialmente#  con mi creador.
+* Tenemos mucho en común.#  Físico, voz, habilidades#  culinarias - ¡coinziden!
+* Estaba confundido de#  por qué éramoz loz únicos en ze#  Steamworks así como esto...
+* Dijo que muchoz monstres#  vienen del mundo exterior.#  ¡Za Superficie!
+* ¡Y en za Superficie hay#  muchos tipos diferentes de#  seres de diferentes lugares!
+* ¡Cuando todos los monstres#  migraron a ezta montaña, algunos#  provenían de ezos lugares!
+* ¡Y así, zus maravillosas#  tradiciones y culturas se#  han difundido por aquí abajo!
+* ¡Qué hermosa canción!
+* Le pregunté a mi creador#  de dónde era su#  familia.
+* ¡Me habló de una tierra#  lejana con millones#  como yo!
+* ¡Pero simplemente#  no puedo creer#  tal cosa!
+* ¿Millones de bots#  culinarios viviendo#  junzos?
+* ¡Imposible!
+* ¡Zo habría suficientes#  sartenes para todos!
+* ¡Mejor vuelvo a#  za eztufa!
+* ¡Hasta que cocinemos#  de nuevo!
+* ¡Au revoir!
 speed_target
 ¡Ya lo he#visto!
 ¡Odio las#repeticiones!
@@ -14745,7 +14745,7 @@ speed_target
 * ¿mE.. . ME DeJAS IR?
 * EH. EXTRAÑA DeCISIóN.
 * SóLO PARA QUE SEPaS.. .
-* Y0U STILL [freaking]#  SUCK.
+* Tu T0DAVI4 [sigues]#  APESTANDO. 
 * SIÉNTETE LIBRE dE#  CAER HAcIA TU MUERTE#  MIENTRAS TE VaS.
 ring_sound
 pellet_spawn_noloop
@@ -14757,7 +14757,7 @@ new_pellet
 * (Una hoja con apuntes#  pulcramente escritos yace#  en la basura.)
 * (Lo echas a tu bolso.)
 * Áreas de trabajo...
-* Okei, entonces... Ha de#  haber otro código por#  encontrar.
+* Okey, entonces... Ha de#  haber otro código por#  encontrar.
 * Ya sabes cómo es.
 * Debe ser la oficina del#  gerente.
 * De seguro tiene acceso#  a todos los códigos.
@@ -14864,8 +14864,8 @@ anim_min
 anim_max
 id_needle
 ¡Claro que te#ayudaré, Ace!
-Rutherfordium [Rf]
-* Discovered by the prestigious#  Dr. Rutherford Oscar himself.#  Or so he claims.
+Rutherfordio [Rf]
+* Descubierto por el prestigioso#  Dr. Rutherford Oscar en#  persona. O eso dice.
 gap
 soul_grab_noloop
 Para ser#honesto...#no me sorprende.
@@ -14939,8 +14939,8 @@ destroy_type
 fall_delay
 warning_line_alpha
 new_laser
-* (The door is already#  open.)
-* (Swipe your ID?)
+* (La puerta ya está#  abierta.)
+* (¿Pasar la ID?)
 foreground_pillars
 layer_get_id
 fg_layer_id
@@ -15024,9 +15024,9 @@ Futuro
 Nerosensei
 StillLiam
 Additional Spritework:
-And you!
-Not Special - No Thanks:
-The Shufflers
+¡Y tú!
+No Especial - No Gracias:
+Los Shufflers
 ¡Gracias por jugar!
 y_slow_down
 slow_down_treshold
@@ -15094,7 +15094,7 @@ active_item
 * ¡Claro que sí, pero no#  he trabajado aquí!
 * ¿¿¿Entonces estás aquí#  ilegalmente???
 * En ese caso...  
-* Okei, ¡haremos el#  trabajo!
+* Okey, ¡haremos el#  trabajo!
 * Clover, este bot puede#  tener conexión con Axis.
 * Parece que habrá que#  hacer lo que pida para#  evitar la atención.
 * Puedes manejar esta cosa#  ¿verdad?
@@ -15197,41 +15197,41 @@ image_scale_inc_max
 * Por supuesto, los bíceps no#  son parte de la pierna pero#  mi equipo sobrepasa las reglas.
 * Voy a necesitar que te#  muevas. Tu presencia está#  intimidando a todos aquí.
 interacted_with
-* (You examine the#  bookshelf...)	
-* (A title called "Mysteries of#  the Underground" catches your#  eye.)	
+* (Examinas la#  estantería...)	
+* (Un título llamado "Misterios#  del Subsuelo" te#  descubre.)	
 * (¿Leer?)
-* Chapter One: Blunko's#  Blunder.
-* Located in Oasis Valley, in a#  modern cafe you can't miss,#  lies an arcade cabinet.
-* Painted blue and coated with a#  thick layer of dust, it sits#  there, out of order.
-* Few monsters recall seeing it#  up and running and that might#  be on purpose.
-* On the cabinet, two logos#  reside: Team Y and Blunko#  Industries.
-* The same two human companies#  that created the Mew Mew Love#  Blaster cabinet.
-* Legends say it was playable#  for a time after it was#  recovered from the dump...
-* ...but its contents were#  "unpleasant" upon experience.#	
-* (You flip to the next#  chapter.)
-* (Continue reading?)
-* Chapter Two: The Path.
-* The Underground is a vast#  place.
-* Throughout it are pathways#  and/or fences to lead monsters#  from place to place.
-* But maybe, just maybe, the#  paths are truly there to keep#  you safe.
-* In a report from 20XX, a#  father recalled fishing with#  his son in the Snowdin forest.
-* As the father prepared his#  line, his son wandered past the#  fence and into the trees.
-* The father didn't notice at#  first but soon began to search#  for the child.	
-* "Before I found ____, it felt#  like I was in a daze," the#  father recounts.
-* "Just... nothing out there."
-* Chapter Three: The Phantom#  SOUL.	
-* Seven human SOULS are all it#  takes to destroy the barrier#  that intraps us monsters...	
-* ...and over time, King ASGORE#  and the Royal Guard have#  ensured we reach that goal.	
-* This process has been#  controversial among some#  residents but...
-* ..."War is not pleasant" says#  the head of the Royal Guard.	
-* Typically, when a human falls#  into our home, they're#  "collected" within hours.
-* But one time... it took#  years.	
-* It was a typical afternoon in#  Snowdin...	
-* Suddenly, a human was spotted#  in the area before swiftly#  fleeing for Waterfall.	
-* This, surprisingly, was the#  last time they were seen#  alive.	
-* Officials at the time said the#  disappearance most likely meant#  the human was hiding.	
-* However, the human's SOUL was#  later inexplicably found deep#  in Waterfall...	
-* (You put the book back.)
+* Capítulo Uno: El Error#  de Blunko.
+* Ubicado en el Valle Oasis, en#  una cafetería que no te puedes#  perder, se encuentra un arcade.
+* Pintada de azul y cubierta de una#  gruesa capa de polvo, se#  encuentra ahí, fuera de servicio.
+* Pocos monstruos recuerdan verla#  funcionando y eso puede#  ser a propósito. 
+* En la máquinas, residen dos#  logos: Team Y y Blunko#  Industries.
+* Las mismas dos compañías#  humanas que crearon la máquina de#  Mew Mew Love Blaster.
+* Las leyendas dicen que fue#  jugable por un tiempo luego#  de ser recuperada del basurero...
+* ...pero sus contenido eran#  "desagradables" de experienciar.#
+* (Volteas al siguiente#  capítulo.)
+* (¿Sigues leyendo?)
+* Capítulo Dos: El Camino.
+* El Subsuelo es un lugar#  vasto.
+* Entre medio hay caminos y/o#  vallas que llevan a los monstruos#  de un lugar a otro.
+* Pero quizás, y sólo quizás,#  los caminos realmente están#  ahí para mantenerte a salvo.
+* En un reporte de 20XX, un#  padre recordaba pescar con su#  hijo en el bosque de Snowdin.
+* Mientras el padre preparaba su#  línea, su hijo deambulaba fuera#  de la valla hacia los árboles.	
+* El padre no se dió cuenta al#  inicio pero pronto empezó a#  buscar a su hijo.
+* "Antes de encontrar ____, me#  sentía aturdido," el padre#  relata.
+* "Sólo... nada allí fuera."
+* Capítulo Tres: El ALMA#  Fantasma.	
+* Siete ALMAS humanas es todo#  lo que toma para destruir la#  barrera que nos encierra...
+* ...y con el tiempo, el Rey#  ASGORE y la Guardia Real han#  asegurado llegar a ese objetivo. 	
+* Este proceso ha sido#  controversial entre algunos#  residentes pero...
+* ..."La guerra no es agradable"#  dice la líder de la#  Guardia Real.
+* Típicamente, cuando un humano#  cae a nuestro hogar,#  son "recogidos" en pocas horas.
+* Pero una vez... tomó#  años.
+* Era una tarde típica en#  Snowdin...
+* De pronto, un humano fue visto#  en el área antes de huir#  velozmente hacia Waterfall.	
+* Esta, sorprendentemente, fue#  la última vez que fue#  visto con vida.
+* Los oficiales en ese tiempo#  dijeron que la desaparición#  significaba que se estaba escondiendo.
+* Sin embargo, el ALMA humana fue#  encontrada inexplicablemente en las#  profundidades de Waterfall.
+* (Pones el libro en su lugar.)
 text_yy
 * ¡Hora de irse!
 * ¡Haré lo que pueda para#  ayudarnos a escapar!
@@ -15310,7 +15310,7 @@ angle_spread
 can_raise
 vspeed_inc
 * (Una solitaria chaqueta#  de seguridad cuelga#  de la pared.)
-* (¡Obtuviste un Safety Jacket!)
+* (¡Obtuviste una#  Chaqueta de Seguridad!)
 * (Varios monstruos#  disfrutan de una buena#  partida de póquer.)
 * ...¿Cómo sigo perdiendo?
 * (¡Las cosas se ponen duras!#  ¡Podría ser el juego#  de cualquiera!)
@@ -15339,9 +15339,9 @@ vspeed_inc
 * Y luego... Bueno,#  seguirás tu camino.
 * ¡Pero no te preocupes#  por mí! 
 * ¡Cuando nos liberemos,#  nos volverémos a ver#  en la Superficie!
-* Para ese entonces, ya#  has de haber crecido.#  Será divertido ¿no crees?
+* Para ese entonces, ya#  habrás crecido.#  Será divertido ¿no?
 * El punto es, me alegra#  haberme topado contigo.
-* Okei... Tenemos que#  seguir avanzando.
+* Okey... Tenemos que#  seguir avanzando.
 * Por allá. Al Oeste#  de Nuevo Hogar.
 * El elevador de abajo#  nos debería llevar#  directo para allá.
 * Después de eso... no#  estoy segura.
@@ -15354,18 +15354,18 @@ oscillator
 colliding_clay
 eye_shoot
 sequence_layer_goosic
-* I figured out where#  those boulders were#  coming from.	
-* Turns out North Star#  set the machines up for#  "Feisty Missions."	
-* Had a friendly chat#  with him about it all.	
-* He immediately#  apologized so... I#  forgave him.	
-* How could I say no to#  his overwhelming charm?	
-* I'm only monster.
-* As my old man used to#  say: mine on, kid!	
-* Okay, he uh... he never#  said that. I said that.#  Just now.
-* (It's full of epic emptiness.)
-* (You open the mysterious chest#  as an epic melody slowly#  crescendos in your head.)
-* (You found a Golden Bandana!)
-* (You got the Golden Bandana!)
+* Descubrí de dónde venían#  esas piedras.
+* Resulta que North Star#  preparó las máquinas#  para "Misiones Feisty".
+* Tuve una charla#  amistosa con él#  sobre todo esto.
+* Inmediatamente se#  disculpó, así#  que... lo perdoné.	
+* ¿Cómo podría decir#  que no a su#  abrumador encanto?	
+* Sólo soy un monstruo.
+* Como solía decir mi#  viejo: ¡sigue así,#  niño!	
+* Vale, él... él nunca#  dijo eso. Yo dije eso.#  Justo ahora.
+* (Está lleno de un#  vacío épico.)
+* (Abres el misterioso cofre#  mientras una melodía épica#  cresce lentamente en tu cabeza.)
+* (¡Has encontrado#  un Pañuelo Dorado!)
+* (¡Obtuviste el#  Pañuelo Dorado!)
 * En serio lo logramos...
 * Espero que este elevador#  funcione.
 elevator_sound
@@ -15427,16 +15427,16 @@ new_coin
 * ¿Cuando llegará alguien que#  me proporcione diversión?
 * Ese será el día.
 * Supongo que no lastimará#  esperar un poco más.
-* oh hey. no hard feelings about#  the fight earlier.
-* like sure, we kinda broke the#  first law of robotics but tbh,#  we live in a lawless land. 
-* anarchy reigns in this#  metallic hellscape.
-* the three of us are the last#  Lil Bots around.
-* only became that way an hour#  ago.
-* one of our models rallied#  seven others to high dive into#  the burning lake.
-* why? beats me.
-* apparently the stuff tastes#  good but the calories can't be#  good for you.
-* it's also, like, 300 degrees#  celsius.
-* sorry i'm out of dialogue.
+* oh hey. sin resentimientos#  por la pelea de antes.
+* claro que hemos roto la#  primera ley de la robótica,#  pero vivimos sin ley. 
+* la anarquía reina en este#  infierno metálico.
+* nosotros tres somos los#  últimos Lil Bots#  que quedan.
+* sólo se volvió así hace#  una hora.
+* uno de nuestros modelos#  reunió a otros siete para#  saltar al lago en llamas.
+* ¿por qué? ni idea.
+* aparentemente las cosas#  saben bien pero las calorias no#  pueden ser buenas para ti.
+* también es, como,#  300 grados celsius.
+* lo siento me he#  quedado sin dialogo.
 * Clover... Tú...
 * Como pudiste...
 * ¡¡Este no era el plan!!
@@ -15517,7 +15517,7 @@ xx_3
 pain_sound
 * (...Phew.)
 * (Un pastel en su jaula.)
-* (Te gustaría un poco#  de Cake pero prefieres#  no alertar a Axis.)
+* (Te gustaría un poco#  de Tarta pero prefieres#  no alertar a Axis.)
 * (¿Arriesgarse?)
 * (Más vale prevenir#  que lamentar.)
 cood_x
@@ -15549,21 +15549,21 @@ bul_hsp
 bul_vsp
 hurt_interval
 flowey_npc
-* Looks like things are#  heating up!
-* Literally, that is.
-* Since you shut the bots#  down, it should be an#  easy stroll to the exit.
+* ¡Parece que las cosas#  se están calentando!
+* Literalmente, eso es.
+* Desde que cerraste los#  robots, debería ser un#  paseo hasta la salida.
 * Buena suerte, Clover.
-* But just in case, I'd#  like to give you a#  little gift...
-* From your best friend.
-* I think it's time you#  try your hand at#  wielding the pellets.
-* Sure, you could use#  rubber, silver, nails,#  whatever.
-* But these are#  the real deal.
-* It's fully up to you#  but I just wanted to let#  you know...
-* ...Our partnership#  means a lot to me.
+* Pero por si acaso, me#  gustaría hacerte un#  pequeño regalo...
+* De tu mejor amigo.
+* Creo que es hora de#  que pruebes a manejar#  las balas.
+* Claro, puedes usar#  goma, plata, clavos,#  lo que sea.
+* Pero estos son de#  verdad.
+* Depende totalmente de#  ti pero sólo quería#  que supieras...
+* ...Nuestra relación#  significa mucho para#  mí.
 pacifist_cutscene
 * (Escuchas la bulla de#  los ventiladores dentro#  de la consola caliente.)	
 * (Es mejor dejarlo así.)
-* (The computer was recently#  used.)
+* (La computadora ha sido#  utilizado recientemente.)
 * (Una abrumante carga de#  pantallas y botones yacen#  frente a ti.)
 * (Presionas uno de los botones.)
 Info
@@ -15593,7 +15593,7 @@ Atrás
 * ERROR: No se pudo#  terminar la tarea.
 * Era broma ;)
 * Apagado de emergencia#  completado.
-* Why did you select this#  option then?
+* ¿Por qué ha elegido#  esta opción?
 text_box_noloop
 autowalk_direction_no_loop
 get_last_room_no_loop
@@ -15829,10 +15829,10 @@ hint_marker_alpha
 note_destroy
 fail_sound
 moving_cabinet
-* (A presence is cowering behind#  the storage cabinet.)	
-* (But it won't budge.)
-* (You notice wall cracks peeking#  out from behind the cabinet.)	
-* (Move it?)
+* (Una presencia se esconde detrás#  del armario.)	
+* (Pero no se mueve.)
+* (Notas grietas en la pared#  asomando por detrás#  del armario.)	
+* (¿Moverlo?)
 cave_y_end
 clover_y_end
 y_increase
@@ -15914,11 +15914,11 @@ Snowdin - Bosque
 Dunas - Minas del Este
 Dunas - Valle del Oasis
 Salvaje Este - Granja
-* Are you sure you want to#  drop the 
-* You cannot drop the#  
-TA-TA-TAKE#A CHILL PILL#BUDDY !
-THREE'S A CROWD !#IT'S CONCERT#TIME !
-I SEE YOUR MOVES !#GET IT GET IT !
+* ¿Estás seguro de que quieres tirar 
+* No se puede tirar el#  
+¡TO-TO-TÓMATE#UN CALMANTE#AMIGO!
+¡TRES SON MULTITUD!#¡ES HORA DEL#CONCIERTO!
+VEO TUS MOVIMIENTOS.#¡CONSÍGUELO,#CONSÍGUELO!
 MAIL TEXT
 mail_text_color
 text_draw_y
@@ -15933,7 +15933,7 @@ mail_height
 stamp_yy
 stamp_xx
 heart_y
-* Are you sure you want to#  drop the mail?
+* ¿Seguro que quieres#  tirar el correo?
 appear
 [ Presiona Z o ENTER ]
 first_time
@@ -16017,12 +16017,12 @@ walk_direction_flip
 destination_count
 up_sprite_old
 left_sprite_old
-* Hello. This is MARTLET.
-* Just kidding, I'm TESTLET.#* I'm here to show you#  how I can walk around.
-* Watch and learn, kiddo!
+* Hola. Soy MARTLET.
+* Sólo bromeaba, soy TESTLET.#* Estoy aquí para mostrarte#  cómo puedo caminar.
+* ¡Mira y aprende, niño!
 arrived
-* I bet you can't walk#  like that, scrub.
-* Testlet, out!
+* Apuesto a que no puedes#  caminar así, matorral.
+* ¡Testlet, fuera!
 martlet_fly_away
 spr_rals_up
 spr_rals_right
@@ -16034,22 +16034,22 @@ npc_move_current
 last_player_dir
 y_new
 drawpath
-* This is really bad.
-* I'm a fake test Starlo.
-* But I won't leave#  it this way!
-* (It doesn't have to be this way.)
+* Esto es realmente malo.
+* Soy una prueba falsa#  Starlo.
+* ¡Pero no lo dejaré así!
+* (No tiene por qué ser#  así.)
 * A
-* I'm really sorry about#  the pops Starlo.
-* When I see them...#  It's like a demon takes#  over.
-* Look at it from#  my point of view.
-* You're looking forward#  to some pops after a#  long hard work day...
-* Only to come home#  just to see...
-* Just to see...
-* Argh!
-* I need time...
-* Loool worth it.
-* Those pops were#  delicious.
-* What are YOU looking#  at?!
+* Siento mucho lo de las#  paletas de#  Starlo.
+* Cuando los veo... es#  como si un demonio#  se apoderara de mí.
+* Míralo desde#  mi punto de vista.
+* Te apetecen unas#  palomitas después de#  un duro día de trabajo...
+* Sólo para volver a#  casa sólo para#  ver...
+* Sólo para ver...
+* ¡Argh!
+* Necesito tiempo...
+* Loool vale la pena.
+* Esas paletas estaban# deliciosas.
+* ¡¿Qué ESTÁS mirando?!
 default_x
 default_y
 action_script
@@ -16098,17 +16098,17 @@ Oye ¡no arruinesn#mi circuito#eléctrico!
 ¡No toques eso!#En serio, voy#a lastimarte.
 ¡Vivo la vida en#gloriosa definición#estándar!#¡Nada mejor!
 Nunca oigas el#consejo de Vis.#¡Es un bocón!
-Network TV? Yeah,#I do the work,#and they net#the profits!
+¿Red de TV? ¡Sí,#yo hago el#trabajo y#ellos obtienen#los beneficios!
 xview_orig
 yview_orig
-* Just tricked some chump into#  doin' my job for me.	
-* Told 'em the Foreman wanted#  him on minecart duty, ha!	
-* What's with that look? It was#  only a prank.
-* 'Ay, why you starin'?
-* I swear, it's all you kids do!
-* Don'tcha have somewhere to#  be?	
-* Hopscotch game or somethin'?	
-* Go on, get!
+* Sólo engañé a un tonto para#  que hiciera mi trabajo#  por mí.	
+* Les dije que el capataz lo#  quería de guardia en#  el carro de minas.	
+* ¿Por qué esa mirada? Era#  sólo una broma.
+* 'Ay, ¿por qué te#  quedas mirando?
+* ¡Lo juro, es todo#  lo que hacén los#  niños!
+* ¿No tienes ningún#  sitio donde estar?	
+* ¿Jugar a la pata#  sola o algo así?	
+* ¡Vamos, vete!
 martlet_takeoff_sound
 axis_charge_sound
 sprites_water_override
@@ -16283,7 +16283,7 @@ update_talk_val
 * Es un día normal en#  el Subsuelo. Sip.
 * ...Esperemos que#  termine normal también.
 * Debemos tomar ese#  elevador a Nuevo Hogar.
-* ...Si es queno esta#  ocupado, claro.
+* ...Si es que no esta#  ocupado, claro.
 * Y aquí estamos...#  la gran ciudad.
 * No estoy segura que#  algún humano haya#  caminado estas calles.
 * Pero quién sabe, ¿no?
@@ -16303,7 +16303,7 @@ map_entry
 gml_Script_multiple_lines_gml_Object_obj_ceroba_follower_Other_10
 gml_Script_update_talk_val_gml_Object_obj_ceroba_follower_Other_10
 * Más te vale no estar#  pensando en volver a#  las Dunas.
-* Seguro amaste Wild East#  por todo lo que sé pero#  debemos concentrarnos.
+* Seguro amaste Salvaje Este#  por todo lo que sé pero#  debemos concentrarnos.
 * En otro momento, ¿okay?
 * Hm, me pregunto cuál era#  el propósito de estos#  monitores.
 * ¿Saludar trabajadores#  cuando entraban?
@@ -16366,7 +16366,7 @@ Caí en un charco
 * Escuché que New Home#  está superpoblada.
 * Algunos suburbios aquí#  y otros por allá#  deberían arreglarlo.
 * ...Quizás drenar el#  lago de sustancia mortal#  primero.
-* New Home...
+* Nuevo Hogar...
 * Lo que se quejaría#  Chujin de ese lugar.
 * Larga historia.
 * Política, creativos#  siendo creativos...#  You know.
@@ -16386,10 +16386,10 @@ Caí en un charco
 * ...No te importa,#  ¿verdad?
 * ...Bien. 
 * No entiendo a los#  humanos.
-* Looks like this way's a#  dead end.
-* Heading west might be#  best.
-* Huh. Accidental rhyme.
-* Nice.
+* Parece que este camino#  es un callejón#  sin salida.
+* Dirigirse al oeste#  podría ser lo#  mejor.
+* Huh. Rima accidental.
+* Bien.
 * No te pelearé si#  quieres subir al ferry-bot#  de nuevo pero...
 * ...no puedo decir#  que lo disfruté.
 * Ya sabes... a centímetros#  de quemarte viva#  en un jugo luminoso.
@@ -16478,7 +16478,7 @@ Caí en un charco
 * Que infierno para#  llegar.
 * Aunque él siempre fue#  un viajero.
 * Cuando nos conocimos, yo#  vivía en las montañas.
-* Mi madre me mandó a#  Oasis Valley por#  algunos cultivos.
+* Mi madre me mandó a#  Valle del Oasis por#  algunos cultivos.
 * Mientras volvía, debía#  cruzar una zanja#  honestamente grande.
 * Cuando pasaba el puente,#  me torcí el tobillo#  y caí en la zanja.
 * No podía trepar de nuevo#  sin importar cuánto lo#  intentara.
@@ -16819,7 +16819,7 @@ attack_color
 readjust
 * (Hay un libro de párrafos#  bien escritos sobre el#  escritorio.)
 * (Todos parecen ser muy#  similares.)
-* (¿Lees uno?)
+* (¿Leer uno?)
 * Dalv es un solitario que vive en# las ruinas del Hogar.
 * Le gusta pasear tranquilamente en oscuridad,#  limpiar y mejorar las canciones#  de su órgano.
 * Quiere compartir con la# juventud del Subsuelo...
@@ -17103,15 +17103,15 @@ y2
 * Confío en ti para mantener#  la paz y el orden#  del ruido.
 * Iré a conquistar nuevas#  tierras en el nombre de#  la tranquilidad.
 * Esto es un hhonor muy grande#  así que mantenlo secreto#  hhush hhush.
-* Oh hey! I was just thinking...
-* I really have to show you#  this house I'm checking out!
-* It's on a beach just#  outside of the Ruins. 
-* Hey, what's with that look?#* I'm following your advice#  and being myself. 
-* I'll just be myself in#  a really cool beach house! 
-* You gotta get out and#  live a little once in#  a while. 
-* If you stay in one place#  too long it feels like things#  start to loop. 
-* It can drive you a little#  crazy. 
-* I'm totally gonna learn all#  the hip dance moves out there!
+* ¡Oh, hola! Estaba#  pensando...
+* ¡Realmente tengo que#  mostrarte esta casa#  que estoy revisando!
+* Está en una playa a las#  afueras de las Ruinas. 
+* Oye, ¿por qué me ves asi?#*  Sigo tu consejo y#  soy yo mismo. 
+* Seré yo mismo en ¡una#  casa de playa muy bonita! 
+* Tienes que salir y vivir#  un poco de vez en#  cuando. 
+* Si te quedas demasiado#  tiempo, las cosas#  empiezan a entrar en bucle. 
+* Puede volverte un poco#  loco. 
+* ¡Voy a aprenderme todos#  los pasos de baile#  de moda!
 shoot_buffer
 turn_state
 charged_shot_type
@@ -17127,33 +17127,33 @@ fireCheck
 image_angle_final
 damage_2
 damage_3
-* Wow, I can go wherever I want#  now? I was tired of hiding#  from Dalv! 
-* You can only draw so many#  landscapes of tiny cracks and#  good hiding rocks! 
-* I finally got to see the big#  drawing of a sweet corn cob#  I made!
-* I can't believe Dalv hung#  it up!
-* I know he loves his corn#  but I can't believe he#  liked my art that much!
-* I also can't believe we've been#  friends for so long and I only#  just got to see his house!
-* I've always considered Dalv#  and me to be friends. 
-* He just likes to not#  be bothered sometimes. 
-* Entiendo. Sometimes I just#  want to be alone to do#  my art! 
-* I mean, if we weren't friends,#  I wouldn't go out of my way#  so much to give him his space! 
-* I just can't wait to sketch#  the outside!
-* Yo, Dalv is opening the door to#  Snowdin!
-* It's been so long!
-* I know what my first#  stop will be. 
-* Dump, here I come! 
-* Do you watch anime? 
-* I HIGHLY recommend it!
-* I mean some of it is#  total garbage... 
-* But most of it is SOOO good!
-* Maybe we could watch some#  together!
-* This new "not hiding" thing#  will take some getting used#  to. 
-* I wonder what kind of#  adventures I can go on#  now.
-* I could go out and solve#  the secrets of the entire#  Underground!
-* Meet every monster, brave#  every danger, see everything#  I can!
-* Maybe I'll even find#  a way back to the Surface!#* You never know!
-* Anyone can be a hero.#* Maybe you could be one#  too!
-* You might wanna get a#  new hat. That one is#  looking a bit worn.
+* Vaya, ¿ahora puedo irme?#  Estaba cansado de#  esconderme de Dalv. 
+* ¡Sólo se podia dibujar#  paisajes de grietas diminutas#  y rocas bien escondidas!
+* ¡Por fin he podido ver el#  gran dibujo de una mazorca#  de maíz dulce que hice!
+* ¡No puedo creer que#  Dalv lo haya colgado!
+* Sé que le encanta su maíz,#  ¡pero no puedo creer que#  le gustara tanto mi arte!
+* No puedo creer que seamos#  amigos desde hace mucho#  y que acabe de ver su casa.
+* Siempre considere que#  Dalv y yo somos amigos. 
+* A veces le gusta que no le#  molesten. 
+* Entiendo. ¡A veces sólo quiero#  estar solo para hacer#  mi arte!
+* ¡Si no fuéramos amigos, no#  me desviaría tanto para#  darle su espacio! 
+* ¡No puedo esperar a#  dibujar el exterior!
+* ¡Mira, Dalv está#  abriendo la puerta#  a Snowdin!
+* ¡Paso tanto tiempo!
+* Ya sé cuál será mi#  primera parada. 
+* ¡Vertedero, allá voy! 
+* ¿Ves anime? 
+* ¡Lo recomiendo#  ENCARECIDAMENTE!
+* Quiero decir que algunas#  de ellas son#  basura total... 
+* ¡Pero la mayoría es TAN#  buena!
+* ¡Quizás podríamos ver#  algo juntos!
+* Habrá que acostumbrarse#  a esto de "no#  esconderse". 
+* Me pregunto qué tipo de#  aventuras podré#  vivir ahora.
+* ¡Podría salir y resolver#  los secretos de todo el#  Subsuelo!
+* ¡Enfrentarme a todos,#  afrontar los peligros,#  ver todo lo que pueda!
+* ¡Quizá encuentre la forma#  de volver a la superficie!#* ¡Nunca se sabe!
+* Cualquiera puede ser un#  héroe.#* ¡Incluso tú puedas serlo!
+* Deberías comprarte un#  sombrero nuevo. Ese#  parece un poco gastado.
 * Ahora puedo cumplir mi#  sueño de abrir una parada#  de abrazos gratis.
 * Veré las caras#  sonrientes de todo el#  mundo. 
 * ¡Ten cuidado con Dalv!#  Ya deberías haber recibido#  un gran abrazo.
@@ -17164,18 +17164,18 @@ damage_3
 * ¡No, en serio!#  ¡Dame tu teléfono y#  te daré el número!
 * ¡Los abrazos hacen girar el mundo!
 next
-* Oh, are you hiding from#  Dalv too?
-* There isn't much room but#  you're welcome to join me!
-* I know lots of games#  to kill time!
-* How about we play count#  the dust!
-* We see who can count#  the most dust before#  getting bored!
-* Ready? Go!
-* Thirty-three, thirty-four,#  thirty-five...
-* Seventy-eight, seventy-nine...
-* ACHOO!
-* Oh dear... I lost#  count...
-* I guess you win then!
-* Is it dusty in here#  or is it just me?
+* Oh, ¿te estás escondiendo#  de Dalv también?
+* No hay mucho sitio pero#  ¡eres bienvenido!
+* ¡Conozco muchos juegos#  para matar el tiempo!
+* ¿Qué tal si jugamos a#  contar el polvo?
+* ¡A ver quién cuenta#  más polvos antes#  de aburrirse!
+* ¿Preparado?#  ¡Adelante!
+* Treinta y tres,#  treinta y cuatro,#  treinta y cinco...
+* Setenta y ocho,#  setenta y nueve...
+* ¡ACHOO!
+* Oh cielos... Perdí#  la cuenta...
+* ¡Supongo que tú#  ganas entonces!
+* ¿Hay mucho polvo aquí#  o soy yo?
 part_sys
 part_system_position
 * ¡¡Whoa!!
@@ -17223,7 +17223,7 @@ Prepárate para mi#más fuerte#ataq-
 * (Hay maíz en la telaraña.)
 * (Una mazorca de maíz.)
 * Soy FLOWEY. 
-      FLOWEY  
+     FLOWEY  
 * ¡FLOWEY la FLOR!
    FLOWEY    FLOR 
 * Pareces una persona#  bastante segura de#  sí misma.
@@ -17297,16 +17297,16 @@ Prepárate para mi#más fuerte#ataq-
 * (No se mueve.)
 dr
 * (Es un trozo de maíz#  abandonado.)
-* (¡Obtuviste un Candy Corn!)
+* (¡Obtuviste un Maíz#  Dulce!)
 * (Probablemente no sea#  lo suficientemente bueno#  para ti.)
-* (A beautiful, delicious-looking#  Golden Pear catches your eye.)
-* (You got the Golden Pear!)
-* (Beauty is in the eye#  of the beholder anyway.)
+* (Una hermosa Pera Dorada#  de aspecto delicioso#  descubre tu mirada.)
+* (¡Obtuviste una#  Pera Dorada!)
+* (De todos modos, la belleza#  está en el ojo#  del que mira.)
 * (Una pequeña pila de piedras#  convenientemente en forma de#  bala.)
-* (Obtuviste Piedras!)
+* (¡Obtuviste Piedras!)
 * (Las piedras son muy#  peligrosas.)
 * (Es una pluma perdida.)
-* (¡Ahoras tienes una#  Stray Feather!)
+* (¡Ahoras tienes una#  Pluma Perdida!)
 * (Lo ignoras.#* Lo callejero no son más#  que problemas.)
 footstep_counter
 pitch
@@ -17314,8 +17314,8 @@ ms
 new_petal
 * (Es una caja con maíz "especial"#  escrito en crayón rosa.)
 * (No queda nada útil.)
-* (Hay un Corn Dog escondido#  entre las mazorcas de maíz.)
-* ¡Obtuviste un Corn Dog!
+* (Hay un Perro de Maíz#  escondido entre#  las mazorcas de maíz.)
+* ¡Obtuviste un Perro#  de Maíz!
 * (Podría morderte.)
 * Tengo la impresión#  de que te gusta#  rodar solo.
 * Ya sabes, aún no#  acepta mi oferta#  de "guardar".
@@ -17330,7 +17330,7 @@ new_petal
           guardar 
 * Talvez lo olvidaste.
 * Espera...	
-* ¿Esto es por mi vaga#amenaza de antes?
+* ¿Esto es por mi vaga#  amenaza de antes?
 * ¡Solo estaba bromeando¡#  ¡Ya me conoces!
 * Oh, bueno,#supongo que todavía no.
 * Heh, que problema...
@@ -17341,15 +17341,15 @@ new_petal
 * ¿Te lo esperabas?
 * Soy un poco más#  útil de lo que pensabas.
 * Cualquier cosa que no#  puedas hacer por ti#  mismo es mi trabajo.
-* Gran trabajo#  llegando hasta aquí!
+* ¡Gran trabajo#  llegando hasta aquí!
 * Chico, me alegro#  de estar de tu lado.
 * Prepárate porque#  nos espera un#  largo viaje.
 * ¡Esto va a ser muy#  divertido!
 * ¡Te veré en el#  otro lado, amigo!
-* You hear movement in the#  distance...
+* Se oye movimiento a#  lo lejos...
 arrow
 finish
-* The Micro Froggits are waving#  goodbye.
+* Los Micro Froggits#  se despiden.
 soul_switch_treshold
 exitCutscene
 fadeAlpha
@@ -17374,11 +17374,11 @@ part_startEm
 * (Era solo un poco de#  suciedad en la nieve.)
 * (Te limpias la mano#  en una sospechosa marca#  en la pared de roca.)
 * (Requiere una autodisciplina#  considerable, pero ignoras#  la roca interesante.)
-* Seems like the base of a#  snowdog.
-* Touch it?
-* It was just some dirt in the#  snow.
-* You wipe off your hand on a#  suspicious carving in the rock#  face.
-* It takes considerable#  self-discipline, but you ignore#  the interesting rock.
+* Parece la base de un#  perro de nieve.
+* ¿Tocarlo?
+* Era sólo un poco de suciedad#  en la nieve.
+* Te limpias la mano en una3  sospechosa talla en#  la pared rocosa.
+* Requiere una autodisciplina#  considerable, pero ignoras#  la roca interesante.
 dir_speed
 dir_speed_max
 point_x_1
@@ -17631,8 +17631,8 @@ slurpy_solution
 * ...Desafortunadamente no de#  una forma pertinente, pero#  bueno... una notificación.
 * (Es un árbol.#  Nada especial.)
 * (Un árbol viejo y frágil.)
-* (¿Tomar los Ice Pellets?)
-* (¡Obtuviste Ice Pellets!)
+* (¿Tomar bolitas de hielo?)
+* (¡Obtuviste Bolitas de#  Hielo!)
 * Decia, "Si la vida te viene#  demasiado deprisa, pulsa 
  y#  tomatelo  con calma."
 kiosk_hsp
@@ -17647,7 +17647,7 @@ men_vsp
 * Si todo falla, solo#  bailaré aquí afuera. Nadie#  puede detenerme.
 Don natural
 Brick toys
-* Viajaste con Martlet#  antes de llegar a Wild#  East, ¿verdad?
+* Viajaste con Martlet#  antes de llegar a#  Salvaje Este, ¿verdad?
 * Ella es como una#  reparadora si recuerdo#  bien.
 * ¿Te enseñó algo de cómo#  construir cacharros?
 * Parecías saber lo que#  estabas haciendo...
@@ -17704,13 +17704,13 @@ Cancelar
 * ¿No pudiste mantenerte#  alejado?
 * Bueno-BAM-Tome su elección.
 * Gran elección.
-* Disfruta de ese Pop, amigo.
+* Disfruta de esa#  paleta, amigo.
 * Lo siento, amigo.#  Voy a necesitar más#  ORO que eso.
 * Uh-oh, parece que#  no tienes espacio para#  este item.
 * Vuelve cuando hayas#  hecho algo más de#  espacio.
 * ¡Qué artículo tan popular!#  Ojalá pudiera venderte más,#  pero se me han acabado.
 * ¡Eh, qué haces ahí!
-* ¡Eso no es un Pop!
+* ¡Eso no es una paleta!
 * ¿Me estás abandonando?#  ¿No te interesa mi#  mercancía?
 * ¿No tengo tu temperatura#  preferida?
 * Ah, ya veo. Necesitas algo#  de tiempo para pensarlo.
@@ -18222,7 +18222,7 @@ gml_Script_state_switch_gml_Object_obj_battle_enemy_attack_macro_knight_Step_0
 * Si no fuera muy perezoso,#  iría al Honeydew Resort y me#  tomaría un café caliente.
 * ¿Para mí? ¿Cómo#  podría agradecértelo?
 * Toma, encontré esto en#  la nieve. Probablemente#  estuvo allí por años.
-* (Obtuviste un Soggy Mitten.)
+* (Obtuviste un Guante Mojado.)
 * El café está un poco caliente.
 * Voy a dejarlo enfriar.#  No estoy loco, sabes.
 * Mientras tanto, me pondré#  a hacer una fogata para#  no congelarme.
@@ -18243,7 +18243,7 @@ gml_Script_state_switch_gml_Object_obj_battle_enemy_attack_macro_knight_Step_0
 platform
 chain
 fall
-Silver [Ag]
+Plata [Ag]
 * El elemento de la decepción.
 clover_fall
 * Extraño.
@@ -18409,52 +18409,52 @@ aviator_xspd
 * ¿No es ella una belleza?#* Los barcos son naves,#  ya sabes.
 * La llamo Ava para#  abreviar. ¿No es lindo?
 * ¿Subir al barco?
-* ¡TÚ, ESCUCHA! KNOW CONE#  TIENE UN PLAN!
-* ¡IR A LA CIMA DE UNA GRAN#  COLINA! ¡GRAN GRAN COLINA!
-* ¡PODER VER TIERRAS CALIENTES#  DESDE GRAN COLINA!
-* ¡FUEGO LEJANO NO LASTIMA#  A KNOW CONE!
-* ¡KNOW CONE ESTA ORGULLOSO#  DE SU PLAN!
-* ¡KNOW CONE SE HACE PROMESA#  INTELECTUAL!
-* ¡E IRÁ VER FUEGO!
+* ESCUCHA! KNOW CONE TIENE UN#  PLAN!
+* ¡VOY A IR A GRAN MONTAÑA!#  ¡GRANDE GRANDE! 
+* ¡PODER VER HOTLAND DESDE#  MONTAÑA!
+* ¡DISPARAR LEJOS Y NO A#  KNOW CONE!
+* ¡KNOW CONE ORGULLOSO#  DEL PLAN!
+* ¡KNOW CONE PROMESA#  INTELECTUAL!
+* ¡Y CONSIGUE VER#  FUEGO!
 * ¡Pinch pinch!
 * ¡Solo bromeo!
-* Me alegra mucho que la#  Guardia Real proteja#  nuestro hogar.
-* Bueno, no mi hogar en#  realidad.
-* ¡Mi hogar está en mi#  espalda y lo protejo#  a toda costa!
-* O.. ¿él me protege a mi?
-* ¡Es una relación de#  beneficios mutuos!
-* He estado pensando en#  mudarme pronto a#  decir verdad.
-* ¡Hay muchos lugares#  interesantes allá#  afuera!
-* Fui de vacaciones a#  Wild East hace un#  tiempo.
-* Quizás debería mudarme#  allí, parecía muy#  cool.
-* Al menos basado en mi#  experiencia como turista.
+* Me alegra que la Guardia#  Real proteja nuestro hogar.
+* Bueno, en realidad no es#  mi casa.
+* ¡Mi casa está en mi espalda#  y la protejo a toda costa!
+* O... ¿mi casa me protege#  a mi?
+* ¡Es una relación de#  beneficio mutuo!
+* He estado pensando en#  mudarme pronto.
+* ¡Hay tantos buenos#  lugar por ahí!
+* Me tomé unas vacaciones en#  el Viejo Este hace tiempo.
+* Quizá me mude allí, se#  ve bastante bien.
+* Al menos, basado en mi#  experiencia como turista.
 * Zzz ... zzz
 * ... ngh uh... mmm...
-* ... no, no sé donde está..#  el pudín...
-* El pudín... es... zzz
-* ¡Y-Yo estoy despierto!#  Si -uh- ¡despierto! 
-* ¿H-hay escuela hoy?
-* ¿Llego tarde? ¿Me lo perdí?
+* ... no no sé donde está el...#  pudín...
+* El pudín... está... zzz
+* E-E, ¡Estoy! Si,#  ¡Estoy despierto! 
+* ¿Hay clases hoy?
+* ¿Llego tarde? ¿Me las he#  perdido?
 * ¿Qué hora es?
-* Aw, nunca seré capaz de#  volver a dormir ahora.
-* Estaba teniendo un gran sueño#  acerca de pudín de#  clementina.
-* Era delicioso y ahora nunca#  *BOSTEZO* podré...
-* podré... volver a... a dor#  ... zzz.
-* Tengo mucho alivio ahora.
-* Todos estan a salvo en el#  piso ahora.
-* Amo el piso de aquí,
-* un montón de nieve suave para#  un aterrizaje tranquilo.
-* Me pregunto si solo niños#  tienen que lidiar con#  esto.
-* Monstruos trepando a tu cabeza#  digo.
-* ¿Tienes algún consejo para#  quitar huellas del pelaje?
-* Hey, ¿dónde irás ahora?
-* ¿Algún lugar emocionante?
+* Aw, ahora no voy a ser#  capaz de dormir.
+* Estaba teniendo un sueño#  buenísimo sobre pudín de#  clementina.
+* Estaba delicioso y ahora#  no *BOSTEZO* seré...
+* Capaz... de poder... volver#  a... zzz.
+* Estoy tan aliviado ahora.
+* Todo el mundo está a salvo.
+* Amo estar aquí,
+* Hay bastante nieve y es#  segura de andar.
+* Me pregunto si solo los#  niños tienen que lidar#  con esto.
+* Monstruos caminando por#  tu cabeza, digo.
+* ¿Tienes algún buen consejo#  para quitar huellas de#  la piel?
+* ¿Hey, ahora donde te vas?
+* ¿Un lugar emocionante?
 * ¿Puedo ir?
-* ¡Puedo ser de utilidad si#  me dejas ir!
-* ¡Puedo ser, um, uh-un#  sombrero!
-* ¡Puedo ser un gran sombrero!#  ¡Mantendré tu cabeza cómoda#  y calentita!
-* ¿Quieres un sombrero cómodo?
-* ¡Puedo mantener tus orejas#  calientes!
+* ¡Puedo ayudarte si me#  dejas ir!
+* Puedo ser, um, un-u sombrero!
+* ¡Seré un buen sombrero!#  ¡Mantendré tu cabeza limpia#  y calentita!
+* ¿Quieres un gorro bien#  calentito?
+* ¡Puedo mantener tus orejas#  calentitas!
 feather_direction
 feather_radius_increase
 feather_angle_increase
@@ -18934,7 +18934,7 @@ launch_timer_max
 arrow_alpha
 soul_dir
 * Minas del Este.
-Astatine [At]
+Astatina [At]
 . . . ¿Cómo has conseguido#  esto?
 * (Observas una hebilla de#  cinturón desechada en uno#  de los compartimentos.)
 * (¡Has "tomado prestada"#  una hebilla de acero!)
@@ -19166,8 +19166,8 @@ npc_clover
 * HORARIO DE APERTURA#  LUN-VIE: 8:00 - 16:00#  SÁB-DOM: 8:00 - 14:00
 * PAUSA PARA COMER#  12:00 - 12:15
 glass_width
-* (¿Tomar los mug shards?)
-* (¡Obtuviste Glass Ammo!)
+* (¿Tomar los trozos#  de taza?)
+* (¡Obtuviste Munición#  de Vidrio!)
 fortune
 fortune_ready
 * ¡Hola, viajero!
@@ -19234,7 +19234,7 @@ cur_minute
 * ¡Gah! ¡Lo siento mucho!
 * Me han confundido con un#  humano demasiadas veces.
 * Algunos incluso me reconocen#  ahora. Tal vez debería#  conocerlos mejor...
-* You kinda look like the same#  might've happened to you.
+* Parece como si te hubiera#  pasado lo mismo.
 * Vestirse como no lo haría#  un humano es un buen comienzo,
 * pero mucha gente de aquí no#  conoce los matices de#  la ~moda humana~.
 * Quizás ponerme como dos#  o tres sombreros más.
@@ -19257,7 +19257,7 @@ player_npc
 * ¿Recuerdas que te dije#  que detuve a un humano#  la semana pasada?
 * ¡Eeees ella!
 * ????????????
-* ¿Todavía crees que soy...#  tu capitán te explicó#  que no soy humana, verdad?
+* ¿Todavía crees que soy...#  tu capitán te explicó#  que no soy humana, ¿verdad?
 * Por favor, dime que#  lo hizo.
 * ¡Oh! ¡Lo siento#  mucho! Solo pensé#  que...
 * No, no, lo siento,#  es solo que...
@@ -19348,8 +19348,8 @@ player_npc
 * (¡Obtuviste un Spider Donut!)
 * Eres muy amable.#  ¡Que tenga un buen día!
 Escribe un número.
-* ¿Visitando desde el Wild East,#  verdad?
-                      Wild East            
+* ¿Visitando desde el#  Salvaje Este,#  verdad?
+                     #  Salvaje Este            
 * Debo decir que no he#  visto tu cara por aquí.
 * ¡Bienvenido a mi casa,#  jovencito!
 * Como habrás notado,#  tengo un don para la#  preservación de la vida.
@@ -19385,8 +19385,8 @@ object_is_active
 * (En las buenas y en las malas,#  y con el paso del tiempo,#  ¡el retoño florecerá!)
 * (Lo que antes era una idea#  en la mente de alguien es#  ahora una realidad.)
 * (Un poco de trabajo duro y#  dedicación es lo que se necesita#  para hacer algo especial.)
-* ¡Bienvenido a Oasis Valley!
-                Oasis Valley 
+* ¡Bienvenido al Valle del#  Oasis!
+                 Valle del#  Oasis 
 * ¡Hogar de la mayor masa de#  agua de las Dunas!
 in_battle_twitch_timer
 turns_passed_max
@@ -19479,9 +19479,9 @@ party_member_present_martlet
 * Recuerdo que este juego#  funcionaba más#  eficientemente en el pasado.
 * La presión del aire parece#  haber sido manipulada#  o algo así.
 * Teniendo en cuenta que esta#  mesa se dobla como la AC,#  no son buenas noticias.
-* Este es el único lugar que#  tiene tendencias modernas#  en las Dunes.
+* Este es el único lugar que#  tiene tendencias modernas#  en las Dunas.
 * ¿Cómo viven los monstruos#  sin la vieja electricidad?
-* ¡Especialmente los de Wild#  East!
+* ¡Especialmente los de#  Salvaje Este!
 * Esa vida no es para mí.
 * Por cierto, últimamente he#  oído hablar de reforestar#  las Dunas.
 * No sé cómo, pero#  ¡yo lo apoyo!
@@ -19601,8 +19601,8 @@ Capataz
 * Pasos de bebé.
 * He oído que hay#  varios peligros#  alrededor de las Dunas.
                  #                 #                   Dunas
-* Espero que no sean#  del Wild East#  gastando bromas.
-                    #      Wild East                 
+* Espero que no sean#  del Salvaje Este#  gastando bromas.
+                    #      Salvaje Este                 
 * Suelen salirse de#  la línea de vez#  en cuando.
 * No puedo evitar sentir#  que son una mala#  influencia para Moray.
 * Ah, estos asuntos no#  te interesan. Me#  disculpo.
@@ -19626,7 +19626,7 @@ Capataz
 * Si necesitas un lugar#  donde esconderte,#  puedes quedarte aquí.
 * Odiaría que un joven#  como tú se metiera#  en problemas.
 * Espero que el#  pequeño Moray#  esté bien...
-* Tengo que ir al#  Wild East en cuanto#  pueda.
+* Tengo que ir al#  Salvaje Este en cuanto#  pueda.
 * Bruh...
 target_bounds_left
 target_bounds_right
@@ -20250,7 +20250,7 @@ anim_grow
 * Roncar, hablar dormido,#  crujir los dientes...#  es bastante agotador.
 * Aunque no puedo quejarme#  mucho. Es un lugar#  gratis para vivir.
 * Verás, en el pasado,#  no vivía aquí.
-* Tengo... bueno, tenía un#  lugar cerca de Oasis#  Valley.
+* Tengo... bueno, tenía un#  lugar cerca del Valle#  del Oasis.
 * Supongo que lo superé...#  me mudé aquí hace#  unas semanas.
 * Star y yo hemos sido#  amigos desde la infancia,#  así que no hay renta.
 * Es agradable...
@@ -20618,8 +20618,8 @@ starlo_x_original
 * Esta ciudad está llena#  de emoción.#  Especialmente ahora.
 * ¡Vámonos, amigos!
 * Oh, y Plumitas...
-* Bienvenida a The Wild#  East.
-               The Wild#  East 
+* Bienvenida al Salvaje#  Este.
+                Salvaje#  Este 
 * ¿No puede uno descansar algo?
 * ¡Me pusieron en revisión#  médica toda la tarde! 
 * Apenas puedo mover los#  dedos, ¡y mucho menos#  lavarlos con tu jabón raro!
@@ -21160,7 +21160,7 @@ blackjack_npc
 * Bien, Movámonos.
 * ¡Veamos qué tienes!
 * Toma esta fiel pistola#  como un regalo de#  mi parte.
-* (¡Obtuviste un Wild#  Revolver!)
+* (¡Obtuviste un Revólver#  Salvaje!)
 * ¡Seguro que apruebas#  esta parte del#  entrenamiento!
 * Tengo que contarle esto#  a Ceroba.
 * Duda mucho cuando se#  trata de ti.
@@ -21178,7 +21178,7 @@ circle_r_max
 wind_sound
 * ¿Por qué ocurrió esto?
 * Hice todo lo posible#  para entretener...
-* ...para que todos#  no se preocuparan de#  estar aquí abajo.
+* ...para que nadie#  se preocupara de#  estar aquí abajo.
 * En todo momento#  intenté animar a#  Ceroba...
 * Solo quería a Kanako#  fuera de su mente.
                 Kanako                   
@@ -21258,7 +21258,7 @@ wind_sound
 * Supongo que ahora le falta#  confianza. ¿No es triste?
 * Los cultivos se ven muy bien,#  si me permites decirlo.
 * Te daría un poco, pero aún#  no están listos para comer.
-* Si estás por Oasis Valley#  este fin de semana, ¡pásate por#  el mercado de agricultores!
+* Si estás en Valle del Oasis#  este fin de semana, ¡pásate por#  el mercado de agricultores!
 * Lo siento, no puedo hablar#  mucho. Me estoy preparando#  para la cosecha.
 * (Debe ser una de esas#  personas del Salvaje Este.)
 * ¿Eh? No, no he dicho#  nada.
@@ -21424,11 +21424,11 @@ ball_delay_list
 tile_alpha
 * El generador ya ha sido puesto#  en marcha.
 flicker_count
-* ERROR: COOLANT PRESSURE LOW
-* GENERATOR STATUS: UNSTABLE
-* Gee, wonder how that#  came to be?
-* I think I'm gonna start#  praying for our safety.
-* Ya know, in case the#  facility explodes while#  we're knee deep in it.
+* ERROR: PRESIÓN DE#  REFRIGERANTE BAJA
+* ESTADO DEL GENERADOR:#  INESTABLE
+* Vaya, ¿me pregunto cómo#  llegó a ser eso?
+* Creo que voy a empezar#  a rezar por nuestra#  seguridad.
+* Ya sabes, por si la#  instalación explota#  mientras estemos dentro.
 part_smokesys_back
 part_smokesys_front
 part_smokeEm_back
@@ -21493,7 +21493,7 @@ item_4_yy
 * Intenta buscar cosas#  que podamos usar. Con#  algunas debe bastar.
 player_carrying_item
 * ¿Quiéres usar esto?
-Positivo
+Afirmativo
 Negativo
 editor_sprite
 * Busca otra cosa entonces.
@@ -21567,7 +21567,7 @@ dbox_xx
 dbox_yy
 dbox_width
 dbox_height
-{0} - Select/Place#{1} - Cancel selection#{2} - Rotate/Scale item
+{0} - Seleccionar/Poner#{1} - Cancela selección#{2} - Rotar/Escalar item
 butt1_xx
 butt1_yy
 butt1_width
@@ -21799,16 +21799,16 @@ Tus fondos son#insuficientes,#niño.
 Deja de cargar#tanto.
 No me#interesa.
 ¿Qué quieres#saber?
-Go away.
-Choose an#item!
-Curse my#programming.
-Item#dispensed!
-You are broke.#lol.
-* You do not have enough money#  :[
-You can't#carry any#more. Too#bad.
-You do not#have enough#space :[
-Thank you#for backing#out.
-Changed your#mind?
+Vete.
+¡Elija un#item!
+Maldigo mi#programación.
+¡Item#dispensado!
+Estás quebrado.#lol.
+* No tienes suficiente dinero#  :[
+No puedes#llevar más.#Muy mal.
+No tienes#suficiente#espacio :[
+Gracias#por#retirarte.
+¿Has cambiado#de opinión?
 * Porque#  porque-
 * ¿Sí?
 ¡Observalo!
@@ -22173,7 +22173,7 @@ Chujin
 * Floración tardía. Sabes#  como es.
 * ¡Claro que sí!
 * ¡Claro que sí!#* < Bits no obtuvo su boca#  hasta los nueve años. >
-* Bueno uh, fue lindo#  conocerlos pero tenemos que#  irnos. ¿No es así,#  querido hijo?
+* Bueno uh, fue lindo#  conocerlos pero tenemos# que irnos. ¿No es así,#  querido hijo?
 * (Termina tús asuntos,#  por favor.)
 box_sndfnt
 * (En serio no tenemos#  tiempo para charlar. Tal#  vez luego, ¿okei?)
@@ -22225,7 +22225,7 @@ Hotland (NUEVO)
 * Oh, ¡eres un pesado!#
 * ...¿Tengo razón? ¿Lo entiendes?#
 * ...¿Tengo razón? ¿Lo entiendes?#* < Cállate. >
-Toriel? (NUEVO)
+¿Toriel? (NUEVO)
 * Honestamente, no sé mucho#  sobre la antigua reina. Su#  paradero, como está...#  Todo un misterio.#
 * Por supuesto, no son asuntos míos#  así que no lo he investigado.#
 * Por supuesto, no son asuntos míos#  así que no lo he investigado.#* < He visto tu reserva de#  revistas de chismes.#  No le mientas al cliente. >#
@@ -22447,123 +22447,123 @@ text_separation_overworld
 obj_dialogue_box_overworld
 text_vdisjoint_overworld_normal
 text_hdisjoint_overworld_normal
-Cura 10 HP#* Has a distinct,#  non-licorice flavor.
+Cura 10 PV#* Tiene un sabor,#  distinto al regaliz.
 Croquet Roll
-Cura 15 HP#* Fried dough traditionally served with a mallet.
+Cura 15 PV#* Masa frita servida#  tradicionalmente con un mazo.
 Stick
-Weapon AT 0#* Its bark is worse than#  its bite.
+Arma AT 0#* Ladra más de lo#  que muerde.
 Bandage
-Cura 10 HP#* It has already been used several times.
+Cura 10 PV#* Ya se ha usado#  varias veces.
 Rock Candy
-Cura 1 HP#* Here is a recipe to make this at home: 1. Find a rock
+Cura 1 PV#* Aquí hay una receta para hacerlo#  en casa: 1. Encuentra una roca
 Pumpkin Rings
-Cura 8 HP#* A small pumpkin cooked like onion rings.
-Cura 12 HP#* A donut made with Spider Cider in the batter.
+Cura 8 PV#* Una calabaza pequeña cocinada#  como anillos de cebolla.
+Cura 12 PV#* Una dona con cidra#  de araña en la masa
 Stoic Onion
-Cura 5 HP#* Even eating it raw, the tears just won't come.
+Cura 5 PV#* Incluso comiendolo crudo,#  Las lagrimas no salen.
 Ghost Fruit
-Cura 16 HP#* If eaten, it will never pass to the other side.
+Cura 16 PV#* Si se come, nunca#  pasará al otro lado.
 Spider Cider
-Cura 24 HP#* Made with whole spiders, not just the juice.
+Cura 24 PV#* Hecho con arañas,#  no solo el jugo.
 Butterscotch Pie
-All HP#* Butterscotch-cinnamon pie, one slice.
+Cura todos los PV#* Una porcion de tarta#  de caramelo con canela.
 Faded Ribbon
-Armor DF 3#* If you're cuter, monsters won't hit you as hard.
-Weapon AT 3#* Made of plastic. A rarity nowadays.
+Armadura DF 3#* Si eres guapo,#  no te pegarán tan fuerte.
+Arma AT 3#* Hecha de plastico.#  Una rareza en estos días.
 Tough Glove
-Weapon AT 5#* A worn pink leather glove. For five-fingered folk.
+Arma AT 5#* Un guante de cuero rosa#  desgastado. Para gente de 5 dedos.
 Manly Bandanna
-Armor DF 7#* It has seen some wear. It has abs drawn on it.
+Armadura DF 7#* Se ha desgastado un poco.#  Tiene abdominales dibujados.
 Snowman Piece
-Cura 45 HP#* Please take this to the ends of the earth.
+Cura 45 PV#* Por favor, lleva esto a#  los confines de la tierra.
 Nice Cream
-Cura 15 HP#* Instead of a joke, the wrapper says something nice.
+Cura 15 PV#* En vez de un chiste, la#  envoltura dice algo bonito.
 Puppydough Icecream
-Cura 28 HP#* Made by young pups.
+Cura 28 PV#* Hecho por cachorritos.
 Bisicle
-Cura 11 HP#* It's a two-pronged popsicle, so you can eat it twice.
+Cura 11 PV#* Es una paleta de dos puntas,#  puedes comerla dos veces.
 Unisicle
-Cura 11 HP#* It's a SINGLE-pronged popsicle. Wait, that's just normal...
+Cura 11 PV#* Es una paleta de una punta.#  Espera, es una paleta normal...
 Cinnamon Bun
-Cura 22 HP#* A cinnamon roll in the shape of a bunny.
+Cura 22 PV#* Un rollo de canela#  en forma de conejo.
 Temmie Flakes
-Cura 2 HP#* It's just torn up pieces of colored construction paper.
+Cura 2 PV#* Son trozos de#  cartulina de colores
 Abandoned Quiche
-Cura 34 HP#* A psychologically damaged spinach egg pie.
+Cura 34 PV#* Un pastel de huevo con#  espinacas mentalmente lastimado.
 Old Tutu
-Armor DF 10#* Finally, a protective piece of armor.
+Armadura DF 10#* Finalmente, una pieza#  de armadura protectora.
 Ballet Shoes
-Wpn AT 7#* These used shoes make you feel incredibly dangerous.
+Arma AT 7#* Estos zapatos usados te hacen#  sentir increíblemente peligroso.
 Punch Card
-Battle Item#* Use to make punching attacks stronger in one battle. Use outside of battle to look at the card.
+Item de combate#* Hace más daño en combate.#  Usalo fuera de combate para mirarlo.
 Annoying Dog
-Dog A little white dog. It's fast
+Un pequeño perro blanco.#  Es rápido
 Dog Salad
-Cura ?? HP#* Recovers HP. (Hit Poodles.)
+Cura ?? PV#* Recupera PV.#  (Caniches Golpeados.)
 Dog Residue
-Dog Item Shiny trail left behind by a dog.
-Dog Item Dog-shaped husk shed from a dog's carapace.
-Dog Item Dirty dishes left unwashed by a dog.
-Dog Item Glowing crystals secreted by a dog.
-Dog Item Jigsaw puzzle left unfinished by a dog.
-Dog Item Web spun by a dog to ensnare prey.
+Objeto perro. Un rastro brillante#  dejado por un perro.
+Objeto perro. Cáscara en forma de perro#  desprendida del caparazón.
+Objeto perro. Platos sucios dejados#  por un perro.
+Objeto perro. Cristales brillantes#  segregados por un perro.
+Objeto perro. Rompecabezas dejado sin#  terminar por un perro.
+Objeto perro. Telaraña tejida por un perro#  para atrapar a su presa.
 Astronaut Food
-Cura 21 HP#* For feeding a pet astronaut.
+Cura 21 PV#* Para alimentar una#  mascota astronauta.
 Instant Noodles
-Cura HP#* Comes with everything you need for a quick meal!
+Cura PV#* Viene con lo necesario#  para una comida rápida!
 Crab Apple
-Cura 18 HP#* An aquatic fruit that resembles a crustacean.
-Cura 20 HP#* The "meat" is made of something#  called a "water sausage."
+Cura 18 PV#* Fruta acuática parecida#  a un crustáceo.
+Cura 20 PV#* La "carne" está hecha de algo#  llamado "salchicha en agua".
 Hot Cat
-Cura 21 HP#* Like a hot dog, but with little cat ears on the end.
+Cura 21 PV#* Como un perro caliente, pero#  scon orejitas de gato al final.
 Glamburger
-Cura 27 HP#* A hamburger made of edible glitter and sequins.
-Cura 10 HP#* Made from glowing marshwater. Increases SPEED for one battle.
+Cura 27 PV#* Una hamburguesa hecha de brillantina#  y lentejuelas comestibles..
+Cura 10 PV#* Hecho de agua de pantano brillante.#  Aumenta la VELOCIDAD en un combate.
 Starfait
-Cura 14 HP#* A sweet treat made of sparkling stars.
+Cura 14 PV#* Una golosina hecha de#  estrellas brillantes.
 Legendary Hero
-Cura 40 HP#* Sandwich shaped like a sword. Increases ATTACK when eaten.
+Cura 40 PV#* Emparedado con forma de espada.#  Aumenta el ATAQUE al comerlo.
 Butty Glasses
-Armor DF 6#* Glasses marred with wear. Increases INV by 9. (After you get hurt by an attack, you stay invulnerable for longer.)
+Armadura DF 6#* Gafas estropeadas por el uso. Aumenta la INV en 9. (Después de ser herido, eres invulnerable durante más tiempo.)
 Torn Notebook
-Weapon AT 2#* Contains illegible scrawls. Increases INV by 6. (After you get hurt by an attack, you stay invulnerable for longer.)
+Arma AT 2#* Contiene garabatos ilegibles. Aumenta la INV en 6. (Después de ser herido, eres invulnerable durante más tiempo).
 Stained Apron
-Armor DF 11#* Cura 1 HP every other turn.
+Armadura DF 11#* Cura 1 PV cada#  dos turnos.
 Burnt Pan
-Weapon AT 10#* Damage is rather consistent. Consumable items heal 4 more HP.
+Arma AT 10#* El daño es bastante consistente.#  Los item consumibles curan 4 PV más.
 Cowboy Hat
-Armor DF 12#* This battle-worn hat makes you want to grow a beard. It also raises ATTACK by 5.
+Armadura DF 12#* Este sombrero te da ganas de dejarte barba. También aumenta el ATAQUE en 5.
 Empty Gun
-Weapon AT 12#* An antique revolver. It has no ammo. Must be used precisely, or damage will be low.
+Arma AT 12#* Un revólver antiguo. No tiene munición. Debe usarse con precisión, o el daño será bajo.
 Heart Locket
-Armor DF 15#* It says "Best Friends Forever."
+Armadura DF 15#* Dice "Mejores#  amigos por siempre."
 Worn Dagger
-Weapon AT 15#* Perfect for cutting plants and vines.
+Arma AT 15#* Perfecto para cortar#  plantas y enredaderas.
 Real Knife
-Weapon AT 99#* Here we are!
+Arma AT 99#* ¡Ya llegamos!
 The Locket
-Armor DF 99#* You can feel it beating.
+Armadura DF 99#* Lo puedes sentir latir.
 Bad Memory
-Hurts 1 HP#* ?????
+Lastima 1 PV#* ¿¿¿¿¿?????
 Dream
-Cura 12 HP#* The goal of "Determination."
+Cura 12 PV#* El objetivo de#  la "Determinación".
 Undyne's Letter
-Unique Letter written for Dr. Alphys.
+Carta única escrita para la Dra. Alphys.
 Undyne Letter EX
-Unique It has DON'T DROP IT written on it.
-Cura 13 HP#* Regular old popato chisps.
+Tienes escrito unicamente#  NO LO TIRES en él
+Cura 13 PV#* Papas fritas normales.
 Junk Food
-Cura 17 HP#* Food that was probably once thrown away.
+Cura 17 PV#* Comida que probablemente#  se tiró.
 Mystery Key
-Unique It is too bent to fit on your keychain.
+Unica que está doblada#  para caber en el llavero.
 Face Steak
-Cura 60 HP#* Huge steak in the shape of Mettaton's face. (You don't feel like it's made of real meat...)
+Cura 60 PV#* Enorme filete con la forma de la cara de Mettaton. (No parece que esté hecho de carne de verdad...)
 Hush Puppy
-Cura 65 HP#* This wonderful spell will stop a dog from casting magic.
+Cura 65 PV#* Este maravilloso hechizo#  impedirá que un perro haga magia.
 Snail Pie
-Cura Some HP#* An acquired taste.
+Cura Algún PV#* Un gusto adquirido.
 temy armor
-Armor DF 20#* The things you can do with a college education! Raises ATTACK when worn. Recovers HP every other turn. INV up slightly.
+Armadura DF 20#* ¡Lo que hace una educación universitaria! Aumenta el ATAQUE. Recupera PV cada dos turnos. Aumenta ligeramente el INV.
 * "
 "
 bullet_distance_min
@@ -22838,8 +22838,8 @@ guardener_pitch
 * LA VIDA ERA. .. M-MUCHO MEJ>OR...
 * _SIN ;SABER...  .
 * Mejor... sigamos.
-* There had to be some#  other way...
-* Let's just... keep#  moving.
+* Tenía que haber#  otra forma...
+* Sigamos... moviéndonos.
 guardener_arms_sound
 was_invisible
 image_speed_normal
@@ -23056,29 +23056,29 @@ flowey_depth_og
 background_alpha
 path_noloop
 pl_path
-* Glad I was able to catch#  ya in time!
-* What is this, the third#  tumble you've survived#  on your journey?
-* For having the name#  "Clover" you sure aren't#  lucky!
-* I'm only kiddin' around#  of course.
-* I'd say you're more of#  a machine than that bot#  up there, haha!
-* Gosh, I hoped we had a#  straight shot to an exit#  but... of course not.
-* If you meet that hunk#  of metal again, try not#  to get caught.
-* Or... ya know...#  killed.
-* Although, dying WOULD#  save more time now that#  I think about it...
-* I could just revive ya#  on the spot!
-* No amount of gruesome#  deaths could stop ol'#  Clover!
-* Ain't that neato?
-* (A cork board with several#  unimportant notes on it.)
-* (A few sticky notes are pinned#  to the cork board.)	
-* Will someone tell Dr. Fish to#  stop using the lab to create#  colored slime?	
-* I don't care if it makes funny#  noises, it does not count as#  work.
-* Todo: -Try new things -Fail#  miserably -Quit my job.
-* (A few sticky notes are pinned#  to the cork board.)
-* (This one consists of all 31#  trillion numbers of pi written#  in crayon.)
-* (This one points to the note#  with the pi numbers.)	
-* What a showoff.
-* Check it: pi x infinity.	
-* Owned B)
+* ¡Me alegro de haberte#  descubierto a#  tiempo!
+* ¿Qué es esto, la tercera#  voltereta a la que#  sobrevives en tu viaje?
+* ¡Para tener el nombre de#  "Clover" seguro que#  no tienes suerte!
+* Sólo estoy bromeando#  por supuesto.
+* Yo diría que eres más#  máquina que ese robot#  de ahí arriba, ¡jaja!
+* Dios, esperaba que#  tuviéramos una salida#  directa pero... no.
+* Si vuelves a encontrarte#  con ese pedazo de metal,#  intenta que no te vea.
+* O... ya sabes...#  asesinado.
+* Aunque, GUARDAR antes de#  morir ahorra más tiempo#  ahora que lo pienso...
+* ¡Podría revivirte en#  el acto!
+* ¡Ninguna muerte#  espantosa podría#  detener a Clover!
+* ¿No es genial?
+* (Una pizarra de corcho con#  varias notas sin#  importancia.)
+* (En la pizarra de corcho#  hay pegadas algunas#  notas adhesivas.)	
+* ¿Alguien le dirá a Dr. Pez que#  deje de usar el laboratorio#  para crear baba de color?	
+* No me importa si hace ruidos#  graciosos, no#  cuenta como trabajo.
+* Qué hacer: -Hacer cosas nuevas#  -Fracasar estrepitosamente#  -Renunciar a mi trabajo.
+* (Unas cuantas notas adhesivas#  están pegadas a la#  pizarra de corcho.)
+* (Este consiste en los 31#  trillones de números de#  pi escritos con crayón.)
+* (Este señala la nota con#  los números pi.)	
+* Qué presumido.
+* Compruébalo:#  pi x infinito.	
+* Propio B)
 during_dialogue
 id_martlet_wing_gust
 image_alpha_temp
@@ -23151,7 +23151,7 @@ advance
 * (Me dijo que le gustas#  pero que saldrá contigo#  solo si es casual.)
 * (Conocele un poco#  ¿sabes?)
 * (Pregúntale su nombre o#  algo.)
-* OKEI.
+* OKEY.
 * ¡Okei, bueno! ¡Dale un#  intento!
 * HOLA MI NOMBRE ES AXIS#  ¿CUÁL ES TU NOMBRE?
 * JA JA ERES TAN GRACIOSA#  ¿¿¿TE CASAS CONMIGO???
@@ -23159,7 +23159,7 @@ advance
 * DIJO QUE SÍ.
 * HONESTAMENTE ESTOY IGUAL#  DE SORPRENDIDO QUE TÚ.
 * ESTO ES GENIAL.
-* Okei, entonces bien por#  ti.
+* Okey, entonces bien por#  ti.
 * Bien, no es por ser#  aguafiestas pero Clover#  y yo tenemos que irnos.
 * ¿A DÓNDE?
 * Hotland. Solo es un#  viaje de negocios.
@@ -23176,17 +23176,17 @@ advance
 * GRACIAS.
 * No te preocupes por#  Axis.
 * Tenemos que continuar.
-* About Hotland.
-* I can't go.
-* You didn't destroy Axis#  and I thank you but...
-* Your SOUL...
-* I was sure it was...
-* Nevermind. There's no#  explaining it.
-* I'm sorry...
-* Hey, cheer up!
-* Self-defense. That's#  all it was.
-* You know what? This is#  good, actually!
-* You're finally free to#  get back on track!
+* Sobre Hotland.
+* No puedo ir.
+* No has destruido Axis#  y te lo agradezco#  pero...
+* Tu ALMA...
+* Estaba seguro de que#  era...
+* No importa. No tiene#  explicación.
+* Lo siento...
+* ¡Oye, anímate!
+* Defensa propia. Eso es#  todo lo que fue.
+* ¿Sabes qué? ¡Esto es#  bueno, en realidad!
+* ¡Por fin eres libre de#  volver a la pista!
 ps_inner
 pt_trail_inner
 low_hp_state
@@ -23888,12 +23888,12 @@ flower_spawned_count
 flower_spawned_max
 green_flower_spawned
 spawn_flower
-Do you have what#it takes to be#among ze greats?
-Tell me, how does#one cook zis#brittle spheroid?
-What ez ze next#step, hm?
-Only master chefs#know ze secret#to perfect-e-on!
-Almost zere!
-Ze final step#ez...?
+¿Tiene lo que hay#que tener para#eztar entre#los grandes?
+Dígame, ¿cómo se#cocina ezte#frágil esferoide?
+Cuál ez el#ziguiente paso,#¿hm?
+¡Sólo los maestros#cocineros conozen#el secreto de#la perfe-cción!
+¡Ya casi#eztá aquí!
+¿Ze último#paso ez...?
 boulder_spawned_count
 Huh? Qué?#Creo que#asentí...
 Tanto por la noche.
@@ -24439,32 +24439,32 @@ fcreate_alarm
 warning_number
 expl1
 expl2
-* Yo, how are'ya?
-* Wait, are you from the Wild#  East? That's hilarious!
-* Say "howdy!" Come on, DO IT!
-Howdy!
-* PFFT! I LOVE IT!
-* What, you thought I was making#  fun of you?
-* Ha, no way! You're the most#  fun group of monsters around#  here.
-* Plus, you have a saloon.
-* ...What? I like the food#  there, that's all.
-* BOOOO!
-* No real member of the Wild#  East would pass up a "howdy."
-* You definitely don't get human#  culture.
-* Have you met my sisters?#  They're kinda annoying.
-* Pedla's like, WAY too happy#  all the time.
-* Just be normal and fake your#  happiness, like me!
-* And Violetta? I'm not sure.
-* I think all she needs is to#  find love or something.
-* Like, get out there, girl!
-* I got work to do so I'll see#  ya.
-* Remember to eat your veggies,#  stay hydrated, and say "howdy"#  more often.
-* That's very important.
+* Hola, ¿cómo estás?
+* Espera, ¿eres del Salvaje#  Este? ¡Qué gracioso!
+* Di "¡buenas!" Vamos, ¡hazlo!
+¡Buenas!
+* ¡PFFT! ¡ME ENCANTA!
+* ¿Qué, pensabas que me#  estaba burlando de ti?
+* ¡Ja, no puede ser! Son el#  grupo de monstruos más#  divertido por aquí.
+* Además, tienes una#  taberna.
+* ...¿Qué? Me gusta la comida#  allí, eso es todo.
+* ¡BOOOO!
+* Ningún verdadero miembro del# Salvaje Este dejaría#  pasar un "buenas".
+* Definitivamente no tienes#  cultura humana.
+* ¿Conoces a mis hermanas?#  Son algo molestas.
+* Pedla es como, demasiada#  feliz todo el tiempo.
+* Sé normal y finge tu#  felicidad, ¡como yo!
+* ¿Y Violetta? No lo sé.
+* Creo que todo lo que#  necesita es encontrar#  el amor o algo así.
+* ¡Sal ahí fuera, chica!
+* Tengo trabajo que hacer así#  que nos vemos.
+* Recuerda comer verduras,#  hidratarte y decir#  "buenas" más frecuente.
+* Eso es muy importante.
 alarm_count
 distance_amount
 distance_side
-* (It's a gun.)
-* (Got the Wild Revolver!)
+* (Es un arma.)
+* (¡Conseguiste el#  Revólver Salvaje!)
 can_spiral
 warning_radius
 warning_radius_increase
@@ -24582,7 +24582,7 @@ Basta de charla.
 Starlo era el...#el único amigo#que me quedaba.
 Lo que has hecho#es imperdonable.
 ... 
-Tú SABRÁS el#dolor que has causado.
+Tú SABES el#dolor que has causado.
 Mira.
 ¡Mírame, cobarde!
 Los frutos de tu#trabajo.
@@ -24970,7 +24970,7 @@ sign_modifier_tail
 * Estoy tratando de escuchar#  la actuación de mi amigo,#  si no te importa.
 * Esta canción es una de#  mis favoritas pero...
 * No sé cuanto tiempo#  Moray estará tocándola.
-* Not gonna spend its#  length chatting, sorry.
+* No voy a gastar su#  longitud charlando,#  lo siento.
 * No quiero hablar,#  ¿vale?
 * Solo porque tu apareciste#  y resolviste un#  problema...
 * ¿Tú crees que mágicamente#  yo crecería como#  monstruo?
@@ -25120,12 +25120,12 @@ Esto es bastante#repentino,#pero...
 Al menos pude#bailar para el#mundo#una última vez.
 Me divertí...
 El poder de la#danza es algo#maravilloso...
-* Guess I had this coming.
-* If only I wore my safety#goggles, heh...
-* I can't lie...
-* I'm not ready...
-* Let my parents know...
-* ...I'll be away for a while.
+* Supongo que me lo#  merecía.
+* Si al menos llevara mis#  gafas de seguridad...
+* No puedo mentirte...
+* No estoy listo...
+* Que mis padres sepan...
+* ...que estaré fuera#  un tiempo.
 Nunca he sido bueno#con las#palabras...
 Así que sólo#diré esto:
 Lo siento...
@@ -25211,9 +25211,9 @@ rm_black_screen_cutscene
 * Por favor, vuelve en unos#  días. Por favor...
 * Consultar
 flower_count
-* (Are you sure you want to#  drink the acid?)
+* (¿Seguro que quieres beber#  el ácido?)
 ¡¡Hum-DEE-DUM#dE-DUMM!!
-*¡¡¡JuNts somos#Fuertes!!!
+*¡¡¡JuNtos somos#Fuertes!!!
 ¿Quieres un trago#de mi Agua de#Trapeador?#¡¡ReCIén HeCha!!
 dir_noloop
 PÁGINA 1
@@ -25328,11 +25328,11 @@ Check 3
 * Tengo que resetear hasta#  encontrar el camino correcto.
 * Hasta que hagas las decisiones#  correctas.
 * Hasta ese entonces...
-* Okei, okei, te dejaré ir.
+* Okey, okey, te dejaré ir.
 * Tengo que practicar mi#  monólogo de introducción.
 * ¡Prepárate antes de la gran#  caída!
 * ¡Hasta luego, Clover!
-* You check the sole of your boot#  for signs of squished Froggit.#* You only find your dusty boot.
+* Compruebas tu bota en busca de#  signos de Froggit aplastado.#* Sólo encuentras polvo.
 * ¡GANASTE!#* Obtuviste 0 XP y 
 * (La misteriosa señora cabra#  asustó a Froggit.)
 * Dulce silencio...
@@ -25384,14 +25384,14 @@ DEBUG MODE:#TOGGLE: 0: ON#FPS:
 frog1
 frog2
 sequence_layer_2
-* I got put on minecart duty a#  few minutes ago.
-* Sure, you already completed#  today's job but tomorrow's#  coming!
-* First I get tied down to#  tracks, now I gotta operate#  tracks!
-* This wasn't what I meant by#  wanting to get my life back on#  track!!!
-* You're gonna show up tomorrow#  to do this for me, right?
-* We're best buds... right?
-* DID OUR INTIMATE ELEVATOR RIDE#  MEAN NOTHING???
-* Sorry, can't talk anymore.#  I've got everything to#  overthink.
+* Me pusieron de guardia hace#  unos minutos.
+* Seguro que ya has completado#  el trabajo de hoy,#  pero ¡ya viene mañana!
+* ¡Primero me atan a las vías#  y ahora tengo que manejarlas!
+* No me refería a esto cuando#  decía que quería volver#  a encarrilar mi vida.
+* Vas a aparecer mañana#  para hacer esto por#  mí, ¿verdad?
+* Somos mejores amigos...#  ¿verdad?
+* ¿NUESTRO ÍNTIMO VIAJE EN#  ASCENSOR NO SIGNIFICÓ#  NADA?
+* Lo siento, no puedo hablar#  más. Tengo todo para#  pensar demasiado.
 Item
 fnt_determination_mono
 spike
@@ -25424,16 +25424,16 @@ sc_yscale
 sc_angle
 sc_color
 sc_alpha
-* I wish those miners would've#  told me about the boulder#  problem.
-* I coulda charged right through#  'em, breaking into a million#  bits!
-* Uh-breaking THEM into a#  million bits. Not me. Ahem.
-* I've learned a lot from being#  a clean boy.
-* Mostly how absolutely#  disgusting the Dunes are.
-* I mean, everything's covered#  in sand!
-* Whoever built that giant fan#  needs to build a giant vacuum.
-* You're lucky that bandana#  you're wearing isn't red.
-* We'd probably have issues,#  haha!
-* Never forget to sparkle out#  there!
+* Ojalá esos mineros me hubieran#  hablado del problema#  de las rocas.
+* ¡Podría haberlos atravesado,#  rompiéndolos en un#  millón de pedazos!
+* Uh-rompiéndolos en un millón#  de pedacitos.#  Yo no. Ejem.
+* He aprendido mucho siendo#  un chico limpio.
+* Sobre todo lo absolutamente#  asquerosas que son#  las Dunas.
+* Quiero decir, ¡todo está#  cubierto de arena!
+* El que haya construido ese#  ventilador gigante debe#  hacer una aspiradora gigante.
+* Tienes suerte de que ese#  pañuelo que llevas#  no sea rojo.
+* Probablemente tendríamos#  problemas, ¡jaja!
+* ¡Nunca olvides brillar#  ahí fuera!
 x_increase_type
 y_increase_type
 x_increase
@@ -25487,10 +25487,10 @@ E . . .#
 E L#F R#. . .#
 E L#F R O G#F I N A L.
 H O R A#D E#R E C O G I D A .
-* Hey! That's a real#  piece of art you made#  there!
-* Give it a go!
-* Wouldja look at that!#  Worked like a charm.
-* I might have to#  personally commission#  you someday, haha!
+* ¡Oye! ¡Eso que hiciste#  es una auténtica obra#  de arte!
+* ¡Inténtalo!
+* ¡Mira eso! Funcionó#  de maravilla.
+* Puede que algún día#  tenga que encargárselo#  personalmente, ¡jaja!
 * Hmm... 	
 * Es un poco tarde, ¿no?
 * Menos lugares a los#  que pudieron haber#  ido, al menos.
@@ -25557,7 +25557,7 @@ ceroba_body_frame
 dir_wiggle
 gml_Script_shoot_fail_gml_Object_obj_wild_revolver_circle_multi_pre_Step_0
 Mustard
-* Best kept in a liquid or solid#  state of matter.
+* Se conserva mejor en#  estado líquido o sólido.
 Mi ESCUDO eS#INMUN3 A TuS#BAL4S.
 ASÍ qUE_DEBERÍAS#R3NDIrTE.
 Y DE ToDOS MODOS, ,,
@@ -45038,3 +45038,324 @@ test
 custom_env
 filt+fx
 gx_mod_wallpaper
+obtenerRoomSpanish
+gml_GlobalScript_obtenerRoomSpanish
+cuartos
+cuarto_actual
+resultado
+gml_Script_obtenerRoomSpanish
+The Furnace
+Dark Ruins - Entrance
+Dark Ruins - Main
+Dark Ruins - Cliff
+Dark Ruins - Puzzle
+Dark Ruins - Hall
+Snowdin - Delta Rock
+Snowdin - Ruined Shack
+Snowdin - Pathway
+Snowdin - Corridor
+Dunes - Cave
+Dunes - Tree
+Mines - Elevator
+Mines - Minecart
+Dunes - Mountaintop
+Dunes - Playground
+Dunes - Well
+Wild East - Town
+Wild East - Outskirts
+Wild East - Sunnyside
+Steamw. - Generator
+Steamw. - Raised Path
+Steamw. - Lake
+Steamw. - Offices
+Steamw. - Commons
+Greenhouse
+Steamw. - Crossroads
+Steamw. - Laboratory
+Steamw. - Botánico
+Steamw. - Botany Hall
+Factory - Lobby
+Factory - Offices
+Camino por Delante
+A Road Ahead
+Estate
+Apt. Complex
+Nuevo Hogar
+New Home
+Steamw. - C. Station
+RESET
+obtenerEmailSpanish
+gml_GlobalScript_obtenerEmailSpanish
+abuscar
+lista
+gml_Script_obtenerEmailSpanish
+Introducción
+Correo Spam 1
+Correo Spam 2
+Correo Spam 3
+Correo Spam 4
+Correo Spam 5
+Correo Spam 6
+Correo Spam 7
+Correo Spam 8
+Correo Spam 9
+Carta de Slurpy
+Carta de los Shufflers
+Carta de Dalv
+Carta de Mo
+Puntos de Balas
+ASP
+Carta de Slurpy 2
+Starlo (Urgente)
+Starlo Actualización
+CORREO???
+Ceroba (Importante)
+Carta de Martlet
+Martelt's Letter
+¡Mézclalo! (Instructivo)
+Carta del Resort
+Poster Desaparecidos
+Ident. Steamworks
+obtenerItemSpanish
+gml_GlobalScript_obtenerItemSpanish
+buscar
+objetos
+objectos
+gml_Script_obtenerItemSpanish
+Rollo de Croquet
+Palo
+Vendaje
+Roca de Caramelo
+Anillo de Calabaza
+Cebolla Estoica
+Fruta Fantasma
+Cidra de Araña
+Tarta de Caramelo
+Cinta Desteñida
+Guante Duro
+Bandana Varonil
+Trozo de Hombre de Nieve
+Helagradable
+Helado para Cachorros
+Bizcocho
+Uniscocho
+Conejo de Canela
+Copo Temmie
+Quiche Abandonado
+Viejo Tutu
+Zapatos de Ballet
+Tarjeta Perforada
+Perro Molesto
+Ensalada para Perro
+Resudio de Perro
+Comida de Astronauta
+Fideos Instantáneos
+Manzana Cangrejo
+Gatito Caliente
+Glamburguesa
+Cebo Estelar
+Héroe Legendario
+Gafas Protectoras
+Cuaderno Rasgado
+Delantal Manchado
+Sartén Quemada
+Sombrero de Vaquero
+Pistola Vacía
+Medallón de Corazón
+Daga Desgastada
+Cuchillo Real
+El Medallón
+Malos Recuerdos
+Sueño
+Carta de Undyne
+Carta de Undyne EX
+Comida Chatarra 0
+Junk Food 0
+Llave Misteriosa
+Cara de Filete
+Cachorrito Silencioso
+Tarta de Caracol
+Armadura Temy
+Revólver Salvaje
+Munición de Vidrio
+Cactus Dorado
+Golden Cactus
+Guante Mojado
+Limonada
+Maíz de Caramelo
+Pera Dor.
+Maíz de Perro
+Parche
+Pluma
+Pañuelo Dor.
+Balas de Roca
+Balas de Plata
+Balas de Vidrio
+Muni. de Goma
+Pastel Esponjoso
+Café Hndw
+Panqueque Hndw
+G.B. Oso
+Paleta Caliente
+Paleta Tibia
+Paleta Fría
+Café Dorado
+Soda de Adultos
+Paquete de Nueces
+Mezcla Seca
+Té Helado
+Té Verde
+Té de Mar
+Pastel de Frutas
+Rosquilla Araña
+Aguhelada
+Latte del Oasis
+Galleta de Canela
+Cerveza de Raíz
+Pólvora
+Ensalada Musgo
+Patatas Fritas
+Guiso de Flores
+Granola Gravedad
+Papitas Fritas
+Carne Seca
+Pastel
+Pastelito Floral
+Perrito Caliente
+Caramelo Monstruoso
+Caramelo Monstruoso+
+Pudín de Cara-Nela
+Sopa de Maíz
+Hamburguesa Feisty
+Broche Honeydew
+Broche de la Banda
+Hebilla de Acero
+Chaqueta Segura
+Gafas Seguras
+Broche Delta Rune
+Pañuelo Plateado
+Café Tibio
+Fósforos
+Mapa Snowdin
+Pico
+Balas Heladas
+Balas de Café
+Super Balas
+Balas de Piedra
+Clavos
+Bolitas Amistosas
+Pañuelo Dorado
+Funda Elegante
+Cinta de Vídeo
+H. Ácido
+Collar Roto
+Dihidrógeno Monóxido
+* Café Tib.
+* Galleta
+* Nueces
+* G Gravedad
+* Pastelito Fl.
+* P. Fritas
+* CrmMnstr
+* CrmMnstr+
+* Hamburg F.
+* Pera
+* Café Dor.
+* Revolver S.
+* Goma
+* Roca
+* Bal. Helada.
+* Bal. de Café
+* Bal. de Piedra
+* Bolitas Amist.
+* Broche Banda
+* F Elegante
+* Gafas
+* DR Broche
+* Pañuelo D.
+Bolitas Amist.
+P. Amistad
+variablenormal
+variablenormal2
+Snowdin - Forest
+Dunes - West Mines
+Dunes - Oasis Valley
+Wild East - Farm
+Hotland - Crossroads
+obj_bordeParche
+gml_Object_obj_bordeParche_Create_0
+imgAncho
+imgAlto
+escalaAncho
+escalaAlto
+pantallaAncho
+pantallaAlto
+factorAncho
+factorAlto
+factor
+nuevoAncho
+nuevoAlto
+desplazamientoX
+desplazamientoY
+juegoAlto
+juegoAncho
+factorJuego
+reduccion
+escalaJuegoX
+escalaJuegoY
+ponerenX
+ponerenY
+display_get_width
+display_get_height
+gml_Object_obj_bordeParche_Draw_76
+BORDE_RUINAS
+SPRITE_BORDER
+BG_DEFAULT
+BORDE_DARKRUINS
+BORDE_SNOWDIN
+BORDE_WATERFALL
+BORDE_HOTLAND
+BORDE_CARTAS
+BORDE_DUNAS
+BORDE_STEAMWORKS
+BORDE_CASTLE
+BORDE_MANSION
+BORDE_INICIO
+BORDE_CONFIG
+BORDE_MEWMEWMINIGAME
+BORDE_CHUJINCINTAS
+rm_ruins
+rm_darkruins
+rm_dalv
+rm_snowdin
+rm_waterfall
+rm_dunes
+rm_steamworks
+rm_castle
+rm_newhome
+rm_mansion
+rm_new_home
+debitat
+escala
+cartas_bg_borde
+¡
+windowH
+windowW
+window_set_size
+window_get_height
+window_get_width
+ - Seleccionar/Poner#
+ - Cancelar selección#
+ - Rotar/Escalar Item
+DEVOL.
+ * ¡Espera! ¿¡Otro#   robot!?
+ * ¡No puede ser! ¡No#   podemos pelear#   con esto!
+ * Que tal si Chujo lo#   hi-
+ * ¿Sabes qué?#   Hablaremos después.
+ * Encontremos una forma#   pacífica de#   superarlo.
+ * Haré lo mejor para#   protegernos.
+* ¡No puede ser! ¡No#  podemos pelear#  con esto!
+Nada
+Correo
+Arma de Juguete
+Sombrero Desgastado
