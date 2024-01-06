@@ -40,6 +40,7 @@ function obtenerRoomSpanish() //gml_Script_obtenerRoomSpanish
     ds_map_add(cuartos, "Estate", "Propiedad");
     ds_map_add(cuartos, "Apt. Complex", "Complejo de Apartamentos");
     ds_map_add(cuartos, "New Home", "Nuevo Hogar");
+	ds_map_add(cuartos, "Steamw. - C. Station", "Steamw. - C. Estación");
 
     resultado = cuarto_actual
 

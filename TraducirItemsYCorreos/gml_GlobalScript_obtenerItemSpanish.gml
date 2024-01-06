@@ -131,6 +131,7 @@ function obtenerItemSpanish(argument0) //gml_Script_obtenerItemSpanish
     ds_map_add(objetos, "Videotape", "Cinta de Vídeo");
     ds_map_add(objetos, "H. Acid", "H. Ácido");
     ds_map_add(objetos, "Necklace", "Collar Roto");
+    ds_map_add(objetos, "Dihydrogen Monoxide", "Dihidrógeno Monóxido");
 
     resultado = buscar
 

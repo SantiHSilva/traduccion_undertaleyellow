@@ -5956,9 +5956,9 @@ execute_sp
 execute_rp
 nonconsumable
 item_category
-* (Its accuracy seems#  compromised.)
-* (You aren't sure how to start a#  fire with these safely.)
-* (Better not drink it.)
+* (Su precisión parece#  comprometida.)
+* (No estás seguro de cómo#  encender un fuego con#  ellos de forma segura.)
+* (Mejor no beberlo.)
 * (Tomas la 
 consumable
 healing
@@ -5967,7 +5967,7 @@ item_sound
 con_keep_previous
 con_message_number
 * (Comes el 
-* (You scarf down the 
+* (Te zampas el 
 * (Bebes el Latte...)
 * (...HP recuperados totalmente.)
 * (En general... nada mal.)
@@ -5979,11 +5979,11 @@ weapon
 armor
 ammo
 * (Tu arma ahora huele#  delicioso.)
-* (You stick the 
- into#  your hat.)
+* (Pegas el 
+ en#  tu sombrero.)
 accessory
-* (You pin the 
-#  to your hat.)
+* (Fijas el 
+#  a tu sombrero.)
 heart_battle_fighting_x
 heart_battle_fighting_y
 You equip the 
@@ -5998,11 +5998,11 @@ cmsgn
  SP!)
 * (Tu SP se llenó.)
  turns!
-* (Your RP was maxed out.)
+* (Tu RP fue maximizado.)
 gml_Script_scr_item_use_text_yellow
 scr_item_use_text_yellow
 item_info_hold
-* (The grim reminder of your#  mission. Justice is needed.)
+* (El sombrío recordatorio de#  tu misión. La justicia#  es necesaria.)
 item_info_message
 story_item
 * (Some of them are wet.)
@@ -6034,7 +6034,7 @@ Grants
 Cura 15 HP por 3 turnos
 The first bite hurts for 5 HP.
 Weapon AT 
-#* (No descripción.)
+#* (Sin descripción.)
 Armor DF 
 Ammo AT 
 #* (Small, safe, non-toxic#  rubber pellets.)
@@ -9434,7 +9434,7 @@ ast_shortcut
 * (¡Siempre lávate las manos#  antes de manipular sustancias#  químicas mortales!)
 * (Un fregadero seco.)
 * (Dos tubos relajándose.)
-Steamw. - C. Station
+Steamw. - C. Estación
 target_flag
 * (Necesito encontrar una#  salida.)
 * (A través de esas puertas.)
@@ -9764,7 +9764,7 @@ Después de que me vaya... busca al#  siguiente humano que caiga aquí.
  Busca a otro Monstruo Jefe en el#    Subsuelo. Cualquier otro...#            por favor.
 Nuestra pequeña niña... Kanako. Ella#necesita vivir una vida feliz, sin#  verse afectada por mis esfuerzos.
       Ese es mi último deseo.
-HOW?
+¿CÓMO?
 overlay_alpha_default
 sequence_layer
 idle_seq
@@ -10140,16 +10140,16 @@ correct_item
 * ¡Estoy siempre cubriendo#  tu espalda así que#  no te preocupes!
 * Nos libraremos de ella#  y continuaremos nuestro#  camino, ¿facilísimo no?
 * ¡Todo saldrá bien al#  final, amigo! 
-* (You open the storage cabinet#  and find some Dihydrogen#  Monoxide.)
-* (There's some water inside.)
+* (Abres el armario y#  encuentras Dihidrógeno#  Monóxido.)
+* (Hay un poco de#  agua dentro.)
 * (¿Tomar?)
 Sí
 No
-* (You got Dihydrogen Monoxide!)
-* (You got water.)
+* (¡Obtuviste Dihidrógeno#  Monóxido!)
+* (Obtuviste Agua.)
 * (No hay suficiente#  espacio de#  inventario.)
-* (Could be expired.)
-* (Nothing inside but#  oddly-shaped glass.)
+* (Podría estar caducado.)
+* (En el interior no hay nada#  más que cristales de#  formas extrañas.)
 x_target_original
 attack_state
 attack_number
@@ -10793,9 +10793,9 @@ direction_current
 direction_inc
 bullet_count
 arc_radius
-Hydrogen [H]
+Hidrógeno [H]
 compound_id
-* The lightest and most#  prevalent element in the#  universe.
+* El elemento más#  ligero y prevalente del#  universo.
 shaky_text
 * Estoy hambriento.
 * ¡Hora de engullir algunas rocas!
@@ -11206,7 +11206,7 @@ pp_original
 attack_noloop
 heal_amount
 * Ganaste
-HP!
+PV!
 * ¿¡Qué estás haciendo!?
 * ¡Sé que ellos empezaron la#  pelea pero no sabemos#  la situación!
 * ¿Qué pasa si fue un#  error en su#  programación?
@@ -11321,8 +11321,8 @@ part_dist
 pt_Lava_Particles
 pe_Lava_Particles
 part_emitter_stream
-* (Take the Friendliness#  Pellets?)
-* (You got the Friendliness#  Pellets!)
+* (¿Tomar las Bolitas#  Amistosas?)
+* (¡Obtuviste Bolitas#  Amistosas!)
 default_generation_speed
 generation_speed
 preset_positions
@@ -11334,7 +11334,7 @@ spawn_point_y
 * (Una tenue cara está#  impregnada a la pantalla#  de la máquina...)
 * (...observando el gran abismo#  de rocas y hierro.)
 * (Observas un poco de Granolas#  Gravedad dentro de la#  máquina.)
-* (Some food lies within the#  robotic husk.)
+* (Algo de comida yace dentro#  de la cáscara robótica.)
 * (¡Obtuviste Granolas Gravedad!)
 frog_jump
 grav
@@ -11806,7 +11806,7 @@ Steamworks Vendy Geno
 * Escaneando Cliente...
 point
 action
-* Steamworks Chemist present :]
+* Steamworks Químico presente :]
 * ¡!
 * ¡Intentando apagarse!
 Override
@@ -12005,8 +12005,8 @@ spawn_offset
 shake_count
 glitch
 heart_grabbed
-Titanium [Ti]
-* What all robots will be made#  out of when they overtake the#  world.
+Titanio [Ti]
+* De qué estarán hechos#  todos los robots cuando#  dominen el mundo.
 feather_radius
 feather_speed
 feather_alpha
@@ -12056,8 +12056,8 @@ ins_puzzle_
 instance_activate_layer
 draw_tilemap
 draw_text_transformed
-   INITIALIZING...
-MIX SUCCESSFUL
+   INICIALIZANDO...
+MEZCLA EXITOSA
 x_point
 y_point
 angle_pos
@@ -12986,7 +12986,7 @@ pellet_number_inc
 flowey_hit
 pt_Effect1
 pe_Effect1
-* This object can handle any flavor text.
+* Este objeto puede manejar#  cualquier texto#  de sabor.
 spawn_frog
 spawn_green_frog
 my_frog
@@ -13625,7 +13625,7 @@ spray_interval
 spray_amount
 new_spray
 Party Popper
-* The element of surprise.
+* El elemento sorpresa.
 trapdoor_spawn_particles
 * Oh, hey.
 * Sólo estoy eh, admirando#  la vista.
@@ -14098,7 +14098,7 @@ pause_time_max
 talk_noloop
 talk_noise
 Soda and Mints
-* The deadliest mixture of them#  all.
+* La mezcla más mortífera#  de todas.
 dir_clamp
 * ¡Mierda!
 * Mejor intentémoslo de#  nuevo.
@@ -14327,7 +14327,7 @@ cam_x_min
 cam_y_min
 cam_x_max
 cam_y_max
-* My poor boy... where did you#  go?
+* Mi pobre niño...#  ¿dónde te has metido?
 idle_sequence
 damage_disjoint_timer
 damage_disjoint_timer_max
@@ -14446,7 +14446,7 @@ puff_x_2
 smoke_1
 smoke_2
 Neon
-* Believed to be but a myth#  until recently.
+* Hasta hace poco se creía#  que no era más#  que un mito.
 noise_alpha
 noise_timer
 noise_timer_max
@@ -14591,8 +14591,8 @@ current_frog_top
 current_frog_bot
 attack_delay_max
 glitch_sound
-Sodium [Na]
-* An essential part of any#  balanced breakfast.
+Sodio [Na]
+* Una parte esencial de#  cualquier desayuno#  equilibrado.
 feather_angle_total_max
 intro_noloop
 white_alpha
@@ -14745,7 +14745,7 @@ speed_target
 * ¿mE.. . ME DeJAS IR?
 * EH. EXTRAÑA DeCISIóN.
 * SóLO PARA QUE SEPaS.. .
-* Y0U STILL [freaking]#  SUCK.
+* Tu T0DAVI4 [sigues]#  APESTANDO. 
 * SIÉNTETE LIBRE dE#  CAER HAcIA TU MUERTE#  MIENTRAS TE VaS.
 ring_sound
 pellet_spawn_noloop
@@ -14864,8 +14864,8 @@ anim_min
 anim_max
 id_needle
 ¡Claro que te#ayudaré, Ace!
-Rutherfordium [Rf]
-* Discovered by the prestigious#  Dr. Rutherford Oscar himself.#  Or so he claims.
+Rutherfordio [Rf]
+* Descubierto por el prestigioso#  Dr. Rutherford Oscar en#  persona. O eso dice.
 gap
 soul_grab_noloop
 Para ser#honesto...#no me sorprende.
@@ -14939,8 +14939,8 @@ destroy_type
 fall_delay
 warning_line_alpha
 new_laser
-* (The door is already#  open.)
-* (Swipe your ID?)
+* (La puerta ya está#  abierta.)
+* (¿Pasar la ID?)
 foreground_pillars
 layer_get_id
 fg_layer_id
@@ -15563,7 +15563,7 @@ flowey_npc
 pacifist_cutscene
 * (Escuchas la bulla de#  los ventiladores dentro#  de la consola caliente.)	
 * (Es mejor dejarlo así.)
-* (The computer was recently#  used.)
+* (La computadora ha sido#  utilizado recientemente.)
 * (Una abrumante carga de#  pantallas y botones yacen#  frente a ti.)
 * (Presionas uno de los botones.)
 Info
@@ -17346,7 +17346,7 @@ new_petal
 * Prepárate porque#  nos espera un#  largo viaje.
 * ¡Esto va a ser muy#  divertido!
 * ¡Te veré en el#  otro lado, amigo!
-* You hear movement in the#  distance...
+* Se oye movimiento a#  lo lejos...
 arrow
 finish
 * Los Micro Froggits#  se despiden.
@@ -19234,7 +19234,7 @@ cur_minute
 * ¡Gah! ¡Lo siento mucho!
 * Me han confundido con un#  humano demasiadas veces.
 * Algunos incluso me reconocen#  ahora. Tal vez debería#  conocerlos mejor...
-* You kinda look like the same#  might've happened to you.
+* Parece como si te hubiera#  pasado lo mismo.
 * Vestirse como no lo haría#  un humano es un buen comienzo,
 * pero mucha gente de aquí no#  conoce los matices de#  la ~moda humana~.
 * Quizás ponerme como dos#  o tres sombreros más.
@@ -21493,7 +21493,7 @@ item_4_yy
 * Intenta buscar cosas#  que podamos usar. Con#  algunas debe bastar.
 player_carrying_item
 * ¿Quiéres usar esto?
-Positivo
+Afirmativo
 Negativo
 editor_sprite
 * Busca otra cosa entonces.
@@ -24970,7 +24970,7 @@ sign_modifier_tail
 * Estoy tratando de escuchar#  la actuación de mi amigo,#  si no te importa.
 * Esta canción es una de#  mis favoritas pero...
 * No sé cuanto tiempo#  Moray estará tocándola.
-* Not gonna spend its#  length chatting, sorry.
+* No voy a gastar su#  longitud charlando,#  lo siento.
 * No quiero hablar,#  ¿vale?
 * Solo porque tu apareciste#  y resolviste un#  problema...
 * ¿Tú crees que mágicamente#  yo crecería como#  monstruo?

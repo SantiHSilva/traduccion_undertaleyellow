@@ -56,3 +56,11 @@ screen_message = ((("Estado:\nCompuesto 1: " + status_1) + "\nCompuesto 2: ") + 
 
 Mixing process\ncomplete. Enjoy your\ndeadly acid :)
 Proceso de mezcla\ncompleto. Disfrute\nsu acido mortal :)
+
+gml_Object_obj_room_controller_dunes_30c_Step_0
+The Lab,\nmost likely
+El Lab,\nlo mas probable
+
+gml_Object_obj_steamworks_13_controller_old_Step_0
+Definitely\nnot
+Definitivamente\nno
