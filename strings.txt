@@ -12961,12 +12961,12 @@ door_fade_out
 * (No se te ocurre cómo#  hacer que esto funcione.)
 * (Usas el ÁCIDO para#  derretir la puerta.)
 * HOLA.
-* I HAD TROUBLE LOCATING#  YOU AFTER OUR LAST#  ENCOUNTER.
-* WORRY NO MORE, I HAVE#  LOCATED YOU.
-* MY LAST PLAN DID NOT#  WORK SO I WILL TRY#  SOMETHING NEW.
+* TUVE PROBLEMAS PARA#  LOCALIZARTE DESPUÉS DE#  NUESTRO ÚLTIMO ENCUENTRO.
+* NO TE PREOCUPES MÁS,#  TE HE LOCALIZADO.
+* MI ÚLTIMO PLAN NO#  FUNCIONÓ ASÍ QUE#  PROBARÉ ALGO NUEVO.
 path_change_point
-No way!
-Sure!
+¡No puede ser!
+¡Claro!
 * I JUST FOUND THIS#  HIGHLY-CORROSIVE#  CONCOCTION.
 * I WOULD LIKE TO APPLY#  IT ON YOUR SKIN.
 * WILL YOU BE MY TEST#  SUBJECT?
@@ -13081,11 +13081,11 @@ gml_Script_martlet_wing_spawn_gml_Object_obj_fmartlet_spawner_feathers_wings_Ste
 grow_noloop
 self_destroy
 stickbug_delay
-* Can you believe I'm STILL#  mining?	
-* I'm just THAT committed to my#  job!!	
+* ¿Puedes creer que TODAVÍA#  estoy minando?
+* ¡Estoy TAN comprometido#  con mi trabajo!
 * ...	
-* ...You think Angie heard that?
-* I am confined to these brown#  walls forever!!!!!
+* ...¿Crees que Angie#  escuchó eso?
+* ¡¡¡¡¡Estoy confinado a#  estas paredes marrones#  para siempre!!!!!
 cymbal
 dif
 T2 Appear Ace
