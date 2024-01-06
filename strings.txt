@@ -15900,8 +15900,6 @@ FIJAR
 itemBox
 statBox
 p1
-
-
 p2
 Ruinas Oscuras - Pasillo
 roomname
