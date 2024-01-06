@@ -508,12 +508,12 @@ gml_Script_scr_save_flowey_steamworks
 * Sigues con eso, ¿eh?
 * Lo siento pero me estoy#  quedando sin comentarios#  geniales en este momento.
 * ...¿Qué? ¿Quieres que#  siga inflando tu ego?
-* Esto era novedoso en#  como, Snowdin,#  ¿pero ahora?
+* Esto era novedoso en#  Snowdin, ¿pero ahora?
 * No sé... ¿No te#  aburres?
 * Cierto.
 * ¡Vaya! ¡No dejan de#  asombrarme tus#  habilidades!
 * ¡La habilidad que debes#  haber requerido disparar#  a un montón de latas!
-* Simplemente, ¡inspirador!
+* Simplemente,#  ¡inspirador!
 * Okay.
 * Nos hemos divertido en#  este lugar pero#  en serio...
 * Esto fue una gran#  pérdida de tiempo.#  Para los dos.
@@ -1953,13 +1953,13 @@ H. Acid
 * (Colocas el Honeydew pin#  en tu sombrero.)
 * (Colocas el Merch Pin en tu#  sombrero.)
 * (Conectas la hebilla de acero#  a tu pantalón.)
-* (¡Tus pantalones se sienten más resistentes que#  antes!)
+* (¡Tus pantalones se sienten más#resistentes que antes!)
 * (Te pones la impresionante#  chaqueta amarilla resaltadora.)
 * (¡Estas totalmente listo para preocuparte#  por los negocios!)
 * (Equipas con orgullo la#  funda lujosa.)
 * (Estas listo para todo#  desde ahora!)
 * (Te colocas la bufanda dorada.#* Tu tremendo gusto por el estilo#  hace que los enemigos te contemplen.)
-* (Envuelves las gafas de seguridad#  alrededor de tu sombrero.)
+* (Envuelves las gafas de#  seguridad alrededor de#  tu sombrero.)
 * (Es como si tuviera ojos#  ahora.)
 * (Colocas el parche en tu chaleco#  y comienzas a sentir#  algo...)
 * (Las inquebrantables esperanzas#  y sueños de los monstruos.)
@@ -1997,7 +1997,7 @@ scr_item_use
 info
 * "Limonada" - Cura 7 PV#* (No huele demasiado apetitosa.)
 * "Pebbles" - Arma AT 3#* (Son rocas, pero pequeñas.#* Una buena alternativa a las balas.)
-* "Balas de plata" - Arma AT 3#* (Un paquete de balas reflectantes.)
+* "Balas de plata" - Arma AT 3#* (Un paquete de balas#  reflectantes.)
 * (Encajan perfectamente en#  el cargador de 6 balas.)
 * (Un disparo perfecto#  dará un daño extra.)
 * "Balas de vidrio" - Arma AT 5#* (Literalmente trozos de vidrio.#  Si...)
@@ -2396,7 +2396,7 @@ gml_Script_scr_save_flowey_snowdin
 * Impresionante.
 * Wow.
 * Mismo efecto.
-* Este lugar pasó de#  agradable a espelu-#  znante muy rápido.
+* Este lugar pasó de#  agradable a espeluz-#  nante muy rápido.
 * Debe haber sido#  un nuevo récord o algo#  así.
 * Por el lado bueno,#  ¡ya no tendrás que#  pagar por el café!
 * No sabría decir si es#  la temperatura o la#  atmósfera, pero vaya.
@@ -2560,7 +2560,7 @@ gml_Script_scr_save_flowey_dunes
 * Siempre es un placer#  ver tus habilidades#  con las armas.
 * ¡Vamos a guardar!
 * ¡Vaya, los monstruos#  de por aquí te tienen#  en la mira!
-* ¿Cómo pueden seguir#  atacandote tan#  voluntariamente?	
+* ¿Cómo pueden seguir#  atacándote tan#  voluntariamente?	
 * ¡No podemos tener#  eso! ¡No!
 * No veo muchos#  más enemigos rondando.
 * Cuando te encuentres#  con el resto, ¡muéstrales#  quién manda!
@@ -3313,7 +3313,7 @@ scr_battle_core_directory_no_attack
 * ¡Rorrim te encuentra!
 * Decibat hace notar su#  presencia.
 * Dalv reúne su espiritu de lucha.
-* Notas al Micro Froggit#  atacándote!
+* ¡Notas al Micro Froggit#  atacándote!
 * Insomnitot tambalea hacia ti.
 * De repente quieres tomar#  una siesta.
 * Know Cone viene a ver si#  estás hecho de fuego.#* No lo estás.
@@ -3333,7 +3333,7 @@ scr_battle_core_directory_no_attack
 * ¡Es hora de bailar!
 * Otro obstáculo.
 * Violetta se acerca#  pasivamente desde el#  jardín de flores.
-* Pedla se acerca desde el#  jardín y te ofrece# una flor.
+* Pedla se acerca desde el#  jardín y te ofrece#  una flor.
 * Rosa se acerca desde el#  jardín, retorciendo#  una flor en la mano.
 * El ambiente se hiela de ira.
 * ¡Enfrentamiento!
@@ -4039,7 +4039,7 @@ action_2_color_3
 * Provocar
 * Sonreír
 * Informar
-* Tranqulizar
+* Tranquilizar
 * Destello
 * Dormir
 * Criticar
@@ -9277,7 +9277,7 @@ mpoint_dock_yy
 * ¡La seguridad es la prioridad!
 * - ¡Usa tus gafas de seguridad#  Steamworks durante las#  horas de trabajo!
 * - ¡Siempre lleva contigo#  tu identificación#  de Steamworks!
-* - Descontamínate de cualquier#  material biológico peligroso antes#  de salir de las instalaciones.
+* - Descontamínate de cualquier#  material biológico peligroso#  antes de salir del complejo.
 * - ¡Pero sobre todo,#  diviértete! :)
 * (Alguna especie de propaganda).
 * (Un monstruo sonriendo#  con un eslogan arriba.)	
@@ -10373,7 +10373,7 @@ sprite_tex
 * ¿Te mataría pensar#  antes de disparar a#  tus problemas?
 * Oye, ¡es sólo un#  patrón que he#  notado últimamente!
 * Ya has resuelto#  montones de enigmas#  en nuestro viaje.
-* ¡Sólo tenía curiosidad#  de por qué tu#  paciencia se agoto tanto!
+* ¡Sólo tenía curiosidad#  de por qué tu paciencia#  se agoto tanto!
 * Cálmate, ¿quieres?
 * Me temo que esa puerta#  es demasiado gruesa#  para derribarla.
 * Parece que tendrás#  que seguir con mi#  plan original de
@@ -10882,17 +10882,17 @@ text_y_final
 * ¡Deberías tomarte las#  cosas con calma por un rato,#  amigo! 
 * ¡Toma un refrigerio,#  hidrátate, ¡No me#  molestará!
 * ¡Debes estar en tu#  mejor forma para lo que#  viene!
-* ¿Puedo ser honesto contigo?
-* Voy a ser honesto contigo.
+* ¿Puedo ser honesto#  contigo?
+* Voy a ser honesto#  contigo.
 * Lo entiendo. Destruir#  por ahí, lleno de ira,#  aburrimiento...*
 * Arrasando con todo#  en tu camino - todos#  tenemos hobbies.
 * Pero, je, vamos...
-* ¿Cómo está esto#  contribuyendo a tu causa?
+* ¿Cómo está esto#  contribuyendo a tu#  causa?
 * Estos no son monstruos.
-* En cuanto a mi conciernte#  apenas están#  siquiera conscientes.
+* En cuanto a mi concierne#  apenas están siquiera#  conscientes.
 * No tenemos tiempo para#  esta pequeña escapada#  tuya.
 * ¡En mi opinión, por#  supuesto!
-* Bien, podemos hablar luego#  supongo.
+* Bien, podemos hablar#  luego supongo.
 attack_count
 attack_turret
 excluded_number
@@ -11670,7 +11670,7 @@ axis_pitch
 * EMPATÍA: IGNORADA_
 * BIENVENIDO A#  STEAMWORKS, HUMANO.
 * LAS COSAS NO HAN#  ESTADO YENDO A TU#  MODO, ¿ME EQUIVOCO?
-* ME TEMO QUE LO QUE BUSCAS#  HA...
+* ME TEMO QUE LO QUE#BUSCAS  HA...
 * . . .EXPIRADO.
 * CINCO ALMAS SON TODO LO#  QUE TE ESPERAN SI#  LLEGAS AL CASTILLO.
 * PERO SUPONGO QUE YA#  DESCIFRASTE ESO.
@@ -11687,7 +11687,7 @@ shoot_noloop
 * DAÑO CRÍTICO_
 * a-zzz AMeNAZA . ..
 * N-NiVEL amEnaza 99;99#  9999 99_9. .
-* YA RECU3DO.. . ..
+* YA RECU3RDO.. . ..
 * LOs 0TROS.. .
 * DEBO EVaCUAR . .
 * ¿En quién te has#  convertido?
@@ -11868,16 +11868,16 @@ x_start
 warning
 spawn_distance
 Honeydew Resort Geno
-* (Te llevaste#  60 de ORO#  de la estantería.)
+* (Te llevaste#  60 de ORO#  de la#  estantería.)
 * (No queda nada.)
 Cafe Dune Geno
-* (Te llevaste 80 de ORO#  de la estantería.)
+* (Te llevaste#  80 de ORO#  de la#  estantería.)
 Wild East Gunshop Geno
 * (Hay una caja fuerte con#  la puerta abierta.)
 * No hay nada que#  llevarse.
 Wild East Saloon Geno
-* (Te llevaste 100 de ORO#  detrás de la barra.)
-* (No queda ningún ORO#  para llevarse.)
+* (Te llevaste#  100 de ORO#  detrás de#  la barra.)
+* (No queda nada#  de ORO para#  llevarse.)
 Hotel Shop Geno
 * (Te llevaste 500 de ORO#  de la caja registradora.)
 * (Miras dentro de la caja y#  encuentras unas Papas Fritas.)
@@ -11896,7 +11896,7 @@ pollen
 * PeRO YA N0 CORRE,RÉ#  De TI.
 * EsE CAÑ0N DE MU3RTE#  QUE LLeVAS eS FUERT3.. .
 * No pUDISTE ACABAR con#  TODOS, ¿EH? 
-* PAR3CE QuE VARIOS#  BOTS T3 EsQUIVARON.
+* PAR3CE QuE VARIOS#  BOTS T3 EvADIERON.
 * PERO COMO pUEDES VER,#  SIGO AQU1.
 * BuENO, ,,
 * DECId1 QUE YA N0#  CORRE,RÉ dE TI.
@@ -12675,13 +12675,13 @@ actor_axis
 * Seguiste adelante.#  Seguiste destruyendo#  vidas.	
 * Esto no es defensa#  propia como una#  vez supuse.	
 * Tienes una misión.	
-* Este retorcido sentido#  de la justicia...#  No los traerá#  de vuelta.	
+* Este retorcido sentido#  de la justicia... No#  los traerá de vuelta.	
 * Tengo reservas sobre#  los asuntos del Rey#  igual que tú.	
 * Pero no tienes el#  contexto de esas#  acciones.	
 * Lo sé... Quieres creer#  lo mejor de los demás.	
-* Que los humanos caídos#  eran totalmente pacifistas#  y no iniciaron       
-* L-la Guardia Real te#  está buscando, que#  quede claro.
-* Tienes suerte de que#  te encontrara. ¡Así#  que, por favor, escucha!
+* Que los humanos caídos#  eran muy pacíficos#  y no iniciaron       
+* L-La Guardia Real te#  está buscando, que#  quede claro.
+* Tienes suerte de que#  te encontrara. ¡Así que,#  por favor, escucha!
 * Me he pasado la vida#  en el escepticismo.
 * Anhelando la paz final#  entre nuestras clases.
 * Si puedes creerlo,#  veo piedad en ti. 
@@ -15486,7 +15486,7 @@ cell
                                ##  "Monstruo Jefe" 
 * Significa que tiene#  rasgos especiales; más#  poder que otros...
 * Cuando lo derribes,#  su ALMA permanecerá#  intacta.
-* Pero solo por un#  momento antes de...#  ¡BUM! Tú ganas.
+* Pero solo por un momento#  antes de que... ¡BUM!#  Tú ganas.
 * He oído que el tipo#  también es inmortal.#  ¡No envejece nunca!
 * Al menos, ya no.
 * Salvaje, ¿eh?
@@ -15643,14 +15643,14 @@ obj_floweydialogue
 Bueno... Eso fue#algo.
 ¡Eres más fuerte#de lo que creía!
 Estos monstruos#nunca tuvieron#oportunidad contra#ti.
-Por qué pones#esa cara?
+¿Por qué pones#esa cara?
 Ni te atrevas#en pensar matarme#también.
-Recuerda, Yo soy#quien te mantiene#con vida.
+Recuerda, yo soy#quien te mantiene#con vida.
 Tú vida está#en mis manos.
 No te preocupes,#no te juzgaré#por tus acciones.
-Los amigos no son#juiciosos entre si#verdad?
+Los amigos no son#juiciosos entre si,# ¿verdad?
 Tú me cubres#y yo te cubro.
-Así que salgamos#de aquí,#okei compa?
+Así que salgamos#de aquí,#¿si, amiguito?
 animateTalk
 gradient_height
 colors
@@ -15829,7 +15829,7 @@ hint_marker_alpha
 note_destroy
 fail_sound
 moving_cabinet
-* (Una presencia se esconde detrás#  del armario.)	
+* (Una presencia se esconde#  detrás del armario.)	
 * (Pero no se mueve.)
 * (Notas grietas en la pared#  asomando por detrás#  del armario.)	
 * (¿Moverlo?)
@@ -15914,7 +15914,7 @@ Snowdin - Bosque
 Dunas - Minas del Este
 Dunas - Valle del Oasis
 Salvaje Este - Granja
-* ¿Estás seguro de que quieres tirar 
+* ¿Estás seguro de que#  quieres tirar 
 * No se puede tirar el#  
 ¡TO-TO-TÓMATE#UN CALMANTE#AMIGO!
 ¡TRES SON MULTITUD!#¡ES HORA DEL#CONCIERTO!
@@ -16951,7 +16951,7 @@ cam2
 * ¿Todavía... me sigues?
 * Pensé que habia dejado en#  claro que quiero estar#  en paz.
 * No entiendo... Tú...#  te pareces a ellos.
-* ¿Es esto tipo de mala#  suerte? ¿O has venido#  a terminar el trabajo?
+* ¿Es esto algún tipo de#  mala suerte? ¿O has venido#  a terminar el trabajo?
 * Atraparme aquí no fue#  suficiente, así que me#  quieres cazar...
 * ¿Verdad?
 ¿Qué?
@@ -17284,7 +17284,7 @@ Prepárate para mi#más fuerte#ataq-
 #             ASGORE
 * (Según la lista de precios,#  es un puesto de limonada:#  5 de oro el vaso.)
 * (¿Tomar un poco?)
-* (Te sirves un vaso pero no hay#  ningún colaborador que coja#  tu dinero. Que mal servicio.)
+* (Te sirves un vaso pero no hay#  ningún colaborador que recoja#  tu dinero. Que mal servicio.)
 * (¿Dejar una propina?)
 * (Ya no queda limonada.)
 * (¿Cuánto?)
@@ -17346,7 +17346,7 @@ new_petal
 * Prepárate porque#  nos espera un#  largo viaje.
 * ¡Esto va a ser muy#  divertido!
 * ¡Te veré en el#  otro lado, amigo!
-* Se oye movimiento a#  lo lejos...
+* (Se oye movimiento a#  lo lejos...)
 arrow
 finish
 * Los Micro Froggits#  se despiden.
@@ -18114,7 +18114,7 @@ hsprite
 * Al principio pensé que nuestra#  música era tan mala, luego#  dijeron que había peligro.
 * Seguro que no es lo que#  creo que es...	
 * Otra vez no...
-* Uh... sí, lo siento tuvimos que cancelar el show.
+* Uh... sí, lo siento tuvimos que#cancelar el show.
 * Tenemos un concierto en#  Waterfall la semana que viene.#  Nos vemos más tarde.
 * Es un extraño giro#  de los acontecimientos.
 * ¿Me pregunto adónde se#  habrán ido todos?
@@ -18124,7 +18124,7 @@ hsprite
 * Toda esta situación#  es terrible.
 * Es demasiado deprimente#  para poner música ahora.
 * Espero que todo el#  mundo esté bien.
-* Probablemente deberíamos habernos#  ido con los demás, pero Rodney#  insistió en que nos quedáramos.
+* Quizás deberíamos habernos#  ido con los demás, pero Rodney#  insistió en que nos quedáramos.
 * Creo que está en#  negación o algo así...
 hand_displacement_y_multiplier
 time_elapsed_decrease_hand
@@ -18167,7 +18167,7 @@ swimmer_accel
 * ¿Es sentimental?
 * ¿Es... atractivo?
 * Hombre, ¡me encanta#  ser una antorcha!
-* Es una antorcha normal.
+* (Es una antorcha normal.)
 * ¿Sabes que este#  trabajo tiene un alto#  índice de rotación?
 * Una locura, ¿verdad?
 * Parece que a la mayoría#  de los monstruos no les gusta#  que les prendan fuego.
@@ -18855,7 +18855,7 @@ message_check
 * Así que probablemente estés#  pensando: "¿Qué vende este#  gato tan guapo?".
 * En primer lugar, no soy un#  gato ¡pero agradezco#  el cumplido!
 * Tenía toda esta historia sobre#  el "Agua" pero, oye,#  ¿para mi mejor cliente?
-* ¡Voy a pasar DIRECTAMENTE#  al inventario premium#!
+* ¡Voy a pasar DIRECTAMENTE#  al inventario premium!#
 * ¡Eeeeso es!
 * Esta vez lo hice todo. ¡Esto#  es un verdadero lujo por aquí!
 * Se llama AGUA. Nombre#  pegadizo, ¡lo sé!
@@ -19569,7 +19569,7 @@ Elevador
 * Si alguna vez ves#  a mi niño por ahí,
 * ¡Diles que su viejo#  los echa de menos!
 * Si te vas, mantente#  a salvo ahí fuera.
-* Pero yo no#  recomendaría vagabundear# ahora mismo.
+* Pero yo no#  recomendaría vagabundear#  ahora mismo.
 hat_text
 * Tú... ¡encontraste mi#  casco!
 * ¡Eres un alma amable!
@@ -20487,7 +20487,7 @@ bell_animation_end_next_loop
 * (Es un poco exagerado.)
 cutscene_duel_timer
 background_fade_alpha
-* Ella me dijo que corriera.
+* Ella me dijo que#  corriera.
 * Ella me dijo que#  me escondiera.
 * Pero nah...
 * Eso no es lo que#  haría un sheriff#  digno.
@@ -20511,10 +20511,10 @@ cutscene_duel_delay
 * Gracias por dejarme#  sentir genial por un#  breve momento.
 starlo_shake_x
 starlo_x_original
-* ¡Star! ¡Todo el mundo#  evacuo!
+* ¡Star! ¡Todo el mundo#  ha evacuado!
 * ¿Por qué sigues#  aquí? Te dije#  que...
 * ¡¡¡STARLO!!!
-* C-Ceroba Yo...
+* C-Ceroba yo...
 * Nonononono, ¿por qué#  no me escuchaste?
 * Casi gan... gané...
 * T-tú... hiciste lo#  que pudiste.
@@ -23982,7 +23982,7 @@ x_speed_hold
 I-iglú.
 Solo es un#iglú! Espera,#¿Ya habías#dicho eso?
 ¡Sip, nada que#ver aquí!
-Qué es eso#siquiera? Digo-         
+¿Qué es eso#siquiera? Digo-         
                           IGLÚ ! !
 Um, holi...#¿Puedo unirme?
 No te#refieres a-               
@@ -24422,15 +24422,15 @@ No obstante...
 Sé que ya ha#ocurrido algo#parecido.
 Pusieron fin a#eso así que...
 ¡De mí depende#poner fin a esto!
-Okay...
+Bien...
 Tú ganas...
 He terminado#de atacar,#así que por favor...
 Baja tu arma.
 ...Gracias...
 Mi manual dice#esto...
-"No hay vergüenza#en una retirada#táctica".
+"No hay verguenza#en una retirada#táctica".
 Nunca he estado#segura de a qué se#aplicaba, pero...
-Creo que... huff...#ese momento es# ahora.
+Creo que... huff...#ese momento es#ahora.
 ¡Mi turno!#¡Mi turno!
 creation_state
 fcreate_max
@@ -24577,7 +24577,7 @@ No lo entiendo...
 Chujin siempre#tuvo razón.
 Los humanos quieren#gobernar#sobre nosotros;#controlar nuestras#vidas...
 Aunque nos liberáramos,#volverían a hacer la#guerra.
-Si me hubiera quedado#aquí y no hubiera huido,#podría haber protegido#a St...
+Si me hubiera quedado#aquí y no hubiera#huido, podría haber#protegido a St...
 Basta de charla.
 Starlo era el...#el único amigo#que me quedaba.
 Lo que has hecho#es imperdonable.
@@ -24590,7 +24590,7 @@ Los frutos de tu#trabajo.
 Tal vez si#yo rogara piedad.
 ¿Haria que te#sintieras mal por#tus acciones?
 Una vez que nos#elimines...
-...Espero que te#ahogues#con el polvo que#llenará#el aire.
+...Espero que te#ahogues con el polvo#que llenará el#aire.
 ...Mientras tanto...
 Vete al infierno.
 color_blue
@@ -24863,7 +24863,7 @@ Ni se te ocurra#matarme a mí#también.
 Tu vida está en#mis manos.
 No te preocupes,#no te#juzgaré por tus#acciones.
 Yo te cubro las#espaldas y tú#me cubres#las mías.
-Así que salgamos#de aquí, ¿de#acuerdo amigo?
+Así que salgamos#de aquí, ¿de#acuerdo, amigo?
 throw_noloop
 throw_delay_bomb
 dir_min
@@ -25142,17 +25142,17 @@ sound_play_noloop
 * SOMOs SUPERVIV1ENTES.
 * LA FUeRZA BRuTA NO#  S0LUCIONARÁ NAdA.
 * Se fue.
-* ¿Cuál es el plan entonces?
+* ¿Cuál es el plan#  entonces?
 * Esta puerta está más#  allá de mis habilidades#  así que no me mires.
 * Ya lo comprobé.
 * El ala de la fábrica,#  ¿cierto?
 * Seh. Este lugar tiene#  más candados que un#  cerrajero.
-* Ok veamos...
+* Bien, veamos...
 * Es llamado "humor."#  Supongo que no has#  oído hablar de él.
 * (Rayos, y pensaba que#  yo era el desalmado.)
 * Bueno, ciertamente hay#  un montón de basura#  tirada por ahí.
-* Sé que estás en el#  estricto régime de#  "dispara, no pienses" pero...
-* Por esta vez, tendrás#  que ser creativo.
+* Sé que estás en el#  estricto régime de#  "dispara, no pienses",
+* pero, por esta vez,#  tendrás que ser creativo.
 * Sorprende. Inquietante,#  incluso. Lo sé.
 * Pero he visto a tu#  cerebro funcionar antes#  así que...
 * Dale un intento.
@@ -25332,7 +25332,7 @@ Check 3
 * Tengo que practicar mi#  monólogo de introducción.
 * ¡Prepárate antes de la gran#  caída!
 * ¡Hasta luego, Clover!
-* Compruebas tu bota en busca de#  signos de Froggit aplastado.#* Sólo encuentras polvo.
+* Compruebas tu bota en busca de#  signos del Froggit aplastado.#* Sólo encuentras polvo.
 * ¡GANASTE!#* Obtuviste 0 XP y 
 * (La misteriosa señora cabra#  asustó a Froggit.)
 * Dulce silencio...
@@ -25415,7 +25415,7 @@ Helio [He]
 * (...Porque al fin y al#  cabo, todos son pequeñas#  ranas en un gran mundo.)
 * (Esta ciudad ES lo#  suficientemente grande#  para los seis.)
 * (Demasiado grande.)
-* (Aún quedan enemigos#  sobre los que#  hacer justicia.)
+* (Aún quedan enemigos sobre#  los que hacer justicia)#
 sc_index
 sc_xdisjoint
 sc_ydisjoint
