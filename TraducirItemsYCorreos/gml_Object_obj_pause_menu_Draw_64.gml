@@ -61,13 +61,13 @@ if (stats_open == 1)
     draw_text((xx + 130), (yy + 35), string_hash_to_newline(("XP " + string(global.player_exp))))
     var level_up_treshhold = (global.player_exp_next[global.player_level] - global.player_exp)
     draw_text((xx + 130), (yy + 50), string_hash_to_newline(("SIG. " + string(level_up_treshhold))))
-    draw_text((xx + 57.2), (yy + 70), string_hash_to_newline(("ARMA: " + global.player_weapon)))
-    draw_text((xx + 57.2), (yy + 85), string_hash_to_newline(("ARMADURA: " + global.player_armor)))
+    draw_text((xx + 57.2), (yy + 70), string_hash_to_newline(("ARMA: " + obtenerItemSpanish(global.player_weapon))))
+    draw_text((xx + 57.2), (yy + 85), string_hash_to_newline(("ARMADURA: " + obtenerItemSpanish(global.player_armor))))
     var drawn_ammo = global.player_weapon_modifier
     if (drawn_ammo == "Friendliness Pellets")
         drawn_ammo = "F. Pellets"
-    draw_text((xx + 57.2), (yy + 105), string_hash_to_newline(("MUNICIÓN: " + drawn_ammo)))
-    draw_text((xx + 57.2), (yy + 120), string_hash_to_newline(("MODIF.: " + global.player_armor_modifier)))
+    draw_text((xx + 57.2), (yy + 105), string_hash_to_newline(("MUNICIÓN: " + obtenerItemSpanish(drawn_ammo))))
+    draw_text((xx + 57.2), (yy + 120), string_hash_to_newline(("MODIF.: " + obtenerItemSpanish(global.player_armor_modifier))))
     draw_text((xx + 57.2), (yy + 140), string_hash_to_newline(("ORO: " + string(global.player_gold))))
 }
 if inventory_open
