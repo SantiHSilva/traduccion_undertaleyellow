@@ -12656,9 +12656,9 @@ actor_axis
 * Okey. AHORA NO INTENTARÉ#  DETENERTE LA PRÓXIMA#  VEZ QUE NOS VEAMOS.
 * QUE TENGAS UNA#  PLACENTERA AVENTURA,#  HUMANO.
 * OH, OTRA COSA.
-* LEAVE THE POWER ON WHEN#  YOU EXIT, WILL YOU?
-* I LIKE LIVING. 
-* THANKS.
+* DEJA LA ENERGÍA#  ENCENDIDA CUANDO#  SALGAS, ¿QUIERES?
+* ME GUSTA VIVIR. 
+* GRACIAS.
 * ¡ JE JE !
 * ¡ MUÉVELO SUAVE !
 * Gwah gwah goggle wibble woo~
@@ -14038,7 +14038,7 @@ Para lim//pi--#digo ayudar a#todos los gérmenes#conquistar el mundo!!
 ¡¡No tE#aCerquES MÁs!!!
 ¡¡SEH sEH!!#¡¡¡¡ANímATE!!!!
 ¡¡¡voY a traBAJAR#MáS DURO!!!
-*Hum-DEE-DUM#dE-DUMM!!
+*¡¡Hum-DEE-DUM#dE-DUMM!!
 *¡¡¡JuNts somos#Fuertes!!!
 ¡¡JA Je!!#Apuesto que soy#más SUCIO#que TÚ!!!
 ¡¡Es horA de#que Conozcas#Nuestros#trapeadores!!!
