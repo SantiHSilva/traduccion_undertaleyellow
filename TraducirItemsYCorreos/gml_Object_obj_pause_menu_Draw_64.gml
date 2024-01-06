@@ -65,7 +65,7 @@ if (stats_open == 1)
     draw_text((xx + 57.2), (yy + 85), string_hash_to_newline(("ARMADURA: " + obtenerItemSpanish(global.player_armor))))
     var drawn_ammo = global.player_weapon_modifier
     if (drawn_ammo == "Friendliness Pellets")
-        drawn_ammo = "F. Pellets"
+        drawn_ammo = "P. Amistad"
     draw_text((xx + 57.2), (yy + 105), string_hash_to_newline(("MUNICIÓN: " + obtenerItemSpanish(drawn_ammo))))
     draw_text((xx + 57.2), (yy + 120), string_hash_to_newline(("MODIF.: " + obtenerItemSpanish(global.player_armor_modifier))))
     draw_text((xx + 57.2), (yy + 140), string_hash_to_newline(("ORO: " + string(global.player_gold))))

@@ -17223,7 +17223,7 @@ Prepárate para mi#más fuerte#ataq-
 * (Hay maíz en la telaraña.)
 * (Una mazorca de maíz.)
 * Soy FLOWEY. 
-      FLOWEY  
+     FLOWEY  
 * ¡FLOWEY la FLOR!
    FLOWEY    FLOR 
 * Pareces una persona#  bastante segura de#  sí misma.
@@ -45357,3 +45357,5 @@ DEVOL.
 * ¡No puede ser! ¡No#  podemos pelear#  con esto!
 Nada
 Correo
+Arma de Juguete
+Sombrero Desgastado
