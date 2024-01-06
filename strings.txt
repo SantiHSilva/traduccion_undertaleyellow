@@ -1898,47 +1898,47 @@ H. Acid
 * (Sabe a... café normal.)
 * (Le das un buen mordizco#  al cactus.)
 * (Te muerde de vuelta.)
-* (You eat the Packing Peanuts.)
-* (Aside from the taste, texture,#  and potential health risk,#  they're not that bad.)
-* (You down the bag of Trail Mix.)
-* (All you taste are dried#  grapes.)
-* (You drink the glass of tea.#  It's very watered down.)
-* (You drink the Green Tea.#  Tastes toxic.)
-* (You drink the Sea Tea. Your#  SOUL speed increases!)
-* (You scarf down the Fruitcake.#  The Swealterstones burn your#  throat!)
-* (Don't worry, spider didn't.)
-* (You drink the Icewater.#  Definitely has a taste but you#  can't describe it.)
-* * (You drink the Latte...)
-* (You eat the cookie...)
-* (You down the Root Beer. The#  carbonation tingles!)
-* (You eat the Feisty Slider.#  Much like the team, its flavor#  is... ambitious.)
-* (You put the gunpowder in your#  mouth and nearly choke to#  death.) 
-* (You brace yourself and eat#  the Moss Salad.)
-* (The texture can only be#  described as "insolation#  esque.")
-* (You plug your nose and down#  the Grassy Fries.)
-* (Is this what life has really#  come to?)
-* (You make sure Flowey isn't#  watching before trying it.)
-* (Mmm... chunky...)
-* (You snack on the Gravity#  Granola.)
-* (You can really taste all 9.8#  meters!)
-* (You drink the H2O. Kinda#  tastes like window cleaner...)
-* (You eat the Popato Chisps.#  The crunch is deafening.)
-* (You scarf down the Beef#  Jerky.)
-* (What a classic flavor.)
-* (You enjoy several slices of#  cake.)
-* (Delicious!)
-* (You enjoy the Floral#  Cupcake.)
-* (What a rich flavor!)
+* (Te comes el maní del paquete.)
+* (Aparte del sabor, la textura y#  el potencial riesgo a la#  salud. No están tan mal)
+* (Comes los frutos secos.)
+* (Todo lo que saboreas son pasas.)
+* (Bebes el vaso de té. Está muy#  aguado.)
+* (Bebes el Té Verde. Se siente#  tóxico.)
+* (Bebes el Té de Mar. ¡La#  velocidad de tu ALMA#  aumenta!)
+* (Comes el pastel de frutas.#  ¡Las Swealterstones queman#  tu garganta!)
+* (No te preocupes, la araña no#  lo hizo.)
+* (Bebes el agua congelada.#  Definitivamente sabe a algo pero#  no sabes describirlo.)
+* * (Bebes el Latte...)
+* (Comes la galleta...)
+* (Te bajas la Cerveza de Raíz.#  ¡La carbonatación hormiguea!)
+* (Comes la Feisty Slider. Se#  parece al equipo, su sabor es#  ... ambiocoso.)
+* (Pones la pólvora en tu boca y#  casi mueres asfixiado.) 
+* (Te llenas de valor y comes#  la ensalada de musgo.)
+* (La textura solo puede ser#  descrita como "insolación".)
+* (Te tapas la nariz y comes#  las papas fritas.)
+* (¿A esto realmente ha#  caído la vida?)
+* (Te aseguras de que Flowey#  no te vea antes de probar.)
+* (Mmm... grueso...)
+* (Comes las Granolas Gravedad.)
+* (¡Realmente puedes saborear#  los 9.8 metros!)
+* (Bebes el H2O. Sabe un poco#  a limpiador de vidrios...)
+* (Comes los Chips Popato.#  El crujir es ensordecedor.)
+* (Te comes la carne seca.)
+* (Que sabor tan clásico.)
+* (Disfrutas muchos trozos de#  torta.)
+* (¡Delicioso!)
+* (Disfrutas la Magdalena#  Floral.)
+* (¡Que rico sabor!)
 * (Comes el Caramelo Monstruo.)
 * (El sabor es ligeramente#  familiar...)
-* (You pop the Monster Candy+ in#  your mouth.)
-* (The overwhelming sweetness is#  at war with your taste buds.)
+* (Pones el Caramelo Monstruo+ en#  tu boca.)
+* (La abrumadora dulzura enstá#  en guerra con tus papilas#  gustativas.)
 * (Saboreas el C-B Strudel.)
 * (El sabor es extrañamente#  familiar...)
 * (Te sampas el perro caliente.)
 * (Mmm, ¡justo en el punto!)
 * (Bebes nerviosamente la Sopa#  de Maíz.)
-* (...podía ser peor.)
+* (...Podía ser peor.)
 * (Equipaste#  
 .)
 * (Equipaste 
@@ -6005,53 +6005,53 @@ item_info_hold
 * (El sombrío recordatorio de#  tu misión. La justicia#  es necesaria.)
 item_info_message
 story_item
-* (Some of them are wet.)
-* (It was probably left sitting in#  the snow a while.)
-* (A belt buckle made of steel.)
+* (Algunos estan húmedos.)
+* (Probablemente fue abandonado#  en la nieve por un tiempo.)
+* (Una hebilla de cinturón#  hecha de acero.)
 item_value
 Cura 
- HP#* (Doesn't smell too appetizing.)
- HP#* (Your teeth hurt just looking#  at it.)
- HP#* * (A genuine Corn Dog with#  soft, fluffy ears.)
- HP#* (A delicious sponge that doesn't#  scratch.)
-* (Has 2x the absorption!)
- HP#* (A little burnt on one side, but#  looks yummy anyway.)
- HP#* (Piping hot chocolate, frozen,#  then reheated.)
- HP#* (Piping hot chocolate cooled to#  lukewarm status.)
- HP#* (Piping hot chocolate, cooled#  cold.)
- HP#* (¡Se necesita verdadera valentia para#  tomar algo así de caliente!)
- HP#* (An off-the-griddle pancake with#  honey-syrup.)
- HP#* (A cookie made to look like#  someone's face.)
+ HP#* (No huele muy apetitoso.)
+ HP#* (Te duelen los dientes de solo#  mirarlo.)
+ HP#* * (Un genuino Perro de Maíz#  con suaves y peludas#  orejas.)
+ HP#* (Una esponja deliciosa que no#  raspa.)
+* (¡Tiene el doble de absorción!)
+ HP#* (Un poco quemado de un lado,#  pero se ve rico de#  todas formas.)
+ HP#* (Chocolate bien caliente,#  conegaldo y luego#  recalentado.)
+ HP#* (Chocolate bien caliente#  enfriado hasta estar#  tibio.)
+ HP#* (Chocolate bien caliente,#  enfriado en frío.)
+ HP#* (¡Se necesita verdadera valentía para#  tomar algo así de caliente!)
+ HP#* (Un panqueque recién hecho con#  almíbar de miel.)
+ HP#* (Una galleta hecha para#  parecer la cara de#  alguien.)
  HP
-* (Everything but the raisins#  has been picked out. Cura 13#  HP.)
- "Sea Tea" - Cura 10 HP"#* (Glowing tea that'll jolt your system.)
- "Floral Cupcake" - Cura ?? HP
- "Root Beer" - Cura 25 HP"#* (It's family friendly!)
+* (Todo menos las pasas ha#  sido tomado ya. Cura 13#  PV.)
+ "Té de Mar" - Cura 10 PV"#* (Té resplandeciente que sacudirá#  tu sistema.)
+ "Magdalena Floral" - Cura ?? PV
+ "Cerveza de Raíz" - Cura 25 PV"#* (¡Para toda la familia!)
 Grants 
- PP#* (Makes you invulnerable#  for a pear of hits.)
+ PP#* (Te hace invulnerable por#  un par de golpes.)
  SP
-* (Halves the weight of your soul, giving you a speed boost for three enemy attacks.)
-Cura 15 HP por 3 turnos
-The first bite hurts for 5 HP.
+* (Recorta el peso de tu alma,#  aumentando tu velocidad por#  tres turnos del rival.)
+Cura 15 PV por 3 turnos.
+El primer bocado quita 5 PV.
 Weapon AT 
 #* (Sin descripción.)
 Armor DF 
 Ammo AT 
-#* (Small, safe, non-toxic#  rubber pellets.)
-#* (Like rocks, but smaller.#* Good makeshift ammo.)
-#* (Very conveniently shaped ice#  cubes.)
-#* (Literal shards of glass.#  Yep.)
-#* (A dusty, black rock.#  Might be useful for combat.)
-#* (A pack of reflective pellets.)
-* (A perfect shot deals#  triple the damage.)
+#* (Pequeñas, seguras y no# tóxicas bolitas de goma.)
+#* (Como rocas, pero pequeñas.#  Buena munición improvisada.)
+#* (Cubos de hielo con una forma#  realmente conveniente.)
+#* (Literalmente fragmentos de#  vidrio. Sep.)
+#* (Una roca polvorienta y#  negra. Puede ser útil para#  el combate.)
+#* (Un paquete de bolitas#  reflectantes.)
+* (Un disparo perfecto hará daño#  triplicado.)
 Accessory DF 
-#* (A loosely sewn on patch.)
-* (It's not strong but it's trustworthy.)
-#* (An old, forgotten feather.)
-* (It needs a good preening.)
-#* (A pin advertising the Honeydew#  Resort in Snowdin.)
-#* (A pin commemorating a concert#  you didn't go to.)
-#* (A leather weapon-holder,#  perfect for duels at noon.)
+#* (Un parche flojamente#  cosido.)
+* (No es muy fuerte pero es#  confiable.)
+#* (Una vieja y olvidada pluma.)
+* (Necesita un buen#  acicalamiento.)
+#* (Un pin promocional del Resort#  Honeydew de Snowdin.)
+#* (Un pin conmemorativo de un#  concierto al que no#  fuiste.)
+#* (Una funda de arma de cuero,#  perfecta para duelos al#  mediodía.)
 gml_Script_scr_item_info_text_yellow
 scr_item_info_text_yellow
 gml_Script_scr_determine_item_droppable_yellow
@@ -11580,27 +11580,27 @@ indicator_on
 flash_count
 variation
 BZstzZ;Z t_T#//98 .. -
-[CRITICAL MEMORY#ERROR]
-;TRAMPLED_#FLOWERS . . .
-I CANNOT RECALL/#WHAT HA-S#TRANSPIRED _
-IF_MY BOTANICAL#C0NDUCT WAS#/UNSATISFACTORY. . .
-NO.. . I WILL#N/NoT MAKE#EXCUSES_
-I_MUST DESERVE#THIS. .. .
-[SYSTEM FAILING.#SEEK REPAIRS#IMMEDIATELY]
-I SUP-POSE Y0U#F/EEL DIFF3RENTLY#BUT TO ME.. .
-THE GARDEN_#. .
-IT IS. ..#BEAUTIFUL.
+[ERROR CRÍTICO DE#MEMORIA]
+;FLORES_#PISOTEADAS . . .
+NO RECUERDO/#QUE H-HA#OCURRIDO _
+SI_MI CONDUCTA#BOTÁNICA FUE#/INSATISFACTORIA. . .
+NO.. . N-NO#P/PONDRÉ NINGUNA#EXCUSA
+SEGURO_ME MEREZCO#ESTO. .. .
+[SISTEMA FALLANDO.#BUSCAR REPARO#INMEDIATAMENTE]
+SUP-ONGO QUE TÚ#L/O VES DIFERENTE#PERO PARA MI.. .
+EL JARDÍN_#. .
+ES. ..#HERMOSO.
 * ¿sabes dónde fue guardener?
 * siento que nos llevamos muy#  bien.
 * pienso en llamarla para temas#  de trabajo - osea invitarla a#  una cita caliente.
-* sé que el amor robot está#  prohibido pero es lo hace#  diez veces más emocionante.
+* sé que el amor robot está#  prohibido pero eso lo hace#  diez veces más emocionante.
 * y de todos modos, no#  pueden batir al batido.
 * no mientras esté amarrado.
 * veo que llevas un arma#  tú mismo.
-* uno de seis tiros, ¿Cierto?,#  elegante, me gusta.
+* una de seis tiros, ¿cierto?,#  elegante, me gusta.
 * asegúrate de ser responsable#  con ella.
 * es "seguridad primero" en#  steamworks después#  de todo.
-* debo empezar a pensar en qué#  llevar en mi cita.
+* debo empezar a pensar qué#  llevar en mi cita.
 * antes vi a un tipo con un buen#  chaleco y un sombrero.
 * quizás podría pedirle un#  consejo.
 BzZT-Z// z. ._ .
@@ -12611,17 +12611,17 @@ Cuarto
 * Quería "encontrarte en el#  tejado" es lo que dijo#  exactamente.
 * Todo lo que pido es que por#  favor no hagan nada ilegal#  en las instalaciones.
 actor_axis
-* [MAIN POWER SOURCE NOT#  FOUND_]
-* [INITIATING EMERGENCY#  BACKUP POWER_]
+* [FUENTE DE ENERGÍA#  PRINCIPAL NO ENCONTRADA_]
+* [INICIANDO ENERGÍA#  DE RESPALDO_]
 * H-H-HUMA-NO.
-* Y-YOU HAVE ANGERED ME#  GREATLY.
-* I HAVE HAD IT WITH YOU#  DOING NOTHING AS I FAIL#  OVER AND OVER.
-* DO YOU KNOW HOW HARD IT#  WAS TO GET THE ACID OUT#  OF MY STEEL?
-* I HAD TO PUT MYSELF IN#  A WASHING MACHINE. IT#  WAS QUITE DIZZYING.
-* THOUGH I DO FEEL, AS#  THE KIDS SAY: "FRESH AS#  HELL."
-* ANYWAY.
-* IF YOU CANNOT TELL, I#  AM [ticked] OFF AND OUT#  OF NON-LETHAL OPTIONS.
-* THAT, AND THIS FURNACE#  HAS A NICE "TIME TO DIE"#  AESTHETIC TO IT.
+* M-ME HAS ENFADADO#  MUCHO.
+* YA TUVE SUFICIENTE DE#  TI NO HACIENDO NADA#  MIENTRAS YO FALLO Y FALLO.
+* ¿SABES LO DIFÍCIL QUE#  FUE SACAR EL ÁCIDO DE#  MI ACERO?
+* TUVE QUE PONERME EN UNA#  MÁQUINA LAVADORA. FUE UN#  POCO VERTIGINOSO.
+* AUNQUE ME SIENTO, COMO#  DICEN LOS NIÑOS: "FRESCO#  COMO EL INFIERNO".
+* COMO SEA.
+* POR SI NO LO NOTASTE#  ESTOY [ENOJADO] Y CORTO DE#  OPCIONES NO LETALES.
+* ESO, Y QUE ESTE HORNO#  TIENE UNA GRAN ESTÉTICA#  "HORA DE MORIR".
 * ASÍ QUE PREPÁRATE. VOY#  A ATACARTE.
 * QUÉ.
 * MI PROGRAMACIÓN ME#  IMPIDE ATACARTE.
