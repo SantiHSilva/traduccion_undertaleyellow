@@ -12967,19 +12967,19 @@ door_fade_out
 path_change_point
 ¡No puede ser!
 ¡Claro!
-* I JUST FOUND THIS#  HIGHLY-CORROSIVE#  CONCOCTION.
-* I WOULD LIKE TO APPLY#  IT ON YOUR SKIN.
-* WILL YOU BE MY TEST#  SUBJECT?
-* WONDERFUL.
-* CORRECT DECISION.
-* ALLOW ME TO TERMINATE#  THE CORK FIRST.
-* IT IS TOUGH TO OPEN#  CONTAINERS...
-* ...WHEN MY ONLY POINT#  OF FORCE IS AT THE BACK#  OF MY HANDS.
-* ALMOST HAVE IT.
-* [Shoot]
-* DO NOT FRET, I WILL#  RETRIEVE ANOTHER TUBE-
+* ACABO DE ENCONTRAR#  ESTA MEZCLA ALTAMENTE#  CORROSIVA.
+* ME GUSTARÍA APLICARLO#  EN TU PIEL.
+* ¿QUIERES SER MI#  SUJETO DE PRUEBA?
+* MARAVILLOSO.
+* UNA DECISIÓN CORRECTA.
+* PERMÍTANME TERMINAR#  EL TAPÓN PRIMERO.
+* ES DIFÍCIL ABRIR#  CONTENEDORES...
+* ...CUANDO MI PUNTO#  DE FUERZA ESTÁ EN EL#  DORSO DE MIS MANOS.
+* CASI LO TENGO.
+* [Rayos]
+* NO SE PREOCUPE,#  VOY A RECUPERAR#  OTRO TUBO...
 * HUH.
-* HOW THE TABLES TURN.
+* CÓMO CAMBIAN LAS#  COSAS.
 axis_acid_sound
 boom
 pellet_number_inc
@@ -13120,30 +13120,30 @@ bullet_spawner
 homing_speed
 h_variation
 sin_speed
-* Leave us alone will you?
-* This is a family matter.
-D../inner _:wiLl#be <r-Ready .>#Soon.
-Sw/>.eet _or#SAVory?	
-Ah yes! Just a#light tap on ze#edge!
-Underground?#Undercooked!#What ez ze issue?
-Quelle#impolitesse!
-Water? Pah!#I cannot touch such#a zing!
-No! Ze egg ez#already out of#its casing!
-Oui! Turn up#ze heat!
-What ez going on#inside your tiny#head? Non!
-We are not making#pie! Get it#togezer!
-Ze meal ez not#even done and#you want#leftovers?
-Hopeless!#Unprofessional!
-It accomplished#giving me joy...#but I cannot eat#joy!
-Ze egg is not#alive! Well...#not anymore :/
-Of course!#I must sow ze#seeds of flavour!
-If you can't#stand ze heat...#good!
-Natural#ingredients!#Never#substitute!
-A bit of zis...#a bit of zat...
-C'est croquant,#c'est fondant...
-Réjouis-toi!#I am only going#to bring you to a#light boil!
-Longue vie au#roi, courte vie#à l'humain!
-Your complexion...#un poulet cru.#Some food will#help!
+* Déjanos en paz, ¿quieres?
+* Se trata de un asunto familiar.
+La C../ena _:estAra#<l-Lista .>#Pronto.
+¿Du/>.lce _o#SALado?	
+¡Ah, sí! ¡Sólo#un ligero golpecito#en ez borde!
+¿Subsuelo?#¡Subcocido!#¿Cuál es el#problema?
+¡Qué#maleducado!
+¿Agua? ¡Pah!#¡No puedo#tocar#semejante coza!
+¡No! ¡Ze huevo#ya eztá fuera#de su envoltura!
+¡Oui! ¡Sube za#temperatura!
+¿Qué paza dentro#de tu#cabecita? ¡Non!
+¡No estamos#haciendo tarta!#¡Tozo junto!
+¿Za comida ni#ziquiera está#hecha y#quieressobras?
+¡Sin#esperanzas!#¡Poco#profesional!
+Cumpliste dándome#alegría... ¡pero#no puedo comer#alegría!
+¡Ze huevo no#está vivo!#Bueno...#ya no :/
+¡Claro!#¡Debo sembrar#zemillas de#sabour!
+Si no soportas#ze calor...#¡bien!
+¡Ingredientes#naturales!#¡Nunca#sustituir!
+Un poco de#zis... un#poco de zat...
+Crujiente,#derretido...
+¡Alégraze!#¡Sólo voy a#llevarte a#un ligero#hervor!
+¡Larga vie al rey,#viva l' humanos!
+Tu personalidad...#un pollot crudo.#¡Algo de comida#ayudará!
 horse1
 horse2
 explosive_enemy
@@ -14707,36 +14707,36 @@ Tu ITEM está listo
 camera_x
 dynamite_spawned_count
 dynamite_spawned_max
-* Ah, bonjour! Mon apprenti!
-* Welcome back to ze kitchen!
-* Thanks to your infinite#  wisdom, I have kept myself#  busy!
-* Oui! Nossing but frying eggs#  for ze past ‘our!
-* I am gifting free samples so#  have a taste if you like!
-* Have you seen ze flora#  everywhere?
-* Ces plantes blanches...
-* Well! Zeir taste iz just#  lovely!
-* I ground some up into a new#  spice to use on zi eggs!
-* But, for some reason, zi eggs#  did not like it.
-* Zey melted in my pan when the#  spice touched zem!
-* Quelle tragédie! Amour#  interdit!
-* You are ze first monstre I#  have spoken to in a while!
-* I do miss conversing with#  ozers, espessially my creator!
-* We have a lot in common. Our#  physique, voice, culinary#  skills - zey all match!
-* I was confused why we were zi#  only ones in ze Steamworks like#  zis...
-* He said zat many monstres come#  from ze outside world. Ze#  Surface!
-* And on ze Surface are many#  different types of beings from#  different places!
-* When all monstres migrated to#  zis mountain, some of zem#  hailed from zose places!
-* And so, zeir wonderful#  traditions and cultures have#  spread around down here!
-* What a beautiful sing!
-* I asked my creator where his#  family was from.
-* He told me about a land far#  away with millions like me!
-* But I simply cannot believe#  such a sing!
-* Millions of culinary bots#  living togezer?
-* Impossible!
-* Zere would not be enough#  frying pans to go around!
-* I better get back to ze stove!
-* Until we cook again! 
-* Au revoir!
+* ¡Ah, bonjour!#  ¡Mon apprenti!
+* ¡Bienvenido de vuelta#  a la cozina!
+* ¡Gracias a tu infinita#  sabiduría, me he#  mantenido#  ocupado!
+* ¡Oui! ¡Nada más que freír#  huevos durante la#  úlzima hora!
+* ¡Estoy regalando muestras#  gratis, así que#  prueba si te gusta!
+* ¿Has visto la flora#  por todas partes?
+* Cestas plantas#  blanchas...
+* ¡Bien! Su zabor es#  zimplemente encantador!
+* Trituré algunas para hacer#  una nueva especia para#  usar en loz huevos!
+* Pero, por alguna razón,#  a loz huevos no#  les gustó.
+* ¡Ze derritieron en mi#  sartén cuando la#  espezia lo tocó!
+* ¡Qué tragédie!#  ¡Amour prohibido!
+* Eres el primer monztre#  con el que he#  hablado en un tiempo.
+* Echo de menos conversar con#  otroz, especialmente#  con mi creador.
+* Tenemos mucho en común.#  Físico, voz, habilidades#  culinarias - ¡coinziden!
+* Estaba confundido de#  por qué éramoz loz únicos en ze#  Steamworks así como esto...
+* Dijo que muchoz monstres#  vienen del mundo exterior.#  ¡Za Superficie!
+* ¡Y en za Superficie hay#  muchos tipos diferentes de#  seres de diferentes lugares!
+* ¡Cuando todos los monstres#  migraron a ezta montaña, algunos#  provenían de ezos lugares!
+* ¡Y así, zus maravillosas#  tradiciones y culturas se#  han difundido por aquí abajo!
+* ¡Qué hermosa canción!
+* Le pregunté a mi creador#  de dónde era su#  familia.
+* ¡Me habló de una tierra#  lejana con millones#  como yo!
+* ¡Pero simplemente#  no puedo creer#  tal cosa!
+* ¿Millones de bots#  culinarios viviendo#  junzos?
+* ¡Imposible!
+* ¡Zo habría suficientes#  sartenes para todos!
+* ¡Mejor vuelvo a#  za eztufa!
+* ¡Hasta que cocinemos#  de nuevo!
+* ¡Au revoir!
 speed_target
 ¡Ya lo he#visto!
 ¡Odio las#repeticiones!
