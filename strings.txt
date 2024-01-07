@@ -1955,7 +1955,9 @@ H. Acid
 * (Conectas la hebilla de acero#  a tu pantalón.)
 * (¡Tus pantalones se sienten más#  resistentes que antes!)
 * (Te pones la impresionante#  chaqueta amarilla resaltadora.)
-* (Estas listo para todo#  desde ahora!)
+* (¡Estás totalmente listo para preocuparte#  por los negocios!)
+* (Equipas con orgullo la#  funda elegante.)
+* (Estás listo para todo#  desde ahora!)
 * (Te colocas la bufanda dorada.#* Tu tremendo gusto por el estilo#  hace que los enemigos te contemplen.)
 * (Envuelves las gafas de#  seguridad alrededor de#  tu sombrero.)
 * (Es como si tuviera ojos#  ahora.)
@@ -3508,7 +3510,7 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * El fin de los tiempos.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_1
 scr_battle_core_directory_flavor_text_enemy_1_default_1
-* ¿¡Cuando se termina este semestre!?
+* ¿¡Cuándo se termina este semestre!?
 * Como, ¡totalmente!
 * Flier usa la jerga de moda#  como los niños.
 * Penilla desecha su dibujo#  y vuelve a empezar.
@@ -4184,7 +4186,7 @@ enemy_low_hp_3
 * JANDROID -- ATQ 
 #* "Higiene" No está en su#  vocabulario.
 * GOOSIC -- ATQ 
-#* Music dirige el animo.
+#* Music dirige el ánimo.
 * SOUSBORG -- ATQ 
 #* Una receta para el desastre.
 * AXIS -- ATQ 
@@ -9162,7 +9164,7 @@ self_message
 * (Es casi como si el calor#  saltara del lienzo.)
 * El pozo de los#  deseos de las Dunas.
 * Sujeta una moneda de ORO#  contra tu pecho, piensa en lo#  que más quieres y ¡lánzalo!
-* Nunca se sabe. Si  suficientes#  monstruos desean#  algo, puede que se haga realidad.
+* Nunca se sabe. Si suficientes#  monstruos desean#  algo, puede que se haga realidad.
 * Fuera de servicio#  - Por favor, deje#  de darle dinero.
 * (Un dibujo infantil#  que representa#  a tres monstruos felices.)	
 * Mi preciosa familia#  - por mí :)
@@ -11161,7 +11163,7 @@ drawing_poster
 * (Planos enrollados dentro de#  la caja.)    
 * (Echas un vistazo.)
 subimg
-?~
+¿?~
 jeJe~
 Bwaa~
 Grrr~
@@ -14872,7 +14874,7 @@ Es verdad. ¡Vete#ahora!
 ¡Ding ding ding!#¡Tengo un#genio por#aquí!
 Oh, esto y#aquello.#Casualidades.#Ya sabes...
 ¡Soy un#excelente#compañero#de viajes!
-¡Sí, vamos a # llegar lejos,# tú y yo!
+¡Sí, vamos a# llegar lejos,# tú y yo!
 ¡Sabía que verías#las cosas a mi#manera, humano!
 ¡Vamos, amigo,#no me dejes#solo!
 ¡Bien! ¡Pero#te estás#perdiendo# MUCHO!
@@ -15203,7 +15205,7 @@ interacted_with
 * Pintada de azul y cubierta de una#  gruesa capa de polvo, se#  encuentra ahí, fuera de servicio.
 * Pocos monstruos recuerdan verla#  funcionando y eso puede#  ser a propósito. 
 * En la máquinas, residen dos#  logos: Team Y y Blunko#  Industries.
-* Las mismas dos compañías#  humanas que crearon la máquina de#  Mew Mew Blaster de Amor.
+* Las mismas dos compañías#  humanas que crearon la máquina del#  Blaster del Amor Mew Mew.
 * Las leyendas dicen que fue#  jugable por un tiempo luego#  de ser recuperada del basurero...
 * ...pero sus contenido eran#  "desagradables" de experienciar.#
 * (Volteas al siguiente#  capítulo.)
@@ -19565,7 +19567,7 @@ Elevador
 * No había tenido una#  emergencia como esta#  desde el viejo derrumbe.
 * Ese día abandonó#  una buena instalación.
 * Si alguna vez ves#  a mi niño por ahí,
-* ¡Diles que su viejo#  le echa de menos!
+* ¡Diles que su viejo#  los echa de menos!
 * Si te vas, mantente#  a salvo ahí fuera.
 * Pero yo no#  recomendaría vagabundear#  ahora mismo.
 hat_text
