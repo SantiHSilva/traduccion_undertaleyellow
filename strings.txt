@@ -1855,7 +1855,7 @@ Videotape
 H. Acid
 * (Bebes la limonada.)
 * (Está muy ácida.)
-* (Comes el Maiz Dulce.)
+* (Comes el Maíz Dulce.)
 * (Ahora ya sabes porque#  fue desechado.)
 * (Comes la Pera Dorada.)
 * (El inmenso sabor abraza#  a tus papilas gustativas.)
