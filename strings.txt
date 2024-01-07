@@ -1862,7 +1862,7 @@ H. Acid
 * (En general... No está mal.)
 * (Deboras el Corn Dog.)
 * (No puedes evitar sentirte#  mal por hacerlo.)
-* (No puedes coser el Patch#  atrás de tu sombrero.)
+* (No puedes coser el Parche#  atrás de tu sombrero.)
 * (Pones la pluma en tu#  sombrero.)
 * (Te hace sentir orgulloso.)
 * (En un segundo, amarras la#  Golden Bandana alrededor#  de tu cuello.)
@@ -1871,8 +1871,8 @@ H. Acid
 * (Ahora se siente más#  pesada.)
 * (Cargas la Silver Ammo#  en tu pistola.)
 * (Los pétalos brillan en#  la luz.)
-* (Cargas la rubber ammo en#  tu pistola.)
-* (Cargas con cuidado el Glass#  en tu pistola.)
+* (Cargas las balas de goma en#  tu pistola.)
+* (Cargas con cuidado el Vidrio#  en tu pistola.)
 * (¡Phew! ¡Sin cortes!)
 * (Carglas el Flint#  en tu pistola.)
 * (¡Se puede iniciar un#   incendio con este!)
@@ -1996,7 +1996,7 @@ scr_item_use
 * Info message
 info
 * "Limonada" - Cura 7 PV#* (No huele demasiado apetitosa.)
-* "Pebbles" - Arma AT 3#* (Son rocas, pero pequeñas.#* Una buena alternativa a las balas.)
+* "Piedras" - Arma AT 3#* (Son rocas, pero pequeñas.#* Buena alternativa a las balas.)
 * "Balas de plata" - Arma AT 3#* (Un paquete de balas#  reflectantes.)
 * (Encajan perfectamente en#  el cargador de 6 balas.)
 * (Un disparo perfecto#  dará un daño extra.)
@@ -2027,7 +2027,7 @@ info
 * "Soda de adultos" - Cura ??? HP#* (Un líquido trasparente#  sin olor.)
 * "Paquete de nueces" - Cura 10 HP
 * (Ideal para prevenir daño o#  destrucción de un frágil#  estómago.)
-* "Mezcla de frutos secos" - Cura 13 HP"
+* "Mezcla seca"#  - Cura 13 HP"
 * (Seleccionas absolutamente todo#  menos las pasas.)
 * "Té helado" - Cura 20 HP"#* (Un vaso de dulce y suave té.)
 * (Se puede ver un sticker de Mo#  sonriendo en la esquina del envase.)
@@ -16891,7 +16891,7 @@ audio_sound_gain_gramophone
 * (Le falta realismo maicero.)
 * (Es un guardarropa con un#  aspecto intimidante.)
 * (Dentro hay un globo flotando#  lentamente. Tiene una#  carita feliz.)
-* (Respeta la privacidad de Dalv.)
+* (Decides respetar la#  privacidad de Dalv.)
 * Oye. ¿Te importaría#  darle a Pops su espacio?
 * Le gusta la oscuridad...
 * (Te despides de Pops#  antes de volver a cerrar#  la puerta.)
@@ -16987,7 +16987,7 @@ Ya has hecho#suficiente daño aquí.
 * Nos vemos... más tarde.
 * Tengo que...#  arreglar algo en otra#  habitación.
 * Siéntate,#  ponte cómodo,#  quítate los zapatos.
-* En realidad por favor#  dejatelos puestos, el#  suelo está algo sucio.
+* En realidad por favor#  déjatelos puestos, el#  suelo está algo sucio.
 * No he barrido desde#  esta mañana.
 * Parece que te tomaste#  tu tiempo.
 * Oh, pero no te preocupes#  estoy acostumbrado#  a estar solo.
@@ -17795,8 +17795,8 @@ rephil_col
 * Nos gustaría proponer un#  reto.
 * Un tipo de juego.
 ball_arrived
-* Cogeremos esta pelota y#  la esconderemos debajo de#  uno de nosotros.
-* A continuación,#  vamos a mezclar.
+* Tomaremos esta pelota y#  la esconderemos debajo de#  uno de nosotros.
+* A continuación,#  vamos a mezclarnos.
 * Cuando terminemos, tendrás que#  adivinar quién tiene la pelota.
 * Vamos a hacer esto tres veces#  seguidas.
 * ¿Ganas?
@@ -18307,7 +18307,7 @@ compound
 * ¡En vez de eso, te#  llevare a casa antes#  de que te vean!
 * ¡Estarás en casa a#  tiempo para la#  cena!
 * Quiero decir- quizá ¡no#  la cena de hoy, pero#  seguro que una cena!
-* De todos modos, pasaré#  por alto la Guardia Real y#  te defenderé ante ASGORE.
+* De todos modos, pasaré#  por alto la Guardia y#  te defenderé ante ASGORE.
 * ¡No hay forma de que#  pueda decir que no a una#  carita tan linda como tú!
 * ¡Reúnete conmigo más#  adelante y veremos mi#  plan para ir a casa!
 battle_flag
@@ -18344,7 +18344,7 @@ aviator_xspd
 * Cruzaremos ese puente#  cuando lleguemos a él,#  ¿ok?
 * También quería#  disculparme por,#  bueno, ya sabes...
 * atacarte...
-* ¡No quise hacer daño,#  en serio! ¡Era#  mi trabajo, eso es todo!
+* ¡No quise hacer daño,#  en serio! ¡Era mi#  trabajo, eso es todo!
 * Y, bueno...
 * A veces no sé qué es#  lo "correcto" hasta#  que es demasiado tarde.
 * Así que... sé que#  acabamos de conocernos#  y todo eso...
@@ -18379,7 +18379,7 @@ aviator_xspd
 * ¡Está bien! Estaré#  aquí.
 * ¡Tómate todo el#  tiempo del mundo!
 * ...En realidad, si#  no te importa,#  no tomes, como,
-* todo el#  tiempo del mundo.
+* todo el tiempo del mundo.
 * Queremos que nos#  quede tiempo para#  el viaje, ¿sabes?
 * ¡Wowie, qué día!
 * Felicidades, amigo.
@@ -18624,7 +18624,7 @@ pl_sprite
 * (Los restos#  encharcados de un#  viejo cofre.)
 * (Ves una pequeña bolsa#  de papel seca guardada#  en el interior.)
 * (¿Te lo llevarás?)
-* (¡Conseguiste un#  poco de trail mix!)
+* (¡Conseguiste un#  poco mezcla seca!)
 * (Un viejo cofre.)
 * (Aparatos y artefactos llenan#  el espacio del escritorio.)
 * (Sobre todo ello... un mapa.)
@@ -23554,7 +23554,7 @@ spin_speed_divider
 move_random_number
 angle_intensity
 random_intensity
-Feliz#croak.
+Croak#feliz.
 Gruñe.
 Agáchate,#agáchate.
 Ribbit,#ribbit.
