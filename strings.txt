@@ -519,7 +519,7 @@ gml_Script_scr_save_flowey_steamworks
 * Esto fue una gran#  pérdida de tiempo.#  Para los dos.
 * ¿No estás de acuerdo?
 * Demostraste que podías#  superar a ASGORE#  hace mucho tiempo.
-* Todo esto... Es#  excesivo, ¿sabes?
+* Todo esto... es#  excesivo, ¿sabes?
 * Así que sigamos#  paseando hasta#  el Castillo.
 * No más batallas#  innecesarias. 
 * Guarda tu energía para#  la lucha que importa,#  ¿de acuerdo?
@@ -3553,7 +3553,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_1
 * Guardener riega su jaula.
 * Guardener golpea el suelo#  con los brazos agitados.
 * Huele a Aa;1rW4,je2FpA,,.
-* Ceroba seca el sudor#  de su frente.
+* Ceroba seca el sudor de su#  frente.
 * Los pétalos llueven del cielo.
 * Ceroba emite con furia.
 * El fin se acerca.
@@ -9852,7 +9852,7 @@ talk_script
 * No necesitamos tener#  a nadie encima.
 * Podríamos ser solo#  nosotros.
 * Un picnic suena#  encantador.
-* Quiero que Kanako y tú#  tengan uno, rodeados de#  sus mejores amigos.
+* Quiero que Kanako y tú#  tengan uno, rodeadas de#  sus mejores amigos.
 * ¿Qué estás diciendo?
 * Yo...
 * Dios...
@@ -10470,8 +10470,8 @@ credits_entry_three
 river_ambience
 * He estado pensando#  en ese día.
 * Un montón.
-* El tiempo es algo,#  gracioso, ¿Sabes?
-* Supongo que en el#  panorama de mi vida,#  fuiste sólo un parpadeo.
+* El tiempo es algo,#  gracioso, ¿sabes?
+* Supongo que en el#  panorama de mi vida,#  fuiste solo un parpadeo.
 * Pero a menudo, esos#  "parpadeos" son los que#  más impacto causan.
 * El Rey me ofreció una#  promoción.
 * Un puesto en Nuevo#  Hogar. Pero...
@@ -10488,11 +10488,11 @@ actor_ceroba
 * Es bonito.
 * Lo es.
 * Gracias por hacer esto.
-* Se sintió bien construir#  algo con valor#  otra vez.
+* Se sintió bien construir#  algo con valor otra#  vez.
 * ¿Tienes tu regalo?
 * Seh, ahí va.
 * Oh, casi lo olvido.
-* Hay alguien quien#  invité que era un amigo#  de Clover.
+* Hay alguien a quien#  invité que era un amigo#  de Clover.
 * ¿Un amigo?
 * ¿H-Hola?
 * ¿Este es el lugar correcto?
@@ -10507,13 +10507,13 @@ actor_ceroba
 * ...ataqué a Clover.
 * Creo que todos lo#  hicimos en un punto...
 * ¡Pero prometo que#  no duró mucho!
-* Y me contuve#  un poco. Em...
+* Y me contuve un poco.#  Em...
 . ¿A dónde iba con esto?
 * Clover te ayudó a salir#  de tu situación.
 * Sí.
-* En definitiva, Clover#  fue  muy amable conmigo.
+* En definitiva, Clover#  fue muy amable conmigo.
 * Tiene sentido.
-* Es un placer conocoerte,#  Dalv.
+* Es un placer conocerte,#  Dalv.
 * Gracias por venir.
 * Por supuesto.
 * Bueno...
@@ -11624,7 +11624,7 @@ creador.
 * Necesito que North Star#  vuelva cuanto antes.
 * ¿A quién más se supone que#  debo seguir ciegamente en#  la vida? ¿A mi padre?
 * Claro, si quiero asar carne y#  navegar por páginas de Undernet#  todo el día.
-No pierdes el#tiempo, ¿Eh?
+No pierdes el#tiempo, ¿eh?
 Sabes...
 Toda mi vida...
 Toda mi vida,#Me enseñaron#que los humanos son#el enemigo.
@@ -12946,7 +12946,7 @@ Nuestra pequeña niña... Kanako. Ella#necesita vivir una vida feliz, sin#verse 
 * ¡Despierta ahora mismo! 
 * ¡Mami está aquí, vamos!
 * Qué...
-        ¿Qué acabo de hacer?
+       ¿Qué acabo de hacer?
 ¡Hola, Clover!
 Siento mucho#esto, ¡pero he estado#aburrido todo#el día!
 door_menu_open
@@ -13190,7 +13190,7 @@ part_type_alpha2
 zen_dialogue_gain
 offset_y_current
 offset_y_scroll_speed
-* Me... me diste un#  b-buen golpe, ¿Eh?
+* Me... me diste un#  b-buen golpe, ¿eh?
 * S-Star lo...
 * No te preocupes#  demasiado...
 * Entiendo que me lo#  merecía por el fiasco#  del Salvaje Este.
@@ -13204,10 +13204,10 @@ offset_y_scroll_speed
 * Clover ganó.
 * ¿Ustedes tuvieron una#  batalla? ¿Y el#  ayudante ganó?
 * (Mis clases#  funcionaron...)
-* Espera, ¿Qué tanto me#  perdí?
+* Espera, ¿qué tanto me#  perdí?
 * No sé que hacer.
 * Disculparme, hacer#  excusas, nada cambiaría#  la realidad.
-* Cavé un pozo demasiado#  profundo como#  para salir.
+* Cavé un pozo demasiado#  profundo como para#  salir.
 * Y para nada...
 * Oye...
 * ¿Dónde estaba yo hace#  unas horas?
@@ -13218,15 +13218,15 @@ offset_y_scroll_speed
 * Pero hay esperanza. Al#  menos... creo que#  la hay.
 * No... no puedo empezar#  a comprender por lo#  que has pasado...
 * Pero, esta fue una#  horrible manera#  de lidiar con ello.
-* No puedes cambiar lo#  que ha ocurrido,#  tienes razón.
-* Pero puedes controlar#  cómo vivirás a#  partir de ahora.
+* No puedes cambiar lo#  que ha ocurrido, tienes#  razón.
+* Pero puedes controlar#  cómo vivirás a partir#  de ahora.
 * Tus acciones#  significarán todo.
 * Chujin. Su legado. Su#  deseo.
 * Nunca será cumplido.
 * Chujin podrá no ser#  el monstruo perfecto que#  pensé que era.
-* Pero incluso sus#  secretos más oscuros tienen#  empatía.
+* Pero incluso sus#  secretos más oscuros#  tienen empatía.
 * Y justo eso allí...#  es su legado.
-* No se encuentra en#  el suero para "salvar#  el mundo."
+* No se encuentra en#  el suero para "salvar#  el mundo".
 * Todos los que ayudó,#  todo lo que construyó...
 * Eso es lo que importa.
 * Martlet tiene razón.
@@ -13238,9 +13238,9 @@ offset_y_scroll_speed
 * Podemos superar esto.
 * Estamos aquí para ti.
 * Ahora...
-* Deberías tomarte un#  poco de tiempo#  para sanar. Recuperarte.
+* Deberías tomarte un#  poco de tiempo para#  sanar. Recuperarte.
 * Pero... el bienestar#  de Kanako es todavía#  una preocupación válida.
-* Tengo conexiones con la#  Científica Real#  así que...
+* Tengo conexiones con la#  Científica Real así#  que...
 * Empezaré una#  investigación. Haré lo#  posible para ayudar.
 * No sé que decir...
 * Gracias, Martlet.
@@ -13267,15 +13267,15 @@ offset_y_scroll_speed
 * Seh, ¡Clover no#  dañaría a nadie!
 * ¿Creen que eso ha#  importado en el pasado?
 * La verdad apesta, pero#  es lo que es.
-* Entonces, ¿Qué?
+* Entonces, ¿qué?
 * ¿Debería llevar a#  Clover a Snowdin?
 * ¿Esconderlo por el#  resto de nuestras#  vidas?
-* Seh, ¿Por qué Clover#  no puede quedarse#  con nosotros?
+* Seh, ¿por qué Clover#  no puede quedarse#  con nosotros?
 * Osea, es posible pero#  la Guardia Real lo#  empezaría a buscar, ¿no?
-* ¿Luego de tantos#  encuentros Clover#  sólo desaparece?
+* ¿Luego de tantos#  encuentros Clover#  solo desaparece?
 * No sería la primera#  vez.
 * ¡Ohh sí! ¡Probablemente#  pensarían que ocurrió#  lo mismo otra vez!
-* Pero... ¿Qué pasa#  con los otros?
+* Pero... ¿qué pasa#  con los otros?
 * Ya sabes, los#  siguientes humanos.
 * ¿Clover puede vivir#  una vida feliz pero#  ellos tienen que morir?
 * Oh.
@@ -13284,13 +13284,13 @@ offset_y_scroll_speed
 * ¿Qué? ¿Se lo merecen?
 * ¿Acaso no has#  aprendido nada?
 * ¡Estoy valorando#  nuestras opciones!
-* Estamos entre la#  espada y la pared,#  ¿Entiendes?
+* Estamos entre la#  espada y la pared,#  ¿entiendes?
 * Hey, cálmense, chicos.
-* ¡Sabes que realmente#  pensé que el fiasco de#  esta noche fue suficiente!
+* ¡Sabes realmente creí#  que el fiasco de esta#  noche fue suficiente!
 * Todos hablamos#  y las cosas estaban#  yendo bien.
 * Pero inmediatamente#  sugieres dar a#  futuros niños a
-* ¡No lo refería de ese#  modo! ¡Déjame en paz!
-* Lo siento pero no creo#  que usteden tengan una sala#  para discutir ahora mismo.
+* ¡No lo decpia de ese#  modo! ¡Déjame en paz!
+* Perd+pm pero no creo#  que sea el momento#  para pelear ahora mismo.
 * ¡Vamos ustedes dos!#  ¡Déjenlo
 camera_xx
 Probablemente quieras  irte#a casa, ¿verdad?
@@ -13317,7 +13317,7 @@ Eres un alma noble.#De las mejores que#he conocido.
 ¡Clover!
 * ¿¡Clover, qué estás#  haciendo!?
 * Hey, eh...
-* ¿Clover? ¿Qué#  sucede?
+* ¿Clover? ¿Qué sucede?
 * Nos estás asustando.
 * ¿Q-Qué significa eso?
 Es hora.
@@ -13325,14 +13325,14 @@ Es hora de irme.
 * No... 
 * No no no no no-pen-#  ¡Pensaremos en algo!
 * ¡Tenemos opciones!
-* S-Seh, ¡No hagas#  algo de lo que#  te arrepentirás!
+* S-Seh, ¡no hagas#  algo de lo que#  te arrepentirás!
 * Si es Snowdin lo que#  no te gusta, puedes#  vivir conmigo.
 * Mi casa tiene el espacio.#  ¡Y-Y la pandilla#  te ama!
-* Por favor, ¡Debes#  escucharnos, Clover!
+* Por favor, ¡debes#  escucharnos, Clover!
 * Te mereces lo mejor.
 * Lo dices en serio.
 * ...Entiendo.
-* Todo este tiempo, ¿Qué#  hemos estado haciendo?
+* Todo este tiempo, ¿qué#  hemos estado haciendo?
 * Arrastrar a Clover por#  ahí... sujetado a#  una correa.
 * De forma egoísta.
 * Clover vino aquí por#  su propia voluntad.
@@ -13346,10 +13346,10 @@ Es hora de irme.
 * Lo veo. En tus ojos.
 * Esto es por nuestra#  libertad... ¿cierto?
 * Eres el humano más#  valiente y altruista#  que he conocido.
-* Por supuesto, sólo#  he conocido uno...
-* Pero si alguna vez#  conozco uno, espero#  que sea igual a ti.
-* Te ascendería a#  sheriff porque Dios#  sabe que te lo ganaste,
-* Pero no eres material#  de sheriff.
+* Por supuesto, solo he#  conocido uno...
+* Pero si alguna vez#  conozco otro, espero#  que sea igual a ti.
+* Te ascendería a#  Sheriff porque Dios#  sabe que te lo ganaste,
+* Pero no eres material#  de Sheriff.
 * Eres mucho más.
 * Ya... hice saber mis#  sentimientos en#  Hotland.
 * Así que...
@@ -13357,7 +13357,7 @@ Es hora de irme.
 * Esto significa para#  nosotros más de#  lo que sabes.
 * Para todos.
 * Bueno...
-* Entiendo si ustedes#  dos no quieres estar#  aquí para...
+* Entiendo si ustedes#  dos no quieren estar#  aquí para...
 * Ya saben.
 * ¿Tienes lo que#  necesitas?
 * Lo tengo.
@@ -13372,14 +13372,14 @@ Es hora de irme.
 * Pero gente como tú#  lo hacen mejor.
 * Estaremos...
 * Estaremos afuera.
-* Has ganado mi#  respeto.
+* Has ganado mi respeto.
 * En serio.
 soul_canister
 * ¿Quieres...
 * ...que me quede?
 Ve
 Voy... a estar bien.
-* Esto no será#  olvidado.
+* Esto no será olvidado.
 sdnfnt
   Así que, ¿así termina?
   ¿Todo ese trabajo sólo para#  convertirte en otro#  eslabón de la cadena?
@@ -14365,7 +14365,7 @@ He hecho cosas#imperdonables.
 Dejé que mi marido#trabaje hasta#la muerte...
 Puse a mi preciosa#niña en un infierno...
 Y...
-Oh dios.
+Oh Dios.
 full_sprite
 shopkeeper_sprite_default
 shopkeeper_sprite
@@ -14930,7 +14930,7 @@ ring_object
 lantern_offset
 greyscale_intensity
 greyscale_overlay_alpha
-¿Por qué eres#así?
+¿Por qué eres así?
 Siempre tomando#el buen camino.
 ¿No estás enojado?#¿No eres justo?
 ¡Aprieta el gatillo#de una vez!
@@ -17019,7 +17019,7 @@ __b__
 * Por fin estoy listo#  para mostrar mi talento.
 * Puedo publicar mi novela,#  tener un concierto de#  órganos.
 * ¡Incluso podría hacer#  otro amigo!
-* Qué mundo sería#  si tuviera dos amigos#  enteros.
+* Que mundo sería#  si tuviera dos amigos#  enteros.
 * Iré por ahí y pondré#  maíz en todas las#  puertas.
 * Todo el mundo necesita#  un poco de maíz en#  su vida.
 * Llevo un año comiendo#  maíz todos los días y me#  va medianamente bien.
@@ -17032,7 +17032,7 @@ __b__
 * Ya está.#  Está todo listo.
 * Oh, antes de que lo#  olvide, ¡nunca pregunté#  por tu nombre!
 * ¿Te importaría#  decírmelo?
-* ¿Clover? Qué bonito#  nombre.
+* ¿Clover? Que bonito#  nombre.
 * Bueno, Clover,#  muchas gracias.
 * Nos vemos luego...
 * Amigo.
@@ -17680,7 +17680,7 @@ mo_can_walk
 * ¡Mentira!
 * Pues claro que no.
 * Tú y yo, estamos en la#  misma página aquí.
-* ¿Esto? Qué asco.#  Nadie quiere eso.
+* ¿Esto? Que asco.#  Nadie quiere eso.
 * ¿Líquidos?#  ¡Tan de la temporada pasada!
 * ¿Sólidos? ¡PAH!#  ¡Temporada anterior!
 * ¿Quieres ser fresco y#  revolucionario? ¡Tengo#  lo último!
@@ -17708,7 +17708,7 @@ Cancelar
 * Lo siento, amigo.#  Voy a necesitar más#  ORO que eso.
 * Uh-oh, parece que#  no tienes espacio para#  este item.
 * Vuelve cuando hayas#  hecho algo más de#  espacio.
-* ¡Qué artículo tan popular!#  Ojalá pudiera venderte más,#  pero se me han acabado.
+* ¡Que artículo tan popular!#  Ojalá pudiera venderte más,#  pero se me han acabado.
 * ¡Eh, qué haces ahí!
 * ¡Eso no es una paleta!
 * ¿Me estás abandonando?#  ¿No te interesa mi#  mercancía?
@@ -17719,7 +17719,7 @@ Cancelar
 * Dije Negocios.
 * ¡Mo fuera!
 snow_cutscene
-* (¡Es un castillo de nieve!#* Qué... ¿tierno?)
+* (¡Es un castillo de nieve!#* Que... ¿tierno?)
 * (Abres las puertas.)
 * (Abres el puente levadizo.)
 * (Te duele demasiado la#  cabeza como para seguir.)
@@ -18544,7 +18544,7 @@ diff_x
 * Oh, una cosa más.
 * Voy a necesitar#  tu nombre por motivos#  legales.
 * Ya sabes cómo es.
-* ¡Qué nombre tan#  único! Me encanta.
+* ¡Que nombre tan#  único! Me encanta.
 * Así que, Clover,#  ¡hablemos de Ava!
 * ¿No es genial? ¡Te lo#  dije, navega como una#  melodía de cuna perfecta!
 * Buen ritmo, bonitas#  vistas, ¡y ni una sola#  gotera!
@@ -18586,7 +18586,7 @@ overlay_draw_enabled
 active_object
 pl_sprite
 * ¡Buenas, Clover!
-* Qué día ha sido éste.
+* Que día ha sido éste.
 * ¡Gracias a esa guardia,#  estamos totalmente#  desviados!
 * Parece que ella#  también te abandonó.
 * Supongo que ya#  no puede ayudar.
@@ -19219,7 +19219,7 @@ cur_minute
 * ¡Pero no te preocupes mucho!#  No hay tiempo dado y, bueno,#  ¡todo el mundo muere al final!
 * Tal vez esté viendo dentro#  de cien años... ¡o doscientos!#  ¡Eso es aún mejor!
 * Hmmm... ¡Oh! ¡Tengo algo!
-* ¡Qué bien, eres tú!
+* ¡Que bien, eres tú!
 * Te veo y-oh esto es#  emocionante-¡estás caminando!
 * Pasando por delante de una#  gran nevera de agua clara#  en...
 * Oh espera, espera.#  No llevas rayas,#  ¿verdad?
@@ -20165,7 +20165,7 @@ interact_count
 * Esto es lo mejor.
 * ¡Mírale el lado#  positivo!
 * ¡Las cosas están a#  punto de acelerar!
-* Pronto, serás uno de#  nosotros. ¡Qué#  emocionante!
+* Pronto, serás uno de#  nosotros. ¡Que#  emocionante!
 * Las misiones aquí#  pueden ser realmente#  agotadoras.
 * Por eso tenemos una#  hora designada para#  la siesta.
 * Es una buena forma de#  recargar las pilas para#  futura justicia.
@@ -20413,7 +20413,7 @@ flash
 * ¡Oh ho! ¡Pero si es el#  ayudante!
 * ¿Me firmarías la aguja?
 * ¡Hazlo, por favor!
-* ¡Qué emocionante! ¡Aquí#  tienes un esfero!
+* ¡Que emocionante! ¡Aquí#  tienes un esfero!
 * (Haces unos garabatos en#  una de las agujas#  del compañero.)
 * ¡Oh, vaya!
 * ¡Espero que no te importe#  que venda esa aguja#  online!
@@ -20653,7 +20653,7 @@ starlo_x_original
 * ¿Oh? ¿Qué pasa?
 * Clover no...#  se ve bien.
 * Mira su sombrero. Está#  hecho trizas y en#  descomposición.
-* Y ese lanzaguisantes en#  su funda ¿Qué clase#  de pistola es esa?
+* Y ese lanzaguisantes en#  su funda. ¿Qué clase#  de pistola es esa?
 * Tranquilo, Ace. Estoy#  seguro de que hizo#  lo que pudo.
              Ace                                   
 * ¡No, Ace tiene razón!
@@ -21044,7 +21044,7 @@ ceroba_npc
 * Es solo una solución#  temporal.
 * No me siento bien#  haciéndolo, lo juro.
 * Solo te estoy#  haciendo pasar#  un mal rato.
-* ¿Qué querías#  decirme?
+* ¿Qué querías decirme?
 * Bueno, Clover acaba#  de pasar su primera#  ronda de entrenamiento.
 * Es muy buen tirador.#  ¡Casi tan bueno como yo!
 * ¿De verdad?#  ¿Un niño?
@@ -21083,7 +21083,7 @@ Nah
 * Wow...
 * Ni siquiera podría decir#  que cambió si estuviera#  de pie desde lejos.
 * ¡Se ve muy bien!
-* ¿Qué te parece,#  Ceroba?
+* ¿Qué te parece, Ceroba?
 * ¿Verdad que sí?
 * Bueno, ¡yo diría que#  esta misión ha sido#  un gran éxito!
 * Ve y tómate un#  descanso, Clover.
@@ -21596,7 +21596,7 @@ rotate_key
 rotate_key_released
 * ¡Espera! Eso sería una#  salida muy obvia.
 * No seas temerario,#  encontraremos otra#  forma de escapar.
-* Vaya, te descubrió.#  Qué sorpresa.
+* Vaya, te descubrió.#  Que sorpresa.
 * ¿Qué está intentando#  conseguir?
 * ¡Vamos, apégate al#  plan!
 * NO PUEDO CREER QUE#  CAYERAS EN ESO.
@@ -22599,7 +22599,7 @@ Lástima que puedo# deshacerlo, ¡Jaja!
 ¡Nada que no puedas#manejar!
 La última vez que lo#comprobé, a nadie le#gustaban los humanos fritos.
 ¡Vuelve ahí fuera!
-Bla, bla, bla,#¡Qué llorón!
+Bla, bla, bla,#¡Que llorón!
 ¡Démonos prisa y#ocupémonos de este bicho!
 No estoy seguro de#que quisiera matarte.
 ¿Impresionante...?
@@ -22676,7 +22676,7 @@ De nuevo.
 ¿Recuerdas lo que#te enseñé?
 ¡No ofrecí mi ayuda#para verte morir!
 ¡Continuemos!
-Qué descuidado...
+Que descuidado...
 ¡Bueno, siempre hay#otra vez!
 Uy, ¡Eso pareció#doler!
 ¡Levántate y#vuelve con ellos!
@@ -23076,7 +23076,7 @@ pl_path
 * (Unas cuantas notas adhesivas#  están pegadas a la#  pizarra de corcho.)
 * (Este consiste en los 31#  trillones de números de#  pi escritos con crayón.)
 * (Este señala la nota con#  los números pi.)	
-* Qué presumido.
+* Que presumido.
 * Compruébalo:#  pi x infinito.	
 * Propio B)
 during_dialogue
@@ -23467,7 +23467,7 @@ Tú... No eres#quien yo creía que#eras, ¿verdad?
 Me disculpo.#De verdad que sí.
 Esto se me fue de#las manos...
 Yo... No sé como#hacer las cosas#bien ahora...
-Temía que esto#ocurriera.#Qué mala suerte.
+Temía que esto#ocurriera.#Que mala suerte.
 Sabes, a pesar de#tus pensamientos...
 Los monstruos#no son malos.
 Los monstruos#representan#la esperanza, el bien.
@@ -23895,7 +23895,7 @@ Cuál ez el#ziguiente paso,#¿hm?
 ¡Ya casi#eztá aquí!
 ¿Ze último#paso ez...?
 boulder_spawned_count
-Huh? Qué?#Creo que#asentí...
+¿Huh? ¿Qué?#Creo que#asentí...
 Tanto por la noche.
 Necesitas lecciones#de canto.
 Linda canción...#zzzz...
@@ -24308,7 +24308,7 @@ Bueno...
 Aquí estamos#de nuevo. Por#supuesto.
 Podría aceptar#este resultado#y esperar.
 Quién sabe#cuánto tiempo#tardará y aún#peor,
-Si el próximo humano#tuviera la voluntad#de hacer lo que Clover#no pudo.
+Si el próximo humano#tendrá la voluntad#de hacer lo que Clover#no pudo.
 Decisiones decisiones...
 Déjame pensar...
 Tengo que decir#que en eso no te#equivocas.
@@ -24674,7 +24674,7 @@ attack_flower_beep_count
 * ¿Cómo has estado#  últimamente?
 * ¿Cómo va la tarea?
 * ¿Cómo van las notas?
-* ¡Qué buena noticia!
+* ¡Que buena noticia!
 * Tu madre siempre decía que tu#  cabeza era demasiado grande para#  tu cuerpo, pero ¿sabes qué?
 * ¡Es porque eres muy listo!
 * ¡Ja, ja! ¡Orgulloso#  de ti!
