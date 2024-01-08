@@ -1874,7 +1874,7 @@ H. Acid
 * (Cargas las Balas de Goma en#  tu pistola.)
 * (Cargas con cuidado el Vidrio#  en tu pistola.)
 * (¡Phew! ¡Sin cortes!)
-* (Carglas el Pedernal#  en tu pistola.)
+* (Cargas el Pedernal#  en tu pistola.)
 * (¡Se puede iniciar un#  incendio con este!)
 * (Lames el glaseado de#  la esponja.)
 * (¡Tu boca se siente limpiesita!)
@@ -1888,9 +1888,9 @@ H. Acid
 * (Comes la galleta.)
 * (Sientes como si te mirara#  mientras la comes.)
 * (Comes la Paleta de Chocolate#  caliente.)
-* (Tiene el distintivo sabor#  a algo que alguna vez#  estuvo caliente.)
+* (Tiene el distintivo sabor#  a algo que fue caliente.)
 * (Comes la Paleta de Chocolate#  tibia.)
-* (Tiene el distintivo sabor#  a algo que estuvo#  caliente y luego se pudrió.)
+* (Tiene el distintivo sabor#  a caliente y descomposición.)
 * (No es bueno.)
 * (Comes la Paleta de Chocolate#  frío.)
 * (Tiene el distintivo sabor#  de cosas realmente heladas.)
@@ -1932,7 +1932,7 @@ H. Acid
 * (Comes el Caramelo Monstruo.)
 * (El sabor es ligeramente#  familiar...)
 * (Pones el Caramelo Monstruo+ en#  tu boca.)
-* (La abrumadora dulzura enstá#  en guerra con tus papilas#  gustativas.)
+* (La intensa dulzura lucha#  contra tus papilas gustativas.)
 * (Saboreas el Pudín C-B.)
 * (El sabor es extrañamente#  familiar...)
 * (Te sampas el perro caliente.)
@@ -2051,7 +2051,7 @@ info
  "Pastel" - Cura 30 HP"#* (Un pastel de limón#  con cerezas arriba.)
  "Magdalena Floral" - Cura 50 HP"
 * (Hermoso pastel coronado#  con una flor dorada#  de glaseado.)
- "Hot Dog" - Cura 20 HP"#* (Una comida representativa#  de tu insulto habitual.)
+ "Perro Caliente" - Cura 20 HP"#* (Una comida representativa#  de tu insulto habitual.)
  "Caramelo Monstruo" - Cura 10 HP"
 * (El dulce olor a caramelo#  sale por el envoltorio.)
  "Caramelo Monstruo+" - Cura 15 HP"#* (Una delicia saborizada#  doblemente con azúcar.)
@@ -2060,8 +2060,8 @@ info
  "Hamb. Feisty" - Cura 30 HP"
 * (¡Una pequeña hamburguesa#  con gran sabor! ¡A solo#  30 de oro en la Taberna!)
 * (...Dice la publicidad#  impresa en el envoltorio.)
-* "Pin Honeydew" - Armad. DF 4#* (Un pin promocional del#  Honeydew Resort de Snowdin.)
-* "Pin Banda" - Armad. DF 5#* (Pin conmemorativo de un#  concierto al que no fuiste.)
+* "Broche Honeydew" - Armad. DF 4#* (Un pin promocional del#  Honeydew Resort de Snowdin.)
+* "Broche Banda" - Armad. DF 5#* (Pin conmemorativo de un#  concierto al que no fuiste.)
 * "Hebilla Acero" - Armad. DF 7#* (Brillante hebilla hecha#  con finos materiales.)
 * "Chaqueta Seguridad" - Armad.#  DF 6
 * (Una pequeña chaqueta#  que protege al portador#  de los peligros del mundo.)
@@ -3619,7 +3619,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * Dalv parece estar en conflicto#  con su lado más humano.
 * Si entrecierras los ojos,#  Micro Froggit parece feliz.
 * Insomnitot intenta quitarse#  el sueño de encima.
-* Know Cone golpeando una roca#  contra una rama caída.#* La rama se rompe.
+* Know Cone golpea una roca#  contra una rama caída.#* La rama se rompe.
 * Algo huele a pescado.
 * Frostermit está haciendo#  un crusta-shuffle.
 * Trihecta está considerando# comprarse una gabardina#  larga.
@@ -9049,9 +9049,9 @@ reverse
 * (El agua está bloqueada#  por las escaleras.)
 * (El suelo está#  ligeramente húmedo.)
 * (¡Ayuda, no#  puedo derretirme!)
-* 10 pasos hacia el Este - Cartel 3#* 10 pasos hacia el Oeste-Cartel 1
-* 10 pasos hacia el Oeste - Cartel 2
-* 10 pasos hacia el Este - Cartel 1
+* 10 pasos hacia el Este-Cartel 3#* 10 pasos hacia el Oeste -#  Cartel 1
+* 10 pasos hacia el Oeste -#  Cartel 2
+* 10 pasos hacia el Este -#  Cartel 1
 * A quien corresponda:
 * Me di cuenta de un fallo#  fatal del primer puzzle#  en su diseño.
 * ¿Cómo se supone que#  un intruso lo vería?
@@ -9234,7 +9234,7 @@ self_message
 * (Solo unas bolitas de#  goma.)
 * ¿Tienes basura?
 * ¡Véndelo aquí mismo en#  el Blackjack!
-* Especial de hoy:#  Fancy Holster (¡genial#  para defensa!)
+* Especial de hoy:#  Funda de Lujo#  (¡genial para defensa!)
 * (Un perchero#  polvoriento.)
 * (Un sombrero sucio similar#  al de Starlo descansa en#  el perchero.)	
 * (¡Siempre es bueno tener#  un respaldo!)
@@ -9354,7 +9354,7 @@ ast_shortcut
 * Escuché que uno de nuestros#  mejores científicos trabaja#  en un nuevo componente.	
 * Hecho con energía especial.#  Podría ser la clave que#  necesitamos.	
 * Se necesita mucho más tiempo#  para desarrollarlo, sin#  embargo.	
-* Respecto a la propuesta#  "División Greenhouse", tengo#  una idea.	
+* Respecto a la propuesta#  "División Invernadero", tengo#  una idea.	
 * Más barata, más eficiente, y#  confiable.	
 * Les enviaré algunos planos#  pronto. Gracias por su tiempo#  e investigaciones.	
 * (Nada útil.)
@@ -9618,8 +9618,8 @@ layer_enable_fx
 * (El Subsuelo es más grande#  de lo que imaginaste...)
 * (Una banca de parque.)
 * (A pesar de la falta de#  una visible construcción, los#  conos obstruyen tu paso.)
-* ¡Oh no! ¡Estoy cerrado!	
-* ¡Vuelve temprano para que#  pruebes un poco de Nice#  Cream!
+* ¡Oh no! ¡Estoy cerado!	
+* ¡Vuelve temprano para que#  pruebes un poco de#  Helado Genial!
 * No hay porque volver.
 * Tenemos que ver hacia#  adelante.
 * (Ahí está.)
@@ -11945,7 +11945,7 @@ speed_modifier
 phy_rotation
 strikes
 * ¡North Star es#  lo máximo!
-* Una vez, un equipo de#  construcción estaba demoliendo#  un edificio en New Home.
+* Una vez, un equipo de#  construcción estaba demoliendo#  un edificio en Nuevo Hogar.
 * Pero, ¡oh! ¡Un bebé estaba en#  el camino del edificio#  cuando se vino abajo!
 * De repente, apareció#  North Star ¡y tensó#  su lazo!
 * ¡Manejó ese rascacielos#  sin sudar!#  ¡Yee haw! ¡Yee haw!
@@ -12445,7 +12445,7 @@ draw_circle_color
 * (Ahora está vacío.)
 * (Hay una hamburguesa#  tirada al fondo#  del barril.)
 * (La comida desechada#  yace en el barril.)
-* (¡Obtuviste un#  Feisty Slider!)
+* (¡Obtuviste una#  Hamburguesa Feisty!)
 ceroba_shake_intensity
 ring_timer
 ring_timer_max
@@ -12629,7 +12629,7 @@ actor_axis
 * AGH, A LA [basura].
 * MIRA, TE CONVERTIRÉ#  EN UNA AMENAZA.
 * SOSTÉN ESTO, TE QUEDA.
-* LISTO. AHORA TIENES UN#  ARMA "BLANCA."
+* LISTO. AHORA TIENES UN#  ARMA "BLANCA".
 * LOS VACÍOS LEGALES#  SON MARAVILLOSOS, ¿NO#  LO CREES?
 * TUS CRÍMENES ACABAN#  AQUÍ, HUMANO.
 * TE PIDO DISCULPAS POR#  ATORMENTARTE E#  INSULTARTE.
@@ -13300,7 +13300,7 @@ Debes tener#lugares a,#los que ir,#¿verdad?
 El Castillo...#La barrera.
 Hice todo lo#posible para#entretener...
 ...para que nadie#se preocupara de#estar aquí abajo.
-De todos modos, pasaré  por alto la#Guardia Real y te defenderé#ante ASGORE.
+De todos modos, pasaré#  de la Guardia Real y#  te defenderé ante ASGORE.
 Recuerda tu misión REAL, Clover.
 ASGORE necesita siete#ALMAS humanas para#romper la barrera.
 Qué mundo sería#si tuviera dos#amigos enteros.
@@ -13699,7 +13699,7 @@ SIN QUE SEPAS#TRAJE UN PLAN#DE CONTINGENCIA.
 GENERADORES#PORTABLES#=#BATERÍA INFINITA.
 BUENA SUERTE.
 ¿¿¿EN SERIO???
-ESTOY LLEGANDO A#NIVELES GRANDES#DE [molesto].
+ESTOY LLEGANDO A#NIVELES GRANDES#DE [molestia].
 NIVEL 7 AL#MENOS.#TU CULPA.
 QUE TE [atornillen]#QUE TE [atornillen]#QUE TE [atornillen]#QUE TE [atornillen]#QUE TE [atornillen]#
 DoPDzzzZ_//
@@ -13952,7 +13952,7 @@ Star...#Martlet...
 * (Inútil.)
 * (Un viejo collar,#  tirado en la arena.)
 * (Parece caro.)
-* (¡Conseguiste el necklace!)
+* (¡Conseguiste un#  Collar Roto!)
 pointdir
 * (Hay 60 de ORO abandonado#  en la máquina.)
 * (¡Conseguiste 60 de ORO!)
@@ -14258,7 +14258,7 @@ NO MIENTO.
 [LLAMANDO REFUERZOS_]
 ¿pediste#ayuda,#guardener?
 CORRECTO.
-ESTE PISOTEADOR#NO VALORA#GREENHOUSE.
+ESTE PISOTEADOR#NO VALORA EL#INVERNADERO.
 ¿cuál es#el nivel de#ofensa?
 10 - EXTERMINIO.
 ¿¡nivel 10!?
@@ -14284,7 +14284,7 @@ OH. TE#LO PERDISTE.
 HEY, ESTA#TODO BIEN.
 TOMA, UNA FLOR#PARA#ANIMARTE.
 uuu #gracias
-¿te molesta si#ataco un#poco?
+¿te molesta#si#ataco un#poco?
 EN#ABSOLUTO.
 ¿AÚN DE#PIE?
 ERES MUY#MOLESTO.
@@ -14393,7 +14393,7 @@ camera_y
 * Ceroba huyó así que#  él fue tras ella.
 * ¿¡Solo!?
 * ¿¡Por qué dejaste que#  haga eso!?
-* Star conoce a Ceroba más#  que cualquiera,#  Moray.
+* Star conoce a Ceroba más#  que cualquiera, Moray.
 * Bueno... No estoy tan#  seguro de eso ahora.
 * Moray me mandó un#  mensaje acerca de que#  estabas en peligro...
 * ...¡así que dejé lo#  que estaba haciendo y#  volé hacia acá!
@@ -14820,7 +14820,7 @@ star
 energy_ball_deflect_noloop
 * Parece que se fu-     
 ceroba_x_original
-* ¡Axis, espera un segundo!
+* ¡Axis, espera un#  segundo!
 * UNO.
 * UH - ¡UN MILLÓN#  DE SEGUNDOS!
 * NO TENGO EL#  CONOCIMIENTO PARA#  CONTAR TANTO.
@@ -14918,8 +14918,8 @@ bul_spawn
 ring_object
 * (Solo basura normal.)
 * (Hay un poco de comida#  aquí.)
-* (Encuentras un Hot Dog tirado#  en la basura.)
-* (¡Obtuviste un Hot Dog!)
+* (Encuentras un Perrito#  Caliente tirado en#  la basura.)
+* (¡Obtuviste un Perrito#  Caliente!)
 * (Eres más de gatos.)
 * ¡Espera! ¿¡Otro robot!?
 * ¡No puede ser! ¡No podemos#  pelear con esto!
@@ -15506,7 +15506,7 @@ cell
 * Los Monstruo Jefe saben#  cómo aferrarse a la#  vida, eso es seguro.
 * ¡Oye, no dejes que#  toda esa información#  te asuste!
 * ¡Inmortal no significa#  invencible!
-* Y aún así, un ALMA humana#  es más poderosa que un#  ALMA de Monstruo Jefe.
+* Aún así, un ALMA humana#  es más poderosa que un#  ALMA de Monstruo Jefe.
 * ASGORE puede parecer#  intimidante, pero es#  todo un espectáculo.
 * En el fondo,#  te tiene miedo.#  Un verdadero débil.
 * De todos modos, ¡solo#  pensé en preparar a#  mi amigo para después!
@@ -17281,7 +17281,7 @@ Prepárate para mi#más fuerte#ataq-
 * Hay todo tipo de#  trampas peligrosas#  aquí abajo.
 * Y algunos monstruos #  de este lugar...
 * Escuché que no les#  gustan las visitas. #  ¡Buena suerte!
-#             ASGORE
+                     #             ASGORE
 * (Según la lista de precios,#  es un puesto de limonada:#  5 de oro el vaso.)
 * (¿Tomar un poco?)
 * (Te sirves un vaso pero no hay#  ningún colaborador que recoja#  tu dinero. Que mal servicio.)
@@ -17404,7 +17404,7 @@ draw_triangle
 * Nos vemos.
 * Bonito nombre.
 * Pensé que era la#  única flor por aquí.
-* Ok, "Clover."#  Vamos a seguir adelante.
+* Ok, "Clover".#  Vamos a seguir adelante.
 * Te veré más adelante,#  espero que en algún#  lugar más cálido.
 * ¿Disfrutando del#  paisaje?
 * Antes de que continúes,#  solo quería que lo#  supieras.
@@ -17559,7 +17559,7 @@ camera_base_y
 box_x
 box_y
 amount
-* (¿Averiguaste un código?)
+* (¿Averiguaste un#  código?)
 * (¡Apúrate e inténtalo!)
 * (¡Inténta algo más!#  ¡Vámos!)
 * ¡Bien! Subámos antes#  de que Axis- 
@@ -17687,7 +17687,7 @@ mo_can_walk
 * ¡Sólidos que SOLÍAN ser#  líquidos!
 * ...Y que, ya sabes, no hayan#  estado sentado en el bosque#  durante tres semanas.
 * ¡He inventado la próxima#  gran cosa!
-* ¡Por el increíble precio#  de 15 de oro, puedes tener tu#  propio chocolate caliente Pop!
+* ¡Por el increíble precio#  de 15 de oro, puedes tener tu#  propia Paleta de Chocolate Cal.!
 * Antes era el viejo y aburrido#  chocolate caliente, ¡pero ahora#  congelado a temperatura ideal!
 * ¿He despertado ya tu#  interés?
 Claro que sí
@@ -17745,7 +17745,7 @@ snip_sound
 * Para abreviar,#  ¡llámenos SPSS!
 * ¡He oído que eres nuevo#  en el Subsuelo!
 * ¿Cómo? ¡Pues porque se#  corre la voz!
-* El Subuselo es genial y#  sigue mejorando.
+* El Subsuelo es genial y#  sigue mejorando.
 * ¡Porque te he traído#  tu primera carta!
 * (¡HAZ RECIBIDO UN CORREO!)
 * Ha sido una carta#  especial,de nosotros#  para ti.
@@ -18199,7 +18199,7 @@ swimmer_accel
 * El agua se#  está enfriando.
 * (¡Que curioso!)
 * (Varios Micro Froggits están#  disfrutando en su#  propia fuente termal).
-* (¡Uno de ellos incluso ha traído#  microflotadores!)
+* (¡Uno de ellos incluso ha#  traído microflotadores!)
 * (Otro da un sorbo a su#  microcafé y te saluda.)
 * (¡Parece que el Honeydew Resort#  pensó en todos!)
 * Observas como un Micro#  Froggit nada de un lado a otro.
@@ -18214,9 +18214,9 @@ jump
 cast
 can_cast
 gml_Script_state_switch_gml_Object_obj_battle_enemy_attack_macro_knight_Step_0
-* (Un hermoso y delicioso#  Golden Coffee llama tu#  atención.)
+* (Un hermoso y delicioso#  Café Dorado llama tu#  atención.)
 * (Es una taza de café.)
-* (¡Obtuviste un Golden Coffee!)
+* (¡Obtuviste un Café Dorado!)
 * De todos modos, la#  belleza está en el ojo#  del que mira.
 * Vaya. Hoy hace más frío#  de lo habitual, ¿eh?
 * Si no fuera muy perezoso,#  iría al Honeydew Resort y me#  tomaría un café caliente.
@@ -18280,8 +18280,8 @@ icecube
 ball_collider
 phy_active
 compound
-* (Te das cuenta de que#  hay un pancake fresca#  debajo del banco.)
-* (¡Obtuviste un Honeydew#  Pancake!)
+* (Te das cuenta de que#  hay un Panqueque#  fresca debajo del banco.)
+* (¡Obtuviste un Panqueque#  Hndw!)
 * ¿Hm? Oh, uh, ¡hola!
 * Lo siento, no sé#  dónde tenía la cabeza.
 * ¡Parece que estos días#  tengo una casa en el#  país de los sueños!
@@ -18404,7 +18404,7 @@ aviator_xspd
 * ¡No puedo evitarlo!#  ¡Esto es demasiado#  emocionante!
 * Así que he estado#  guardando esto para#  un día lluvioso.
 * Ya sabes, en sentido#  figurado... Realmente#  no tenemos esos...
-* ¡De cualquier manera!#  ¡Contemplen!#  ¡El UG Aviator!
+* ¡De cualquier manera!#  ¡Contempla!#  ¡El UG Aviator!
 * (En el agua hay una balsa#  de aspecto viejo con espacio#  suficiente para dos pasajeros.)
 * ¿No es ella una belleza?#* Los barcos son naves,#  ya sabes.
 * La llamo Ava para#  abreviar. ¿No es lindo?
@@ -18624,7 +18624,7 @@ pl_sprite
 * (Los restos#  encharcados de un#  viejo cofre.)
 * (Ves una pequeña bolsa#  de papel seca guardada#  en el interior.)
 * (¿Te lo llevarás?)
-* (¡Conseguiste un#  poco mezcla seca!)
+* (¡Conseguiste un#  poco de mezcla seca!)
 * (Un viejo cofre.)
 * (Aparatos y artefactos llenan#  el espacio del escritorio.)
 * (Sobre todo ello... un mapa.)
@@ -18651,7 +18651,7 @@ vine_pause
 * (Obtuviste un Packing Peanuts.)
 * (No hay nada aquí de#  utilidad concebible para#  tí.)
 * (Ves una piedra oscura y#  desprendida entre este#  montón de rocas.)
-* (¡Tienes algo de#  pedernal!)
+* (¡Tienes algo de#  Balas de Piedra!)
 * (Ahora es solo una roca.)
 storm_alpha
 storm_alpha_current
@@ -18993,7 +18993,7 @@ shadow_index
 music_in_battle
 current_mus_pos
 * (La estantería está llena de#  libros, algunos educativos#  y otros recreativos.)
-* (Un libro titulado#  "Gemstone Fever"#  llamo tu atención.)
+* (Un libro titulado#  "Fiebre de las Gemstone"#  llamo tu atención.)
 * El Subsuelo ha sido el#  hogar de miles de piedras#  preciosas,
 * sin embargo, solo se han#  descubierto cuatro tipos.
 * La Swelterstone - Tono,#  Amarillo
@@ -19047,7 +19047,7 @@ clovjump
 * ¡Heyo!
 * (Solo un cubo de basura.#  Fascinante.)
 * (Un pastel de frutas viejo#  reposa en un cubo, sobrante#  de una fiesta de la Mining Co.)
-* (¡Obtuviste un fruitcake!)
+* (¡Obtuviste un Pastel#  de Frutas!)
 elevator_active
 elevator_can_collide
 act
@@ -19132,8 +19132,8 @@ scratch
 absorb_effect_delay
 absorb_effect_count
 window
-* (¿Recoger la#  Dimensional Satchel?)
-* (¡Conseguiste la#  Dimensional Satchel!)
+* (¿Recoger la#  Bolsa Dimensional?)
+* (¡Conseguiste la#  Bolsa Dimensional!)
 * ¡Oye Axis!
 QUÉ.
 * ¿Qué opinas de las#  segundas citas?
@@ -19265,7 +19265,7 @@ player_npc
 * Me puso de los nervios.
 * ¡No pasa nada!
 * No te creerías la#  cantidad de monstruos#  con los que trato.
-* ¡No es que seas#  un monstruo gruñón!
+* ¡No es que seas#  una monstruo gruñona!
 * ¡Estoy segura de#  que eres muy amable!
 * Ahem. De todas#  formas...
 * ¿Cómo te llamas?
@@ -19644,7 +19644,7 @@ target_object
 * Estoy hambriento.
 * ¡¡Simplemente ADORO la#  minería!!
 * Mino mino mino mino mino mino#  ¡¡día y noche!!
-* Voy a encontrar mucho de...#  SPARKLY GEmS!!
+* Voy a encontrar mucho de...#  GEmaS BRILLANTES!!
 * ¡No dudes de mi ética de#  trabajo ni por un sEgundo!
 * ¡¡Trabajo DURO y nO estoy en#  la cuerda floja con el capataz!!
 * ¡¡Estoy en el hielo más grueso#  de todos los tIEMPos!!
@@ -20695,7 +20695,7 @@ actor_ace
 * ¿Dónde estaba?
 * Oh sí, es hora del#  d...
 * Participar en una#  competición de tiro#  cronómetrada.
-* ¡Mooch! Proporciona#  a Clover la herramienta#  designada.
+* ¡Mooch! Proporcionale#  a Clover la herramienta#  designada.
 * ¡Aquí tienes una#  pistola de BB para#  el duelo!
 * Te quitaré esa pistola#  de seis tiros de las#  manos por ahora.
 * ¿Moooch? Trae el arma#  aquí.
@@ -20873,7 +20873,7 @@ actor_train
 * ¿Qué demonios está#  pasando aquí?
 * Sentimos que tu#  entrenamiento fue#  mediocre...
 * ...Así que le dimos#  a Clover un verdadero#  reto.
-* ¡Estoy decepcionado#  de ustedes#  cuatro!
+* ¡Estoy decepcionado#  de ustedes cuatro!
 * ¿Ocho semanas de#  lecciones para esto?
 * ¡Debería encerrarlos#  con Plumitas!
 * Star, ¿qué pasa?
@@ -21363,7 +21363,7 @@ bombs
 * ¡Casi lo consigo! ¡No#  pensé que esto#  funcionaría!
 * ¡Funciona!
 * Espera... ¿Qué has#  estado haciendo?
-* Yo... en realidad no#  he estado haciendo nada#  todo este tiempo, ¿verdad?
+* Yo... en realidad no#  he estado haciendo nada#  todo este tiempo, ¿sí?
 * De acuerdo. Claramente#  eres más capaz de#  resolver problemas.
 * Supongo que deberías#  marcar el camino a#  partir de ahora.
 * Dirígete al oeste#  desde aquí y llegaremos#  a Hotland.
@@ -21456,7 +21456,7 @@ collision_counter
 * AUNQUE ES BUENO#  FUNCIONAR DE NUEVO,#  TAMBIÉN ES MALO.
 * SOY EL ÚLTIMO DE MI#  TIPO PARA VIGILAR#  ESTA ÁREA.
 * TODOS MIS COMPAÑEROS#  SE HAN OXIDADO.
-* SIEMPRE SUPE QUE ERA#  EL MEJOR PERO AHORA ESTOY#  SOLO. OH BIEN.
+* SIEMPRE SUPE QUE ERA#  EL MEJOR PERO AHORA#  ESTOY SOLO. OH BIEN.
 * VOY A ENCERRARLOS EN UN#  LUGAR FRÍO Y OSCURO.#  DONDE MORIRÁN.
 * ¡Mi esposo, Chujin,#  solía trabajar aquí!#  ¡Tengo autorización!
 * No me hagas lastimarte.
@@ -21473,7 +21473,7 @@ item_4_xx
 item_4_yy
 * Ouch... No puedo decir#  que me esperaba eso.
 * Sabía que mi esposo#  era ingeniero pero nunca#  me habló de ese robot.
-* Mencionaba un proyecto#  de robótica por el que#  lo ascecnderían pero...
+* Mencionaba un proyecto#  de robótica por el que#  lo ascenderían pero...
 * Dejó de hablar de eso#  cuando renunció a este#  trabajo.
 * Iba usar la fuerza para#  pasar a "Axis" pero yo..#  No estoy segura ahora.
 * Podría ser el último#  remanente del talento de#  Chujin.
@@ -21729,7 +21729,7 @@ spawn_dir_wave_inc
 * Ahora, ¿dónde está mi#  puesto?
 * Yo... uh... ¡tengo unos#  cuántos productos más en#  mi bolsillo!
 * ¡No te vayas!
-* Esto es lo que tengo. (30 Oro)
+* Esto es lo que tengo. (30 ORO)
 * ¡Aún estoy dispuesto a#  hacer negocios!
 * ¡Echa un vistazo! ¡30 un ítem!
 * ¡Pareces llevar muchas#  cosas, amigo!
@@ -21893,7 +21893,7 @@ Este resort (NUEVO)
 Este resort.
 * Está mejor que nunca.
 * ¡Este es el lugar para#  estar en Snowdin!
-* Algunos vienen por la banda,#  otros por#  las aguas termales...
+* Algunos vienen por la banda,#  otros por las aguas#  termales...
 * Pero a los monstruos lo#  que más les gusta es#  nuestro café.
 * No les culpo en absoluto.
 * Es una dulce mezcla de granos#  de café, crema de avellanas y#  miel, directamente del bosque.
@@ -21913,8 +21913,8 @@ Este resort.
 * Ese nombre me suena.
 * ¡Oh, ya me acuerdo!
 * Un tipo pequeño y extraño.
-* A menudo venía aquí, se#  sentaba y miraba a la banda.
-* Parecía que estaba en#  trance cada vez que#  los miraba.
+* Venía aquí frecuentemente,#  se sentaba y miraba a#  la banda.
+* Parecía que estaba en#  conflicto cada vez que#  los miraba.
 * Siempre quise hablar con él,#  pero...
 * La idea de socializar tanto#  siempre me asustó...
 * Antes de que pudiera armarme#  de valor, de repente dejó#  de visitarnos.
@@ -22118,7 +22118,7 @@ Chujin
 * Cuando trae a su hija a#  la ciudad, básicamente son#  dos contra  uno, ¡jaja!
 * Ahora que lo pienso, hace#  tiempo que no veo a ese#  canalla.
 * Tenemos que volver a reunir#  a toda la pandilla.
-* Línea de Código 327: "Si se#  escanea un cliente 'desautorizado',#  tratarlo con total irrespeto hasta#  que se vaya y no compre#  ningún snack de la compañía."
+* Línea de Código 327: "Si se#  escanea un cliente 'desautorizado',#  tratarlo con total irrespeto#  hasta que se vaya y no compre#  ningún snack de la compañía."
 * Mi estado irrespetuoso inició#  cuando escaneé tu tonta cara.
 * Trae un ID de empleado de#  Steamworks para experimentar el#  "Modo Hospitalario."
 * Hasta entonces, podrás seguir#  comprando ítems, pero iré#  quebrantando tu autoestima#  mientras lo haces...
@@ -22137,8 +22137,8 @@ Chujin
 * Si fuera a ayudar, lo cual#  no haré, te diría que le#  preguntes a un ingeniero en el#  Ala de la Fábrica para#  más información.
 * ¿Dónde está el Ala de la Fábrica?#  No puedo decirte.#  No estás autorizado. 
 * No es que crea que puedas#  encontrarlo por tu cuenta#  ya que eres, de hecho,#  un idiota.
-* Mis snacks cumplen con los#  estándares MÁS ALTOS de Steamworks.
-* Me aseguro de que las horas#  designadas de comer para los#  empleados sean lo más disfrutables#  posibles.
+* Mis snacks cumplen con los#  estándares MÁS ALTOS de#  Steamworks.
+* Me aseguro de que las horas#  designadas de comer para los#  empleados sean lo más#  disfrutables posibles.
 * Gracias a mi popularidad, por#  lo general, me quedo sin#  inventario a las 8:00.
 * Eso me recuerda... mi último#  arranque - ayer - fue un domingo.#  El Dr. R.O. debería venir#  aquí en cualquier minuto. Ya no#  puedo esperar.
 * Pero nada de eso te#  interesa, ¿verdad?
@@ -22157,7 +22157,7 @@ Chujin
 * Desde refrigeradores, hasta#  lavadoras, el montaje se facilita#  para que los monstruos se#  lo tomen con calma!#
 * Y no nos olvidemos del segundo#  piso, el cual se especializa en#  la fundición de materiales minados#  del Subsuelo, convertidos en la#  moneda actual conocida como ORO.#
 * ¡Es lo que hace que la economía#  funcione de la forma adecuada!
-* Desde el Ala de Química de#  Greenhouse, ¡hay trabajo para#  todo el mundo!
+* Desde el Ala de Química del#  Invernadero, ¡hay trabajo#  para todo el mundo!
 * Me disculpo, cliente. Mi#  código de hospitalidad me#  previene de revelar toda#  información clasificada de#  mis colegas.#
 * Aunque aparentemos ser#  individuales, nosotros los#  robots, somos la menta colmena. Todo#  controlado por la estación al#  oeste de mi posición.#
 * Sin embargo, Axis, es una#  excepción. La 'oveja negra' de#  los proyectos robóticos por decir#  de alguna manera.#
@@ -22833,7 +22833,7 @@ guardener_pitch
 * PARECE QUE... MI TIEMPO PASÓ.
 * ..CANCELAR REPORTE Y#  REINICIAR HIBERNACIÓN_
 * [HIBERNACIÓN ACTIVADA]
-* LAMENTO CAUSARLES INCONVENIENTES.
+* LAMENTO CAUSARLES#  INCONVENIENTES.
 * NO SÉ COMO ES EL MUNDO AHORA,#  N-NI D-ESEO#  S-SABERLO.. //
 * LA VIDA ERA. .. M-MUCHO MEJ>OR...
 * _SIN ;SABER...  .
@@ -23165,7 +23165,7 @@ advance
 * Hotland. Solo es un#  viaje de negocios.
 * BUENO ENTONCES ESPERO#  QUE TENGAN UNA JORNADA#  PLACENTERA.
   BATERÍA DE RESPALDO#  EXTREMADAMENTE BAJA.#  POR FAVOR RECARGAR.
-  AGREGADOS "HUMANO ODDIADO" Y#  "CHICA ALTA" A LA LISTA#  "AUTORIZADOS".
+  AGREGADOS "HUMANO ODIADO" Y#  "CHICA ALTA" A LA LISTA#  "AUTORIZADOS".
 * Gracias, Axis.
 * Ten una buena vida.
 * LO INTENTARÉ.
@@ -23236,7 +23236,7 @@ No lo estropees#esta vez.
 * Recuerda tu misión REAL,#  Clover.
 * Los cinco niños que#  viniste a salvar en#  primer lugar.
 * No hay necesidad de#  visitar ese sucio#  laboratorio, ¿sabes?
-* ¡ASGORE sigue por ahí#  amenazando vidas humanas!
+* ¡ASGORE sigue por ahí#  amenazando vidas#  humanas!
 * Mantén tu cabeza en el#  juego.
 * Este es nuestro viaje.#  No el de Ceroba.
 * Hey, ¡espera!
@@ -23671,7 +23671,7 @@ liquid_hcurrent
 liquid_hdest
 liquid_speed
 liquid_inc
-* (Encuentras 60 de oro# en la basura.)
+* (Encuentras 60 de oro#  en la basura.)
 * (¡Obtienes 60 de oro!)
 * (Solo queda basura.)
 can_drop
@@ -24264,8 +24264,8 @@ Puedes...#uhhhh...
 ¡Tomar otro turno!#¡Vamos!#¡Golpéame tan fuerte#como puedas!
 Uh-ok,#lo siento mucho#por la espera.#Estoy mirando.
 No soy la mejor#guardia real,#pero intento mejorar.
-La semana#pasada detuve a#esta chica:
-¡Totalmente#humano!
+La semana#pasada detuve a#una chica:
+¡Totalmente#humana!
 Oh, creo que#es tu turno.
 ¡Ajá! ¡Los Guardias#Reales deben#proceder#al siguiente paso#sin dudarlo!
 ¿Eso cuenta#como dudarlo?
@@ -24320,7 +24320,7 @@ Y todas las#ventajas que#conlleva...
 Quiero decir,#dijeron#específicamente#"no lo dudes".
 ¡LO TENGO!
 * Echas un vistazo dentro#  del barril y encuentras#  algunos granos de café.
-* (¡Obtuviste munición#  de Coffee Bean!)
+* (¡Obtuviste Balas#  de Café!)
 * (Un barril vacío.)
 Vale, ¡¿qué#está pasando?!
 Quiero decir,#no me malinterpretes,#¡ser atacada duele!
@@ -25008,8 +25008,8 @@ diamond_x_right
 vertical_line_1_x
 vertical_line_2_x
 * (Solo hay hierro masticado.)
-* (Descubriste un poco de#  Monster Candy en la basura.#  Sabe a caramelo.)	
-* (¡Obtuviste Monster Candy!)
+* (Descubriste un poco de#  Caramelo Monstruo en la#  basura. Sabe a caramelo.)	
+* (¡Obtuviste Caramelo#  Monstruo!)
 * (Si tan solo fuera canela...)
 max_frames_default
 transform_type
@@ -45173,11 +45173,11 @@ Comida Chatarra 0
 Junk Food 0
 Llave Misteriosa
 Cara de Filete
-Cachorrito Silencioso
+Cachorro Silenc.
 Tarta de Caracol
 Armadura Temy
 Revólver Salvaje
-Munición de Vidrio
+Balas de Vidrio
 Cactus Dorado
 Golden Cactus
 Guante Mojado
@@ -45192,16 +45192,16 @@ Piedras
 Balas de Plata
 Balas de Vidrio
 Balas de Goma
-Pastel Esponjoso
+Pas. Esponjoso
 Café Hndw
 Panqueque Hndw
 G.B. Oso
 Pal. Caliente
-Paleta Tibia
-Paleta Fría
+Pal. Tibia
+Pal. Fría
 Café D.
-Soda de Adultos
-Paquete de Nueces
+Soda de Adulto
+Paq. de Nueces
 Frutos Secos
 Té Helado
 Té Verde
@@ -45209,9 +45209,9 @@ Té de Mar
 Pastel de Frutas
 Rosquilla Araña
 Aguhelada
-Latte del Oasis
-Galleta de Canela
-Cerveza de Raíz
+Latte Oasis
+Galleta Canela
+Cerveza Raíz
 Pólvora
 Ensalada Musgo
 Patatas Fritas
@@ -45222,11 +45222,11 @@ Carne Seca
 Pastel
 Pastelito Floral
 Perrito Caliente
-Caramelo Monstruo
-Caramelo Monstruo+
+CrmMnstr
+CrmMnstr+
 Pudín de Cara-Nela
 Sopa de Maíz
-Hamburguesa Feisty
+Hamb. Feisty
 Broche Honeydew
 Broche de Banda
 Hebilla de Acero
@@ -45249,7 +45249,7 @@ F. Elegante
 Cinta de Vídeo
 H. Ácido
 Collar Roto
-Dihidrógeno Monóxido
+H2O
 * Café Tib.
 * Galleta
 * Nueces
