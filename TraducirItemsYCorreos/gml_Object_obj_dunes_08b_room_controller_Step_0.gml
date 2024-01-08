@@ -500,7 +500,7 @@ switch scene
             }
             else
             {
-                message[0] = "* ¡Ice Tea, nena!"
+                message[0] = "* ¡Té Helado, nena!"
                 message[1] = "* ¡Es como la secuela del agua!"
                 message[2] = "* Así que..."
                 message[3] = "* ¡Esta es la parte en la#  que gastas el ORO que#  pueden pertenecerte o no!"
@@ -644,7 +644,7 @@ switch scene
         {
             sndfnt = 102
             talker[0] = 1170
-            message[0] = "* Ese Mo es raro.	"
+            message[0] = "* Ese Mo es raro."
             message[1] = "* Habría hablado con él#  pero no sé cómo...#  de legal es su negocio."
             message[2] = "* Nuestra conversación podría#  haberse vuelto muy incómoda,#  muy rápido."
             prt[0] = 321
