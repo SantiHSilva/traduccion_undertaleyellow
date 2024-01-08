@@ -564,10 +564,10 @@ rm_steamworks_34
 * ¡Buenas!	
 * No soy fanático del#  ambiente sombrío de esta#  área, honestamente.
 * Ya tuve suficiente de#  este tipo de cosas#  con las Ruinas.
-* Supongo que no estoy#  congelándome ni ahogándome#  en arena, así que...
+* Supongo que no estoy#  congelado ni ahogado#  en arena, así que...
 * ...ciertamente ha sido#  peor, ¡jaja!
 * ¡Mejor nos movemos#  antes de que este#  lugar se derrumbe!
-* ¡Definitivamente he#  visto mejores días!
+* ¡Definitivamente ha#  visto mejores días!
 * ¿Qué es TODO esto?
 * Ciertamente no es#  natural.
 * Quiero decir, si#  alguien conoce las#  flores, soy yo.
@@ -577,23 +577,23 @@ rm_steamworks_34
 * ¿Podrías apurarte un#  poco?
 * ¡Vámonos de aquí,#  amigo!
 * Vaya, ¡ese robot fue#  todo un desafío!
-* Sin mencionar que fue#  sun completo fraude.
+* Sin mencionar que fue#  un completo fraude.
 * ¡Las flores y las#  enredaderas son#  mi especialidad!
 * Bueno, supongo que#  eso lo demuestra...
 * ...que las imitaciones#  mecánicas no pueden#  vencer a lo real.
 * Diré que ese aparato#  realmente se sintió#  más amenazante que Axis.
-* No estoy tratando de#  decirte qué hacer, pero#  solo como consideración...
+* No estoy tratando de#  decirte qué hacer, pero#  solo considéralo...
 * ...¿Por qué no... ya#  sabes, "ocuparte" de#  Axis la próxima vez?
 * Estoy seguro de que#  sería fácil.#  ¡Solo es una idea!
 * Supongo que es hora de#  seguir adelante.
-* ¡Quién iba a pensar#  que Steamworks eran#  tan densos!
+* ¡Quién iba a pensar#  que Steamworks era#  tan denso!
 * Es como, ¿dónde#  estamos ahora?
 * Veo tubos de#  ensayo...#  microscopios...
 * Eso me recuerda...	
 * Eh, no lo sé. La ciencia#  no es mi fuerte.
 * Sea lo que sea que#  hagas, no bebas nada#  de lo que veas aquí.
 * Todo este líquido ha#  estado ahí fuera durante#  años, mohándose.
-* ...No es que te haya#  dado vergüenza comer#  basura desechada.
+* ...No es que te haya#  dado pena comer#  basura desechada.
 * ¡Veamos lo que nos#  espera, amigo!
 * Justo cuando pensaba#  que Axis no podía#  ser más torpe.
 * ¡Me alegra que se#  haya ido!
@@ -976,7 +976,7 @@ Steamw. - Camino Elevado
 Steamw. - Lago
 Steamw. - Oficinas
 Steamw. - ???
-Steamw. - Comúnes
+Steamw. - Cafetería
 Invernadero
 Steamw. - Cruces
 Steamw. - Laboratorio
@@ -1036,7 +1036,7 @@ scr_cutscene_battle_martlet_final_2_intro
 gml_Script_live_preinit_api
 live_preinit_api
 * Te calmas en medio#  de la batalla.
-* Cierras los ojos y das golpecitos#  con el pie al ritmo de la#  música. Goosic se une a ti.
+* Cierras los ojos y das golpes#  con el pie al ritmo de la#  música. Goosic se une a ti.
 * Intentas disfrutar de la música#  pero no puedes seguir#  el ritmo.
 gml_Script_scr_dialogue_battle_action_selected_action_1_goosic_a
 scr_dialogue_battle_action_selected_action_1_goosic_a
@@ -2440,7 +2440,7 @@ gml_Script_scr_save_flowey_snowdin
 * ¿Qué estás esperando?
 * Tienes un trabajo#  que hacer.
 * Mira, lo entiendo,#  quieres ser cuidadoso.
-* ¡Dos guardados no es#  mejor que uno, niño!
+* ¡Dos guardados no son#  mejor que uno, niño!
 * Tenemos lugares que ver,#  la mayoría son calidos.
 * ¡Adelante!
 * ¡Esto es de lo#  que hablo!
@@ -4182,7 +4182,7 @@ enemy_low_hp_3
 * ACE -- ATQ 
 * MOOCH -- ATQ 
 * TELLYVIS -- ATQ 
-#* No puedo vivir con o sin el otro.
+#* No puedo vivir con o sin el#  otro.
 * JANDROID -- ATQ 
 #* "Higiene" No está en su#  vocabulario.
 * GOOSIC -- ATQ 
@@ -10876,10 +10876,10 @@ text_y_final
 * ¡¡Sé que lo haces!!
 * ¡¡Bebe!! ¡¡¡BeBE!!!
 * Sé que normalmente te#  dejo manejar amenazas#  inminentes pero...
-* ...¡Realmente de veías#  acorralado allí! 
-* ¡Mis pétalos de la amistad#  seguro vendrían bien#  en estas situaciones!
+* ...¡Realmente te veías#  acorralado allí! 
+* ¡Mis pétalos de la#  amistad vendrían bien#  en estas situaciones!
 * Como sea, debes estar#  totalmente sin aliento#  luego de eso.
-* ¡Deberías tomarte las#  cosas con calma por un rato,#  amigo! 
+* ¡Deberías tomarte las#  cosas con calma por un#  rato, amigo! 
 * ¡Toma un refrigerio,#  hidrátate, ¡No me#  molestará!
 * ¡Debes estar en tu#  mejor forma para lo que#  viene!
 * ¿Puedo ser honesto#  contigo?
@@ -11580,13 +11580,13 @@ indicator_on
 flash_count
 variation
 BZstzZ;Z t_T#//98 .. -
-[ERROR CRÍTICO DE#MEMORIA]
+[ERROR CRÍTICO#DE MEMORIA]
 ;FLORES_#PISOTEADAS . . .
 NO RECUERDO/#QUE H-HA#OCURRIDO _
 SI_MI CONDUCTA#BOTÁNICA FUE#/INSATISFACTORIA. . .
 NO.. . N-NO#P/PONDRÉ NINGUNA#EXCUSA
-SEGURO_ME MEREZCO#ESTO. .. .
-[SISTEMA FALLANDO.#BUSCAR REPARO#INMEDIATAMENTE]
+SEGURO_ME#MEREZCO#ESTO. .. .
+[SISTEMA#FALLANDO.#BUSCAR REPARO#INMEDIATAMENTE]
 SUP-ONGO QUE TÚ#L/O VES DIFERENTE#PERO PARA MI.. .
 EL JARDÍN_#. .
 ES. ..#HERMOSO.
@@ -13577,7 +13577,7 @@ tiles_outside
 rubble
 asset_glass_flash
 asset_broken_glass
-* LOS ENCONTRÉ.
+* TE ENCONTRÉ.
 dynamic_wall
 * ESTÁS ACORRALADO,#  HUMANO.
 * NO QUERÍA LASTIMARTE#  PERO FORZASTE A MI#  GUANTE.
@@ -13806,7 +13806,7 @@ arrow_down
 * ¡EL ROBOT! ¡Olvidé por#  completo nuestro plan!
 * Ugh, lo siento. La#  próxima que veamos a#  Axis lo intentaremos.
 * DETENIDO.
-* Tú VIENES CONMIGO.
+* TÚ VIENES CONMIGO.
 * BASTA DE CORRER.
 player_is_caught
 distance_axis
@@ -17762,7 +17762,7 @@ snip_sound
 * ¡Nos vemos más adelante en tu#  viaje, amigo!
 * QUÉDATE AQUÍ MIENTRAS#  BUSCO A LA SEÑORA ALTA.
 * NO TOQUES NADA.
-* QUÉDATE AQUÍ, DEBO VOLVER#  A PATRULLAR.
+* QUÉDATE AQUÍ, DEBO#  VOLVER A PATRULLAR.
 * ¿TIENES LA CAPACIDAD#  DE COOPERAR?
 * ¿O ESTÁS JUGANDO CONMIGO#  A PROPÓSITO?
 * DE CUALQUIER MANERA,#  ESTOY COMENZANDO A#  ODIARTE [realmente].
@@ -22804,8 +22804,8 @@ shake_direction_x
 shake_direction_y
 guardener_pitch
 * ESTOY...
-* DESPIERTO.
-* GUARDENER - MODELO 02 -_#  ES_ADO, D_ÑADO. .   .
+* DESPIERTA.
+* GUARDENER - MODELO 02 -_#  ES_ADO, D_ÑADA. .   .
 * OH, HO-HOLA.
 * ¿FUERON USTEDES#  LOS QUE DAÑARON LA FLOR#  A? ?
 * LES PIDO POR FAVOR#  TENER MÁS _RESPETO.
@@ -24877,7 +24877,7 @@ sí, llámanos#cuando lo#desees.
 incluso para#pasar el rato#o algo así.
 o no, no#hay nada#que hacer.
 arm2
-* ¿FUISTE TU QUIÉN PERTURBÓ EL#  PISO-A? ?
+* ¿FUISTE TÚ QUIÉN PERTURBÓ EL#  PISO-A? ?
 * TE PIDO POR FAVOR QUE TENGAS#  MÁS _RESPETO.
 * PER-O NO TE#  PREOCUPES. _
 * VIENDO QUE E;ES TAN#  J-J-OVEN, ES PER>ONABLE.
@@ -25488,9 +25488,9 @@ E L#F R#. . .#
 E L#F R O G#F I N A L.
 H O R A#D E#R E C O G I D A .
 * ¡Oye! ¡Eso que hiciste#  es una auténtica obra#  de arte!
-* ¡Inténtalo!
+* ¡Intenta#  usarla!
 * ¡Mira eso! Funcionó#  de maravilla.
-* Puede que algún día#  tenga que encargárselo#  personalmente, ¡jaja!
+* Puede que algún día#  tenga que encargártelo#  personalmente, ¡jaja!
 * Hmm... 	
 * Es un poco tarde, ¿no?
 * Menos lugares a los#  que pudieron haber#  ido, al menos.
@@ -25518,7 +25518,7 @@ lightning_last
 * Fisgonea a ver qué#  encuentras.
 * ¡Hasta pronto!
 ¡¡EW!!!#¿¿¿¿JABÓN???? 
-¡¡No!!#¡¡Me eSTás#moLESTANdo!!¡¡Aléjate!!
+¡¡No!!#¡¡Me eSTás#moLESTANdo!!#¡¡Aléjate!!
 wdirection
 ribbon_1
 ribbon_2
