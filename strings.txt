@@ -2003,8 +2003,8 @@ info
 * "Balas de vidrio" - Arma AT 5#* (Literalmente trozos de vidrio.#  Si...)
 * (Restaura 2 HP Después de cada# ataque.)
 * "Maíz dulce" - Restaura 9 HP#* (Tus dientes duelen con solo#  verlo.)
-* "Perro de Maíz" - Restaura 12 HP#* (Un genuino maiz de perro#  suave, esponjosas orejas.)
-* "Parche" Armadura DF 0#* (No es fuerte pero #siempre será la vieja confiable.)
+* "Perro de Maíz" - Cura 12 PV#* (Un genuino maiz de perro#  suave, esponjosas orejas.)
+* "Parche" Armadura DF 0#* (No es fuerte pero siempre#  será la vieja confiable.)
 * "Pluma" - Armadura DF 2#* (Una vieja y olvidada pluma.#* Necesita un buen acicalamiento.)
 * "Pañuelo D." - Armadura DF 12#* (La pieza de tela más impresionante # jamás vista.)
 * (El sombrío recordatorio de#  tu misión. La justicia#  es necesaria.)
@@ -16792,7 +16792,7 @@ diary_music
 * Pops hizo un chiste muy#  gracioso a costa de Broom#  y todos nos reímos.
 * Me puse mi capa y salí#  a dar mi paseo diario.
 * Me he dado cuenta de que#  hoy ha aparecido otro maíz#  azul en tu maizal.
-* Siempre me siento mal por# desechar el maíz especial, pero# no puedo arriesgarme a enfermar.
+* Siempre me siento mal por#  tirar el maíz especial, pero#  no puedo arriesgarme a enfermar.
 * Algo interesante ocurrió#  un poco más tarde.
 * Escuché a Flier y Penilla#  hablando de mí...
 * Acerca de nosotros...
@@ -16821,9 +16821,9 @@ readjust
 * (Todos parecen ser muy#  similares.)
 * (¿Leer uno?)
 * Dalv es un solitario que vive#  en las ruinas del Hogar.
-* Le gusta pasear tranquilamente#  en oscuridad,  limpiar y#  mejorar sus canciones.
+* Le gusta pasear tranquilamente#  en oscuridad, limpiar y#  mejorar sus canciones.
 * Quiere compartir con la#  juventud del Subsuelo...
-* ...la importancia de#  aceptar y respetar#  los deseos de los demás.
+* ...la importancia de#  aceptar y respetar los#  deseos de los demás.
 * El resto de la página está#  garabateada.
 * (Hay un libro de párrafos#  bien escritos sobre el#  escritorio.)
 audio_sound_gain_radio
@@ -16841,7 +16841,7 @@ audio_sound_gain_gramophone
 * (Te ahorras no#  ponerle el disco.)
 * (Un cofre de roble fino.)
 * (¿Abrirlo?)
-* (Vaya! ¡Está cubierto#  de satén de alta calidad!)
+* (¡Vaya! ¡Está cubierto#  de satén de alta calidad!)
 * (Vuelves a comprobarlo.)
 * (Sigue siendo un cofre genial.)
 * (Es un órgano.)
@@ -17307,7 +17307,7 @@ dr
 * (Las piedras son muy#  peligrosas.)
 * (Es una pluma perdida.)
 * (¡Ahoras tienes una#  Pluma Perdida!)
-* (Lo ignoras.#* Lo callejero no son más#  que problemas.)
+* (Lo ignoras.#* Lo callejero no es más#  que problemas.)
 footstep_counter
 pitch
 ms
@@ -23364,13 +23364,13 @@ Solo#quiero#ver una#sonrisa.
 Me siento...#lastimada.
 Te amo#tanto <3
 Eres tan#dulce <3
-Los abrazos#son la#mejor#medicina!
+¡Los#abrazos#son la#mejor#medicina!
 ¿Amigo?
 *tararea#junto a#la música*
 Lo estás#haciendo#genial,#¡dulzura!
 *chirrido*#*chirrido*
 Puedes#hacerlo!
-Recuerda,#Siempre te#amo! <3
+¡Recuerda,#siempre te#amo! <3
 block_vspeed
 sweet corn c
 app_sound
@@ -23430,7 +23430,7 @@ Más silencio#por favor...
 No te muevas.#            #      #             
 Muévete#En silencio.#¡Hushh hushh!
 Muévete
-No te vayas.#Hushh hushh!
+No te vayas.#¡Hushh hushh!
 Solo fantasmas#por favor. ¡Hushh#hushh!
 ¡Hushh cachorro!
 Ow ow ow! Hushh#hushh HUSHH!
@@ -23472,7 +23472,7 @@ Sabes, a pesar de#tus pensamientos...
 Los monstruos#no son malos.
 Los monstruos#representan#la esperanza, el bien.
 Aquí todo el mundo#solo intenta encontrar#un poco de alegría.
-Pero... Supongo que#no estás para#  alegrías.
+Pero... Supongo que#no estás para#alegrías.
 ¿A quién quiero#engañar? No me#creerías.
 Yo soy el que#se volvió hostil#primero.
 Pero esto no#es un error...
@@ -25097,7 +25097,7 @@ Se supone que#me despediría#por última#vez...
 Pero... No#tengo a nadie#de quien#despedirme...
 Es difícil#admitirlo,#pero yo...
 ...creo que he estado#mintiéndome a mí#mismo durante#un tiempo.
-Se puso solitario#  aquí abajo.
+Se puso solitario#aquí abajo.
 Ahora creo que sí#eres real.
 Heh...
 Me he cansado#demasiado pero...
