@@ -1932,7 +1932,7 @@ H. Acid
 * (Comes el Caramelo Monstruo.)
 * (El sabor es ligeramente#  familiar...)
 * (Pones el Caramelo Monstruo+ en#  tu boca.)
-* (La intensa dulzura lucha#  contra tus papilas gustativas.)
+* (La dulzura fuerte desafía#  tus papilas gustativas..)
 * (Saboreas el Pudín C-B.)
 * (El sabor es extrañamente#  familiar...)
 * (Te sampas el perro caliente.)
