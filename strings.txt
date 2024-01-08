@@ -11086,10 +11086,10 @@ flowey_face
 rand
 xspeed
 * (Miras dentro de la caja y#  encuentras unos clavos.)	
-* (¿Los tomas?)
-* (Unos clavos. Podrían ser útiles.)
+* (¿Tomarlos?)
+* (Unos Clavos. Podrían ser útiles.)
 * (¡Obtuviste Clavos!)
-* (Obtuviste clavos.)
+* (Obtuviste Clavos.)
 * (Decides no tocarlos.)
 * (Nada de valor queda.)
 route_distance
