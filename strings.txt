@@ -10536,7 +10536,7 @@ goggles
 gun
 hat
 * Alguien pide ayuda...
-   * Respondes a la llamada.
+   * Respondes al llamado.
 offset
 camera_border_y
 camera_border_x
