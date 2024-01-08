@@ -10468,17 +10468,17 @@ Guzusuru
 Game Jolt
 credits_entry_three
 river_ambience
-* He estado pensando#  en ese día.
-* Un montón.
+* He estado pensando#  acerca de ese día.
+* Demasiado.
 * El tiempo es algo,#  gracioso, ¿sabes?
 * Supongo que en el#  panorama de mi vida,#  fuiste solo un parpadeo.
 * Pero a menudo, esos#  "parpadeos" son los que#  más impacto causan.
-* El Rey me ofreció una#  promoción.
+* El Rey me ofreció un#  ascenso.
 * Un puesto en Nuevo#  Hogar. Pero...
 * Luego de experimentar#  lo peor que el trabajo#  tiene que ofrecer...
 * Lo rechacé.
 * No sólo eso, tomé#  mis dos semanas, je.
-* Allí... allí sentí#  que hay mejores causas#  en las que puedo entrar.
+* Yo... sentí que hay#  mejores causas en las#  que puedo participar.
 * De todas formas...
 * Perdón por ponerte#  en otro de mis botes#  otra vez.
 * Podrá no ser la#  despedida más apropiada#  luego del útimo viaje...
@@ -10487,46 +10487,46 @@ actor_starlo
 actor_ceroba
 * Es bonito.
 * Lo es.
-* Gracias por hacer esto.
-* Se sintió bien construir#  algo con valor otra#  vez.
+* Gracias por hacer#  esto.
+* Se sintió bien#  contruir algo con#  significado de nuevo.
 * ¿Tienes tu regalo?
-* Seh, ahí va.
+* Sí, ahí va.
 * Oh, casi lo olvido.
-* Hay alguien a quien#  invité que era un amigo#  de Clover.
+* Hay alguien a quien#  invité que era amigo#  de Clover.
 * ¿Un amigo?
 * ¿H-Hola?
-* ¿Este es el lugar correcto?
+* ¿Este es el lugar#  correcto?
 * Oh, hola.
 * Buenas.
 * Disculpen si me #  estoy entrometiendo...
 * Mi nombre es Dalv y#  emm...
 * Vivía en las Ruinas#  cuando Clover#  entró al Subsuelo.
-* ¿Así que fuiste el#  primero que se encontró?
+* ¿Así que fuiste el#  primero en conocerlo?
 * Uno de los primeros,#  supongo...
 * C-Como sea, cuando nos#  encontramos, actúe#  tontamente y...
 * ...ataqué a Clover.
-* Creo que todos lo#  hicimos en un punto...
+* Creo que todos lo#  hicimos alguna vez...
 * ¡Pero prometo que#  no duró mucho!
 * Y me contuve un poco.#  Em...
 . ¿A dónde iba con esto?
 * Clover te ayudó a salir#  de tu situación.
 * Sí.
-* En definitiva, Clover#  fue muy amable conmigo.
+* A pesar de todo, Clover#  fue muy amable conmigo.
 * Tiene sentido.
 * Es un placer conocerte,#  Dalv.
 * Gracias por venir.
 * Por supuesto.
 * Bueno...
 * Basta de demoras.
-* ¿Todos están listos?
+* ¿Están listos?
 * Eso creo.
 * Oh, espera un segundo
 * Quiero colocar una#  cosa más.
-* ¿Lentes de seguridad?
+* ¿Gafas de seguridad?
 * Quiero que Clover esté#  seguro en su viaje.
 * No puedes olvidarlos,#  ¿cierto? 
 * No, no puedes.
-* Ahí vamos...
+* Ahí vas...
 * Adiós, amigo.
 * Gracias por todo lo#  que has hecho.
 * Nos vemos, niño.
@@ -19696,7 +19696,7 @@ dialogue_type
 * ¡Bienvenido al mejor lugar#  del Subsuelo!
 * ¡Me encanta estar aquí!
 * Todo el mundo es muy amable#  y trabaja muy duro; ¡somos#  una auténtica familia!
-* Me gustan tanto estas minas#  que ¡nunca me iré!
+* Me gustan tanto estas minas#  que, ¡nunca me iré!
 * Todo el mundo me dice que me#  vaya a casa ¡pero el suelo#  frío y rocoso es muy cómodo!
 * Y no, ¡no me pagan por#  horas extras!
 * (Silbidos)
