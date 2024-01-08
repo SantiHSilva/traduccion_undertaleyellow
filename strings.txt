@@ -1907,7 +1907,7 @@ H. Acid
 * (Bebes el Té de Mar. ¡La#  velocidad de tu ALMA#  aumenta!)
 * (Comes el pastel de frutas.#  ¡Las Swealterstones queman#  tu garganta!)
 * (No te preocupes, la araña no#  lo hizo.)
-* (Bebes el .#  Definitivamente sabe a algo pero#  no sabes describirlo.)
+* (Bebes el Aguhelada.#  Definitivamente sabe a algo pero#  no sabes describirlo.)
 * * (Bebes el Latte...)
 * (Comes la galleta...)
 * (Te bajas la Cerveza de Raíz.#  ¡La carbonatación hormiguea!)
