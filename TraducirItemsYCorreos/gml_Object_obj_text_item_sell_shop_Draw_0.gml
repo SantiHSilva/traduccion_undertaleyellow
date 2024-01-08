@@ -8,7 +8,7 @@ while (i < array_length_1d(global.item_slot))
     if (global.item_slot[i] == "Nothing")
     {
         if (i == 1)
-            draw_text((obj_talk_screen_shop.x + 30), ((obj_talk_screen_shop.y + 10) + ((i - 1) * 20)), string_hash_to_newline("Inventory Empty"))
+            draw_text((obj_talk_screen_shop.x + 30), ((obj_talk_screen_shop.y + 10) + ((i - 1) * 20)), string_hash_to_newline("Inventario Vacío"))
         break
     }
     else
@@ -26,4 +26,4 @@ while (i < array_length_1d(global.item_slot))
         continue
     }
 }
-draw_text((obj_talk_screen_shop.x + 30), (obj_talk_screen_shop.y + 90), string_hash_to_newline("Exit"))
+draw_text((obj_talk_screen_shop.x + 30), (obj_talk_screen_shop.y + 90), string_hash_to_newline("Volver"))
