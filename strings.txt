@@ -1860,7 +1860,7 @@ H. Acid
 * (Comes la Pera Dorada.)
 * (El inmenso sabor abraza#  a tus papilas gustativas.)
 * (En general... No está mal.)
-* (Deboras el Perro de Maíz.)
+* (Deboras el Maíz de Perro.)
 * (No puedes evitar sentirte#  mal por hacerlo.)
 * (No puedes coser el Parche#  atrás de tu sombrero.)
 * (Pones la pluma en tu#  sombrero.)
@@ -1907,7 +1907,7 @@ H. Acid
 * (Bebes el Té de Mar. ¡La#  velocidad de tu ALMA#  aumenta!)
 * (Comes el pastel de frutas.#  ¡Las Swealterstones queman#  tu garganta!)
 * (No te preocupes, la araña no#  lo hizo.)
-* (Bebes el agua congelada.#  Definitivamente sabe a algo pero#  no sabes describirlo.)
+* (Bebes el .#  Definitivamente sabe a algo pero#  no sabes describirlo.)
 * * (Bebes el Latte...)
 * (Comes la galleta...)
 * (Te bajas la Cerveza de Raíz.#  ¡La carbonatación hormiguea!)
@@ -1922,7 +1922,7 @@ H. Acid
 * (Comes las Granolas Gravedad.)
 * (¡Realmente puedes saborear#  los 9.8 metros!)
 * (Bebes el H2O. Sabe un poco#  a limpiador de vidrios...)
-* (Comes los Papas Fritas.#  El crujir es ensordecedor.)
+* (Comes las Papitas Fritas.#  El crujir es ensordecedor.)
 * (Te comes la carne seca.)
 * (Que sabor tan clásico.)
 * (Disfrutas muchos trozos de#  torta.)
@@ -1944,26 +1944,26 @@ H. Acid
 * (Equipaste 
 * (Cargaste las Balas Heladas.)
 * (Tu pistola ahora hace#  frio al contacto.)
-* (Decides cargar los#  granos de café.)
+* (Decides cargar los#  Granos de café.)
 * (Tu pistola huele deliciosa.)
-* (Decidiste cargar las súper balas.)
+* (Decidiste cargar las Súper Balas.)
 * (Tu pistola se siente más liviana#  Más que tu consciencia...)
-* (Decidiste cargar los clavos#  dentro de tu pistola.)
-* (Decidiste cargar los pétalos de#  amistad en tu pistola.)
-* (Colocas el Honeydew pin#  en tu sombrero.)
-* (Colocas el Band Pin en tu#  sombrero.)
+* (Decidiste cargar los Clavos#  dentro de tu pistola.)
+* (Decidiste cargar los Pétalos de#  amistad en tu pistola.)
+* (Colocas el Broche Honeydew#  en tu sombrero.)
+* (Colocas el Broche de la#  Banda en tu sombrero.)
 * (Conectas la hebilla de acero#  a tu pantalón.)
 * (¡Tus pantalones se sienten más#  resistentes que antes!)
-* (Te pones la impresionante#  chaqueta amarilla resaltadora.)
+* (Te pones la impresionante#  Chaqueta amarilla resaltadora.)
 * (¡Estás totalmente listo para preocuparte#  por los negocios!)
-* (Equipas con orgullo la#  funda elegante.)
+* (Equipas con orgullo la#  Funda Elegante.)
 * (Estás listo para todo#  desde ahora!)
-* (Te colocas la bufanda dorada.#* Tu tremendo gusto por el estilo#  hace que los enemigos te contemplen.)
-* (Envuelves las gafas de#  seguridad alrededor de#  tu sombrero.)
+* (Te colocas la Bufanda Dorada.#* Tu tremendo gusto por el estilo#  hace que los enemigos te contemplen.)
+* (Envuelves las Gafas de#  Seguridad alrededor de#  tu sombrero.)
 * (Es como si tuviera ojos#  ahora.)
 * (Colocas el parche en tu chaleco#  y comienzas a sentir#  algo...)
 * (Las inquebrantables esperanzas#  y sueños de los monstruos.)
-* (Envuelves la bufanda plateada#  alrededor de tu cuello.)
+* (Envuelves la Bufanda Plateada#  alrededor de tu cuello.)
 * (¡Qué acogedora!)
 * (No puedes utilizar este#  objeto.)
 * Mejor no beber de él.
@@ -2036,9 +2036,9 @@ info
 * (Un sticker que dice "¡Un trato#  justo!" esta pegado en el envase.)
  "Pastel de frutas" - Cura 25 HP"#* (Pastel un poco seco#  con algunas gemas adentro.)
  "Rosquilla Araña" - Cura 12 HP"#* (Rosquilla hecha con Cidra#  Araña en la masa.)
- "Agua helada" - Cura 15 HP#* (La precuele del té helado.)
+ "Aguhelada" - Cura 15 HP#* (La precuele del té helado.)
  "Latte del Oasis" - Cura 25 HP#* (Café, pero más elegante.)
- "Galleta Cnm." - Cura 35 HP#* (Una estrella del#  buen hornear..)
+ "Galleta Can." - Cura 35 HP#* (Una estrella del#  buen hornear..)
  "Cerveza Raíz" - Cura 18 HP"#* (¡Para toda la familia!)
  "Pólvora" - Cura ??? HP"#* (La especia prohibida.)
  "Ensalada Musgo" - Cura 17 HP"#* (Se ve como si fuera#  de otro mundo...) 
@@ -2065,7 +2065,7 @@ info
 * "Hebilla Acero" - Armad. DF 7#* (Brillante hebilla hecha#  con finos materiales.)
 * "Chaqueta Seguridad" - Armad.#  DF 6
 * (Una pequeña chaqueta#  que protege al portador#  de los peligros del mundo.)
-* "Gafas Protect." - Armad. DF 9#* (Esencial para todo#  empleado de Steamworks.)
+* "Gafas Protecc." - Armad. DF 9#* (Esencial para todo#  empleado de Steamworks.)
 * "Parche Delta" - Armad. DF 10#* (La insignia oficial del# reino de los Monstruos.)
 * "Pañ. Plateado" - Armad. DF 6#* (Un pañuelo brillante#  tejido con cariño y amor.)
 * (Cura 2 HP tras cada#  turno.)
@@ -5278,8 +5278,8 @@ scr_dialogue_battle_action_selected_action_1_sweet_corn_a
 * Le das un gran abrazo a Sweet#  Corn.#* Se atora en tu camiseta.
 scr_dialogue_battle_action_selected_action_2_sweet_corn_a
 * Le ofreces un regalo a#  Sweet Corn.
-* Le das a Sweet Corn tu#  Candy Corn.
-* Le das a Sweet Corn tu Corn#  Dog.
+* Le das a Sweet Corn tu#  Maíz Dulce.
+* Le das a Sweet Corn tu Perro#  de Maíz.
 * No puedes pensar en un#  regalo para la ocasión.
 scr_dialogue_battle_action_selected_action_3_sweet_corn_a
 scr_dialogue_battle_action_selected_action_1_sweet_corn_b
@@ -5967,7 +5967,7 @@ item_sound
 con_keep_previous
 con_message_number
 * (Comes el 
-* (Te zampas el 
+* (Te sampas el 
 * (Bebes el Latte...)
 * (...HP recuperados totalmente.)
 * (En general... nada mal.)
@@ -22435,7 +22435,7 @@ Por Kanako...
 depth_overworld_text_normal
 item_pause_screen_number
 * Comes el
-#* Tús PV están al máximo.
+#* Tus PV están al máximo.
 item_hold
 snd_borfborf
 case_end
@@ -22555,13 +22555,13 @@ Cura 13 PV#* Papas fritas normales.
 Junk Food
 Cura 17 PV#* Comida que probablemente#  se tiró.
 Mystery Key
-Unica que está doblada#  para caber en el llavero.
+Única que está doblada#  para caber en el llavero.
 Face Steak
 Cura 60 PV#* Enorme filete con la forma de la cara de Mettaton. (No parece que esté hecho de carne de verdad...)
 Hush Puppy
 Cura 65 PV#* Este maravilloso hechizo#  impedirá que un perro haga magia.
 Snail Pie
-Cura Algún PV#* Un gusto adquirido.
+Cura Cierto PV#* Un gusto adquirido.
 temy armor
 Armadura DF 20#* ¡Lo que hace una educación universitaria! Aumenta el ATAQUE. Recupera PV cada dos turnos. Aumenta ligeramente el INV.
 * "
@@ -45142,7 +45142,7 @@ Uniscocho
 Conejo de Canela
 Copo Temmie
 Quiche Abandonado
-Viejo Tutu
+Viejo Tutú
 Zapatos de Ballet
 Tarjeta Perforada
 Perro Molesto
@@ -45182,16 +45182,16 @@ Cactus Dorado
 Golden Cactus
 Guante Mojado
 Limonada
-Maíz de Caramelo
-Pera Dor.
-Maíz de Perro
+Maíz Dulce
+Pera D.
+Perro de Maíz
 Parche
 Pluma
 Pañuelo Dor.
 Piedras
 Balas de Plata
 Balas de Vidrio
-Muni. de Goma
+Balas de Goma
 Pastel Esponjoso
 Café Hndw
 Panqueque Hndw
@@ -45199,10 +45199,10 @@ G.B. Oso
 Pal. Caliente
 Paleta Tibia
 Paleta Fría
-Café Dorado
+Café D.
 Soda de Adultos
 Paquete de Nueces
-Mezcla Seca
+Frutos Secos
 Té Helado
 Té Verde
 Té de Mar
@@ -45222,13 +45222,13 @@ Carne Seca
 Pastel
 Pastelito Floral
 Perrito Caliente
-Caramelo Monstruoso
-Caramelo Monstruoso+
+Caramelo Monstruo
+Caramelo Monstruo+
 Pudín de Cara-Nela
 Sopa de Maíz
 Hamburguesa Feisty
 Broche Honeydew
-Broche de la Banda
+Broche de Banda
 Hebilla de Acero
 Chaqueta Segura
 Gafas Seguras
@@ -45245,7 +45245,7 @@ Balas de Piedra
 Clavos
 Bolitas Amistosas
 Pañuelo Dorado
-Funda Elegante
+F. Elegante
 Cinta de Vídeo
 H. Ácido
 Collar Roto
@@ -45358,4 +45358,4 @@ DEVOL.
 Nada
 Correo
 Arma de Juguete
-Sombrero Desgastado
+Sombrero
