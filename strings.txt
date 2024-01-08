@@ -8979,7 +8979,7 @@ turn
 * (¿Esto lo convierte en#  una oruga?)
 message2
 * (Garabatos.)
-* Amigo:#* No temas a lo desconocido.#* A veces son agradables.
+* Amigo:#* No temas a lo desconocido.#* A veces es agradable.
 * (Una figura familiar.)
 * (Una entidad desconocida.)
 * (¿El... ALMA de alguien?)
