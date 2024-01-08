@@ -21,7 +21,7 @@ while (i < array_length_1d(global.item_slot))
             item_name = "P. Amistad"
         variablenormal = i > 4
         variablenormal2 = ""
-        draw_text(((obj_talk_screen_shop.x + 30) + (variablenormal * 160)), ((obj_talk_screen_shop.y + 10) + (((i - 1) - (variablenormal * 4)) * 20)), string_hash_to_newline((((item_name + " - ") + string(item_price)) + "G")))
+        draw_text(((obj_talk_screen_shop.x + 30) + (variablenormal * 160)), ((obj_talk_screen_shop.y + 10) + (((i - 1) - (variablenormal * 4)) * 20)), string_hash_to_newline((((item_name + " - ") + string(item_price)) + " ORO")))
         i += 1
         continue
     }
