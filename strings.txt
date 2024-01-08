@@ -10508,7 +10508,7 @@ actor_ceroba
 * Creo que todos lo#  hicimos alguna vez...
 * ¡Pero prometo que#  no duró mucho!
 * Y me contuve un poco.#  Em...
-. ¿A dónde iba con esto?
+* ¿A dónde iba con esto?
 * Clover te ayudó a salir#  de tu situación.
 * Sí.
 * A pesar de todo, Clover#  fue muy amable conmigo.
@@ -12357,18 +12357,18 @@ curve_delay
 eyes_offset
 blink
 f_x
-Project Lead:
+Jefe de Proyecto:
 credits_entry
 MasterSwordRemix
-Programming:
+Programación:
 Spasco
 Deadkat
 Mysteryracer
-Narrative Design:
+Diseño Narrativo:
 AWildDayDreamer
 Pippy V.
-Dialogue:
-Concept Art:
+Diálogos:
+Arte Conceptual:
 Figburn
 GlitchedPie
 TeleviQ
@@ -12377,7 +12377,7 @@ Gaziter
 InkuNoodle
 Noteblock
 AeroArtwork
-Additional Concepts:
+Conceptos Adicionales:
 Ryla
 MarshieMonarch
 Greeli_
@@ -12387,26 +12387,26 @@ LitvacArt
 Emmalume
 Sweaterbat
 Still Liam
-Room & Level Design:
+Salas y Diseño de Nivel:
 Glitchedpie
 Spritework:
 Vegard Jensen
 Barosaros
 Bloquito
 Kcadbackwards
-'Red' Design:
+Diseño de 'Red':
 Taxiderby
-'Cooper' Design:
+Diseño de 'Cooper':
 Migs
-'Flower Girls' Design:
-Music:
+Diseño de 'Flower Girls':
+Música:
 MyNewSoundtrack
-Additional Music:
+Música Adicional:
 emBer
 DYLZAL
 Scott Joplin
-Sound Design:
-Voice of Mew Mew:
+Diseño de Sonido:
+Voz de Mew Mew:
 PhichanVA
 CommissionerTadpole
 Toby Fox & Temmie Chang
@@ -23369,7 +23369,7 @@ Eres tan#dulce <3
 *tararea#junto a#la música*
 Lo estás#haciendo#genial,#¡dulzura!
 *chirrido*#*chirrido*
-Puedes#hacerlo!
+¡Puedes#hacerlo!
 ¡Recuerda,#siempre te#amaré!#<3
 block_vspeed
 sweet corn c
