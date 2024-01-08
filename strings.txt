@@ -4114,7 +4114,7 @@ enemy_low_hp_3
 * FROGGIT -- ATQ 
 #* La vida es dificil para este#  enemigo.
 * FLIER -- ATQ 
-#* Flier siente nada.
+#* Flier no siente nada.
 * PENILLA -- ATQ 
 #* Un personaje incompleto.
 * SWEET CORN -- ATQ 
@@ -5397,10 +5397,10 @@ scr_recreate_heart_battle_menu_text_dalv
 * Dalv parece no valorar la#  comunicación.
 * Dalv no quiere oírte.
 scr_dialogue_battle_action_selected_action_1_dalv
+* Dalv se da cuenta de tu#  oferta de buena#  voluntad.
 * Dalv no se da cuenta de tu#  oferta de buena#  voluntad.
 * Dalv acepta tu oferta de#  buena voluntad.
-*Dalv no quiere hacerlo.
-* Dalv acepta tu oferta de#  buena voluntad.
+* Dalv no quiere hacerlo.
 scr_dialogue_battle_action_selected_action_2_dalv
 gml_Script_scr_dalv_sparing
 scr_dalv_sparing
@@ -8969,7 +8969,7 @@ turn
 * ¿Atascado? Presiona#  aquí para repetirlo.
 * O no.
 * Propiedad privada.#* Prohibido el paso.
-* (Un lecho de#  flores bien cuidado.)
+* (Un lecho de flores#  bien cuidado.)
 * (Huelen bien.)
 * (Algunas flores.)
 * Amigo:#* Planté esto para ti.
@@ -16964,16 +16964,16 @@ cam2
 * ¿Qué se supone que#  hacen los amigos?
 * ¿Quieres...#  ver mi casa?#  ¿O algo así?
 * Tengo que ir allí así#  que supongo que puedes#  ir si tienes tiempo.
-¿Me estás... perdonando?
-Pero... ¿qué pasa con#  los demás?
-¿Por qué solo yo?
-¡Qué me hace tan#especial!
-¿O es así como# planeas hacerme daño?
-Llevándote a todos...
-...No los necesito.#Estare bien por mi cuenta.
-Lo he estado haciendo#por mucho tiempo...
-Creo que deberías irte.
-Ya has hecho#suficiente daño aquí.
+* ¿Me estás... perdonando?
+* Pero... ¿qué pasa con#  los demás?
+* ¿Por qué solo yo?
+* ¡Qué me hace tan#especial!
+* ¿O es así como# planeas hacerme daño?
+* Llevándote a todos...
+* ...No los necesito.#  Estare bien por mi cuenta.
+* Lo he estado haciendo#  por mucho tiempo...
+* Creo que deberías irte.
+* Ya has hecho#  suficiente daño aquí.
 * Supongo que... realmente#  estoy solo ahora...
 * Todo esto fue un#  malentendido, ¿verdad?
 * Estaré esperando en#  mi casa.
@@ -23227,7 +23227,7 @@ Lo siento por#eso.
 ¿Qué haces?#Esquiva.#Las.#Balas.
 No lo estropees#esta vez.
 ¡Enfermo! ¡¿Estás#haciendo esto#a propósito?!
-¡Bien! Entonces dejaré#de enviarlos.
+¡Bien! Entonces#dejaré de#enviarlos.
 * Chico, que alivio que#  esa señorita zorro te#  dejara sólo un rato.
 * ¡No poder hablar con mi#  compañero ha sido#  tortura!
 * Ahora, sé que quiere#  que vayas a pasear al#  Laboratorio pero...
@@ -23324,7 +23324,7 @@ Ja...
 Ja......
 .........
 Tienes valor.
-Solo dices eso# porque te#sientes obligado.
+Solo dices eso#porque te#sientes obligado.
 No creo que#esté lista para#la gente aún.
 Tal vez el#arte no es#lo mío.
 Supongo que#podría descansar.
@@ -23370,7 +23370,7 @@ Eres tan#dulce <3
 Lo estás#haciendo#genial,#¡dulzura!
 *chirrido*#*chirrido*
 Puedes#hacerlo!
-¡Recuerda,#siempre te#amo! <3
+¡Recuerda,#siempre te#amaré!#<3
 block_vspeed
 sweet corn c
 app_sound
@@ -23524,8 +23524,8 @@ Oye.
 Si no eres real...
 Entonces, ¿todo esto#es realmente culpa#mía?
 ¡Ahora los echo#de menos a todos!
-Penilla dibujo#un boceto de un#Sweet Corn.
-Nunca le di las gracias...
+Penilla dibujó#un boceto de un#Sweet Corn.
+Nunca le di las#gracias...
 Una vez, Sweet Corn#me dio un abrazo#sin razón.
 Le dije que no lo#volviera a hacer...
 Eran lo más parecido#a amigos que#había tenido...
@@ -23987,8 +23987,8 @@ Solo es un#iglú! Espera,#¿Ya habías#dicho eso?
 Um, holi...#¿Puedo unirme?
 No te#refieres a-               
                    IGLÚ IGLÚ ! !
-Sonidos de iglú#apreciativos!
-Gracias- Digo#       
+¡Sonidos de iglú#apreciativos!
+Gracias- digo#       
               #¡iglúU!
 ¡¡IGLÚ IGLÚ!!
 Ow... Digo-                
