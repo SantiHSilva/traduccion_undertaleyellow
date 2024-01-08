@@ -2030,8 +2030,8 @@ info
 * "Frutos Secos"#  - Cura 13 HP"
 * (Seleccionas absolutamente todo#  menos las pasas.)
 * "Té helado" - Cura 20 HP"#* (Un vaso de dulce y suave té.)
-* (Se puede ver un sticker de Mo#  sonriendo en la esquina del envase.)
- "Té verde" - Cura 21 HP"#* (Té helado pero con colorante verde. +1 HP#  por el estilo.)
+* (Se puede ver un sticker de Mo#  sonriendo en la esquina del#  envase.)
+ "Té verde" - Cura 21 HP"#* (Té helado pero con colorante#  verde. +1 HP por estilo.)
  "Té de mar" - Cura 10 HP"#* (Un té reluciente#  para tu sistema.)
 * (Un sticker que dice "¡Un trato#  justo!" esta pegado en el envase.)
  "Pastel de frutas" - Cura 25 HP"#* (Pastel un poco seco#  con algunas gemas adentro.)
