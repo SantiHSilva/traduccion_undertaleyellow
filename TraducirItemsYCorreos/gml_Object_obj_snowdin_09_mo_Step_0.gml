@@ -154,7 +154,7 @@ if (waiter == 3)
         message[3] = "* ¡Sólidos que SOLÍAN ser#  líquidos!"
         message[4] = "* ...Y que, ya sabes, no hayan#  estado sentado en el bosque#  durante tres semanas."
         message[5] = "* ¡He inventado la próxima#  gran cosa!"
-        message[6] = "* ¡Por el increíble precio#  de 15 de oro, puedes tener tu#  propio chocolate caliente Pop!"
+        message[6] = "* ¡Por el increíble precio#  de 15 de oro, puedes tener tu#  propia Paleta de Chocolate Cal.!"
         message[7] = "* Antes era el viejo y aburrido#  chocolate caliente, ¡pero ahora#  congelado a temperatura ideal!"
         message[8] = "* ¿He despertado ya tu#  interés?"
         ch_msg = 8

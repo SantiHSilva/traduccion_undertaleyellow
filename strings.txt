@@ -5979,14 +5979,14 @@ weapon
 armor
 ammo
 * (Tu arma ahora huele#  delicioso.)
-* (Pegas el 
+* (Pegas la 
  en#  tu sombrero.)
 accessory
 * (Fijas el 
 #  a tu sombrero.)
 heart_battle_fighting_x
 heart_battle_fighting_y
-You equip the 
+Equipas el 
 message_add
 cmsgn
 * (¡Recuperaste 
@@ -5997,7 +5997,7 @@ cmsgn
 * (Tus PP se llenaron.)
  SP!)
 * (Tu SP se llenó.)
- turns!
+ turnos!
 * (Tu RP fue maximizado.)
 gml_Script_scr_item_use_text_yellow
 scr_item_use_text_yellow
@@ -14682,7 +14682,7 @@ Configuración
 play_time
 Room Name
 RESETEAR
-WAIT
+ESPERAR
 screen_message
 ERROR: Baja potencia
 screen_message_current
@@ -15116,8 +15116,8 @@ Agh...
 No puedo decir que no#lo vi venir.
 Aún así, mis esperanzas#eran altas.
 Tiene que haber ALGUNA#manera de obtener lo que#quiero.
-Clover es suficientemente...#competente, pero aún así...
-Nunca funciona bien cuando#se trata sobre él.
+Clover es#suficientemente...#competente, pero aún#así...
+Nunca funciona bien#cuando se#trata sobre él.
 Hmm...
 Podría reiniciar y probar#mi suerte otra vez...
 O...
@@ -15888,7 +15888,7 @@ ARMADURA:
 drawn_ammo
 F. Pellets
 MUNICIÓN: 
-MODIF.: 
+MODIF: 
 ORO: 
 H2O
 USAR
@@ -18874,7 +18874,7 @@ message_check
 * Empezó como un vaso de hielo,#  pero se derritió.
 * Lo único que tuve que hacer#  fue echar una bolsita#  de té y ¡WAM!
 * ¡No te preocupes!#  Sabe mejor así.
-* ¡Ice Tea, nena!
+* ¡Té Helado, nena!
 * ¡Es como la secuela del agua!
 * ¡Esta es la parte en la#  que gastas el ORO que#  pueden pertenecerte o no!
 * Hey, no estoy aquí para#  juzgar, ¡Estoy aquí#  para vivir!
@@ -18887,7 +18887,7 @@ message_check
 * El alfabeto debe tener#  ahora 25 letras, ¡porque#  me he quedado sin T!
 * ¡Estoy seguro de que nos#  volveremos a ver! ¡Gracias#  por creer en mí!
 * ¡MO, FUERA!
-* Ese Mo es raro.	
+* Ese Mo es raro.
 * Habría hablado con él#  pero no sé cómo...#  de legal es su negocio.
 * Nuestra conversación podría#  haberse vuelto muy incómoda,#  muy rápido.
 anim_speed
@@ -45083,7 +45083,7 @@ Apt. Complex
 Nuevo Hogar
 New Home
 Steamw. - C. Station
-RESET
+REINICIAR
 obtenerEmailSpanish
 gml_GlobalScript_obtenerEmailSpanish
 abuscar
@@ -45200,7 +45200,7 @@ Pal. Caliente
 Pal. Tibia
 Pal. Fría
 Café D.
-Soda de Adulto
+Soda +18
 Paq. de Nueces
 Frutos Secos
 Té Helado
@@ -45215,8 +45215,8 @@ Cerveza Raíz
 Pólvora
 Ensalada Musgo
 Patatas Fritas
-Guiso de Flores
-Granola Gravedad
+G. de Flores
+G. Gravedad
 Papitas Fritas
 Carne Seca
 Pastel
@@ -45233,7 +45233,7 @@ Hebilla de Acero
 Chaqueta Segura
 Gafas Seguras
 Broche Delta Rune
-Pañuelo Plateado
+Pañuelo Platea.
 Café Tibio
 Fósforos
 Mapa Snowdin
@@ -45364,4 +45364,4 @@ Dunas - Minas Oeste
 Dunas - Valle Oasis
 rm
 Funda de Lujo
-Lindo Sombrero
+Lindo Sombr.
