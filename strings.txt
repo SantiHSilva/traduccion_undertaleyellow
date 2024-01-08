@@ -2003,8 +2003,8 @@ info
 * "Balas de vidrio" - Arma AT 5#* (Literalmente trozos de vidrio.#  Si...)
 * (Restaura 2 HP Después de cada# ataque.)
 * "Maíz dulce" - Restaura 9 HP#* (Tus dientes duelen con solo#  verlo.)
-* "Perro de Maíz" - Restaura 12 HP#* (Un genuino maiz de perro#  suave, esponjosas orejas.)
-* "Parche" Armadura DF 0#* (No es fuerte pero #siempre será la vieja confiable.)
+* "Perro de Maíz" - Cura 12 PV#* (Un genuino maiz de perro#  suave, esponjosas orejas.)
+* "Parche" Armadura DF 0#* (No es fuerte pero siempre#  será la vieja confiable.)
 * "Pluma" - Armadura DF 2#* (Una vieja y olvidada pluma.#* Necesita un buen acicalamiento.)
 * "Pañuelo D." - Armadura DF 12#* (La pieza de tela más impresionante # jamás vista.)
 * (El sombrío recordatorio de#  tu misión. La justicia#  es necesaria.)
@@ -16792,7 +16792,7 @@ diary_music
 * Pops hizo un chiste muy#  gracioso a costa de Broom#  y todos nos reímos.
 * Me puse mi capa y salí#  a dar mi paseo diario.
 * Me he dado cuenta de que#  hoy ha aparecido otro maíz#  azul en tu maizal.
-* Siempre me siento mal por#  desechar el maíz especial, pero#  no puedo arriesgarme a enfermar.
+* Siempre me siento mal por#  tirar el maíz especial, pero#  no puedo arriesgarme a enfermar.
 * Algo interesante ocurrió#  un poco más tarde.
 * Escuché a Flier y Penilla#  hablando de mí...
 * Acerca de nosotros...
