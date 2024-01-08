@@ -8,7 +8,7 @@ while (i < array_length_1d(global.item_slot))
     if (global.item_slot[i] == "Nothing")
     {
         if (i == 1)
-            draw_text((obj_talk_screen_shop.x + 30), ((obj_talk_screen_shop.y + 10) + ((i - 1) * 20)), string_hash_to_newline("Inventario Vacío"))
+            draw_text((obj_talk_screen_shop.x + 30), ((obj_talk_screen_shop.y + 10) + ((i - 1) * 20)), string_hash_to_newline("Inventory Empty"))
         break
     }
     else
@@ -19,11 +19,11 @@ while (i < array_length_1d(global.item_slot))
             item_name = "H2O"
         else if (item_name == "Friendliness Pellets")
             item_name = "P. Amistad"
-        variablenormal = i > 640
-        variablenormal2 = i > 16
-        draw_text(((obj_talk_screen_shop.x + 30) + variablenormal), ((obj_talk_screen_shop.y + 10) + (((i - 1) - (variablenormal2)) * 20)), string_hash_to_newline((((item_name + " - ") + string(item_price)) + " ORO")))
+        variablenormal = i > 4
+        variablenormal2 = ""
+        draw_text(((obj_talk_screen_shop.x + 30) + (variablenormal * 160)), ((obj_talk_screen_shop.y + 10) + (((i - 1) - (variablenormal * 4)) * 20)), string_hash_to_newline((((item_name + " - ") + string(item_price)) + "G")))
         i += 1
         continue
     }
 }
-draw_text((obj_talk_screen_shop.x + 30), (obj_talk_screen_shop.y + 90), string_hash_to_newline("Volver"))
+draw_text((obj_talk_screen_shop.x + 30), (obj_talk_screen_shop.y + 90), string_hash_to_newline("Exit"))
