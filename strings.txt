@@ -2475,7 +2475,7 @@ gml_Script_scr_determine_world_value_yellow
 * Tengo que decir, es#  un poco agradable#  no tener molestias.
 * Bueno, no queda nada#  que hacer por aquí,#  supongo. ¡Sigamos!
 * ¡Sigamos avanzando!
-* ¡Buenas!#* ¡Parece que lo#  tienes!  
+* ¡Buenas!#* ¡Parece que lo tienes!  
 * ¿Por qué la cara larga,#  amigo?
 * No te preocupes, ¡este#  sitio es mucho mejor#  que allí arriba!
 * ¡Esa vieja nos#  habría arruinado la#  diversión!
@@ -3470,7 +3470,7 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * Penilla dibuja un bosquejo#  de ti.
 * Huele a cera de vela#  quemándose.
 * Crispy Scroll pregunta si puede#  tomarse una foto contigo.
-* Quedas cegado momentaneamente#  por el deslumbrante#  brillo de Rorrim.
+* Quedas cegado momentaneamente#  por el deslumbrante brillo#  de Rorrim.
 * Decibat no está disfrutando la#  música.
 * Dalv parece temer su próximo#  ataque.
 * Una suave brisa hace que#  Micro Froggit pierda#  el equilibrio.
@@ -8966,7 +8966,7 @@ flag01
 turn
 * Haz que lo oscuro, sea#  brillante.
 * Haz que lo oscuro, sea#  claro.
-* ¿Atascado? Presiona#  aquí para repetirlo.
+* ¿Atascado? Presiona aquí#  para repetirlo.
 * O no.
 * Propiedad privada.#* Prohibido el paso.
 * (Un lecho de flores#  bien cuidado.)
@@ -16935,7 +16935,7 @@ genoCount
 * Me preguntaba si alguna vez#  volverías...
 * No... demasiado directo.
 * ¿A quién quiero engañar? Nunca#  podré conocerte en este#  estado.
-* Solo quiero que sepas... que#  no tuve opción. Así debe#  de ser.
+* Solo quiero que sepas... que#  no tuve opción. Así debe de#  ser.
 * ¿Eh?
 * ¿Quién...?
 * D-debo estar alucinando...
@@ -17154,7 +17154,7 @@ damage_3
 * ¡Quizá encuentre la forma#  de volver a la superficie!#* ¡Nunca se sabe!
 * Cualquiera puede ser un#  héroe.#* ¡Incluso tú puedas serlo!
 * Deberías comprarte un#  sombrero nuevo. Ese#  parece un poco gastado.
-* Ahora puedo cumplir mi#  sueño de abrir una parada#  de abrazos gratis.
+* Ahora puedo cumplir mi#  sueño de abrir un puesto#  de abrazos gratis.
 * Veré las caras#  sonrientes de todo el#  mundo. 
 * ¡Ten cuidado con Dalv!#  Ya deberías haber recibido#  un gran abrazo.
 * Todos necesitamos un#  buen abrazo de vez en cuando. 
@@ -17268,7 +17268,7 @@ Prepárate para mi#más fuerte#ataq-
 * ¡A por ellos, amigo!
 * Bueno, ¡eso es todo!
 * ¡Así de fácil es#  encontrarme!
-* ¡Si ves uno,#  no dudes en llamarme! 
+* ¡Si ves uno, no dudes#  en llamarme! 
 * Y entonces guardaré.#  ¡Como acabo de guardar#  ahora!
 * Hay una cosa más...
 * El rey de todos los#  monstruos, ASGORE...
@@ -17277,7 +17277,7 @@ Prepárate para mi#más fuerte#ataq-
 * Eres bastante pequeño...
 * Aunque eso no importa#  demasiado.
 * ¡Lo que importa es#  que me tienes de tu#  lado!
-* Te dejaré ir,#  pero por favor ten#  cuidado.
+* Te dejaré ir, pero#  por favor ten cuidado.
 * Hay todo tipo de#  trampas peligrosas#  aquí abajo.
 * Y algunos monstruos #  de este lugar...
 * Escuché que no les#  gustan las visitas. #  ¡Buena suerte!
@@ -17297,7 +17297,7 @@ Prepárate para mi#más fuerte#ataq-
 * (No se mueve.)
 dr
 * (Es un trozo de maíz#  abandonado.)
-* (¡Obtuviste un Maíz#  Dulce!)
+* (¡Obtuviste un Maíz Dulce!)
 * (Probablemente no sea#  lo suficientemente bueno#  para ti.)
 * (Una hermosa Pera Dorada#  de aspecto delicioso#  descubre tu mirada.)
 * (¡Obtuviste una#  Pera Dorada!)
