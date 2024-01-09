@@ -1855,7 +1855,7 @@ Videotape
 H. Acid
 * (Bebes la limonada.)
 * (Está muy ácida.)
-* (Comes el Maíz Dulce.)
+* (Comes el Caramelo de#  Maíz.)
 * (Ahora ya sabes porque fue#  desechado.)
 * (Comes la Pera Dorada.)
 * (El inmenso sabor abraza#  a tus papilas gustativas.)
@@ -2002,7 +2002,7 @@ info
 * (Un disparo perfecto#  dará un daño extra.)
 * "Balas de vidrio" - Arma AT 5#* (Literalmente trozos de vidrio.#  Si...)
 * (Restaura 2 PV después de cada# ataque.)
-* "Maíz dulce" - Cura 9 PV#* (Tus dientes duelen con solo#  verlo.)
+* "Caramelo de Maíz" - Cura 9 PV#* (Tus dientes duelen con solo#  verlo.)
 * "Perro de Maíz" - Cura 12 PV#* (Un genuino maiz de perro#  suave, esponjosas orejas.)
 * "Parche" Armadura DF 0#* (No es fuerte pero siempre#  será la vieja confiable.)
 * "Pluma" - Armadura DF 2#* (Una vieja y olvidada pluma.#* Necesita un buen acicalamiento.)
@@ -45182,7 +45182,7 @@ Cactus Dorado
 Golden Cactus
 Guante Mojado
 Limonada
-Maíz Dulce
+Caram. Maíz
 Pera D.
 Perro de Maíz
 Parche
