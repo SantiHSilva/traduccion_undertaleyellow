@@ -5969,7 +5969,7 @@ con_message_number
 * (Comes el 
 * (Te sampas el 
 * (Bebes el Latte...)
-* (...HP recuperados totalmente.)
+* (...PV recuperados totalmente.)
 * (En general... nada mal.)
 protection
 restore
@@ -12593,7 +12593,7 @@ depth_start
 * ¿En qué puedo servirle?
 Castillo
 Cuarto
-* Para llegar a New Home, querrás#  tomar el elevador que está#  a mi izquierda.
+* Para llegar a Nuevo Hogar,#  querrás tomar el elevador a#  mi izquierda.
 * No a la izquierda de mi, a la#  izquierda como en la dirección. Tú lo entiendes.
 * Ahem...
 * Por supuesto, con el NÚCLEO en#  mantenimiento, es la única#  forma de llegar a la ciudad.
@@ -16363,7 +16363,7 @@ Caí en un charco
 * Mantente alerta.
 * Amigo, este lugar#  es enorme.
 * El gobierno debería#  darle algú uso a#  superficie abandonada.
-* Escuché que New Home#  está superpoblada.
+* Escuché que Nuevo Hogar#  está superpoblado.
 * Algunos suburbios aquí#  y otros por allá#  deberían arreglarlo.
 * ...Quizás drenar el#  lago de sustancia mortal#  primero.
 * Nuevo Hogar...
@@ -17082,7 +17082,7 @@ __b__
 * "Me gusta tirar el dado de#  diez caras tanto como al que#  más, pero no, soy el Sr. CURSOR".
 * ¡Resulta que pensó que había#  dicho "Curser" como si fuera#  a embrujar el local!
 * Realmente no necesitaba su#  opinión de mi nombre icónico#  pero lo que sea. 
-* Entonces, me dirijo al#  ascensor para volver#  a New Home.
+* Entonces, me dirijo al#  ascensor para volver#  a Nuevo Hogar.
 * Está ocupado, así que espero,#  y espero, y espero, y#  PASAN LITERALMENTE TRES HORAS.
 * Lo siguiente que sé, es que#  el ascensor se abre pero#  ¡¡¡OOPS!!!
 * El Sr. Cursor tiene tendencia#  a quedarse dormido cada cinco#  minutos. 
