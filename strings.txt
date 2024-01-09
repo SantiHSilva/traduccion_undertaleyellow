@@ -3646,7 +3646,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * Macro Froggit da pisotones,#  sacudiendo toda la#  habitación.
 * Guardener te mira con desprecio,#  temblando ligeramente.
 * Guardener se mueve a un ritmo#  alarmante. Esto no puede ser#  bueno para él.
-* ARCHIVO 01 - [REDACTADO]
+* ARCHIVO 01 - [ELIMINADO]
 * Ceroba mira fijamente a tu ALMA#  con arrepentimiento.
 * Tu ALMA late con gran poder.
 * La defensa del enemigo puede#  ser destruída.
@@ -3759,7 +3759,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_8
 * Axis pellizca el extremo de uno#  de sus guantes y suelta el#  aire. Le parece divertido.
 * Axis piensa que esta música es#  un poco intensa para sus#  gustos.
 * Axis geno flavor 9.
-* clover quisiera llorar pero#  no tienen ojos
+* clover quisiera llorar pero#  no tiene ojos
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_default_9
 scr_battle_core_directory_flavor_text_enemy_1_default_9
 * Craniex te está perdonando.
@@ -9483,7 +9483,7 @@ statue
 * Construído el 201X	
 * (Oyes una ligera melodía#  saliendo de la estatua.)
 * (Otra planta.)
-* (Una planta en maceta.)
+* (Una planta en una maceta.)
 * NÚCLEO en mantenimiento.	
 * Por favor no cruce ni salte#  la soga roja.
 * (Información inútil.)
@@ -9505,9 +9505,9 @@ statue
 * (Una plantada maceta.)
 * (...¿Qué?)
 * (Sin respuesta.)
-* Si, ¿hola?	
+* Sí, ¿hola?	
 * ¿Es la ballena cartera con mi#  paquete?	
-* Evitate las rimas y déjalo#  en la puerta, por favor.
+* Evítate las rimas y déjalo#  en la puerta, por favor.
 * ¿Quién está ahí?	
 * Estoy a la mitad de un robo a#  este buen apartamento.	
 * Regresa cuando haya escapado.
@@ -12516,7 +12516,7 @@ x_offset_prev
 current_destination
 * Una y otra...
 * Y otra vez.
-* Claro, pequeñas decisiones#  aquí y allá varian pero...
+* Claro, pequeñas decisiones#  aquí y allá varían pero...
 * El viaje siempre#  termina contigo viviendo#  ignorantemente con Toriel.
 * Tenía que intervenir.
 * Al principio, mis esfuerzos#  parecían funcionar.
@@ -12607,7 +12607,7 @@ Cuarto
 * ¡Oh! ¡Espera un segundo!
 * Creo que te reconozco...
 * ¡Sí, es el sombrero!
-* Un monstruo azul con plumas vino#  aquí y me preguntó si te#  diría que fueras a la azotea.
+* Un monstruo azul con plumas#  vino aquí y me preguntó si te#  diría que fueras a la azotea.
 * Quería "encontrarte en el#  tejado" es lo que dijo#  exactamente.
 * Todo lo que pido es que por#  favor no hagan nada ilegal#  en las instalaciones.
 actor_axis
@@ -13038,7 +13038,7 @@ human_alpha
 * Como mencioné, Waterfall es#  el mejor lugar para#  experimentar la lluvia.
 * Desafortunadamente, llegar#  desde Hotland no es fácil#  ahora.
 * ¿Te diste cuenta de todos los#  obstáculos esparcidos por ahí?
-* Es como que no quieren que nadie#  pase por un camino específico#  o algo así.
+* Es como que no quieren que#  nadie pase por un camino#  específico o algo así.
 * Si llevas algo de "lluvia" no#  tengas reparo en soltarla#  al aire.
 * Aferrarte a la tristeza te#  termina pesando.
 * (Una página de escritos#  dispersos tirados en#  la basura.)
@@ -14167,7 +14167,7 @@ abandoned_geno
 * He intentado actuar de#  la mejor manera pero...
 * ...desde hace un rato#  he sentido una alarmante#  aura en ti.
 * ...por suerte, nunca#  lo hiciste.
-* Tenía este plan para#  detener tu violencia#  de ser necesitado.
+* Tenía este plan para#  detener tu violencia#  de ser necesario.
 * No estoy...
 * ...No estoy segura de#  que deba...
 * Tenía este plan para#  detener tu furia pero...
@@ -14643,7 +14643,7 @@ song_pos
 * Entonces y solo entonces, me#  convertiré en DIOS.
 * Pero por ahora... esto es solo#  el comienzo. 
 * Así que por favor, resiste.
-* Entretengamonos por un rato#  más.
+* Entretengámonos por un rato#  más.
 * Después de todo, en este mundo...
  ES MATAR O MORIR
 fight_end
@@ -14681,7 +14681,7 @@ Reiniciar
 Configuración
 play_time
 Room Name
-RESETEAR
+REINICIAR
 ESPERAR
 screen_message
 ERROR: Baja potencia
@@ -14903,9 +14903,9 @@ impact
 dmg
 hp_self_last
 hint_noloop
-{0} - Dipara
+{0} - Dispara
 {0} - AutoDispara
-{0} - Corre
+{0} - Dash
 sequence_idle
 door_open
 wall
@@ -21772,7 +21772,7 @@ portrait_author_torso
 * ¡Saludos! #* ¡Echa un vistazo!#  Pero no toques nada.
 * ¡Buenas buenas humano!#  Echa un vistazo a mis#  mercancías. #* ¡Las cosas duras están#  fuera de los límites!
 * Niño no autorizado#  detectado. Váyase.
-* ¿En qué puedo servirle?
+* ¿En qué puedo#  servirle?
 * ¡Bienvenido a Bits &#  Bites!
 * ¡Bienvenido a Bits &#  Bites!#* < Compra algo,#  ¿quieres? >
 message_alt
@@ -21800,7 +21800,7 @@ Deja de cargar#tanto.
 No me#interesa.
 ¿Qué quieres#saber?
 Vete.
-¡Elija un#item!
+¡Elija un#objeto!
 Maldigo mi#programación.
 ¡Item#dispensado!
 Estás quebrado.#lol.
@@ -21861,7 +21861,7 @@ Cura 20HP#Sin filtrar.#Sucio.#Malo.
 Cura 20HP#También#llamado#"agua".
 Cura 13HP#_
 Cura 13HP#Sabe a#plástico.
-Cura 13HP#¡Perfectamente#salado!
+Cura 13HP#¡Con sal#perfecta!
 Acce: 9DF#Detente...
 Acce: 9DF#Te#cegará.
 Acce: 9DF#¡¡¡Importante!!!
@@ -21967,7 +21967,7 @@ Mo
 Tu historia (NUEVO)
 * Nací durante la guerra.#  Apenas unas semanas antes#  de nuestro Subsuelo.
 * Mi padre era un soldado en#  el ejército del rey ASGORE. Y#  un soldado fue todo#  lo que llegó a ser.
-* Cuando mi madre recibió la#  noticia de que los monstruos#  tenían que retirarse, se negó a irse.#  Insistió en buscar a mi padre.
+* Cuando mi madre recibió la#  noticia de que los monstruos#  tenían que retirarse, se negó a#  irse. Insistió en#  buscar a mi padre.
 * ...A pesar de las súplicas#  de los oficiales, no cambiaba#  de opinión.
 * Enseguida me entregaron a#  una niñera y me criaron en#  esta misma montaña.
 * Pero así va la vida en tales#  circunstancias. No todo el#  mundo lo tiene fácil.
@@ -21977,7 +21977,7 @@ Tu historia (NUEVO)
 Tu historia
 * La pandilla de North Star son#  amigos suyos del colegio,#  creo.
 * Crearon un club para hablar#  de películas y disfrazarse para#  vivir aventuras imaginarias.#  Días de la Calabaza permanente.
-* Algunos piensan que son un#  poco mayores para hacer esas cosas,#  pero es bastante inofensivo.
+* Algunos piensan que son un#  poco mayores para hacer esas#  cosas, pero es bastante#  inofensivo.
 * ...¿Qué estoy diciendo?#  ¡No es inofensivo! ¡Me hacen#  daño casi todos los días!
 * ¿Sabías que Ace y Mooch#  instalaron un sistema de#  altavoces por toda#  la ciudad?
 * ¡Lo usan para poner pequeños#  anuncios y una canción espantosa#  que se repite una y otra vez!
@@ -21991,9 +21991,9 @@ Tu historia
 * Incluso es popular#  desear su aniquilación.
 * Tanta pérdida...#  Tanta pena...
 * Las acciones de la humanidad#  quedarán grabadas para siempre en la#  historia, hasta que el Rey ASGORE#  obtenga siete de sus ALMAS y el#  juicio caiga sobre la Superficie.
-* Entonces te preguntas: "¿Cómo#  puede existir un pueblo como el#  Salvaje Este en una sociedad así?".# Bueno, no está exento de polémica.
+* Entonces te preguntas: "¿Cómo#  puede existir un pueblo como el#  Salvaje Este en una sociedad así?".#  Bueno, no está exento de#  polémica.
 * La mayoría son indiferentes#  y prefieren no reconocerlo.
-* Pero algunos dejan sus opiniones,#  que si el pueblo se está burlando# de una situación grave, o que#  somos traidores a la propia#  humanidad monstruosa.
+* Pero algunos dejan sus opiniones,#  que si el pueblo se está burlando#  de una situación grave, o que#  somos traidores de los#  monstruos.
 * Bastante duro,#  ¿verdad?
 * Creo que a todos los que#  participan les fascina el#  mundo de la superficie. Ya#  sea por historia o por#  simple evasión.
 * En mi opinión, no hay#  nada malo en apreciar#  estas cosas.
@@ -22014,11 +22014,11 @@ Tu opinión
 * ¡La dedicación de mi vida!
 * Trabajo con acero, hierro e#  incluso un poco de plata y#  oro cuando me siento elegante.
 * Mining Co. sigue descubriendo#  muchos materiales de este tipo,#  así que se los compro a#  inicios de cada mes.
-* Crear objetos prácticos y bellos#  a partir de escombros es encantador.#  Lo se por Nuevo Hogar, donde#  fabricaba armaduras para la#  Guardia Real.
+* Crear objetos prácticos y bellos#  a partir de escombros es#  encantador. Lo sé por Nuevo#  Hogar, donde fabricaba armaduras#  para la Guardia Real.
 * El herrero principal que me#  enseñó - dicen que ayudó al#  rey ASGORE a forjar su#  poderoso tridente.
 * Por supuesto, los críticos dicen#  que está hecho de pura magia,#  ¡pero yo no les creo!
-* Sabes que ASGORE empuña un# tridente, ¿verdad? ¡Una obra#  maestra absoluta!	
-* Su armadura también está# maravillosamente hecha.#  ¡He oído que es#  impenetrable!	
+* Sabes que ASGORE empuña un#  tridente, ¿verdad? ¡Una obra#  maestra absoluta!	
+* Su armadura también está#  maravillosamente hecha.#  ¡He oído que es#  impenetrable!	
 * Un monstruo tan respetable#  debe tener un aspecto adecuado,#  ¡y no ahorro en gastos!
 * Esperaba que no preguntaras#  por ellos...
 * Jóvenes vándalos es#  todo lo que son.
@@ -22142,29 +22142,29 @@ Chujin
 * Gracias a mi popularidad, por#  lo general, me quedo sin#  inventario a las 8:00.
 * Eso me recuerda... mi último#  arranque - ayer - fue un domingo.#  El Dr. R.O. debería venir#  aquí en cualquier minuto. Ya no#  puedo esperar.
 * Pero nada de eso te#  interesa, ¿verdad?
-* ¡Todos los robots tienen un creador!#  Es una ley de estas tierras#  después de todo.
-* ¡El mio es el Dr. Rutherford Oscar!
+* ¡Todos los robots tienen un#  creador! Es una ley de#  estas tierras después#  de todo.
+* ¡El mio es el Dr. Rutherford#  Oscar!
 * Prestigioso ingeniero, químico,#  botánico, aquitecto, doctor,#  dentista, arqueólogo,#  geólogo, zoólogo, chef,
 * ...sastre, músico, atleta,#  operador de carretilla elevadora,#  piloto, escritor...
-* ...empresario, cartero, productor de#  caracoles, cuidador de abejas, de aves,#  veterano, veterinario, electricista,#  esteticista, mago, criminal#  de guerra, banquero, bromista,#  cuidador de peceras, y...#
+* ...empresario, cartero, productor de#  caracoles, cuidador de abejas, aves,#  veterano, veterinario, electricista,#  esteticista, mago, criminal#  de guerra, banquero, bromista,#  cuidador de peceras, y...#
 * ...accionista, del 3%#  del gobierno. 
 * ¡Que hombre!
 * Ya sabes lo que se dice:#  ¡Steamworks hace realidad#  el sueño!
 * ¡Este es el lugar#  adecuado para progresar!
 * ¡Cada profesión tiene su#  propia división, y yo no soy de#  matemáticas! 
-* ¡Ja ja, estoy bromeando,#  por supuesto! Todos los robots están#  forzados a amar las#  matemáticas!
+* ¡Ja ja, estoy bromeando,#  por supuesto! Todos los robots#  están forzados a amar las#  matemáticas!
 * El Ala de Fábrica es donde#  se crean los electrodomésticos#  para que los monstruos los#  disfruten.
 * Desde refrigeradores, hasta#  lavadoras, el montaje se facilita#  para que los monstruos se#  lo tomen con calma!#
 * Y no nos olvidemos del segundo#  piso, el cual se especializa en#  la fundición de materiales minados#  del Subsuelo, convertidos en la#  moneda actual conocida como ORO.#
 * ¡Es lo que hace que la economía#  funcione de la forma adecuada!
 * Desde el Ala de Química del#  Invernadero, ¡hay trabajo#  para todo el mundo!
 * Me disculpo, cliente. Mi#  código de hospitalidad me#  previene de revelar toda#  información clasificada de#  mis colegas.#
-* Aunque aparentemos ser#  individuales, nosotros los#  robots, somos la menta colmena. Todo#  controlado por la estación al#  oeste de mi posición.#
+* Aunque aparentemos ser#  individuales, nosotros los#  robots, somos una menta colmena.#  Todos controlados por la#  estación al oeste#  de mi posición.#
 * Sin embargo, Axis, es una#  excepción. La 'oveja negra' de#  los proyectos robóticos por decir#  de alguna manera.#
 * ¿Te imaginas actuar al margen#  de un puño gobernante que sólo#  te da un propósito y ninguna#  esperanza de libertad? ¡Yo no#  podría!#
 * Pero si te importa saber más,#  él ama hablar sobre si mismo#  así que yo le preguntaría a él :]
 * Ah aperitivos... mi propósito :]#
-* ¡Te recomiendo mucho que los#  compres! ¡Todos están hechos con#  sustitutos de ingredientes naturales!
+* ¡Te recomiendo mucho que los#  compres! ¡Todos están hechos con#  sustitutos de ingredientes#  naturales!
 * (Oye, Clover, No creo#  que estos... dos puedan#  ayudar. Tenemos que#  seguir.)
 * ¿Ayudar? ¿Ayudar en qué?
 * ¿Ayudar? ¿Ayudar en qué?#* < Podemos ser útiles. ¿Qué#  escondes? >
@@ -22177,7 +22177,7 @@ Chujin
 * (Termina tús asuntos,#  por favor.)
 box_sndfnt
 * (En serio no tenemos#  tiempo para charlar. Tal#  vez luego, ¿okei?)
-* ¡El Sr. Fluffybuns es el brillante#  faro de nuestra nación!
+* ¡El Sr. Fluffybuns es el#  brillante faro de#  nuestra nación!
 * Una de las principales razones#  por las que estamos tan#  cerca de romper la barrera#  y volver a la superficie.#
 * Una de las principales razones#  por las que estamos tan#  cerca de romper la barrera#  y volver a la superficie.               #* < ¡Sí, él es genial#  pegándole a los humanos! >
 * ¡Oye ahora! ASGORE lleva un gran#  peso en sus hombros, ya sabes.#  Tener que lidiar con#  todas las cosas desagradables#  de recolectar ALMAs humanas#  no es un trabajo divertido.
@@ -22219,7 +22219,7 @@ Hotland (NUEVO)
 * Es simple: siendo amable ante#  los demás atraes más ganancias#  a la tienda.#* < ...Quizás pueda esforzarme#  un POCO más, tienes razón. >
 * Oh, um, heh...#	
 * Ese es un tema bastante#  delicado, realmente no-
-* Ese es un tema bastante#  delicado, realmente no-#* < ¡Toriel se DIVORCIO del Rey!#  ¡Hilarante! >#
+* Ese es un tema bastante#  delicado, realmente no-#* < ¡Toriel se DIVORCIÓ del Rey!#  ¡Hilarante! >#
 * ¡Buttons! ¡Que falta de respeto!
 * ¡Buttons! ¡Que falta de respeto!#* < ¡Si el hombre no está bien,#  el hombre no está bien! >
 * Oh, ¡eres un pesado!#
@@ -22233,7 +22233,7 @@ Hotland (NUEVO)
 * D-digo, ¡uno siente curiosidad#  por supuesto! ¡Eso es todo,#  en serio!#* < ¡Hey me encanta leerlos#  tanto como a ti!#  ¡Esas cosas son picantes!  >#
 * ¿¿¿Verdad??? Para ser un Flier en#  la pared durante el-
 * ...El uh...
-* ...Eh uh...# *< ... >#
+* ...El uh...# *< ... >#
 * Sí... Le deseo lo mejor a#  Toriel. Estoy seguro de que#  se ha hecho una buena vida.
 ¿Toriel?
 other_talker
@@ -22277,7 +22277,7 @@ Axis
 Snacks
 Creador
 Asgore
-The Sock
+El Calcetín
 lava_surf
 surface_parts
 draw_surface_part
@@ -22570,7 +22570,7 @@ bullet_distance_min
 bullet_attack_dir
 bullet_spin_dir
 * Oye, amigo.
-* Heh, ¿qué haces con esta#  pequeña aliada?
+* Je, ¿qué haces con esta#  pequeña aliada?
 * Creo que ambos sabemos#  que este no es el#  camino al Castillo.
 * Lo sabes, ¿cierto?#  
 * Sí, así que volvamos#  y continuemos con el#  plan.
@@ -25206,7 +25206,7 @@ rm_black_screen_cutscene
 * Ya sabes... Supongo que#  haces muy bien de ayudante#  del sheriff.	
 * Buena suerte, donde sea que#  vayas.
 * Blub blub...
-* Lo sentimos, pero ya no#  tememos reservaciones para#  esta noche.
+* Lo sentimos, pero ya no#  tenemos reservaciones para#  esta noche.
 * Hay una gran fiesta de#  fantasmas por aquí y la cocina#  no sabe hacer comida fantasma.
 * Por favor, vuelve en unos#  días. Por favor...
 * Consultar
@@ -25227,7 +25227,7 @@ Check 2
 Check 3
 * ¡Esto solo se esta#  poniendo peor!
 * ¡No detengas los#  esfuerzos para#  liberarnos!
-* Heh, no puedo creer que pensé#  que este intento sería distinto.
+* Je, no puedo creer que pensé#  que este intento sería distinto.
 * No es sorpresa que hagamos#  un buen equipo.
 * De alguna manera te pareces mucho#  a mi.
 * Muy terco para sentarse y#  aceptar tu situación.
@@ -25236,9 +25236,9 @@ Check 3
 * Creí que esto sería divertido,#  supongo que lo fue...
 * ...Por un momento.
 * Pero ya me cansé.
-* No creo que ninguno de los#  queramos pelear por toda la#  eternidad así que...
+* No creo que ninguno de los dos#  queramos pelear por toda la#  eternidad así que...
 * Te ofrezco un trato.
-* Voy a resetear. De vuelta a#  cuando llegaste.
+* Voy a reiniciar. De vuelta a#  cuando llegaste.
 * Por supuesto, probablemente no#  recordarás esto.
 * Podemos ser "amigos" de nuevo.#  Reunidos.
 * Si terminamos en el mismo#  lugar, puede que intente esto#  de nuevo.
@@ -25261,7 +25261,7 @@ Check 3
 * No fue tan terrorífico y#  deslumbrante como la primera vez,#  ¿huh?
 * ¡Dame un respiro! ¡Mi#  imaginación tiene su límite!
 * Olvídalo. Igual y le estoy#  hablando a una pared.
-* No retienes tu memoria después#  de los reseteos.
+* No retienes tu memoria después#  de los reinicios.
 * Es por eso que tengo que#  explicarte las mismas cosas#  de nuevo.
 * Colocar los mismos puntos de#  guardados, hacer los mismos#  comentarios...
 * "¡Caramba, este lugar si que es#  ____!" 
@@ -25276,7 +25276,7 @@ Check 3
 * No puedo explicarlo...
 * Tal vez en algún punto todo#  culmine.
 * Finalmente me llevarás a lo#  que necesito.
-* Hasta entonces, resetearé.
+* Hasta entonces, reiniciaré.
 * Restearé y restearé y #  restearé y restearé y #  restearé y restearé y
 * ¿Por qué siempre terminó#  aquí?
 * Siempre que haces  ciertas#  decisiones, es el techo.
@@ -25324,8 +25324,8 @@ Check 3
 * Entonces por qué no lo#  entiendo...
 * En momentos como este donde#  todo es silencio... ahí es#  cuando lo siento.
 * Solo desde que llegaste ha#  sido de esa forma.
-* Tengo que resetear de nuevo.
-* Tengo que resetear hasta#  encontrar el camino correcto.
+* Tengo que reiniciar de nuevo.
+* Tengo que reiniciar hasta#  encontrar el camino correcto.
 * Hasta que hagas las decisiones#  correctas.
 * Hasta ese entonces...
 * Okey, okey, te dejaré ir.
