@@ -19526,7 +19526,7 @@ current_mus
 * ¡Seguro que es un#  vagón genial!
 * Podemos seguir#  adelante, ya he#  visto suficiente.
 * (Un viejo vagón#  abandonado.)
-* ¡Bienvenido a las Minas#  Co. Mines! (No esperaba#  visitas...)
+* ¡Bienvenido a Co. Mines!#  (No esperaba visitas...)
 * Si tiene alguna consulta,#  por favor, hágala con#  mi asistente.
 * Oí algunos rumores#  de peligro en el oeste.
 * Envié a todos a casa#  por ahora.
@@ -19566,7 +19566,7 @@ Elevador
 * Curiosamente, el#  progreso de esa semana#  fue superior a la media.
 * No había tenido una#  emergencia como esta#  desde el viejo derrumbe.
 * Ese día abandonó#  una buena instalación.
-* Si alguna vez ves#  a mi niño por ahí,
+* Si alguna vez ves#  a mi niña por ahí,
 * ¡Dile que su viejo#  le echa de menos!
 * Si te vas, mantente#  a salvo ahí fuera.
 * Pero yo no#  recomendaría vagabundear#  ahora mismo.
@@ -19574,13 +19574,13 @@ hat_text
 * Tú... ¡encontraste mi#  casco!
 * ¡Eres un alma amable!
 * No tengo nada que darte...#  pero estoy eternamente#  agradecido.
-* Perdí todo mi TNT...
+* Perdí toda mi dinamita...
 * Tengo que decírselo#  al capataz.
 * Me despedirá, estoy seguro,#  pero es culpa mía.
 * Iría a decírselo ahora#  mismo, pero también he#  perdido mi casco.
 * No puedo proteger mi refugio#  de las peligrosas rocas#  del exterior.
 * Hoy no es mi día...
-* Tengo un hermano, ya ves.
+* Tengo un hermano, sabes.
 * Trabajo en las minas#  para proveernos.
 * No tiene trabajo. La mayoría#  de las veces hace de#  las suyas.
 * Pero... él es feliz, así#  que yo soy feliz.
@@ -19685,8 +19685,8 @@ Trabajo aquí
 * A partir de ahí...#  No estoy muy seguro#  de a dónde van.
 * Ese es el problema de este#  sitio. Tienes que averiguar#  las cosas por ti mismo.
 * ¡Pero es una vida honrada!
-* Oh, !conozco una actividad#  divertida para tu visita!
-* Hay una adivina instalada#  en la ciudad.
+* Oh, ¡conozco una actividad#  divertida para tú visita!
+* Hay un adivino instalado#  en la ciudad.
 * La visito todas las semanas#  para oír hablar de mi#  posible futuro.
 * Hazle un favor si pasas#  por la zona, ¿vale?
 * Parece que mi descanso#  está a punto de terminar.
