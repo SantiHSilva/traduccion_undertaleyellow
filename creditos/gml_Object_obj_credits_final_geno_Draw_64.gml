@@ -23,59 +23,57 @@ switch current_slide
         draw_text(160, 120, credits_entry[0][1])
         break
     case 3:
-        self.draw_credit_group(1, 20, 20)
-        self.draw_credit_group(2, 150, 20)
-        self.draw_credit_group(3, 100, 140)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(1, 20, 20)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(2, 150, 20)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(3, 100, 140)
         break
     case 4:
-        self.draw_credit_group(4, 20, 20)
-        self.draw_credit_group(5, 150, 15)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(4, 20, 20)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(5, 150, 15)
         break
     case 5:
-        self.draw_credit_group(6, 90, 15)
-        self.draw_credit_group(9, 20, 125)
-        self.draw_credit_group(10, 170, 125)
-        self.draw_credit_group(11, 90, 175)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(6, 90, 15)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(9, 20, 125)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(10, 170, 125)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(11, 90, 175)
         break
     case 6:
-        self.draw_credit_group(7, 20, 20)
-        self.draw_credit_group(8, 170, 20)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(7, 20, 20)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(8, 170, 20)
         break
     case 7:
-        self.draw_credit_group(13, 20, 20)
-        self.draw_credit_group(14, 170, 20)
-        self.draw_credit_group(15, 20, 130)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(13, 20, 20)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(14, 170, 20)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(15, 20, 130)
         break
     case 8:
-        self.draw_credit_group(16, 20, 20)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(16, 20, 20)
         break
     case 9:
-        self.draw_credit_group(17, 20, 20)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(17, 20, 20)
         break
     case 10:
-        self.draw_credit_group(18, 20, 20)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(18, 20, 20)
         break
     case 11:
-        self.draw_credit_group(19, 20, 20)
+        draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64(19, 20, 20)
         break
     case 12:
         draw_set_halign(fa_center)
         draw_set_color(c_white)
-        draw_text(160, 30, credits_entry[20][0])
-        draw_text(160, 60, credits_entry[20][2])
-
+        draw_text(160, 10, credits_entry[20][0])
+        draw_text(160, 50, credits_entry[20][2])
         draw_set_color(c_yellow)
-        draw_text(160, 100, credits_entry[20][3])
+        draw_text(160, 80, credits_entry[20][3])
         draw_set_color(c_white)
-        draw_text(160, 130, credits_entry[20][4])
-        draw_text(160, 190, credits_entry[20][5])
-        draw_text(160, 210, credits_entry[20][6])
+        draw_text(160, 100, credits_entry[20][4])
+        draw_text(160, 120, credits_entry[20][5])
+        draw_text(160, 140, credits_entry[20][6])
         draw_set_color(c_yellow)
-        draw_text(160, 240, credits_entry[20][7])
+        draw_text(160, 170, credits_entry[20][7])
         draw_set_color(c_white)
-        draw_text(160, 300, credits_entry[20][8])
-        
-
+        draw_text(160, 190, credits_entry[20][8])
+        draw_text(160, 210, credits_entry[20][9])
         break
     default:
 
