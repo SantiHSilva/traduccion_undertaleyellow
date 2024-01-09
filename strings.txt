@@ -607,7 +607,7 @@ rm_steamworks_34
 * Es decir, SOY una planta#  pero no me oyes#  hablar de eso 24/7.
 * Estamos casi fuera de#  esta instalación,#  ¡puedo sentirlo!	
 * ¡No bajes el ritmo#  ahora!
-* Sea lo que te espera,#  estoy seguro de que tomarás#  las decisiones correctas.	
+* Da igual lo que te espere,#  seguro tomarás las#  decisiones correctas.	
 * ¡Ve a por ellos!
 * ¿Puedes oler eso?#  ¡Magma y acero!
 * Acero... nuevo. ¡El#  punto es que ya#  casi nos vamos, amigo! 
@@ -980,7 +980,7 @@ Steamw. - Cafetería
 Invernadero
 Steamw. - Cruces
 Steamw. - Laboratorio
-Steamw. - Botánic
+Steamw. - Botánica
 Fábrica - Vestíbulo
 Fábrica - Oficinas
 El Horno
@@ -1144,8 +1144,8 @@ save_count
 * Guarda, no guardes, es#  tú elección.
 * Solo recuerda que yo#  siempre estuve para ti.
 * Como buenos amigos.
-*¿Qué? ¿Confundido?
-* ¿O piensas que llevar#  la cuenta de tus muertes#  es morbido?
+* ¿Qué? ¿Confundido?
+* ¿O piensas que llevar#  la cuenta de tus muertes#  es mórbido?
 * ¡Saber lo que pudo#  haber sido te mantiene#  humilde!
 * ¡Agradecido por todos#  los que ayudaron a que#  estés aquí!
 * Al menos esa es mi#  "florosofía."
@@ -2091,7 +2091,7 @@ info
 * "Bolitas Amis." - Arma AT 11#* (Una muestra del lazo#  entre tú y tu mejor amigo.)
 * "Pañ. Dorado" - Armad. DF 25#* (Emite un violento#  brillo dorado.)
 * "Funda Eleg." - Armad. DF 8#* (Una funda de cuero, perfecta#  para duelos al mediodía.)
-* (Un compuesto muy peligroso.# Manejar con cuidado.)
+* (Un compuesto muy peligroso.#  Manejar con cuidado.)
 * (Un collar roto pero#  brillante.)
 * (No se puede usar pero#  podría servir para algo.)
 gml_Script_scr_item_info
@@ -6115,7 +6115,7 @@ sprite_delete
 gml_Script_background_delete
 background_delete
 * AXIS ACTION MESSAGE 2
-* Le dices a Axis que no es muy bueno#  en su trabajo. Si pudiera#  fruncir el ceño, lo haría.
+* Le dices a Axis que no es muy#  bueno en su trabajo. Si pudiera#  fruncir el ceño, lo haría.
 * Criticas la estrategia de#  ataque de Axis. Vapor sale#  de sus conductos auditivos.
 * Le dices algo grosero a Axis.#  "HONESTAMENTE, NO LO APRECIA."
 scr_dialogue_battle_action_selected_action_2_axis
@@ -9390,7 +9390,7 @@ ast_shortcut
 * (Los platos están pegados#  entre sí.)
 * (Una vieja máquina.)
 * (Observas una nota en#  la máquina.)
-* Radiador fuera de servicio debido#  a emisión de radiación letal#  durante varias semanas.
+* Radiador fuera de servicio por#  emisión de radiación letal#  durante varias semanas.
 * Si mueres en el próximo#  año, por favor, no#  demandes.
 * (Es el famoso jugo azul.)
 * (Nada bueno.)
@@ -9401,14 +9401,14 @@ ast_shortcut
 * (Cosas de ciencia.)
 * (Una colección de chucherías#  de alrededor de#  Steamworks.)
 * (Las puertas del armario de#  almacenamiento están#  cerradas con llave.)
-* Estoy intentando cultivar plantas#  de energía, pero siempre termino con# estas cosas frondosas.
+* Intento cultivar plantas de#  energía, pero siempre termino#  con estas cosas frondosas.
 * ¡Huelen a miel y no dejan#  de hacer ruidos de#  trompeta!
-* ¿Por qué siempre me#  pasa esto a# mí?
+* ¿Por qué siempre me#  pasa esto a#  mí?
 * (Una planta blanca.)
 * (La planta de energía emite#  un resplandor intenso.)
 * (Luchas contra la#  tentación de probarla.)
 * (Otro microscopio.)
-* (Descubres un bolsillo de#  dimensión enterrado#  en el microverso.)
+* (Descubres una dimensión#  de bolsillo enterrada#  en el microverso.)
 * (Una botella vacía.)
 * (La nave escapó.)
 * (La puerta no se mueve.)
@@ -9422,7 +9422,7 @@ ast_shortcut
 * Steamworks: ¡El mañana#  significa la Superficie!
 * (Los cajones están llenos#  de herramientas antiguas#  y otras rarezas.)
 * (Nada más que basura dentro.)
-* (Miras a través del microscopio solo#  para descubrir que es#  un telescopio disfrazado.)
+* (Miras a través del microscopio#  solo para descubrir que es#  un telescopio disfrazado.)
 * (No se pueden ver constelaciones#  o planetas. ¡Qué decepcionante!)
 * Tarea de hoy:#  ¡Mezcla de compuestos!
 * La oficina central dijo que#  tenemos libre uso de l#   Computadora de Compuestos hoy.
@@ -11272,8 +11272,8 @@ default
 * Viejo, no sé qué pasa#  estos días.
 * Deuda... Drama...
 * ¿Cuándo se volvió tan#  seria esta pandilla?
-* Frankly...
-* Me gustaba cuando splo#  jugábamos a barajar con los#  residentes.
+* Francamente...
+* Me gustaba cuando solo#  jugábamos a barajar con los#  residentes.
 * ¿Quieres saber cuál es#  mi verdadero sueño?
 * ¡Ser guardaespaldas!
 * Para alguien de estatus,#  por supuesto.
@@ -11384,7 +11384,7 @@ block
 * ¡Hablando de#  inconsistente!
 * Bueno, no veo una#  ranura para tu Tarjeta#  ID...
 * Hay gran cantidad de#  equipamiento científico#  tirado por ahí.
-* ¿Quizás podemos taladrarla#  con algo?
+* ¿Quizás podemos#  taladrarla con algo?
 * ¡Hora de buscar!
 mooch_fly_away
 mooch_fly_away_no_loop
@@ -11607,9 +11607,9 @@ BzZT-Z// z. ._ .
 . . . Q-qQ-
 -QU_É OC/URrIÓ#CONMIG...O¿?
 D-DAÑO CRÍTICO_
-Bu-USCANDO R/ePARACI'NES# DE IN#MEDIATO_
+Bu-USCANDO#R/ePARACI'NES# DE IN#MEDIATO_
 YA V_EO . . .
-LLAMAnDO AL SR. ChUJIN_
+LLAMAnDO AL SR.#ChUJIN_
 ¿CREaDOR. .. ?
 CRE_DO R, NECSITO#ASSIST//ENCIA_
 LLAMAnDO SR. Ch , . _
@@ -12323,7 +12323,7 @@ No, lo soy
 * Personalmente, culpo del#  cierre al proyecto de#  robótica, cosas ingobernables.
 * Pensaba que me había librado#  de sus payasadas hasta#  hace una hora o así.
 * La instalación se encendió#  y todos empezaron a ir#  como zombis resucitados.
-* Me escondí aquí mientras tanto.# Esos montones de metal#  son poderosamente impredecibles.
+* Me escondí aquí mientras tanto.#  Esos montones de metal#  son poderosamente impredecibles.
 * Supongo que fuiste tú,#  ¿verdad? ¿El que volvió a#  encender el generador?
 * Debo agradecértelo, no es#  ideal vivir a oscuras.
 * Muchas veces he intentado el#  viaje pero los obstáculos#  son demasiado numerosos.
@@ -12615,12 +12615,12 @@ actor_axis
 * [INICIANDO ENERGÍA#  DE RESPALDO_]
 * H-H-HUMA-NO.
 * M-ME HAS ENFADADO#  MUCHO.
-* YA TUVE SUFICIENTE DE#  TI NO HACIENDO NADA#  MIENTRAS YO FALLO Y FALLO.
+* YA TUVE SUFICIENTE DE#  TI NO HACIENDO NADA#  MIENTRAS SIEMPRE FALLO.
 * ¿SABES LO DIFÍCIL QUE#  FUE SACAR EL ÁCIDO DE#  MI ACERO?
 * TUVE QUE PONERME EN UNA#  MÁQUINA LAVADORA. FUE UN#  POCO VERTIGINOSO.
 * AUNQUE ME SIENTO, COMO#  DICEN LOS NIÑOS: "FRESCO#  COMO EL INFIERNO".
 * COMO SEA.
-* POR SI NO LO NOTASTE#  ESTOY [ENOJADO] Y CORTO DE#  OPCIONES NO LETALES.
+* POR SI NO LO NOTASTE#  ESTOY [ENOJADO] Y CORTO#  DE OPCIONES NO LETALES.
 * ESO, Y QUE ESTE HORNO#  TIENE UNA GRAN ESTÉTICA#  "HORA DE MORIR".
 * ASÍ QUE PREPÁRATE. VOY#  A ATACARTE.
 * QUÉ.
@@ -13045,7 +13045,7 @@ human_alpha
 * (Lo tomas.)
 * (Buscas en el cubo de#  basura...)
 * (Tomas un ensayo arrugado#  titulado "¡Mezclándolo!")
-* (Está escrito en fuente tamaño 13#  para llegar mejor al requisito#  mínimo de... 1 página.)	
+* (Está escrito en fuente tamaño#  13 para llegar al requisito#  mínimo de... 1 página.)	
 * (Metes el ensayo en tu mochila#  de correos.)
 mask_index
 spawner_log
@@ -13124,7 +13124,7 @@ sin_speed
 * Se trata de un asunto familiar.
 La C../ena _:estAra#<l-Lista .>#Pronto.
 ¿Du/>.lce _o#SALado?	
-¡Ah, sí! ¡Sólo#un ligero golpecito#en ez borde!
+¡Ah, sí! ¡Sólo#un ligero#golpecito#en ez borde!
 ¿Subsuelo?#¡Subcocido!#¿Cuál es el#problema?
 ¡Qué#maleducado!
 ¿Agua? ¡Pah!#¡No puedo#tocar#semejante coza!
@@ -14304,7 +14304,7 @@ can_hit
 sound_playing
 play_sound
 pl_die
-* Algún día, voy a viajar por este#  cinturón yo mismo.
+* Algún día, voy a viajar por#  este cinturón yo mismo.
 * ¡Quiero ver dónde lleva!
 Mala idea
 ¡Hazlo!
@@ -14315,8 +14315,8 @@ Mala idea
 * ¡Gracias por el empujón de#  confianza!
 * Debo decir, revisar todas las#  mismas gemas cada día se#  está haciendo aburrido.
 * ¡Apuesto a que la Superficie#  tiene un montón de las que#  nunca hemos escuchado!	
-* Irónico que lo primero que#  quiero hacer cuando seamos libres#  es explorar más cuevas, ¡Jaja!
-* ¡Bueno, hora de continuar con esto!
+* Irónico que lo primero que#  quiero hacer cuando seamos libres#  es explorar más cuevas.
+* ¡Jaja! ¡Bueno, hora de#  continuar con esto!
 new_camera
 cam_width_half
 cam_height_half
@@ -14477,7 +14477,7 @@ tongue
 * No puedo dejar entrar a nadie#  aún, tengo un equipo#  haciendo renovaciones.
 * Están instalando lo último en#  equipos de producción musical.#  Cosas de lujo.
 * Digamos que vas a empezar a#  oír mis ritmos calientes#  por todas partes.
-* Sea cual sea tu lucha,#  simplemente agárrate fuerte.# La vida mejora.
+* Sea cual sea tu lucha,#  simplemente agárrate fuerte.#  La vida mejora.
 * ¡Creo que eso lo#  solucionó!
 * Eres muy listo en#  situaciones intensas.
 * Estoy... impresionada.
@@ -15198,21 +15198,21 @@ image_scale_inc_max
 * Voy a necesitar que te#  muevas. Tu presencia está#  intimidando a todos aquí.
 interacted_with
 * (Examinas la#  estantería...)	
-* (Un título llamado "Misterios#  del Subsuelo" te#  descubre.)	
+* (Un título llamado "Misterios#  del Subsuelo" te llama la#  atención)	
 * (¿Leer?)
 * Capítulo Uno: El Error#  de Blunko.
 * Ubicado en el Valle Oasis, en#  una cafetería que no te puedes#  perder, se encuentra un arcade.
-* Pintada de azul y cubierta de una#  gruesa capa de polvo, se#  encuentra ahí, fuera de servicio.
+* Pintada de azul y cubierta de#  una gruesa capa de polvo,#  está ahí, fuera de servicio.
 * Pocos monstruos recuerdan verla#  funcionando y eso puede#  ser a propósito. 
 * En la máquinas, residen dos#  logos: Team Y y Blunko#  Industries.
-* Las mismas dos compañías#  humanas que crearon la máquina del#  Blaster del Amor Mew Mew.
-* Las leyendas dicen que fue#  jugable por un tiempo luego#  de ser recuperada del basurero...
+* Las mismas dos compañías#  humanas que crearon Mew Mew#  Blaster de Amor.
+* Las leyendas dicen que fue#  jugable por un tiempo luego#  de ser recuperada del basurero.
 * ...pero sus contenido eran#  "desagradables" de experienciar.#
 * (Volteas al siguiente#  capítulo.)
 * (¿Sigues leyendo?)
 * Capítulo Dos: El Camino.
 * El Subsuelo es un lugar#  vasto.
-* Entre medio hay caminos y/o#  vallas que llevan a los monstruos#  de un lugar a otro.
+* Entre medio hay caminos y/o#  vallas que llevan a los#  monstruos de un lugar a otro.
 * Pero quizás, y sólo quizás,#  los caminos realmente están#  ahí para mantenerte a salvo.
 * En un reporte de 20XX, un#  padre recordaba pescar con su#  hijo en el bosque de Snowdin.
 * Mientras el padre preparaba su#  línea, su hijo deambulaba fuera#  de la valla hacia los árboles.	
@@ -15229,8 +15229,8 @@ interacted_with
 * Era una tarde típica en#  Snowdin...
 * De pronto, un humano fue visto#  en el área antes de huir#  velozmente hacia Waterfall.	
 * Esta, sorprendentemente, fue#  la última vez que fue#  visto con vida.
-* Los oficiales en ese tiempo#  dijeron que la desaparición#  significaba que se estaba escondiendo.
-* Sin embargo, el ALMA humana fue#  encontrada inexplicablemente en las#  profundidades de Waterfall.
+* Los oficiales en ese tiempo#  dijeron que la desaparición#  significaba que se ocultaba.
+* Sin embargo, el ALMA humana fue#  encontrada en las profundidades#  de Waterfall.
 * (Pones el libro en su lugar.)
 text_yy
 * ¡Hora de irse!
@@ -19251,7 +19251,7 @@ cur_minute
 * ....
 * ...................
 * ...Puede que tengas algo,#  amigo.
-* (Red está muy pensativo.)
+* (Red está muy pensativa.)
 player_npc
 * ¡Ooooh! ¡Oh, hey!#  ¡Clover!
 * ¿Recuerdas que te dije#  que detuve a un humano#  la semana pasada?
@@ -19622,7 +19622,7 @@ Capataz
 * ¡Jajaja! ¡Muy#  graciosa, querida!
 * He estado esperando#  a decir eso.
 * ¡Esa es mi Angie!
-* Espero que lo hayas#  pasado bien en#  la Mining Co.!
+* ¡Espero que lo hayas#  pasado bien en#  Mining Co.!
 * Si necesitas un lugar#  donde esconderte,#  puedes quedarte aquí.
 * Odiaría que un joven#  como tú se metiera#  en problemas.
 * Espero que el#  pequeño Moray#  esté bien...
@@ -21945,7 +21945,7 @@ Mo
 * ¡Es todo super interesante!
 * El Subsuelo es lo suficientemente#  grande como para albergar#  su propio ecosistema,#  ¿lo sabía?
 * Por eso la nieve cubre el#  suelo y la vida vegetal nos rodea#  a pesar de la evidente#  falta de luz solar.
-* También están las piedras preciosas, pero eso ya es otro cantar...
+* También están las piedras# preciosas, pero eso#  ya es otro cantar...
 * ¡Oh, p-perdón por el discurso!
 * De mayor quiero ser#  profesora... No es#  importante......
 * ¿Quieres o-oír un chiste?
@@ -22058,7 +22058,7 @@ Tu opinión
 * Familia, ¿verdad?
 * La pequeña alborotadora#  de Ceroba. Una niña muy linda.
 * Le gusta estar con nosotros#  y con los Cinco cuando su#  madre está en la ciudad.
-* Parece muy intimidante con#  un sombrero de vaquero, eso seguro.#  Un poco mayor y encajaría#  en nuestro grupo.
+* Parece muy intimidante con#  un sombrero de vaquero, eso#seguro. Un poco mayor y#  encajaría en nuestro#   grupo.
 * Aunque no creo que Ceroba#  lo permitiera viendo que no#  somos la mejor influencia,#  jaja.
 * De todas formas, quería#  preguntarle a Ceroba dónde#  estuvo Kanako. ¿Tal vez de#  excursión? Le gusta viajar#  por el Subsuelo.#
 * Aunque no creo que se le#  permita ir muy lejos desde...
@@ -23891,7 +23891,7 @@ spawn_flower
 ¿Tiene lo que hay#que tener para#eztar entre#los grandes?
 Dígame, ¿cómo se#cocina ezte#frágil esferoide?
 Cuál ez el#ziguiente paso,#¿hm?
-¡Sólo los maestros#cocineros conozen#el secreto de#la perfe-cción!
+¡Sólo los#maestros#cocineros conozen#el secreto de#la perfe-cción!
 ¡Ya casi#eztá aquí!
 ¿Ze último#paso ez...?
 boulder_spawned_count
@@ -24060,12 +24060,12 @@ in_angle
 angle_range
 vsp_max
 child_number
-* (El título del libro encuadernado#  en cuero dice:#  ¡Día a Día de Martlet!)
+* (El título del libro#  encuadernado en cuero dice:#  ¡Día a Día de Martlet!)
 * (Pasas a una página temprana#  y ves una entrada.)
 * Entrada 3.
-* Hasta ahora, vivir sola#  ha sido ABURRIDA.
+* Hasta ahora, vivir sola#  ha sido ABURRIDO.
 * No sé qué hacer con#  mi tiempo la mayor#  parte del tiempo.
-* Claro, tengo una televisión, pero#  los monstruos no producen#  precisamente mucho contenido.
+* Claro, tengo una televisión,#  pero los monstruos no#  producen mucho contenido.
 * Mi mamá dice que "necesito un#  trabajo", pero más importante,#  necesito un pasatiempo.
 * El tipo que construyó mi balcón#  parecía disfrutar lo#  que hacía.
 * Quizá le pida que me#  enseñe a... 
@@ -24076,7 +24076,7 @@ child_number
 * Creo que esto de#  "trastear" es para mí.
 * ¡Sabía que mi B- en#  clase de arte tenía#  un propósito!
 * ¡Y el Sr. Chujin es#  TAN AMABLE!
-* Alegremente tomó mis alas bajo#  su protección y ahora estoy#  haciendo bloques de madera!
+* ¡Alegremente tomó mis alas bajo#  su protección y ahora estoy#  haciendo bloques de madera!
 * Suena aburrido, pero estoy#  trabajando para#  tallar un montón de eso...
 * ...para construir uno de#  esos juegos de#  "torres de madera".
 * ¡Chujin pensó que sería#  un buen proyecto#  para principiantes! ^v^
@@ -24092,17 +24092,17 @@ child_number
 * “El mundo, tal como es, es un#  lugar oscuro”, dijo. “Un lugar#  inapropiado para un niño”.
 * Cree que pequeños actos de#  amabilidad llevarán a un mundo#  mejor.
 * No solo para él, o para mí,#  sino para Kanako.
-* Así que sí! Se puso un#  poco profundo ahí,#  pero lo entiendo.
+* ¡Así que sí! Se puso un#  poco profundo ahí,#  pero lo entiendo.
 * Él enseñándome llevaría, en#  teoría, a que yo enseñara#  a alguien más, etcétera.
-* Parece que quiere dejar un legado#  duradero o algo así.
-* El tipo tiene grandes aspiraciones,#  eso es seguro.
+* Parece que quiere dejar un#  legado duradero o algo#  así.
+* El tipo tiene grandes#  aspiraciones, eso#  es seguro.
 * No puedo identificarme. =v=
 * Entrada 27.
 * Bueno, no pude procrastinar#  más.
 * Tuve que... conseguir un#  trabajo. ;v;
 * Me inscribí en la#  Guardia Real.
-* No soy fanático del combate, pero#  con mis nuevas habilidades, podría#  hacer un puzzle muy bueno!
-* Tuve que contarle la buena#  noticia a Chujin, así que lo mencioné#  mientras estábamos en el descanso.
+* ¡No soy fan del combate, pero con#  mis nuevas habilidades, podría#  hacer un puzzle muy bueno!
+* Tuve que contarle la buena#  noticia a Chujin, lo hice#  mientras descansábamos.
 * Para mi sorpresa, no estaba#  contento.
 * Dijo que el trabajo#  era peligroso.
 * Que los propios humanos#  son peligrosos.
@@ -24179,8 +24179,8 @@ execute_change
 * ¡Nuestro lado del pasillo#  quería ser potente!#  ¡Gran energía!
 * Mientras que el otro prefería#  el ensordecedor sonido#  del silencio.
 * ¡Nos peleamos por el NEV por#  semanas! El Nivel Estándar de#  Volúmen, eso es.
-* En resumen, ¡nos hecharon a#  todos, jaja!
-* Cada cual tomo su rumbo,#  libre de buscar la#  comodidad que uno quiera.
+* En resumen, ¡nos echaron a#  todos, jaja!
+* Cada cual tomó su rumbo,#  libre de buscar la#  comodidad que uno quiera.
 * ¿A veces me pregunó que estará#  haciendo ese murciélago? Tal#  vez vive en una cueva.
 * Si fuera tú, ¡me dejaría#  llevar y bailaría con los#  demás!
 * ¡Uno nunca sabe cuando será#  su último baile!
@@ -45112,7 +45112,7 @@ CORREO???
 Ceroba (Importante)
 Carta de Martlet
 Martelt's Letter
-¡Mézclalo! (Instructivo)
+¡Mézclalo! (Instruct.)
 Carta del Resort
 Poster Desaparecidos
 Ident. Steamworks
