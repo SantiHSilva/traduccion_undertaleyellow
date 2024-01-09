@@ -2046,7 +2046,7 @@ info
  "Guiso de Flores" - Cura 20 HP"#* (Una taza de caldo aromático#  con guarnición floral.)
  "Granola Gravedad" - Cura 30 HP"#* ("¡El sabor es de#  otro mundo!" ...Uh huh.) 
  "H2O" - Cura 20 HP"#* (Líquido químico.)
- "Papas Fritas" - Cura 13HP"#* (Chips Popato de siempre.)
+ "Papas Fritas" - Cura 13HP"#* (Papas fritas de siempre.)
  "Carne seca" - Cura 16 HP"#* (Delicia de#  una tienda común.)
  "Pastel" - Cura 30 HP"#* (Un pastel de limón#  con cerezas arriba.)
  "Magdalena Floral" - Cura 50 HP"
@@ -9762,7 +9762,7 @@ Después de que me vaya... busca al#  siguiente humano que caiga aquí.
           Necesitarás a...
            ...Demonios.
  Busca a otro Monstruo Jefe en el#    Subsuelo. Cualquier otro...#            por favor.
-Nuestra pequeña niña... Kanako. Ella#necesita vivir una vida feliz, sin#  verse afectada por mis esfuerzos.
+Nuestra pequeña niña... Kanako.#necesita vivir una vida feliz, sin#  verse afectada por mis esfuerzos.
       Ese es mi último deseo.
 ¿CÓMO?
 overlay_alpha_default
@@ -12897,7 +12897,7 @@ Nuestra pequeña niña... Kanako. Ella#necesita vivir una vida feliz, sin#verse 
 * ¡Lo escuchaste!
 * Su sueño... Todos estos#  libros y papeles...
 * Has estado intentando#  terminarlo, ¿cierto?
-* Con mis habilidades#  limitadas... sí.
+* Con mis limitadas#  habilidades... sí.
 * Pero no te involucra.
 * He estado buscando#  formas de crear el suero#  sin un Monstruo Jefe.
 * Lo... resolveré.#  Tengo que hacerlo.
@@ -13245,8 +13245,8 @@ offset_y_scroll_speed
 * No sé que decir...
 * Gracias, Martlet.
 * Clover.
-* Te debo una disculpa a#  ti, más que a todo.
-* Nuestro tiempo en#  Steamworks y todo lo#  que dije... No fue falso.
+* Te debo una disculpa a#  ti, más que a nadie.
+* Nuestro tiempo en#  Steamworks y todo lo#  que dije... no fue falso.
 * Sí me permitió olvidar#  momentáneamente mis#  problemas y divertirme.
 * Pero mi razonamiento#  de estar aquí...
 * No puedo empezar a
@@ -13261,7 +13261,7 @@ offset_y_scroll_speed
 * Por triste que sea,#  Clover tiene que irse#  a casa.
 * Eso no funcionará.
 * Seguro, nosotros#  conocemos a Clover por#  quien es, pero Asgore...
-* No verá a Clover como#  nosotros. Y no le#  importa aprender.
+* No verá a Clover como#  nosotros. Y no le#  importa entender.
 * ¡Pero esta situación#  es única!
 * ¡El Rey siempre ha sido#  amable y comprensivo!
 * Seh, ¡Clover no#  dañaría a nadie!
@@ -13289,8 +13289,8 @@ offset_y_scroll_speed
 * ¡Sabes realmente creí#  que el fiasco de esta#  noche fue suficiente!
 * Todos hablamos#  y las cosas estaban#  yendo bien.
 * Pero inmediatamente#  sugieres dar a#  futuros niños a
-* ¡No lo decpia de ese#  modo! ¡Déjame en paz!
-* Perd+pm pero no creo#  que sea el momento#  para pelear ahora mismo.
+* ¡No lo decía de ese#  modo! ¡Déjame en paz!
+* Perdón pero no creo#  que sea el momento#  para pelear ahora mismo.
 * ¡Vamos ustedes dos!#  ¡Déjenlo
 camera_xx
 Probablemente quieras  irte#a casa, ¿verdad?
@@ -13327,7 +13327,7 @@ Es hora de irme.
 * ¡Tenemos opciones!
 * S-Seh, ¡no hagas#  algo de lo que#  te arrepentirás!
 * Si es Snowdin lo que#  no te gusta, puedes#  vivir conmigo.
-* Mi casa tiene el espacio.#  ¡Y-Y la pandilla#  te ama!
+* Mi casa tiene espacio.#  ¡Y-Y la pandilla#  te ama!
 * Por favor, ¡debes#  escucharnos, Clover!
 * Te mereces lo mejor.
 * Lo dices en serio.
@@ -13336,12 +13336,12 @@ Es hora de irme.
 * Arrastrar a Clover por#  ahí... sujetado a#  una correa.
 * De forma egoísta.
 * Clover vino aquí por#  su propia voluntad.
-* ...También merece#  dejarlo por ella.
+* ...También merece#  irse por ella.
 * Pero no quieres este#  resultado, ¿cierto?
 * Seguramente...
 * Si hubiera otro#  modo...
 * Pero hay que asumirlo.#  No lo hay.
-* Creo que Clover#  se dió cuenta de#  ello hace tiempo.
+* Creo que Clover#  se dió cuenta de#  eso hace tiempo.
 * Por mucho que quiera#  detenerte...
 * Lo veo. En tus ojos.
 * Esto es por nuestra#  libertad... ¿cierto?
@@ -13351,7 +13351,7 @@ Es hora de irme.
 * Te ascendería a#  Sheriff porque Dios#  sabe que te lo ganaste,
 * Pero no eres material#  de Sheriff.
 * Eres mucho más.
-* Ya... hice saber mis#  sentimientos en#  Hotland.
+* Ya... te dije mis#  sentimientos en#  Hotland.
 * Así que...
 * Psst.
 * Esto significa para#  nosotros más de#  lo que sabes.
@@ -15238,8 +15238,8 @@ text_yy
 paper_spawn_chance_max
 paper_spawn_chance_current
 skip_noloop
-* (Notas un paquete olvidado#  de Chips Popato debajo de la#  banca.)	
-* (¡Obtuviste Chips Popato!)
+* (Notas un paquete olvidado#  de Papas Fritas debajo de la#  banca.)	
+* (¡Obtuviste Papas Fritas!)
 output
 instance_selected
 instance_selected_name
@@ -22173,7 +22173,7 @@ Chujin
 * Floración tardía. Sabes#  como es.
 * ¡Claro que sí!
 * ¡Claro que sí!#* < Bits no obtuvo su boca#  hasta los nueve años. >
-* Bueno uh, fue lindo#  conocerlos pero tenemos# que irnos. ¿No es así,#  querido hijo?
+* Bueno uh, fue lindo#  conocerlos pero tenemos#  que irnos. ¿No es así,#  querido hijo?
 * (Termina tús asuntos,#  por favor.)
 box_sndfnt
 * (En serio no tenemos#  tiempo para charlar. Tal#  vez luego, ¿okei?)
