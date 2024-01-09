@@ -10398,7 +10398,7 @@ end_card_alpha
 the_end_text_alpha
 hat_card_alpha
 actor_martlet
-Playtesters:
+Testers:
 credits_entry_one
 Raymes
 Sunsetbyplane
@@ -10435,7 +10435,7 @@ Minmo
 CapsuleGravy
 Izzy
 DragnirMK
-Special Thanks:
+Gracias Especiales:
 credits_entry_two
 Tifapunchface
 Jillian Brodsky
@@ -18867,7 +18867,7 @@ message_check
 * ¡Déjame que te invite!
 * Un momento.
 * Si conoces a tu chico#  Mo, sabes que planeé#  todo eso.
-* Aquí está mi producto REAL:#  ¡ICE TEA!
+* Aquí está mi producto REAL:#  ¡TÉ HELADO!
 * Es como la secuela del agua.#  ¡Pero mucho mejor!
 * Ahora, voy a ser realista#  contigo.
 * El té no lleva hielo#  particularmente.
@@ -32393,39 +32393,39 @@ AddProgrammers
 Directed by
 Director
 Narrative Design and Dialogue
-Narrative Design
+Diseño Narrativo
 lineSpacing
 paragraphSpacing
 Narrative Design Title
-Dialogue
+Diálogos
 Dialogue Title
-Concept Art
+Arte Conceptual
 Concepts Title
 Concepts
-Additional Concepts
+Otros Conceptos
 Additional Concepts Title
-Room & Level Design
+Diseño de Salas y Niveles
 R&L Title
 R&L
 Spritework
 Spriteowrk
 Spritework Title
-Additional Spritework
+Spritework Adicionales
 ASpritework Title
 ASpriteowrk
 Character Designs
 Char Designs
 CharDesigns Title
-Music
+Música
 Music Title
-Additional Music
-Sound Design
+Música Adicional
+Diseño de Sonido
 PhichanTitle
-Voice of Mew Mew
+Voz de Mew Mew
 Phichan
 Sound Design Title
 Desmond
-For Desmond
+Para Desmond
 color_overlay
 GMSequenceTrack
 seq_ending_scene_1_soul
@@ -45365,3 +45365,28 @@ Dunas - Valle Oasis
 rm
 Funda de Lujo
 Lindo Sombr.
+modocreditos
+Equipo de Traducción
+Skarby Palace - Carrotw
+Ritzzriver - WoundSoul - Valrex
+Grillo & WeaCosmica
+- Beta Testers -
+Donut - Rower - Febriel
+Mallow & Sunorland
+draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64
+Skarby Palace
+Carrotw
+Ritzzriver
+WoundSoul
+Valrex
+Grillo
+WeaCosmica
+Donut
+Rower
+Febriel
+Mallow
+Sunorland
+Carrotw - Ritzzriver
+WoundSoul - Valrex
+Donut - Rower
+Febriel & Mallow

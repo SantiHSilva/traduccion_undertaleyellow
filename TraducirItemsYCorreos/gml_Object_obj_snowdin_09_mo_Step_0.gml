@@ -200,7 +200,7 @@ if (waiter == 5 && path_position == 1)
         ch[1] = obtenerItemSpanish("Hot Pop")
         ch[2] = obtenerItemSpanish("Lukewarm Pop")
         ch[3] = obtenerItemSpanish("Cold Pop")
-        ch[4] = obtenerItemSpanish("Cancelar")
+        ch[4] = "Cancelar"
         if (global.extra_flag[1] == 1)
             ch[1] = "-VENDIDO-"
         if (global.extra_flag[2] == 1)

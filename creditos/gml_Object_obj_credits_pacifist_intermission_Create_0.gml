@@ -19,7 +19,7 @@ scr_cutscene_start()
 obj_pl.image_alpha = 0
 obj_pl.x = 160
 obj_pl.y = 120
-credits_entry_one[0] = "Playtesters:"
+credits_entry_one[0] = "Testers:"
 credits_entry_one[1] = "Raymes"
 credits_entry_one[2] = "Sunsetbyplane"
 credits_entry_one[3] = "LeopardBunny"
@@ -55,7 +55,7 @@ credits_entry_one[32] = "Minmo"
 credits_entry_one[33] = "CapsuleGravy"
 credits_entry_one[34] = "Izzy"
 credits_entry_one[35] = "DragnirMK"
-credits_entry_two[0] = "Special Thanks:"
+credits_entry_two[0] = "Gracias Especiales:"
 credits_entry_two[1] = "Tifapunchface"
 credits_entry_two[2] = "Jillian Brodsky"
 credits_entry_two[3] = "2XMM2"
@@ -93,10 +93,9 @@ credits_entry_two[34] = "Grillo & WeaCosmica"
 credits_entry_two[35] = "- Beta Testers -"
 credits_entry_two[36] = "Donut - Rower"
 credits_entry_two[37] = "Febriel & Mallow"
-credits_entry_three[0] = "Based on the world\nof UNDERTALE,\ncreated by:"
+credits_entry_three[0] = "Basado en el mundo de UNDERTALE,\ncreado por"
 credits_entry_three[1] = ""
 credits_entry_three[2] = "Toby Fox\n&\nTemmie Chang"
-
 river_ambience = audio_play_sound(mus_ambient_river, 1, true)
 audio_sound_gain(mus_ambient_river, 0, 0)
 audio_sound_gain(mus_ambient_river, 0.5, 2500)
