@@ -3328,7 +3328,7 @@ scr_battle_core_directory_no_attack
 * ¡Doble problema!
 * Cactony viene a compartir#  su dolor.
 * ¡Sir Slither tiene una#  propuesta! (real)
-* ¡Bowll se carga cerca#  de ti!
+* ¡Bowll se carga cerca de ti!
 * Cactony entró,#  Sir Slither lo seguía#  de cerca.
 * ¡Es hora de bailar!
 * Otro obstáculo.
@@ -9137,7 +9137,7 @@ vertical
 * A la cima de la montaña.
 * (Se recomienda usar lentes#  geniales.)
 elevator_next_room
-* (Un Lanza-Rocas 900#  clásico.)
+* (Un clásico Lanza-Rocas 900.)
 * (La tecnología es#  asombrosa...)
 * (Una máquina de#  grandes rocas.)
 * (Te preguntas cómo#  lo vuelves a encender.)
@@ -18993,7 +18993,7 @@ shadow_index
 music_in_battle
 current_mus_pos
 * (La estantería está llena de#  libros, algunos educativos#  y otros recreativos.)
-* (Un libro titulado#  "Fiebre de las Gemstone"#  llamo tu atención.)
+* (Un libro titulado#  "Fiebre de las Gemas"#  llamo tu atención.)
 * El Subsuelo ha sido el#  hogar de miles de piedras#  preciosas,
 * sin embargo, solo se han#  descubierto cuatro tipos.
 * La Swelterstone - Tono,#  Amarillo
@@ -19013,7 +19013,7 @@ current_mus_pos
 * (Hojeas el libro y descubres#  un par de datos más.)
 * Con la temperatura las piedras#  tienen mayores cantidades#  en ciertas zonas,
 * Pueden ser un factor vital#  a la hora de determinar#  el clima de su ubicación.
-* Las Gemstone no tienen mucho#  valor monetario dentro de#  la Economía del Subsuelo.
+* Las Gemas no tienen mucho#  valor monetario dentro de#  la Economía del Subsuelo.
 * En cambio, se utilizan por#  sus rasgos, para joyas u#  otros adornos.
 * La mayor gemstone descubierta#  se encuentra en las Dunas.
 * Se calcula que es tan grande#  como 10.000 cascos.
@@ -19102,12 +19102,12 @@ scratch
 * Las cosas ya iban bien#  antes, ¡pero ahora#  van aún mejor!	
 * Me alegro de que mi#  legado en este lugar#  sean recuerdos positivos.
 * ¡Alto!
-* ¡Yo, El Bailador, me he#  encargado de la#  confrontación!
+* ¡Yo, El Bailador, me he#  encargado de la confrontación!
 * ¡El aire está demasiado#  tranquilo!#  ¡Demasiado deprimente!
 * ¡No haces ruido cuando#  te mueves!
 * ¡Te falta RITMO!#  ¡SENTIMIENTO!#  ¡ENTUSIASMO!
 * ¡Si no te conociera mejor,#  podría haberte confundido con#  un Centinela del Silencio!
-* No, no... ¡esto no#  va a funcionar!
+* No, no... ¡esto no va a#  funcionar!
 * ¡Debes demostrarme#  que tienes lo que#  hay que tener!
 * ¡Lo que se necesita#  para vivir una vida#  de riqueza!
 * Te reto... ¡a BAILAR!
@@ -19567,7 +19567,7 @@ Elevador
 * No había tenido una#  emergencia como esta#  desde el viejo derrumbe.
 * Ese día abandonó#  una buena instalación.
 * Si alguna vez ves#  a mi niño por ahí,
-* ¡Diles que su viejo#  los echa de menos!
+* ¡Dile que su viejo#  le echa de menos!
 * Si te vas, mantente#  a salvo ahí fuera.
 * Pero yo no#  recomendaría vagabundear#  ahora mismo.
 hat_text
@@ -19588,7 +19588,7 @@ hat_text
 * Sé que dije que iría a#  decírselo al capataz pero...
 * Tengo bastante miedo.
 * Unos minutos más con mi#  uniforme no me vendrán mal.
-* (¡Tienes la gratitud#  eterna!)
+* (¡Obtienes la gratitud#  eterna!)
 Riesgos
 Capataz
 * ¡Buenos días!
@@ -19633,7 +19633,7 @@ target_bounds_right
 target_object
 * No viste nada.
 * Hola, visitante.
-* ¿Te aventuraste a#  través de toda#  la mina?
+* ¿Te aventuraste a través de#  toda la mina?
 * Que viaje.
 * Por las molestias,#  te contaré un#  secretito.
 * Verás, no estamos#  extrayendo gemstones#  en absoluto.
@@ -19644,7 +19644,7 @@ target_object
 * Estoy hambriento.
 * ¡¡Simplemente ADORO la#  minería!!
 * Mino mino mino mino mino mino#  ¡¡día y noche!!
-* Voy a encontrar mucho de...#  GEmaS BRILLANTES!!
+* Voy a encontrar muchs...#  ¡¡GEmaS BRILLANTES!!
 * ¡No dudes de mi ética de#  trabajo ni por un sEgundo!
 * ¡¡Trabajo DURO y nO estoy en#  la cuerda floja con el capataz!!
 * ¡¡Estoy en el hielo más grueso#  de todos los tIEMPos!!
@@ -19685,8 +19685,8 @@ Trabajo aquí
 * A partir de ahí...#  No estoy muy seguro#  de a dónde van.
 * Ese es el problema de este#  sitio. Tienes que averiguar#  las cosas por ti mismo.
 * ¡Pero es una vida honrada!
-* Oh, conozco una actividad#  divertida para tú visita!
-* Hay un adivino instalado#  en la ciudad.
+* Oh, !conozco una actividad#  divertida para tu visita!
+* Hay una adivina instalada#  en la ciudad.
 * La visito todas las semanas#  para oír hablar de mi#  posible futuro.
 * Hazle un favor si pasas#  por la zona, ¿vale?
 * Parece que mi descanso#  está a punto de terminar.
