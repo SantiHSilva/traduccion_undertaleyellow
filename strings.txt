@@ -9632,7 +9632,7 @@ balcony
 * (Se puede oler el polvo#  de la sierra que cubre#  la superficie.)
 * Creo que la sala del#  trono está al#  otro lado.
 * Volvamos.
-*  Sala del Trono
+* Sala del Trono
 soul_color
 soul_target_x
 soul_target_y
@@ -10471,8 +10471,8 @@ river_ambience
 * He estado pensando#  acerca de ese día.
 * Demasiado.
 * El tiempo es algo,#  gracioso, ¿sabes?
-* Supongo que en el#  panorama de mi vida,#  fuiste solo un parpadeo.
-* Pero a menudo, esos#  "parpadeos" son los que#  más impacto causan.
+* Supongo que en el#  panorama de mi vida,#  fuiste solo un destello.
+* Pero a menudo, esos#  "destellos" son los que#  más impacto causan.
 * El Rey me ofreció un#  ascenso.
 * Un puesto en Nuevo#  Hogar. Pero...
 * Luego de experimentar#  lo peor que el trabajo#  tiene que ofrecer...
@@ -10548,8 +10548,8 @@ FIN
 * ¿Una visita? ¿A esta hora?
 * H-Hola Sr. Rey, señor.
 * Es un honor el estar   
-* No hay porque ser tan#  formal.
-* Puedes simplemente#  llamarme "Asgore" si#  deseas.
+* No hay porqué ser tan#  formal.
+* Puedes simplemente#  llamarme "Asgore" si#  así lo deseas.
 * ¡Claro!
 * Asgore, Rey, señor.
 * Soy Martlet de la#  Guardia Real de la#  División Snowdin.
@@ -10752,10 +10752,10 @@ peep
 * Lo viste.
 * Incluso cuando las#  cosas escalaron,#  intentamos huir.
 * Pero nos quería muertos.
-* Yendo tan lejos como#  acorralar a Clover en#  una esquina, forzarle a...
+* Yendo tan lejos como#  acorralar a Clover#  forzarle a...
 * Eres un hombre de#  la ley, ¿cierto?
 * Lo siento pero...
-* Dentro de estas#  circunstancias... Clover#  fue justo.
+* Dentro de estas#  circunstancias...#  Clover fue justo.
 * Ya ni sé lo que#  significa "justo".
 * Qué está bien, qué#  está mal...
 * A quién le importa...
@@ -10764,7 +10764,7 @@ peep
 * Llevó volando la ceniza.
 * Como si ella ni siquiera#  importara...
 * Para la ley, quizás#  tienes justificación#  en lo que hiciste.
-* Pero para mí... estás#  por debajo de la tierra.
+* Pero para mí... estás#  por debajo de la mugre.
 * Podría reportar tu#  ubicación...
 * O intentar vengarme...
 * Pero sé que eso sólo#  significaría más#  problemas para mi.
@@ -12714,9 +12714,9 @@ soul_array
 * Lo conozco bien.
 * El mundo puede ser un#  lugar cruel.
 * Toma y otorga como#  quiera.
-* Supongo que ya he hablado#  suficiente.
+* Supongo que ya he#  hablado suficiente.
 * Haré esto rápido.
-* No tienes que preocuparte.
+* No tienes que#  preocuparte.
 attack_beam_width
 attack_beam_width_current
 attack_beam_width_inc
@@ -16291,7 +16291,7 @@ update_talk_val
 * Mmm...
 * Me esperaba muchos#  más ciudadanos.
 * Un poco inquietante#  cuando no hay nadie#  alrededor.
-* Asi que este es#  el Castillo...
+* Así que este es#  el Castillo...
 * Nunca estuve dentro#  antes.
 * Te crispan los nervios.
 * Por primera vez, no#  tengo palabras.
@@ -18984,7 +18984,7 @@ bumper
 parent_rail
 obj_mc_rails
 obj_mc_rail_horizontal
-Que...
+Qué...
 ¿Qué fue eso?
 ¿Estabas en mi#cabeza hace#un momento?
 ¡No tienes#NINGÚN#derecho!
