@@ -2047,9 +2047,9 @@ info
  "Granola Gravedad" - Cura 30 PV"#* ("¡El sabor es de#  otro mundo!" ...Uh huh.) 
  "H2O" - Cura 20 PV"#* (Líquido químico.)
  "Papas Fritas" - Cura 13HP"#* (Papas fritas de siempre.)
- "Carne seca" - Cura 16 HP"#* (Delicia de#  una tienda común.)
- "Pastel" - Cura 30 HP"#* (Un pastel de limón#  con cerezas arriba.)
- "Magdalena Floral" - Cura 50 HP"
+ "Carne seca" - Cura 16 PV"#* (Delicia de#  una tienda común.)
+ "Pastel" - Cura 30 PV"#* (Un pastel de limón#  con cerezas arriba.)
+ "Magdalena Floral" - Cura 50 PV"
 * (Hermoso pastel coronado#  con una flor dorada#  de glaseado.)
  "Perro Caliente" - Cura 20 PV"#* (Una comida representativa#  de tu insulto habitual.)
  "Caramelo Monstruo" - Cura 10 PV"
