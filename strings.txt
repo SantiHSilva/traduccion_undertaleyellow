@@ -11205,8 +11205,8 @@ sp_original
 pp_original
 attack_noloop
 heal_amount
-* Ganaste
-PV!
+* ¡Ganaste 
+ PV!
 * ¿¡Qué estás haciendo!?
 * ¡Sé que ellos empezaron la#  pelea pero no sabemos#  la situación!
 * ¿Qué pasa si fue un#  error en su#  programación?
