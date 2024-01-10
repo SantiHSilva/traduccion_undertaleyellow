@@ -11040,15 +11040,15 @@ syringe_noloop
 * ¡Y tú me enseñarás#  puntería!
 * No mereces morir tan#  joven.
 * ¿Qué te parece?
-Sounds good
+Suena bien
 ...Okei
 * ¿¿¿En serio???
-* Wow! ¡La vamos a pasar#  tan bien!
+* ¡Wow! ¡La vamos a pasar#  tan bien!
 * Te prometo que este#  es el mejor resultado#  para ambos.
-* Bueno, "compañero de piso,"#  ¡Vamos a Snowdin!
+* Bueno,#  "compañero de piso,"#  ¡Vamos a Snowdin!
   ¿Q-Qué es esto?
   ¿Clover...?
-  P-Porque harías...
+  P-Por qué harías...
 * ¡Tienes que estar#  bromeando!
 * ¡Yo sabía que algo como#  esto pasaría!
 * Y después de todo lo#  que pasamos...
@@ -25264,7 +25264,7 @@ Check 3
 * No retienes tu memoria después#  de los reinicios.
 * Es por eso que tengo que#  explicarte las mismas cosas#  de nuevo.
 * Colocar los mismos puntos de#  guardados, hacer los mismos#  comentarios...
-* "¡Caramba, este lugar si que es#  ____!" 
+* "¡Caramba, este lugar sí que es#  ____!" 
 * "¡Sigue así, amigo!"
 * "¡Recuerda tu misión!"
 * Una y otra y otra y otra#  vez...
@@ -25279,13 +25279,13 @@ Check 3
 * Hasta entonces, reiniciaré.
 * Restearé y restearé y #  restearé y restearé y #  restearé y restearé y
 * ¿Por qué siempre terminó#  aquí?
-* Siempre que haces  ciertas#  decisiones, es el techo.
+* Siempre que haces ciertas#  decisiones, es el techo.
 * Martlet siempre te convence#  para que vayas con ella.
 * ¿Se supone que... debo dejar#  que eso ocurra?
 * No... te he visto rendirte#  y adapatarte antes.
 * No lleva a ninguna parte.
-* Así que, ¿qué? ¿Esto estodo?#  ¿Esta es la manera en#  la que debe de ser?
-* La primera vez que te oriente a#  las Ruinas Oscuras...
+* Así que, ¿qué? ¿Esto es todo?#  ¿Esta es la manera en#  la que debe de ser?
+* La primera vez que te orienté a#  las Ruinas Oscuras...
 * Juraba estar consiguiendo algo.
 * Pero parece que tu vida -#  tu destino - está sellado.
 * Como si hubiera una manera#  específica en la que TIENE que#  ocurrir.
@@ -25316,7 +25316,7 @@ Check 3
 * Nada de esto lo es.
 * No debería estar aquí.#  Otra vez no.
 * Es que, por favor...
-* ¿No tengo algo mejor que#  hacer?
+* ¿No tengo nada mejor que#  hacer?
 * ¿Sabes? Es extraño.
 * Algo no cuadra aquí.
 * Estamos solos en mi mente#  en este momento.
@@ -25327,7 +25327,7 @@ Check 3
 * Tengo que reiniciar de nuevo.
 * Tengo que reiniciar hasta#  encontrar el camino correcto.
 * Hasta que hagas las decisiones#  correctas.
-* Hasta ese entonces...
+* Hasta que...
 * Okey, okey, te dejaré ir.
 * Tengo que practicar mi#  monólogo de introducción.
 * ¡Prepárate antes de la gran#  caída!
