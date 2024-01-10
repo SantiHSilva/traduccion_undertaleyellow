@@ -10435,7 +10435,7 @@ Minmo
 CapsuleGravy
 Izzy
 DragnirMK
-Gracias Especiales:
+Agradecimientos a:
 credits_entry_two
 Tifapunchface
 Jillian Brodsky
@@ -12368,7 +12368,7 @@ Diseño Narrativo:
 AWildDayDreamer
 Pippy V.
 Diálogos:
-Arte Conceptual:
+Arte:
 Figburn
 GlitchedPie
 TeleviQ
@@ -12377,7 +12377,7 @@ Gaziter
 InkuNoodle
 Noteblock
 AeroArtwork
-Conceptos Adicionales:
+Conceptos Extra:
 Ryla
 MarshieMonarch
 Greeli_
@@ -12405,7 +12405,7 @@ Música Adicional:
 emBer
 DYLZAL
 Scott Joplin
-Diseño de Sonido:
+Diseño Sonoro:
 Voz de Mew Mew:
 PhichanVA
 CommissionerTadpole
@@ -32383,23 +32383,23 @@ seq_slither_idle_hurt
 seq_pacifist_credits
 Heading Credits
 GMTextTrack
-Programmed by
+Programado por
 characterSpacing
 frameSize
-Lead Programmer
-Programmers
+Programador líder
+Programadores
 AddProgrammed by
 AddProgrammers
-Directed by
+Dirijido por
 Director
-Narrative Design and Dialogue
+Diseño Narrativo y Diálogo
 Diseño Narrativo
 lineSpacing
 paragraphSpacing
 Narrative Design Title
 Diálogos
 Dialogue Title
-Arte Conceptual
+Arte
 Concepts Title
 Concepts
 Otros Conceptos
@@ -32410,7 +32410,7 @@ R&L
 Spritework
 Spriteowrk
 Spritework Title
-Spritework Adicionales
+Otros Spritework
 ASpritework Title
 ASpriteowrk
 Character Designs
@@ -32419,7 +32419,7 @@ CharDesigns Title
 Música
 Music Title
 Música Adicional
-Diseño de Sonido
+Diseño Sonoro
 PhichanTitle
 Voz de Mew Mew
 Phichan
