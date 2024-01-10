@@ -2001,7 +2001,7 @@ info
 * (Encajan perfectamente en#  el cargador de 6 balas.)
 * (Un disparo perfecto#  dará un daño extra.)
 * "Balas de vidrio" - Arma AT 5#* (Literalmente trozos de vidrio.#  Si...)
-* (Restaura 2 PV después de cada# ataque.)
+* (Cura 2 PV después de cada#  ataque.)
 * "Caramelo de Maíz" - Cura 9 PV#* (Tus dientes duelen con solo#  verlo.)
 * "Perro de Maíz" - Cura 12 PV#* (Un genuino maiz de perro#  suave, esponjosas orejas.)
 * "Parche" Armadura DF 0#* (No es fuerte pero siempre#  será la vieja confiable.)
@@ -2082,7 +2082,7 @@ info
 * (No parecen derretirse.)
 * (¡Qué atentos por su parte!)
 * "Munición Café" - Arma AT 4
-* (Imposibles de comer pero#  quizás aún puedan#  servir para algo.)
+* (Imposibles de comer pero#  quizás aún puedan servir#  para algo.)
 * "Súper Balas." - Arma AT 15#* (Munición común de#  juguete de tu tienda favorita.)
 * (Luce un sticker que dice#  "Premium" en el paquete.)
 * "Balas Pied." - Arma AT 9#* (Piedra negra polvorienta.#  Quizás útil para el combate.)
@@ -2597,7 +2597,7 @@ gml_Script_scr_save_flowey_dunes
 * Me pregunto cuál es#  el objetivo de esta#  mina.	
 * Sea lo que sea,#  nadie parece saber#  lo que hace, jaja.
 * ¡Sigue así, amigo!
-* ¡Esta cueva sí#  que es enorme!
+* ¡Esta cueva sí que es#  enorme!
 * Espero que esta vía#  nos lleve a la salida#  porque esto es sofocante.
 * ¡Disfruta del viaje,#  amigo!
 * ¡Vamos, súbete al#  carro!
@@ -3329,7 +3329,7 @@ scr_battle_core_directory_no_attack
 * Cactony viene a compartir#  su dolor.
 * ¡Sir Slither tiene una#  propuesta! (real)
 * ¡Bowll se carga cerca de ti!
-* Cactony entró,#  Sir Slither lo seguía#  de cerca.
+* Cactony entró, Sir Slither lo#  seguía de cerca.
 * ¡Es hora de bailar!
 * Otro obstáculo.
 * Violetta se acerca#  pasivamente desde el#  jardín de flores.
@@ -9106,8 +9106,8 @@ storm_y_start
 * (Una cinta transportadora envía#  varias rocas y gemas a una#  máquina clasificadora.)
 * (Se puede ver una#  pegatina grande y sucia#  en el lateral.)
 * Ensamblado por Ingenieros#  Steamworks - 20XX
-* En caso de incendio,#  utilice las escaleras.
-* En caso de agua,#  nada.
+* En caso de incendio, utilice#  las escaleras.
+* En caso de agua, nada.
 blue
 cart_color
 minecart_direction
@@ -9116,7 +9116,7 @@ bottom-left
 rotation
 top-left
 bottom-right
-* (Un carro de mina#  de acero bien#  hecho.)
+* (Un carro minero  de acero#  bien hecho.)
 * (Un conjunto de#  cubículos casi vacíos.)
 * (Nada demasiado interesante.)
 * ¡CUIDADO! ¡CAEN ROCAS!
@@ -9124,14 +9124,14 @@ bottom-right
 * (Un cactus sencillo.)
 * ¡Han pasado - 002 - días#  sin accidentes laborales!
 * Han pasado - 000 - días#  sin accidentes laborales.
-* (Observas el logotipo#  de SPSS en las cajas.)
-* (Parece que pueden con#  más que las cartas.)
+* (Observas el logotipo de#  SPSS en las cajas.)
+* (Parece que pueden con más#  que solo las cartas.)
 * (Un cajón.)
 * (Una cinta transportadora#  oxidada que transporta#  varias gemas y piedras.)
-* (Se oyen ruidos#  pegajosos de las cajas.)
+* (Se oyen ruidos pegajosos#  viniendo de las cajas.)
 * (La caja solo contiene#  unos cuantos cacahuetes.)
 * (Nada útil.)
-* (El segundo carro#  minero de tierra que#  has visto hoy.)
+* (El segundo carro minero de#  tierra que has visto hoy.)
 * (¡Que suerte!)
 vertical
 * A la cima de la montaña.
@@ -9141,7 +9141,7 @@ elevator_next_room
 * (La tecnología es#  asombrosa...)
 * (Una máquina de#  grandes rocas.)
 * (Te preguntas cómo#  lo vuelves a encender.)
-* (Se grapa un trozo#  de papel a la máquina.)
+* (Se grapa un trozo de papel#  a la máquina.)
 * "Construído a medida por#  Máquinas Hotland."
 * "Firma del propietario:#  "North Star."
 * ¡ATENCIÓN!#  ¡Tienda de regalos#  adelante!
@@ -10147,7 +10147,7 @@ Sí
 No
 * (¡Obtuviste Dihidrógeno#  Monóxido!)
 * (Obtuviste Agua.)
-* (No hay suficiente#  espacio de inventario.)
+* (No hay suficiente espacio#  de inventario.)
 * (Podría estar caducado.)
 * (En el interior no hay nada#  más que cristales de#  formas extrañas.)
 x_target_original
@@ -15309,8 +15309,8 @@ move_speed_attack_increase
 angle_spread
 can_raise
 vspeed_inc
-* (Una solitaria chaqueta#  de seguridad cuelga#  de la pared.)
-* (¡Obtuviste una#  Chaqueta de Seguridad!)
+* (Una solitaria chaqueta de#  seguridad cuelga de la pared.)
+* (¡Obtuviste una Chaqueta de#  Seguridad!)
 * (Varios monstruos#  disfrutan de una buena#  partida de póquer.)
 * ...¿Cómo sigo perdiendo?
 * (¡Las cosas se ponen duras!#  ¡Podría ser el juego#  de cualquiera!)
@@ -15506,9 +15506,9 @@ cell
 * Los Monstruo Jefe saben#  cómo aferrarse a la#  vida, eso es seguro.
 * ¡Oye, no dejes que#  toda esa información#  te asuste!
 * ¡Inmortal no significa#  invencible!
-* Aún así, un ALMA humana#  es más poderosa que un#  ALMA de Monstruo Jefe.
+* Y aún así un ALMA humana#  es más poderosa que un#  ALMA de Monstruo Jefe.
 * ASGORE puede parecer#  intimidante, pero es#  todo un espectáculo.
-* En el fondo,#  te tiene miedo.#  Un verdadero débil.
+* En el fondo, te tiene#  miedo.#  Un verdadero débil.
 * De todos modos, ¡solo#  pensé en preparar a#  mi amigo para después!
 line_col
 xx_1
@@ -15914,7 +15914,7 @@ Snowdin - Bosque
 Dunas - Minas del Este
 Dunas - Valle del Oasis
 Salvaje Este - Granja
-* ¿Estás seguro de que#  quieres tirar 
+* ¿Seguro de que quieres#  tirar 
 * No se puede tirar el#  
 ¡TO-TO-TÓMATE#UN CALMANTE#AMIGO!
 ¡TRES SON MULTITUD!#¡ES HORA DEL#CONCIERTO!
@@ -16149,8 +16149,8 @@ update_talk_val
 * Hermano, hace c-a-l-o-r#  ¡CALOR! ¡echo de#  menos Snowdin!
 * ¿Estás bien con esa#  ropa tan pesada? Yo ya#  me hubiera desmayado.
 * ¡Hay tanto que ver#  en esta ciudad!
-* Tengo fuertes#  sentimientos de#  "Honeydew Resort".	
-* Cuando me canse de#  mantener la paz,#  puede que me mude aquí.	
+* Tengo fuertes#  sentimientos de#  "Resort Honeydew".	
+* Cuando me canse de#  mantener la paz, puede#  que me mude aquí.	
 * Un buen plan de#  jubilación, ¿no?
 * Pido disculpas por no#  hablar más con los#  residentes.
 * Con mi cerebro de#  pájaro, ¡quién sabe lo#  que se me puede escapar!
@@ -16752,12 +16752,12 @@ destroy
 * Debería ser un viaje#  sencillo de aquí#  en adelante...
 * ¡Oye! ¡Humano!
 Es Clover
-* ¡No me ataques,#  puedo explicarte#  por qué estoy aquí!
+* ¡No me ataques, puedo#  explicarte por qué#  estoy aquí!
 * Dije que te#  encontraría de nuevo,#  ¿no?
 * Bueno, después de#  nuestro encuentro, te#  vi robando a Ava...
-* PERO, no te lo#  echaré en cara.
-* Estoy seguro de que no#  quisiste destrozarla.
-* ¡Te ataqué, destruiste#  algo que amo, igualamos!
+* PERO, no te lo echaré#  en cara.
+* Estoy segura de que no#  quisiste destrozarla.
+* ¡Te ataqué, destruiste#  algo que amo, empatamos!
 * De todos modos, seguí#  el río y terminé aquí.
 * Sé que parezco una#  Guardia Real asesina,#  ¡pero no lo soy!
 * Tengo que seguir mi#  guía cuando trato con#  humanos y esas cosas...
@@ -18651,7 +18651,7 @@ vine_pause
 * (Obtuviste un Packing Peanuts.)
 * (No hay nada aquí de#  utilidad concebible para#  tí.)
 * (Ves una piedra oscura y#  desprendida entre este#  montón de rocas.)
-* (¡Tienes algo de#  Balas de Piedra!)
+* (¡Tienes algunas Balas de#  Piedra!)
 * (Ahora es solo una roca.)
 storm_alpha
 storm_alpha_current
@@ -18681,16 +18681,16 @@ fadein_time
 * No soporto esta tormenta#  de arena.
 * No podría soportar#  esa tormenta de arena.
 * Entré en esta cueva para#  encontrar un tesoro, pero en#  su lugar encontré a estos tipos.	
-* Saltaron hacia mí y#  ahora... ¿Supongo que#  somos amigos?	
+* Saltaron hacia mí y ahora...#  ¿supongo que somos amigos?	
 * ¿Es así como funciona?	
 * En cualquier caso, bien.
-* Si hay algún tesoro#  por ahí, puedes#  quedártelo.	
-* Creo que estas ranas#  funky son todo lo#  que necesito ahora.
-* Oh, y mi hermano, creo.#  Que está bien.
+* Si hay algún tesoro por ahí,#  puedes quedártelo.	
+* Creo que estas ranas funky#  son todo lo que necesito#  ahora.
+* Oh, y mi hermano, creo. Que#  está bien.
 * A veces, la felicidad es#  solo un par de amigos#  relajándose en una cueva.	
 * Otras veces, es más#  complicado.	
 * ¡Me identifico más con la#  opción anterior porque no#  puedo deletrear "complicado"!
-* Cuando salgas,#  saluda a mi hermano#  de mi parte.
+* Cuando salgas, saluda a mi#  hermano de mi parte.
 mf_sound
 * (Un hermoso Golden Cactus#  de aspecto delicioso#  te descubre.)
 * (¡Has conseguido#  el Golden Cactus!)
@@ -18944,7 +18944,7 @@ elevator_menu_open
 elevator_solution
 * (Un trozo de madera está#  alojado entre las puertas#  del ascensor.)
 * (¿Qué podría arreglar#  este pobre ascensor?)
-* (Usas el pico para#  cortar la madera.)
+* (Usas el pico para cortar la#  madera.)
 * (Empiezas a frotar la#  hebilla de acero contra#  el pedernal.)
 Flint & Steel
 * (Enciendes una cerilla#  en el trozo de madera.)
@@ -18993,21 +18993,21 @@ shadow_index
 music_in_battle
 current_mus_pos
 * (La estantería está llena de#  libros, algunos educativos#  y otros recreativos.)
-* (Un libro titulado#  "Fiebre de las Gemas"#  llamo tu atención.)
+* (Un libro titulado#  "Fiebre de las Gemas" llamó#  tu atención.)
 * El Subsuelo ha sido el#  hogar de miles de piedras#  preciosas,
 * sin embargo, solo se han#  descubierto cuatro tipos.
-* La Swelterstone - Tono,#  Amarillo
+* La Swelterstone - Tono:#  Amarillo
   La Swelterstone              
 * Esta piedra emite un calor#  inmenso, suma en función#  de su tamaño.
-* También es utilizada,#  para iluminar diversos#  lugares del Subsuelo.
-* La Glacialstone - Tono, Azul
+* También es utilizada para#  iluminar diversos lugares del#  Subsuelo.
+* La Glacialstone - Tono: Azul
   La Glacialstone
 * Enfrente de la Swelterstone;#  emite una temperatura helada.
-* Esta piedra abunda en zonas#  más frías como Snowdin#  y Waterfall.
-* La Aromaticstone - Tono, Verde
+* Esta piedra abunda en zonas#  más frías como Snowdin y#  Waterfall.
+* La Aromaticstone - Tono: Verde
   La Aromaticstone
 * Esta piedra rara huele a#  manzanas. Eso es todo.
-* La Pinkstone  - Tono, en#  el nombre.
+* La Pinkstone  - Tono: en el#  nombre.
   La Pinkstone
 * No se ha descubierto ningún#  rasgo para esta piedra en el#  momento de la publicación.
 * (Hojeas el libro y descubres#  un par de datos más.)
@@ -19018,8 +19018,8 @@ current_mus_pos
 * La mayor gemstone descubierta#  se encuentra en las Dunas.
 * Se calcula que es tan grande#  como 10.000 cascos.
 * (Cierras el libro y lo#  vuelves a guardar.)
-* (Ahora estás mareado#  por la fiebre de las#  gemstone.)
-* (En los raíles hay#  un carro vacío.)
+* (Ahora estás mareado por la#  fiebre de las gemstone.)
+* (En los raíles hay un carro#  vacío.)
 * (¿Subir?)
 * ¿Vas a dar un paseo?#  ¡No hay problema!#  ¡Me pondré al día!
 end_player_alpha
@@ -19108,8 +19108,8 @@ scratch
 * ¡Te falta RITMO!#  ¡SENTIMIENTO!#  ¡ENTUSIASMO!
 * ¡Si no te conociera mejor,#  podría haberte confundido con#  un Centinela del Silencio!
 * No, no... ¡esto no va a#  funcionar!
-* ¡Debes demostrarme#  que tienes lo que#  hay que tener!
-* ¡Lo que se necesita#  para vivir una vida#  de riqueza!
+* ¡Debes demostrarme que tienes#  lo que hay que tener!
+* ¡Lo que se necesita para#  vivir una vida de riqueza!
 * Te reto... ¡a BAILAR!
 * Y tus ojos... ¡cuentan#  una historia lamentable!
 * ¡Hay que animar este#  ambiente deprimente!
@@ -19152,7 +19152,7 @@ LAS...#C U R V A S
 can_rumble
 * Este patio infantil#  solía ser divertido.
 * Desde que mi compañero#  de juegos dejó de aparecer,#  se ha vuelto aburrido.
-* Me pregunto adónde#  habrá ido.
+* Me pregunto adónde habrá#  ido.
 * Gracias por sentarte conmigo.
 * Espero que seamos amigos.
 * Será mejor que me vaya pronto.
@@ -19161,13 +19161,13 @@ can_rumble
 * (¿Subir?)
 npc_clover
 * (La "s" de "productos" está#  bruscamente garabateada.)
-* (Hay una nota pegada#  al cactus.)
+* (Hay una nota pegada al#  cactus.)
 * 50% DE DESCUENTO EN#  TODOS NUESTROS PRODUCTOS.
 * HORARIO DE APERTURA#  LUN-VIE: 8:00 - 16:00#  SÁB-DOM: 8:00 - 14:00
 * PAUSA PARA COMER#  12:00 - 12:15
 glass_width
-* (¿Tomar los trozos#  de taza?)
-* (¡Obtuviste Munición#  de Vidrio!)
+* (¿Tomar los trozos de taza?)
+* (¡Obtuviste Munición de#  Vidrio!)
 fortune
 fortune_ready
 * ¡Hola, viajero!
@@ -19299,7 +19299,7 @@ player_npc
 * De hecho, tengo una#  pregunta para ti:
 * ¿Se desarrolla algún#  tipo de espectro de#  calor por aquí?
 * Verás, no solo caliente,#  sino abrasadoramente caliente#  contra sofocantemente caliente-
-* Sabes qué, pareces#  ocupado. Hablaremos#  más tarde o algo.
+* Sabes qué, pareces ocupado.#  Hablaremos más tarde o algo.
 * Yo diría que hoy#  hace mucho calor.
 * O eso es demasiado poco#  original, tal vez algo#  más interesante como...
 * ¡Pepinillo caliente!
@@ -19475,7 +19475,7 @@ party_member_present_martlet
 * Si no vas a matarme,#  déjame llorar a mi#  familia en paz.
 * Puede que Star solo#  fuera un objetivo para#  ti, pero...
 * Fue más héroe de lo#  que tú serás jamás.
-* Fuera de mi salón.
+* Fuera de mi taberna.
 * Recuerdo que este juego#  funcionaba más#  eficientemente en el pasado.
 * La presión del aire parece#  haber sido manipulada#  o algo así.
 * Teniendo en cuenta que esta#  mesa se dobla como la AC,#  no son buenas noticias.
@@ -19553,36 +19553,36 @@ Elevador
 * ¡Bueno, yo nunca!
 * Se merecen un buen#  jalón de orejas,#  ¡se lo merecen!
 * ¡Un error más y podría#  ponerlos en el rincón#  del tiempo muerto!
-* Yo uh... Enviaré a#  Angie a enfrentarlos.
+* Yo uh... enviaré a#  Angie a enfrentarlos.
 * No los despedirás,#  ¿verdad?
 * ¡Por supuesto que no!
 * El único monstruo al#  que despedí fue el#  inspector de salud.
-* Lo despedi antes de#  que llegara.
+* Lo despedí antes de#  que llegara.
 * Estoy muy orgulloso#  de estas minas.
 * Llevo treinta años#  supervisándolas.
 * Aquí todos los días.
-* Me tomé una semana#  libre cuando nació#  mi hijo.
+* Me tomé una semana#  libre cuando nació#  Moray.
 * Pero cuando llegó el#  momento, volví.
 * Curiosamente, el#  progreso de esa semana#  fue superior a la media.
 * No había tenido una#  emergencia como esta#  desde el viejo derrumbe.
 * Ese día abandonó#  una buena instalación.
-* Si alguna vez ves#  a mi niña por ahí,
-* ¡Dile que su viejo#  le echa de menos!
+* Si alguna vez ves a#  mi niña por ahí,
+* ¡dile que su viejo#  le echa de menos!
 * Si te vas, mantente#  a salvo ahí fuera.
 * Pero yo no#  recomendaría vagabundear#  ahora mismo.
 hat_text
-* Tú... ¡encontraste mi#  casco!
+* Tú... ¡encontraste mi casco!
 * ¡Eres un alma amable!
 * No tengo nada que darte...#  pero estoy eternamente#  agradecido.
 * Perdí toda mi dinamita...
 * Tengo que decírselo#  al capataz.
 * Me despedirá, estoy seguro,#  pero es culpa mía.
-* Iría a decírselo ahora#  mismo, pero también he#  perdido mi casco.
-* No puedo proteger mi refugio#  de las peligrosas rocas#  del exterior.
+* Iría a decírselo ahora mismo,#  pero también he perdido mi#  casco.
+* No puedo proteger mi cabeza#  de las peligrosas rocas del#  exterior.
 * Hoy no es mi día...
 * Tengo un hermano, sabes.
-* Trabajo en las minas#  para proveernos.
-* No tiene trabajo. La mayoría#  de las veces hace de#  las suyas.
+* Trabajo en las minas para#  proveernos.
+* No tiene trabajo. La mayoría#  de las veces hace de las#  suyas.
 * Pero... él es feliz, así#  que yo soy feliz.
 * ¿Cómo podré mirarle a la#  cara cuando me despidan?
 * Sé que dije que iría a#  decírselo al capataz pero...
@@ -19596,12 +19596,12 @@ Capataz
 * ¿En qué puedo ayudarle?
 * Sí, soy consciente#  del peligro fuera#  de las minas.
 * Podría investigar#  pero...
-* Mi marido Gillbert,#  necesita tomar más#  iniciativa.
-* Le pedí que lo hiciera,#  veamos...#  hace seis horas.
+* mi marido Gillbert#  necesita tomar más#  iniciativa.
+* Le pedí que lo hiciera,#  veamos... hace seis#  horas.
 * Pasos de bebé.
-* He oído que hay#  varios peligros#  alrededor de las Dunas.
-                 #                 #                   Dunas
-* Espero que no sean#  del Salvaje Este#  gastando bromas.
+* He oído que hay varios#  peligros alrededor de#  las Dunas.
+                 #                 #      Dunas
+* Espero que no sean los#  del Salvaje Este#  gastando bromas.
                     #      Salvaje Este                 
 * Suelen salirse de#  la línea de vez#  en cuando.
 * No puedo evitar sentir#  que son una mala#  influencia para Moray.
@@ -19613,13 +19613,13 @@ Capataz
 * Sí, tienes razón.
 * Es una comprensión#  mutua.
 * Y te amo por ello.
-* Este asunto es más#  importante de#  lo que parece.
+* Este asunto es más#  importante de lo que#  parece.
 * No es fácil para los#  monstruos encontrar#  trabajo hoy en día.
 * Por eso, ¡contratamos#  a cualquiera que#  lo solicite!
-* Todos excepto los#  niños. Creo que#  eso es ilegal.
+* Todos excepto los#  niños. Creo que eso#  es ilegal.
 * ¡Que tengas un buen#  viaje!
 * ¡He oído que podría#  ponerse rocoso!
-* ¡Jajaja! ¡Muy#  graciosa, querida!
+* ¡Jajaja! ¡Muy graciosa,#  querida!
 * He estado esperando#  a decir eso.
 * ¡Esa es mi Angie!
 * ¡Espero que lo hayas#  pasado bien en#  Mining Co.!
@@ -19635,16 +19635,16 @@ target_object
 * Hola, visitante.
 * ¿Te aventuraste a través de#  toda la mina?
 * Que viaje.
-* Por las molestias,#  te contaré un#  secretito.
-* Verás, no estamos#  extrayendo gemstones#  en absoluto.
-* Esas cosas están por todas#  partes; prácticamente#  sin valor.
+* Por las molestias, te contaré#  un secretito.
+* Verás, no estamos extrayendo#  gemstones en absoluto.
+* Esas cosas están por todas#  partes; prácticamente sin#  valor.
 * En realidad estamos#  extrayendo minerales como#  este que tengo delante.
-* Se usan para materiales#  de construcción en#  el Subsuelo.
+* Se usan para materiales de#  construcción en el Subsuelo.
 * También son... muy...
 * Estoy hambriento.
 * ¡¡Simplemente ADORO la#  minería!!
 * Mino mino mino mino mino mino#  ¡¡día y noche!!
-* Voy a encontrar muchs...#  ¡¡GEmaS BRILLANTES!!
+* Voy a encontrar muchas...#  ¡¡GEmaS BRILLANTES!!
 * ¡No dudes de mi ética de#  trabajo ni por un sEgundo!
 * ¡¡Trabajo DURO y nO estoy en#  la cuerda floja con el capataz!!
 * ¡¡Estoy en el hielo más grueso#  de todos los tIEMPos!!
@@ -19652,7 +19652,7 @@ target_object
 * Ok, ¡¡no puedo con esto!!
 * ¡Estoy en mi decimocuarta#  advertencia!#  ¡¡¡Cuarta decimocuarta!!!
 * ¡¡Escuche que el Capataz#  tiene política de "16#  strikes, estás fuera"!!
-* ¿¿No podría relajarse#  un poco??
+* ¿¿No podría relajarse un#  poco??
 * ¡JajA!!#  ¡¡Esto es divertido!!
 * Oh por...
 * Qué... ¿Qué es todo#  esto?
@@ -19682,13 +19682,13 @@ Trabajo aquí
 * Eres muy inteligente,#  estoy seguro.
 * ¡Disfrute de su visita!
 * Mi trabajo consiste en enviar#  las piedras preciosas a#  la máquina clasificadora.
-* A partir de ahí...#  No estoy muy seguro#  de a dónde van.
+* A partir de ahí...#  No estoy muy seguro de adónde#  van.
 * Ese es el problema de este#  sitio. Tienes que averiguar#  las cosas por ti mismo.
 * ¡Pero es una vida honrada!
-* Oh, ¡conozco una actividad#  divertida para tú visita!
-* Hay un adivino instalado#  en la ciudad.
-* La visito todas las semanas#  para oír hablar de mi#  posible futuro.
-* Hazle un favor si pasas#  por la zona, ¿vale?
+* Oh, ¡conozco una actividad#  divertida para tu visita!
+* Hay una adivina instalada#  en la ciudad.
+* La visito todas las semanas#  para oír hablar de mi posible#  futuro.
+* Hazle un favor si pasas#  por la zona, ¿dale?
 * Parece que mi descanso#  está a punto de terminar.
 * Oh, bueno.
 dialogue_type
@@ -19697,7 +19697,7 @@ dialogue_type
 * ¡Me encanta estar aquí!
 * Todo el mundo es muy amable#  y trabaja muy duro; ¡somos#  una auténtica familia!
 * Me gustan tanto estas minas#  que, ¡nunca me iré!
-* Todo el mundo me dice que me#  vaya a casa ¡pero el suelo#  frío y rocoso es muy cómodo!
+* Todo el mundo me dice que me#  vaya a casa, ¡pero el suelo#  frío y rocoso es muy cómodo!
 * Y no, ¡no me pagan por#  horas extras!
 * (Silbidos)
 * ¡No te preocupes por#  devolverme mi pico!
@@ -19752,14 +19752,14 @@ Caracoles
 * No habrá otro trabajo#  hasta mañana.
 * Puedo estar el resto de mi#  jornada laboral sin hacer#  absolutamente nada.
 * Oh, espera, ya lo estaba.
-* Tienes que preguntarte cuando#  el viejo ASGORE va a#  cancelar esta excavación.
+* Tienes que preguntarte cuando#  el viejo ASGORE va a cancelar#  esta excavación.
 * ¡Mining Co. lleva décadas#  en el negocio!
 * ¿Cómo-cómo-cómo voy a#  llegar a mi estación ahora?
 * ¡La puerta del ascensor#  está atascada, hombre!#  ¡¡¡ATASCADA!!!
 * ¿Sabes a dónde fueron todos?
 * Me siento muy ansioso en#  este momento.
 * ¡Estoy tranquilo!
-* Estoy tranquilo, ¿¿vale??
+* Estoy tranquilo, ¿¿ok??
 * Eso fue una MENTIRA#  ¡¡¡Estoy ALUCINANDO!!!
 * O mis compañeros están#  planeando una fiesta sorpresa#  para mí o...
 * No, está bien. ¡Estoy bien!
@@ -19779,7 +19779,7 @@ clover_npc
 * ¡¡PASO A LA DEREEEECHA!!
 * ¡¡¡ESTAMOS DE REBAJAS!!!
 * PUEDE PARECER QUE ESTAMOS#  CASI AGOTADOS, ¡PERO ES#  TODO LO CONTRARIO!
-* ¡SÓLO PEDIMOS UNA RESERVA#  DE TAZA!
+* ¡SOLO PEDIMOS UNA RESERVA#  DE TAZA!
 * ¡LLEVA TRECE AÑOS EN ESTA#  ESTANTERÍA DE CONFIANZA!
 * LA DEMANDA ES DEPRIMENTEMENTE#  BAJA ASÍ QUE ¡¡¡APROVECHA#  ESTA OFERTA AHORA!!!
 * ¡¡SOLO 40 DE OROSITO!!
@@ -19805,7 +19805,7 @@ branch
 * Llevo doce años en este#  trabajo y ya estoy harto.
 * Probablemente sea el único#  monstruo que hace su trabajo#  por aquí.
 * Si necesitas trabajo, ve a#  hablar con el capataz en#  el tercer nivel.
-* Aunque no estoy seguro#  de que llegues lejos#  con él.
+* Aunque no estoy seguro de que#  puedas llegar lejos con él.
 * ¿Qué quieres?
 * ¿Se ha atascado otra vez?
 * Lo juro, aquí nunca#  funciona nada.
@@ -19819,7 +19819,7 @@ Bien
 Ni hablar.
 * ¡Muyyy bonito!
 * ¡Aquí tienes!
-* Quédatelo. Ya no#  lo necesito.
+* Quédatelo. Ya no lo# necesito.
 * ¡Porque tengo uno de#  repuesto! Je je.
 * ¡No puedes cargar con#  un pico!
 * Ve y aligera tu carga.
@@ -22159,9 +22159,9 @@ Chujin
 * ¡Es lo que hace que la economía#  funcione de la forma adecuada!
 * Desde el Ala de Química del#  Invernadero, ¡hay trabajo#  para todo el mundo!
 * Me disculpo, cliente. Mi#  código de hospitalidad me#  previene de revelar toda#  información clasificada de#  mis colegas.#
-* Aunque aparentemos ser#  individuales, nosotros los#  robots, somos una menta colmena.#  Todos controlados por la#  estación al oeste#  de mi posición.#
+* Aunque aparentemos ser#  individuales, nosotros los#  robots, somos una mente colmena.#  Todos controlados por la#  estación al oeste#  de mi posición.#
 * Sin embargo, Axis, es una#  excepción. La 'oveja negra' de#  los proyectos robóticos por decir#  de alguna manera.#
-* ¿Te imaginas actuar al margen#  de un puño gobernante que sólo#  te da un propósito y ninguna#  esperanza de libertad? ¡Yo no#  podría!#
+* ¿Te imaginas actuar al margen#  de un puño gobernante que solo#  te da un propósito y ninguna#  esperanza de libertad? ¡Yo no#  podría!#
 * Pero si te importa saber más,#  él ama hablar sobre si mismo#  así que yo le preguntaría a él :]
 * Ah aperitivos... mi propósito :]#
 * ¡Te recomiendo mucho que los#  compres! ¡Todos están hechos con#  sustitutos de ingredientes#  naturales!
