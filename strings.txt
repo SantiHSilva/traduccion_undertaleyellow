@@ -2618,7 +2618,7 @@ gml_Script_scr_save_flowey_dunes
 * ¿A qué viene#  este retraso, amigo?
 * Vaya, parece que#  mi saludo ha encontrado#  su hogar.
 * ¿Te gusta el sombrero?#  Es un disfraz.
-* Esta zona está bastante#  poblada, así que tome#  esto para estar seguro.
+* Esta zona está bastante#  poblada, así que tomé#  esto para estar seguro.
 * Que te hayas separado#  de Martlet es bastante#  afortunado pero...
 * Espero que este tipo#  Star no te retenga#  aquí mucho tiempo.
 * ¡Quizás tenga que#  intervenir si lo hace!
@@ -5565,7 +5565,7 @@ scr_dialogue_battle_action_selected_action_3_flower_girls
 scr_generate_battle_dummy_training_pacifist
 scr_recreate_heart_battle_menu_text_dummy_training_pacifist
 * Intimidas más al maniquí.#* No hace nada.
-* Intentas hablar con el#  maniquí.#* North Star está confudido.
+* Intentas hablar con el#  maniquí.#* North Star está confundido.
 scr_dialogue_battle_action_selected_action_1_dummy_training_pacifist
 gml_Script_scr_dummy_training_pacifist_no_attack
 scr_dummy_training_pacifist_no_attack
@@ -11511,7 +11511,7 @@ ypos5
 * ¡¡¡Eso no lo hace#  mejor!!!
 * ¡Volveremos después de#  estos mensajes!
 * Amigo, espero que no.
-¿Sigh... Mooch?
+Sigh... ¿Mooch?
 geno_target_angle
 id_store
 id_feather
@@ -12948,7 +12948,7 @@ Nuestra pequeña niña... Kanako. Ella#necesita vivir una vida feliz, sin#verse 
 * Qué...
        ¿Qué acabo de hacer?
 ¡Hola, Clover!
-Siento mucho#esto, ¡pero he estado#aburrido todo#el día!
+Siento mucho#esto, ¡pero he estado#aburrida todo#el día!
 door_menu_open
 door_solution
 instance_deactivate_object
@@ -16577,7 +16577,7 @@ max_g_gained
 countdown_text
 ¡ADELANTE!
  de ORO ganado!
-0 de ORO ganado. ¡Suerte la próxima vez!
+0 de ORO ganado.#  ¡Suerte la próxima vez!
 card_is_selected
 card_success
 card_row
@@ -19913,7 +19913,7 @@ No, lo siento
 * ¡Hace poco tuve una idea#  para un tercer puzzle#  de roca fundida!
 * ...Está bien,#  no es divertido.
 * Lo que es interesante#  es el ruido que oí#  hace un rato.
-* ¡Oí un fuerte SNAP! -#  que me despertó de#  una siesta.
+* ¡Oí un fuerte TIRO! -#  que me despertó de#  una siesta.
 * Antes de darme cuenta de#  lo que había pasado,#  otro prisionero se fue.
 * Intenté hablar con él#  cuando llegué pero#  no obtuve respuesta.
 * Así que ahora no solo#  estoy aquí, sino que no#  tengo con quién hablar.
@@ -19968,7 +19968,7 @@ Trato
 * Un poco de esto...
 * ¡Yyyy listo!
 * (¡Has ganado +15 PS extra!)
-* Cuando la energía desaparece,#  ¡se ha ido para siempre!
+* Cuando los PS desaparezcan,#  ¡se habrán ido para siempre!
 * Siempre puedes volver a#  visitarme para más, ¡pero#  solo de uno en uno!
 * Puede que corra riesgos,#  pero no estoy loco.#  Ja, ja... Ejem.
 * ¡Tu sobrecarga tiene que#  agotarse antes de que pueda#  hacer otro procedimiento!
@@ -20032,7 +20032,7 @@ flow_mus
 * Star solo pregunta#  amablemente y allá#  voy.
 * ¿No es una relación#  genial?
 * Estoy seguro de que#  te lo pasarás bien#  aquí.
-* ¡Estoy deseando que#  empiece el entrenamiento!
+* ¡Estoy deseando que#  empiece el#  entrenamiento!
 petal_speed
 petal_dist
 petal_dir
@@ -20082,18 +20082,18 @@ petal_dir
 * Jeje...
 * De todas formas,#  ¡hasta luego!
 * ¿Por qué me miras así?
-* ¡Solo estaba siendo#  amigable! ¡Honesto!
-* Es agradable aceptar#  las amables palabras de#  alguien y dejarlo así.
+* ¡Solo estaba siendo#  amigable! ¡Honesta!
+* Es desagradable aceptar#  las amables palabras de#  alguien y dejarlo así.
 * ¡Estoy deseando#  entrenar contigo, jeje!
 * Umm... sobre Martlet.
 * Entiendo por qué estarías#  molesto, pero puedo#  explicarlo... creo.
 * Mira, si ella es una#  guardia real, eso#  causaría problemas.
 * ¡Amenazó con denunciar#  a Star al Rey ASGORE!
-* Y una cosa llevo a otra#  y ¡el Salvaje Este#  estaria en llamas ahora!
+* Y una cosa lleva a otra#  y... ¡el Salvaje Este#  estaría en llamas ahora!
 * Bueno... tal vez.
-* Estoy seguro de que#  ASGORE lo entendería,#  pero hay otros...
+* Estoy segura de que#  ASGORE lo entendería,#  pero hay otros...
 * La jefe de la Guardia#  Real, en particular.
-* Esperemos que no hayas#  tenido un enfrentamiento#  con ella.
+* Espero que no hayas#  tenido un enfrentamiento#  con ella.
 * Quiero decir, nunca la#  he conocido. Solo he#  oído que nos parecemos.
 * ¡No se preocupe!
 * Es súper divertido#  aquí, ¡lo prometo!
@@ -20115,7 +20115,7 @@ interact_count
 * Tenía talento, pero me#  faltaba visión.
 * Le dije a esa televisión de#  una sola rueda que no#  triunfaría en la industria.
 * ¡Que IDIOTA fui!
-* Pronto gano seguidores#  ¡y explotó por#  completo!
+* Pronto ganó seguidores#  ¡y explotó por completo!
 * ...No literalmente...#  tal vez.
 * Mira, niño, te diré#  esto:
 * A veces, es como si no#  controláramos nuestras vidas.
@@ -20270,7 +20270,7 @@ anim_grow
 * Moray lo promocionó#  como un pueblo#  similar a los humanos.
 * Dijo que era para#  "roleplay", sea lo#  que sea eso.
 * Parece que hoy en día#  se ha convertido en algo#  muy diferente.
-* Supongo que si mi hijo#  es feliz, no puedo#  quejarme demasiado.
+* Supongo que si mi hija#  es feliz, no puedo#  quejarme demasiado.
 * Las minas siempre están#  abiertas a los visitantes#  si se llama con tiempo.
 * ¡Me gustaría verte de#  nuevo allí pronto!
 * ¡Me encanta este lugar!
@@ -20337,7 +20337,7 @@ attack_stage
 * Deberías seguir.#  No querrás perderte#  tu próxima misión.
 flash
 * ¡Mira eso! Si no es nuestro#  recluta fresco.
-* ¿Cómo te va niño, estás#  dando a los shufflers un#  buen nombre por aquí?
+* ¿Cómo te va niño, estás#  dando a los Shufflers un#  buen nombre por aquí?
 * Ya sabes, es difícil ser un#  líder de pandilla de#  renombre mundial.
 * Tengo que correr por el#  Subsuelo de vez en cuando.
 * Asegúrate de que estamos#  bien representados, ¿sabes?
@@ -20371,7 +20371,7 @@ flash
 * Quiero seguir adelante una#  vez que todo esto termine.
 * Ya sabes, conseguir un trabajo#  honesto y mudarme a un#  lugar más... normal.
 * Arco de redención del#  vengativo Virgil, ¡allá vamos!
-* Dejadme en paz. Ya he#  tenido SUFICIENTE de#  este pueblo.
+* Dejenme en paz. Ya he#  tenido SUFICIENTE con#  este pueblo.
 * Lo juro, nadie aquí#  realmente me entiende. 
 * No, no COMPRENDEN el#  nivel en el que estoy.
 * Puedo mirar fijamente a#  alguien y sentirá#  verdadero miedo.
@@ -20379,7 +20379,7 @@ flash
 * "Si te crees tan fuerte,#  ¿por qué no lo#  demuestras?", dijo.
 * De acuerdo, sí, quizás juzgué#  mal lo fuerte que es un#  gancho en la mejilla.
 * Sí, tal vez debería haber#  contratado a alguien más pequeño,#  pero es parte de mi plan.
-* Ni siquiera estaba usando# toda mi potencia... 
+* Ni siquiera estaba usando#  toda mi potencia... 
 * Gran tipo rojo... y su#  tonto, estúpido,#  sombrerito...
 * Créeme, si hubiera dado el#  primer golpe las cosas habrían#  acabado de forma muy diferente.
 * Has tenido suerte...
@@ -20542,8 +20542,8 @@ starlo_x_original
 * Jeje... je...#  ¡seguro que me#  atrapaste!
 * Eso no fue muy gracioso,#  Edward.
                           #  Edward 
-* Le aseguro que es un#  placer estar con#  nosotros.
-* Nada que no puedas#  manejar, estoy seguro.
+* Les aseguro que es un#  placer estar con#  nosotros.
+* Nada que no puedas#  manejar, estoy segura.
 * ¿Por qué insisten en#  espantar a todos los#  monstruos que vemos?
 * Al menos Mooch nunca#  sobrepasa sus límites.
            Mooch                              
@@ -20583,7 +20583,7 @@ starlo_x_original
 * Bueno... No diré#  que no...
 * ¡Lo sabía!
 * ¡No tengo ninguna duda!
-* ¡Que este niño es un#  humano real, vivo#  y auténtico!
+* ¡Que éste niño es un#  humano real, vivo#  y auténtico!
 * Lo siento por esto.
 * ¡Tengo que aprovechar#  esta oportunidad#  única en la vida!
 * Ed, tráeme a ese niño.
@@ -20684,14 +20684,14 @@ actor_ace
 * Tienes razón, Ed.
 * ¿Qué otra misión#  sería que la que#  nos saltamos antes?
 * ¡Prepárate, Clover!
-* ¡Ha llegado la hora#  de la dualidad!
+* ¡Ha llegado la hora#  del dualo!
 * Querrás decir#  "duelo".
 * Eso es lo que he dicho.
-* No, lo pronunciaste con#  un sonido "UA"#  en lugar de "OO".
+* No, lo pronunciaste con#  un sonido "UA"#  en lugar de "UE".
 * Jefe, ¿te has estado#  saltando la clase de#  Gramática Vaquera?
-* Dualidad, duelo, ¿a#  quién le importa?#  Tomate, papa, todo eso.
+* Dual, duelo, ¿a#  quién le importa?#  Tomate, papa, todo eso.
 * Tienen que dejar#  de interrumpirme tan#  seguido.
-* Altera mi zen fronterizo.
+* Altera mi estado zen.
 * ¿Dónde estaba?
 * Oh sí, es hora del#  d...
 * Participar en una#  competición de tiro#  cronómetrada.
@@ -20894,7 +20894,7 @@ actor_train
 * ¿Qué ocurre?
 * ¡Parece que mi#  pandilla ya no me#  respeta!
 * No es eso.
-* Solo queremos que lo#  bajes un poco.
+* Solo queremos que le#  bajes un poco.
 * No puedes tirarnos a#  nosotros por este#  asunto de los humanos.
 * Eso no es lo que hacen#  los amigos, Star.
 * Sé de qué se trata#  todo esto...
@@ -20970,11 +20970,11 @@ music
 * ¿Qué demonios haces#  trayendo a un humano#  aquí?
 * (¡Ceroba, cállate!)
 * Ahora sé lo que#  están pensando.
-* ¡Pero créeme, Clover#  no es un novato!
+* ¡Pero créanme, Clover#  no es un novato!
 * Sabe lo que hace.#  ¡Mira ese sombrero!
 crowd_animate
 * En realidad, esto#  podría ser divertido.
-* ¡Dina! ¡Dame!
+* ¡Dina! ¡Dame una!
 * Muy bien, ¡basta de#  gritar desde el público!
 * Damas y#  caballeros, como dijo#  Ceroba...
 * Clover es#  un HUMANO.
@@ -20985,7 +20985,7 @@ crowd_animate
 * Soy un poco experto en#  humanos, por si no#  lo sabían.
 * Genial, aquí vamos.
 * ¡Allá vamos!
-* ¿Sabías que los#  humanos usan monstruos#  para transportarse?
+* ¿Sabían que los#  humanos usan monstruos#  para transportarse?
 * ¡Es verdad!
 * ¡Grandes monstruos#  de cuatro patas!
 * ¡Les ponen un#  asiento encima y todo!
@@ -21006,7 +21006,7 @@ crowd_animate
 * Finge que nunca#  dije nada.
 * ¿Ven?
 * ¡Todos son a prueba#  de fuego!
-* ¿Sabías que--
+* ¿Sabían que--
 * Mira, Star, no#  necesitas seguir#  con esto.
 * ...porque todo es#  verdad. Cada palabra.
 * ¡Ja! ¡Lo sabía!
@@ -21138,7 +21138,7 @@ blackjack_npc
 * Aw, vamos, compañero.
 * ¡Ni siquiera sé lo que#  es un "chicle"!
 * ¡Y esas últimas#  transacciones fueron#  hace años!
-* ¡Soy un monstruo nuevo!
+* ¡Soy un monstruo#  renovado!
 * ¡Perdiste uno de mis#  revólveres premium#  la semana pasada!
 * Jugueteando en tu#  tormenta de arena#  y todo eso.
 * Mira, te prometo que#  este es un escenario#  diferente, Jack.
@@ -21157,7 +21157,7 @@ blackjack_npc
 * Espera aquí, Clover.
 * Dicho y hecho.
 * ¿Puedo tener un#  yeehaw?
-* Bien, Movámonos.
+* Bien, vámonos.
 * ¡Veamos qué tienes!
 * Toma esta fiel pistola#  como un regalo de#  mi parte.
 * (¡Obtuviste un Revólver#  Salvaje!)
@@ -21240,13 +21240,13 @@ wind_sound
 * (La bodega está cerrada. Debe#  ser donde se almacena#  la cosecha.)
 * (Intentas encender la#  válvula,  pero la manivela#  no se mueve.)
 * (Una bomba de#  agua.)
-* ¡Bienvenido a la Granja#  lado soleado!
+* ¡Bienvenido a la Granja#  del lado soleado!
 * No es mucho, pero lo#  llamamos hogar.
 * Me llamo Salomón.
 * Debes ser del pueblo de#  Starlo, ¿eh?
 * Tengo sentimientos encontrados#  al respecto, si te#  soy sincero.
 * El chico rara vez habla con#  nosotros, es una pena.
-* Probablemente piense que#  odiamos sus decisiones pero,#  pero eso no es cierto.
+* Probablemente piense que#  odiamos sus decisiones,#  pero eso no es cierto.
 * Gracias a él, nuestra granja#  siguió funcionando durante#  la sequía.
 * Su pequeño pueblo atrajo#  monstruos a esta zona después#  de que la mayoría se marchara.
 * Creo que en el fondo, #  salvar la granja era su#  verdadera motivación, creo.
@@ -24748,7 +24748,7 @@ Al final... no somos#más que bandidos.
 No... ¡no puede#ser!
 ¿Superado por#un ayudante? Tsk.
 Al menos ahora es#un enfrentamiento#justo.
-¡Hora de una#verdadera dualidad!
+¡Hora de un#verdadero dualo!
 ¡Quédate quieto!
 ¡No quiero#golpear mi#lazo!
 Una... 
