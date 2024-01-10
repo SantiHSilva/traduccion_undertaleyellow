@@ -3400,7 +3400,7 @@ scr_battle_core_directory_flavor_text_enemy_1_special
 * Axis está sientendo algo...
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_special_2
 scr_battle_core_directory_flavor_text_enemy_1_special_2
-* Martlet está curando sus heridas.
+* Martlet cura sus heridas.
 * ¡El sentimiento crece!
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_special_3
 scr_battle_core_directory_flavor_text_enemy_1_special_3
@@ -3527,7 +3527,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_1
 * Trihecta parece estar#  presionando los botones#  de otro.
 * Tri se preocupa por los golpes#  y de los moretones#  de los demas.
 * Todo huele a semillas#  de ave con un toque#  de vainilla y naranja.
-* Martlet busca su#  guía de primeros#  auxilios.
+* Martlet busca su guía de#  primeros auxilios.
 * Martlet marca el paso.
 * Martlet mira paranoicamente#  a su alrededor.
 * Dunebud se está poniendo#  nervioso.
@@ -3624,7 +3624,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * Frostermit está haciendo#  un crusta-shuffle.
 * Trihecta está considerando# comprarse una gabardina#  larga.
 * Martlet intenta adoptar una pose#  que parezca profesional#  e imponente.
-* Martlet está conteniendo las#  lágrimas.
+* Martlet está conteniendo sus#  lágrimas.
 * Huele a castillo de arena.
 * Cactony te lanza una mirada#  vacía.
 * Se oye un ruido metálico#  mientras Sir Slither se#  sacude dentro de su olla.
@@ -11405,22 +11405,22 @@ chujin
 * Eh... al fin cedí#  ante la presión social#  y...
 * ...Conseguí un trabajo.
 * ¡Qué buenas noticias!
-* Je, yo no lo veo# de ese modo...
+* Je, yo no lo veo#  de ese modo...
 * Bueno, en algún#  momento tenías#  que hacer algo.
 * ¡Lo séeee, lo sé!
 * ¿Cuál es el trabajo?
-* Bueno, quería un#  trabajo donde pudiera#  construir cosas así que...
+* Bueno, quería trabajar#  donde pueda construir#  cosas así que...
 * Me uní a la Guardia Real.
 * La...
 * Martlet.
 * Debe haber un mejor#  trabajo allí fuera.
 * ¿Qué tiene de malo la#  Guardia Real?
-* Además de hacer puzzles,#  todo lo que hacen es sentarse#  todo el día.
+* Además de hacer puzzles,#  todo lo que hacen es#  sentarse todo el día.
 * ¡Prácticamente hecho a#  mi medida!
 * No es tan simple.
 * En raras ocasiones,#  los Guardias tienen que#  hacer su trabajo.
 * Su VERDADERO trabajo.
-* Hablas de los humanos,#  verdad?
+* Hablas de los humanos,#  ¿verdad?
 * Lo sé.
 * Pero vamos.
 * ¡Debe haber como, un 0.1#  de probabilidad de#  encontrarme un humano!
@@ -11434,7 +11434,7 @@ chujin
 * Seguramente no TODOS#  serán malos... ¿cierto?
 * ¿Has escuchado sobre#  el ataque a Snowdin?
 * Seh...
-* Bueno... yo lo atestigüé.
+* Bueno... yo lo#  presencié.
 * Uno de los días más#  lúgubres de mi vida.  
 * Y los veteranos de#  guerra...#  sus historias...
 * Debe haber sido diez#  veces peor.
@@ -11444,7 +11444,7 @@ noloop_message
 * Créeme.
 * Si te hace sentir#  mejor...
 * No me pusieron en ningún#  lugar conflictivo.
-* Bueno, de cierto modo#  modo podrías decir#  que sí pero...
+* Bueno, de cierto modo#  podrías decir que#  sí, pero...
 * Es solo labor de#  Laboratorio.
 * ¿Vigilar la gran#  fortaleza de la#  Científica Real?
 * Seh, eso es todo.
@@ -11627,7 +11627,7 @@ creador.
 No pierdes el#tiempo, ¿eh?
 Sabes...
 Toda mi vida...
-Toda mi vida,#Me enseñaron#que los humanos son#el enemigo.
+Toda mi vida,#me enseñaron#que los humanos son#el enemigo.
 Tenía la verdad en#frente mío pero decidí#mirar al otro lado.
 Intenté ver lo#bueno - quería#creer que no#era verdad. 
 Pero tú...
@@ -12801,9 +12801,9 @@ T6 Quote Ace
 T9 Quote Ace
 alphys
 * ¿A dónde vas con tanto apuro?
-* ¿O-Oh, yo?
+* O-Oh, ¿yo?
 * Emm...
-* Aún estoy esperando el#  presupuesto para la seguridad#  así que por mientras...
+* Aún estoy esperando el#  presupuesto de seguridad#  así que por mientras...
 * ...Decidí mover las#  cámaras del laboratorio#  a Waterfall.
 * ¿Waterfall?
 * ¡Y Snowdin!
@@ -13063,7 +13063,7 @@ new_seed
 Es extraño...
 No necesitaste un#motivo para matar#a los otros...
 Je.
-Apuesto a te sientes#r-realmente dotado#ahora mismo.
+Apuesto a que te#sientes#r-realmente dotado#ahora mismo.
 Pero lo único que has#logrado...
 ...es hacerme enojar#incluso más.
 Solo hay un modo#en que esto termina.
@@ -13547,7 +13547,7 @@ darken_current
 * Esperanzas... Sueños...
 * O al menos... lo era.
 * Aunque batallaron#  con valentía...
-* Nadie pudo detenerte,#  ¿Me equivoco?
+* Nadie pudo detenerte,#  ¿me equivoco?
 * Estaba esperando que#  este día no llegara.
 * La represalia era#  inevitable pero...
 * Pensaba que podíamos#  manejarlo como siempre#  lo hemos hecho.
@@ -13557,8 +13557,8 @@ darken_current
 * El apuro de los monstruos#  no es algo de lo#  que me enorgullezca.
 * Pero no es un conflicto#  que hayamos iniciado.
 * Sin embargo, una cosa#  es segura.
-* Tu violencia ha#  asegurado que esta guerra#  nunca termine.
-* Muchos más, de ambas#  especies, fallecerán#  debido a este día.
+* Tu violencia ha#  asegurado que esta#  guerra nunca termine.
+* Muchos más, de ambas#  especies, morirán#  debido a este día.
 * Tal es el camino que#  elegiste.
 * Incluso si hubieras#  elegido algo diferente...
 * La desafortunada verdad#  del asunto es que...
@@ -14624,7 +14624,7 @@ song_pos
 * Dos almas perdidas decidiendo#  quien vive o muere...
 * La mayor parte del tiempo eras#  insufrible pero cuando te#  rendiste...
 * ...Te rendiste ante tus#  verdaderos impulsos violentos.#  Eso fue lo mejor.
-* Ahí fue cuando supe que tenías#  lo suficiente para pelear contra#  el Rey.
+* Ahí fue cuando supe que tenías#  lo suficiente para pelear#  contra el Rey.
 * Pero eso fue hace mucho atrás,#  jaja. ¡Solo mírate ahora!
 * ¡Apenas eres reconocible!
 * Sabes, algunos dicen que el#  color amarillo representa#  justicia.
@@ -14644,7 +14644,7 @@ song_pos
 * Pero por ahora... esto es solo#  el comienzo. 
 * Así que por favor, resiste.
 * Entretengámonos por un rato#  más.
-* Después de todo, en este mundo...
+* Después de todo, en este#  mundo...
  ES MATAR O MORIR
 fight_end
 * Oye.
@@ -15142,28 +15142,28 @@ Espero que tú
 ¡ALGUIEN!
 A Y U D A . . .
 Perfecto...
-Esto es SÓLO#perfecto.
-¿¡Tienes idea de#cuanta atención pondrá#esto en nosotros!?
-¡Todo el Subsuelo va a#levantar sus defensas#ahora!
-¡Apuesto a que el Castillo#está sellado#gracias a tu#imprudencia!
+Esto es SIMPLEMENTE#perfecto.
+¿¡Tienes idea de#cuánta atención pondrá#esto en nosotros!?
+¡Todo el Subsuelo va a#levantar sus defensas#en estos momentos!
+¡Apuesto a que el#Castillo está sellado#gracias a tu#imprudencia!
 No... Esto no#funcionará.
-Vas a hacer esto bien,#¿Entiendes?
-¡Podrás tener una #"brillante nueva habilidad!#pero eso no#cambia nada!
+Vas a hacer lo#correcto,#¿entiendes?
+¡Podrás tener una #"brillante nueva#habilidad! pero eso#no cambia nada!
 ¡Ve al Castillo y#destruye sus paredes!#¡¡Hazlo pedazos!!
 ¡¡¡Haz lo necesario#para conseguirme#mis ALMAs!!!
 Para...
-Hey...
-Me refería a "tus ALMAs."#¡Sabes eso!
-¡Idiota! ¿Qué crees#que estás#haciendo?
+Oye...
+Me refería a#"TUS ALMAS."#¡Tu sabes eso!
+¡Idiota! ¿Qué crees#que estás haciendo?
 ¡Bien!
 Parece que este es#otro callejón sin#salida.
 ¿Qué es esto?
 ¿¡Qué está pasando!?
 ¡Serás-!
-¿¡Vas a apuñalarme a#MÍ en la esapalda!?
-¡Soy la única razón#por la que siquiera#saliste de las#Ruinas!
+¿¡Me vas a apuñalar#por la espalda!?
+¡Soy la única razón#por la que pudiste#salir de las#Ruinas!
 ¡Tu mejor amigo!#¡Tu único amigo!
-¿Bueno, sabes qué?#¡Nunca he estado por#encima de las#traiciones!
+Bueno, ¿sabes qué?#¡Nunca he estado por#encima de las#traiciones!
 Ja ja...
 ¡¡¡¡¡JAJAJAJAJA!!!!!
 TE ODIO.
@@ -15172,13 +15172,13 @@ Y siempre ha sido de#ese modo.
 Las únicas veces#que sentí alegría fue#cuando pude verte#morir.
 Cientos de muertes.#Horror sin fin.#Gozo sin fin.
 Cuando te miro...
-No veo un "valiente#héroe" o lo que sea que#intentas ser.
+No veo un "valiente#héroe" o lo que sea#que intentas ser.
 Todo lo que veo son#esos queridos#recuerdos.
 Reproduciéndose una,#y otra, y otra,#y otra vez...
 ¿Y sabes cuál es#la mejor parte?
-Incluso si me matas,# sé cómo esto#termina.
+Incluso si me matas,#sé cómo esto#termina.
 Nunca hubo escape.
-Ese Castillo bien#podría ser un ataúd#porque ya estás#muerto.
+Ese Castillo bien#podría ser un ataúd,#porque ya estás#MUERTO.
 ¡Ja ja!#¿¿¿Me escuchas???
 ¡ESTÁS MUERTO!
 ¡¡¡JA JA JA!!!
@@ -17898,7 +17898,7 @@ ballRollSpeed
 * Ese debería ser el objetivo#  de todos en la vida.
 * Estaré aquí un tiempo.
 * ¿Conoces alguna buena#  canción de campamento?
-* (Por otro lado.)
+* (Por el otro lado.)
 * Oye, ¿has visto a esos#  vagabundos de ahí fuera?
 * No paran de decirme que son#  una banda muy conocida.
 * Pero nunca había oído hablar#  de ellos.
@@ -25229,7 +25229,7 @@ Check 3
 * ¡No detengas los#  esfuerzos para#  liberarnos!
 * Je, no puedo creer que pensé#  que este intento sería distinto.
 * No es sorpresa que hagamos#  un buen equipo.
-* De alguna manera te pareces mucho#  a mi.
+* De alguna manera te pareces#  mucho a mi.
 * Muy terco para sentarse y#  aceptar tu situación.
 * Muy... determinado.
 * Eres tan molesto.
@@ -25535,7 +25535,7 @@ Pareces estar#e-en apuros, je.
 ¡Lo siento, pero#no te la pondré#fácil!
 ¿Q-Qué sucede?
 El s-suero,#está...
-¡N-No! ¡Puedo#aguantarlo!
+¡N-No! ¡Yo puedo#aguantarlo!
 ¡¡No puedo#detenerme!!
 ¡¡¡VOY A GANAR#ESTA BATALLA!!!
 ¿¡Por qué se está#desvaneciendo!? 
