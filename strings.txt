@@ -1372,7 +1372,7 @@ scr_start_enemy_attacking_axis
 * Intentas acariaciar a Dunebud.#* Se escabullen.
 * Le das a Dunebud unas#  caricias cariñosas.#* Te acaricia la mano.
 Action 1 Sparing
-* Le das unas palmaditas cautelosas#  en la cima de Dunebud.#* Parecen confusos.
+* Le das unas palmaditas#  cautelosas a Dunebud.#* Parecen confusos.
 gml_Script_scr_dialogue_battle_action_selected_action_1_dunebud_b
 scr_dialogue_battle_action_selected_action_1_dunebud_b
 gml_Script_cutscene_dialogue_nogui
@@ -2563,7 +2563,7 @@ gml_Script_scr_save_flowey_dunes
 * ¿Cómo pueden seguir#  atacándote tan#  voluntariamente?	
 * ¡No podemos tener#  eso! ¡No!
 * No veo muchos#  más enemigos rondando.
-* Cuando te encuentres#  con el resto, ¡muéstrales#  quién manda!
+* Cuando te encuentres con#  el resto, ¡muéstrales#  quién manda!
 * Eres... guau,#  jaja. Talentoso,#  ¡seguro!
 * ¡Destruiste este#  páramo!
 * ¡Este lugar seguramente#  no era lo demasiado#  grande para los dos!
@@ -12683,7 +12683,7 @@ actor_axis
 * L-La Guardia Real te#  está buscando, que#  quede claro.
 * Tienes suerte de que#  te encontrara. ¡Así que,#  por favor, escucha!
 * Me he pasado la vida#  en el escepticismo.
-* Anhelando la paz final#  entre nuestras clases.
+* Anhelando la paz final#  entre nuestras razas.
 * Si puedes creerlo,#  veo piedad en ti. 
 * De algún modo, todavía#  tengo esperanza de que#  puedas darle la vuelta.
 * No puedo detenerte yo#  sola, ya lo intenté...
@@ -14878,7 +14878,7 @@ Oh, esto y#aquello.#Casualidades.#Ya sabes...
 ¡Sabía que verías#las cosas a mi#manera, humano!
 ¡Vamos, amigo,#no me dejes#solo!
 ¡Bien! ¡Pero#te estás#perdiendo# MUCHO!
-¡Disfruta del#agujero del tamaño#de una serpiente#en tu corazón!
+¡Disfruta del#agujero del#tamaño de una#serpiente#en tu corazón!
 ¿Ayudar a un#amigo a curarse,#eh?
 Cálmate,#amigo.#Podemos arreglar#algo...
 ¡Sé justo lo que#necesitas!
