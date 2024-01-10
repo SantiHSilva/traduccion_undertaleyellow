@@ -2078,7 +2078,7 @@ info
 * (Un mapa hecho a mano.)
 * (Se ve más colorido que#  la Snowdin real.)
 * (Un pico resistente.)
-* "Munición helada" - Daño 6#* (Cubos de hielo con#  forma conveniente.)
+* "Munición helada" - AT 6#* (Cubos de hielo con#  forma conveniente.)
 * (No parecen derretirse.)
 * (¡Qué atentos por su parte!)
 * "Munición Café" - Arma AT 4
