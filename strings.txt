@@ -1981,8 +1981,8 @@ msg_number
 * ¡Has ganado 
  PP!
 * PP al máximo.
- SP!
-* SP al máximo.
+ PA!
+* PA al máximo.
 * Te vas a curar por 
 #  turnos!
 * RP al máximo.
@@ -2029,35 +2029,35 @@ info
 * (Ideal para prevenir daño o#  destrucción de un frágil#  estómago.)
 * "Frutos Secos"#  - Cura 13 PV"
 * (Seleccionas absolutamente todo#  menos las pasas.)
-* "Té helado" - Cura 20 PV"#* (Un vaso de dulce y suave té.)
+* "Té helado" - Cura 20 PV#* (Un vaso de dulce y suave té.)
 * (Se puede ver un sticker de Mo#  sonriendo en la esquina del#  envase.)
- "Té verde" - Cura 21 PV"#* (Té helado pero con colorante#  verde. +1 PV por estilo.)
- "Té de mar" - Cura 10 PV"#* (Un té reluciente#  para tu sistema.)
+ "Té verde" - Cura 21 PV#* (Té helado pero con colorante#  verde. +1 PV por estilo.)
+ "Té de mar" - Cura 10 PV#* (Un té reluciente#  para tu sistema.)
 * (Un sticker que dice "¡Un trato#  justo!" esta pegado en el#  envase.)
- "Pastel de frutas" - Cura 25 PV"#* (Pastel un poco seco#  con algunas gemas adentro.)
- "Rosquilla Araña" - Cura 12 PV"#* (Rosquilla hecha con Cidra#  Araña en la masa.)
- "Aguhelada" - Cura 15 PV#* (La precuele del té helado.)
+ "Pastel de frutas" - Cura 25 PV#* (Pastel un poco seco#  con algunas gemas adentro.)
+ "Rosquilla Araña" - Cura 12 PV#* (Rosquilla hecha con Cidra#  Araña en la masa.)
+ "Aguhelada" - Cura 15 PV#* (La precuela del té helado.)
  "Latte del Oasis" - Cura 25 PV#* (Café, pero más elegante.)
  "Galleta Can." - Cura 35 PV#* (Una estrella del#  buen hornear..)
- "Cerveza Raíz" - Cura 18 PV"#* (¡Para toda la familia!)
- "Pólvora" - Cura ??? PV"#* (La especia prohibida.)
- "Ensalada Musgo" - Cura 17 PV"#* (Se ve como si fuera#  de otro mundo...) 
- "Patatas fritas" - Cura 14 PV"#* (Finos bastones con una#  capa de pelusa encima.)
- "Guiso de Flores" - Cura 20 PV"#* (Una taza de caldo aromático#  con guarnición floral.)
- "Granola Gravedad" - Cura 30 PV"#* ("¡El sabor es de#  otro mundo!" ...Uh huh.) 
- "H2O" - Cura 20 PV"#* (Líquido químico.)
- "Papas Fritas" - Cura 13HP"#* (Papas fritas de siempre.)
- "Carne seca" - Cura 16 PV"#* (Delicia de una tienda común.)
- "Pastel" - Cura 30 PV"#* (Un pastel de limón#  con cerezas arriba.)
- "Magdalena Floral" - Cura 50 PV"
+ "Cerveza Raíz" - Cura 18 PV#* (¡Para toda la familia!)
+ "Pólvora" - Cura ??? PV#* (La especia prohibida.)
+ "Ensalada Musgo" - Cura 17 PV#* (Se ve como si fuera#  de otro mundo...) 
+ "Patatas fritas" - Cura 14 PV#* (Finos bastones con una#  capa de pelusa encima.)
+ "Guiso de Flores" - Cura 20 PV#* (Una taza de caldo aromático#  con guarnición floral.)
+ "Granola Gravedad" - Cura 30 PV#* ("¡El sabor es de#  otro mundo!" ...Uh huh.) 
+ "H2O" - Cura 20 PV#* (Líquido químico.)
+ "Papas Fritas" - Cura 13HP#* (Papas fritas de siempre.)
+ "Carne seca" - Cura 16 PV#* (Delicia de una tienda común.)
+ "Pastel" - Cura 30 PV#* (Un pastel de limón#  con cerezas arriba.)
+ "Magdalena Floral" - Cura 50 PV
 * (Hermoso pastel coronado#  con una flor dorada#  de glaseado.)
-* "Perro Caliente" - Cura 20 PV"#* (Una comida representativa#  de tu insulto habitual.)
-* "Caramelo Monst." - Cura 10 PV"
+* "Perro Caliente" - Cura 20 PV#* (Una comida representativa#  de tu insulto habitual.)
+* "Caramelo Monst." - Cura 10 PV
 * (El dulce olor a caramelo#  sale por el envoltorio.)
- "Caramelo Monstruo+" - Cura 15 PV"#* (Una delicia saborizada#  doblemente con azúcar.)
- "Pudín C-B" - Cura 30 PV"#* (Hecho con canela fresca#  y caramelo.)
- "Sopa de Maíz" - Cura 15 PV"#* (Restos de hace semanas#  del refri de Ceroba.)
- "Hamb. Feisty" - Cura 30 PV"
+ "Caramelo Monstruo+" - Cura 15 PV#* (Una delicia saborizada#  doblemente con azúcar.)
+ "Pudín C-B" - Cura 30 PV#* (Hecho con canela fresca#  y caramelo.)
+ "Sopa de Maíz" - Cura 15 PV#* (Restos de hace semanas#  del refri de Ceroba.)
+ "Hamb. Feisty" - Cura 30 PV
 * (¡Una pequeña hamburguesa#  con gran sabor! ¡A solo#  30 de oro en la Taberna!)
 * (...Dice la publicidad#  impresa en el envoltorio.)
 * "Broche Honeydew" - Armad. DF 4#* (Un pin promocional del#  Honeydew Resort de Snowdin.)
@@ -6029,7 +6029,7 @@ Cura
  "Cerveza de Raíz" - Cura 25 PV"#* (¡Para toda la familia!)
 Grants 
  PP#* (Te hace invulnerable por#  un par de golpes.)
- SP
+ PA
 * (Recorta el peso de tu alma,#  aumentando tu velocidad por#  tres turnos del rival.)
 Cura 15 PV por 3 turnos.
 El primer bocado quita 5 PV.
@@ -9668,7 +9668,7 @@ Una oportunidad.
 NO PENS3 qUE LoS#ROBOTS PODR1AN#CAN5aRsE.
 PERO AQU1 ESToY.#[extremadamente] CANSADO.
 TODAVIA_ SigO,. .
-"hey axis por favor#haz otro#ataque genial."
+"oye axis por favor#haz otro#ataque genial."
 OK PeRO SOLO#PORQU3 LO PR3GUNTASTE#AMabLEMENTE.
 OK.
 OK. .. .
@@ -11536,7 +11536,7 @@ subscene
 * Sabes quién es, ¿verdad?
 * Es tu amigo
 * ...Mo.
-* Hey, amigo.. ¿Qué pasa con el#  fierro?
+* Oye, amigo.. ¿Qué pasa con el#  fierro?
 * Pensé que teníamos una#  conexión,  ¿Sabes?
 * Como un tipo de asociación#  vagamente ilegal!  
 * No crees que esto aquí para#  apuñalarte en la#  espalda, ¿cierto?
@@ -12578,7 +12578,7 @@ martlet_fly_y_target_bottom
 y_diff
 y_diff_current
 depth_start
-* ¡Oh, hey!
+* ¡Oh, oye!
 * El elevador a Nuevo Hogar#  parece estar libre en este#  momento.
 * Usaría la oportunidad para#  perseguir a sus dos amigos#  que buscan.
 * Ese es el plan.#  Gracias.
@@ -13300,7 +13300,7 @@ Debes tener#lugares a,#los que ir,#¿verdad?
 El Castillo...#La barrera.
 Hice todo lo#posible para#entretener...
 ...para que nadie#se preocupara de#estar aquí abajo.
-De todos modos, pasaré#  de la Guardia Real y#  te defenderé ante ASGORE.
+De todos modos, pasaré#de la Guardia Real y#te defenderé ante ASGORE.
 Recuerda tu misión REAL, Clover.
 ASGORE necesita siete#ALMAS humanas para#romper la barrera.
 Qué mundo sería#si tuviera dos#amigos enteros.
@@ -13627,7 +13627,7 @@ new_spray
 Party Popper
 * El elemento sorpresa.
 trapdoor_spawn_particles
-* Oh, hey.
+* Oh, oye.
 * Sólo estoy eh, admirando#  la vista.
 * Estoy sólo en mi camino de#  hablar con el Capataz. Sep.
 * Las rocas dejaron de caer hace#  un rato.
@@ -14522,7 +14522,7 @@ image_speed_counter
 * Te daría una flor pero hay#  bajo suministro de ellas#  ahora mismo.
 * ¡Espero que una sonrisa#  amistosa sea suficiente!
 * Honestamente, las Dunas no#  son el mejor lugar par mis#  hermanas y yo.
-* Pero siento una obligación de#  estar aquí. Ya sabes, para ayudar#  que crezca el ecosistema.
+* Pero siento una obligación de#  estar aquí. Ya sabes, ayudar a#  que crezca el ecosistema.
 * ¡Algún día, regresaremos#  este lugar a su antigua#  gloria! ¡Sí!
 * He escuchado rumores de un#  invernadero abandonado LLENO#  de flores.
 * ¡No sé cómo o por qué tal#  cosa existiría pero realmente#  quiero verlo!
@@ -15023,7 +15023,7 @@ Futuro
 * ¡Haz por los demás#  lo que hiciste por mí!
 Nerosensei
 StillLiam
-Additional Spritework:
+Otros Spritework:
 ¡Y tú!
 No Especial - No Gracias:
 Los Shufflers
@@ -16092,7 +16092,7 @@ H/hora de;?#Una paUsaA#coMmercial. ... .
 Te... ¿te aburro?#
 Hey, ¡amigo!#¡Sigo aquí!
 ¡Justo lo#que necesitaba!
-Whoa, ¡hey!#¡Sintonizo algo!
+Wow, ¡hey!#¡Sintonizo algo!
 ¡Son buenos en#lo suyo!
 Oye ¡no arruinesn#mi circuito#eléctrico!
 ¡No toques eso!#En serio, voy#a lastimarte.
@@ -16182,9 +16182,9 @@ update_talk_val
 * No me gusta mucho el#  ambiente de este sitio.
 * Estoy lista para irme#  cuando tú lo estés.
 * Qué vista tan#  impresionante...
-* ¿No es fascinante lo#  grande que es el Subsuelo?    
+* ¿No es fascinante lo#  grande que es el#  Subsuelo?    
 * A veces parece#  demasiado grande.
-* Puedo parecer audaz#  pero estoy un poco#  inquieta ahora mismo, jeje.
+* Puedo parecer audaz#  pero estoy un poco#  inquieta ahora mismo.
 * Un poco hogareño...#  Le gusta quedarse#  donde es familiar.
 * Centrarme en mis#  aficiones y trabajo,#  ya sabes...   
 * ¡Pero estoy#  trabajando en eso!
@@ -16196,8 +16196,8 @@ update_talk_val
 * ¡Aún no me he#  acostumbrado a las# obligaciones de un adulto!    
 * Dame un descanso,#  ¡despertarse antes del#  mediodía apesta!
 * Creo que tengo suerte#  de que mi trabajo#  sea algo que me guste.    
-* Podría estar trabajando#  aquí en las Minas o incluso#  peor... ¡minorista!    
-* Vaso medio lleno,# Clover.#  Vaso medio lleno.
+* Podría estar trabajando#  aquí en las Minas o aún#  peor... ¡minorista!    
+* Vaso medio lleno,#  Clover.#  Vaso medio lleno.
 * ¡Dios mío! ¡Mira todas#  las piedras preciosas#  en las paredes!
 * Puede que tenga que#  escabullirme un poco#  de aquí.
 * ¡No me delates!
@@ -16309,7 +16309,7 @@ gml_Script_update_talk_val_gml_Object_obj_ceroba_follower_Other_10
 * ¿Saludar trabajadores#  cuando entraban?
 * No puedo saberlo ya que#  es mi primera vez aquí.
 * Este lugar tenía una#  estricta política de# "no visitantes".
-* Oh hey...
+* Oh oye...
 * Esta es el área donde#  estuve a cargo#  por tres segundos.
 * Tienes suerte de#  que no dejé que se#  me suba a la cabeza.
 * Apurémonos. ¿Quién#  sabe cuánto pueda#  aguantar esta cosa?
@@ -16440,7 +16440,7 @@ Caí en un charco
 * Aunque no lo creas,#  esa exacta conversación#  pasaba cada noche.
 * Cada noche hasta que#  ya no hubo nadie para#  arroparla.
 * Aprecio que hayan puesto#  barandas aquí.
-* Obvio, estamos colgando#  sobre un pozo sin fondo#  pero hey...
+* Obvio, estamos colgando#  sobre un pozo sin fondo#  pero ey...
 * Pequeños pasos hacia#  medidas de seguridad#  básicas.
 * Cielos... toda esta#  fábrica...
 * Es tan... lamentable#  en este estado.
@@ -17445,7 +17445,7 @@ geno_snowdin
 * ¡Nuestro amor nos#  mantendrá calientes!
 * Lo siento, eso es un#  poco cliché, ¿no?
 * Bueno, te deseo lo mejor.#  No uses todos esos fósforos#  en un solo lugar.
-* (¡Recibiste algunos Matches!)
+* (¡Recibiste algunos Fósforos!)
 * La siguiente parada de#  nuestro viaje se supone#  que es Waterfall.
 * He oído que hay piedras#  brillantes en el techo.
 * Debe ser impresionante#  y romántico.
@@ -17609,12 +17609,12 @@ slurpy_solution
 * ¡Por fin!#  Me he liberado.
 * ¡No puedo agradecértelo#  lo suficiente! ¡Eres#  un samaritano maravilloso!
 * Toma, una muestra de#  mi gratitud.
-* (Obtuviste una Silver Scarf.)
+* (Obtuviste una Bufanda#  Plateada.)
 * ¡Tejido por mi tía con#  abundante pasión!
 * Que te caliente la piel#  y el ALMA, buen amigo.
 * ¡Tengo que volver a casa#  cuanto antes! ¡Mamá ya#  debe estar preocupada!
 * ¡Hasta la vista!
-* (Viertes el café caliente#  en la farola. El hielo#  empieza a derretirse.)
+* (Viertes el café tibio#  en la farola. El hielo#  empieza a derretirse.)
 * (Sacas la taza de café.)
 * Nal vez efe café waliente#  libwere ni pobre lengua.
 * (Una débil farola.)
@@ -18321,15 +18321,15 @@ battle_flag
 * ¡Eres un niño!#  ¡Nunca podría hacer eso!
 * Bien, que tal si nos#  apuramos y alcanzamos a#  los otros...
 * ¡Entonces vuelvo#  y nadie lo sabrá!
-* Yo... No tengo ni idea de#  cómo manejar esto.
+* Yo... No tengo ni idea#  de cómo manejar esto.
 * ASGORE sabría#  qué hacer.
 * Deberías ir a hablar#  con él.
-* Hay un río más adelante.#  Un bote está amarrado allí.
+* Hay un río más adelante.#  Un bote está amarrado#  allí.
 * La corriente debería#  llevarnos a Hotland.
 * Me reuniré contigo#  cuando llegues allí.
 * Mientras tanto...#  tengo trabajo que atender.
 * No estás libre de#  sospecha, Clover.
-* A menos que decidas#  ahora mismo cambiar tus#  maneras...
+* A menos que decidas#  ahora mismo cambiar tus#  acciones...
 * La Guardia Real te#  encontrará. 
 * Podría ser yo o alguien#  mucho, mucho peor.
 * Cómo se desarrolle tu#  vida a partir de este#  momento depende de ti.
@@ -18361,7 +18361,7 @@ aviator_xspd
 * Al menos, mientras#  yo he estado aquí#  no ha sido así.
 * Piensa en lo bien#  que lo pasaremos.
 * Hay una posibilidad#  de que me despidan#  por esto,
-* Y perder todo el trabajo#  de mi vida y mis#  pertenencias, pero hey,
+* Y perder todo el trabajo#  de mi vida y mis#  pertenencias, pero ey,
 * ¿Qué es la vida#  sin un poco de riesgo?
 * Entonces, ¿nos vamos?
 * ¡Espera, aguanta!
@@ -18522,7 +18522,7 @@ diff_x
 * ...los puzzles vistos#  en Snowdin.
 * Oh. Sí, yo iba a,#  como, quejarme de eso,#  o algo así.
 * Ellos en realidad, um,#  ya no aceptan mis#  peticiones de material.
-* Quería que las rocas#  fundidas fueran mucho más#  grandes. Es una pena.
+* Quería que las rocas#  fundidas fueran más#  grandes. Es una pena.
 * ¿Cómo voy a hacer un#  puzzle de calidad sin#  materiales?
 * Quiero decir...#  los conceptos eran#  buenos al menos... ¿no?
 * ¿Sabes qué?#  Sigamos adelante.
@@ -18692,7 +18692,7 @@ fadein_time
 * ¡Me identifico más con la#  opción anterior porque no#  puedo deletrear "complicado"!
 * Cuando salgas, saluda a mi#  hermano de mi parte.
 mf_sound
-* (Un hermoso Golden Cactus#  de aspecto delicioso#  te descubre.)
+* (Un hermoso Cactus Dorado#  de aspecto delicioso#  te descubre.)
 * (¡Has conseguido#  el Golden Cactus!)
 shifting_tiles
 shifting_bridge
@@ -19098,7 +19098,7 @@ scratch
 * Bueno, ¡buena suerte#  con todo!
 * ¡Gracias!
 * Finalmente descubrí#  cómo apagar estas#  máquinas.
-* Yo y North Star#  necesitamos tener#  una charla.
+* North Star y yo#  necesitamos tener#  una charla.
 * Las cosas ya iban bien#  antes, ¡pero ahora#  van aún mejor!	
 * Me alegro de que mi#  legado en este lugar#  sean recuerdos positivos.
 * ¡Alto!
@@ -19253,11 +19253,11 @@ cur_minute
 * ...Puede que tengas algo,#  amigo.
 * (Red está muy pensativa.)
 player_npc
-* ¡Ooooh! ¡Oh, hey!#  ¡Clover!
+* ¡Ooooh! ¡Oh, oye!#  ¡Clover!
 * ¿Recuerdas que te dije#  que detuve a un humano#  la semana pasada?
 * ¡Eeees ella!
 * ????????????
-* ¿Todavía crees que soy...#  tu capitán te explicó#  que no soy humana, ¿verdad?
+* Todavía crees que soy...#  tu capitán te explicó#  que no soy humana, ¿verdad?
 * Por favor, dime que#  lo hizo.
 * ¡Oh! ¡Lo siento#  mucho! Solo pensé#  que...
 * No, no, lo siento,#  es solo que...
@@ -20201,7 +20201,7 @@ Tienes razón
 * Eso es todo lo sabio que soy.#  ¡No te acostumbres!
 * Los productos de aquí son#  decentes pero digamos que#  los míos son mucho mejor.
 * ¡Nunca te conformes con lo#  fabricado en serie!
-* No puedo decirlo muy alto o#  la camarero me pegará, jaja.
+* No puedo decirlo muy alto o#  la camarera me pegará, jaja.
 * Sabes, probablemente no#  debería estar aquí.
 * Realmente debería estar#  ahorrando mi ORO cada#  vez que puedo.
 * ¡La deuda es muy agresiva!
@@ -20261,7 +20261,7 @@ anim_grow
 * Cuanto antes hagas tus#  misiones, antes#  estarás en camino.
 * ¿No eres un poco joven#  para andar por aquí?
 * No es por juzgar ni#  nada.
-* Estoy en el pueblo#  visitando a mi pequeño#  Moray.
+* Estoy en el pueblo#  visitando a mi pequeña#  Moray.
 * Mi encantadora esposa,#  Angie, dirige las#  minas mientras no estoy.
 * Aunque no estoy seguro#  de lo eficientes que#  serán mis chicos sin mí.
 * Ahh, es un riesgo que#  merece la pena correr.
@@ -24661,7 +24661,7 @@ attack_flower_beep_count
 * ¡Pero señor!
 * ...Afirmativo.
 * (¡No otra vez!)
-* Um, ¡hey chico!
+* Um, ¡oye chico!
 * ¿Por qué no vas al#  patio?
 * ¡Si!
 * ¡Anímate y haz algo#  de ejercicio!
@@ -45192,9 +45192,9 @@ Piedras
 Balas de Plata
 Balas de Vidrio
 Balas de Goma
-Pas. Esponjoso
+Pastel Espon.
 Café Hndw
-Panqueque Hndw
+Panqueque
 G.B. Oso
 Pal. Caliente
 Pal. Tibia
