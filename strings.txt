@@ -2618,7 +2618,7 @@ gml_Script_scr_save_flowey_dunes
 * ¿A qué viene#  este retraso, amigo?
 * Vaya, parece que#  mi saludo ha encontrado#  su hogar.
 * ¿Te gusta el sombrero?#  Es un disfraz.
-* Esta zona está bastante#  poblada, así que tome#  esto para estar seguro.
+* Esta zona está bastante#  poblada, así que tomé#  esto para estar seguro.
 * Que te hayas separado#  de Martlet es bastante#  afortunado pero...
 * Espero que este tipo#  Star no te retenga#  aquí mucho tiempo.
 * ¡Quizás tenga que#  intervenir si lo hace!
@@ -20089,11 +20089,11 @@ petal_dir
 * Entiendo por qué estarías#  molesto, pero puedo#  explicarlo... creo.
 * Mira, si ella es una#  guardia real, eso#  causaría problemas.
 * ¡Amenazó con denunciar#  a Star al Rey ASGORE!
-* Y una cosa llevo a otra#  y ¡el Salvaje Este#  estaria en llamas ahora!
+* Y una cosa lleva a otra#  y... ¡el Salvaje Este#  estaría en llamas ahora!
 * Bueno... tal vez.
-* Estoy seguro de que#  ASGORE lo entendería,#  pero hay otros...
+* Estoy segura de que#  ASGORE lo entendería,#  pero hay otros...
 * La jefe de la Guardia#  Real, en particular.
-* Esperemos que no hayas#  tenido un enfrentamiento#  con ella.
+* Espero que no hayas#  tenido un enfrentamiento#  con ella.
 * Quiero decir, nunca la#  he conocido. Solo he#  oído que nos parecemos.
 * ¡No se preocupe!
 * Es súper divertido#  aquí, ¡lo prometo!
@@ -20115,7 +20115,7 @@ interact_count
 * Tenía talento, pero me#  faltaba visión.
 * Le dije a esa televisión de#  una sola rueda que no#  triunfaría en la industria.
 * ¡Que IDIOTA fui!
-* Pronto gano seguidores#  ¡y explotó por#  completo!
+* Pronto ganó seguidores#  ¡y explotó por completo!
 * ...No literalmente...#  tal vez.
 * Mira, niño, te diré#  esto:
 * A veces, es como si no#  controláramos nuestras vidas.
@@ -20542,8 +20542,8 @@ starlo_x_original
 * Jeje... je...#  ¡seguro que me#  atrapaste!
 * Eso no fue muy gracioso,#  Edward.
                           #  Edward 
-* Le aseguro que es un#  placer estar con#  nosotros.
-* Nada que no puedas#  manejar, estoy seguro.
+* Les aseguro que es un#  placer estar con#  nosotros.
+* Nada que no puedas#  manejar, estoy segura.
 * ¿Por qué insisten en#  espantar a todos los#  monstruos que vemos?
 * Al menos Mooch nunca#  sobrepasa sus límites.
            Mooch                              
@@ -20583,7 +20583,7 @@ starlo_x_original
 * Bueno... No diré#  que no...
 * ¡Lo sabía!
 * ¡No tengo ninguna duda!
-* ¡Que este niño es un#  humano real, vivo#  y auténtico!
+* ¡Que éste niño es un#  humano real, vivo#  y auténtico!
 * Lo siento por esto.
 * ¡Tengo que aprovechar#  esta oportunidad#  única en la vida!
 * Ed, tráeme a ese niño.
@@ -20970,11 +20970,11 @@ music
 * ¿Qué demonios haces#  trayendo a un humano#  aquí?
 * (¡Ceroba, cállate!)
 * Ahora sé lo que#  están pensando.
-* ¡Pero créeme, Clover#  no es un novato!
+* ¡Pero créanme, Clover#  no es un novato!
 * Sabe lo que hace.#  ¡Mira ese sombrero!
 crowd_animate
 * En realidad, esto#  podría ser divertido.
-* ¡Dina! ¡Dame!
+* ¡Dina! ¡Dame una!
 * Muy bien, ¡basta de#  gritar desde el público!
 * Damas y#  caballeros, como dijo#  Ceroba...
 * Clover es#  un HUMANO.
@@ -20985,7 +20985,7 @@ crowd_animate
 * Soy un poco experto en#  humanos, por si no#  lo sabían.
 * Genial, aquí vamos.
 * ¡Allá vamos!
-* ¿Sabías que los#  humanos usan monstruos#  para transportarse?
+* ¿Sabían que los#  humanos usan monstruos#  para transportarse?
 * ¡Es verdad!
 * ¡Grandes monstruos#  de cuatro patas!
 * ¡Les ponen un#  asiento encima y todo!
@@ -21006,7 +21006,7 @@ crowd_animate
 * Finge que nunca#  dije nada.
 * ¿Ven?
 * ¡Todos son a prueba#  de fuego!
-* ¿Sabías que--
+* ¿Sabían que--
 * Mira, Star, no#  necesitas seguir#  con esto.
 * ...porque todo es#  verdad. Cada palabra.
 * ¡Ja! ¡Lo sabía!
