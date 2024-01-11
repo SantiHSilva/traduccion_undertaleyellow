@@ -616,7 +616,7 @@ rm_steamworks_34
 * ¡ASGORE está muy#  cerca!
 * ¡Vamos a movernos,#  Clover!
 scr_save_flowey_steamworks
-* Extiendes la mano a Dunebud#  pero se echan atrás.
+* Extiendes la mano a Dunebud#  pero se echa atrás.
 * Agitas a Dunebud de un lado#  a otro.#* Se ríe de ti.
 gml_Script_scr_dialogue_battle_action_selected_action_2_dunebud_b
 scr_dialogue_battle_action_selected_action_2_dunebud_b
@@ -1369,10 +1369,10 @@ gml_Script_scr_dialogue_battle_action_selected_action_3_axis_geno
 scr_dialogue_battle_action_selected_action_3_axis_geno
 gml_Script_scr_start_enemy_attacking_axis
 scr_start_enemy_attacking_axis
-* Intentas acariaciar a Dunebud.#* Se escabullen.
+* Intentas acariciar a Dunebud.#* Se escabulle.
 * Le das a Dunebud unas#  caricias cariñosas.#* Te acaricia la mano.
 Action 1 Sparing
-* Le das unas palmaditas#  cautelosas a Dunebud.#* Parecen confusos.
+* Das unas palmaditas#  cautelosas a Dunebud.#* Parece confuso.
 gml_Script_scr_dialogue_battle_action_selected_action_1_dunebud_b
 scr_dialogue_battle_action_selected_action_1_dunebud_b
 gml_Script_cutscene_dialogue_nogui
@@ -1955,7 +1955,7 @@ H. Acid
 * (Conectas la hebilla de acero#  a tu pantalón.)
 * (¡Tus pantalones se sienten más#  resistentes que antes!)
 * (Te pones la impresionante#  Chaqueta amarilla resaltadora.)
-* (¡Estás totalmente listo para preocuparte#  por los negocios!)
+* (¡Estás totalmente listo para#  preocuparte por#  los negocios!)
 * (Equipas con orgullo la#  Funda Elegante.)
 * (¡Estás listo para todo#  desde ahora!)
 * (Te colocas la Bufanda Dorada.#* Tu tremendo gusto por el estilo#  hace que los enemigos te contemplen.)
@@ -2012,7 +2012,7 @@ info
 * "Balas de goma" - Arma AT 0#* (Pequeñas, seguras, no-tóxicas#  balas de goma.)
 * "Pastel esponjoso" - Cura 14 PV
 * (Un bizcocho delicioso que no#  raya. ¡Tiene el doble#  de absorción!)
-*"Café Hndw" - Cura 14 PV#* (¡Requiere gran valentía poder#  beber algo así de caliente!)
+* "Café Hndw" - Cura 14 PV#* (¡Requiere gran valentía poder#  beber algo así de caliente!)
 * "Panqueue Hndw" - Cura 16 PV #* (Un panqueque listo para comer#  con almíbar de miel.)
 * "G.B. Oso" - Cura 20 PV#* (Una galleta hecha para#  verse como el rostro de alguien.)
 * (¡Que creativa y original#  idea!)
@@ -2025,7 +2025,7 @@ info
 * "Cactus D." - (Cura 15 PV#  por 3 turnos. El primer#  bocado quita 5 PV.)
 * (El snack prohibido.)
 * "Soda de adultos" - Cura ??? PV#* (Un líquido trasparente#  sin olor.)
-* "Paquete de nueces" - Cura 10 PV
+* "Paquete de nueces" - Cura#  10 PV
 * (Ideal para prevenir daño o#  destrucción de un frágil#  estómago.)
 * "Frutos Secos"#  - Cura 13 PV"
 * (Seleccionas absolutamente todo#  menos las pasas.)
@@ -6017,7 +6017,7 @@ Cura
 * (¡Tiene el doble de absorción!)
  HP#* (Un poco quemado de un lado,#  pero se ve rico de#  todas formas.)
  HP#* (Chocolate bien caliente,#  conegaldo y luego#  recalentado.)
- HP#* (Chocolate bien caliente#  enfriado hasta estar#  tibio.)
+ HP#* (Chocolate bien caliente#  enfriado  hasta estar tibio.)
  HP#* (Chocolate bien caliente,#  enfriado en frío.)
  HP#* (¡Se necesita verdadera valentía para#  tomar algo así de caliente!)
  HP#* (Un panqueque recién hecho con#  almíbar de miel.)
@@ -9119,7 +9119,7 @@ bottom-right
 * (Un carro minero  de acero#  bien hecho.)
 * (Un conjunto de#  cubículos casi vacíos.)
 * (Nada demasiado interesante.)
-* ¡CUIDADO! ¡CAEN ROCAS!
+* ¡CUIDADO! ¡ROCAS CAYENDO!
 * (Este cactus no necesita#  amor.)
 * (Un cactus sencillo.)
 * ¡Han pasado - 002 - días#  sin accidentes laborales!
@@ -11572,7 +11572,7 @@ keyboard_key_release
 keyboard_key_press
 window_has_focus
 final_circle
-Siento haberle#inconvencido.
+Siento haberte#molestado.
 Sólo intentaba#traer alegría.
 Pero...
 Su actitud hacia#el arte de la#danza es#clara.
@@ -12676,7 +12676,7 @@ actor_axis
 * Esto no es defensa#  propia como una#  vez supuse.	
 * Tienes una misión.	
 * Este retorcido sentido#  de la justicia... No#  los traerá de vuelta.	
-* Tengo reservas sobre#  los asuntos del Rey#  igual que tú.	
+* Tengo dudas respecto#  los asuntos del Rey#  al igual que tú.	
 * Pero no tienes el#  contexto de esas#  acciones.	
 * Lo sé... Quieres creer#  lo mejor de los demás.	
 * Que los humanos caídos#  eran muy pacíficos#  y no iniciaron       
@@ -14874,10 +14874,10 @@ Es verdad. ¡Vete#ahora!
 ¡Ding ding ding!#¡Tengo un#genio por#aquí!
 Oh, esto y#aquello.#Casualidades.#Ya sabes...
 ¡Soy un#excelente#compañero#de viajes!
-¡Sí, vamos a# llegar lejos,# tú y yo!
+¡Sí, vamos a#llegar lejos,#tú y yo!
 ¡Sabía que verías#las cosas a mi#manera, humano!
 ¡Vamos, amigo,#no me dejes#solo!
-¡Bien! ¡Pero#te estás#perdiendo# MUCHO!
+¡Bien! ¡Pero#te estás#perdiendo#MUCHO!
 ¡Disfruta del#agujero del#tamaño de una#serpiente#en tu corazón!
 ¿Ayudar a un#amigo a curarse,#eh?
 Cálmate,#amigo.#Podemos arreglar#algo...
@@ -15491,7 +15491,7 @@ cell
 * Al menos, ya no.
 * Salvaje, ¿eh?
 * Cuando inevitablemente#  lo mates, su ALMA#  permanecerá intacta.
-* Pero solo por un#  momento antes de...#  ¡BUM! Se fue para siempre.
+* Pero solo por un#  momento antes de... ¡BUM!#  Se fue para siempre.
 * Te contaré un#  secretito...
 * En ese corto espacio#  de tiempo, puedes ir#  y tomar su ALMA.
 * Con su poder, podrás#  cruzar la barrera#  y volver a casa.
@@ -23623,7 +23623,7 @@ Qué más hay de#nuevo...
 ¿Podría empeorar#este día?
 *Suspira*
 ¿Tú... crees#que...?
-No#estoy#tan seguro#de eso....
+No estoy#tan seguro#de eso....
 Uhhhh...
 Nadie me#ama...
 Estoy ardiendo.
