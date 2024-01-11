@@ -12409,7 +12409,7 @@ Diseño Sonoro:
 Voz de Mew Mew:
 PhichanVA
 CommissionerTadpole
-Toby Fox & Temmie Chang
+Toby Fox y Temmie Chang
 current_slide
 advance_timer
 line_counter
@@ -45369,10 +45369,10 @@ modocreditos
 Equipo de Traducción
 Skarby Palace - Carrotw
 Ritzzriver - WoundSoul - Valrex
-Grillo & WeaCosmica
+Grillo y WeaCosmica
 - Beta Testers -
 Donut - Rower - Febriel
-Mallow & Sunorland
+Mallow y Sunorland
 draw_credit_group_gml_Object_obj_credits_final_geno_Draw_64
 Skarby Palace
 Carrotw
@@ -45389,4 +45389,4 @@ Sunorland
 Carrotw - Ritzzriver
 WoundSoul - Valrex
 Donut - Rower
-Febriel & Mallow
+Febriel y Mallow
