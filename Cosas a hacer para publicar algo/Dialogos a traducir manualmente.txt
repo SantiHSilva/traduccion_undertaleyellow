@@ -71,3 +71,7 @@ Definitivamente\nno
 gml_Object_obj_castle_throne_room_controller_neutral_Step_0
 You\nshould go
 Deberías\nirte
+
+gml_Object_obj_factory_03_shaft_Step_0
+So\ntired...
+Estoy\ncansado
