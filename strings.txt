@@ -18645,10 +18645,10 @@ spikes
 weakpoint_position
 spike_spawn
 vine_pause
-* (Hay algunos Packing#  Peanuts en la caja.)
+* (Hay algunos Paquetes#  de Nueces en la caja.)
 * (¿Te los llevarás?)
-* (¡Obtuviste un Packing Peanuts!)
-* (Obtuviste un Packing Peanuts.)
+* (¡Obtuviste un Paquete de#  Nueces!)
+* (Obtuviste un Paquete de#  Nueces.)
 * (No hay nada aquí de#  utilidad concebible para#  tí.)
 * (Ves una piedra oscura y#  desprendida entre este#  montón de rocas.)
 * (¡Tienes algunas Balas de#  Piedra!)
