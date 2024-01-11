@@ -1372,7 +1372,7 @@ scr_start_enemy_attacking_axis
 * Intentas acariaciar a Dunebud.#* Se escabullen.
 * Le das a Dunebud unas#  caricias cariñosas.#* Te acaricia la mano.
 Action 1 Sparing
-* Le das unas palmaditas cautelosas#  en la cima de Dunebud.#* Parecen confusos.
+* Le das unas palmaditas#  cautelosas a Dunebud.#* Parecen confusos.
 gml_Script_scr_dialogue_battle_action_selected_action_1_dunebud_b
 scr_dialogue_battle_action_selected_action_1_dunebud_b
 gml_Script_cutscene_dialogue_nogui
@@ -2563,7 +2563,7 @@ gml_Script_scr_save_flowey_dunes
 * ¿Cómo pueden seguir#  atacándote tan#  voluntariamente?	
 * ¡No podemos tener#  eso! ¡No!
 * No veo muchos#  más enemigos rondando.
-* Cuando te encuentres#  con el resto, ¡muéstrales#  quién manda!
+* Cuando te encuentres con#  el resto, ¡muéstrales#  quién manda!
 * Eres... guau,#  jaja. Talentoso,#  ¡seguro!
 * ¡Destruiste este#  páramo!
 * ¡Este lugar seguramente#  no era lo demasiado#  grande para los dos!
@@ -10728,7 +10728,7 @@ peep
 * Lo siento tanto.
 * Deberíamos haber estado#  aquí para ayudar.
 * ¿Ayudar...?
-* Nadie quería que#  termiara de este#  modo pero...
+* Nadie quería que#  terminara de este#  modo pero...
 * ¿¡Pero qué!?
 * ¿¡Qué demonios hizo#  Ceroba para merecer#  esto!?
 * ¡No dije que#  "mereciera" nada pero#  vamos!
@@ -11040,15 +11040,15 @@ syringe_noloop
 * ¡Y tú me enseñarás#  puntería!
 * No mereces morir tan#  joven.
 * ¿Qué te parece?
-Sounds good
+Suena bien
 ...Okei
 * ¿¿¿En serio???
-* Wow! ¡La vamos a pasar#  tan bien!
+* ¡Wow! ¡La vamos a pasar#  tan bien!
 * Te prometo que este#  es el mejor resultado#  para ambos.
-* Bueno, "compañero de piso,"#  ¡Vamos a Snowdin!
+* Bueno,#  "compañero de piso,"#  ¡Vamos a Snowdin!
   ¿Q-Qué es esto?
   ¿Clover...?
-  P-Porque harías...
+  P-Por qué harías...
 * ¡Tienes que estar#  bromeando!
 * ¡Yo sabía que algo como#  esto pasaría!
 * Y después de todo lo#  que pasamos...
@@ -11224,7 +11224,7 @@ heal_amount
 * Lo iremos viendo con#  el tiempo, estoy segura.
 * Sólo... no hagas#  nada estúpido.
 * Te aferras a tus esperanzas...#* ¡Defensa temporalmente#  aumentada!
-* No te echas atrás...#* ¡Recuperas
+* No te echas atrás...#* ¡Recuperas 
 * Piensas en los que más amas..#* ¡Velocidad temporalmente#  aumentada!
 arrive
 * Que cara-
@@ -12683,7 +12683,7 @@ actor_axis
 * L-La Guardia Real te#  está buscando, que#  quede claro.
 * Tienes suerte de que#  te encontrara. ¡Así que,#  por favor, escucha!
 * Me he pasado la vida#  en el escepticismo.
-* Anhelando la paz final#  entre nuestras clases.
+* Anhelando la paz final#  entre nuestras razas.
 * Si puedes creerlo,#  veo piedad en ti. 
 * De algún modo, todavía#  tengo esperanza de que#  puedas darle la vuelta.
 * No puedo detenerte yo#  sola, ya lo intenté...
@@ -14878,7 +14878,7 @@ Oh, esto y#aquello.#Casualidades.#Ya sabes...
 ¡Sabía que verías#las cosas a mi#manera, humano!
 ¡Vamos, amigo,#no me dejes#solo!
 ¡Bien! ¡Pero#te estás#perdiendo# MUCHO!
-¡Disfruta del#agujero del tamaño#de una serpiente#en tu corazón!
+¡Disfruta del#agujero del#tamaño de una#serpiente#en tu corazón!
 ¿Ayudar a un#amigo a curarse,#eh?
 Cálmate,#amigo.#Podemos arreglar#algo...
 ¡Sé justo lo que#necesitas!
@@ -15125,7 +15125,7 @@ Podría aceptar lo que#me han dado y esperar.
 El Rey está solo a#un ALMA ahora mismo.
 Quizás sea una buena#idea molestar al próximo#humano.
 ¿Quién sabe cuanto va a#tardar eso e incluso#peor,
-Si es que el siguiente humano#es suficientemente hábil para#hacer lo que Clover no...
+Si es que el siguiente es# suficientemente hábil para#hacer lo que Clover no...
 Necesito tiempo#para pensarlo.
 Este no es el final.
 ¿  C-Cuántos#más ?
@@ -25264,7 +25264,7 @@ Check 3
 * No retienes tu memoria después#  de los reinicios.
 * Es por eso que tengo que#  explicarte las mismas cosas#  de nuevo.
 * Colocar los mismos puntos de#  guardados, hacer los mismos#  comentarios...
-* "¡Caramba, este lugar si que es#  ____!" 
+* "¡Caramba, este lugar sí que es#  ____!" 
 * "¡Sigue así, amigo!"
 * "¡Recuerda tu misión!"
 * Una y otra y otra y otra#  vez...
@@ -25279,13 +25279,13 @@ Check 3
 * Hasta entonces, reiniciaré.
 * Restearé y restearé y #  restearé y restearé y #  restearé y restearé y
 * ¿Por qué siempre terminó#  aquí?
-* Siempre que haces  ciertas#  decisiones, es el techo.
+* Siempre que haces ciertas#  decisiones, es el techo.
 * Martlet siempre te convence#  para que vayas con ella.
 * ¿Se supone que... debo dejar#  que eso ocurra?
 * No... te he visto rendirte#  y adapatarte antes.
 * No lleva a ninguna parte.
-* Así que, ¿qué? ¿Esto estodo?#  ¿Esta es la manera en#  la que debe de ser?
-* La primera vez que te oriente a#  las Ruinas Oscuras...
+* Así que, ¿qué? ¿Esto es todo?#  ¿Esta es la manera en#  la que debe de ser?
+* La primera vez que te orienté a#  las Ruinas Oscuras...
 * Juraba estar consiguiendo algo.
 * Pero parece que tu vida -#  tu destino - está sellado.
 * Como si hubiera una manera#  específica en la que TIENE que#  ocurrir.
@@ -25316,7 +25316,7 @@ Check 3
 * Nada de esto lo es.
 * No debería estar aquí.#  Otra vez no.
 * Es que, por favor...
-* ¿No tengo algo mejor que#  hacer?
+* ¿No tengo nada mejor que#  hacer?
 * ¿Sabes? Es extraño.
 * Algo no cuadra aquí.
 * Estamos solos en mi mente#  en este momento.
@@ -25327,7 +25327,7 @@ Check 3
 * Tengo que reiniciar de nuevo.
 * Tengo que reiniciar hasta#  encontrar el camino correcto.
 * Hasta que hagas las decisiones#  correctas.
-* Hasta ese entonces...
+* Hasta que...
 * Okey, okey, te dejaré ir.
 * Tengo que practicar mi#  monólogo de introducción.
 * ¡Prepárate antes de la gran#  caída!
