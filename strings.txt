@@ -16396,7 +16396,7 @@ Caí en un charco
 * Aunque Axis es un#  problema...
 * Me alegra que Chujin#  haya tenido éxito#  en ingeniería.
 * No tengo dudas que#  heredó el toque de#  su padre.
-* El problema fue que su#  padre no aprobaba la#  "innovación" precisamente.
+* El problema fue que su#  padre no aprobaba la#  "innovación" en si.
 * La expansión de Asgore#  y el etablbecimiento de#  esta fábrica...
 * Digamos que generó una#  grieta entre familiares.
 * Sin embargo, Chujin era#  diferente. 
@@ -45122,62 +45122,62 @@ buscar
 objetos
 objectos
 gml_Script_obtenerItemSpanish
-Rollo de Croquet
+Rollo Croq.
 Palo
 Vendaje
-Roca de Caramelo
-Anillo de Calabaza
-Cebolla Estoica
-Fruta Fantasma
-Cidra de Araña
-Tarta de Caramelo
-Cinta Desteñida
+Roca Car.
+Anillo Calab.
+Cebolla Est.
+Fruta Fant.
+Cidra Araña
+Tarta Caram.
+Cinta Dest.
 Guante Duro
-Bandana Varonil
-Trozo de Hombre de Nieve
+Bandana Var.
+Trozo de Ni.
 Helagradable
-Helado para Cachorros
+Helado Cach.
 Bizcocho
 Uniscocho
-Conejo de Canela
+Conejo Can.
 Copo Temmie
-Quiche Abandonado
+Quiche Aban.
 Viejo Tutú
-Zapatos de Ballet
-Tarjeta Perforada
+Zapatos Bal.
+Tarjeta Perf.
 Perro Molesto
-Ensalada para Perro
-Resudio de Perro
-Comida de Astronauta
-Fideos Instantáneos
-Manzana Cangrejo
-Gatito Caliente
+Ens. para Per.
+Resudio Perro
+Comida Astr.
+Fideos Inst.
+Manzana Cangr.
+Gatito Cal.
 Glamburguesa
 Cebo Estelar
-Héroe Legendario
-Gafas Protectoras
-Cuaderno Rasgado
-Delantal Manchado
-Sartén Quemada
-Sombrero de Vaquero
-Pistola Vacía
-Medallón de Corazón
-Daga Desgastada
-Cuchillo Real
+Héroe Legen.
+Gafas Prot.
+Cuad. Rasgado
+Delan. Manch.
+Sartén Quem.
+Somb. de Vaq.
+Pist. Vacía
+Medallón Cor.
+Daga Desg.
+Cuch. Real
 El Medallón
-Malos Recuerdos
+Malos Rec.
 Sueño
-Carta de Undyne
-Carta de Undyne EX
-Comida Chatarra 0
+Carta Undyne
+Car. Und. EX
+Comida Ch. 0
 Junk Food 0
-Llave Misteriosa
-Cara de Filete
-Cachorro Silenc.
-Tarta de Caracol
+Llave Mist.
+Cara Filete
+Cach. Silenc.
+Tarta de Car.
 Armadura Temy
-Revólver Salvaje
-Balas de Vidrio
+Revólver Sal.
+Balas de Vid.
 Cactus Dorado
 Golden Cactus
 Guante Mojado
@@ -45190,7 +45190,7 @@ Pluma
 Pañuelo Dor.
 Piedras
 Balas de Plata
-Balas de Vidrio
+Balas de Vid.
 Balas de Goma
 Pastel Espon.
 Café Hndw
