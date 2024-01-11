@@ -2006,7 +2006,7 @@ info
 * "Perro de Maíz" - Cura 12 PV#* (Un genuino maiz de perro#  suave, esponjosas orejas.)
 * "Parche" - Armadura DF 0#* (No es fuerte pero siempre#  será la vieja confiable.)
 * "Pluma" - Armadura DF 2#* (Una vieja y olvidada pluma.#* Necesita un buen acicalamiento.)
-* "Pañuelo D." - Armadura DF 12#* (La pieza de tela más impresionante # jamás vista.)
+* "Pañuelo D." - Armadura DF 12#* (La pieza de tela más#  impresionante jamás vista.)
 * (El sombrío recordatorio de#  tu misión. La justicia#  es necesaria.)
 * (Te hace invulnerable#  por unos pocos golpes.)
 * "Balas de goma" - Arma AT 0#* (Pequeñas, seguras, no-tóxicas#  balas de goma.)
@@ -11565,7 +11565,7 @@ sound_noloop
 * Disfruta ese oro.#  Es buena compañía. 
 * Esperaré afuera.
 * ¿Dónde fuiste?
-* Es como que pestañú y#  te perdí.
+* Es como que pestañeé y#  te perdí.
 * Bueno, eh, no hagas eso#  de nuevo.
 object_array
 keyboard_key_release
@@ -16362,14 +16362,14 @@ Caí en un charco
 * Puentes e infraestructura#  podrida no combinan#  bien precisamente.
 * Mantente alerta.
 * Amigo, este lugar#  es enorme.
-* El gobierno debería#  darle algú uso a#  superficie abandonada.
+* El gobierno debería#  darle algún uso a#  superficie abandonada.
 * Escuché que Nuevo Hogar#  está superpoblado.
 * Algunos suburbios aquí#  y otros por allá#  deberían arreglarlo.
 * ...Quizás drenar el#  lago de sustancia mortal#  primero.
 * Nuevo Hogar...
 * Lo que se quejaría#  Chujin de ese lugar.
 * Larga historia.
-* Política, creativos#  siendo creativos...#  You know.
+* Política, creativos siendo#  creativos... Ya sabes.
 * Sigamos con el#  progreso, ¿si?
 * He escuchado sobre#  montar en otro para#  que te lleven pero...
 * ...sep, suena mal.
@@ -16396,14 +16396,14 @@ Caí en un charco
 * Aunque Axis es un#  problema...
 * Me alegra que Chujin#  haya tenido éxito#  en ingeniería.
 * No tengo dudas que#  heredó el toque de#  su padre.
-* El problema fue que su#  padre no aprobaba la#  "innovación" precisamente.
+* El problema fue que su#  padre no aprobaba la#  "innovación" en si.
 * La expansión de Asgore#  y el etablbecimiento de#  esta fábrica...
 * Digamos que generó una#  grieta entre familiares.
 * Sin embargo, Chujin era#  diferente. 
 * Vió los beneficios del#  progreso, incluso si#  causaba fricción.
 * Aún así, él nunca#  ignoró su linaje y lo#  mucho que significaba.
 * Lo mejor de ambos#  mundos, ¿hm?
-* Hey, um...
+* Oye, um...
 * ¿No tienes amigos? 
 * Ya sabes, en la#  Superficie.
 * Deben estar realmente#  preocupados ahora, ¿no?
@@ -17220,7 +17220,7 @@ part_system_position
 * Todavía no.
 ¡Aún no hemos#terminado!
 Prepárate para mi#más fuerte#ataq-
-* (Hay maíz en la telaraña.)
+* (Una mazorca se balanceaba#  sobre la tela de una#  araña...)
 * (Una mazorca de maíz.)
 * Soy FLOWEY. 
       FLOWEY  
@@ -19342,10 +19342,10 @@ player_npc
 * ¡Venta de pasteles!#  ¡Venta de pasteles! 
 * ¡Ven a comer comida#  hecha por arañas, para#  arañas, de arañas!
 * ¡Todo lo recaudado se#  destinará a las arañas#  necesitadas!
-* ¿Comprarías un Spider Donut por#  7 de ORO?
+* ¿Comprarías una Dona Araña por#  7 de ORO?
 * Parece que esta transacción#  no se puede completar.
 * ¡Vuelve cuando estés listo!
-* (¡Obtuviste un Spider Donut!)
+* (¡Obtuviste un Dona Araña!)
 * Eres muy amable.#  ¡Que tenga un buen día!
 Escribe un número.
 * ¿Visitando desde el#  Salvaje Este, verdad?
@@ -24452,7 +24452,7 @@ expl2
 * Ningún verdadero miembro del# Salvaje Este dejaría#  pasar un "buenas".
 * Definitivamente no tienes#  cultura humana.
 * ¿Conoces a mis hermanas?#  Son algo molestas.
-* Pedla es como, demasiada#  feliz todo el tiempo.
+* Pedla es como, demasiado#  feliz todo el tiempo.
 * Sé normal y finge tu#  felicidad, ¡como yo!
 * ¿Y Violetta? No lo sé.
 * Creo que todo lo que#  necesita es encontrar#  el amor o algo así.
@@ -45122,62 +45122,62 @@ buscar
 objetos
 objectos
 gml_Script_obtenerItemSpanish
-Rollo de Croquet
+Rollo Croq.
 Palo
 Vendaje
-Roca de Caramelo
-Anillo de Calabaza
-Cebolla Estoica
-Fruta Fantasma
-Cidra de Araña
-Tarta de Caramelo
-Cinta Desteñida
+Roca Car.
+Anillo Calab.
+Cebolla Est.
+Fruta Fant.
+Cidra Araña
+Tarta Caram.
+Cinta Dest.
 Guante Duro
-Bandana Varonil
-Trozo de Hombre de Nieve
+Bandana Var.
+Trozo de Ni.
 Helagradable
-Helado para Cachorros
+Helado Cach.
 Bizcocho
 Uniscocho
-Conejo de Canela
+Conejo Can.
 Copo Temmie
-Quiche Abandonado
+Quiche Aban.
 Viejo Tutú
-Zapatos de Ballet
-Tarjeta Perforada
+Zapatos Bal.
+Tarjeta Perf.
 Perro Molesto
-Ensalada para Perro
-Resudio de Perro
-Comida de Astronauta
-Fideos Instantáneos
-Manzana Cangrejo
-Gatito Caliente
+Ens. para Per.
+Resudio Perro
+Comida Astr.
+Fideos Inst.
+Manzana Cangr.
+Gatito Cal.
 Glamburguesa
 Cebo Estelar
-Héroe Legendario
-Gafas Protectoras
-Cuaderno Rasgado
-Delantal Manchado
-Sartén Quemada
-Sombrero de Vaquero
-Pistola Vacía
-Medallón de Corazón
-Daga Desgastada
-Cuchillo Real
+Héroe Legen.
+Gafas Prot.
+Cuad. Rasgado
+Delan. Manch.
+Sartén Quem.
+Somb. de Vaq.
+Pist. Vacía
+Medallón Cor.
+Daga Desg.
+Cuch. Real
 El Medallón
-Malos Recuerdos
+Malos Rec.
 Sueño
-Carta de Undyne
-Carta de Undyne EX
-Comida Chatarra 0
+Carta Undyne
+Car. Und. EX
+Comida Ch. 0
 Junk Food 0
-Llave Misteriosa
-Cara de Filete
-Cachorro Silenc.
-Tarta de Caracol
+Llave Mist.
+Cara Filete
+Cach. Silenc.
+Tarta de Car.
 Armadura Temy
-Revólver Salvaje
-Balas de Vidrio
+Revólver Sal.
+Balas de Vid.
 Cactus Dorado
 Golden Cactus
 Guante Mojado
@@ -45190,7 +45190,7 @@ Pluma
 Pañuelo Dor.
 Piedras
 Balas de Plata
-Balas de Vidrio
+Balas de Vid.
 Balas de Goma
 Pastel Espon.
 Café Hndw
@@ -45207,7 +45207,7 @@ Té Helado
 Té Verde
 Té de Mar
 Past. Frutas
-Rosqu. Araña
+Dona Araña
 Aguhelada
 Latte Oasis
 Galleta Can.
@@ -45350,7 +45350,7 @@ window_get_width
 DEVOL.
  * ¡Espera! ¿¡Otro#   robot!?
  * ¡No puede ser! ¡No#   podemos pelear#   con esto!
- * Que tal si Chujo lo#   hi-
+ * Que tal si Chujin lo#   hi-
  * ¿Sabes qué?#   Hablaremos después.
  * Encontremos una forma#   pacífica de#   superarlo.
  * Haré lo mejor para#   protegernos.
