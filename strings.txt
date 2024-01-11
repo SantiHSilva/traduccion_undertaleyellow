@@ -9191,9 +9191,9 @@ self_message
 * (Que caja más solitaria.)
 * (Una caja.)
 * (Un lugar donde dormir.)
-* (Hay un agujero en el#  suelo. ¡Que cómodo!)
+* (Hay un agujero en el suelo.#  ¡Que cómodo!)
 * (En un rincón hay un saco de#  dormir que amenaza con limitar#  a quienes duermen libremente.)
-* (Raro... No has#  visto ningún gato por aquí.)
+* (Raro... No has visto ningún#  gato por aquí.)
 * (El trono de Mooch.)
 * (Empujas la hamaca. Su balanceo#  es hipnotizante.)
 * (Un sofá no impropio de una#  tienda de segunda mano.)
@@ -9201,13 +9201,13 @@ self_message
 * (Una cocina sorprendentemente#  limpia. Impresionante.)
 * (Esta casa es una ruina.)
 * (Un par de rectángulos#  negros.)
-* (Algunas cintas de#  vídeo con etiquetas#  personalizadas.)
+* (Algunas cintas de video con#  etiquetas personalizadas.)
 * "Mi película favorita :)"
 * "Mi segunda película#  favorita :)"
 * "No veas este 0/10 :("
 * (Una Diana.)
-* (Una Diana con dardos de#  varias formas y tamaños#  clavados en él.)
-* (Algún tipo de planta de#  bayas. Notas que#  faltan algunas bayas.)
+* (Una Diana con dardos de#  varias formas y tamaños#  clavados en ella.)
+* (Algún tipo de planta de#  bayas. Notas que faltan#  algunas bayas.)
 * (Presionas el colchón y ves#  como la espuma viscoelástica#  se traga tu mano.)
 * (¡Que suave!)
 * (Aquí no hay juegos#  de palabras.)
@@ -9233,7 +9233,7 @@ self_message
 * (Mejor déjarselas#  a alguien que las#  necesite.)
 * (Solo unas bolitas de#  goma.)
 * ¿Tienes basura?
-* ¡Véndelo aquí mismo en#  el Blackjack!
+* ¡Véndelo aquí mismo en el#  Blackjack!
 * Especial de hoy:#  Funda de Lujo#  (¡genial para defensa!)
 * (Un perchero#  polvoriento.)
 * (Un sombrero sucio similar#  al de Starlo descansa en#  el perchero.)	
@@ -13950,7 +13950,7 @@ turret_count_max
 Star...#Martlet...
 * (Un collar roto.)
 * (Inútil.)
-* (Un viejo collar,#  tirado en la arena.)
+* (Un viejo collar, tirado en#  la arena.)
 * (Parece caro.)
 * (¡Conseguiste un#  Collar Roto!)
 pointdir
@@ -16204,7 +16204,7 @@ update_talk_val
 * Probablemente debamos#  encontrar un camino#  a Hotland, ¿verdad?
 * (Oye, Clover. Conozco#  a este tipo.)
 * (Se ha instalado#  bastante en Snowdin.)
-* (Siempre me pareció#  un poco sospechoso...#  juego de palabras.)
+* (Siempre me pareció#  un poco sospechoso....)
 * Parece que esto es#  un callejón sin#  salida, eh.
 * Que terrible escena...	
 * Ava era una belleza y#  mírala ahora...
@@ -19829,9 +19829,9 @@ Ni hablar.
 * Busca otra forma de arreglarlo.
 * Gracias por el ORO, niño.
 * (Una cama descuidada.)
-* (Una siesta suena bien...#  tomada en cualquier#  sitio menos aquí.)
-* Me encerraron por usar#  mi celular en el salón.	
-* Dina dijo que iba en#  contra de la política#  de Salvaje Este.	
+* (Una siesta suena bien...#  tomada en cualquier sitio#  menos aquí.)
+* Me encerraron por usar#  mi celular en la taberna.	
+* Dina dijo que iba en#  contra de la política de#  Salvaje Este.	
 * Me parece justo, pero North#  Star tiene un maldito#  televisor en su casa.
 * Oh, ¿la pistola? Me dejaron#  quedármela.	
 * Es solo un modelo después#  de todo... mmhmm...
@@ -19848,19 +19848,19 @@ interact_hold
 * Se trata de un sencillo#  juego de cartas.
 * Cuesta 3 de ORO jugar con#  un potencial de beneficio.
 * ¿Intrigado?
-* Te explicaré las reglas#  así que escucha con#  atención.
+* Te explicaré las reglas así#  que escucha con atención.
 No gracias
 * ¿Está interesado en una#  ronda de Six-Shooter?
 * Entonces juguemos.
 * Una baraja de 36 cartas se#  dividirá en 20 y se colocará#  en la mesa por separado.
-* Hay seis tipos de cartas,#  cada una con una cara#  conocida diferente.
-* Debes emparejar cartas de la#  misma cara pero solo#  si se tocan.
-* Una vez emparejadas dos,#  se eliminarán de la parrilla.
-* Dos cartas más del mazo#  de 16 reservado las#  sustituirán.
+* Hay seis tipos de cartas, cada#  una con una cara conocida#  diferente.
+* Debes emparejar cartas de la#  misma cara pero solo si se#  tocan.
+* Una vez emparejadas dos, se#  eliminarán de la parrilla.
+* Dos cartas más del mazo de#  16 reservado las sustituirán.
 * Tu objetivo es vaciar la mesa#  emparejando todas las cartas.
 * Si ganas en menos de 45#  segundos, serás recompensado#  con 25 de ORO.
-* Menos de un minuto, y#  serás recompensado con#  15 de ORO.
-* Cualquier momento después de#  eso te permitirá llegar al#  punto de equilibrio con 3G.
+* Menos de un minuto, y serás#  recompensado con 15 de ORO.#
+* Cualquier momento después de#  eso te permitirá llegar al#  punto de equilibrio de 3 ORO.
 * Si la baraja está vacía y no#  quedan coincidencias#  posibles...
 * Perderás sin recompensa.
 * ¿Entiendes?
@@ -19960,17 +19960,17 @@ Herido
 Trato
 * ¡Tengo justo el impulso#  que necesitas!
 * ¡Por un precio inicial de#  30 de ORO puedo#  SOBREALIMENTAR tu salud!
-* Es una medicina... experimental,#  pero ¿quién dijo que#  esté calificado?
+* Es una medicina... experimental,#  pero ¿quién dijo que yo esté#  calificado?
 * ¡Acércate y comenzaré#  el procedimiento!
 * ¡Lamento oír eso!
 * ¡Siempre estaré aquí si#  necesitas algo!
 * Mhm, ya veo.
 * Un poco de esto...
 * ¡Yyyy listo!
-* (¡Has ganado +15 PS extra!)
-* Cuando los PS desaparezcan,#  ¡se habrán ido para siempre!
+* (¡Has ganado +15 PV extra!)
+* Cuando los PV desaparezcan,#  ¡se habrán ido para siempre!
 * Siempre puedes volver a#  visitarme para más, ¡pero#  solo de uno en uno!
-* Puede que corra riesgos,#  pero no estoy loco.#  Ja, ja... Ejem.
+* Puede que corra riesgos, pero#  no estoy loco. Ja, ja...#  Ejem.
 * ¡Tu sobrecarga tiene que#  agotarse antes de que pueda#  hacer otro procedimiento!
 * ¡Hola de nuevo!
 * ¿Necesitas un impulso?
@@ -19996,17 +19996,17 @@ T9 Appear Mooch
 * Prefiero que me#  dejen en paz.
 * Buenas...
 * Tienes algo de eso...
-* ¿Algo de esa buena#  hierba gatera?
+* ¿Algo de esa buena hierba#  gatera?
 * Me moriría por probar...
-* ¡¡¡...ES LO QUE YO DIRÍA#  SI FUERA UN SUCIO#  BANDIDO!!!
-* ¡Nyahaha! ¡Casi#  te engaño!
-* ¡Podría haberte atrapado#  y haberte entregado a#  los Feisty Five!
+* ¡¡¡...ES LO QUE YO DIRÍA#  SI FUERA UN SUCIO BANDIDO!!!
+* ¡Nyahaha! ¡Casi te engaño!
+* ¡Podría haberte atrapado#  y haberte entregado a los#  Feisty Five!
 * ¡Nyahaha! ¡Ten más cuidado,#  compañero!
 * El hecho de que no cayeras#  en mi trampa es muy bueno.
-* Quizá encajes por aquí#  mejor de lo que pensaba.
-* ¿A menos que seas#  un bandido disfrazado?
+* Quizá encajes por aquí mejor#  de lo que pensaba.
+* ¿A menos que seas un bandido#  disfrazado?
 * ¡Nyahaha! ¡Solo estoy#  bromeando, compañero!
-* No hay lugar como el#  Salvaje Este, ¡te#  lo aseguro!
+* No hay lugar como el Salvaje#  Este, ¡te lo aseguro!
 draw_alpha_flowey
 flowey_bg_alpha
 flowey_bg_offset
@@ -20027,7 +20027,7 @@ flow_mus
 * Solo hago lo que Star#  cree que es mejor.
 * Todo esto nos ha#  sorprendido, eso seguro.
 * ¡Soy optimista al#  respecto!
-* No es por presumir,#  pero soy básicamente la#  mano derecha de Star.
+* No es por presumir, pero#  soy básicamente la mano#  derecha de Star.
 * Yo hago todo el trabajo#  pesado por aquí.
 * Star solo pregunta#  amablemente y allá#  voy.
 * ¿No es una relación#  genial?
@@ -20083,11 +20083,11 @@ petal_dir
 * De todas formas,#  ¡hasta luego!
 * ¿Por qué me miras así?
 * ¡Solo estaba siendo#  amigable! ¡Honesta!
-* Es desagradable aceptar#  las amables palabras de#  alguien y dejarlo así.
+* Esta bueno aceptar#  las amables palabras de#  alguien y dejarlo ahí.
 * ¡Estoy deseando#  entrenar contigo, jeje!
 * Umm... sobre Martlet.
 * Entiendo que estarás#  molesto, pero puedo#  explicarlo... creo.
-* Mira, si ella es una#  guardia real, eso#  causaría problemas.
+* Mira, si ella ES una#  guardia real, eso#  causaría problemas.
 * ¡Amenazó con denunciar#  a Star al Rey ASGORE!
 * Y una cosa lleva a otra#  y... ¡el Salvaje Este#  estaría en llamas ahora!
 * Bueno... tal vez.
@@ -20471,14 +20471,14 @@ Seh
 * Es probable que#  te deje ir.
 * ¡¡Neigh!! ¡¡¡Neigh!!!
 * ¡Neigh dije!
-* Porque yo soy un caballo,#  ¡todos y cada uno#  de los días!
-* Crujo zanahorias y#  mastico heno,
+* Porque yo soy un caballo.#  ¡Todos y cada uno de los#  días!
+* Crujo zanahorias y mastico#  heno,
 * pero soy un caballo tímido,#  así que, por favor, ¡vete!
 * Lo siento, solo tuve tiempo#  de escribir un pitch.
 * Me llevó toda la noche.
 * Quizá se me ocurra otro#  pronto.
 * Esa última línea no era#  una broma, por cierto.
-* Ser caballo es mi única#  forma de expresión#  verdadera.
+* Ser caballo es mi única#  forma de expresión verdadera.
 * ¡¡¡¡NeeeiGH!!!!
 bell_animation_end_next_loop
 * (Algo pasó en alguna parte.)
@@ -20991,23 +20991,23 @@ crowd_animate
 * ¡Les ponen un#  asiento encima y todo!
 * Se llaman "caballos",#  Star.
 * Ah, ¿así que conoces a#  uno de ellos? ¡Eso es#  bastante impresionante!
-* ¿Sabías también que#  los humanos son#  INCENDIABLES?
+* ¿Sabías también que#  los humanos son#  IGNÍFUGOS?
 * Cuando se sienten#  cumplidos,
 * montan monstruos#  ¡DIRECTOS hacia una#  enorme esfera ardiente!
-* Así que los#  "monstruos" se#  queman, ¿verdad?
+* Así que los#  "monstruos" se queman,#  ¿verdad?
 * La mayoría de los#  monstruos no son#  a prueba de fuego.
-* Star, ¿dices que mi#  amigo Horses murió#  por una esfera ardiente?
+* Star, ¿dices que mi#  amigo Horses murió por#  una esfera ardiente?
 * ¡No! Um, bueno...#  No estoy muy seguro.
 * ¡Le preguntaré a#  Clover!
-* ¿Los monstruos#  mueren?
+* ¿Los monstruos mueren?
 ¿Sí?
 ¿No?
 * Entonces me arrepiento#  de haber compartido#  ese hecho.
-* Finge que nunca#  dije nada.
+* Finge que nunca dije#  nada.
 * ¿Ven?
-* ¡Todos son a prueba#  de fuego!
+* ¡Todos allá son a#  prueba de fuego!
 * ¿Sabían que--
-* Mira, Star, no#  necesitas seguir#  con esto.
+* Mira, Star, no#  necesitas seguir con#  esto.
 * ...porque todo es#  verdad. Cada palabra.
 * ¡Ja! ¡Lo sabía!
 * Soy bastante bueno,#  ¿verdad?
@@ -21170,7 +21170,7 @@ surface_room_original
 mask_image_speed
 mask_image_index
 * (Enciendes la tele.)
-* (¡Este es tu canal#  favorito!)
+* (¡Este es tu canal favorito!)
 * (Nada.)
 circle_r
 circle_r_max
@@ -22021,7 +22021,7 @@ Tu opinión
 * Su armadura también está#  maravillosamente hecha.#  ¡He oído que es#  impenetrable!	
 * Un monstruo tan respetable#  debe tener un aspecto adecuado,#  ¡y no ahorro en gastos!
 * Esperaba que no preguntaras#  por ellos...
-* Jóvenes vándalos es#  todo lo que son.
+* Jóvenes vándalos es todo lo#  que son.
 * Vándalos que me veo obligado#  a aguantar para mantener mi#  negocio a flote.
 * No tienen ningún respeto por#  las armas que produzco, ¡siempre#  las agitan como si fueran#  un juguete para niños!
 * Sin embargo, he aprendido a#  beneficiarme de su#  comportamiento.
@@ -22032,20 +22032,20 @@ Tu opinión
 * Uh... Eso sonó extraño...#  ¡Ejem!
 * Estas bellezas están#  fabricadas con materiales#  de la más alta calidad.
 * Las forjo yo mismo en#  mi armería personal.
-* No solo lo hago con#  cuidado, sino que también#  me preocupo POR ellos.
+* No solo lo hago con cuidado,# me PREOCUPO por ellas.
 * Empiezo mis mañanas puliendo#  todas las existencias hasta#  ver mi reflejo en ellas.
-* También sé cómo manejar a estos#  chicos malos. Soy mucho mejor#  tirador que North Star,#  eso seguro.
-* Yo... Vi a un bandido en#  mis tejados.
+* También sé cómo manejar a estos#  chicos malos. Soy mucho mejor#  tirador que North Star, eso#  seguro.
+* Yo... vi a un bandido en mis#  tejados.
 * El Salvaje Este recibe muchos#  visitantes cada día.
-* Aquí hay algo sobre el aura#  que a algunos monstruos#  no les satisface.
+* Aquí hay algo sobre el aura#  que a algunos monstruos les#  fascina.
 * No te preocupes. No estoy#  vendiendo armas ultra-mortales a#  cualquiera con suficiente#  ORO.
 * Me aseguro de que mis#  productos sean lo bastante suaves#  para no ser letales. A mí#  no me gusta la violencia.
-* Bueno... si se usan mucho,#  PODRÍAN ser letales. Pero,#  de nuevo, hasta un zapato de#  ballet también podría ser letal.
+* Bueno... si se usan mucho,#  PODRÍAN ser letales. Pero, osea,#  hasta un zapato de ballet#  también podría ser letal.
 * Mira, ¡no cuestiones#  demasiado mi moralidad!#  ¡No estoy preparado#  para hablar de eso!
-* Oí hablar de este#  pueblo hace algunos años.
+* Oí hablar de este pueblo#  hace algunos años.
 * Había dominado mis#  habilidades como herrero#  y quería abrir una tienda.
 * Resulta que aquí había un#  edificio vacío, así que pensé#  "¿por qué no?". Parecía la#  ciudad perfecta para una#  tienda así.
-* ¿Me arrepiento de haberme#  establecido aquí,#  resultando en un tormento sin fin#  de cinco jóvenes demoníacos?#  Todos los días.
+* ¿Me arrepiento de haberme#  establecido aquí, resultando#  en un tormento sin fin de cinco#  jóvenes demoníacos?#  Todos los días.
 * Pero todos los demás que he#  conocido son bastante agradables,#  así que se equilibra.
 * Probablemente no sea el mejor#  momento para hablar. Estoy muy#  preocupada por todo lo#  que está pasando ahora. 
 * Lo siento, no puedo hablar#  ahora.
