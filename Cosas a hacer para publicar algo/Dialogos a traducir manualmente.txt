@@ -70,4 +70,4 @@ Definitivamente\nno
 
 gml_Object_obj_castle_throne_room_controller_neutral_Step_0
 You\nshould go
-Deberias\nirte
+Deberías\nirte
