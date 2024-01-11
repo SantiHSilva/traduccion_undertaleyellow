@@ -2006,7 +2006,7 @@ info
 * "Perro de Maíz" - Cura 12 PV#* (Un genuino maiz de perro#  suave, esponjosas orejas.)
 * "Parche" - Armadura DF 0#* (No es fuerte pero siempre#  será la vieja confiable.)
 * "Pluma" - Armadura DF 2#* (Una vieja y olvidada pluma.#* Necesita un buen acicalamiento.)
-* "Pañuelo D." - Armadura DF 12#* (La pieza de tela más impresionante # jamás vista.)
+* "Pañuelo D." - Armadura DF 12#* (La pieza de tela más#  impresionante jamás vista.)
 * (El sombrío recordatorio de#  tu misión. La justicia#  es necesaria.)
 * (Te hace invulnerable#  por unos pocos golpes.)
 * "Balas de goma" - Arma AT 0#* (Pequeñas, seguras, no-tóxicas#  balas de goma.)
@@ -11565,7 +11565,7 @@ sound_noloop
 * Disfruta ese oro.#  Es buena compañía. 
 * Esperaré afuera.
 * ¿Dónde fuiste?
-* Es como que pestañú y#  te perdí.
+* Es como que pestañeé y#  te perdí.
 * Bueno, eh, no hagas eso#  de nuevo.
 object_array
 keyboard_key_release
@@ -16403,7 +16403,7 @@ Caí en un charco
 * Vió los beneficios del#  progreso, incluso si#  causaba fricción.
 * Aún así, él nunca#  ignoró su linaje y lo#  mucho que significaba.
 * Lo mejor de ambos#  mundos, ¿hm?
-* Hey, um...
+* Oye, um...
 * ¿No tienes amigos? 
 * Ya sabes, en la#  Superficie.
 * Deben estar realmente#  preocupados ahora, ¿no?
