@@ -167,7 +167,7 @@ switch scene
                 message[1] = "* ¿Adivina quién es?"
                 message[2] = "* ¡Así es! ¡Es Mo!"
                 message[3] = "* ¡Cuánto tiempo!"
-                message[4] = "* ¿Cómo has estado?#  No contestes,#  no tenemos tiempo."
+                message[4] = "* ¿Cómo has estado?#  No contestes, no tenemos#  tiempo."
                 message[5] = "* ¡Estoy aquí para hacerte#  una NUEVA. OFERTA!"
                 message[6] = "* ¡Un clima cálido#  requiere un artículo cálido!"
                 message[7] = "* ¡Compruébalo!"
@@ -490,7 +490,7 @@ switch scene
             if (global.route != 3)
             {
                 message[0] = "* Si conoces a tu chico#  Mo, sabes que planeé#  todo eso."
-                message[1] = "* Aquí está mi producto REAL:#  ¡ICE TEA!"
+                message[1] = "* Aquí está mi producto REAL:#  ¡TÉ HELADO!"
                 message[2] = "* Es como la secuela del agua.#  ¡Pero mucho mejor!"
                 message[3] = "* Ahora, voy a ser realista#  contigo."
                 message[4] = "* El té no lleva hielo#  particularmente."
@@ -557,7 +557,12 @@ switch scene
                             message[(message_current + 1)] = "* Gran elección."
                             message[(message_current + 2)] = "* ¡Bebe!"
                             global.player_gold -= 20
-                            scr_item(ch[outcome])
+                            if (outcome == 1)
+                                scr_item("Ice Tea")
+                            if (outcome == 2)
+                                scr_item("Green Tea")
+                            if (outcome == 3)
+                                scr_item("Cold Pop")
                             global.extra_flag[(outcome + 3)] = 1
                             audio_play_sound(snd_shop_purchase, 1, false)
                         }
@@ -573,7 +578,7 @@ switch scene
                     ch_msg = -1
                     message[(message_current + 1)] = "* Vamos, amigo."
                     message[(message_current + 2)] = "* Sé que mi tono fue un#  poco descuidado, pero#  lo intento de verdad."
-                    message[(message_current + 3)] = "* Si cambias de opinión,#  estaré aquí."
+                    message[(message_current + 3)] = "* Si cambias de opinión, estaré#  aquí."
                     other.scene++
                     break
             }
