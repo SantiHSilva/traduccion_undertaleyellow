@@ -29,6 +29,7 @@ function obtenerEmailSpanish(argument0) //gml_Script_obtenerEmailSpanish
     ds_map_add(lista, "Resort Letter", "Carta del Resort");
     ds_map_add(lista, "Missing Poster", "Poster Desaparecidos");
     ds_map_add(lista, "Steamworks ID", "Ident. Steamworks");
+    ds_map_add(lista, "Martlet's Letter", "Carta de Martlet");
 
     if ds_map_exists(lista, abuscar){
         return ds_map_find_value(lista, abuscar)
