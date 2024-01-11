@@ -1134,7 +1134,7 @@ save_count
 * ¿Cero? ¿En serio?
 * Ish...
 * Ofrecí mis servicios#  por una razón.
-* ¡Es que por favor! ¡Muere#  un poco!
+* ¡Es que por favor!#  ¡Muere un poco!
 * Oh espera, es CERO.
 * Para que estés parado#  en este edificio, tiene#  que ser cero.	
 * Honestamente no puedo#  creer que hayas llegado#  hasta aquí.
@@ -2060,7 +2060,7 @@ info
  "Hamb. Feisty" - Cura 30 PV
 * (¡Una pequeña hamburguesa#  con gran sabor! ¡A solo#  30 de oro en la Taberna!)
 * (...Dice la publicidad#  impresa en el envoltorio.)
-* "Broche Honeydew" - Armad. DF 4#* (Un pin promocional del#  Honeydew Resort de Snowdin.)
+* "Broche Honeydew" - Armad. DF 4#* (Un pin promocional del#  Resort Honeydew de Snowdin.)
 * "Broche Banda" - Armad. DF 5#* (Pin conmemorativo de un#  concierto al que no fuiste.)
 * "Hebilla Acero" - Armad. DF 7#* (Brillante hebilla hecha#  con finos materiales.)
 * "Chaqueta Seguridad" - Armad.#  DF 6
@@ -10349,7 +10349,7 @@ str_width
 draw_text_ext
 * (Slurp slurrrrp)
 * ¡Ahhhh!
-* ¡Nada como Boba-Soup (TM)#  de Steamworks para#  llenar el tanque!
+* ¡Nada como Boba-Sopa (TM)#  de Steamworks para#  llenar el tanque!
 * ¿Qué? No actúes como si#  nunca lo hubieses oído.
 * ¿Sabías que los humanos#  también usan líquido?#  Se llama  "sangre."
 * Aparentemente no sabe#  nada bien, lo que es#  realmente una pena.
@@ -10837,8 +10837,8 @@ idle_animation
 * Oi, el club esta cerrado.
 * El Sr. Bailador no está#  respondiendo su teléfono.
 * Claro que siempre viaja, pero#  no de él perderse la hora#  del cangrejo.
-* Ah bueno, los suplentes#  acaban de irse#  a buscarlo.
-* Noche salvaje es esto...
+* Ah bueno, los suplentes#  acaban de ir a buscarlo
+* Esta es una noche salvaje...
 * ¿No me escuchaste la#  primera vez?
 * Esta noche no se baila.
 * Hazlo en otro sitio#  si es necesario.
@@ -13394,7 +13394,7 @@ Backgrounds_1
 frog_car_speed
 smoke_delay
 * ¡Y aquí vamos!
-* Buen trabajo resistiendo#  mientras yo estaba#  ocupada.
+* Buen trabajo tolerando#  mientras yo estaba#  ocupada.
 * ¡Axis se ve bastante#  aturdido, una descarga#  más debería bastar!
 * ¡Acabemos con esto!
 dialogue_spawn_noloop
@@ -14157,7 +14157,7 @@ abandoned_geno
 * Así que me#  encontraste...
 * ...El Castillo del#  Rey Asgore.
 * Toda mi vida...
-* Toda mi vida fui#  enseñada de que los#  humanos son los enemigos.
+* Toda mi vida me#  enseñaron que los#  humanos son los enemigos.
 * Y... parece que#  tenían razón.
 * Pero incluso con ese#  prejuicio impregnado en#  mi mente...
 * Creo que... presiento#  cosas mejores en ti.
@@ -14206,10 +14206,10 @@ abandoned_geno
 * Bueno... vamos a#  Snowdin.
   Debí s-saberlo...
 message_insert
-* Nuestra amistad#  siempre fue#  independiente,  ¿no?
+* Nuestra amistad#  siempre fue#  unilateral, ¿no?
 * Después de todo,#  ¡nunca te molestaste en#  guardar ni UNA SOLA VEZ!
 * Aún así...
-* ¡Uy! ¡Llegó a#  ella primero!
+* ¡Uy! ¡Llegué a#  ella primero!
 * Aunque debo decir...
 * ¿Lo de la "falsa#  sensación de seguridad"?#  Muy inteligente.
 * No me digas que#  REALMENTE intentabas#  darle la vuelta a esto.
@@ -14222,7 +14222,7 @@ message_insert
 * ¡Sorpresa!#  ¡Te traicioné!
 * Lo siento mucho, pero#  oye, ¡gracias por#  abandonar tu ira!
 * Te estabas poniendo#  muy fuerte por#  un segundo.
-* No suelo ser de los#  que se preocupan,#  pero ¡uf!
+* No suelo ser de los#  que se preocupan#  pero, ¡uf!
 * ¡Esquivé una bala!#  ¡Jajaja!
 * ¡Vaya!#  ¡Que sean dos!
 * Creo que has olvidado#  quién manda aquí.
@@ -15438,7 +15438,7 @@ new_coin
 * también es, como,#  300 grados celsius.
 * lo siento me he#  quedado sin dialogo.
 * Clover... Tú...
-* Como pudiste...
+* Cómo pudiste...
 * ¡¡Este no era el plan!!
 * Chujin lo puso todo#  en Axis y tú sólo-
 * Y ahora... tu ALMA...
@@ -15449,9 +15449,9 @@ new_coin
 * No quiero volver a verte#  nunca más.
 * ¡Yyyyyy ahí está!
 * Ella ha estado usándote#  todo este tiempo, amigo.
-* Tan pronto como actúes en#  defensa propia una vez,#  ¡enloquece!
+* Tan pronto como actúas#  en defensa propia una#  vez, ¡enloquece!
 * Pero, ¿sabes qué?#  ¡Eso es bueno!
-* Finalmente eres libre de#  volver a ponerte en marcha.
+* Finalmente eres libre de#  volver a ponerte en#  marcha.
 * No más terceros, no más#  misiones secundarias.
 * ¡Sólo tu y yo, amiguito!#  
 * Sólo tu y yo.
@@ -16396,7 +16396,7 @@ Caí en un charco
 * Aunque Axis es un#  problema...
 * Me alegra que Chujin#  haya tenido éxito#  en ingeniería.
 * No tengo dudas que#  heredó el toque de#  su padre.
-* El problema fue que su#  padre no aprobaba la#  "innovación" en si.
+* El problema fue que su#  padre no aprobaba la#  "innovación" en sí.
 * La expansión de Asgore#  y el etablbecimiento de#  esta fábrica...
 * Digamos que generó una#  grieta entre familiares.
 * Sin embargo, Chujin era#  diferente. 
@@ -16421,7 +16421,7 @@ Caí en un charco
 * Siento que las cosas#  solo pueden complicarse#  más desde ahora.
 * Mantén tu cabeza en#  alto, Clover.
 * Pregunta...
-* ¿Haz dormido siquiera un#  poco desde que llegaste?
+* ¿Has dormido siquiera un#  poco desde que llegaste?
 * Si no, no sé cómo haces#  para mantenerte con#  energía.
 * He pasado más noches#  sin descanso que con,#  últimamente.
 * Realmente se siente.
@@ -16900,7 +16900,7 @@ audio_sound_gain_gramophone
 * (Lo abres.)
 * (Hay un globo flotando#  lentamente en su interior.)
 * (Lo desatas e inhalas algo#  de su contenido.)
-* (Hay que respetar a los muertos.)
+* (Hay que respetar a los#  muertos.)
 * (Ahora suenas gracioso.)
 * (Ya no suenas gracioso.)
 * ¿Hola?
@@ -19345,7 +19345,7 @@ player_npc
 * ¿Comprarías una Dona Araña por#  7 de ORO?
 * Parece que esta transacción#  no se puede completar.
 * ¡Vuelve cuando estés listo!
-* (¡Obtuviste un Dona Araña!)
+* (¡Obtuviste una Dona Araña!)
 * Eres muy amable.#  ¡Que tenga un buen día!
 Escribe un número.
 * ¿Visitando desde el#  Salvaje Este, verdad?
@@ -21816,7 +21816,7 @@ Gracias#por#retirarte.
 < Dinero.#Se#necesita. >
 < ¡Estás#llevando#DEMASIADO!>
 ¿Qué tienes#en mente?
-Comprarlo por#
+¿Comprarlo por#
  de ORO?
  de ORO - 
 shop_talk
@@ -22309,7 +22309,7 @@ draw_surface_part
 * ¡Oye, eso fue bastante#  oscuro, Buttons!
 * ¡Oye, eso fue bastante#  oscuro, Buttons!#* < Vivimos en una maldita#  cueva, ¡siempre está oscuro! >
 * ¡Jajajaja!
-#* < Jejejejej! >
+#* < ¡Jejejejej! >
 inventory_max
 Inventario Vacío
 item_price
@@ -23239,7 +23239,7 @@ No lo estropees#esta vez.
 * ¡ASGORE sigue por ahí#  amenazando vidas#  humanas!
 * Mantén tu cabeza en el#  juego.
 * Este es nuestro viaje.#  No el de Ceroba.
-* Hey, ¡espera!
+* Oye, ¡espera!
 * Creo que estoy lista#  para seguir.
 ¡Ese era mi hermano!
 ¡Tenía metas en#la vida!
