@@ -10263,7 +10263,7 @@ door_visible
 * No puede ser...
 * ¿En serio quieres hacer#  esto otra vez?
 * SÍ.
-* ¿Recueras la explosión#  que te deshabilitó?
+* ¿Recuerdas la explosión#  que te deshabilitó?
 * OBTUVE NUEVAS MANOS.#  AHORA SOY IMPARABLE.
 * Mira, en algún momento#  tendrás que rend   
 * SHUSH.
@@ -10349,7 +10349,7 @@ str_width
 draw_text_ext
 * (Slurp slurrrrp)
 * ¡Ahhhh!
-* ¡Nada como Boba-Soup (TM)#  de Steamworks para#  llenar el tanque!
+* ¡Nada como Boba-Sopa (TM)#  de Steamworks para#  llenar el tanque!
 * ¿Qué? No actúes como si#  nunca lo hubieses oído.
 * ¿Sabías que los humanos#  también usan líquido?#  Se llama  "sangre."
 * Aparentemente no sabe#  nada bien, lo que es#  realmente una pena.
@@ -16421,7 +16421,7 @@ Caí en un charco
 * Siento que las cosas#  solo pueden complicarse#  más desde ahora.
 * Mantén tu cabeza en#  alto, Clover.
 * Pregunta...
-* ¿Haz dormido siquiera un#  poco desde que llegaste?
+* ¿Has dormido siquiera un#  poco desde que llegaste?
 * Si no, no sé cómo haces#  para mantenerte con#  energía.
 * He pasado más noches#  sin descanso que con,#  últimamente.
 * Realmente se siente.
@@ -16900,7 +16900,7 @@ audio_sound_gain_gramophone
 * (Lo abres.)
 * (Hay un globo flotando#  lentamente en su interior.)
 * (Lo desatas e inhalas algo#  de su contenido.)
-* (Hay que respetar a los muertos.)
+* (Hay que respetar a los#  muertos.)
 * (Ahora suenas gracioso.)
 * (Ya no suenas gracioso.)
 * ¿Hola?
@@ -22309,7 +22309,7 @@ draw_surface_part
 * ¡Oye, eso fue bastante#  oscuro, Buttons!
 * ¡Oye, eso fue bastante#  oscuro, Buttons!#* < Vivimos en una maldita#  cueva, ¡siempre está oscuro! >
 * ¡Jajajaja!
-#* < Jejejejej! >
+#* < ¡Jejejejej! >
 inventory_max
 Inventario Vacío
 item_price
@@ -23239,7 +23239,7 @@ No lo estropees#esta vez.
 * ¡ASGORE sigue por ahí#  amenazando vidas#  humanas!
 * Mantén tu cabeza en el#  juego.
 * Este es nuestro viaje.#  No el de Ceroba.
-* Hey, ¡espera!
+* Oye, ¡espera!
 * Creo que estoy lista#  para seguir.
 ¡Ese era mi hermano!
 ¡Tenía metas en#la vida!
