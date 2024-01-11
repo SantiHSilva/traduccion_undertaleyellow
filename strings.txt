@@ -16362,14 +16362,14 @@ Caí en un charco
 * Puentes e infraestructura#  podrida no combinan#  bien precisamente.
 * Mantente alerta.
 * Amigo, este lugar#  es enorme.
-* El gobierno debería#  darle algú uso a#  superficie abandonada.
+* El gobierno debería#  darle algún uso a#  superficie abandonada.
 * Escuché que Nuevo Hogar#  está superpoblado.
 * Algunos suburbios aquí#  y otros por allá#  deberían arreglarlo.
 * ...Quizás drenar el#  lago de sustancia mortal#  primero.
 * Nuevo Hogar...
 * Lo que se quejaría#  Chujin de ese lugar.
 * Larga historia.
-* Política, creativos#  siendo creativos...#  You know.
+* Política, creativos siendo#  creativos... Ya sabes.
 * Sigamos con el#  progreso, ¿si?
 * He escuchado sobre#  montar en otro para#  que te lleven pero...
 * ...sep, suena mal.
@@ -19342,10 +19342,10 @@ player_npc
 * ¡Venta de pasteles!#  ¡Venta de pasteles! 
 * ¡Ven a comer comida#  hecha por arañas, para#  arañas, de arañas!
 * ¡Todo lo recaudado se#  destinará a las arañas#  necesitadas!
-* ¿Comprarías un Spider Donut por#  7 de ORO?
+* ¿Comprarías una Dona Araña por#  7 de ORO?
 * Parece que esta transacción#  no se puede completar.
 * ¡Vuelve cuando estés listo!
-* (¡Obtuviste un Spider Donut!)
+* (¡Obtuviste un Dona Araña!)
 * Eres muy amable.#  ¡Que tenga un buen día!
 Escribe un número.
 * ¿Visitando desde el#  Salvaje Este, verdad?
@@ -24452,7 +24452,7 @@ expl2
 * Ningún verdadero miembro del# Salvaje Este dejaría#  pasar un "buenas".
 * Definitivamente no tienes#  cultura humana.
 * ¿Conoces a mis hermanas?#  Son algo molestas.
-* Pedla es como, demasiada#  feliz todo el tiempo.
+* Pedla es como, demasiado#  feliz todo el tiempo.
 * Sé normal y finge tu#  felicidad, ¡como yo!
 * ¿Y Violetta? No lo sé.
 * Creo que todo lo que#  necesita es encontrar#  el amor o algo así.
@@ -45207,7 +45207,7 @@ Té Helado
 Té Verde
 Té de Mar
 Past. Frutas
-Rosqu. Araña
+Dona Araña
 Aguhelada
 Latte Oasis
 Galleta Can.
