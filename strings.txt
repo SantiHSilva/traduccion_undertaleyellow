@@ -1363,7 +1363,7 @@ case_exec
 T10 Vanish Mooch
 gml_Script_scr_start_enemy_fleeing_feisty_four
 scr_start_enemy_fleeing_feisty_four
-* Empuñas tu arma con#  enemistad...
+* Empuñas tu arma con#  odio...
 * Algo se agita dentro.
 gml_Script_scr_dialogue_battle_action_selected_action_3_axis_geno
 scr_dialogue_battle_action_selected_action_3_axis_geno
@@ -2006,7 +2006,7 @@ info
 * "Perro de Maíz" - Cura 12 PV#* (Un genuino maiz de perro#  suave, esponjosas orejas.)
 * "Parche" - Armadura DF 0#* (No es fuerte pero siempre#  será la vieja confiable.)
 * "Pluma" - Armadura DF 2#* (Una vieja y olvidada pluma.#* Necesita un buen acicalamiento.)
-* "Pañuelo D." - Armadura DF 12#* (La pieza de tela más impresionante # jamás vista.)
+* "Pañuelo D." - Armadura DF 12#* (La pieza de tela más#  impresionante jamás vista.)
 * (El sombrío recordatorio de#  tu misión. La justicia#  es necesaria.)
 * (Te hace invulnerable#  por unos pocos golpes.)
 * "Balas de goma" - Arma AT 0#* (Pequeñas, seguras, no-tóxicas#  balas de goma.)
@@ -3787,7 +3787,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_9
 * Jandroid te encuentra#  demasiado higiénico.
 * Goosic se pierde en la música.
 * ¡Sousborg se inclina ante#  tu maestría culinaria!
-* Axis se enfrio.
+* Axis se enfrió.
 * Guardener se enfría mientras el#  vapor se filtra por sus brazos.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_sparing_1
 scr_battle_core_directory_flavor_text_enemy_1_sparing_1
@@ -9664,12 +9664,12 @@ text_effect
 attack
 Todo por la#oportunidad de#hacer una#diferencia.
 Una oportunidad.
-¿PoR CU4NTO TIEMP0#VAMoS A HACER#ESTO?
+¿PoR CU4NTO#TIEMP0 VAMoS#A HACER#ESTO?
 NO PENS3 qUE LoS#ROBOTS PODR1AN#CAN5aRsE.
-PERO AQU1 ESToY.#[extremadamente] CANSADO.
+PERO AQU1 ESToY.#[extremadamente]#CANSADO.
 TODAVIA_ SigO,. .
-"oye axis por favor#haz otro#ataque genial."
-OK PeRO SOLO#PORQU3 LO PR3GUNTASTE#AMabLEMENTE.
+"oye axis por#favor haz#otro ataque#genial."
+OK PeRO SOLO#PORQU3 LO#PR3GUNTASTE#AMabLEMENTE.
 OK.
 OK. .. .
 D3J4ME RECOBRAR#eL VAPOR.
@@ -11565,7 +11565,7 @@ sound_noloop
 * Disfruta ese oro.#  Es buena compañía. 
 * Esperaré afuera.
 * ¿Dónde fuiste?
-* Es como que pestañú y#  te perdí.
+* Es como que pestañeé y#  te perdí.
 * Bueno, eh, no hagas eso#  de nuevo.
 object_array
 keyboard_key_release
@@ -16396,14 +16396,14 @@ Caí en un charco
 * Aunque Axis es un#  problema...
 * Me alegra que Chujin#  haya tenido éxito#  en ingeniería.
 * No tengo dudas que#  heredó el toque de#  su padre.
-* El problema fue que su#  padre no aprobaba la#  "innovación" precisamente.
+* El problema fue que su#  padre no aprobaba la#  "innovación" en si.
 * La expansión de Asgore#  y el etablbecimiento de#  esta fábrica...
 * Digamos que generó una#  grieta entre familiares.
 * Sin embargo, Chujin era#  diferente. 
 * Vió los beneficios del#  progreso, incluso si#  causaba fricción.
 * Aún así, él nunca#  ignoró su linaje y lo#  mucho que significaba.
 * Lo mejor de ambos#  mundos, ¿hm?
-* Hey, um...
+* Oye, um...
 * ¿No tienes amigos? 
 * Ya sabes, en la#  Superficie.
 * Deben estar realmente#  preocupados ahora, ¿no?
@@ -45122,62 +45122,62 @@ buscar
 objetos
 objectos
 gml_Script_obtenerItemSpanish
-Rollo de Croquet
+Rollo Croq.
 Palo
 Vendaje
-Roca de Caramelo
-Anillo de Calabaza
-Cebolla Estoica
-Fruta Fantasma
-Cidra de Araña
-Tarta de Caramelo
-Cinta Desteñida
+Roca Car.
+Anillo Calab.
+Cebolla Est.
+Fruta Fant.
+Cidra Araña
+Tarta Caram.
+Cinta Dest.
 Guante Duro
-Bandana Varonil
-Trozo de Hombre de Nieve
+Bandana Var.
+Trozo de Ni.
 Helagradable
-Helado para Cachorros
+Helado Cach.
 Bizcocho
 Uniscocho
-Conejo de Canela
+Conejo Can.
 Copo Temmie
-Quiche Abandonado
+Quiche Aban.
 Viejo Tutú
-Zapatos de Ballet
-Tarjeta Perforada
+Zapatos Bal.
+Tarjeta Perf.
 Perro Molesto
-Ensalada para Perro
-Resudio de Perro
-Comida de Astronauta
-Fideos Instantáneos
-Manzana Cangrejo
-Gatito Caliente
+Ens. para Per.
+Resudio Perro
+Comida Astr.
+Fideos Inst.
+Manzana Cangr.
+Gatito Cal.
 Glamburguesa
 Cebo Estelar
-Héroe Legendario
-Gafas Protectoras
-Cuaderno Rasgado
-Delantal Manchado
-Sartén Quemada
-Sombrero de Vaquero
-Pistola Vacía
-Medallón de Corazón
-Daga Desgastada
-Cuchillo Real
+Héroe Legen.
+Gafas Prot.
+Cuad. Rasgado
+Delan. Manch.
+Sartén Quem.
+Somb. de Vaq.
+Pist. Vacía
+Medallón Cor.
+Daga Desg.
+Cuch. Real
 El Medallón
-Malos Recuerdos
+Malos Rec.
 Sueño
-Carta de Undyne
-Carta de Undyne EX
-Comida Chatarra 0
+Carta Undyne
+Car. Und. EX
+Comida Ch. 0
 Junk Food 0
-Llave Misteriosa
-Cara de Filete
-Cachorro Silenc.
-Tarta de Caracol
+Llave Mist.
+Cara Filete
+Cach. Silenc.
+Tarta de Car.
 Armadura Temy
-Revólver Salvaje
-Balas de Vidrio
+Revólver Sal.
+Balas de Vid.
 Cactus Dorado
 Golden Cactus
 Guante Mojado
@@ -45190,7 +45190,7 @@ Pluma
 Pañuelo Dor.
 Piedras
 Balas de Plata
-Balas de Vidrio
+Balas de Vid.
 Balas de Goma
 Pastel Espon.
 Café Hndw
