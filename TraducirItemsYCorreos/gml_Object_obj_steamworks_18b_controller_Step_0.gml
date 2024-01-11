@@ -1771,17 +1771,17 @@ pushi.e 0
 pop.v.i self.ch_msg
 push.i 168389
 setowner.e
-push.s "Moss Salad"@1816
+push.s "Ensal. Musgo"
 conv.s.v
 pushi.e -1
 pushi.e 1
 pop.v.v [array]self.ch
-push.s "Grassy Fries"@1817
+push.s "Pata. Frit."
 conv.s.v
 pushi.e -1
 pushi.e 2
 pop.v.v [array]self.ch
-push.s "Flower Stew"@1818
+push.s "G. de Flores"
 conv.s.v
 pushi.e -1
 pushi.e 3
