@@ -1363,7 +1363,7 @@ case_exec
 T10 Vanish Mooch
 gml_Script_scr_start_enemy_fleeing_feisty_four
 scr_start_enemy_fleeing_feisty_four
-* Empuñas tu arma con#  enemistad...
+* Empuñas tu arma con#  odio...
 * Algo se agita dentro.
 gml_Script_scr_dialogue_battle_action_selected_action_3_axis_geno
 scr_dialogue_battle_action_selected_action_3_axis_geno
@@ -3787,7 +3787,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_9
 * Jandroid te encuentra#  demasiado higiénico.
 * Goosic se pierde en la música.
 * ¡Sousborg se inclina ante#  tu maestría culinaria!
-* Axis se enfrio.
+* Axis se enfrió.
 * Guardener se enfría mientras el#  vapor se filtra por sus brazos.
 gml_Script_scr_battle_core_directory_flavor_text_enemy_1_sparing_1
 scr_battle_core_directory_flavor_text_enemy_1_sparing_1
@@ -9664,12 +9664,12 @@ text_effect
 attack
 Todo por la#oportunidad de#hacer una#diferencia.
 Una oportunidad.
-¿PoR CU4NTO TIEMP0#VAMoS A HACER#ESTO?
+¿PoR CU4NTO#TIEMP0 VAMoS#A HACER#ESTO?
 NO PENS3 qUE LoS#ROBOTS PODR1AN#CAN5aRsE.
-PERO AQU1 ESToY.#[extremadamente] CANSADO.
+PERO AQU1 ESToY.#[extremadamente]#CANSADO.
 TODAVIA_ SigO,. .
-"oye axis por favor#haz otro#ataque genial."
-OK PeRO SOLO#PORQU3 LO PR3GUNTASTE#AMabLEMENTE.
+"oye axis por#favor haz#otro ataque#genial."
+OK PeRO SOLO#PORQU3 LO#PR3GUNTASTE#AMabLEMENTE.
 OK.
 OK. .. .
 D3J4ME RECOBRAR#eL VAPOR.
