@@ -45206,47 +45206,47 @@ Frutos Secos
 Té Helado
 Té Verde
 Té de Mar
-Pastel de Frutas
-Rosquilla Araña
+Past. Frutas
+Rosqu. Araña
 Aguhelada
 Latte Oasis
-Galleta Canela
+Galleta Can.
 Cerveza Raíz
 Pólvora
-Ensalada Musgo
-Patatas Fritas
+Ensal. Musgo
+Pata. Frit.
 G. de Flores
 G. Gravedad
-Papitas Fritas
+Papit. Frit.
 Carne Seca
 Pastel
-Pastelito Floral
-Perrito Caliente
+Pastel Flor.
+Perrito Cal.
 CrmMnstr
 CrmMnstr+
-Pudín de Cara-Nela
+Pudín C-B
 Sopa de Maíz
 Hamb. Feisty
-Broche Honeydew
-Broche de Banda
-Hebilla de Acero
-Chaqueta Segura
-Gafas Seguras
-Broche Delta Rune
-Pañuelo Platea.
+Br. Hndw
+Br. de Banda
+Heb. Acero
+Chaq. Segura
+Gaf. Seguras
+Broche Delta
+Pañ. Plat.
 Café Tibio
 Fósforos
-Mapa Snowdin
+Mapa Snow.
 Pico
-Balas Heladas
-Balas de Café
+Balas Hel.
+Balas Café
 Super Balas
-Balas de Piedra
+Balas de Pi.
 Clavos
-Bolitas Amistosas
-Pañuelo Dorado
+Bolit. Amis.
+Pañuelo Dor.
 F. Elegante
-Cinta de Vídeo
+Cinta Vídeo
 H. Ácido
 Collar Roto
 H2O
