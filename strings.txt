@@ -1134,7 +1134,7 @@ save_count
 * ¿Cero? ¿En serio?
 * Ish...
 * Ofrecí mis servicios#  por una razón.
-* ¡Es que por favor! ¡Muere#  un poco!
+* ¡Es que por favor!#  ¡Muere un poco!
 * Oh espera, es CERO.
 * Para que estés parado#  en este edificio, tiene#  que ser cero.	
 * Honestamente no puedo#  creer que hayas llegado#  hasta aquí.
@@ -13394,7 +13394,7 @@ Backgrounds_1
 frog_car_speed
 smoke_delay
 * ¡Y aquí vamos!
-* Buen trabajo resistiendo#  mientras yo estaba#  ocupada.
+* Buen trabajo tolerando#  mientras yo estaba#  ocupada.
 * ¡Axis se ve bastante#  aturdido, una descarga#  más debería bastar!
 * ¡Acabemos con esto!
 dialogue_spawn_noloop
