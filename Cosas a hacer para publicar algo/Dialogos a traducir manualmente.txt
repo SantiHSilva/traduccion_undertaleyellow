@@ -75,3 +75,7 @@ Deberías\nirte
 gml_Object_obj_factory_03_shaft_Step_0
 So\ntired...
 Estoy\ncansado
+
+gml_Object_obj_chem_05_computer_Create_0
+screen_message = "[AWAITING INPUT]\n"
+screen_message = "[ESPERANDO ENTRADA]\n"

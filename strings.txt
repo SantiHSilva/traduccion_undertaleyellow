@@ -2142,7 +2142,7 @@ Spam Letter 9
 Steamworks ID
 #¡Ven a nuestro lugar, nuevo amigo!#¡No importa que deambules#o te mantengas en un solo lugar!#¡Esperamos que tengas amigos con#cartas divertidas para enviar,#y siempre con una sonrisa en#tu rostro! ¡Aquí tienes más correos#sin estrés!#¡Esperamos volver a verte!##La SPSS
 #Saludos, mi salvador y querido#conocido. Me gustaría extender#mi gratitud por su ayuda.# Si no fuera por usted,#mis papilas estarían#permanentemente atadas a#ese poste.##Gracias a ti, llegué a#casa a tiempo para la cena.#¡Debo decir que Mamá#realmente se superó esta#vez! ¡La comida estaba#exquisita! Muchas gracias.#Atentamente, ##-Slurpy#
-#Si estás leyendo esto,#significa que has tenido el#placer de conocerme.##Haré esto rápido.#No te lo vas a creer.#Estoy vendiendo un NUEVO#producto PREMIUM a mitad#de precio.##Sé lo que estás diciendo,#"Con gusto pagaría el precio#completo por tus productos."#Te lo agradezco, de verdad.#Pero estos no son tiempos#para precios altos.##Busca mi puesto y te#daré los jugosos detalles.##¿Eh? ¿Qué dónde está mi puesto?#¡Ni siquiera yo lo sé!#Probablemente debería buscarlo...##¡Buena suerte!#-Mo
+#Si estás leyendo esto,#significa que has tenido el#placer de conocerme.##Haré esto rápido.#No te lo vas a creer.#Estoy vendiendo un NUEVO#producto PREMIUM a mitad#de precio.##Sé lo que estás diciendo,#"Con gusto pagaría el precio#completo por tus productos."#Te lo agradezco, de verdad.#Pero estos no son tiempos#para precios altos.##Busca mi puesto y te#daré los jugosos detalles.##¿Eh? ¿Qué dónde está mi puesto?#¡Ni siquiera yo lo sé!#Probablemente deberías#buscarlo...##¡Buena suerte!#-Mo
 #¡Saludos, Clover! La vida ha#sido una delicia desde la última#vez que nos vimos. Empaqué todas#mis pertenencias y partí#hacia Snowdin.##Hace poco encontré un lugar#bonito para establecerme. ¡Creo#que te gustará! ¡Oh! Y todos los#vecinos se mudaron conmigo.#No estoy muy seguro de adónde#fue cada uno, pero sé#que les va bien.##Ahora también estoy tomando#clases de arte con Penilla.#Me dijo la pura verdad:#mi arte necesita muchas mejoras.#Al principio me dolió,#pero luego recordé que siempre#hay que intentar mejorar.##Ah. Mira como divago#otra vez. Espero que el#sevicio de correos no cobre#extra por eso.##¡Ha sido un placer volver#a hablar contigo! Aunque sea#sobre un texto escrito. Por favor,#¡visítame en el futuro! La vida#es cada vez mejor,###-Dalv
 #Para nuestro último#recluta de los Shufflers:#Al habla Toast. Hay un personaje#allí afuera que nos olvidamos#de advertirte. Este tipo#desaliñado y con gorro azúl.#No interactúes con él o#apoyes su negocio. No te diré#por qué porque esta carta se#ve mejor como un misterio.#
 fun_swig_name
@@ -9403,7 +9403,7 @@ ast_shortcut
 * (Las puertas del armario de#  almacenamiento están#  cerradas con llave.)
 * Intento cultivar plantas de#  energía, pero siempre termino#  con estas cosas frondosas.
 * ¡Huelen a miel y no dejan#  de hacer ruidos de#  trompeta!
-* ¿Por qué siempre me#  pasa esto a#  mí?
+* ¿Por qué siempre me pasa#  esto a mí?
 * (Una planta blanca.)
 * (La planta de energía emite#  un resplandor intenso.)
 * (Luchas contra la#  tentación de probarla.)
@@ -9415,7 +9415,7 @@ ast_shortcut
 * ¡Se busca ayuda para el#  Proyecto: Steam!
 * ¿Eres un monstruo con un#  coeficiente intelectual por#  encima del promedio?
 * Probablemente no. Pero en#  caso de que lo seas,#  ¡NECESITAMOS TU CONOCIMIENTO!
-* El rey ASGORE ha convocado a las#  mentes monstruosas más grandes para#  ayudar a desarrollar la sociedad.
+* El rey ASGORE ha convocado a las#  mentes más grandes para#  desarrollar la sociedad.
 * Científicos, ingenieros,#  matemáticos, conserjes, lo#  que sea.
 * Inscríbete en el asentamiento#  del rey y dirígete al sureste.
 * Sabrás que has llegado#  cuando veas un sitio de#  construcción metálico.
@@ -12956,7 +12956,7 @@ acid_sound
 door_fade_out
 * (La puerta se derritió.)
 * (Un obstáculo.)
-* (Un complejo mecanismo de#  un candado impide#  tu salida.)
+* (Un complejo mecanismo de#  un candado impide tu#  salida.)
 * (¿Qué podría abrirlo?)
 * (No se te ocurre cómo#  hacer que esto funcione.)
 * (Usas el ÁCIDO para#  derretir la puerta.)
@@ -13967,7 +13967,7 @@ flap_sound
 random_item
 spawn_depth
 Ketchup
-* Bien por llevar a ese#  "perro" de un 7#  a un 10.
+* Bien por llevar a ese#  "perro" de un 7 a un 10.
 disc_count
 leaf2
 flowey_vulnerable
@@ -14018,7 +14018,7 @@ offset_y
 rect_size_x
 rect_size_y
 draw_vertex
-Parmesan y Red Pepper
+Parmesano y Pimiento Rojo
 * El tercer dúo italiano más#  famoso.
 alarm_beep
 fmartlet_sppool
@@ -14097,7 +14097,7 @@ reading_time
 pause_time_max
 talk_noloop
 talk_noise
-Soda and Mints
+Gaseosa y Mentas
 * La mezcla más mortífera#  de todas.
 dir_clamp
 * ¡Mierda!
@@ -14446,7 +14446,7 @@ puff_x_2
 smoke_1
 smoke_2
 Neon
-* Hasta hace poco se creía#  que no era más#  que un mito.
+* Hasta hace poco se creía#  que no era más que un mito.
 noise_alpha
 noise_timer
 noise_timer_max
@@ -16096,7 +16096,7 @@ Wow, ¡hey!#¡Sintonizo algo!
 ¡Son buenos en#lo suyo!
 Oye ¡no arruinesn#mi circuito#eléctrico!
 ¡No toques eso!#En serio, voy#a lastimarte.
-¡Vivo la vida en#gloriosa definición#estándar!#¡Nada mejor!
+¡Vivo la vida en#gloriosa#definición#estándar!#¡Nada mejor!
 Nunca oigas el#consejo de Vis.#¡Es un bocón!
 ¿Red de TV? ¡Sí,#yo hago el#trabajo y#ellos obtienen#los beneficios!
 xview_orig
@@ -25406,7 +25406,7 @@ note_hit
 y_restore
 instance
 Helio [He]
-* Hace que tu voz#  suene rara.
+* Hace que tu voz suene rara.
 * (¡Cuidado! Un grupo de#  Micro Froggits está#  acampando.)
 * (Los Micro Froggits están#  discutiendo sobre las#  luchas políticas del Subsuelo.)
 * (¡Se produce una pelea#  en el mini-bar!)
@@ -25556,7 +25556,7 @@ ceroba_body
 ceroba_body_frame
 dir_wiggle
 gml_Script_shoot_fail_gml_Object_obj_wild_revolver_circle_multi_pre_Step_0
-Mustard
+Mostaza
 * Se conserva mejor en#  estado líquido o sólido.
 Mi ESCUDO eS#INMUN3 A TuS#BAL4S.
 ASÍ qUE_DEBERÍAS#R3NDIrTE.
