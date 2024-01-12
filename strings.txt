@@ -15007,7 +15007,7 @@ Futuro
 * No te preocupes por mí.
 * Así que, ¿has estado#  viajando por el#  Subsuelo?
 * ¡Tu valentía es#  inspiradora!
-* Las Ruinas fueron solo# el comienzo de tus# obstáculos, estoy seguro.
+* Las Ruinas fueron solo#  el comienzo de tus#  obstáculos, estoy seguro.
 * Yo... me arrepiento de#  causarte problemas. Mucho.
 * Pero, con la mentalidad#  del vaso medio lleno...
 * Luchar antes con un rival#  de bajo nivel era un#  buen entrenamiento, ¿no?
@@ -21240,11 +21240,11 @@ wind_sound
 * (La bodega está cerrada. Debe#  ser donde se almacena#  la cosecha.)
 * (Intentas encender la#  válvula,  pero la manivela#  no se mueve.)
 * (Una bomba de#  agua.)
-* ¡Bienvenido a la Granja#  del lado soleado!
+* ¡Bienvenido a la Granja#  del Lado Sol!
 * No es mucho, pero lo#  llamamos hogar.
 * Me llamo Salomón.
 * Debes ser del pueblo de#  Starlo, ¿eh?
-* Tengo sentimientos encontrados#  al respecto, si te#  soy sincero.
+* Tengo sentimientos encontrados#  al respecto, si te soy#  sincero.
 * El chico rara vez habla con#  nosotros, es una pena.
 * Probablemente piense que#  odiamos sus decisiones,#  pero eso no es cierto.
 * Gracias a él, nuestra granja#  siguió funcionando durante#  la sequía.
@@ -21349,7 +21349,7 @@ sound_to_play
 * (De alguna manera#  se rompió.)
 * (Un generador de energía#  oxidado.)
 * (No estás seguro de si#  todavía funciona.)
-* (El generador está trabajando#  horas extras para#  suministrar energía.)
+* (El generador está trabajando#  horas extras para suministrar#  energía.)
 bombs
 * Supongo que debería#  haberme esperado#  esto.
 * En sus mejores tiempos,#  fue la principal fuente#  de energía del Subsuelo.
@@ -21770,7 +21770,7 @@ portrait_author_torso
 * Uh... ¿Cómo has llegado#  hasta aquí?
 * ¡B-bienvenido al#  Resort Honeydew!#  Por favor, mira#  alrededor.#  (¿Era esa la frase?)
 * ¡Saludos! #* ¡Echa un vistazo!#  Pero no toques nada.
-* ¡Buenas buenas humano!#  Echa un vistazo a mis#  mercancías. #* ¡Las cosas duras están#  fuera de los límites!
+* ¡Buenas buenas humano!#  Echa un vistazo a mis#  mercancías. #* ¡Las cosas duras está#  fuera de los límites!
 * Niño no autorizado#  detectado. Váyase.
 * ¿En qué puedo#  servirle?
 * ¡Bienvenido a Bits &#  Bites!
@@ -21962,12 +21962,12 @@ Mo
 * Si crees que es importante#  eso es. Ejem.
 * ¿Cuántos años tengo?#  ¿Qué edad aparento?
 * Lo creas o no, nací con#  canas. Lo heredé de#  mi padre.
-* Pero sí... Soy lo que llaman#  "ciudadano mayor". Significando#  que soy mucho más#  sabio que tú, joven...
-* Como he estado por aquí,#  tengo una historia#  interesante, si quieres#  oírla.
+* Pero sí... Soy lo que llaman#  "ciudadano mayor". Significando#  que soy mucho más sabio que#  tú, joven...
+* Como he estado por aquí,#  tengo una historia interesante,#  si quieres oírla.
 Tu historia (NUEVO)
 * Nací durante la guerra.#  Apenas unas semanas antes#  de nuestro Subsuelo.
 * Mi padre era un soldado en#  el ejército del rey ASGORE. Y#  un soldado fue todo#  lo que llegó a ser.
-* Cuando mi madre recibió la#  noticia de que los monstruos#  tenían que retirarse, se negó a#  irse. Insistió en#  buscar a mi padre.
+* Cuando mi madre recibió la#  noticia de que los monstruos#  tenían que retirarse, se negó a#  irse. Insistió en buscar a mi#  padre.
 * ...A pesar de las súplicas#  de los oficiales, no cambiaba#  de opinión.
 * Enseguida me entregaron a#  una niñera y me criaron en#  esta misma montaña.
 * Pero así va la vida en tales#  circunstancias. No todo el#  mundo lo tiene fácil.
@@ -22058,7 +22058,7 @@ Tu opinión
 * Familia, ¿verdad?
 * La pequeña alborotadora#  de Ceroba. Una niña muy linda.
 * Le gusta estar con nosotros#  y con los Cinco cuando su#  madre está en la ciudad.
-* Parece muy intimidante con#  un sombrero de vaquero, eso#seguro. Un poco mayor y#  encajaría en nuestro#   grupo.
+* Parece muy intimidante con#  un sombrero de vaquero, eso#  seguro. Un poco mayor y#  encajaría en nuestro#  grupo.
 * Aunque no creo que Ceroba#  lo permitiera viendo que no#  somos la mejor influencia,#  jaja.
 * De todas formas, quería#  preguntarle a Ceroba dónde#  estuvo Kanako. ¿Tal vez de#  excursión? Le gusta viajar#  por el Subsuelo.#
 * Aunque no creo que se le#  permita ir muy lejos desde...
@@ -22073,7 +22073,7 @@ Gobierno (NUEVO)
 * Que yo sepa, la última vez#  que apareció algún representante#  fue para colgar un folleto en el#  tablón de noticias. Algo de salud.
 * El viejo Fluffybuns y su#  pandilla no son precisamente#  el grupo más activo.
 * Aparte de perseguir a algún#  que otro humano, no creo que#  tengan otra cosa en la#  que emplear su tiempo.
-* ¡Parece que la raza tocó#  fondo en cierto modo, así que creo#  que todo el mundo debería venir#  aquí y gastar su ORO en un#  trozo de Superficie! Jaja.
+* ¡Parece que la raza tocó fondo#  en cierto modo, así que creo#  que todo el mundo debería venir#  aquí y gastar su ORO en un#  trozo de Superficie! Jaja.
 Gobierno
 * Oh, ¿el compañero de#  Ceroba? Um, bueno, un#  tema un poco pesado...
 * Nunca vino a esta ciudad#  en su día. No le gustaba lo que#  representaba. No es que#  la tensión fuera parcial.
@@ -22295,8 +22295,8 @@ draw_surface_part
 * Ya me negué...
 * ¿No... no fui lo suficientemente#  amable?
 * Más de un año trabajando aquí y#  sigo metiendo la pata en todo.
-* Esto es un bar,#  no una plaza de#  mercado.
-* Prueba el Blackjack en#  la carretera si quieres#  hacer trueque.
+* Esto es un bar, no una plaza#  de mercado.
+* Prueba con Blackjack en#  la carretera si quieres#  hacer trueque.
 * Ya te dije que le preguntaras#  a Blackjack sobre la#  venta.
 * ¡Oh, sí! ¡Con gusto dispensaré#  tu basura! ¡Dámela!
 * Por favor, para.
