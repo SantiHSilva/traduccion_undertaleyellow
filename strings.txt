@@ -1860,7 +1860,7 @@ H. Acid
 * (Comes la Pera Dorada.)
 * (El inmenso sabor abraza#  a tus papilas gustativas.)
 * (En general... No está mal.)
-* (Deboras el Maíz de Perro.)
+* (Devoras el Perro de Maíz.)
 * (No puedes evitar sentirte#  mal por hacerlo.)
 * (No puedes coser el Parche#  atrás de tu sombrero.)
 * (Pones la pluma en tu#  sombrero.)
@@ -1874,7 +1874,7 @@ H. Acid
 * (Cargas las Balas de Goma en#  tu pistola.)
 * (Cargas con cuidado el Vidrio#  en tu pistola.)
 * (¡Phew! ¡Sin cortes!)
-* (Cargas el Pedernal#  en tu pistola.)
+* (Cargas las Balas de#  Piedra en tu pistola.)
 * (¡Se puede iniciar un#  incendio con este!)
 * (Lames el glaseado de#  la esponja.)
 * (¡Tu boca se siente limpiesita!)
@@ -1883,7 +1883,7 @@ H. Acid
 * (Tomas un sorbo de la soda de#  adulto.)
 * (...)
 * (Sabe a agua.)
-* (Comes el pancake.)
+* (Comes el panqueque.)
 * (¡El jarabe es muy dulce!)
 * (Comes la galleta.)
 * (Sientes como si te mirara#  mientras la comes.)
@@ -2460,7 +2460,7 @@ gml_Script_scr_save_flowey_snowdin
 * ¡Hagámoslo#  de una vez!
 scr_save_flowey_snowdin
 gml_Script_scr_save_flowey_dark_ruins
-* Vaya, se está poniendo#  un poco polvoriento,#  por aquí ¿no?
+* Vaya, se está poniendo#  un poco polvoriento#  por aquí ¿no?
 col_modif
 * ¿No te gusta mucho#  la misericordia?
 * ¡Está bien, mientras#  te lleve a ser amigo#  de ASGORE!
@@ -5740,8 +5740,8 @@ scr_generate_battle_martlet_genocide
 scr_recreate_heart_battle_menu_text_martlet_genocide
 * Lo siento.
 Action 1 Fight Mode
-* Dices que lo sientes#  otra vez.
-* Dices que lo sientes#  por todo.
+* Dices que lo sientes otra#  vez.
+* Dices que lo sientes por#  todo.
 scr_dialogue_battle_action_selected_action_1_martlet_genocide
 * Bloqueas las incoherencias#  de Martlet.#* Continúa de todos modos.
 Action 2 Fight Mode 1
@@ -9116,7 +9116,7 @@ bottom-left
 rotation
 top-left
 bottom-right
-* (Un carro minero  de acero#  bien hecho.)
+* (Un carro minero de acero#  bien hecho.)
 * (Un conjunto de#  cubículos casi vacíos.)
 * (Nada demasiado interesante.)
 * ¡CUIDADO! ¡ROCAS CAYENDO!
@@ -11920,7 +11920,7 @@ overlay
 * No le he visto en#  ningún sitio desde#  la ruptura.
 * Es lo más alterado que#  ha estado en bastante#  tiempo. Estoy preocupada.
 * Hablaré con su familia#  más adelante, tal#  vez ellos sepan algo.
-* Nos vemos más#  tarde.
+* Nos vemos más tarde.
 * ¿Esa era Ceroba?
 * Me pregunto adónde#  se habrá ido con#  tanta prisa.
 * ¡Ceroba, una vieja#  conocida mía,#  me liberó!
@@ -15117,7 +15117,7 @@ No puedo decir que no#lo vi venir.
 Aún así, mis esperanzas#eran altas.
 Tiene que haber ALGUNA#manera de obtener lo que#quiero.
 Clover es#suficientemente...#competente, pero aún#así...
-Nunca funciona bien#cuando se#trata sobre él.
+Nunca funciona bien#cuando se trata#sobre él.
 Hmm...
 Podría reiniciar y probar#mi suerte otra vez...
 O...
@@ -17184,7 +17184,7 @@ part_system_position
 * Parece que cada vez ocurre más.
 * ¡Jane es mi nombre!
 * Estoy en un caso, ya ves.
-* Hace unos días, un#  residente desapareció# en estos bosques.
+* Hace unos días, un residente#  desaparecióen estos bosques.
 * Y tampoco es la primera vez.
 * A lo largo de la historia#  han surgido algunas#  historias extrañas.
 * Puertas que aparecen de#  la nada...
@@ -17192,22 +17192,22 @@ part_system_position
 * Monstruos que se desvían del#  camino y pierden el sentido#  de la orientación...
 * Cosas salvajes.
 * Soy de los que necesitan#  pruebas contundentes#  para creer algo.
-* Pero eso no significa que#  no despertara mi#  curiosidad.
+* Pero eso no significa que#  no despertara mi curiosidad.
 * Así que cuando oí hablar de#  ese monstruo desaparecido,#  ¡tuve que investigar!
 * No pasaron unos minutos antes#  de que mi brújula dejara#  de funcionar y...
 * Bueno... ¡Me convertí en un#  creyente, heh!
 * Qué hacer, qué hacer...
 * Tiene que haber algo o#  alguien detrás de#  todo esto, ¿no?
-* Aunque los monstruos ha#  vivido en el Subsuelo#  durante décadas,
+* Aunque los monstruos han#  vivido en el Subsuelo#  durante décadas,
 * todavía hay mucho misterio#  en todo esto.
 * Hmm...
 * Sé lo que estás pensando, y#  también fue mi primera#  hipótesis.
-* Es sólo magia, ¿verdad?
+* Es solo magia, ¿verdad?
 * ¡El Subsuelo está lleno de#  cosas!
 * Bueno, obviamente tiene#  que serlo.
 * Pero no lo sé...
 * Algunos de estos#  descubrimientos parecen#  intencionados.
-* Tengo que resolver esto en#  cuanto salga de#  este bosque.
+* Tengo que resolver esto en#  cuanto salga de este bosque.
 * No te preocupes por quedarte si#  tienes sitios donde estar,#  ¡estaré bien!
 * Todavía me queda comida en mi#  bolsa.
 * Cuando llegue la hora de#  irme, empezaré a caminar#  en una dirección.
@@ -17297,7 +17297,7 @@ Prepárate para mi#más fuerte#ataq-
 * (No se mueve.)
 dr
 * (Es un trozo de maíz#  abandonado.)
-* (¡Obtuviste un Maíz Dulce!)
+* (¡Obtuviste un Caramelo#  Maíz!)
 * (Probablemente no sea#  lo suficientemente bueno#  para ti.)
 * (Una hermosa Pera Dorada#  de aspecto delicioso#  descubre tu mirada.)
 * (¡Obtuviste una#  Pera Dorada!)
@@ -17409,7 +17409,7 @@ draw_triangle
 * ¿Disfrutando del#  paisaje?
 * Antes de que continúes,#  solo quería que lo#  supieras.
 * Nadie de aquí va#  realmente a las Ruinas.
-* Ahora que estamos#  aquí, bueno,#  ¿cómo decirlo?
+* Ahora que estamos#  aquí, bueno, ¿cómo#  decirlo?
 * Nadie se dará cuenta#  de que faltan monstruos#  y sobra un poco de polvo.
 * Todas tus acciones#  hasta ahora, están#  como selladas.
 * Nuestro pequeño secreto.
@@ -17454,7 +17454,7 @@ geno_snowdin
 * Espero que despejen el#  camino pronto. No veo#  la hora de volver a moverme.
 * Empiezo a tener dudas#  sobre esto como lugar#  de luna de miel.
 * No se siente seguro.
-* Pero no puedo decírselo a#  mi mujer.#  La molestaría.
+* Pero no puedo decírselo a#  mi mujer. La molestaría.
 * ¿Tú también te has quedado?
 * Perdí a mi mujer en#  el alboroto.
 * Este fue el último lugar#  donde la vi.
@@ -18114,13 +18114,13 @@ hsprite
 * Al principio pensé que nuestra#  música era tan mala, luego#  dijeron que había peligro.
 * Seguro que no es lo que#  creo que es...	
 * Otra vez no...
-* Uh... sí, lo siento tuvimos que#cancelar el show.
+* Uh... sí, lo siento, tuvimos que#  cancelar el show.
 * Tenemos un concierto en#  Waterfall la semana que viene.#  Nos vemos más tarde.
 * Es un extraño giro#  de los acontecimientos.
 * ¿Me pregunto adónde se#  habrán ido todos?
 * Supongo que no lo sabes.
 * Espero que esta evacuación#  no dure demasiado.
-* Quiero volver a#  subir y tocar.
+* Quiero volver a subir#  y tocar.
 * Toda esta situación#  es terrible.
 * Es demasiado deprimente#  para poner música ahora.
 * Espero que todo el#  mundo esté bien.
@@ -18135,7 +18135,7 @@ hand_displacement_y
 * Me falta un guante.
 * "Uno esperaría que mi#  derecha se sintiera más cómoda#  que la izquierda, pero..."
 * No lo siento cómoda#  en absoluto.
-* (Hay un solo#  guante en el suelo.)
+* (Hay un solo#guante en#  el suelo.)
 * (Parece como si hubiera#  sido recientemente descartado.)
 * Ojalá mi mano izquierda#  fuera tan cómoda como#  la derecha.
 * Normalmente tengo dos#  guantes para que#  mi calor sea simétrico.
@@ -18194,9 +18194,9 @@ swimmer_accel
 * Sea lo que sea, el agua es#  tan relajante que a la gente#  no parece importarle.
 * Al menos a mi no.#  Todo se derrite.
 * Ahhhh.
-* Tan agradable y#  cálido.
+* Tan agradable y cálido.
 * Una pequeña fuente termal.
-* El agua se#  está enfriando.
+* El agua se está enfriando.
 * (¡Que curioso!)
 * (Varios Micro Froggits están#  disfrutando en su propia#  fuente termal).
 * (¡Uno de ellos incluso trajo#  microflotadores!)
@@ -18280,7 +18280,7 @@ icecube
 ball_collider
 phy_active
 compound
-* (Te das cuenta de que#  hay un Panqueque#  fresco debajo del banco.)
+* (Te das cuenta de que#  hay un Panqueque fresco#  debajo del banco.)
 * (¡Obtuviste un Panqueque#  Hndw!)
 * ¿Hm? Oh, uh, ¡hola!
 * Lo siento, no sé#  dónde tenía la cabeza.
@@ -18322,12 +18322,12 @@ battle_flag
 * Bien, que tal si nos#  apuramos y alcanzamos a#  los otros...
 * ¡Entonces vuelvo#  y nadie lo sabrá!
 * Yo... No tengo ni idea#  de cómo manejar esto.
-* ASGORE sabría#  qué hacer.
+* ASGORE sabría qué#  hacer.
 * Deberías ir a hablar#  con él.
 * Hay un río más adelante.#  Un bote está amarrado#  allí.
-* La corriente debería#  llevarnos a Hotland.
+* La corriente debería#  llevar a Hotland.
 * Me reuniré contigo#  cuando llegues allí.
-* Mientras tanto...#  tengo trabajo que atender.
+* Mientras tanto... tengo#  trabajo que atender.
 * No estás libre de#  sospecha, Clover.
 * A menos que decidas#  ahora mismo cambiar tus#  acciones...
 * La Guardia Real te#  encontrará. 
@@ -18390,7 +18390,7 @@ aviator_xspd
 * Si sigues esta#  corriente...
 * Estarás viviendo#  en Hotland antes de#  que te des cuenta.
 * Ahora no hay#  tiempo que perder.
-* ¡Hasta luego,#  Clover!
+* ¡Hasta luego, Clover!
 * ¡Hasta luego,#  Sombrero-Pistolero!
 * Vale, he estado#  pensando. 
 * Sombrero-Pistolero no#  puede ser tu nombre#  real.
@@ -18624,7 +18624,7 @@ pl_sprite
 * (Los restos encharcados#  de un viejo cofre.)
 * (Ves una pequeña bolsa#  de papel seca guardada#  en el interior.)
 * (¿Te lo llevarás?)
-* (¡Conseguiste un#  poco de mezcla seca!)
+* (¡Conseguiste un poco de#  frutos secos!)
 * (Un viejo cofre.)
 * (Aparatos y artefactos llenan#  el espacio del escritorio.)
 * (Sobre todo ello... un mapa.)
@@ -18675,7 +18675,7 @@ fadein_time
 * Esta es mi TNT, ¿vale?
 * No se lo robé a mi hermano#  de las minas, ¿vale?
 * Esta X estaba aquí antes#  de que yo llegara, ¿vale?
-* Solo estoy esperando a que#  pase la tormenta,#  ¿vale?
+* Solo estoy esperando a que#  pase la tormenta, ¿vale?
 * Sal de mi caso......
 * por favor.
 * No soporto esta tormenta#  de arena.
@@ -19509,10 +19509,10 @@ current_mus
 * ¿Cómo lo llevas?
 * Mira, no puedo#  perdonarte por lo#  que hiciste. Aún no.	
 * Sin embargo, percibo#  bondad en ti. Quiero#  corregir tus errores.	
-* Solo te estabas defendiendo,#  ¿verdad?	
+* Solo te estabas#  defendiendo, ¿verdad?	
 * Bueno, revolcarse en el#  pasado no servirá de#  nada.	
 * Quiero ayudarte. Yo#  creo en ti.
-* ...también te dejé#  escapar en Snowdin,#  así que...
+* ...También te dejé#  escapar en Snowdin,#  así que...
 * Suena bien.
 * Tomaré eso como un#  sí.
 * Esto será bueno para#  los dos.
@@ -19565,7 +19565,7 @@ Elevador
 * Pero cuando llegó el#  momento, volví.
 * Curiosamente, el#  progreso de esa semana#  fue superior a la media.
 * No había tenido una#  emergencia como esta#  desde el viejo derrumbe.
-* Ese día abandonó#  una buena instalación.
+* Ese día se abandonó#  una buena instalación.
 * Si alguna vez ves a#  mi niña por ahí,
 * ¡dile que su viejo#  le echa de menos!
 * Si te vas, mantente#  a salvo ahí fuera.
@@ -19625,7 +19625,7 @@ Capataz
 * ¡Espero que lo hayas#  pasado bien en#  Mining Co.!
 * Si necesitas un lugar#  donde esconderte,#  puedes quedarte aquí.
 * Odiaría que un joven#  como tú se metiera#  en problemas.
-* Espero que el#  pequeño Moray#  esté bien...
+* Espero que mi Moray#  esté bien...
 * Tengo que ir al#  Salvaje Este en cuanto#  pueda.
 * Bruh...
 target_bounds_left
@@ -22647,8 +22647,8 @@ Claramente Axis no#fue hecho para perdurar.
 ¡No creas las historias#tristes de Ceroba!
 ¡No puedes rendirte#ahora, Clover!
 ¡Es hora de acabar#con Ceroba de una vez!
-Es más dura de lo#que parece, ¿Eh?
-Por suerte, ¡Tú también!
+Es más dura de lo#que parece, ¿eh?
+Por suerte, ¡tú también!
 No dejes que la fachada#brillante de esta guarda#te detenga.
 Sé qué es un monstruo#débil cuando lo veo.
 ¡Vaya, sí que estos#monstruos son crueles!
@@ -23992,7 +23992,7 @@ Gracias- digo#
               #¡iglúU!
 ¡¡IGLÚ IGLÚ!!
 Ow... Digo-                
-             #SONIDO DE IGLÚ
+             #SONIDO DE IGLU
 I-Iglú?
 ¡Sonidos de iglú#repelente!
 Iglú iglú.
@@ -24305,7 +24305,7 @@ Yo uhhh...#¡Ya se me#ocurrirá algo!
 ¡Te encontraré de#nuevo, pequeño#humano!
 ¡Con un plan de#acción nuevo y#mejorado!
 Bueno...
-Aquí estamos#de nuevo. Por#supuesto.
+Aquí estamos de#nuevo.#Por supuesto.
 Podría aceptar#este resultado#y esperar.
 Quién sabe#cuánto tiempo#tardará y aún#peor,
 Si el próximo humano#tendrá la voluntad#de hacer lo que Clover#no pudo.
@@ -24320,7 +24320,7 @@ Y todas las#ventajas que#conlleva...
 Quiero decir,#dijeron#específicamente#"no lo dudes".
 ¡LO TENGO!
 * Echas un vistazo dentro#  del barril y encuentras#  algunos granos de café.
-* (¡Obtuviste Balas#  de Café!)
+* (¡Obtuviste Balas de#  Café!)
 * (Un barril vacío.)
 Vale, ¡¿qué#está pasando?!
 Quiero decir,#no me malinterpretes,#¡ser atacada duele!
@@ -24414,7 +24414,7 @@ Si vas por ahí#hiriendo a todo el#mundo todo el#tiempo, bueno...
 ¡¿Le haces esto a#todo el que intenta#ser amable contigo?!
 Tú...#tú lo haces,#¿verdad?
 Tú eres de quien#todos huyen,#¿verdad?
-Y-yo no se#que hacer...#He sido tan...#ingenua.
+Y-yo no sé#qué hacer...#He sido tan...#ingenua.
 Solo eres un niño.
 Bueno, seré#honesta contigo.
 Mi manual no dice#nada sobre esta#situación específica.
