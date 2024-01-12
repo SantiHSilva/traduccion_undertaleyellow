@@ -15992,7 +15992,7 @@ pressedButton
 3(X)
 [PRESS BUTTON]
 CONFIG. JOYSTICK
-Volver
+Regresar
 CONFIRMAR - [Z, ENTER]::
 CANCELAR  - [X, SHIFT]::
 MENÚ    - [C, CTRL] ::
@@ -45395,3 +45395,7 @@ NV
 BORDE_MARTLET
 BORDE_CEROBA
 BORDE_CORREDOR
+BORDE_BAILADOR
+  * ¡Clover! ¡Ya casi lo#    rompo!
+  * Lo que sea que hagas,#    ¡parece funcionar!
+  * ¡Sigue hasta que no#    tenga combustible!
