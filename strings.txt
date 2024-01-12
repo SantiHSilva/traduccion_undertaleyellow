@@ -15992,7 +15992,7 @@ pressedButton
 3(X)
 [PRESS BUTTON]
 CONFIG. JOYSTICK
-Volver
+Regresar
 CONFIRMAR - [Z, ENTER]::
 CANCELAR  - [X, SHIFT]::
 MENÚ    - [C, CTRL] ::
