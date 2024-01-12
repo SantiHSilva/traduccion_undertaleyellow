@@ -14514,7 +14514,7 @@ No me lo#recuerdes.
 No opino#lo mismo.
 Ha intentado#captar una#señal#por siglos.
 Ugh, el#entretenimiento#de Telly es tan...#temporal.
-Un consejo, por#favor rebobina tus#cintas antes de#alimentarme.
+Un consejo, por#favor rebobina#tus cintas antes#de alimentarme.
 ¿Puede alguien#solo callar a#Señorita cerebro#de tubo?
 Solo... acaba#con esto.
 image_speed_counter
@@ -16510,7 +16510,7 @@ Ah.
 * No son las mejores#  condiciones laborales#  por lo que veo.
 * Aunque si sé que el#  trabajo era muy bien#  pagado.
 * Obvio, cuando Chujin lo#  dejó, necesitamos una#  nueva fuente de ingresos.
-* Conseguí un trabajo#  part-time en Cafe Dune#  para ayudar con Kanako.
+* Conseguí un trabajo#  parcial en Café Dune#  para ayudar con Kanako.
 * El trabajo estaba bien#  pero mi jefe era... 
 * ...Digamos que hay un#  paro laboral por allí.
 * Quizás debimos usar#  los ahorros de Chujin#  pero...
