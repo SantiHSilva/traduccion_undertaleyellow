@@ -45399,3 +45399,6 @@ BORDE_BAILADOR
   * ¡Clover! ¡Ya casi lo#    rompo!
   * Lo que sea que hagas,#    ¡parece funcionar!
   * ¡Sigue hasta que no#    tenga combustible!
+bordemode
+BORDES EN PANTALLA COMPLETA:
+(F3)
