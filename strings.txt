@@ -13624,7 +13624,7 @@ move_range
 spray_interval
 spray_amount
 new_spray
-Party Popper
+Fiesta Pop
 * El elemento sorpresa.
 trapdoor_spawn_particles
 * Oh, oye.
