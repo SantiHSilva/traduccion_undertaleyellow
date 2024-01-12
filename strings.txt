@@ -2418,7 +2418,7 @@ gml_Script_scr_save_flowey_snowdin
 * Mayor será ese riesgo#  de congelación.
 * ¡Ahora muévete!
 * ¿Qué tal lo llevas?
-* Las cosas no se ponen#  más fáciles, ¿eh?.
+* Las cosas no se ponen#  más fáciles, ¿eh?
 * Sería bueno pasar#  por aquí sin molestias.
 * Supongo que el#  mundo no funciona así.
 * Así son los monstruos,#  nunca pueden ocuparse#  de sus propios asuntos.
@@ -15648,7 +15648,7 @@ Ni te atrevas#en pensar matarme#también.
 Recuerda, yo soy#quien te mantiene#con vida.
 Tú vida está#en mis manos.
 No te preocupes,#no te juzgaré#por tus acciones.
-Los amigos no son#juiciosos entre si,# ¿verdad?
+Los amigos no son#juiciosos entre si,#¿verdad?
 Tú me cubres#y yo te cubro.
 Así que salgamos#de aquí,#¿si, amiguito?
 animateTalk
@@ -16791,7 +16791,7 @@ diary_music
 * Me levanté de la cama, me#  cepillé los colmillos y#  desayuné un buen tazón de maíz.
 * Pops hizo un chiste muy#  gracioso a costa de Broom#  y todos nos reímos.
 * Me puse mi capa y salí#  a dar mi paseo diario.
-* Me he dado cuenta de que#  hoy ha aparecido otro maíz#  azul en tu maizal.
+* Me he dado cuenta de que#  hoy ha aparecido otro maíz#  azul en el maizal.
 * Siempre me siento mal por#  tirar el maíz especial, pero#  no puedo arriesgarme a enfermar.
 * Algo interesante ocurrió#  un poco más tarde.
 * Escuché a Flier y Penilla#  hablando de mí...
@@ -23201,7 +23201,7 @@ enemy_sparing_old
 enemy_betrayal_noloop
 attack_start
 ¿Ves ese corazón? Esa#es tu ALMA. ¡La#culminación de#tu ser!
-Tu LV representa#tu AMOR... es...
+Tu NV representa#tu AMOR... es...
 Je... Estoy seguro#de que no tendrás que#preocuparte por eso.
 ¡En el subsuelo,#los monstruos pueden#intentar#atacarte!
 Si ves#proyectiles#como estos...
@@ -23361,7 +23361,7 @@ Solo#quiero#ver una#sonrisa.
 *ladra*#*ladra*
 ¡Es la#intención#lo que#cuenta!
 ¿Por qué#no estás#feliz?
-Me siento...#lastimada.
+Me#siento...#lastimada.
 Te amo#tanto <3
 Eres tan#dulce <3
 ¡Los#abrazos#son la#mejor#medicina!
@@ -23421,7 +23421,7 @@ rorrim b
 random_sound
 distance_max
 move_speed_current
-¡NO NO! ¡EL RUIDO#MOLESTA! ¡EL#RUIDO#MOLESTA!
+¡NO NO! ¡EL RUIDO#MOLESTA! ¡EL#RUIDO MOLESTA!
 ¡Demasiada bulla#aquí! ¡HUSHH#HUSHH!
 Dulce silencio...
 ¿Escuchhas esto?#¿No? Bien...
@@ -25131,7 +25131,7 @@ Así que sólo#diré esto:
 Lo siento...
 A todos.
 obj_quote_defeat_ext_2
-MISS
+FALLASTE
 sound_play_noloop
 * EsTA P_ERTA esT4 SELLADA#  ASÍ QUE...
 * D3jANOS S0lOS, POr fAVOR.
