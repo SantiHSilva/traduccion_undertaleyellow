@@ -22700,8 +22700,8 @@ menu_option_selected
 menu_option_number
 Reintentar
 RITMO-AUTO.:
-ON
-OFF
+SÍ
+NO
 AUTO-DISPARO ({0}):
 heart_xx
 heart_yy
@@ -24599,8 +24599,8 @@ auto_advance_timer
 position_max
 CONFIG. DEL JUEGO
 ACCESIBILIDAD
-Sacudir al sufrir daño:
-Siempre reintentar:
+SACUDIR AL SUFRIR DAÑO:
+SIEMPRE REINTENTAR:
 CORRER AUTOMÁTICAMENTE:
 AUTODISPARO (mantén [C]):
 RITMO AUTOMÁTICO:
