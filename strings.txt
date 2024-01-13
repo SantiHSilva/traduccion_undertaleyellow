@@ -10381,7 +10381,7 @@ sprite_tex
 * ¿Yo?
 * Has encontrado algo#  de valor, ¿verdad?
 * ...Bien.
-* Allí. Su salida,#  mi rey.
+* Allí. Su salida,#  al toque mi rey.
 * ¿Olvidaste lo que dije#  cuando empezaste por#  este camino?
 * Yo tengo el control aquí.
 * Eso no ha cambiado ni#  cambiará, ¿entendido?
