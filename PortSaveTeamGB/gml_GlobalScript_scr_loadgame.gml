@@ -304,6 +304,7 @@ function scr_loadgame() //gml_Script_scr_loadgame
             }
         }
         ds_list_string = ds_list_write(temporal)
+        ini_write_string("MailUnclaimed", 0, ds_list_string)
    
         ds_list_read(global.mail_unclaimed_list, ds_list_string)
 
