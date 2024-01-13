@@ -9041,9 +9041,9 @@ reverse
 * (Los restos de un muñeco#  de nieve.)
 * (Una vez lleno de vida.)
 * (Ahora lleno de potencial#  para una nueva vida.)
-* ¡Bienvenido al#  Shopkeeper Honeydew!
-* Norte: El Honeydew Lodge
-* Noroeste: El Hotspring#  de Honeydew
+* ¡Bienvenido al#  Tendero Honeydew!
+* Norte: Cabaña Honeydew 
+* Noroeste: Aguas Termales#  Honeydew
 * Este: Volver a Snowdin
 * ¡Por aquí se va#  a las aguas termales!
 * (El agua está bloqueada#  por las escaleras.)
@@ -15486,7 +15486,7 @@ cell
                                ##  "Monstruo Jefe" 
 * Significa que tiene#  rasgos especiales; más#  poder que otros...
 * Cuando lo derribes,#  su ALMA permanecerá#  intacta.
-* Pero solo por un momento#  antes de que... ¡BUM!#  Tú ganas.
+* Pero solo por un momento#  antes de que...¡BUM!#  Tú ganas.
 * He oído que el tipo#  también es inmortal.#  ¡No envejece nunca!
 * Al menos, ya no.
 * Salvaje, ¿eh?
@@ -18311,7 +18311,7 @@ compound
 * ¡No hay forma de que#  pueda decir que no a una#  carita tan linda como tú!
 * ¡Reúnete conmigo más#  adelante y veremos mi#  plan para ir a casa!
 battle_flag
-* ¡Dios mío!#  ¿Te has quedado atrás?
+* ¡Dios mío!#  ¿Te quedaste atrás?
 * ¿Puedo preguntarte#  tu nombre?
 * Hmm... no está en la#  lista de residentes...
 * Ummm... ves, esto es#  difícil. No puedo#  dejar mi puesto.
@@ -18384,7 +18384,7 @@ aviator_xspd
 * ¡Wowie, que día!
 * Felicidades, amigo.
 * Has vencido a tu primer#  Guardia Real.
-* Aunque no estoy seguro#  de cómo la ascendieron#  más allá de plumero.
+* Aunque no estoy seguro#  de cómo la ascendieron#  más allá de plumera.
 * Aunque hay que darle#  algo de crédito,
 * este barco parece#  ser tu boleto para#  salir del frío.
 * Si sigues esta#  corriente...
