@@ -22,8 +22,56 @@ function scr_loadgame() //gml_Script_scr_loadgame
         }
         global.player_exp = ini_read_real("Save1", "EXP", 0)
         global.player_weapon_modifier = ini_read_string("Save1", "Ammo", "Rubber Ammo")
+
+        migracion1 = ds_map_create()
+
+        ds_map_add(migracion1, "Mun. de Piedritas", "Pebble Ammo")
+        ds_map_add(migracion1, "Mun. de Café", "Cff Bean Ammo")
+        ds_map_add(migracion1, "Mun. de Vidrio", "Glass Ammo")
+        ds_map_add(migracion1, "Super Mun.", "Super Ammo")
+        ds_map_add(migracion1, "Mun. de Plata", "Silver Ammo")
+        ds_map_add(migracion1, "Mun. de Hielo", "Ice Pellets")
+        ds_map_add(migracion1, "Pedernal", "Flint")
+        ds_map_add(migracion1, "Bolitas de Amistad", "Friendliness Pellets")
+        ds_map_add(migracion1, "Clavos", "Nails")
+
+        if ds_map_exists(migracion1, global.player_weapon_modifier){
+            global.player_weapon_modifier = ds_map_find_value(objetos, buscar);
+            ini_write_string("Save1", "Ammo", global.player_weapon_modifier)
+        }
+
         global.player_armor = ini_read_string("Save1", "Armor", "Worn Hat")
+
+        migracion2 = ds_map_create()
+        ds_map_add(migracion2, "A. Juguete", "Toy Gun")
+        ds_map_add(migracion2, "Revolver Salvaje", "Wild Revolver")
+
+        if ds_map_exists(migracion2, global.player_armor){
+            global.player_armor = ds_map_find_value(objetos, buscar);
+            ini_write_string("Save1", "Weapon", global.player_armor)
+        }
+
         global.player_armor_modifier = ini_read_string("Save1", "Accessory", "Patch")
+
+        migracion3 = ds_map_create()
+        ds_map_add(migracion3, "Parche", "Patch")
+        ds_map_add(migracion3, "Pluma", "Feather")
+        ds_map_add(migracion3, "Pin Honeydew", "Honeydew Pin")
+        ds_map_add(migracion3, "Pin Merc. de Banda", "Band Merch Pin")
+        ds_map_add(migracion3, "C. de Seguridad", "Safety Jacket")
+        ds_map_add(migracion3, "Hebilla de Acero", "Steel Buckle")
+        ds_map_add(migracion3, "Funda Elegante", "Fancy Holster")
+        ds_map_add(migracion3, "G. de Seguridad", "Safety Goggles")
+        ds_map_add(migracion3, "Pañuelo P.", "Silver Scarf")
+        ds_map_add(migracion3, "Pañuelo D.", "G. Bandana")
+        ds_map_add(migracion3, "Parche Runa Delta", "Delta Rune Patch")
+        ds_map_add(migracion3, "Bufanda D.", "Golden Scarf")
+
+        if ds_map_exists(migracion3, global.player_armor_modifier){
+            global.player_armor_modifier = ds_map_find_value(objetos, buscar);
+            ini_write_string("Save1", "Accessory", global.player_armor_modifier)
+        }
+
         global.player_gold = ini_read_real("Save1", "Gold", 0)
         if ini_key_exists("Save1", "PS"){
             global.current_hp_self = ini_read_real("Save1", "PS", 1)
