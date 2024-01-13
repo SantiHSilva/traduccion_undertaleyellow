@@ -147,7 +147,6 @@ function scr_loadgame() //gml_Script_scr_loadgame
             global.mail_flag[i] = ini_read_real("MailFlags", string(i), 0)
         for (i = 0; i < array_length_1d(global.mail_flag); i++)
             global.mail_flag[i] = ini_read_real("MailFlags", string(i), 0)
-        global.mail_count = ini_read_real("Mail", "1", 0)
         global.mail_pinned = ini_read_real("Mail", "2", 0)
         global.tinypuzzle = ini_read_real("Misc", "01", 5)
         deaths = ini_read_real("Misc", "Deaths", 0)
@@ -238,12 +237,76 @@ function scr_loadgame() //gml_Script_scr_loadgame
         }
         var ds_list_string = ini_read_string("DBox", 0, "0")
         ds_list_read(global.box_slot_list, ds_list_string)
-        ds_list_string = ini_read_string("Mail", 0, "0")
-        ds_list_read(global.mail_list, ds_list_string)
+
+
+        if ini_key_exists("Correo", "1") {
+            global.mail_count = ini_read_real("Correo", "1", 0)
+            ini_write_real("Mail", "1", global.mail_count)
+            ini_key_delete("Correo", "1")
+        } else {
+            global.mail_count = ini_read_real("Mail", "1", 0)
+        }
+
+        migracioncorreos = ds_map_create()
+        ds_map_add(migracioncorreos, "Carta de Intro.", "Intro Letter")
+        ds_map_add(migracioncorreos, "Carta de Sluppy", "Slurpy Letter")
+        ds_map_add(migracioncorreos, "Carta de Mo", "Mo Letter")
+        ds_map_add(migracioncorreos, "Carta de Dalv", "Dalv Letter")
+        ds_map_add(migracioncorreos, "Carta de Shufflers", "Shufflers Letter")
+        ds_map_add(migracioncorreos, "Carta del Resort", "Resort Letter")
+        ds_map_add(migracioncorreos, "Mezclándolo (Ensayo)", "Mixin' It Up! (Essay)")
+        ds_map_add(migracioncorreos, "Carta de Martlet", "Martlet's Lette")
+        ds_map_add(migracioncorreos, "ASP", "PSA")
+        ds_map_add(migracioncorreos, "Puntos Importantes", "Bullet Points")
+        ds_map_add(migracioncorreos, "Act. de Starlo", "Starlo Update")
+        ds_map_add(migracioncorreos, "Starlo (Urgente)", "Starlo (Urgent)")
+        ds_map_add(migracioncorreos, "Carta de Sluppy 2", "Slurpy Letter 2")
+        ds_map_add(migracioncorreos, "Ceroba (Importante)", "Ceroba (Important)")
+        ds_map_add(migracioncorreos, "¿¿¿CORREO???", "MAIL???")
+        ds_map_add(migracioncorreos, "Carta Spam 1", "Spam Letter 1")
+        ds_map_add(migracioncorreos, "Carta Spam 2", "Spam Letter 2")
+        ds_map_add(migracioncorreos, "Carta Spam 3", "Spam Letter 3")
+        ds_map_add(migracioncorreos, "Carta Spam 4", "Spam Letter 4")
+        ds_map_add(migracioncorreos, "Carta Spam 5", "Spam Letter 5")
+        ds_map_add(migracioncorreos, "Carta Spam 6", "Spam Letter 6")
+        ds_map_add(migracioncorreos, "Carta Spam 7", "Spam Letter 7")
+        ds_map_add(migracioncorreos, "Carta Spam 8", "Spam Letter 8")
+        ds_map_add(migracioncorreos, "Carta Spam 9", "Spam Letter 9")
+        ds_map_add(migracioncorreos, "Steamworks ID", "Steamworks ID")
+        ds_map_add(migracioncorreos, "Cartel de Se Busca", "Missing Poster")
+
+        if ini_key_exists("Correo", 0){
+            ds_list_string = ini_read_string("Correo", 0, "0")
+            temporal = ds_list_create()
+            ds_list_read(temporal, ds_list_string)
+            for (i = 0; i < ds_list_size(temporal); i++){
+                if ds_map_exists(migracioncorreos, ds_list_find_value(temporal, i)){
+                    ds_list_replace(temporal, i, ds_map_find_value(migracioncorreos, ds_list_find_value(temporal, i)))
+                }
+            }
+            ds_list_string = ds_list_write(temporal)
+            ds_list_read(global.mail_list, ds_list_string)
+            ini_write_string("Mail", 0, ds_list_string)
+            ini_key_delete("Correo", 0)
+        } else {
+            ds_list_string = ini_read_string("Mail", 0, "0")
+            ds_list_read(global.mail_list, ds_list_string)
+        }
         ds_list_string = ini_read_string("Mail", "3", "0")
         ds_list_read(global.mail_list_read, ds_list_string)
         ds_list_string = ini_read_string("MailUnclaimed", 0, "0")
+
+        temporal = ds_list_create()
+        ds_list_read(temporal, ds_list_string)
+        for (i = 0; i < ds_list_size(temporal); i++){
+            if ds_map_exists(migracioncorreos, ds_list_find_value(temporal, i)){
+                ds_list_replace(temporal, i, ds_map_find_value(migracioncorreos, ds_list_find_value(temporal, i)))
+            }
+        }
+        ds_list_string = ds_list_write(temporal)
+   
         ds_list_read(global.mail_unclaimed_list, ds_list_string)
+
         var ds_list_encounters = ini_read_string("Encounters", 0, "0")
         ds_list_read(global.encounter_list, ds_list_encounters)
         var ds_list_steal = ini_read_string("Robar", 0, "0")
