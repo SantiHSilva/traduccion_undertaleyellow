@@ -9253,12 +9253,12 @@ self_message
 shadow
 conveyor_belts_off
 tv_off
-* (La puerta está#  atascada).
+* (La puerta está atascada).
 * (Máquinas antiguas.)
 * (El olor de la ropa vieja sin#  lavar te hace sentir mareado.)
 * (Ropa desechada.)
 * (Un par de vaqueros cargo#  están pegados a la mesa.#  Llevan ahí un rato.)
-* (Miras dentro de#  la cámara...)	
+* (Miras dentro de la#  cámara...)	
 * (Está demasiado oscuro#  para distinguir algo.)
 steam_interval
 steam_delay
@@ -9266,7 +9266,7 @@ new_dir
 * Premio Excelencia en Ingeniería:#  Dr. Rutherford-Oscar
 * Premio Decencia en Ingeniería:#  Prof. Daniels
 * Maestría en C--
-* (No puedes deducir el#  resto.)
+* (No puedes deducir el resto.)
 mpoint_up_free
 mpoint_left_free
 mpoint_right_free
@@ -9276,7 +9276,7 @@ mpoint_dock_xx
 mpoint_dock_yy
 * ¡La seguridad es la prioridad!
 * - ¡Usa tus gafas de seguridad#  Steamworks durante las#  horas de trabajo!
-* - ¡Siempre lleva contigo#  tu identificación#  de Steamworks!
+* - ¡Siempre lleva contigo tu#  identificación de Steamworks!
 * - Descontamínate de cualquier#  material biológico peligroso#  antes de salir del complejo.
 * - ¡Pero sobre todo,#  diviértete! :)
 * (Alguna especie de propaganda).
@@ -9651,13 +9651,13 @@ pedestal_is_active
 * (Solo un poco de maíz del#  suelo. Ya sabes cómo es.)
 * (Esto es un desastre.)
 * (Un escritorio con recuerdos#  del oeste y una máquina#  de coser.)
-* (El trozo de tela bajo la#  máquina ha quedado#  sin terminar.)
+* (El trozo de tela bajo la#  máquina ha quedado sin#  terminar.)
 * (Asuntos pendientes.)
 * (Sobre la cómoda hay un#  grueso almanaque agrícola#  escrito por "Solomon".)
 * (Tiene varias notas#  adhesivas asomando por#  sus páginas.)
 * (Aquí no hay nada útil.)
 * (Un cohete de dos pisos#  listo para despegar#  hacia sueños placenteros.)
-* (Nos vemos vaquero#  espacial.)
+* (Nos vemos vaquero espacial.)
 * (Una cama casera de#  mal gusto.)
 twitchy
 text_effect
@@ -9986,7 +9986,7 @@ camera
 slither c
 * AXIS MODELO 014 LISTO#  PARA CUIDAR Y PROTEGER.
   AXIS                                        
-* INTRUSOS ENCONTRADOS.#  STEAMWORKS: ZONA#  ESTE.
+* INTRUSOS ENCONTRADOS.#  STEAMWORKS: ZONA ESTE.
 * TUS CRÍMENES SON LOS#  SIGUIENTES:
 * - INVADIR PROPIEDAD#  PRIVADA.
 * - UTILIZAR MAQUINARIA#  SIN AUTORIZACIÓN.
@@ -11695,11 +11695,11 @@ shoot_noloop
 * Ahora no es un buen#  momento para esto.
 * No me patees mientras#  estoy en el suelo,#  por favor.
 * Yo... Lo siento, Star.
-* Sé que esto te está#  pesando mucho,#  pero escucha...
+* Sé que esto te está#  pesando mucho, pero#  escucha...
 * Ninguno de nosotros te#  odia. Al REAL tú.
 * ¡Te adoramos!
 * Lo que odiamos es esta#  falsa y temeraria#  persona que has creado.
-* Tengo mis propios#  problemas. Todos#  lo tenemos.
+* Tengo mis propios#  problemas. Todos#  los tenemos.
 * Ni siquiera sé si tengo#  espacio para decir#  esto pero...
 * Tráelo de vuelta.
 * Trae de vuelta al#  granjero inocente que#  una vez conocí.
@@ -11711,7 +11711,7 @@ shoot_noloop
 * ...Muy bien.
 * Clover, siento mucho#  haberte atacado.
 * Valoro tu amistad#  y el tiempo que#  hemos pasado juntos.
-* Tienes todo el#  derecho a burlarte#  pero...
+* Tienes todo el derecho#  a burlarte pero...
 * Esto es lo que#  realmente soy.
 * No soy un Sheriff de#  verdad... solo un#  granjero don nadie.
 * No digas eso, Star.
@@ -11721,15 +11721,15 @@ shoot_noloop
 * ¡Claro que sí!
 * Pero...
 * Ahórratelo. ¡Tenemos#  un grupo que reunir!
-* ¡Oh, sí! Ed y los#  demas merecen una#  disculpa.
+* ¡Oh, sí! Ed y los#  demás merecen una#  disculpa.
 * Me siento muy mal#  por hacerles daño...
 * Estoy segura de que#  te perdonarán.
 * Espero que sí...
-* Clover, Yo... te deseo#  suerte en tu viaje.
+* Clover, yo... te deseo#  suerte en tu viaje.
 * Puedo decir que has#  luchado tu parte#  justa de batallas.
 * Tu habilidad es casi...#  intimidante.
 * Tenía un plan para que#  viajáramos juntos, pero#  tú no me necesitas.
-* Después de todo,#  tengo un Sheriff#  de mi lado.
+* Después de todo, tengo#  un Sheriff de mi lado.
 * ¡Eso es, señorita!
 * No tientes a la suerte,#  Star.
 * De todos modos, dirígete#  al norte y encontrarás#  un atajo a Hotland.
@@ -14031,7 +14031,7 @@ AaAAaoo/aa/.#Bzzt.’"<<<
 //Limpiaaaar - _
 VVVamos#;-:_#A limmpiar
 ¡¡¡Para#remover el#JABÓN del#Subsuelo!!!
-Para lim//pi--#digo ayudar a#todos los gérmenes#conquistar el mundo!!
+¡Para lim//pi--#ayudar a todos#los gérmenes#conquistar el#mundo!!
 ¡¡NO, TÚ!!
 ¡Eres MALEDUCADO!#¡¡Toma ESTO!!
 ¡No puedo crEER#que Propusieras#tal Cosa!
@@ -20482,7 +20482,7 @@ Seh
 * ¡¡¡¡NeeeiGH!!!!
 bell_animation_end_next_loop
 * (Algo pasó en alguna parte.)
-* (Ya paso algo#  en alguna parte.)
+* (Ya pasó algo en alguna#  parte.)
 * (Una cerradura gigante#  impide tu salida.)
 * (Es un poco exagerado.)
 cutscene_duel_timer
@@ -20946,7 +20946,7 @@ Hablar
 * Más vapor. Fantástico.
 * Una vez más, Clover.
 * Ya lo tienes.
-* (La puerta está#  cerrada.)
+* (La puerta está cerrada.)
 * ¡Oh, hola, niño!
 * Pensé en hacer algo#  por mí mismo y conseguir#  un trabajo de verdad.	
 * A pesar de ser un bandido,#  Star no paga a nadie#  en la ciudad.	
@@ -21246,22 +21246,22 @@ wind_sound
 * Debes ser del pueblo de#  Starlo, ¿eh?
 * Tengo sentimientos encontrados#  al respecto, si te soy#  sincero.
 * El chico rara vez habla con#  nosotros, es una pena.
-* Probablemente piense que#  odiamos sus decisiones,#  pero eso no es cierto.
+* Probablemente piense que#  odiamos sus decisiones, pero#  eso no es cierto.
 * Gracias a él, nuestra granja#  siguió funcionando durante#  la sequía.
 * Su pequeño pueblo atrajo#  monstruos a esta zona después#  de que la mayoría se marchara.
 * Creo que en el fondo, #  salvar la granja era su#  verdadera motivación, creo.
-* Creo que es muy halagador el#  acento que Starlo le#  pone a su personaje.
-* Casi suena como su viejo,#  sí.
-* En realidad, mis hijos#  tienen la voz de#  Crestina, qué suerte.
-* Antes de que nacieran,#  ella siempre cantaba tan#  elegante.
-* Aunque ya no lo oigo#  nunca.
+* Creo que es muy halagador el#  acento que Starlo le pone#  a su personaje.
+* Casi suena como su viejo, sí.
+* En realidad, mis hijos tienen#  la voz de Crestina, que#  suerte.
+* Antes de que nacieran, ella#  siempre cantaba tan elegante.
+* Aunque ya no lo oigo nunca.
 * Supongo que ahora le falta#  confianza. ¿No es triste?
 * Los cultivos se ven muy bien,#  si me permites decirlo.
 * Te daría un poco, pero aún#  no están listos para comer.
 * Si estás en Valle del Oasis#  este fin de semana, ¡pásate por#  el mercado de agricultores!
 * Lo siento, no puedo hablar#  mucho. Me estoy preparando#  para la cosecha.
 * (Debe ser una de esas#  personas del Salvaje Este.)
-* ¿Eh? No, no he dicho#  nada.
+* ¿Eh? No, no he dicho nada.
 * ¿Has estado en Snowdin?
 * He oído rumores de que#  nuestras cosechas se#  cultivan por esos lugares.
 * Estoy pensando en abrir una#  investigación pronto.
@@ -21272,11 +21272,11 @@ wind_sound
 * Vete. Tengo trabajo que#  hacer.
 * ¡Oh, hola pequeño!
 * ¿Eres amigo de mi hijo?
-* Siempre está haciendo nuevos#  amigos, no puedo#  seguirle el ritmo.
+* Siempre está haciendo nuevos#  amigos, no puedo seguirle#  el ritmo.
 * En cualquier caso, ¡siéntete#  como en casa!
-* Espero que Starlo supere#  este estado con el#  tiempo.
+* Espero que Starlo supere#  este estado con el tiempo.
 * Tiene que buscarse una esposa#  y sentar la cabeza.
-* Si tan solo se hubiera ganado#  el corazón de Ceroba#  en aquel entonces...
+* Si tan solo se hubiera ganado#  el corazón de Ceroba en aquel#  entonces...
 * Creo que era demasiado tímido#  para tomar la iniciativa,#  pobre chico.
 * Cuando se comprometió con#  Chujin, él no puso un pie#  fuera durante días.
 * Al final tuve que decirle que#  siguiera adelante. Fue muy#  difícil.
@@ -21284,12 +21284,12 @@ wind_sound
 * Mejor empiezo a pensar#  en la cena...
 * Me pregunto si Gilbert y Angie#  estarán ocupados.
 * Hmm... Después de todo,#  ¡nunca es mal momento#  para una barbacoa!
-* ¡Hola de nuevo!#  ¡Tengo algunas#  noticias!
+* ¡Hola de nuevo!#  ¡Tengo algunas noticias!
 * Ahora puedes enviarte a ti#  mismo, ¡si así lo deseas!
-* "¿Enviarme a mí mismo?#  ¿Qué podría significar#  eso?"
-* Transporte, ¡todo#  gratis!
-* Si quieres viajar,#  ¡llámame!
-* Nos lanzaremos a los#  cielos ¡sin ningún#  cuidado!
+* "¿Enviarme a mí mismo?#  ¿Qué podría significar eso?"
+* Transporte, ¡todo gratis!
+* Si quieres viajar, ¡llámame!
+* Nos lanzaremos a los cielos#  ¡sin ningún#  cuidado!
 * Ahora debo irme, pero no#  te pongas nervioso...
 * No tiene más que llamar#  al timbre para solicitar#  nuestro servicio.
 * Estaba a punto de ir a#  buscarte.
@@ -21680,18 +21680,18 @@ spawn_dir_wave_inc
 * (El papel de arriba#  es una carta manuscrita.)	
 * Para: Rey ASGORE.	
 * Aunque emocionante, este#  proyecto será demandante.	
-* Necesitaremos que Mining Co.#  trabaje horas extra#  para proveer los materiales.	
-* Además, se llevó a cabo#  una reunión en la#  Fábrica.	
-* ¡Me alegra reportar#  que todo el mundo está#  a bordo!	
+* Necesitaremos que Mining Co.#  trabaje horas extra para#  proveer los materiales.	
+* Además, se llevó a cabo#  una reunión en la Fábrica.	
+* ¡Me alegra reportar que todo#  el mundo está a bordo!	
 * Ya hay varias ideas#  de robots pensadas.	
-* Cocina, limpieza, recreación;#  ¡la motivación está#  por los aires!	
-* Aunque... un ingeniero dice#  que vayamos más allá#  de un "robot protector."	
+* Cocina, limpieza, recreación;#  ¡la motivación está por los#  aires!	
+* Aunque... un ingeniero dice#  que vayamos más allá con un#  "robot protector."	
 * No estoy seguro de#  esta proposición pero#  usted es la última palabra.	
 * Como fuese, esto se#  completará.	
 * - Prof. Z.
 * (El papel debajo dice:)	
 * Proyecto: Metal y Magia:	
-* Efecto inmediato, cese#  de producciones#  en la Fábrica-	
+* Efecto inmediato, cese de#  producciones en la Fábrica-	
 * (El resto de la página#  es ilegible.)
 * Tic-toc - tic-toc -#  tic-toc...
 * La hora actual es 6:26,#  ¡mañana del Lunes!
@@ -23058,8 +23058,8 @@ path_noloop
 pl_path
 * ¡Me alegro de haberte#  atrapado a tiempo!
 * ¿Qué es esto, la tercera#  voltereta a la que#  sobrevives en tu viaje?
-* ¡Para tener el nombre de#  "Clover" seguro que#  no tienes suerte!
-* Sólo estoy bromeando#  por supuesto.
+* ¡Para tener el nombre de#  "Clover" seguro tienes#  poca suerte!
+* Solo estoy bromeando#  por supuesto.
 * Yo diría que eres más#  máquina que ese robot#  de ahí arriba, ¡jaja!
 * Dios, esperaba que#  tuviéramos una salida#  directa pero... no.
 * Si vuelves a encontrarte#  con ese pedazo de metal,#  intenta que no te vea.
@@ -25473,10 +25473,10 @@ battery_level_target
 actor_flowey
 * Caramba, ¿no es genial?
 * Todos los que conociste#  te abandonaron por sus#  propios intereses.
-* Esos no son amigos de#  verdad, de#  ninguna manera.
+* Esos no son amigos de#  verdad, de ninguna#  manera.
 * ¡Estoy aquí para ti!#  Siempre lo estaré.
 * Ahora... salgamos de#  aquí.
-* No estoy muy seguro#  de cómo abrir#  esta puerta.
+* No estoy muy seguro#  de cómo abrir esta#  puerta.
 * Espera.
 number_pad
 * ¡Esa es una forma de#  abrirla!
@@ -25546,7 +25546,7 @@ N O . . .
 N O  P U E D E S#G A N A R .   
 N O  P U E D E S#. . .
 * (Una foto de dos monstruos#  que has conocido.)
-* (Una foto de Starlo y#  Ceroba de#  adolescentes.)
+* (Una foto de Starlo y Ceroba#  de adolescentes.)
 * ¡Soy malísimo bailando!
 frame_current
 bullet_burst
