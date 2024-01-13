@@ -36,7 +36,7 @@ function scr_loadgame() //gml_Script_scr_loadgame
         ds_map_add(migracion1, "Clavos", "Nails")
 
         if ds_map_exists(migracion1, global.player_weapon_modifier){
-            global.player_weapon_modifier = ds_map_find_value(objetos, buscar);
+            global.player_weapon_modifier = ds_map_find_value(migracion1, global.player_weapon_modifier);
             ini_write_string("Save1", "Ammo", global.player_weapon_modifier)
         }
 
@@ -47,7 +47,7 @@ function scr_loadgame() //gml_Script_scr_loadgame
         ds_map_add(migracion2, "Revolver Salvaje", "Wild Revolver")
 
         if ds_map_exists(migracion2, global.player_armor){
-            global.player_armor = ds_map_find_value(objetos, buscar);
+            global.player_armor = ds_map_find_value(migracion2, global.player_armor);
             ini_write_string("Save1", "Weapon", global.player_armor)
         }
 
@@ -68,7 +68,7 @@ function scr_loadgame() //gml_Script_scr_loadgame
         ds_map_add(migracion3, "Bufanda D.", "Golden Scarf")
 
         if ds_map_exists(migracion3, global.player_armor_modifier){
-            global.player_armor_modifier = ds_map_find_value(objetos, buscar);
+            global.player_armor_modifier = ds_map_find_value(migracion3, global.player_armor_modifier);
             ini_write_string("Save1", "Accessory", global.player_armor_modifier)
         }
 
@@ -153,8 +153,89 @@ function scr_loadgame() //gml_Script_scr_loadgame
         deaths = ini_read_real("Misc", "Deaths", 0)
         for (i = 0; i < array_length(global.fun_event); i++)
             global.fun_event[i] = ini_read_real("Fun Events", string(i), 0)
-        for (i = 1; i <= 8; i++)
+        
+        migracionitems = ds_map_create()
+        ds_map_add(migracionitems, "Nada", "Nothing")
+        ds_map_add(migracionitems, "Limonada", "Lemonade")
+        ds_map_add(migracionitems, "Mun. de Piedritas", "Pebble Ammo")
+        ds_map_add(migracionitems, "Mun. de Plata", "Silver Ammo")
+        ds_map_add(migracionitems, "Mun. de Vidrio", "Glass Ammo")
+        ds_map_add(migracionitems, "Maíz dulce", "Candy Corn")
+        ds_map_add(migracionitems, "Corn Dog", "Corn Dog")
+        ds_map_add(migracionitems, "Parche", "Patch")
+        ds_map_add(migracionitems, "Pluma", "Feather")
+        ds_map_add(migracionitems, "Pañuelo D.", "G. Bandana")
+        ds_map_add(migracionitems, "Cartel de Se Busca", "Missing Poster")
+        ds_map_add(migracionitems, "Pera D.", "G. Pear")
+        ds_map_add(migracionitems, "Mun. de Goma", "Rubber Ammo")
+        ds_map_add(migracionitems, "Pastel Esponja", "Sponge Cake")
+        ds_map_add(migracionitems, "Café Hndw", "Hndw Coffee")
+        ds_map_add(migracionitems, "Pancake Hndw", "Hndw Pancake")
+        ds_map_add(migracionitems, "Oso G.B.", "G.B. Bear")
+        ds_map_add(migracionitems, "P. Caliente", "Hot Pop")
+        ds_map_add(migracionitems, "P. Tibia.", "Lukewarm Pop")
+        ds_map_add(migracionitems, "P. Fría", "Cold Pop")
+        ds_map_add(migracionitems, "Café Dorado", "G. Coffee")
+        ds_map_add(migracionitems, "Cactus D.", "G. Cactus")
+        ds_map_add(migracionitems, "Soda Adulta", "Adult Soda")
+        ds_map_add(migracionitems, "Maní Empacado", "Packing Peanuts")
+        ds_map_add(migracionitems, "Frutos Secos", "Trail Mix")
+        ds_map_add(migracionitems, "Té Frío", "Ice Tea")
+        ds_map_add(migracionitems, "Té Verde", "Green Tea")
+        ds_map_add(migracionitems, "Té de Mar", "Sea Tea")
+        ds_map_add(migracionitems, "P. de Frutas", "Fruitcake")
+        ds_map_add(migracionitems, "Dona Araña", "Spider Donut")
+        ds_map_add(migracionitems, "Agua congelada", "Icewater")
+        ds_map_add(migracionitems, "Latte del Oasis", "Oasis Latte")
+        ds_map_add(migracionitems, "Galleta Cnl.", "Cnm. Cookie")
+        ds_map_add(migracionitems, "C. de Raíz", "Root Beer")
+        ds_map_add(migracionitems, "Pólvora", "Gunpowder")
+        ds_map_add(migracionitems, "E. de Musgo", "Moss Salad")
+        ds_map_add(migracionitems, "Papas Pastosas", "Grassy Fries")
+        ds_map_add(migracionitems, "E. de Flor", "Flower Stew")
+        ds_map_add(migracionitems, "Granola G.", "Gravity Granola")
+        ds_map_add(migracionitems, "Monóxido Dihidrógeno", "Dihydrogen Monoxide")
+        ds_map_add(migracionitems, "Papas Fritas", "Popato Chisps")
+        ds_map_add(migracionitems, "Carne Seca", "Beef Jerky")
+        ds_map_add(migracionitems, "Pastel", "Cake")
+        ds_map_add(migracionitems, "Cupcake Floral", "Floral Cupcake")
+        ds_map_add(migracionitems, "Hot Dog", "Hot Dog")
+        ds_map_add(migracionitems, "Caramelo M.", "Monster Candy")
+        ds_map_add(migracionitems, "Caramelo M.+", "Monster Candy+")
+        ds_map_add(migracionitems, "Strudel C-B", "C-B Strudel")
+        ds_map_add(migracionitems, "Sopa de Maíz", "Corn Chowder")
+        ds_map_add(migracionitems, "Feisty Slider", "Feisty Slider")
+        ds_map_add(migracionitems, "Pin Honeydew", "Honeydew Pin")
+        ds_map_add(migracionitems, "Pin Merc. de Banda", "Band Merch Pin")
+        ds_map_add(migracionitems, "Hebilla de Acero", "Steel Buckle")
+        ds_map_add(migracionitems, "C. de Seguridad", "Safety Jacket")
+        ds_map_add(migracionitems, "G. de Seguridad", "Safety Goggles")
+        ds_map_add(migracionitems, "Parche Runa Delta", "Delta Rune Patch")
+        ds_map_add(migracionitems, "Pañuelo P.", "Silver Scarf")
+        ds_map_add(migracionitems, "Café Tibio", "Lukewarm Coffee")
+        ds_map_add(migracionitems, "Guante Mojado", "Soggy Mitten")
+        ds_map_add(migracionitems, "Cerillas", "Matches")
+        ds_map_add(migracionitems, "Mapa de Snowdin", "Snowdin Map")
+        ds_map_add(migracionitems, "Pico", "Pickaxe")
+        ds_map_add(migracionitems, "Mun. de Hielo", "Ice Pellets")
+        ds_map_add(migracionitems, "Mun. de Café", "Cff Bean Ammo")
+        ds_map_add(migracionitems, "Super Mun.", "Super Ammo")
+        ds_map_add(migracionitems, "Pedernal", "Flint")
+        ds_map_add(migracionitems, "Clavos", "Nails")
+        ds_map_add(migracionitems, "Bolitas de Amistad", "Friendliness Pellets")
+        ds_map_add(migracionitems, "Bufanda D.", "Golden Scarf")
+        ds_map_add(migracionitems, "Funda Elegante", "Fancy Holster")
+        ds_map_add(migracionitems, "Cinta de video", "Videotape")
+        ds_map_add(migracionitems, "Ácido C.", "H. Acid")
+        ds_map_add(migracionitems, "Collar", "Necklace")
+
+        for (i = 1; i <= 8; i++){
             global.item_slot[i] = ini_read_string("Items", ("0" + string((i - 1))), "Nothing")
+            if ds_map_exists(migracionitems, global.item_slot[i]){
+                global.item_slot[i] = ds_map_find_value(migracionitems, global.item_slot[i]);
+                ini_write_string("Items", ("0" + string((i - 1))), global.item_slot[i])
+            }
+        }
         var ds_list_string = ini_read_string("DBox", 0, "0")
         ds_list_read(global.box_slot_list, ds_list_string)
         ds_list_string = ini_read_string("Mail", 0, "0")
