@@ -2140,7 +2140,7 @@ Spam Letter 7
 Spam Letter 8
 Spam Letter 9
 Steamworks ID
-#¡Ven a nuestro lugar, nuevo amigo!#¡No importa que deambules#o te mantengas en un solo lugar!#¡Esperamos que tengas amigos con#cartas divertidas para enviar,#y siempre con una sonrisa en#tu rostro! ¡Aquí tienes más correos#sin estrés!#¡Esperamos volver a verte!##La SPSS
+#¡Ven a nuestro lugar, nuevo amigo!#¡No importa que deambules#o te mantengas en un solo lugar!#¡Esperamos que tengas amigos con#cartas divertidas para enviar,#y siempre con una sonrisa en#tu rostro! ¡Aquí tienes más#correos sin estrés!#¡Esperamos volver a verte!##La SPSS
 #Saludos, mi salvador y querido#conocido. Me gustaría extender#mi gratitud por su ayuda.# Si no fuera por usted,#mis papilas estarían#permanentemente atadas a#ese poste.##Gracias a ti, llegué a#casa a tiempo para la cena.#¡Debo decir que Mamá#realmente se superó esta#vez! ¡La comida estaba#exquisita! Muchas gracias.#Atentamente, ##-Slurpy#
 #Si estás leyendo esto,#significa que has tenido el#placer de conocerme.##Haré esto rápido.#No te lo vas a creer.#Estoy vendiendo un NUEVO#producto PREMIUM a mitad#de precio.##Sé lo que estás diciendo,#"Con gusto pagaría el precio#completo por tus productos."#Te lo agradezco, de verdad.#Pero estos no son tiempos#para precios altos.##Busca mi puesto y te#daré los jugosos detalles.##¿Eh? ¿Qué dónde está mi puesto?#¡Ni siquiera yo lo sé!#Probablemente deberías#buscarlo...##¡Buena suerte!#-Mo
 #¡Saludos, Clover! La vida ha#sido una delicia desde la última#vez que nos vimos. Empaqué todas#mis pertenencias y partí#hacia Snowdin.##Hace poco encontré un lugar#bonito para establecerme. ¡Creo#que te gustará! ¡Oh! Y todos los#vecinos se mudaron conmigo.#No estoy muy seguro de adónde#fue cada uno, pero sé#que les va bien.##Ahora también estoy tomando#clases de arte con Penilla.#Me dijo la pura verdad:#mi arte necesita muchas mejoras.#Al principio me dolió,#pero luego recordé que siempre#hay que intentar mejorar.##Ah. Mira como divago#otra vez. Espero que el#sevicio de correos no cobre#extra por eso.##¡Ha sido un placer volver#a hablar contigo! Aunque sea#sobre un texto escrito. Por favor,#¡visítame en el futuro! La vida#es cada vez mejor,###-Dalv
@@ -10884,7 +10884,7 @@ text_y_final
 * ¡Debes estar en tu#  mejor forma para lo que#  viene!
 * ¿Puedo ser honesto#  contigo?
 * Voy a ser honesto#  contigo.
-* Lo entiendo. Destruir#  por ahí, lleno de ira,#  aburrimiento...*
+* Lo entiendo. Destruir#  por ahí, lleno de ira,#  aburrimiento...
 * Arrasando con todo#  en tu camino - todos#  tenemos hobbies.
 * Pero, je, vamos...
 * ¿Cómo está esto#  contribuyendo a tu#  causa?
@@ -11537,7 +11537,7 @@ subscene
 * Es tu amigo
 * ...Mo.
 * Oye, amigo.. ¿Qué pasa con el#  fierro?
-* Pensé que teníamos una#  conexión,  ¿Sabes?
+* Pensé que teníamos una#  conexión, ¿Sabes?
 * Como un tipo de asociación#  vagamente ilegal!  
 * No crees que estoy aquí para#  apuñalarte en la espalda,#  ¿cierto?
 * ¡Podré ser varias cosas pero#  lo último que soy es un soplón!
@@ -11545,13 +11545,13 @@ subscene
 * ¡No hay nada en mi manga,#  niño! Nada más que pelaje y#  colonia ciertamente barata!
 * ¡Lo que ves es lo que#  obtienes con Mo!
 * ¡No soy un modesto rudo#  esperando una oportunidad#  para desatar un ataque!
-* Sólo soy un vendedor, ¿entiendes?
+* Sólo soy un vendedor,#  ¿entiendes?
 * Me iré, sólo baja el arma.
 Asaltar
 Abstenerse
 * Lo que quieres es dinero,#  ¿cierto?  
 * ¡Todo el mundo ama el dinero!
-* ¡T-Toma, esto es todo lo#  que tengo!
+* ¡T-toma, esto es todo lo#  que tengo!
 * (Obtuviste 450 de oro.)
 sound_noloop
 * Ok...
@@ -11670,7 +11670,7 @@ axis_pitch
 * EMPATÍA: IGNORADA_
 * BIENVENIDO A#  STEAMWORKS, HUMANO.
 * LAS COSAS NO HAN#  ESTADO YENDO A TU#  MODO, ¿ME EQUIVOCO?
-* ME TEMO QUE LO QUE#BUSCAS  HA...
+* ME TEMO QUE LO QUE#  BUSCAS  HA...
 * . . .EXPIRADO.
 * CINCO ALMAS SON TODO LO#  QUE TE ESPERAN SI#  LLEGAS AL CASTILLO.
 * PERO SUPONGO QUE YA#  DESCIFRASTE ESO.
@@ -25148,7 +25148,7 @@ sound_play_noloop
 * El ala de la fábrica,#  ¿cierto?
 * Seh. Este lugar tiene#  más candados que un#  cerrajero.
 * Bien, veamos...
-* Es llamado "humor."#  Supongo que no has#  oído hablar de él.
+* Es llamado "humor".#  Supongo que no has#  oído hablar de él.
 * (Rayos, y pensaba que#  yo era el desalmado.)
 * Bueno, ciertamente hay#  un montón de basura#  tirada por ahí.
 * Sé que estás en el#  estricto régime de#  "dispara, no pienses",
@@ -25508,7 +25508,7 @@ H O R A#D E#R E C O G I D A .
 * Si hay un tipo de "caja#  de fusibles" de todos#  los robots del área..
 * ¡Podemos apagar a Axis#  e ir a Hotland como#  planeamos!
 * Vale la pena intentarlo,#  al menos. ¡Vamos!
-* QUÉD4T3 aHÍ,#¿OK?
+* QUÉD4T3 aHÍ,#  ¿OK?
 * EsTÁS a SALVO.
 lightning_last
 * ¡Buenas de nuevo!
