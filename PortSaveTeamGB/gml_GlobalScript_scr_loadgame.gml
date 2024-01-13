@@ -13,14 +13,32 @@ function scr_loadgame() //gml_Script_scr_loadgame
         global.player_weapon_modifier_attack = ini_read_real("Save1", "AT - Secondary", 0)
         global.player_defense = ini_read_real("Save1", "DFP", 0)
         global.player_armor_modifier_defense = ini_read_real("Save1", "DFS", 0)
-        global.player_level = ini_read_real("Save1", "LV", 1)
+        if ini_key_exists("Save1", "NV"){
+            global.player_level = ini_read_real("Save1", "NV", 1)
+            ini_write_real("Save1", "LV", global.player_level)
+            ini_key_delete("Save1", "NV")
+        } else {
+            global.player_level = ini_read_real("Save1", "LV", 1)
+        }
         global.player_exp = ini_read_real("Save1", "EXP", 0)
         global.player_weapon_modifier = ini_read_string("Save1", "Ammo", "Rubber Ammo")
         global.player_armor = ini_read_string("Save1", "Armor", "Worn Hat")
         global.player_armor_modifier = ini_read_string("Save1", "Accessory", "Patch")
         global.player_gold = ini_read_real("Save1", "Gold", 0)
-        global.current_hp_self = ini_read_real("Save1", "HP", 1)
-        global.max_hp_self = ini_read_real("Save1", "MAXHP", 20)
+        if ini_key_exists("Save1", "PS"){
+            global.current_hp_self = ini_read_real("Save1", "PS", 1)
+            ini_write_real("Save1", "HP", global.current_hp_self)
+            ini_key_delete("Save1", "PS")
+        } else {
+            global.current_hp_self = ini_read_real("Save1", "HP", 1)
+        }
+        if ini_key_exists("Save1", "PVMAX"){
+            global.max_hp_self = ini_read_real("Save1", "PVMAX", 20)
+            ini_write_real("Save1", "MAXHP", global.max_hp_self)
+            ini_key_delete("Save1", "PVMAX")
+        } else {
+            global.max_hp_self = ini_read_real("Save1", "MAXHP", 20)
+        }
         global.player_weapon = ini_read_string("Save1", "Weapon", "Toy Gun")
         global.fun_value = ini_read_real("Save1", "FUN", 0)
         global.current_pp_self = ini_read_real("Save1", "PP", 0)
