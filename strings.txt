@@ -4199,7 +4199,7 @@ enemy_low_hp_3
 * ¡Tu mejor amigo!
 #* Un legado para no olvidar.
 * Devoción absoluta.
-#* Un digno oponente.
+#* Una digna oponente.
 #* Un ser caído.
 gml_Script_scr_battle_core_directory_check_selected_text
 scr_battle_core_directory_check_selected_text
@@ -11879,7 +11879,7 @@ Wild East Saloon Geno
 * (Te llevaste#  100 de ORO#  detrás de#  la barra.)
 * (No queda nada#  de ORO para#  llevarse.)
 Hotel Shop Geno
-* (Te llevaste 500 de ORO#  de la caja registradora.)
+* (Te llevaste#  500 de ORO#  de la caja#  registradora.)
 * (Miras dentro de la caja y#  encuentras unas Papas Fritas.)
 * (Algo de comida aquí.)
 * (¡Conseguiste Papas Fritas!)
@@ -13554,7 +13554,7 @@ darken_current
 * Mis queridos amigos...
 * Sé por qué estás aquí#  pero... me temo que#  es demasiado tarde.
 * Tu objetivo está#  fuera de alcance.
-* El apuro de los monstruos#  no es algo de lo#  que me enorgullezca.
+* El apuro de todos no#  es algo de lo que#  me enorgullezca.
 * Pero no es un conflicto#  que hayamos iniciado.
 * Sin embargo, una cosa#  es segura.
 * Tu violencia ha#  asegurado que esta#  guerra nunca termine.
@@ -15148,7 +15148,7 @@ Esto es SIMPLEMENTE#perfecto.
 ¡Apuesto a que el#Castillo está sellado#gracias a tu#imprudencia!
 No... Esto no#funcionará.
 Vas a hacer lo#correcto,#¿entiendes?
-¡Podrás tener una #"brillante nueva#habilidad! pero eso#no cambia nada!
+¡Podrás tener una #"¡brillante nueva#habilidad!" pero eso#no cambia nada!
 ¡Ve al Castillo y#destruye sus paredes!#¡¡Hazlo pedazos!!
 ¡¡¡Haz lo necesario#para conseguirme#mis ALMAs!!!
 Para...
