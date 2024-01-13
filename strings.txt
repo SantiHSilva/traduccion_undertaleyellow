@@ -20780,12 +20780,12 @@ actor_ace
 * Entonces que Clover#  elija.
 * ¡Clover no tiene#  ningún vínculo emocional#  con nosotros!
 * ¡Debería ser#  sencillo!
-* ¿No crees que#  esto es un poco#  demasiado?
+* ¿No crees que#  esto es un poco#  exagerado?
 * ¡No, es fácil!
 * Elige dejar la pista#  como está...
 * No será tu culpa, pero#  muchos monstruos#  serán golpeados.
 * Elige cambiar la#  pista...
-* Será por tu mano, pero#  pero solo Ed será golpeado.
+* Será por tu mano, pero#  pero solo Ed será#  golpeado.
 * No es tanto sacrificio.
 * ¿Qué he hecho para#  merecer esto?
 * ¡Se nos acaba el#  tiempo!
@@ -20881,7 +20881,7 @@ actor_train
 * ¡Un verdadero#  malvado!
 * Es verdad. Esto#  no ha sido divertido.
 * ¿De qué están#  hablando?
-* ¡Esto es lo más vivo#  que ha estado esta#  ciudad!
+* ¡Esto es lo más viva#  que ha estado esta#  ciudad!
 * ¿Por qué todo tiene#  que ser un espectáculo?
 * Echo de menos el#  viejo North Star#  ¡el líder intrépido!
 * ¡El monstruo que podía#  divertirse en las#  pequeñas cosas!
