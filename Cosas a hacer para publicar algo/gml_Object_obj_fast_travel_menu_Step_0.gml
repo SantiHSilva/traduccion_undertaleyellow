@@ -34,6 +34,7 @@ switch point_selected
         break
     case "Dunes - Oasis Valley":
     case "Dunas - Valle del Oasis":
+    case "Dunas - V. Oasis":
         global.fast_travel_newroom = 276
         global.fast_travel_newx = 880
         global.fast_travel_newy = 720
@@ -45,19 +46,22 @@ switch point_selected
         global.fast_travel_newy = 120
         break
     case "Steamw. - Commons":
-    case "Steamw. - Commons":
+    case "Steamw. - Cafetería":
+    case "Steamw. - Descanso":
         global.fast_travel_newroom = 175
         global.fast_travel_newx = 520
         global.fast_travel_newy = 120
         break
     case "Steamw. - C. Station":
-    case "Steamw. - C. Station":
+    case "Steamw. - C. Estación":
+    case "Steamw. - E. de Control":
         global.fast_travel_newroom = 202
         global.fast_travel_newx = 400
         global.fast_travel_newy = 290
         break
     case "Hotland - Crossroads":
     case "Hotland - Intersección":
+    case "Hotland - Cruce":
         global.fast_travel_newroom = 211
         global.fast_travel_newx = 170
         global.fast_travel_newy = 120
