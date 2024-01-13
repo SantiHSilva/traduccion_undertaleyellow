@@ -1949,7 +1949,7 @@ H. Acid
 * (Decidiste cargar las Súper Balas.)
 * (Tu pistola se siente más liviana#  Más que tu consciencia...)
 * (Decidiste cargar los Clavos#  dentro de tu pistola.)
-* (Decidiste cargar los Pétalos de#  amistad en tu pistola.)
+* (Decidiste cargar los Pétalos#  de Amistad en tu pistola.)
 * (Colocas el Broche Honeydew#  en tu sombrero.)
 * (Colocas el Broche de la#  Banda en tu sombrero.)
 * (Conectas la hebilla de acero#  a tu pantalón.)
@@ -2088,7 +2088,7 @@ info
 * "Balas Pied." - Arma AT 9#* (Piedra negra polvorienta.#  Quizás útil para el combate.)
 * "Clavos" - Arma AT 10#* (Pequeñas piezas de#  acero puntiagudo.)
 * (Pueden ser muy efectivos#  disparados a gran velocidad.)
-* "Bolitas Amis." - Arma AT 11#* (Una muestra del lazo#  entre tú y tu mejor amigo.)
+* "Petalos de Amis." - Arma AT 11#* (Una muestra del lazo#  entre tú y tu mejor amigo.)
 * "Pañ. Dorado" - Armad. DF 25#* (Emite un violento#  brillo dorado.)
 * "Funda Eleg." - Armad. DF 8#* (Una funda de cuero, perfecta#  para duelos al mediodía.)
 * (Un compuesto muy peligroso.#  Manejar con cuidado.)
@@ -10367,7 +10367,7 @@ sprite_tex
 * Esta zona parece#  totalmente abandonada.
 * Supongo que ya no#  hace falta luchar.#  Una verdadera lástima.
 * Un generador, ¿eh?
-* Probablemente haya alguna#  forma de volver a#  prenderlo en alguna parte.
+* Probablemente haya#  forma de prenderlo#  en alguna parte.
 * ¡Oh, vamos! ¿Otra vez?
 * Odio sacudir tu mundo,#  pero las balas no#  son la respuesta a todo.
 * ¿Te mataría pensar#  antes de disparar a#  tus problemas?
@@ -11873,7 +11873,7 @@ Honeydew Resort Geno
 Cafe Dune Geno
 * (Te llevaste#  80 de ORO#  de la#  estantería.)
 Wild East Gunshop Geno
-* (Hay una caja fuerte con#  la puerta abierta.)
+* (Hay una caja fuerte#  con la puerta#  abierta.)
 * No hay nada que#  llevarse.
 Wild East Saloon Geno
 * (Te llevaste#  100 de ORO#  detrás de#  la barra.)
@@ -19437,7 +19437,7 @@ Perdonar
 * Bien, amigo.#  ¿Nos vamos?
 screenshake_power
 draw_glitches
-(Esta dormido...)
+(Esta dormida...)
 * Lo siento amigo, este camino#  está bloqueado.
 * No me moveré, hagan lo que#  hagan para provocarme.
 * No lo entenderías.	
@@ -21236,7 +21236,7 @@ wind_sound
 * Me dijo que te#  acompañaría en el#  viaje a Hotland.
 * Así que, ¡todo#  saldrá bien!
 * De nuevo, lo-lo-lo#  siento mucho, pero-#  ¡hasta luego!
-* (Se oyen susurros#  procedentes del#  sótano.)
+* (Se oyen susurros procedentes#  del sótano.)
 * (La bodega está cerrada. Debe#  ser donde se almacena#  la cosecha.)
 * (Intentas encender la#  válvula,  pero la manivela#  no se mueve.)
 * (Una bomba de#  agua.)
