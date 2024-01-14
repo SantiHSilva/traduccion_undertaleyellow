@@ -3453,7 +3453,7 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_1
 * Sir Slither no puede#  escapar de esto.
 * Bowll podría romper a#  llorar pronto.
 * Pétalos caen alrededor#  de tus pies.
-* Vis escupe un casete de#  video roto.
+* Vis escupe un casette de#  video roto.
 * Se oyen ruidos metálicos y#  eléctricos mientras#  Jandroid se retuerce.
 * La música de Goosic entra#  y sale de tono.
 * Sousborg está perdiendo#  aceite. Aceite vegetal.
@@ -3500,7 +3500,7 @@ scr_battle_core_directory_flavor_text_enemy_1_low_hp_3
 * Goosic raya lentamente un#  disco con su aguja. El#  sonido es insoportable.
 * ¡Parece que estás en la#  guillotina!
 * El aire se hace más denso.
-* No puedes aguantar#  para siempre.
+* No puede aguantar para#  siempre.
 * Rana.
 * Esporas blancas se agitan en el#  aire.
 * uno dos tres cuatro cinco seis#  siete Siete sSieEte 7sI=te sIme#  0sIte SieeteeEeeeeEEEEE
@@ -3642,7 +3642,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * Tus tímpanos no aprecian la#  situación actual.
 * ¿Huele a... comida?#  ¡Qué bien!
 * Huele como una desafortunada#  barbacoa.
-* Uno es todo lo que se#  necesita. Sigue adelante.
+* Uno solo bastará.#  Sigue adelante.
 * Macro Froggit da pisotones,#  sacudiendo toda la#  habitación.
 * Guardener te mira con desprecio,#  temblando ligeramente.
 * Guardener se mueve a un ritmo#  alarmante. Esto no puede ser#  bueno para ella.
@@ -9233,9 +9233,9 @@ self_message
 * (Mejor déjarselas#  a alguien que las#  necesite.)
 * (Solo unas bolitas de#  goma.)
 * ¿Tienes basura?
-* ¡Véndelo aquí mismo en el#  Blackjack!
+* ¡Véndela aquí mismo en#  Blackjack!
 * Especial de hoy:#  Funda de Lujo#  (¡genial para defensa!)
-* (Un perchero#  polvoriento.)
+* (Un perchero polvoriento.)
 * (Un sombrero sucio similar#  al de Starlo descansa en#  el perchero.)	
 * (¡Siempre es bueno tener#  un respaldo!)
 * (La estufa aún está#  caliente.)
@@ -9247,7 +9247,7 @@ self_message
 * (La chimenea está plagada#  de telarañas. Telarañas#  normales.)
 * (Una chimenea sin usar.)
 * (Un cuadro de un#  hermoso valle rodeado#  de montañas.)
-* (Un cuadro de un#  lugar desconocido.)
+* (Un cuadro de un lugar#  desconocido.)
 * (Nada especial.#  Solo una lámpara.)
 * (Una lámpara.)
 shadow
@@ -9279,7 +9279,7 @@ mpoint_dock_yy
 * - ¡Siempre lleva contigo tu#  identificación de Steamworks!
 * - Descontamínate de cualquier#  material biológico peligroso#  antes de salir del complejo.
 * - ¡Pero sobre todo,#  diviértete! :)
-* (Alguna especie de propaganda).
+* (Alguna especie de propaganda.)
 * (Un monstruo sonriendo#  con un eslogan arriba.)	
 * "¡Mañana significa Superficie!"
 murder
@@ -9316,7 +9316,7 @@ ast_shortcut
 * (Una fuente seca.)
 * (Una fuente seca yace frente#  a ti.)	
 * (No parece que funcione ya.)
-* (Me estoy cansando de#  las plantas.)
+* (Me estoy cansando de las#  plantas.)
 * (Varios tipos de plantas#  reposan en distintos#  recipientes.)	
 * (El olor es... antinatural.)
 * (Ya está muerto.)
@@ -9380,7 +9380,7 @@ ast_shortcut
 * (Solo un Froggit de#  tamaño normal.)
 * (Como era de esperar,#  esta impresora está rota.)
 * (Una impresora rota.)
-* (El drenaje del lavaplatos#  está obstruído con ciencia.)
+* (El drenaje del lavaplatos#  está obstruido con ciencia.)
 * (Un lavaplatos.)
 * (No hay salvación para#  este lavaplatos.)
 * (¿Lavar los platos sin#  que te lo digan? ¡Nunca!)
@@ -9658,7 +9658,7 @@ pedestal_is_active
 * (Aquí no hay nada útil.)
 * (Un cohete de dos pisos#  listo para despegar#  hacia sueños placenteros.)
 * (Nos vemos vaquero espacial.)
-* (Una cama casera de#  mal gusto.)
+* (Una cama casera de mal#  gusto.)
 twitchy
 text_effect
 attack
@@ -10373,21 +10373,21 @@ sprite_tex
 * ¿Te mataría pensar#  antes de disparar a#  tus problemas?
 * Oye, ¡es solo un#  patrón que he#  notado últimamente!
 * Ya has resuelto#  montones de enigmas#  en nuestro viaje.
-* ¡Solo tenía curiosidad#  de por qué tu paciencia#  se agoto tanto!
+* ¡Solo tenía curiosidad#  de por qué tu paciencia#  se agotó tanto!
 * Cálmate, ¿quieres?
 * Me temo que esa puerta#  es demasiado gruesa#  para derribarla.
 * Parece que tendrás#  que seguir con mi#  plan original de
 * ...¿Qué?
 * ¿Yo?
-* Has encontrado algo#  de valor, ¿verdad?
+* Te has hecho de mucho#  valor, ¿no?
 * ...Bien.
-* Allí. Su salida,#  mi rey.
+* Allí. Su salida, mi#  rey.
 * ¿Olvidaste lo que dije#  cuando empezaste por#  este camino?
 * Yo tengo el control aquí.
 * Eso no ha cambiado ni#  cambiará, ¿entendido?
 * La próxima vez que#  hagas algo así...
 * Sigamos moviéndonos.
-* (El ascensor no#  responde.)
+* (El ascensor no responde.)
 alpha
 disappear
 credits_y_offset
@@ -11087,7 +11087,7 @@ rand
 xspeed
 * (Miras dentro de la caja y#  encuentras unos clavos.)	
 * (¿Tomarlos?)
-* (Unos Clavos. Podrían ser útiles.)
+* (Unos Clavos. Podrían ser#  útiles.)
 * (¡Obtuviste Clavos!)
 * (Obtuviste Clavos.)
 * (Decides no tocarlos.)
@@ -11321,8 +11321,8 @@ part_dist
 pt_Lava_Particles
 pe_Lava_Particles
 part_emitter_stream
-* (¿Tomar las Bolitas#  Amistosas?)
-* (¡Obtuviste Bolitas#  Amistosas!)
+* (¿Tomar los Pétalos de#  Amistad?)
+* (¡Obtuviste Pétalos de#  Amistad!)
 default_generation_speed
 generation_speed
 preset_positions
@@ -11537,12 +11537,12 @@ subscene
 * Es tu amigo
 * ...Mo.
 * Oye, amigo.. ¿Qué pasa con el#  fierro?
-* Pensé que teníamos una#  conexión, ¿Sabes?
-* Como un tipo de asociación#  vagamente ilegal!  
+* Pensé que teníamos una#  conexión, ¿sabes?
+* ¡Como un tipo de asociación#  vagamente ilegal!  
 * No crees que estoy aquí para#  apuñalarte en la espalda,#  ¿cierto?
 * ¡Podré ser varias cosas pero#  lo último que soy es un soplón!
 * ¡¡Ey ey ey!!
-* ¡No hay nada en mi manga,#  niño! Nada más que pelaje y#  colonia ciertamente barata!
+* ¡No hay nada en mi manga, niño!#  ¡Nada más que pelaje y#  colonia ciertamente barata!
 * ¡Lo que ves es lo que#  obtienes con Mo!
 * ¡No soy un modesto rudo#  esperando una oportunidad#  para desatar un ataque!
 * Solo soy un vendedor,#  ¿entiendes?
@@ -11661,7 +11661,7 @@ axis_pitch
 * HUMANO DETECTADO_
 * ESPERA. . .
 * ESTO ES FAMILIAR.
-* ACCEDIENDO BANCO DE#  MEMORIA_
+* ACCEDIENDO A BANCO DE#  MEMORIA_
 * BANCO DE MEMORIA#  BLOQUEADO_
 * HM.
 * BUENO. NO IMPORTA.
@@ -11670,7 +11670,7 @@ axis_pitch
 * EMPATÍA: IGNORADA_
 * BIENVENIDO A#  STEAMWORKS, HUMANO.
 * LAS COSAS NO HAN#  ESTADO YENDO A TU#  MODO, ¿ME EQUIVOCO?
-* ME TEMO QUE LO QUE#  BUSCAS  HA...
+* ME TEMO QUE LO QUE#  BUSCAS HA...
 * . . .EXPIRADO.
 * CINCO ALMAS SON TODO LO#  QUE TE ESPERAN SI#  LLEGAS AL CASTILLO.
 * PERO SUPONGO QUE YA#  DESCIFRASTE ESO.
@@ -11680,7 +11680,7 @@ axis_pitch
 * SUPONGO QUE NO HAY#  DIFERENCIA AQUÍ.
 * MI PROTOCOLO USUAL PIDE#  MERA DETENCIÓN PERO. . .
 * TU NIVEL DE AMENAZA#  ME PERMITE INICIAR#  ATAQUE.
-* QUÉDATE QUIETO, HUMANO#  TODO TERMINARÁ PRONTO.
+* QUÉDATE QUIETO, HUMANO,#  TODO TERMINARÁ PRONTO.
 flash_delay
 shoot_noloop
 * AH. . .
@@ -12444,7 +12444,7 @@ draw_circle_color
 * (Vacío.)
 * (Ahora está vacío.)
 * (Hay una hamburguesa#  tirada al fondo#  del barril.)
-* (La comida desechada#  yace en el barril.)
+* (La comida desechada yace#  en el barril.)
 * (¡Obtuviste una#  Hamburguesa Feisty!)
 ceroba_shake_intensity
 ring_timer
@@ -14939,7 +14939,7 @@ destroy_type
 fall_delay
 warning_line_alpha
 new_laser
-* (La puerta ya está#  abierta.)
+* (La puerta ya está abierta.)
 * (¿Pasar la ID?)
 foreground_pillars
 layer_get_id
@@ -19469,12 +19469,12 @@ party_member_present_martlet
 * No voy a hacerte una bebida#  si eso es lo que quieres.
 * Sé lo que hiciste...
 * Tonto ingenuo...#  Traté de advertirle.
-* Y Ceroba... ¿Perdió#  contra ti? Debes#  sentirte muy afortunado.
+* Y Ceroba... ¿Perdió contra#  ti? Debes sentirte muy#  afortunado.
 * No tengo nada más que odio#  corriendo a través de mí, pero#  sé que no tengo oportunidad.
-* Así que aquí estoy,#  encerrado mientras todos#  los demás...
-* Si no vas a matarme,#  déjame llorar a mi#  familia en paz.
-* Puede que Star solo#  fuera un objetivo para#  ti, pero...
-* Fue más héroe de lo#  que tú serás jamás.
+* Así que aquí estoy, encerrada#  mientras todos los#  demás...
+* Si no vas a matarme, déjame#  llorar a mi familia en#  paz.
+* Puede que Star solo fuera#  un objetivo para ti, pero...
+* Fue más héroe de lo que tú#  serás jamás.
 * Fuera de mi taberna.
 * Recuerdo que este juego#  funcionaba más#  eficientemente en el pasado.
 * La presión del aire parece#  haber sido manipulada#  o algo así.
@@ -21239,7 +21239,7 @@ wind_sound
 * (Se oyen susurros procedentes#  del sótano.)
 * (La bodega está cerrada. Debe#  ser donde se almacena#  la cosecha.)
 * (Intentas encender la#  válvula,  pero la manivela#  no se mueve.)
-* (Una bomba de#  agua.)
+* (Una bomba de agua.)
 * ¡Bienvenido a la Granja#  del Lado Sol!
 * No es mucho, pero lo#  llamamos hogar.
 * Me llamo Salomón.
@@ -21426,7 +21426,7 @@ tile_alpha
 flicker_count
 * ERROR: PRESIÓN DE#  REFRIGERANTE BAJA
 * ESTADO DEL GENERADOR:#  INESTABLE
-* Vaya, ¿me pregunto cómo#  llegó a ser eso?
+* Vaya, me pregunto cómo#  llegó a pasar eso.
 * Creo que voy a empezar#  a rezar por nuestra#  seguridad.
 * Ya sabes, por si la#  instalación explota#  mientras estemos dentro.
 part_smokesys_back
@@ -22663,12 +22663,12 @@ Oww, ¡vamos!
 ¡Porque hay más de#donde eso vino, amigo!
 ¡Oh, mátala de una#vez!
 Si eso quieres, claro...
-¿Esta pieza de#chatarra te#derrotó?
+¿Esta pieza de#chatarra te venció?
 Je, pensé que eras#mejor que eso.
 Deberías haberte#encargado de este#robot hace tiempo.
 Pero no, ¡Tenías que#jugar al malote#héroe de acción!
-No puedo evitar sentir#que esto es karma,#je.
-Pero SUPONGO que#aún debería#revivirte...
+No puedo evitar sentir#que esto es karma, je.
+Pero SUPONGO que aún#debería revivirte...
 De nuevo.
 ¡No puedes llegar a#ASGORE si estás#muerto!
 ¡No te hagas el tonto!
@@ -24582,15 +24582,15 @@ Basta de charla.
 Starlo era el...#el único amigo#que me quedaba.
 Lo que has hecho#es imperdonable.
 ... 
-Tú SABES el#dolor que has causado.
+SENTIRÁS el dolor#que has causado.
 Mira.
 ¡Mírame, cobarde!
 Los frutos de tu#trabajo.
 ¿Esto te hace#feliz?
 Tal vez si#yo rogara piedad.
-¿Haria que te#sintieras mal por#tus acciones?
+¿Haría que te#sintieras mal por#tus acciones?
 Una vez que nos#elimines...
-...Espero que te#ahogues con el polvo#que llenará el#aire.
+...espero que te#ahogues con el polvo#que llenará el#aire.
 ...Mientras tanto...
 Vete al infierno.
 color_blue
@@ -25135,7 +25135,7 @@ FALLASTE
 sound_play_noloop
 * EsTA P_ERTA esT4 SELLADA#  ASÍ QUE...
 * D3jANOS S0lOS, POr fAVOR.
-* S3 P_PORQUE ESTÁS aqUÍ.
+* S3 P_PORQUÉ ESTÁS aqUÍ.
 * PerO PUEDO EXP;;LICAR.
 * INTENTA LO qUE QUIERAS#  PERo STEAMWORKS... .
 * TODOS nOSOTROS.
@@ -25151,7 +25151,7 @@ sound_play_noloop
 * Es llamado "humor".#  Supongo que no has#  oído hablar de él.
 * (Rayos, y pensaba que#  yo era el desalmado.)
 * Bueno, ciertamente hay#  un montón de basura#  tirada por ahí.
-* Sé que estás en el#  estricto régime de#  "dispara, no pienses",
+* Sé que estás en el#  estricto régimen de#  "dispara, no pienses",
 * pero, por esta vez,#  tendrás que ser creativo.
 * Sorprende. Inquietante,#  incluso. Lo sé.
 * Pero he visto a tu#  cerebro funcionar antes#  así que...
@@ -25508,7 +25508,7 @@ H O R A#D E#R E C O G I D A .
 * Si hay un tipo de "caja#  de fusibles" de todos#  los robots del área..
 * ¡Podemos apagar a Axis#  e ir a Hotland como#  planeamos!
 * Vale la pena intentarlo,#  al menos. ¡Vamos!
-* QUÉD4T3 aHÍ,#¿OKEI?
+* QUÉD4T3 aHÍ, ¿OKEI?
 * EsTÁS a SALVO.
 lightning_last
 * ¡Buenas de nuevo!
@@ -25545,7 +25545,7 @@ El s-suero,#está...
 N O . . .
 N O  P U E D E S#G A N A R .   
 N O  P U E D E S#. . .
-* (Una foto de dos monstruos#  que has conocido.)
+* (Una foto de dos monstruos#  que has visto.)
 * (Una foto de Starlo y Ceroba#  de adolescentes.)
 * ¡Soy malísimo bailando!
 frame_current
