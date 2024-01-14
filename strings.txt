@@ -577,23 +577,23 @@ rm_steamworks_34
 * ¿Podrías apurarte un#  poco?
 * ¡Vámonos de aquí,#  amigo!
 * Vaya, ¡ese robot fue#  todo un desafío!
-* Sin mencionar que fue#  un completo fraude.
+* Por no decir que fue#  un completo fraude.
 * ¡Las flores y las#  enredaderas son#  mi especialidad!
-* Bueno, supongo que#  eso lo demuestra...
+* Bueno, supongo que#  eso demuestra...
 * ...que las imitaciones#  mecánicas no pueden#  vencer a lo real.
 * Diré que ese aparato#  realmente se sintió#  más amenazante que Axis.
 * No estoy tratando de#  decirte qué hacer, pero#  solo considéralo...
 * ...¿Por qué no... ya#  sabes, "ocuparte" de#  Axis la próxima vez?
 * Estoy seguro de que#  sería fácil.#  ¡Solo es una idea!
 * Supongo que es hora de#  seguir adelante.
-* ¡Quién iba a pensar#  que Steamworks era#  tan denso!
-* Es como, ¿dónde#  estamos ahora?
-* Veo tubos de#  ensayo...#  microscopios...
+* ¡Quién iba a pensar#  que Steamworks era#  tan grande!
+* Tipo, ¿dónde estamos# ahora?
+* Veo tubos de ensayo..#  microscopios...
 * Eso me recuerda...	
 * Eh, no lo sé. La ciencia#  no es mi fuerte.
 * Sea lo que sea que#  hagas, no bebas nada#  de lo que veas aquí.
 * Todo este líquido ha#  estado ahí fuera durante#  años, mohándose.
-* ...No es que te haya#  dado pena comer#  basura desechada.
+* ...Aunque no es como#  que antes te haya dado#  pena comer basura.
 * ¡Veamos lo que nos#  espera, amigo!
 * Justo cuando pensaba#  que Axis no podía#  ser más torpe.
 * ¡Me alegra que se#  haya ido!
@@ -1873,7 +1873,7 @@ H. Acid
 * (Los pétalos brillan en#  la luz.)
 * (Cargas las Balas de Goma en#  tu pistola.)
 * (Cargas con cuidado el Vidrio#  en tu pistola.)
-* (¡Phew! ¡Sin cortes!)
+* (¡Fiu! ¡Sin cortes!)
 * (Cargas las Balas de#  Piedra en tu pistola.)
 * (¡Se puede iniciar un#  incendio con este!)
 * (Lames el glaseado de#  la esponja.)
@@ -3637,7 +3637,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * Ella mira fijamente a tu ALMA.
 * Una planta rodadora pasa#  rodando. Saluda.
 * Crece la tensión en el aire.
-* El sonido de la estática de#  la televisión te llena#  la cabeza.
+* El sonido de la estática de#  la televisión te llena la#  cabeza.
 * Jandroid tira basura por aquí#  y por allá.
 * Tus tímpanos no aprecian la#  situación actual.
 * ¿Huele a... comida?#  ¡Qué bien!
@@ -3645,7 +3645,7 @@ scr_battle_core_directory_flavor_text_enemy_1_default_3
 * Uno es todo lo que se#  necesita. Sigue adelante.
 * Macro Froggit da pisotones,#  sacudiendo toda la#  habitación.
 * Guardener te mira con desprecio,#  temblando ligeramente.
-* Guardener se mueve a un ritmo#  alarmante. Esto no puede ser#  bueno para él.
+* Guardener se mueve a un ritmo#  alarmante. Esto no puede ser#  bueno para ella.
 * ARCHIVO 01 - [ELIMINADO]
 * Ceroba mira fijamente a tu ALMA#  con arrepentimiento.
 * Tu ALMA late con gran poder.
@@ -8744,7 +8744,7 @@ gml_Script_scr_dialogue_battle_action_selected_action_4_starlo
 scr_dialogue_battle_action_selected_action_4_starlo
 scr_start_enemy_attacking_axis_geno
 * Te retuerces dentro de tus#  confines. ¡Las enredaderas#  de la LUCHA se debilitaron!
-* Recoges unas flores y se#  las ofreces. Guardener#  está demasiado distraído.
+* Recoges unas flores y se#  las ofreces. Guardener#  está demasiado distraída.
 scr_dialogue_battle_action_selected_action_1_guardener
 scr_dialogue_battle_action_selected_action_1_goosic_b
 scr_generate_battle_ceroba_3
@@ -9380,7 +9380,7 @@ ast_shortcut
 * (Solo un Froggit de#  tamaño normal.)
 * (Como era de esperar,#  esta impresora está rota.)
 * (Una impresora rota.)
-* (El drenaje del lavaplatos#  está obstruido con#  ciencia.)
+* (El drenaje del lavaplatos#  está obstruído con ciencia.)
 * (Un lavaplatos.)
 * (No hay salvación para#  este lavaplatos.)
 * (¿Lavar los platos sin#  que te lo digan? ¡Nunca!)
@@ -9391,15 +9391,15 @@ ast_shortcut
 * (Una vieja máquina.)
 * (Observas una nota en#  la máquina.)
 * Radiador fuera de servicio por#  emisión de radiación letal#  durante varias semanas.
-* Si mueres en el próximo#  año, por favor, no#  demandes.
+* Si mueres el próximo año, por#  favor, no demandes.
 * (Es el famoso jugo azul.)
 * (Nada bueno.)
-* (Olores desagradables se#  filtran desde los#  tubos de ensayo.)
+* (Olores desagradables se#  filtran desde los  tubos#  de ensayo.)
 * (Tubos de ensayo.)
 * (Es una de esas cosas.#  Ya sabes.)
-* (Alguna especie de experimento#  con líquidos#  cuidadosamente medidos.)
+* (Alguna especie de experimento#  con líquidos cuidadosamente#  medidos.)
 * (Cosas de ciencia.)
-* (Una colección de chucherías#  de alrededor de#  Steamworks.)
+* (Una colección de chucherías#  de alrededor de Steamworks.)
 * (Las puertas del armario de#  almacenamiento están#  cerradas con llave.)
 * Intento cultivar plantas de#  energía, pero siempre termino#  con estas cosas frondosas.
 * ¡Huelen a miel y no dejan#  de hacer ruidos de#  trompeta!
@@ -9425,7 +9425,7 @@ ast_shortcut
 * (Miras a través del microscopio#  solo para descubrir que es#  un telescopio disfrazado.)
 * (No se pueden ver constelaciones#  o planetas. ¡Qué decepcionante!)
 * Tarea de hoy:#  ¡Mezcla de compuestos!
-* La oficina central dijo que#  tenemos libre uso de l#   Computadora de Compuestos hoy.
+* La oficina central dijo que#  tenemos libre uso de la#  Computadora de Compuestos hoy.
 * También dijeron que la explosión#  de la máquina y nuestra muerte#  son riesgos a correr.
 * ¡Así que agarra lo que puedas#  y tíralo adentro!
 * ¡Diviértete!
@@ -12313,24 +12313,24 @@ No, lo soy
 * No soy increíblemente social#  pero eres bienvenido a#  descansar aquí.
 * ¿Qué? No te pareces en nada#  a los otros.
 * No me fastidies. A mi edad,#  podría romperse.
-* Estas instalaciones solían#  ser el epicentro de#  la innovación.
-* En mis mejores tiempos fui#  químico. Uno bastante#  bueno también.
+* Estas instalaciones solían#  ser el epicentro de la#  innovación.
+* En mis mejores tiempos fui#  químico. Uno bastante bueno#  además.
 * Eso es... hasta que dejaron#  ir a todo el mundo.
-* Dijo que había demasiados#  cocineros en la cocina,#  quería centrarse en ella.
+* Se dijo que habían demasiados#  cocineros en la cocina,#  quería centrarse en ella.
 * No podía dejar escapar mi#  pasión tan fácil, así que me#  escondí cuando cerraron. 
-* Ahora tengo la libertad de#  experimentar cuando y#  como me plazca.
+* Ahora tengo la libertad de#  experimentar cuándo y cómo#  me plazca.
 * Aunque... no hay nadie#  cerca para presenciar#  mis esfuerzos.
 * Personalmente, culpo del#  cierre al proyecto de#  robótica, cosas ingobernables.
 * Pensaba que me había librado#  de sus payasadas hasta#  hace una hora o así.
-* La instalación se encendió#  y todos empezaron a ir#  como zombis resucitados.
-* Me escondí aquí mientras tanto.#  Esos montones de metal#  son poderosamente impredecibles.
-* Supongo que fuiste tú,#  ¿verdad? ¿El que volvió a#  encender el generador?
+* La instalación se encendió#  y todos empezaron a moverse#  como zombis resucitados.
+* Me escondí aquí mientras tanto.#  Esos montones de metal son#  poderosamente impredecibles.
+* Supongo que fuiste tú, ¿no?#  El que volvió a encender#  el generador
 * Debo agradecértelo, no es#  ideal vivir a oscuras.
 * Muchas veces he intentado el#  viaje pero los obstáculos#  son demasiado numerosos.
 * Pero no hay por qué#  preocuparse. La vida#  ha ido bien.
-* Aparte de las reservas que#  dejan, esas plantas blancas#  son bastante comestibles.
+* Aparte de las reservas que#  dejaron, esas plantas blancas#  son bastante comestibles.
 * No podría quedarme sin comida#  aunque quisiera.
-* Al salir, siéntete libre de#  usar el equipo que#  quieras.
+* Al salir, siéntete libre de#  usar el equipo que quieras.
 * Aunque prefiero trabajar#  solo...
 * ...no puedo negar que la#  ciencia se logra mejor como#  esfuerzo de colaboración.
 * Voy a esperar aquí hasta que#  los robots se dispersen, ¡pero#  te deseo suerte en tus viajes!
@@ -15197,22 +15197,22 @@ image_scale_inc_max
 * Por supuesto, los bíceps no#  son parte de la pierna pero#  mi equipo sobrepasa las reglas.
 * Voy a necesitar que te#  muevas. Tu presencia está#  intimidando a todos aquí.
 interacted_with
-* (Examinas la#  estantería...)	
-* (Un título llamado "Misterios#  del Subsuelo" te llama la#  atención)	
+* (Examinas la estantería...)	
+* (Un título llamado "Misterios#  del Subsuelo" te llama la#  atención.)	
 * (¿Leer?)
 * Capítulo Uno: El Error#  de Blunko.
 * Ubicado en el Valle Oasis, en#  una cafetería que no te puedes#  perder, se encuentra un arcade.
 * Pintada de azul y cubierta de#  una gruesa capa de polvo,#  está ahí, fuera de servicio.
-* Pocos monstruos recuerdan verla#  funcionando y eso puede#  ser a propósito. 
-* En la máquinas, residen dos#  logos: Team Y y Blunko#  Industries.
+* Pocos monstruos recuerdan verla#  funcionando y eso puede ser#  a propósito. 
+* En la máquina, residen dos#  logos: Team Y y Blunko#  Industries.
 * Las mismas dos compañías#  humanas que crearon Mew Mew#  Blaster de Amor.
 * Las leyendas dicen que fue#  jugable por un tiempo luego#  de ser recuperada del basurero.
-* ...pero sus contenido eran#  "desagradables" de experienciar.#
+* ...pero sus contenidos eran#  "desagradables" de experienciar.#
 * (Volteas al siguiente#  capítulo.)
 * (¿Sigues leyendo?)
 * Capítulo Dos: El Camino.
-* El Subsuelo es un lugar#  vasto.
-* Entre medio hay caminos y/o#  vallas que llevan a los#  monstruos de un lugar a otro.
+* El Subsuelo es un lugar vasto.
+* A lo largo hay caminos y/o#  vallas que llevan a los#  monstruos de un lugar a otro.
 * Pero quizás, y solo quizás,#  los caminos realmente están#  ahí para mantenerte a salvo.
 * En un reporte de 20XX, un#  padre recordaba pescar con su#  hijo en el bosque de Snowdin.
 * Mientras el padre preparaba su#  línea, su hijo deambulaba fuera#  de la valla hacia los árboles.	
@@ -15220,15 +15220,15 @@ interacted_with
 * "Antes de encontrar ____, me#  sentía aturdido," el padre#  relata.
 * "Solo... nada allí fuera."
 * Capítulo Tres: El ALMA#  Fantasma.	
-* Siete ALMAS humanas es todo#  lo que toma para destruir la#  barrera que nos encierra...
+* Siete ALMAS humanas es lo que#  se requiere para destruir la#  barrera que nos encierra...
 * ...y con el tiempo, el Rey#  ASGORE y la Guardia Real han#  asegurado llegar a ese objetivo. 	
 * Este proceso ha sido#  controversial entre algunos#  residentes pero...
-* ..."La guerra no es agradable"#  dice la líder de la#  Guardia Real.
-* Típicamente, cuando un humano#  cae a nuestro hogar,#  son "recogidos" en pocas horas.
-* Pero una vez... tomó#  años.
+* ..."La guerra no es agradable"#  dice la líder de la Guardia#  Real.
+* Típicamente, cuando un humano#  cae a nuestro hogar, son#  "recogidos" en pocas horas.
+* Pero una vez... tomó años.
 * Era una tarde típica en#  Snowdin...
 * De pronto, un humano fue visto#  en el área antes de huir#  velozmente hacia Waterfall.	
-* Esta, sorprendentemente, fue#  la última vez que fue#  visto con vida.
+* Esta, sorprendentemente, fue#  la última vez que fue visto#  con vida.
 * Los oficiales en ese tiempo#  dijeron que la desaparición#  significaba que se ocultaba.
 * Sin embargo, el ALMA humana fue#  encontrada en las profundidades#  de Waterfall.
 * (Pones el libro en su lugar.)
@@ -15515,7 +15515,7 @@ xx_1
 xx_2
 xx_3
 pain_sound
-* (...Phew.)
+* (...Fiu.)
 * (Un pastel en su jaula.)
 * (Te gustaría un poco#  de Tarta pero prefieres#  no alertar a Axis.)
 * (¿Arriesgarse?)
@@ -22821,20 +22821,20 @@ guardener_pitch
 * OH SI, YA RECUERDO.
 * ENVIANDO REPORTE NIVEL 3_
 * [RESPUESTA - NEGATIVA]
-* LO LAMENTO. PERMÍTANME#  LLAMAR DE NUEVO.
+* LO LAMENTO. LLAMARÉ DE#  NUEVO.
 * ¿HOLA? ¿CREADOR?
 * ¿ESTÁS AHÍ?
 * CREO QUE MI CREADOR ME ESTA#  HACIENDO UNA "BROMA DE PRÁCTICA".
 * CONTACTANDO CON OFICINA#  CENTRAL_
 * [BEEEEP - LA LÍNEA QUE ESTÁ#  CONTACTANDO HA SIDO#  DESCONECTADA]
-* DÓNDE... ¿DÓNDE ESTAN TODOS?
+* DÓNDE... ¿DÓNDE ESTÁN TODOS?
 * OH... HE PERMITIDO#  SOBRECRECIMIENTO.
 * ENTIENDO.
 * PARECE QUE... MI TIEMPO PASÓ.
 * ..CANCELAR REPORTE Y#  REINICIAR HIBERNACIÓN_
 * [HIBERNACIÓN ACTIVADA]
-* LAMENTO CAUSARLES#  INCONVENIENTES.
-* NO SÉ COMO ES EL MUNDO AHORA,#  N-NI D-ESEO#  S-SABERLO.. //
+* LAMENTO CAUSAR#  INCONVENIENTES.
+* NO SÉ CÓMO ES EL MUNDO AHORA,#  N-NI D-ESEO#  S-SABERLO.. //
 * LA VIDA ERA. .. M-MUCHO MEJ>OR...
 * _SIN ;SABER...  .
 * Mejor... sigamos.
@@ -23069,13 +23069,13 @@ pl_path
 * ¡Ninguna muerte#  espantosa podría#  detener a Clover!
 * ¿No es genial?
 * (Una pizarra de corcho con#  varias notas sin#  importancia.)
-* (En la pizarra de corcho#  hay pegadas algunas#  notas adhesivas.)	
+* (En la pizarra de corcho#  hay pegadas algunas notas#  adhesivas.)	
 * ¿Alguien le dirá a Dr. Pez que#  deje de usar el laboratorio#  para crear baba de color?	
-* No me importa si hace ruidos#  graciosos, no#  cuenta como trabajo.
+* No me importa si hace ruidos#  graciosos, no cuenta como#  trabajo.
 * Qué hacer: -Hacer cosas nuevas#  -Fracasar estrepitosamente#  -Renunciar a mi trabajo.
-* (Unas cuantas notas adhesivas#  están pegadas a la#  pizarra de corcho.)
+* (Unas cuantas notas adhesivas#  están pegadas a la pizarra#  de corcho.)
 * (Este consiste en los 31#  trillones de números de#  pi escritos con crayón.)
-* (Este señala la nota con#  los números pi.)	
+* (Este señala la nota con#  los números de pi.)	
 * Qué presumido.
 * Compruébalo:#  pi x infinito.	
 * Propio B)
@@ -24275,7 +24275,7 @@ Oh, creo que#es tu turno.
 Eso fue solo un#calentamiento.
 ¡Hi-YA!
 ¡Toma esto,#intruso!
-¡Phew!
+¡Fiu!
 Este es un verdadero#entrenamiento.
 ¡Sigue así,#Martlet!
 Verás, cuando detuve#a esa chica, no#tuve este problema.
@@ -24473,11 +24473,11 @@ warning_angle_speed
 warning_counter
 warning_multiplier
 * (Observas un cartel en la#  oficina de recepción.)
-* ¡No te comas los utensilios#  para escribir! Otra#  vez no...
-* (Te preguntas qué trágico#  suceso justificó#  esta señal.)
+* ¡No te comas los elementos#  para escribir! Otra vez#  no...
+* (Te preguntas qué trágico#  suceso justificó esta#  señal.)
 * (Una pantalla familiar.)
-* (La recepcionista es#  poco receptiva.)
-* (Parecían estar en medio#  de la creación de un#  nuevo ID de Steamworks.)
+* (La recepcionista es poco#  receptiva.)
+* (Parecía estar en medio#  de la creación de un#  nuevo ID de Steamworks.)
 * (¿Terminar su trabajo?)
 explosion_count
 explosion_max
@@ -25490,7 +25490,7 @@ H O R A#D E#R E C O G I D A .
 * ¡Oye! ¡Eso que hiciste#  es una auténtica obra#  de arte!
 * ¡Intenta#  usarla!
 * ¡Mira eso! Funcionó#  de maravilla.
-* Puede que algún día#  tenga que encargártelo#  personalmente, ¡jaja!
+* Quizás un día tenga#  que encargarte arte#  personalmente, ¡jaja!
 * Hmm... 	
 * Es un poco tarde, ¿no?
 * Menos lugares a los#  que pudieron haber#  ido, al menos.
