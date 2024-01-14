@@ -28,7 +28,7 @@ function obtenerRoomSpanish() //gml_Script_obtenerRoomSpanish
     ds_map_add(cuartos, "Steamw. - Lake", "Steamw. - Lago")
     ds_map_add(cuartos, "Steamw. - Offices", "Steamw. - Oficinas")
     ds_map_add(cuartos, "Steamw. - ???", "Steamw. - ???")
-    ds_map_add(cuartos, "Steamw. - Commons", "Steamw. - Comúnes")
+    ds_map_add(cuartos, "Steamw. - Commons", "Steamw. - Cafetería")
     ds_map_add(cuartos, "Greenhouse", "Invernadero")
     ds_map_add(cuartos, "Steamw. - Crossroads", "Steamw. - Cruces")
     ds_map_add(cuartos, "Steamw. - Laboratory", "Steamw. - Laboratorio")

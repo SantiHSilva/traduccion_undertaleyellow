@@ -4,7 +4,7 @@ draw_sprite_ext(spr_dialoguebox, 0, x, y, 3.3, 1.2, image_angle, image_blend, im
 draw_set_colour(color2)
 draw_set_font(fnt_main)
 draw_text((x - 90), (y - 30), string_hash_to_newline("Clover"))
-draw_text((x - 20), (y - 30), string_hash_to_newline(("LV " + string(global.player_level))))
+draw_text((x - 20), (y - 30), string_hash_to_newline(("NV " + string(global.player_level))))
 var string_minutes = string((global.elapsed_seconds div 60))
 var string_seconds = string((global.elapsed_seconds % 60))
 if (real(string_minutes) < 10)

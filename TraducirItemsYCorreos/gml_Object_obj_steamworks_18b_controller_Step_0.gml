@@ -2030,7 +2030,7 @@ pop.v.v [array]self.extra_flag
 b [237]
 
 :[236]
-push.s "* ¡Que artículo tan popular!#  Ojalá pudiera venderte más,#  pero se me han acabado."@17734
+push.s "* ¡Qué artículo tan popular!#  Ojalá pudiera venderte más,#  pero se me han acabado."@17734
 conv.s.v
 pushi.e -1
 push.v self.message_current

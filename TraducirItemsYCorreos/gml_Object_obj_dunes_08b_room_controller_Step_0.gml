@@ -504,7 +504,7 @@ switch scene
                 message[1] = "* ¡Es como la secuela del agua!"
                 message[2] = "* Así que..."
                 message[3] = "* ¡Esta es la parte en la#  que gastas el ORO que#  pueden pertenecerte o no!"
-                message[4] = "* Hey, no estoy aquí para#  juzgar, ¡Estoy aquí#  para vivir!"
+                message[4] = "* Oye, no estoy aquí para#  juzgar, ¡Estoy aquí#  para vivir!"
             }
         }
         if (!global.dialogue_open)
@@ -547,7 +547,7 @@ switch scene
                     {
                         if (!scr_inventory_check_space())
                         {
-                            message[(message_current + 1)] = "* Uh-oh, parece que#  no tienes espacio para#  este item."
+                            message[(message_current + 1)] = "* Oh-oh, parece que#  no tienes espacio para#  este item."
                             message[(message_current + 2)] = "* Vuelve cuando hayas#  hecho algo más de#  espacio."
                         }
                         else if (global.player_gold < 20)
@@ -569,7 +569,7 @@ switch scene
                     }
                     else
                     {
-                        message[(message_current + 1)] = "* ¡Que artículo tan popular!#  Ojalá pudiera venderte más,#  pero se me han acabado."
+                        message[(message_current + 1)] = "* ¡Qué artículo tan popular!#  Ojalá pudiera venderte más,#  pero se me han acabado."
                         choice = 0
                     }
                     other.scene++

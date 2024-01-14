@@ -26,4 +26,4 @@ while (i < array_length_1d(global.item_slot))
         continue
     }
 }
-draw_text((obj_talk_screen_shop.x + 30), (obj_talk_screen_shop.y + 90), string_hash_to_newline("Volver"))
+draw_text((obj_talk_screen_shop.x + 30), (obj_talk_screen_shop.y + 90), string_hash_to_newline("Regresar"))

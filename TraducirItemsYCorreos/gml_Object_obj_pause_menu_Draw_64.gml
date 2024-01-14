@@ -67,7 +67,7 @@ if (stats_open == 1)
     if (drawn_ammo == "Friendliness Pellets")
         drawn_ammo = "P. Amistad"
     draw_text((xx + 57.2), (yy + 105), string_hash_to_newline(("MUNICIÓN: " + obtenerItemSpanish(drawn_ammo))))
-    draw_text((xx + 57.2), (yy + 120), string_hash_to_newline(("MODIF.: " + obtenerItemSpanish(global.player_armor_modifier))))
+    draw_text((xx + 57.2), (yy + 120), string_hash_to_newline(("MODIF: " + obtenerItemSpanish(global.player_armor_modifier))))
     draw_text((xx + 57.2), (yy + 140), string_hash_to_newline(("ORO: " + string(global.player_gold))))
 }
 if inventory_open
@@ -90,7 +90,7 @@ if inventory_open
     }
     draw_text((xx + 65), (yy + 115), string_hash_to_newline("USAR"))
     draw_text((xx + 110), (yy + 115), string_hash_to_newline("INFO."))
-    draw_text((xx + 160), (yy + 115), string_hash_to_newline("BORRAR"))
+    draw_text((xx + 160), (yy + 115), string_hash_to_newline("TIRAR"))
     if (item_inspect == 0)
         draw_sprite(encounter_heart, 0, (xx + 55), ((yy - 22) + (15 * item_selected)))
 }
@@ -129,7 +129,7 @@ if mail_open
     draw_set_color(c_white)
     draw_text((xx + 65), (yy + 115), string_hash_to_newline("LEER"))
     draw_text((xx + 110), (yy + 115), string_hash_to_newline("FIJAR"))
-    draw_text((xx + 160), (yy + 115), string_hash_to_newline("BORRAR"))
+    draw_text((xx + 160), (yy + 115), string_hash_to_newline("TIRAR"))
     if (mail_inspect == 0)
         draw_sprite(encounter_heart, 0, (xx + 55), ((yy - 22) + (15 * (mail_selected + 1))))
     if (mail_offset > 0)
