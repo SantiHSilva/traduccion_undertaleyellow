@@ -2020,7 +2020,7 @@ info
 * "Paleta Tibia" - Cura 8 PV#* (Chocolate caliente enfriado#  hasta estar tibio.)
 * "Paleta Congelada" - Cura 12 PV#* (Chocolate calentado, enfriado#  y luego congelado.)
 * "Café Dor." - (Reduce el peso#  de tu alma, da un aumento#  de velocidad por 3 turnos.)
-* (Una bebida deliciosa, mitad#  metal de transición.)
+* (Mitad bebida deliciosa,#  mitad metal de#  transición.)
 * (Solo huele como café, creo...)
 * "Cactus D." - (Cura 15 PV#  por 3 turnos. El primer#  bocado quita 5 PV.)
 * (El snack prohibido.)
@@ -2078,12 +2078,12 @@ info
 * (Un mapa hecho a mano.)
 * (Se ve más colorido que#  la Snowdin real.)
 * (Un pico resistente.)
-* "Munición helada" - AT 6#* (Cubos de hielo con#  forma conveniente.)
+* "Balas Heladas" - AT 6#* (Cubos de hielo con#  forma conveniente.)
 * (No parecen derretirse.)
 * (¡Qué atentos por su parte!)
-* "Munición Café" - Arma AT 4
+* "Balas de Café" - Arma AT 4
 * (Imposibles de comer pero#  quizás aún puedan servir#  para algo.)
-* "Súper Balas." - Arma AT 15#* (Munición común de#  juguete de tu tienda favorita.)
+* "Súper Balas" - Arma AT 15#* (Munición común de#  juguete de tu tienda favorita.)
 * (Luce un sticker que dice#  "Premium" en el paquete.)
 * "Balas Pied." - Arma AT 9#* (Piedra negra polvorienta.#  Quizás útil para el combate.)
 * "Clavos" - Arma AT 10#* (Pequeñas piezas de#  acero puntiagudo.)
@@ -4030,7 +4030,7 @@ action_2_color_3
 * Leer
 * Educar
 * Bailar
-* Empujar
+* Tirar
 * Ignorar
 * Resistir
 * Menear
@@ -17631,8 +17631,8 @@ slurpy_solution
 * ...Desafortunadamente no de#  una forma pertinente, pero#  bueno... una notificación.
 * (Es un árbol.#  Nada especial.)
 * (Un árbol viejo y frágil.)
-* (¿Tomar bolitas de hielo?)
-* (¡Obtuviste Bolitas de#  Hielo!)
+* (¿Tomar las Balas de#  Hielo?)
+* (¡Obtuviste Balas de#  Hielo!)
 * Decia, "Si la vida te viene#  demasiado deprisa, pulsa 
  y#  tomatelo  con calma."
 kiosk_hsp
@@ -18162,7 +18162,7 @@ swimmer_accel
 * Lo siento, ya no#  puedo hablar más.
 * Tengo que nadar.
 * Esos kilos no#  se bajan solos.
-* ¿Disfruta del cálido#  ambiente que solo puede#  aportar una antorcha?
+* ¿Disfrutas del cálido#  ambiente que solo puede#  aportar una antorcha?
 * ¿Es agradable?
 * ¿Es sentimental?
 * ¿Es... atractivo?
@@ -19167,7 +19167,7 @@ npc_clover
 * PAUSA PARA COMER#  12:00 - 12:15
 glass_width
 * (¿Tomar los trozos de taza?)
-* (¡Obtuviste Munición de#  Vidrio!)
+* (¡Obtuviste Balas de#  Vidrio!)
 fortune
 fortune_ready
 * ¡Hola, viajero!
