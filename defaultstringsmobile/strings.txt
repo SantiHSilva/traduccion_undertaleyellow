@@ -489,13 +489,13 @@ sworks_flag
 * ¿Vamos a hablar de lo#  que acabas de hacer?
 * Estoy harto de este#  comportamiento.
 * Te ayude tanto tiempo...#  ¿y aún así tengo que#  lidiar con tu angustia?
-* ¿Has oído alguna vez eso#  de "no muerdas la mano#  que te da de comer?".
+* ¿Has oído alguna vez eso#  de "no muerdas la mano#  que te da de comer"?
 * Pero, oh, "está bien#  morder a Flowey porque#  no tiene manos".
-* ¡Bueno, solía tenerlo!
+* ¡Bueno, solía tenerlas!
 * ...
 * Yo um...
 * Heh...
-* Prometí ayudarte#  hasta llegar al#  castillo.
+* Prometí ayudarte hasta#  llegar al castillo.
 * Así que... lo haré.
 * Tenía que dar a conocer#  mis quejas, ¿sabes?
 * Con un poco de respeto#  se llega muy lejos.
@@ -607,7 +607,7 @@ rm_steamworks_34
 * Es decir, SOY una planta#  pero no me oyes#  hablar de eso 24/7.
 * Estamos casi fuera de#  esta instalación,#  ¡puedo sentirlo!	
 * ¡No bajes el ritmo#  ahora!
-* Da igual lo que te espere,#  seguro tomarás las#  decisiones correctas.	
+* Da igual lo que te#  espere, seguro tomarás#  las decisiones correctas.	
 * ¡Ve a por ellos!
 * ¿Puedes oler eso?#  ¡Magma y acero!
 * Acero... nuevo. ¡El#  punto es que ya#  casi nos vamos, amigo! 
@@ -1153,8 +1153,8 @@ save_count
 * ¡Chop chop!
 * Vaya.
 * Se corre la voz.
-* Esto es lo que obtienes#  cuando descartas#  la "sutileza".
-* Hacer la guerra sin#  importarle las#  repercusiones...
+* Esto es lo que obtienes#  cuando descartas la#  "sutileza".
+* Hacer la guerra sin#  importar las#  repercusiones...
 * Intenté advertirte pero#  ya es demasiado tarde.
 * Tranquilízate de aquí#  en adelante, ¿quieres?
 * Tenemos que llegar al#  Castillo.
@@ -1961,7 +1961,7 @@ H. Acid
 * (Te colocas la Bufanda Dorada.#* Tu tremendo gusto por el estilo#  hace que los enemigos te contemplen.)
 * (Envuelves las Gafas de#  Seguridad alrededor de#  tu sombrero.)
 * (Es como si tuviera ojos#  ahora.)
-* (Colocas el parche en tu chaleco#  y comienzas a sentir#  algo...)
+* (Colocas el parche en tu chaleco#  y comienzas a sentir algo...)
 * (Las inquebrantables esperanzas#  y sueños de los monstruos.)
 * (Envuelves la Bufanda Plateada#  alrededor de tu cuello.)
 * (¡Qué acogedora!)
@@ -3345,7 +3345,7 @@ scr_battle_core_directory_no_attack
 * El dúo robótico, Jandroid y#  Goosic, ¡ya está aquí!
 * Aclarado, repetido.
 * Axis Modelo 014, ¡listo#  para atacar!
-* Axis Modelo 014, listo#  para defender.
+* Axis Modelo 014, listo para#  defender.
 * Qué caraj...
 * ¡Guardener te atrapa!
 * Sin vuelta atrás.
@@ -9496,7 +9496,7 @@ statue
 * - Starlo (Solo intentaba#  impresionar a alguien.)
 * - Fuku Fire (Mayor entusiasmo)
 * - Know Cone (Transportado#  a un hospital. Podríamos#  tener problemas legales.)
-* (El lugar de#  descanso de los demás.)
+* (El lugar donde descansan#  los otros.)
 * (Tu destino.)
 * (Te das cuenta de un horario#  de próximos actos en#  el tablero.)
 * (El nombre "Mettaton" aparece#  muchas, muchas veces.)
@@ -9692,8 +9692,8 @@ Vivir... después de#lo que#he hecho...
 Yo...
 * ¿Qué... fue eso?
 * Clover... qué...
-* Um, ok. No, esto#  está bien.
-* Esto puede ser muy útil#  contra el Ki
+* Um, ok. No, esto está#  bien.
+* Esto puede ser muy útil#  contra el Re
 message_timer
 * Espera, ¿a dónde vas?
 * ¡Todavía estoy#  hablando!
@@ -10836,7 +10836,7 @@ idle_animation
 * ¡Diviértete ahí dentro!
 * Oi, el club esta cerrado.
 * El Sr. Bailador no está#  respondiendo su teléfono.
-* Claro que siempre viaja, pero#  no de él perderse la hora#  del cangrejo.
+* Claro que siempre viaja, pero#  no es de él perderse la hora#  del cangrejo.
 * Ah bueno, los suplentes#  acaban de ir a buscarlo
 * Esta es una noche salvaje...
 * ¿No me escuchaste la#  primera vez?
@@ -11631,7 +11631,7 @@ Toda mi vida,#me enseñaron#que los humanos son#el enemigo.
 Tenía la verdad en#frente mío pero decidí#mirar al otro lado.
 Intenté ver lo#bueno - quería#creer que no#era verdad. 
 Pero tú...
-Cualquier ápice de#"bueno" que tenías#está tres metros#por debajo.
+Cualquier ápice de#"bueno" que tenías#está tres metros#bajo tierra.
 No me importa si tu#motivación era#"noble."
 No me importa si solo#era tu retorcida idea#de diversión.
 Nada puede justificar#tus pecados.
@@ -11889,22 +11889,22 @@ spawn_direction_variance
 spawned_last
 pollen
 * HICE. ..
-* HICE TODO LO QUE PUED3.
-* SóLO PuDE SALVaR A UNOS#  POCOS perO... 
+* HICE TODO LO QUE PUD3.
+* SoLO PuDE SALVaR A UNOS#  POCOS perO... 
 * AHoRA_ S3 QUE DEJAR4S#  EsTE LUgAR INSATISFECHO.
 * PUEDE QUE ME ESPErE 3L#  MISMO DeSTINO,
-* PeRO YA N0 CORRE,RÉ#  De TI.
+* PeRO YA N0 CORRE,RÉ.
 * EsE CAÑ0N DE MU3RTE#  QUE LLeVAS eS FUERT3.. .
 * No pUDISTE ACABAR con#  TODOS, ¿EH? 
 * PAR3CE QuE VARIOS#  BOTS T3 EvADIERON.
 * PERO COMO pUEDES VER,#  SIGO AQU1.
 * BuENO, ,,
-* DECId1 QUE YA N0#  CORRE,RÉ dE TI.
+* DECId1 QUE YA N0#  CORRE,RÉ.
 * PERO como PUEDES VER, . .
-* H3 TOmADO UN "ARm4" PROPIA_.
+* H3 TOmADO UN "ARm4"#  PROPIA_.
 * AHoRA.. . COMO LOS#  ÑIÑOS DICEN,
-* VAMOS A ELLO.
-* PERO  H3 TOmADO UN#  "ARm4" PROPIA_.
+* ACABEMOS CON ESTO.
+* PERO H3 TOmADO UN#  "ARm4" PROPIA_.
 * ENTONCES. ..
 * ¿PoR QUé NO PRU3BAS TU#  SUERTE?
 yellow_overlay_alpha
@@ -12747,9 +12747,9 @@ pe_droplet
 * No tengo la menor idea#  de lo que está pasando aquí.
 * Lo último que recuerdo es#  a nosotros hablando en#  ese techo...
 * ¡Ah, sí! ¡Íbamos a mi casa!
-* No sé muy bien dónde está#  partiendo de aquí,#  ¡pero la buscaremos juntos!
+* No sé muy bien dónde está#  partiendo de aquí, ¡pero#  la buscaremos juntos!
 * ¡Estoy tan contenta de#  haberte encontrado!
-* Me alegra haberte#  encontrado.
+* Me alegra haberte encontrado.
 * Te encontré.
 * T E   E N C O N T R É . 
 * (Necesitamos permanecer#  concentrados.)
@@ -13002,7 +13002,7 @@ bell_sound
 * No queremos alertar a#  alguien externo.
 * En especial empleados de#  Asgore como el SPSS.
 * Tu correo tendrá que#  esperar.
-* Pero nadie vino.
+* Pero no vino nadie.
 x_distance
 bounce
 p_gravity
@@ -14187,7 +14187,7 @@ abandoned_geno
 * Nunca pasarás de#  ASGORE.
 * Él es nuestra única#  luz guiante y no una#  que se pueda apagar.
 * Así que adelante...#  Haz tu recuento.
-* Solo... pongamos todo#  esto atrás. Acabemos#  con el conflicto.
+* Solo... dejemos todo#  esto atrás. Acabemos#  con el conflicto.
 * Puedes venir y quedarte#  conmigo. Vivir feliz y#  sin violencia.
 * No mereces morir tan#  jóven.
 * ¡En serio muchas#  gracias, Clover!
@@ -14209,7 +14209,7 @@ message_insert
 * Nuestra amistad#  siempre fue#  unilateral, ¿no?
 * Después de todo,#  ¡nunca te molestaste en#  guardar ni UNA SOLA VEZ!
 * Aún así...
-* ¡Uy! ¡Llegué a#  ella primero!
+* ¡Uy! ¡Llegué a ella#  primero!
 * Aunque debo decir...
 * ¿Lo de la "falsa#  sensación de seguridad"?#  Muy inteligente.
 * No me digas que#  REALMENTE intentabas#  darle la vuelta a esto.
@@ -14221,7 +14221,7 @@ message_insert
 * ...¡Oh, cierto!
 * ¡Sorpresa!#  ¡Te traicioné!
 * Lo siento mucho, pero#  oye, ¡gracias por#  abandonar tu ira!
-* Te estabas poniendo#  muy fuerte por#  un segundo.
+* Te estabas volviendo#  muy fuerte por un#  momento.
 * No suelo ser de los#  que se preocupan#  pero, ¡uf!
 * ¡Esquivé una bala!#  ¡Jajaja!
 * ¡Vaya!#  ¡Qué sean dos!
@@ -14621,7 +14621,7 @@ song_pos
 * Apuesto a que hubieras podido#  contra ASGORE si te hubieras#  molestado en ir por él. 
 * A pesar de que tus decisiones#  en esta línea temporal no#  me sirven más...
 * No ODIÉ directamente el tiempo#  que pasamos juntos. No todo.
-* Dos almas perdidas decidiendo#  quien vive o muere...
+* Dos almas perdidas decidiendo#  quién vive o muere...
 * La mayor parte del tiempo eras#  insufrible pero cuando te#  rendiste...
 * ...Te rendiste ante tus#  verdaderos impulsos violentos.#  Eso fue lo mejor.
 * Ahí fue cuando supe que tenías#  lo suficiente para pelear#  contra el Rey.
@@ -15880,7 +15880,7 @@ AT
 (
 )
 DF 
-XP 
+EXP 
 level_up_treshhold
 SIG. 
 ARMA: 
@@ -16858,9 +16858,9 @@ audio_sound_gain_gramophone
 * No salgo mucho... 
 * ¡Oh, espera! Tengo#  algunas sobras que#  puedes llevarte.
 * Espero que te guste.#  Lo hice para mi#  cumpleaños.
-* ¡El Sponge Cake es#  mi favorito!
-* (Es una Sponge Cake cubierta#  de caramelo).
-* (¡Obtuviste un Sponge Cake!)
+* ¡El Pastel Esponjoso es#  mi favorito!
+* (Es un Pastel Esponjoso#  cubierta de caramelo).
+* (¡Obtuviste un Pastel#  Esponjoso!)
 * Siento no haberte#  invitado, fue la#  semana pasada.
 * ¡Puedes venir el año que#  viene!
 * ¿No?
@@ -17257,7 +17257,7 @@ Prepárate para mi#más fuerte#ataq-
 * Te dejaré estas cositas#  por aquí.
 * ¡Buenas!#* Soy FLOWEY. #* ¡FLOWEY la FLOR!
 * Hmm... #* ¡Pareces confundido!
-* ¡Toriel deberia haberte #  enseñado cómo funcionan #  las cosas por aquí!
+* ¡Toriel debería haberte #  enseñado cómo funcionan #  las cosas por aquí!
 * Supongo que el viejo yo#  tendrá que hacerlo.#* ¿Listo? ¡Allá vamos!
           #      FLOWEY  #   FLOWEY    FLOR 
 * Probablemente quieras#  irte a casa, ¿verdad?
@@ -17548,12 +17548,12 @@ box_yy
 jingle_noloop
 * ¡Saludos! ¡Hola! ¿Cómo está?
 * ¡Tengo una carta muy#  especial para ti!
-* ¿Por qué tan de repente,#  sin un ring?
+* ¿Por qué tan de repente, sin#  que me llames?
 * ¡Porque correo prioritario#  es lo que traigo!
 * ¡Asegúrate de leerlo antes#  de que huya!
 * El que lo envió pagó una#  ¡cuota premium!
-* Espero que mi rápido#  servicio te haya#  ayudado.
-* ¡La SPSS siempre cumple#  sin duda!
+* Espero que mi rápido servicio#  te haya ayudado.
+* ¡El SPSS siempre cumple#  sin duda!
 camera_base_x
 camera_base_y
 box_x
@@ -22666,7 +22666,7 @@ Si eso quieres, claro...
 ¿Esta pieza de#chatarra te venció?
 Je, pensé que eras#mejor que eso.
 Deberías haberte#encargado de este#robot hace tiempo.
-Pero no, ¡Tenías que#jugar al malote#héroe de acción!
+Pero no, ¡tenías que#jugar al malote héroe#de acción!
 No puedo evitar sentir#que esto es karma, je.
 Pero SUPONGO que aún#debería revivirte...
 De nuevo.
@@ -25230,7 +25230,7 @@ Check 3
 * Je, no puedo creer que pensé#  que este intento sería distinto.
 * No es sorpresa que hagamos#  un buen equipo.
 * De alguna manera te pareces#  mucho a mi.
-* Muy terco para sentarse y#  aceptar tu situación.
+* Muy terco para sentarte y#  aceptar tu situación.
 * Muy... determinado.
 * Eres tan molesto.
 * Creí que esto sería divertido,#  supongo que lo fue...
@@ -25251,7 +25251,7 @@ Check 3
 * No se acerca a lo que REALMENTE#  busco.
 * Cuando llegue a esa meta,#  tú estarás para presenciarlo.
 * ¡Un espectáculo nunca antes#  visto por el mundo!
-* Así que... Cuando nos volvamos#  a encontrar en esa mugrosa#  habitación...
+* Así que... cuando nos volvamos#  a encontrar en esa mugrosa#  habitación...
 * Vas a ayudarme con lo que#  quiero.
 * Te guste o no, yo decido tu#  destino ahora.
 * ¡Jaja! ¡Si tan solo pudiera#  ver tu reacción ante todo#  esto!
@@ -25277,8 +25277,8 @@ Check 3
 * Tal vez en algún punto todo#  culmine.
 * Finalmente me llevarás a lo#  que necesito.
 * Hasta entonces, reiniciaré.
-* Restearé y restearé y #  restearé y restearé y #  restearé y restearé y
-* ¿Por qué siempre terminó#  aquí?
+* Resetearé y resetearé y#  resetearé y resetearé y #  resetearé y resetearé y
+* ¿Por qué siempre termino#  aquí?
 * Siempre que haces ciertas#  decisiones, es el techo.
 * Martlet siempre te convence#  para que vayas con ella.
 * ¿Se supone que... debo dejar#  que eso ocurra?
@@ -25291,7 +25291,7 @@ Check 3
 * Como si hubiera una manera#  específica en la que TIENE que#  ocurrir.
 * Si eso es cierto... ¿a qué#  lleva ese destino? ¿a fin#  de cuentas?
 * ...¿Tal vez no eres a quien#  necesito?
-* ¿Tal vez solo eres un escalón#  Un... precursor.
+* ¿Tal vez solo eres un escalón?#  Un... precursor.
 * "Ellos llegan. Se van. Se#  mueren."
 * Es lo que ella siempre dice.
 * Habrá otro.	
@@ -25300,14 +25300,14 @@ Check 3
 * Por ahora, sin embargo,#  tengo que continuar con esto.	
 * Sé lo que es estar al fondo#  y sin esperanzas.	
 * Esto... aunque es increíblemente#  frustrante...	
-* Este acto me ha llevado lo#  más cerca a mi meta hasta#  ahora.	
+* Este acto me ha llevado lo#  más cerca de mi meta hasta#  ahora.	
 * Es la primera vez que siento#  que he hecho verdadero progreso.	
 * Claro, puedo intentar arreglar#  otro puzzle...	
 * Arrastrarte a un camino#  alternativo...	
 * Pero incluso yo no tengo la#  paciencia para eso.	
 * En lo profundo de mi sé que#  mi plan VA a funcionar.	
 * Lo que no sé es si mi plan#  te involucre al final.	
-* ...Vivo, eso es.	
+* ...Vivo, al menos.	
 * Pero he balbuceado demasiado.	
 * Es mi hora de fingir mi#  sonrisa a través de otro#  viaje emocionante.	
 * No lo arruines de nuevo.
@@ -25321,7 +25321,7 @@ Check 3
 * Algo no cuadra aquí.
 * Estamos solos en mi mente#  en este momento.
 * Está claro que estamos solos,#  ¿cierto?
-* Entonces por qué no lo#  entiendo...
+* Entonces por qué sigo#  sintiéndolo...
 * En momentos como este donde#  todo es silencio... ahí es#  cuando lo siento.
 * Solo desde que llegaste ha#  sido de esa forma.
 * Tengo que reiniciar de nuevo.
@@ -25566,7 +25566,7 @@ PUEDO#eXEPLICARTE#T0DO
 S4BES, NO#tENGO lAS#LiBERT4DES QUE#tU TIENES.
 MI PR0GRAMACIÓN.#..
 no TUV3_ELECCIÓN.
-FUI FORZADO A#NEUTRALIZAR#ESE HUMANO.
+FUI FORZADO A#NEUTRALIZAR A#ESE HUMANO.
 E-ESPERA.
 ¿QUÉ OCURRE?
 ESPERA. POR FAVOR.  
