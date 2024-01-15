@@ -114,7 +114,7 @@ if (waiter == 1)
         message_col[3][0] = "                Mo "
         message[4] = "* De todas formas..."
         message[5] = "* El hecho de que hayas intentado#  hacerte con esta taza solo#  puede significar una cosa."
-        message[6] = "* Buscas algo delicioso#  para dar en el blanco,#  ¿verdad?"
+        message[6] = "* Buscas algo delicioso para#  dar en el blanco, ¿verdad?"
         message[7] = "* ¡Claro que sí!#  Conozco a los de tu tipo."
         message[8] = "* Entonces,#  ¿quieres esta bebida?"
         ch_msg = 8
@@ -129,7 +129,7 @@ if (waiter == 1)
         {
             message[9] = "* Pues claro que no."
             message[10] = "* Tú y yo, estamos en la#  misma página aquí."
-            message[11] = "* ¿Esto? Que asco.#  Nadie quiere eso."
+            message[11] = "* ¿Esto? Qué asco.#  Nadie quiere eso."
             other.waiter = 2
         }
     }
@@ -152,7 +152,7 @@ if (waiter == 3)
         message[1] = "* ¿Sólidos? ¡PAH!#  ¡Temporada anterior!"
         message[2] = "* ¿Quieres ser fresco y#  revolucionario? ¡Tengo#  lo último!"
         message[3] = "* ¡Sólidos que SOLÍAN ser#  líquidos!"
-        message[4] = "* ...Y que, ya sabes, no hayan#  estado sentado en el bosque#  durante tres semanas."
+        message[4] = "* ...Y que, ya sabes, no hayan#  estado posados en el bosque#  durante tres semanas."
         message[5] = "* ¡He inventado la próxima#  gran cosa!"
         message[6] = "* ¡Por el increíble precio#  de 15 de oro, puedes tener tu#  propia Paleta de Chocolate Cal.!"
         message[7] = "* Antes era el viejo y aburrido#  chocolate caliente, ¡pero ahora#  congelado a temperatura ideal!"
@@ -162,7 +162,7 @@ if (waiter == 3)
         ch[2] = "No Gracias"
         if (outcome == 1 && message_current == 8)
         {
-            message[9] = "* ¡Sabía que lo serías!#  ¡Maldición, soy bueno!"
+            message[9] = "* ¡Sabía que lo harías!#  ¡Maldición, soy bueno!"
             message[10] = "* Vayamos al grano."
             other.waiter = 4
         }
@@ -244,12 +244,12 @@ if (waiter == 5 && path_position == 1)
                         message[1] = "* Lo siento, amigo.#  Voy a necesitar más#  ORO que eso."
                     else if (!scr_inventory_check_space())
                     {
-                        message[1] = "* Uh-oh, parece que#  no tienes espacio para#  este item."
+                        message[1] = "* Oh-oh, parece que#  no tienes espacio para#  este item."
                         message[2] = "* Vuelve cuando hayas#  hecho algo más de#  espacio."
                     }
                 }
                 else
-                    message[1] = "* ¡Que artículo tan popular!#  Ojalá pudiera venderte más,#  pero se me han acabado."
+                    message[1] = "* ¡Qué artículo tan popular!#  Ojalá pudiera venderte más,#  pero se me han acabado."
                 other.waiter = 6
                 break
             case 4:

@@ -3,7 +3,7 @@ if (scr_determine_item_droppable_yellow(current_item) == 1)
 {
     with (msg)
     {
-        message[0] = (("* ¿Estás seguro de que quieres tirar " + obtenerItemSpanish(other.current_item)) + "?")
+        message[0] = (("* ¿Seguro de que quieres#  tirar " + obtenerItemSpanish(other.current_item)) + "?")
         ch_msg = 0
         ch[1] = "Sí"
         ch[2] = "No"

@@ -66,7 +66,7 @@ function scr_item_use_text_yellow() //gml_Script_scr_item_use_text_yellow
     else if (item_slot == "Candy Corn")
     {
         message[0] = (("* (Comes el " + obtenerItemSpanish(string(item_slot))) + ".)")
-        message[1] = "* (Ahora ya sabes porque#  fue desechado.)"
+        message[1] = "* (Ahora ya sabes porque fue#  desechado.)"
         item_use_hold.item_category = "consumable"
         item_use_hold.item_type = "healing"
         item_use_hold.item_number = scr_item_stats_heal(item_slot)
@@ -174,7 +174,7 @@ function scr_item_use_text_yellow() //gml_Script_scr_item_use_text_yellow
     }
     else if (item_slot == "Hndw Pancake")
     {
-        message[0] = "* (Comes el pancake.)"
+        message[0] = "* (Comes el panqueque.)"
         message[1] = "* (¡El jarabe es muy dulce!)"
         item_use_hold.item_category = "consumable"
         item_use_hold.item_type = "healing"
@@ -322,7 +322,7 @@ function scr_item_use_text_yellow() //gml_Script_scr_item_use_text_yellow
     }
     else if (item_slot == "Feisty Slider")
     {
-        message[0] = "* (Comes la Hamb. Feisty. Se#  parece al equipo, su sabor es#  ... ambiocoso.)"
+        message[0] = "* (Comes la Hamb. Feisty. Se#  parece al equipo, su sabor es#  ...ambicioso.)"
         item_use_hold.item_category = "consumable"
         item_use_hold.item_type = "healing"
         item_use_hold.item_number = scr_item_stats_heal(item_slot)
@@ -334,7 +334,7 @@ function scr_item_use_text_yellow() //gml_Script_scr_item_use_text_yellow
     else if (item_slot == "Gunpowder")
     {
         message[0] = "* (Pones la pólvora en tu boca y#  casi mueres asfixiado.) "
-        message[1] = "* (...HP recuperados totalmente.)"
+        message[1] = "* (...PV recuperados totalmente.)"
         item_use_hold.item_category = "consumable"
         item_use_hold.item_type = "healing"
         item_use_hold.item_number = scr_item_stats_heal(item_slot)
@@ -442,7 +442,7 @@ function scr_item_use_text_yellow() //gml_Script_scr_item_use_text_yellow
     }
     else if (item_slot == "Popato Chisps")
     {
-        message[0] = "* (Comes las Papitas Fritas.#  El crujir es ensordecedor.)"
+        message[0] = "* (Comes las Papitas Fritas.#  El crujido es ensordecedor.)"
         item_use_hold.item_category = "consumable"
         item_use_hold.item_type = "healing"
         item_use_hold.item_sound = 390
@@ -454,7 +454,7 @@ function scr_item_use_text_yellow() //gml_Script_scr_item_use_text_yellow
     else if (item_slot == "Beef Jerky")
     {
         message[0] = "* (Te comes la carne seca.)"
-        message[1] = "* (Que sabor tan clásico.)"
+        message[1] = "* (Qué sabor tan clásico.)"
         item_use_hold.item_category = "consumable"
         item_use_hold.item_type = "healing"
         item_use_hold.item_sound = 390
@@ -478,7 +478,7 @@ function scr_item_use_text_yellow() //gml_Script_scr_item_use_text_yellow
     else if (item_slot == "Floral Cupcake")
     {
         message[0] = "* (Disfrutas la Magdalena#  Floral.)"
-        message[1] = "* (¡Que rico sabor!)"
+        message[1] = "* (¡Qué rico sabor!)"
         item_use_hold.item_category = "consumable"
         item_use_hold.item_type = "healing"
         item_use_hold.item_sound = 390
@@ -609,14 +609,14 @@ function scr_item_use_text_yellow() //gml_Script_scr_item_use_text_yellow
     else if (item_slot == "Glass Ammo")
     {
         message[0] = "* (Cargas con cuidado el Vidrio#  en tu pistola.)"
-        message[1] = "* (¡Phew! ¡Sin cortes!)"
+        message[1] = "* (¡Fiu! ¡Sin cortes!)"
         item_use_hold.item_category = "equip"
         item_use_hold.item_type = "ammo"
         item_use_hold.item_sound = 388
     }
     else if (item_slot == "Flint")
     {
-        message[0] = "* (Cargas el Pedernal#  en tu pistola.)"
+        message[0] = "* (Cargas las Balas de#  Piedra en tu pistola.)"
         message[1] = "* (¡Se puede iniciar un#  incendio con este!)"
         item_use_hold.item_category = "equip"
         item_use_hold.item_type = "ammo"
@@ -631,7 +631,7 @@ function scr_item_use_text_yellow() //gml_Script_scr_item_use_text_yellow
     }
     else if (item_slot == "Friendliness Pellets")
     {
-        message[0] = "* (Decidiste cargar los Pétalos de#  amistad en tu pistola.)"
+        message[0] = "* (Decidiste cargar los Pétalos#  de Amistad en tu pistola.)"
         item_use_hold.item_category = "equip"
         item_use_hold.item_type = "ammo"
         item_use_hold.item_sound = 388
@@ -683,7 +683,7 @@ function scr_item_use_text_yellow() //gml_Script_scr_item_use_text_yellow
     else if (item_slot == "Fancy Holster")
     {
         message[0] = "* (Equipas con orgullo la#  Funda Elegante.)"
-        message[1] = "* (Estás listo para todo#  desde ahora!)"
+        message[1] = "* (¡Estás listo para todo#  desde ahora!)"
         item_use_hold.item_category = "equip"
         item_use_hold.item_type = "accessory"
         item_use_hold.item_sound = 388
@@ -699,7 +699,7 @@ function scr_item_use_text_yellow() //gml_Script_scr_item_use_text_yellow
     else if (item_slot == "Safety Jacket")
     {
         message[0] = "* (Te pones la impresionante#  Chaqueta amarilla resaltadora.)"
-        message[1] = "* (¡Estás totalmente listo para preocuparte#  por los negocios!)"
+        message[1] = "* (¡Estás totalmente listo para#  preocuparte por#  los negocios!)"
         item_use_hold.item_category = "equip"
         item_use_hold.item_type = "accessory"
         item_use_hold.item_sound = 388
@@ -781,7 +781,7 @@ function scr_item_use_text_yellow() //gml_Script_scr_item_use_text_yellow
         if ((current_sp_self + item_use_hold.item_number) < max_sp_self)
             message[cmsgn] = (((message_add + "* (¡Recuperaste ") + string(item_use_hold.item_number)) + " SP!)")
         else
-            message[cmsgn] = (message_add + "* (Tu SP se llenó.)")
+            message[cmsgn] = (message_add + "* (Tu VE se llenó.)")
     }
     if (execute_rp == 1)
     {
