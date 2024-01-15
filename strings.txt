@@ -489,13 +489,13 @@ sworks_flag
 * ¿Vamos a hablar de lo#  que acabas de hacer?
 * Estoy harto de este#  comportamiento.
 * Te ayude tanto tiempo...#  ¿y aún así tengo que#  lidiar con tu angustia?
-* ¿Has oído alguna vez eso#  de "no muerdas la mano#  que te da de comer?".
+* ¿Has oído alguna vez eso#  de "no muerdas la mano#  que te da de comer"?
 * Pero, oh, "está bien#  morder a Flowey porque#  no tiene manos".
-* ¡Bueno, solía tenerlo!
+* ¡Bueno, solía tenerlas!
 * ...
 * Yo um...
 * Heh...
-* Prometí ayudarte#  hasta llegar al#  castillo.
+* Prometí ayudarte hasta#  llegar al castillo.
 * Así que... lo haré.
 * Tenía que dar a conocer#  mis quejas, ¿sabes?
 * Con un poco de respeto#  se llega muy lejos.
@@ -1153,8 +1153,8 @@ save_count
 * ¡Chop chop!
 * Vaya.
 * Se corre la voz.
-* Esto es lo que obtienes#  cuando descartas#  la "sutileza".
-* Hacer la guerra sin#  importarle las#  repercusiones...
+* Esto es lo que obtienes#  cuando descartas la#  "sutileza".
+* Hacer la guerra sin#  importar las#  repercusiones...
 * Intenté advertirte pero#  ya es demasiado tarde.
 * Tranquilízate de aquí#  en adelante, ¿quieres?
 * Tenemos que llegar al#  Castillo.
@@ -1961,7 +1961,7 @@ H. Acid
 * (Te colocas la Bufanda Dorada.#* Tu tremendo gusto por el estilo#  hace que los enemigos te contemplen.)
 * (Envuelves las Gafas de#  Seguridad alrededor de#  tu sombrero.)
 * (Es como si tuviera ojos#  ahora.)
-* (Colocas el parche en tu chaleco#  y comienzas a sentir#  algo...)
+* (Colocas el parche en tu chaleco#  y comienzas a sentir algo...)
 * (Las inquebrantables esperanzas#  y sueños de los monstruos.)
 * (Envuelves la Bufanda Plateada#  alrededor de tu cuello.)
 * (¡Qué acogedora!)
@@ -3345,7 +3345,7 @@ scr_battle_core_directory_no_attack
 * El dúo robótico, Jandroid y#  Goosic, ¡ya está aquí!
 * Aclarado, repetido.
 * Axis Modelo 014, ¡listo#  para atacar!
-* Axis Modelo 014, listo#  para defender.
+* Axis Modelo 014, listo para#  defender.
 * Qué caraj...
 * ¡Guardener te atrapa!
 * Sin vuelta atrás.
@@ -9496,7 +9496,7 @@ statue
 * - Starlo (Solo intentaba#  impresionar a alguien.)
 * - Fuku Fire (Mayor entusiasmo)
 * - Know Cone (Transportado#  a un hospital. Podríamos#  tener problemas legales.)
-* (El lugar de#  descanso de los demás.)
+* (El lugar donde descansan#  los otros.)
 * (Tu destino.)
 * (Te das cuenta de un horario#  de próximos actos en#  el tablero.)
 * (El nombre "Mettaton" aparece#  muchas, muchas veces.)
@@ -9692,8 +9692,8 @@ Vivir... después de#lo que#he hecho...
 Yo...
 * ¿Qué... fue eso?
 * Clover... qué...
-* Um, ok. No, esto#  está bien.
-* Esto puede ser muy útil#  contra el Ki
+* Um, ok. No, esto está#  bien.
+* Esto puede ser muy útil#  contra el Re
 message_timer
 * Espera, ¿a dónde vas?
 * ¡Todavía estoy#  hablando!
@@ -11631,7 +11631,7 @@ Toda mi vida,#me enseñaron#que los humanos son#el enemigo.
 Tenía la verdad en#frente mío pero decidí#mirar al otro lado.
 Intenté ver lo#bueno - quería#creer que no#era verdad. 
 Pero tú...
-Cualquier ápice de#"bueno" que tenías#está tres metros#por debajo.
+Cualquier ápice de#"bueno" que tenías#está tres metros#bajo tierra.
 No me importa si tu#motivación era#"noble."
 No me importa si solo#era tu retorcida idea#de diversión.
 Nada puede justificar#tus pecados.
@@ -11889,21 +11889,21 @@ spawn_direction_variance
 spawned_last
 pollen
 * HICE. ..
-* HICE TODO LO QUE PUED3.
-* SóLO PuDE SALVaR A UNOS#  POCOS perO... 
+* HICE TODO LO QUE PUD3.
+* SoLO PuDE SALVaR A UNOS#  POCOS perO... 
 * AHoRA_ S3 QUE DEJAR4S#  EsTE LUgAR INSATISFECHO.
 * PUEDE QUE ME ESPErE 3L#  MISMO DeSTINO,
-* PeRO YA N0 CORRE,RÉ#  De TI.
+* PeRO YA N0 CORRE,RÉ.
 * EsE CAÑ0N DE MU3RTE#  QUE LLeVAS eS FUERT3.. .
 * No pUDISTE ACABAR con#  TODOS, ¿EH? 
 * PAR3CE QuE VARIOS#  BOTS T3 EvADIERON.
 * PERO COMO pUEDES VER,#  SIGO AQU1.
 * BuENO, ,,
-* DECId1 QUE YA N0#  CORRE,RÉ dE TI.
+* DECId1 QUE YA N0#  CORRE,RÉ.
 * PERO como PUEDES VER, . .
-* H3 TOmADO UN "ARm4" PROPIA_.
+* H3 TOmADO UN "ARm4"#  PROPIA_.
 * AHoRA.. . COMO LOS#  ÑIÑOS DICEN,
-* VAMOS A ELLO.
+* ACABEMOS CON ESTO.
 * PERO H3 TOmADO UN#  "ARm4" PROPIA_.
 * ENTONCES. ..
 * ¿PoR QUé NO PRU3BAS TU#  SUERTE?
@@ -25565,7 +25565,7 @@ PUEDO#eXEPLICARTE#T0DO
 S4BES, NO#tENGO lAS#LiBERT4DES QUE#tU TIENES.
 MI PR0GRAMACIÓN.#..
 no TUV3_ELECCIÓN.
-FUI FORZADO A#NEUTRALIZAR#ESE HUMANO.
+FUI FORZADO A#NEUTRALIZAR A#ESE HUMANO.
 E-ESPERA.
 ¿QUÉ OCURRE?
 ESPERA. POR FAVOR.  
