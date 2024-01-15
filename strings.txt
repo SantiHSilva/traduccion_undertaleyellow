@@ -15880,7 +15880,7 @@ AT
 (
 )
 DF 
-XP 
+EXP 
 level_up_treshhold
 SIG. 
 ARMA: 
