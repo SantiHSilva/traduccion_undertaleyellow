@@ -13002,7 +13002,7 @@ bell_sound
 * No queremos alertar a#  alguien externo.
 * En especial empleados de#  Asgore como el SPSS.
 * Tu correo tendrá que#  esperar.
-* Pero nadie vino.
+* Pero no vino nadie.
 x_distance
 bounce
 p_gravity
