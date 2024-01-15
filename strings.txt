@@ -16857,9 +16857,9 @@ audio_sound_gain_gramophone
 * No salgo mucho... 
 * ¡Oh, espera! Tengo#  algunas sobras que#  puedes llevarte.
 * Espero que te guste.#  Lo hice para mi#  cumpleaños.
-* ¡El Sponge Cake es#  mi favorito!
-* (Es una Sponge Cake cubierta#  de caramelo).
-* (¡Obtuviste un Sponge Cake!)
+* ¡El Pastel Esponjoso es#  mi favorito!
+* (Es un Pastel Esponjoso#  cubierta de caramelo).
+* (¡Obtuviste un Pastel#  Esponjoso!)
 * Siento no haberte#  invitado, fue la#  semana pasada.
 * ¡Puedes venir el año que#  viene!
 * ¿No?
