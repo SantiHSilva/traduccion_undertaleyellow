@@ -15880,7 +15880,7 @@ AT
 (
 )
 DF 
-EXP 
+XP 
 level_up_treshhold
 SIG. 
 ARMA: 
@@ -16577,7 +16577,6 @@ max_g_gained
 countdown_text
 ¡ADELANTE!
  de ORO ganado!
-0 de ORO ganado.#  ¡Suerte la próxima vez!
 card_is_selected
 card_success
 card_row
@@ -45402,3 +45401,4 @@ BORDE_BAILADOR
 bordemode
 BORDES EN PANTALLA COMPLETA:
 (F3)
+0 de ORO ganado.#  ¡Suerte la próxima vez!
