@@ -607,7 +607,7 @@ rm_steamworks_34
 * Es decir, SOY una planta#  pero no me oyes#  hablar de eso 24/7.
 * Estamos casi fuera de#  esta instalación,#  ¡puedo sentirlo!	
 * ¡No bajes el ritmo#  ahora!
-* Da igual lo que te espere,#  seguro tomarás las#  decisiones correctas.	
+* Da igual lo que te#  espere, seguro tomarás#  las decisiones correctas.	
 * ¡Ve a por ellos!
 * ¿Puedes oler eso?#  ¡Magma y acero!
 * Acero... nuevo. ¡El#  punto es que ya#  casi nos vamos, amigo! 
@@ -10836,7 +10836,7 @@ idle_animation
 * ¡Diviértete ahí dentro!
 * Oi, el club esta cerrado.
 * El Sr. Bailador no está#  respondiendo su teléfono.
-* Claro que siempre viaja, pero#  no de él perderse la hora#  del cangrejo.
+* Claro que siempre viaja, pero#  no es de él perderse la hora#  del cangrejo.
 * Ah bueno, los suplentes#  acaban de ir a buscarlo
 * Esta es una noche salvaje...
 * ¿No me escuchaste la#  primera vez?
@@ -11904,7 +11904,7 @@ pollen
 * H3 TOmADO UN "ARm4" PROPIA_.
 * AHoRA.. . COMO LOS#  ÑIÑOS DICEN,
 * VAMOS A ELLO.
-* PERO  H3 TOmADO UN#  "ARm4" PROPIA_.
+* PERO H3 TOmADO UN#  "ARm4" PROPIA_.
 * ENTONCES. ..
 * ¿PoR QUé NO PRU3BAS TU#  SUERTE?
 yellow_overlay_alpha
@@ -12747,9 +12747,9 @@ pe_droplet
 * No tengo la menor idea#  de lo que está pasando aquí.
 * Lo último que recuerdo es#  a nosotros hablando en#  ese techo...
 * ¡Ah, sí! ¡Íbamos a mi casa!
-* No sé muy bien dónde está#  partiendo de aquí,#  ¡pero la buscaremos juntos!
+* No sé muy bien dónde está#  partiendo de aquí, ¡pero#  la buscaremos juntos!
 * ¡Estoy tan contenta de#  haberte encontrado!
-* Me alegra haberte#  encontrado.
+* Me alegra haberte encontrado.
 * Te encontré.
 * T E   E N C O N T R É . 
 * (Necesitamos permanecer#  concentrados.)
@@ -14187,7 +14187,7 @@ abandoned_geno
 * Nunca pasarás de#  ASGORE.
 * Él es nuestra única#  luz guiante y no una#  que se pueda apagar.
 * Así que adelante...#  Haz tu recuento.
-* Solo... pongamos todo#  esto atrás. Acabemos#  con el conflicto.
+* Solo... dejemos todo#  esto atrás. Acabemos#  con el conflicto.
 * Puedes venir y quedarte#  conmigo. Vivir feliz y#  sin violencia.
 * No mereces morir tan#  jóven.
 * ¡En serio muchas#  gracias, Clover!
@@ -14209,7 +14209,7 @@ message_insert
 * Nuestra amistad#  siempre fue#  unilateral, ¿no?
 * Después de todo,#  ¡nunca te molestaste en#  guardar ni UNA SOLA VEZ!
 * Aún así...
-* ¡Uy! ¡Llegué a#  ella primero!
+* ¡Uy! ¡Llegué a ella#  primero!
 * Aunque debo decir...
 * ¿Lo de la "falsa#  sensación de seguridad"?#  Muy inteligente.
 * No me digas que#  REALMENTE intentabas#  darle la vuelta a esto.
@@ -14221,7 +14221,7 @@ message_insert
 * ...¡Oh, cierto!
 * ¡Sorpresa!#  ¡Te traicioné!
 * Lo siento mucho, pero#  oye, ¡gracias por#  abandonar tu ira!
-* Te estabas poniendo#  muy fuerte por#  un segundo.
+* Te estabas volviendo#  muy fuerte por un#  momento.
 * No suelo ser de los#  que se preocupan#  pero, ¡uf!
 * ¡Esquivé una bala!#  ¡Jajaja!
 * ¡Vaya!#  ¡Qué sean dos!
@@ -14621,7 +14621,7 @@ song_pos
 * Apuesto a que hubieras podido#  contra ASGORE si te hubieras#  molestado en ir por él. 
 * A pesar de que tus decisiones#  en esta línea temporal no#  me sirven más...
 * No ODIÉ directamente el tiempo#  que pasamos juntos. No todo.
-* Dos almas perdidas decidiendo#  quien vive o muere...
+* Dos almas perdidas decidiendo#  quién vive o muere...
 * La mayor parte del tiempo eras#  insufrible pero cuando te#  rendiste...
 * ...Te rendiste ante tus#  verdaderos impulsos violentos.#  Eso fue lo mejor.
 * Ahí fue cuando supe que tenías#  lo suficiente para pelear#  contra el Rey.
@@ -17547,12 +17547,12 @@ box_yy
 jingle_noloop
 * ¡Saludos! ¡Hola! ¿Cómo está?
 * ¡Tengo una carta muy#  especial para ti!
-* ¿Por qué tan de repente,#  sin un ring?
+* ¿Por qué tan de repente, sin#  que me llames?
 * ¡Porque correo prioritario#  es lo que traigo!
 * ¡Asegúrate de leerlo antes#  de que huya!
 * El que lo envió pagó una#  ¡cuota premium!
-* Espero que mi rápido#  servicio te haya#  ayudado.
-* ¡La SPSS siempre cumple#  sin duda!
+* Espero que mi rápido servicio#  te haya ayudado.
+* ¡El SPSS siempre cumple#  sin duda!
 camera_base_x
 camera_base_y
 box_x
@@ -22665,7 +22665,7 @@ Si eso quieres, claro...
 ¿Esta pieza de#chatarra te venció?
 Je, pensé que eras#mejor que eso.
 Deberías haberte#encargado de este#robot hace tiempo.
-Pero no, ¡Tenías que#jugar al malote#héroe de acción!
+Pero no, ¡tenías que#jugar al malote héroe#de acción!
 No puedo evitar sentir#que esto es karma, je.
 Pero SUPONGO que aún#debería revivirte...
 De nuevo.
@@ -25229,7 +25229,7 @@ Check 3
 * Je, no puedo creer que pensé#  que este intento sería distinto.
 * No es sorpresa que hagamos#  un buen equipo.
 * De alguna manera te pareces#  mucho a mi.
-* Muy terco para sentarse y#  aceptar tu situación.
+* Muy terco para sentarte y#  aceptar tu situación.
 * Muy... determinado.
 * Eres tan molesto.
 * Creí que esto sería divertido,#  supongo que lo fue...
@@ -25250,7 +25250,7 @@ Check 3
 * No se acerca a lo que REALMENTE#  busco.
 * Cuando llegue a esa meta,#  tú estarás para presenciarlo.
 * ¡Un espectáculo nunca antes#  visto por el mundo!
-* Así que... Cuando nos volvamos#  a encontrar en esa mugrosa#  habitación...
+* Así que... cuando nos volvamos#  a encontrar en esa mugrosa#  habitación...
 * Vas a ayudarme con lo que#  quiero.
 * Te guste o no, yo decido tu#  destino ahora.
 * ¡Jaja! ¡Si tan solo pudiera#  ver tu reacción ante todo#  esto!
@@ -25276,8 +25276,8 @@ Check 3
 * Tal vez en algún punto todo#  culmine.
 * Finalmente me llevarás a lo#  que necesito.
 * Hasta entonces, reiniciaré.
-* Restearé y restearé y #  restearé y restearé y #  restearé y restearé y
-* ¿Por qué siempre terminó#  aquí?
+* Resetearé y resetearé y#  resetearé y resetearé y #  resetearé y resetearé y
+* ¿Por qué siempre termino#  aquí?
 * Siempre que haces ciertas#  decisiones, es el techo.
 * Martlet siempre te convence#  para que vayas con ella.
 * ¿Se supone que... debo dejar#  que eso ocurra?
@@ -25290,7 +25290,7 @@ Check 3
 * Como si hubiera una manera#  específica en la que TIENE que#  ocurrir.
 * Si eso es cierto... ¿a qué#  lleva ese destino? ¿a fin#  de cuentas?
 * ...¿Tal vez no eres a quien#  necesito?
-* ¿Tal vez solo eres un escalón#  Un... precursor.
+* ¿Tal vez solo eres un escalón?#  Un... precursor.
 * "Ellos llegan. Se van. Se#  mueren."
 * Es lo que ella siempre dice.
 * Habrá otro.	
@@ -25299,14 +25299,14 @@ Check 3
 * Por ahora, sin embargo,#  tengo que continuar con esto.	
 * Sé lo que es estar al fondo#  y sin esperanzas.	
 * Esto... aunque es increíblemente#  frustrante...	
-* Este acto me ha llevado lo#  más cerca a mi meta hasta#  ahora.	
+* Este acto me ha llevado lo#  más cerca de mi meta hasta#  ahora.	
 * Es la primera vez que siento#  que he hecho verdadero progreso.	
 * Claro, puedo intentar arreglar#  otro puzzle...	
 * Arrastrarte a un camino#  alternativo...	
 * Pero incluso yo no tengo la#  paciencia para eso.	
 * En lo profundo de mi sé que#  mi plan VA a funcionar.	
 * Lo que no sé es si mi plan#  te involucre al final.	
-* ...Vivo, eso es.	
+* ...Vivo, al menos.	
 * Pero he balbuceado demasiado.	
 * Es mi hora de fingir mi#  sonrisa a través de otro#  viaje emocionante.	
 * No lo arruines de nuevo.
@@ -25320,7 +25320,7 @@ Check 3
 * Algo no cuadra aquí.
 * Estamos solos en mi mente#  en este momento.
 * Está claro que estamos solos,#  ¿cierto?
-* Entonces por qué no lo#  entiendo...
+* Entonces por qué sigo#  sintiéndolo...
 * En momentos como este donde#  todo es silencio... ahí es#  cuando lo siento.
 * Solo desde que llegaste ha#  sido de esa forma.
 * Tengo que reiniciar de nuevo.
