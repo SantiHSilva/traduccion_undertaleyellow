@@ -292,7 +292,7 @@ function scr_loadgame() //gml_Script_scr_loadgame
         ds_map_add(migracioncorreos, "Carta de Shufflers", "Shufflers Letter")
         ds_map_add(migracioncorreos, "Carta del Resort", "Resort Letter")
         ds_map_add(migracioncorreos, "Mezclándolo (Ensayo)", "Mixin' It Up! (Essay)")
-        ds_map_add(migracioncorreos, "Carta de Martlet", "Martlet's Lette")
+        ds_map_add(migracioncorreos, "Carta de Martlet", "Martlet's Letter")
         ds_map_add(migracioncorreos, "ASP", "PSA")
         ds_map_add(migracioncorreos, "Puntos Importantes", "Bullet Points")
         ds_map_add(migracioncorreos, "Act. de Starlo", "Starlo Update")
