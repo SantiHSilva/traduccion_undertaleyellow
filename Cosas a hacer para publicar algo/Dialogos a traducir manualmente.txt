@@ -64,7 +64,7 @@ gml_Object_obj_room_controller_dunes_30c_Step_0
 The Lab,\nmost likely
 El Lab,\nlo mas probable
 
-gml_Object_obj_steamworks_13_controller_old_Step_0
+gml_Object_obj_steamworks_13_controller_Step_0
 Definitely\nnot
 Definitivamente\nno
 
