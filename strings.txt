@@ -1865,7 +1865,7 @@ H. Acid
 * (No puedes coser el Parche#  atrás de tu sombrero.)
 * (Pones la pluma en tu#  sombrero.)
 * (Te hace sentir orgulloso.)
-* (En un segundo, amarras el#  Pañuelo Dorado alrededor#  de tu cuello.)
+* (En un segundo, amarras la#  Bufanda Dorada alrededor#  de tu cuello.)
 * (Sientes que ahora puedes#  aguantar lo que sea.)
 * (Cargas tu pistola con#  las piedras.)
 * (Ahora se siente más#  pesada.)
@@ -2006,7 +2006,7 @@ info
 * "Perro de Maíz" - Cura 12 PV#* (Un genuino maiz de perro#  suave, esponjosas orejas.)
 * "Parche" - Armadura DF 0#* (No es fuerte pero siempre#  será la vieja confiable.)
 * "Pluma" - Armadura DF 2#* (Una vieja y olvidada pluma.#* Necesita un buen acicalamiento.)
-* "Pañuelo D." - Armadura DF 12#* (La pieza de tela más#  impresionante jamás vista.)
+* "Bufanda D." - Armadura DF 12#* (La pieza de tela más#  impresionante jamás vista.)
 * (El sombrío recordatorio de#  tu misión. La justicia#  es necesaria.)
 * (Te hace invulnerable#  por unos pocos golpes.)
 * "Balas de goma" - Arma AT 0#* (Pequeñas, seguras, no-tóxicas#  balas de goma.)
@@ -2019,7 +2019,7 @@ info
 * "Paleta Caliente" - Cura 14 PV#* (Chocolate caliente, enfriado y#  luego recalentado.)
 * "Paleta Tibia" - Cura 8 PV#* (Chocolate caliente enfriado#  hasta estar tibio.)
 * "Paleta Congelada" - Cura 12 PV#* (Chocolate calentado, enfriado#  y luego congelado.)
-* "Café Dor." - (Reduce el peso#  de tu alma, da un aumento#  de velocidad por 3 turnos.)
+* "Café D." - (Reduce el peso#  de tu alma, da un aumento#  de velocidad por 3 turnos.)
 * (Mitad bebida deliciosa,#  mitad metal de#  transición.)
 * (Solo huele como café, creo...)
 * "Cactus D." - (Cura 15 PV#  por 3 turnos. El primer#  bocado quita 5 PV.)
@@ -2067,7 +2067,7 @@ info
 * (Una pequeña chaqueta#  que protege al portador#  de los peligros del mundo.)
 * "Gafas Protecc." - Armad. DF 9#* (Esencial para todo#  empleado de Steamworks.)
 * "Parche Delta" - Armad. DF 10#* (La insignia oficial del#  reino de los Monstruos.)
-* "Pañ. Plateado" - Armad. DF 6#* (Un pañuelo brillante#  tejido con cariño y amor.)
+* "Buf. Plateado" - Armad. DF 6#* (Una bufanda brillante#  tejido con cariño y amor.)
 * (Cura 2 PV tras cada#  turno.)
 * (Un Café Honeydew que#  alguna vez estuvo#  caliente.)
 * (Se ha enfriado mucho.)
@@ -2089,7 +2089,7 @@ info
 * "Clavos" - Arma AT 10#* (Pequeñas piezas de#  acero puntiagudo.)
 * (Pueden ser muy efectivos#  disparados a gran velocidad.)
 * "Petalos de Amis." - Arma AT 11#* (Una muestra del lazo#  entre tú y tu mejor amigo.)
-* "Pañ. Dorado" - Armad. DF 25#* (Emite un violento#  brillo dorado.)
+* "Bufanda D." - Armad. DF 25#* (Emite un violento#  brillo dorado.)
 * "Funda Eleg." - Armad. DF 8#* (Una funda de cuero, perfecta#  para duelos al mediodía.)
 * (Un compuesto muy peligroso.#  Manejar con cuidado.)
 * (Un collar roto pero#  brillante.)
@@ -5783,7 +5783,7 @@ new_current_hp
 scr_generate_battle_trihecta_separated
 scr_recreate_heart_battle_menu_text_trihecta_separated
 * Te ríes de Tri.
-* Te echas a reír a carcajadas por su caída.
+* Te echas a reír a carcajadas por#  su caída.
 scr_dialogue_battle_action_selected_action_1_tri
 scr_start_enemy_attacking_macro
 * Intentas escalar a Tri,#  pero te empujan.
@@ -9762,7 +9762,7 @@ Después de que me vaya... busca al#  siguiente humano que caiga aquí.
           Necesitarás a...
            ...Demonios.
  Busca a otro Monstruo Jefe en el#    Subsuelo. Cualquier otro...#            por favor.
-Nuestra pequeña niña... Kanako.#necesita vivir una vida feliz, sin#  verse afectada por mis esfuerzos.
+Nuestra pequeña niña... Kanako.#Necesita vivir una vida feliz, sin#  verse afectada por mis esfuerzos.
       Ese es mi último deseo.
 ¿CÓMO?
 overlay_alpha_default
@@ -12594,8 +12594,8 @@ depth_start
 Castillo
 Cuarto
 * Para llegar a Nuevo Hogar,#  querrás tomar el elevador a#  mi izquierda.
-* No a la izquierda de mi, a la#  izquierda como en la dirección. Tú lo entiendes.
-* Ahem...
+* No a la izquierda de mi, a la#  izquierda como en la dirección.#  Tú lo entiendes.
+* Ajem...
 * Por supuesto, con el NÚCLEO en#  mantenimiento, es la única#  forma de llegar a la ciudad.
 * Se espera un tráfico intenso.
 * Déjeme comprobar si#  tenemos alguno disponible...
@@ -15364,8 +15364,8 @@ sequence_layer_goosic
 * Vale, él... él nunca#  dijo eso. Yo dije eso.#  Justo ahora.
 * (Está lleno de un#  vacío épico.)
 * (Abres el misterioso cofre#  mientras una melodía épica#  crece lentamente en tu cabeza.)
-* (¡Has encontrado#  un Pañuelo Dorado!)
-* (¡Obtuviste el#  Pañuelo Dorado!)
+* (¡Has encontrado#  una Bufanda Dorada!)
+* (¡Obtuviste la#  Bufanda Dorada!)
 * En serio lo logramos...
 * Espero que este elevador#  funcione.
 elevator_sound
@@ -16390,7 +16390,7 @@ Caí en un charco
 * Dirigirse al oeste#  podría ser lo#  mejor.
 * Huh. Rima accidental.
 * Bien.
-* No te pelearé si#  quieres subir al ferry-bot#  de nuevo pero...
+* No discutiré si quieres#  quieres subir al ferry-bot#  de nuevo pero...
 * ...no puedo decir#  que lo disfruté.
 * Ya sabes... a centímetros#  de quemarte viva#  en un jugo luminoso.
 * Aunque Axis es un#  problema...
@@ -17183,7 +17183,7 @@ part_system_position
 * Parece que cada vez ocurre más.
 * ¡Jane es mi nombre!
 * Estoy en un caso, ya ves.
-* Hace unos días, un residente#  desaparecióen estos bosques.
+* Hace unos días, un residente#  desapareció en estos bosques.
 * Y tampoco es la primera vez.
 * A lo largo de la historia#  han surgido algunas#  historias extrañas.
 * Puertas que aparecen de#  la nada...
@@ -18134,7 +18134,7 @@ hand_displacement_y
 * Me falta un guante.
 * "Uno esperaría que mi#  derecha se sintiera más cómoda#  que la izquierda, pero..."
 * No lo siento cómoda#  en absoluto.
-* (Hay un solo#guante en#  el suelo.)
+* (Hay un solo guante en el#  suelo.)
 * (Parece como si hubiera#  sido recientemente descartado.)
 * Ojalá mi mano izquierda#  fuera tan cómoda como#  la derecha.
 * Normalmente tengo dos#  guantes para que#  mi calor sea simétrico.
@@ -18916,7 +18916,7 @@ switch_no_crawl
 * Mira es- 
 * Lo siento, no pretendía#  bloquear el camino.
 * Tú... cuídate, supongo.
-* (Yeesh...)
+* (Iish...)
 * No puedo hablar ahora.
 * Yo... tengo que irme.
 y_start
@@ -45186,9 +45186,9 @@ Pera D.
 Perro de Maíz
 Parche
 Pluma
-Pañuelo Dor.
+Bufanda D.
 Piedras
-Balas de Plata
+Balas de Pl.
 Balas de Vid.
 Balas de Goma
 Pastel Espon.
@@ -45221,8 +45221,8 @@ Carne Seca
 Pastel
 Pastel Flor.
 Perrito Cal.
-CrmMnstr
-CrmMnstr+
+Caramelo M.
+Caramelo M.+
 Pudín C-B
 Sopa de Maíz
 Hamb. Feisty
@@ -45232,7 +45232,7 @@ Heb. Acero
 Chaq. Segura
 Gaf. Seguras
 Broche Delta
-Pañ. Plat.
+Buf. Plat.
 Café Tibio
 Fósforos
 Mapa Snow.
@@ -45243,7 +45243,7 @@ Super Balas
 Balas de Pi.
 Clavos
 Bolit. Amis.
-Pañuelo Dor.
+Bufanda D.
 F. Elegante
 Cinta Vídeo
 H. Ácido
@@ -45271,7 +45271,7 @@ H2O
 * F Elegante
 * Gafas
 * DR Broche
-* Pañuelo D.
+* Bufanda D.
 Bolitas Amist.
 P. Amistad
 variablenormal
