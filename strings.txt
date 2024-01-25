@@ -9415,7 +9415,7 @@ ast_shortcut
 * ¡Se busca ayuda para el#  Proyecto: Steam!
 * ¿Eres un monstruo con un#  coeficiente intelectual por#  encima del promedio?
 * Probablemente no. Pero en#  caso de que lo seas,#  ¡NECESITAMOS TU CONOCIMIENTO!
-* El rey ASGORE ha convocado a las#  mentes más grandes para#  desarrollar la sociedad.
+* El rey ASGORE ha convocado a#  las mentes más grandes para#  desarrollar la sociedad.
 * Científicos, ingenieros,#  matemáticos, conserjes, lo#  que sea.
 * Inscríbete en el asentamiento#  del rey y dirígete al sureste.
 * Sabrás que has llegado#  cuando veas un sitio de#  construcción metálico.
@@ -11632,13 +11632,13 @@ Tenía la verdad en#frente mío pero decidí#mirar al otro lado.
 Intenté ver lo#bueno - quería#creer que no#era verdad. 
 Pero tú...
 Cualquier ápice de#"bueno" que tenías#está tres metros#bajo tierra.
-No me importa si tu#motivación era#"noble."
+No me importa si tu#motivación era#"noble".
 No me importa si solo#era tu retorcida idea#de diversión.
 Nada puede justificar#tus pecados.
 Huí... 
 Dos veces pude hacer#algo diferente.#Esforzarme.
 ...Impedir tantas#muertes.
-Pero sabía que esa#probabilidad era#escasa.
+Pero sabía que esa#probabilidad era#ínfima.
 Estoy demasiado#limitada en mi#estado actual.
 Pero ahora...
 Esta es solo mi#responsabilidad.
@@ -15128,10 +15128,10 @@ Quizás sea una buena#idea molestar al próximo#humano.
 Si es que el siguiente es# suficientemente hábil para#hacer lo que Clover no...
 Necesito tiempo#para pensarlo.
 Este no es el final.
-¿  C-Cuántos#más ?
-¿  Cuántos hasta que#estés satisfecho ?
+¿C-Cuántos#más ?
+¿Cuántos hasta que#estés satisfecho ?
 Solo c-cobramos#cinco.
-Tu has cobrado#docenas de#vidas .
+Tú has cobrado#docenas de#vidas .
 No eres justo#. . .
 Lo único que eres#es un maníaco#egoísta.
 Espero que tú
@@ -15148,7 +15148,7 @@ Esto es SIMPLEMENTE#perfecto.
 ¡Apuesto a que el#Castillo está sellado#gracias a tu#imprudencia!
 No... Esto no#funcionará.
 Vas a hacer lo#correcto,#¿entiendes?
-¡Podrás tener una #"¡brillante nueva#habilidad!" pero eso#no cambia nada!
+¡Podrás tener una #"brillante nueva#habilidad" pero eso#no cambia nada!
 ¡Ve al Castillo y#destruye sus paredes!#¡¡Hazlo pedazos!!
 ¡¡¡Haz lo necesario#para conseguirme#mis ALMAs!!!
 Para...
@@ -25538,7 +25538,7 @@ El s-suero,#está...
 ¡¡No puedo#detenerme!!
 ¡¡¡VOY A GANAR#ESTA BATALLA!!!
 ¿¡Por qué se está#desvaneciendo!? 
-¿¡¿¡POR QUE SE ESTÁ#DESVANECIENDO!?!?
+¿¡¿¡POR QUÉ SE ESTÁ#DESVANECIENDO!?!?
 ¡NO QUIERO#MORIR!
 ¡¡¡NECESITO MÁS#TIEMPO!!! 
 N O . . .
