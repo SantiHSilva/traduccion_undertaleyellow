@@ -11018,12 +11018,12 @@ make_colour_rgb
                      Nuevo#  Hogar                     
 * ...El Castillo del Rey#  Asgore.
 * Mira, no he sido 100%#  honesta contigo...
-* Toda mi vida, me han#  enseñado que lo humanos#  son los enemigos.
+* Toda mi vida, me han#  enseñado que los humanos#  son los enemigos.
 * Pero tú... en realidad#  nunca te has presentado#  como tal. 
 * Sin embargo...
 * Durante nuestro viaje,#  percibí un aura tenue,#  y alarmante en ti.
 * Tenía este plan de#  respaldo en caso de que#  empezaras un alboroto..
-* ...pero nunca lo hicite.
+* ...pero nunca lo hiciste.
 syringe_noloop
 * Fiu... es liberador.
 * Siento mucho habértelo#  ocultado. Pero eres#  un buen niño.
@@ -11208,7 +11208,7 @@ heal_amount
 * ¡Ganaste 
  PV!
 * ¿¡Qué estás haciendo!?
-* ¡Sé que ellos empezaron la#  pelea pero no sabemos#  la situación!
+* ¡Sé que ellos empezaron#  la pelea pero no sabemos#  la situación!
 * ¿Qué pasa si fue un#  error en su#  programación?
 * Estos robots están#  anticuados. 
 * No tenemos ningún#  derecho de destruirlos,#  ¿sí?
@@ -13736,7 +13736,7 @@ npc_direction_hold
 * JUSTO ESTOY EN UNA CITA#  CON ESTA PRECIOSURA.
 * RESULTA QUE NO TENÍA#  QUE RECARGAR.
 * SEP, PUEDO FUNCIONAR CON#  NADA MÁS QUE AMOR#  ¿QUIÉN HABRÍA DICHO?
-* IGUAL, PASÉ ALGO DE TIEMPO#  EN MI CASILLERO.
+* IGUAL, PASÉ ALGO DE#  TIEMPO EN MI CASILLERO.
 * ¿POR QUÉ?
 * SIETE MINUTOS EN#  EL PARAÍSO.
 * QUÉ INFORMAL DE MI PARTE.
@@ -13747,7 +13747,7 @@ npc_direction_hold
 * ES MUY DIFERENTE A LAS#  PLANTAS DE AQUÍ.
 * EN PRIMER LUGAR, TIENE#  COLOR.
 * EN SEGUNDO LUGAR, NO#  HUELE A LEJÍA.
-* JUST COMO MI CÓNYUGE.
+* JUSTO COMO MI CÓNYUGE.
 * TARDE O TEMPRANO.
 * SUPONGO QUE TENDREMOS#  QUE ESTABLECER NUESTRA#  NUEVA SOCIEDAD.
 * ESO SERÁ COMPLICADO.
@@ -13759,8 +13759,8 @@ npc_direction_hold
 * ¿NO TENÍAS ASUNTOS#  EN HOTLAND?
 * OH NO.
 * NO TE SEPARASTE,#  ¿O SÍ? 
-* SÉ QUE LOS JÓVENES SE#  PIERDEN EN LOS SUPERMERCADOS#  TODO EL TIEMPO.
-* Y SI PIENSAS AL RESPECTO...
+* SÉ QUE LOS JÓVENES SE#  PIERDEN EN LOS SUPER#  TODO EL TIEMPO.
+* Y SI LO PIENSAS...
 * STEAMWORKS PODRÍA#  SER MÁS GRANDE#  QUE UN SUPERMERCADO.
 * Y SI... ¿Y SI MI#  FUTURO HIJO SE PIERDE#  AQUÍ?
 * ESTO NO ES BUENO. NO#  ES BUENO EN ABSOLUTO.
@@ -14994,8 +14994,8 @@ Futuro
 * Sí lo recuerdas, te di#  algunas ideas antes de#  que te fueras de mi casa.
 * ¡Tengo que decir que#  la idea del concierto en#  particular es tentadora!
 * ...si me armo de valor#  para hacer algo así.
-* ¿Quizá repase mis conocimientos#  de órganos mientras tanto?
-* ¡La práctica hace al maestro!
+* ¿Quizá repase mis#  conocimientos de órganos#  mientras tanto?
+* ¡La práctica hace al#  maestro!
 * No lo había pensado#  hasta ahora pero...
 * Podríamos tener una#  crisis entre manos.
 * La mitad de mi equipaje#  aquí está lleno de maíz.
@@ -24100,7 +24100,7 @@ child_number
 * Bueno, no pude procrastinar#  más.
 * Tuve que... conseguir un#  trabajo. ;v;
 * Me inscribí en la#  Guardia Real.
-* ¡No soy fan del combate, pero#  coon mis nuevas habilidades,#  podría hacer buenos puzzles!
+* No soy fan del combate, ¡pero#  con mis nuevas habilidades#  podría hacer buenos puzzles!
 * Tuve que contarle la buena#  noticia a Chujin, lo hice#  mientras descansábamos.
 * Para mi sorpresa, no estaba#  contento.
 * Dijo que el trabajo#  era peligroso.
