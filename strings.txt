@@ -494,7 +494,7 @@ sworks_flag
 * ¡Bueno, solía tenerlas!
 * ...
 * Yo um...
-* Heh...
+* Jeh...
 * Prometí ayudarte hasta#  llegar al castillo.
 * Así que... lo haré.
 * Tenía que dar a conocer#  mis quejas, ¿sabes?
@@ -9083,7 +9083,7 @@ brokebridge
 * (No tienes ni idea de#  cómo llegó a ser esto.)
 * (Una vagoneta.)
 * (Algunas cajas pesadas#  reposan en la tierra.)	
-* (Parece que llevan#  aquí mucho tiempo.)
+* (Parece que llevan aquí#  mucho tiempo.)
 * (Algunas cajas.)
 * Las Minas del Este.
 * Propiedad de Mining Co.
@@ -9589,7 +9589,7 @@ new_room
 * (Abres el cajón...)
 * (Está vacío.)
 * (Quedas viendo tu reflejo#  en el agua del fregadero...)
-* (Las varias pruebas que has#  aguantado ya se reflejan#  en ti.)
+* (Las varias pruebas que has#  aguantado ya se reflejan en#  ti.)
 * (Un recuerdo de tus#  obligaciones en casa.)
 * (Una parte de ti se pregunta#  cómo estarán todos, pero la#  otra parte pasó página.)
 * (Un viejo horno de gas, es#  mejor dejarlo apagado.)
@@ -9597,7 +9597,7 @@ new_room
 flashback_effect
 layer_enable_fx
 * (La cama está ordenadamente#  hecha.)
-* (Parece que no es usada#  hace tiempo.)
+* (Parece que no es usada hace#  tiempo.)
 * (Nada más que viejos#  bolígrafos y lápices.)
 * (Investigas los cajones...)
 * (Solo algunas chucherías de#  varias formas y tamaños.)
@@ -9609,7 +9609,7 @@ layer_enable_fx
 * (Sus ojos sin alma se quedan#  viéndote.)
 * (Una caja llena de telarañas#  llenas de borradores.)
 * (Una repisa llena de cintas#  de video.)	
-* (Una etiqueta al frente dice:#  "Legado."
+* (Una etiqueta al frente dice:#  "Legado".)
 * (Un prototipo de una cara#  familiar yace en la repisa.)
 * (En la repisa hay varios libros,#  eso, e ilustraciones de#  cienca...)	
 * (...Más que nada acerca de#  ALMAs humanas y de monstruos.)
@@ -9708,7 +9708,7 @@ static_flicker
     No tengo idea de quién verá#    esto, pero lo veo mejor para#    documentar mi trabajo.
        Eso es todo por ahora.#            Me despido.
          Al habla Chujin...
-      Hoy viajé a Snowdin con#    mi hija por negocio ocasional.
+      Hoy viajé a Snowdin con mi#    hija por un negocio ocasional.
   Mientras estaba ocupado, Kanako#   fue a jugar con un residente.
       Ahí es cuando ocurrió...
   Unos cuantos ciudadanos corrieron#   hacia mi diciendo que un humano#     había entrado en el área.
@@ -10866,10 +10866,10 @@ text_x_final
 text_y_final
 * ¡Hum-dee-dum!
 * ¡¡Un par de días más de fregado#  y esta pulgada del puente#  estará impecable!!
-* Sin ofender, pero te ves como#  si pudieras estar un poco#   más limpio!
-* ¡Caray! Ni no estuviera#  trabajando, ¡Te#  ayudaría!
+* ¡Sin ofender, pero te ves como#  si pudieras estar un poco#  más limpio!
+* ¡Caray! Si no estuviera#  trabajando, ¡te ayudaría!
 * ¿Qué hago? ¿Qué hago?
-* Quizás... ¡Deambular por el#  complejo del generador!
+* Quizás... ¡deambular por el#  complejo del generador!
 * ¡¡¡Puedes lanzarte dentro de#  una de las lavadoras!!!
 * (Nota: No deberías lanzarte#  dentro de una de las#  lavadoras.)
 * ¿¿¿Quieres un trago de#  mi agua de trapeador???
@@ -10967,8 +10967,8 @@ Continuar
 * ¡Todos vamos a emigrar a un#  entorno más cálido!
 * ¡Un lugar donde podamos#  plantar raíces de verdad!
 * Antes de que nos dejes,#  ¡deberías intentar#  abrazar a alguien!
-* ¡Nunca se sabe lo#  eficaz que puede ser!
-* Llamalo "¡Desafio de#  Sweet Corn!"
+* ¡Nunca se sabe lo eficaz#  que puede ser!
+* Llámalo "¡Desafio de Sweet#  Corn!"
 * ¡Qué frío! ¡Qué frío!
 vspeed_max
 hand_left_displacement_y
@@ -11836,22 +11836,22 @@ screen_parts
 part_height
 draw_surface_part_ext
 * Tengo que volver.
-* Quiero volver a las#  Ruinas.
+* Quiero volver a las Ruinas.
 * ¡El vertedero fue un fracaso#  total!
 * ¡No hay anime en ABSOLUTO!
 * Como ocho montones idénticos#  de basura. ¡Apestaba!
 * En las Ruinas, podía#  potenciarme libremente.
-* A nadie le importó que#  gritara por esos#  pasillos morados.
+* A nadie le importaba que#  gritara por esos pasillos#  morados.
 * Aquí fuera, están todos#  esos monstruos esperando#  para JUZGARME.
 * Por favor.
-* No estoy "perturbando la paz",#  me estoy convirtiendo#  en dios.
+* No estoy "perturbando la paz",#  me estoy convirtiendo en#  dios.
 * Perdón por la actitud.
 * El rasgo principal de mi#  actual nivel de poder#  es "enojarse fácilmente".
 * Fuera de mi control.
-* Apuesto a que un poco de#  anime me ayudaría a#  relajarme.
-* Hay un programa que deberías ver.
-* Tiene más de 1.000 episodios,#  pero seguro que podrás#  verlo en pocas semanas.
-* Házmelo saber y ¡empezaremos#  la maratón!
+* Apuesto a que un poco de#  anime me ayudaría a relajarme.
+* Hay un programa que deberías#  ver.
+* Tiene más de 1.000 episodios,#  pero seguro que podrás verlo#  en pocas semanas.
+* ¡Házmelo saber y empezaremos#  la maratón!
 * Podemos hablar más tarde.
 * Ahora mismo, tengo que#  averiguar dónde empezar#  mi próximo arco.
 image_speed_base
@@ -11969,20 +11969,20 @@ gml_Script_bomb_collision_check_gml_Object_obj_battle_enemy_attack_axis_bomb_gen
 * ¡Los ojos comunes no notarían#  el cambio, pero los míos son#  diferentes!
 * Para empezar, ¡no puedo#  parpadear!
 * Creo que he fijado una#  meta para mi viaje.
-* ¡Deseo convertirme en#  el modisto del Rey!
+* ¡Deseo convertirme en el#  modista del Rey!
 * Sí, ¡has oído bien!
-* Su mirada, toda su presencia,#  ¡es nada menos que#  icónica!
+* Su mirada, toda su presencia,#  ¡es nada menos que icónica!
 * Oh, las capas que podría#  hacer...
-* ¡Ya es un diez sobre diez,#  pero podemos aspirar#  al once, cariño!
-* Este complejo me parece#  tan acogedor, ¿no#  te parece?
+* ¡Ya es un diez sobre diez, pero#  podemos aspirar al once,#  cariño!
+* Este complejo me parece tan#  acogedor, ¿no concuerdas?
 * ¿Uniendo la estética de la#  madera con los osos y la miel?
 * ¡Espléndido!
 * Todo el lugar dice: "Te#  queremos y nunca te#  maltrataríamos".
-* Una auténtica victoria#  sobre los prejuicios#  de los osos.
+* Una auténtica victoria sobre#  los prejuicios de los osos.
 * ¡Ah, sí! Mi caracter.
 * ¿Qué puedo decir?
 * No soy fan del azul bebé.
-* ¡Qué se mueran ahí fuera!
+* ¡Que se mueran ahí fuera!
 * En sentido figurado.
 audio_noloop
 twinkle
@@ -12101,7 +12101,7 @@ id_feather_explosion
 * ¿Tienes tanta hambre?
 * Um, está bien.    
 * Supongo que no lo#  extrañará... ¿cierto?
-* (¡Obtuviste un poco de#  sopa de maíz!)
+* (¡Obtuviste un poco de sopa#  de maíz!)
 * (Nada dentro del#  refrigerador parece ser#  útil.)
 dir_mult
 spawn_dir
@@ -12675,7 +12675,7 @@ actor_axis
 * Seguiste adelante.#  Seguiste destruyendo#  vidas.	
 * Esto no es defensa#  propia como una#  vez supuse.	
 * Tienes una misión.	
-* Este retorcido sentido#  de la justicia... No#  los traerá de vuelta.	
+* Este retorcido sentido#  de la justicia... no#  los traerá de vuelta.	
 * Tengo dudas respecto#  los asuntos del Rey#  al igual que tú.	
 * Pero no tienes el#  contexto de esas#  acciones.	
 * Lo sé... Quieres creer#  lo mejor de los demás.	
@@ -12684,7 +12684,7 @@ actor_axis
 * Tienes suerte de que#  te encontrara. ¡Así que,#  por favor, escucha!
 * Me he pasado la vida#  en el escepticismo.
 * Anhelando la paz final#  entre nuestras razas.
-* Si puedes creerlo,#  veo piedad en ti. 
+* Si puedes creerlo, veo#  piedad en ti. 
 * De algún modo, todavía#  tengo esperanza de que#  puedas darle la vuelta.
 * No puedo detenerte yo#  sola, ya lo intenté...
 * Así que por favor...#  detén esto. Nosotros los#  monstruos no merecemos      
@@ -12815,17 +12815,17 @@ alphys
 first
 http://localhost:5100
 * (No molestemos a la#  gente del pueblo con#  nuestros problemas.)
-* ¿Está pasando algo en#  la vieja residencia#  Ketsukane?
+* ¿Está pasando algo en la#  vieja residencia Ketsukane?
 * He notado una inusual#  cantidad de monstruos#  yendo a visitarla.
-* Supongo que nunca es mal#  momento para rendir#  homenaje al fallecido. 	
-* Mentes brillantes las de#  los Ketsukane.
-* ¿Haz visto nuestro#  pequeño árbol al#  sur de aquí?
-* Bueno, quizás ya no#  debería llamarlo "pequeño".
-* Su ritmo de#  crecimiento ha sido#  sin precedentes.
+* Supongo que nunca es mal#  momento para rendir homenaje#  al fallecido. 	
+* Mentes brillantes las de los#  Ketsukane.
+* ¿Haz visto nuestro pequeño#  árbol al sur de aquí?
+* Bueno, quizás ya no debería#  llamarlo "pequeño".
+* Su ritmo de crecimiento ha# sido  sin precedentes.
 * Mis recientes métodos#  botánicos parecen funcionar#  mejor de lo esperado.
-* El Prado volverá en#  los próximos años. Lo#  creo fervientemente.
-* La paciencia es una#  virtud.
-* Cosecharás lo que#  siembras, pero puede#  llevar tiempo.
+* El Prado volverá en los#  próximos años. Lo creo#  fervientemente.
+* La paciencia es una virtud.
+* Cosecharás lo que siembras,# pero puede llevar tiempo.
 * Recuerda eso.
 * ¡Bien hecho, Clover!#  ¡Eso debería derretir#  la cerradura!
 * ¡Asegúrate de ser#  muy cuidadoso al#  usarlo!
@@ -12864,16 +12864,16 @@ hit_noloop
 gml_Script_state_switch_gml_Object_obj_battle_enemy_attack_mecha_frog_hand_Step_0
 destroy_noloop
 * Básicamente ayudé a Dalv a#  mudarse yo solo.
-* En cuanto se abrió la salida#  a Snowdin, los demás#  salieron corriendo.
+* En cuanto se abrió la salida#  a Snowdin, los demás salieron#  corriendo.
 * Pero yo no. No.
 * Soy así de leal.
 * No quiero bajar el ánimo,#  pero...
 * ¿La casa de la playa que#  estaba mirando?
 * Solo el pago inicial son como#  100 de los grandes.
 * No cien de ORO, cien GRANDES.
-* Pero sí, no, estoy#  tranquilo al respecto.
+* Pero sí, no, estoy tranquilo#  al respecto.
 * Todo el mundo sabe que la#  burbuja inmobiliaria va a#  estallar.
-* Tan pronto como eso ocurra,#  ¡Será mi momento!
+* Tan pronto como eso ocurra,#  ¡será mi momento!
 * Me dedico a la economía, por#  si te lo estabas preguntando.
 * Ha estado golpeando el#  mercado DURO últimamente.
 * Tengo la cartera más enferma#  de lo que te creerías.
@@ -13512,7 +13512,7 @@ npc_action_sprite
 * ¿O era "Que se haga#  justicia"?
 * También podría haber sido#  "Aquí viene el#  martillo".
 * ¿Qué puedo decir? ¡Nunca#  pude decidirme por mi#  eslogan!
-* ¡Ten cuidado ahí fuera,#  niño!
+* ¡Ten cuidado ahí fuera, niño!
 * ¿Qué hace aquí un joven#  como tú?
 * Seguramente no fue para#  conocer al viejo Gerson,#  ¿verdad?
 * ¿Quieres oír una de mis#  famosas historias?
@@ -13545,12 +13545,12 @@ darken_current
 * El Subsuelo está lleno#  de belleza.
 * Amigos... Familias...
 * Esperanzas... Sueños...
-* O al menos... lo era.
+* O al menos... lo#  estaba.
 * Aunque batallaron#  con valentía...
-* Nadie pudo detenerte,#  ¿me equivoco?
+* nadie pudo detenerte,#  ¿me equivoco?
 * Estaba esperando que#  este día no llegara.
 * La represalia era#  inevitable pero...
-* Pensaba que podíamos#  manejarlo como siempre#  lo hemos hecho.
+* pensaba que podíamos#  manejarlo como siempre#  lo hemos hecho.
 * Mis queridos amigos...
 * Sé por qué estás aquí#  pero... me temo que#  es demasiado tarde.
 * Tu objetivo está#  fuera de alcance.
@@ -13561,9 +13561,9 @@ darken_current
 * Muchos más, de ambas#  especies, morirán#  debido a este día.
 * Tal es el camino que#  elegiste.
 * Incluso si hubieras#  elegido algo diferente...
-* La desafortunada verdad#  del asunto es que...
-* Tu destino fue sellado#  en el momento que#  entraste a mi reino.
-* Vamos a reconstruir.
+* la desafortunada verdad#  del asunto es que...
+* tu destino fue sellado#  en el momento que#  entraste a mi reino.
+* Reconstruiremos.
 * Y con la ayuda de tu#  ALMA, seremos libres.
 * Adiós.
 charge_percentage
@@ -13606,7 +13606,7 @@ fly_time
 * Supongo que es la hora.
 * Solo sígueme.
 * (Un cajón lleno de cintas#  de video.)
-* (Uno tiene una etiqueta#  que dice: "Películas para#  ver en casa.")
+* (Uno tiene una etiqueta#  que dice: "Películas para#  ver en casa".)
 * A pesar de que#  seguramente son#  adorables...
 * No tenemos tiempo para#  verlas.
 * Tenemos que seguir#  buscando lo que sea#  que asustó a Ed y Star.
@@ -13668,7 +13668,7 @@ xspd
 bounce_percent
 rot_dir
 * Chujin Ketsukane 
-* El mejor de todos.
+* El mejor de los nuestros.
 * (Notas una ligera hendidura#  en la tierra detrás de la#  lápida.)
 * (¿Inspeccionar más?)
 * (Excavas la tierra con tus#  manos hasta que tocas algo#  sólido.)
@@ -13751,7 +13751,7 @@ npc_direction_hold
 * TARDE O TEMPRANO.
 * SUPONGO QUE TENDREMOS#  QUE ESTABLECER NUESTRA#  NUEVA SOCIEDAD.
 * ESO SERÁ COMPLICADO.
-* EL SR. PANTALLA QUIERE#  ESTA COSA DEL "GOBIERNO#  TIRÁNICO.
+* EL SR. PANTALLA QUIERE#  ESTA COSA DEL "GOBIERNO#  TIRÁNICO".
 * INTENTÉ CONSIDERARLO.#  YA SABES, VER LOS PROS#  Y CONTRAS.
 * PERO TRISTEMENTE, NO#  VEO A LOS OTROS BOTS#  DE ACUERDO. 
 * ODIO APLASTAR LOS#  SUEÑOS DEL SR. PANTALLA,#  PERO ES LO QUE HAY.
@@ -13772,8 +13772,8 @@ npc_direction_hold
 * LE INSTALARÉ UN#  RASTREADOR A MI HIJO.
 * SOY UN GENIO.
 * ACABO DE RESOLVER#  90% DE LOS PROBLEMAS#  PARENTALES.
-* ESO ES TODO EL# "PONERSE AL TANTO"#  QUE TENÍA PLANEADO.
-* ESPERO QUE TU VIDA#  SEA TAN GENIAL#  COMO LA MÍA.
+* ESO ES TODO EL# "PONERTE AL TANTO"#  QUE TENÍA PLANEADO.
+* ESPERO QUE TU VIDA#  SEA TAN GENIAL COMO#  LA MÍA.
 * ADIÓS, HUMANO.
 spwn_properties
 random_offset
@@ -13862,15 +13862,15 @@ NOTA: ESO FUE#UNA#BROMA.
 path_speed_default
 * Oye, ¿adónde vas, amigo?
 * ¿Hay espacio para uno más?
-* ¡Te estoy bromenado!#  Ja...
+* ¡Estoy bromenado! Ja...
 * Solo que... sería GENIAL que#  yo pudiera...
-* Entrar en tu grupo...#  o algo así.
+* entrar en tu grupo... o algo#  así.
 * Pero sé que estás ocupado#  - ¡yo también!
-* Las cosas se acumulan,# ¿verdad? la vida...
+* Las cosas se acumulan, ¿verdad?# La vida...
 * Obviamente,
-* Tu "estoy ocupado" trata de#  aventuras y descubrir#  maravillosos tesoros.
-* Mi "estoy ocupado" es mas de no#  olvidarme de pagar la#  pensión alimenticia.
-* Pero nada, está todo bien,#  todo bien...
+* tu "estoy ocupado" trata de#  aventuras y descubrir#  maravillosos tesoros.
+* Mi "estoy ocupado" es mas de no#  olvidarme de pagar la pensión#  alimenticia.
+* Pero nada, está todo bien, todo#  todo bien...
 * ¡No necesitas quedarte aquí#  preocupándote por mi!
 * Puedes hablar de toda tu gran#  aventura más tarde.
 * ¿Quizás podrías escribir un#  libro sobre eso? Y podría#  ser tu... ¿editor?
@@ -14048,20 +14048,20 @@ VVVamos#;-:_#A limmpiar
 ¡Li-li-limpiando!#¡¡¡Suciedad#eliminando!!!
 ¿Quieres un trago#de mi Agua de#Trapeador?#¡¡ReCIén HeCha!!
 * ¡Oh, no te había visto!
-* Estoy mirando este#  estanque para mi#  próximo estudio de paisaje.
-* Me recuerda a nosotros.#  Individuos,#  quiero decir.
-* La mayor parte es hermosa.#  Perfección a simple#  vista.
-* Pero entonces miras más de#  cerca y ves un#  agujero que te atraviesa.
+* Estoy mirando este estanque#  para mi próximo estudio#  de paisaje.
+* Me recuerda a nosotros.#  Individuos, quiero decir.
+* La mayor parte es hermosa.#  Perfección a simple vista.
+* Pero entonces miras más de#  cerca y ves un agujero que#  te atraviesa.
 * Rasgado, invasivo...#  desfigurando y debilitando lo#  que es una obra maestra.
 * Claro, podrías rellenarlo,#  pero solo sería una corrección#  falsa del conjunto.
 * Puede parecer más fuerte que#  antes, pero la herida#  siempre estará presente.
-* Por otra parte, tal vez es#  solo un estanque con#  un agujero en él.
+* Por otra parte, tal vez es#  solo un estanque con un#  agujero en él.
 * Pensé que empezar poco a#  poco sería lo mejor después#  de dejar las Ruinas.
-* Es un poco abrumador#  pensar en todo el arte#  que puedo hacer ahora.
-* Dibujando en incrementos#  para mantener la#  cordura, ¡eh!
+* Es un poco abrumador pensar#  en todo el arte que puedo#  hacer ahora.
+* Dibujando en incrementos#  para mantener la cordura,#  ¡eh!
 * Cuando me apetezca#  diversificarme, quizá#  pruebe a esculpir en hielo.
-* Aunque sin duda#  necesitaría un profesor.
-* Hay un monstruo que#  domina la magia del#  hielo.
+* Aunque sin duda necesitaría#  un profesor.
+* Hay un monstruo que domina#  la magia del hielo.
 * Vagan por las elevaciones#  más altas al sur de aquí,#  lo último que oí.
 * Probablemente esté muy ocupado#  para proyectos artísticos#  tontos, por desgracia.
 * ¡Lo siento, pero tengo#  trabajo que hacer!
@@ -14377,9 +14377,9 @@ new_sprite
 * "los bots no tienen permitido#  insultar. es indecente#  y de mala educación."
 * lamentablemente, estoy#  condenado a este ambiente#  para toda la familia.
 * "los bots no tienen#  permitido comprometerse#  en relaciones románticas."
-* llevaría al riego de#  sobrepasar el sistema de#  supresión de consciencia.
+* llevaría al riesgo de#  sobrepasar el sistema de#  supresión de consciencia.
 * ¿...qué significa una#  "relación romántica"?
-* ¿por qué no podemos#  interactuar con botes amistosos#  del imperio romano?  
+* ¿por qué no podemos#  interactuar con bots amistosos#  del imperio romano?  
 * solo memoricé tres datos#  de bots.
 * todo lo que diga ahora sería#  solo ficción de bot.
 old_spawner
@@ -14521,12 +14521,12 @@ image_speed_counter
 * ¡Muy buenas! ¡Espero que estés#  teniendo un día glorioso!
 * Te daría una flor pero hay#  bajo suministro de ellas#  ahora mismo.
 * ¡Espero que una sonrisa#  amistosa sea suficiente!
-* Honestamente, las Dunas no#  son el mejor lugar par mis#  hermanas y yo.
+* Honestamente, las Dunas no#  son el mejor lugar para mis#  hermanas y yo.
 * Pero siento una obligación de#  estar aquí. Ya sabes, ayudar a#  que crezca el ecosistema.
-* ¡Algún día, regresaremos#  este lugar a su antigua#  gloria! ¡Sí!
+* ¡Algún día, regresaremos este#  lugar a su antigua gloria!# ¡Sí!
 * He escuchado rumores de un#  invernadero abandonado LLENO#  de flores.
 * ¡No sé cómo o por qué tal#  cosa existiría pero realmente#  quiero verlo!
-* ¡Recuerda darle a las flores#  gran cantidad de amor#  y atención!
+* ¡Recuerda darle a las flores#  gran cantidad de amor y#  atención!
 * ¡Están vivas y pueden#  enseñarte muchas cosas!
 sh_uvs
 pixelate_surf
@@ -14989,9 +14989,9 @@ Futuro
 * Seguro que se le pasará.
 * De vez en cuando#  se le va la cabeza.
 * Estamos trabajando en#  ello...
-* Bueno, aún no he#  hecho un plan concreto.
-* Hacer las cosas#  paso a paso.
-* Sí lo recuerdas, te di#  algunas ideas antes de#  que te fueras de mi casa.
+* Bueno, aún no he hecho#  un plan concreto.
+* Hacer las cosas paso#  a paso.
+* Si lo recuerdas, te di#  algunas ideas antes de#  que te fueras de mi casa.
 * ¡Tengo que decir que#  la idea del concierto en#  particular es tentadora!
 * ...si me armo de valor#  para hacer algo así.
 * ¿Quizá repase mis#  conocimientos de órganos#  mientras tanto?
@@ -14999,16 +14999,16 @@ Futuro
 * No lo había pensado#  hasta ahora pero...
 * Podríamos tener una#  crisis entre manos.
 * La mitad de mi equipaje#  aquí está lleno de maíz.
-* Suficiente para una#  semana como mucho, pero#  ¿después qué?
+* Suficiente para una#  semana como mucho, pero,#  ¿después qué?
 * Supongo que podría#  volver a mi campo...
-* Pero aún así, eso solo#  me llevará hasta#  cierto punto.
+* Pero aún así, eso solo#  me llevará hasta cierto#  punto.
 * ¡No quiero lidiar#  con la adicción al maíz!
 * Le daré vueltas a esto#  durante algún tiempo.
 * No te preocupes por mí.
 * Así que, ¿has estado#  viajando por el#  Subsuelo?
 * ¡Tu valentía es#  inspiradora!
 * Las Ruinas fueron solo#  el comienzo de tus#  obstáculos, estoy seguro.
-* Yo... me arrepiento de#  causarte problemas. Mucho.
+* Yo... me arrepiento de#  causarte problemas.#  Mucho.
 * Pero, con la mentalidad#  del vaso medio lleno...
 * Luchar antes con un rival#  de bajo nivel era un#  buen entrenamiento, ¿no?
 * Hay algunos monstruos#  bastante aterradores por#  ahí.
@@ -15018,7 +15018,7 @@ Futuro
 * Nos conocimos hace solo#  unas horas, pero por#  alguna razón...
 * Siento como si te#  conociera desde hace#  años.
 * El tiempo es realmente#  el puzzle que nunca#  resolveremos.
-* Bueno, será mejor#  que vuelva.
+* Bueno, será mejor que#  vuelva al trabajo.
 * ¡Te deseo toda la suerte#  del mundo, Clover!
 * ¡Haz por los demás#  lo que hiciste por mí!
 Nerosensei
@@ -15480,7 +15480,7 @@ organic_spawn_chance_current
 cell
 * Vaya, mira eso...	
 * ¡Casi puedo ver el#  Castillo del Rey#  desde aquí!
-* Heh, ASGORE...
+* Jeh, ASGORE...
 * Los monstruos le#  dedican elogios, pero#  son exagerados.
 * Mira, él es lo que#  llaman un#  "Monstruo Jefe".
                                ##  "Monstruo Jefe" 
@@ -15748,18 +15748,18 @@ Page:
  Debí haber disparado las variables,# todo lo que quería era aprensión.
    El humano que casi lastima a mi#   hija, le dije a Axis que lo#   localizara.
  Sé que debí haberme quedado para# consolar a Kanako y atender al# residente que fue herido pero...
-   ...Tenía una herramienta que#   podía detener al humano,#   asi que la probé.
+   ...Tenía una herramienta que#   podía detener al humano, asi#   que la probé.
     ...En un instante, Axis me#    abandonó. Se fue a Waterfall.
   En el momento que le localicé...#  era demasiado tarde.
    Nunca olvidaré la escena que#   yacía frente a mí.
   Parte de mí quería dejarlo todo#  en ese instante pero...
-    ...este es el resultado,#    ¿no es así?
+    ...este resultado es el#    merecido, ¿no?
   Axis de pronto contuvo al sujeto#  y... ocultó la evidencia.
 Seguro que hubo algún daño de#propiedad pero estoy seguro que#no vendrán a por mí... Eso espero.
   En cualquier caso... ahora tengo#  un ALMA humana en mi posesión.
- No sé exactamente que es lo que# debería hacer pero el poder# que reside en ella es...
+ No sé exactamente que es lo que# debería hacer pero el poder que# reside en ella es...
    Bueno, digamos que no voy a#   donárselo a Asgore como el#   resto. No aún.
-  Respecto a Axis, sus acciones#  hoy fueron excesivas, pero#  el potencial es asombroso.
+  Respecto a Axis, sus acciones#  hoy fueron excesivas, pero el#  potencial es asombroso.
   Con más trabajo, Axis podría ser#  el futuro, estoy seguro de eso.
      Como sea, necesito dormir.
    Pero algo me dice que eso va a#   ser difícil por un largo tiempo.
@@ -16004,9 +16004,9 @@ PRUEBA DEL CONTROL
 , LB
 * Leí algo en un libro una vez.
 * Decia, "Si la vida viene muy#  deprisa, pulsa X y tómatelo#  con calma."
-* Signifique lo que#  signifique.
-* Sabes, leí algo más#  en ese mismo libro.
-* Decía, "¡Come para#  mantenerte fuerte y sano!"
+* Signifique lo que signifique.
+* Sabes, leí algo más en ese#  mismo libro.
+* Decía, "¡Come para mantenerte#  fuerte y sano!"
 * Eso es obvio.
 * ¿Quieres saber otro fragmento#  de ese libro?
 * Decia, "Por favor para de#  hablarme, agote las citas#  de mi libro."
@@ -17332,7 +17332,7 @@ new_petal
 * ¿Esto es por mi vaga#  amenaza de antes?
 * ¡Solo estaba bromeando¡#  ¡Ya me conoces!
 * Oh, bueno,#supongo que todavía no.
-* Heh, que problema...
+* Jeh, que problema...
 * Todo lo que necesitas saber#es que tengo en mente#tus mejores intereses.
 * Vas por un camino#peligroso, así que...
 * No olvides de guardar,#  ¿de acuerdo?
@@ -17420,8 +17420,8 @@ draw_triangle
 * O no, porque eso#  suena aburrido.
 * Elijas lo que elijas,#  ¡te apoyo, amigo!
 * (Es una roca grande#  e impresionante.)
-* (Parece estar perfectamente#  bloqueando la entrada#  de la cueva.)
-* (Pasar parece imposible#  por el momento.)
+* (Parece estar perfectamente#  bloqueando la entrada de la#  cueva.)
+* (Pasar parece imposible por#  el momento.)
 * (Una molesta roca#  bloquea la cueva.)
 * (Sientes calor saliendo del#  montón de piedras.)
 geno_snowdin
@@ -17633,7 +17633,7 @@ slurpy_solution
 * (¿Tomar las Balas de#  Hielo?)
 * (¡Obtuviste Balas de#  Hielo!)
 * Decia, "Si la vida te viene#  demasiado deprisa, pulsa 
- y#  tomatelo  con calma."
+ y#  tómatelo con calma."
 kiosk_hsp
 mo_change_depth
 mo_menu_fall
@@ -17917,7 +17917,7 @@ Honeydew Resort Normal
 * Hombre, parece realmente#  agotador.
 * Probablemente pasará#  un tiempo antes de que#  alguien pueda entrar.
 * ...Más que nada porque no#  quiero empezar.
-* Como he dicho, esto#  podría llevar un tiempo.
+* Como he dicho, esto podría#  llevar un tiempo.
 * Solo el viaje para llegar#  hasta aquí requirió toda#  mi energía.
 * Paciencia, amigo.
 * Sabes por qué me dijeron que#  me fuera de vacaciones:
@@ -18246,7 +18246,7 @@ Plata [Ag]
 * El elemento de la decepción.
 clover_fall
 * Extraño.
-* No era un puente#  bonito la última vez#  que miré.
+* No era un puente bonito#  la última vez que miré.
 * ¿Siempre ha sido así?
 * ¿Dónde estoy?
 * Guardias Reales. Pensando#  que son todos especiales.
@@ -18408,13 +18408,13 @@ aviator_xspd
 * ¿No es ella una belleza?#* Los barcos son naves,#  ya sabes.
 * La llamo Ava para#  abreviar. ¿No es lindo?
 * ¿Subir al barco?
-* ESCUCHA! KNOW CONE TIENE UN#  PLAN!
+* ¡ESCUCHA! ¡KNOW CONE TIENE UN#  PLAN!
 * ¡VOY A IR A GRAN MONTAÑA!#  ¡GRANDE GRANDE! 
 * ¡PODER VER HOTLAND DESDE#  MONTAÑA!
 * ¡DISPARAR LEJOS Y NO A#  KNOW CONE!
 * ¡KNOW CONE ORGULLOSO#  DEL PLAN!
 * ¡KNOW CONE PROMESA#  INTELECTUAL!
-* ¡Y CONSIGUE VER#  FUEGO!
+* ¡Y CONSIGUE VER FUEGO!
 * ¡Pinch pinch!
 * ¡Solo bromeo!
 * Me alegra que la Guardia#  Real proteja nuestro hogar.
@@ -18431,26 +18431,26 @@ aviator_xspd
 * ... ngh uh... mmm...
 * ... no no sé donde está el...#  pudín...
 * El pudín... está... zzz
-* E-E, ¡Estoy! Si,#  ¡Estoy despierto! 
+* E-E, ¡Estoy! Si, ¡estoy#  despierto! 
 * ¿Hay clases hoy?
 * ¿Llego tarde? ¿Me las he#  perdido?
 * ¿Qué hora es?
 * Aw, ahora no voy a ser#  capaz de dormir.
 * Estaba teniendo un sueño#  buenísimo sobre pudín de#  clementina.
 * Estaba delicioso y ahora#  no *BOSTEZO* seré...
-* Capaz... de poder... volver#  a... zzz.
+* capaz... de poder... volver#  a... zzz.
 * Estoy tan aliviado ahora.
 * Todo el mundo está a salvo.
 * Amo estar aquí,
-* Hay bastante nieve y es#  segura de andar.
-* Me pregunto si solo los#  niños tienen que lidar#  con esto.
-* Monstruos caminando por#  tu cabeza, digo.
-* ¿Tienes algún buen consejo#  para quitar huellas de#  la piel?
-* ¿Oye, ahora donde te vas?
+* hay bastante nieve y es#  segura para andar.
+* Me pregunto si solo los niños#  tienen que lidiar con esto.
+* Monstruos caminando por tu#  cabeza, digo.
+* ¿Tienes algún buen consejo#  para quitar huellas de la#  piel?
+* Oye, ¿ahora dónde te vas?
 * ¿Un lugar emocionante?
 * ¿Puedo ir?
-* ¡Puedo ayudarte si me#  dejas ir!
-* Puedo ser, um, un-u sombrero!
+* ¡Puedo ayudarte si me dejas#  ir!
+* Puedo ser, um, u-un sombrero!
 * ¡Seré un buen sombrero!#  ¡Mantendré tu cabeza limpia#  y calentita!
 * ¿Quieres un gorro bien#  calentito?
 * ¡Puedo mantener tus orejas#  calentitas!
@@ -18620,7 +18620,7 @@ pl_sprite
 * ¿Nada? 	
 * Valía la pena#  intentarlo.	
 * Que sepas que#  corres un riesgo#  ENORME si no guardas.
-* (Los restos encharcados#  de un viejo cofre.)
+* (Los restos encharcados de un#  de un viejo cofre.)
 * (Ves una pequeña bolsa#  de papel seca guardada#  en el interior.)
 * (¿Te lo llevarás?)
 * (¡Conseguiste un poco de#  frutos secos!)
@@ -18691,7 +18691,7 @@ fadein_time
 * ¡Me identifico más con la#  opción anterior porque no#  puedo deletrear "complicado"!
 * Cuando salgas, saluda a mi#  hermano de mi parte.
 mf_sound
-* (Un hermoso Cactus Dorado#  de aspecto delicioso#  te descubre.)
+* (Un hermoso Cactus Dorado de#  aspecto delicioso te descubre.)
 * (¡Has conseguido#  el Golden Cactus!)
 shifting_tiles
 shifting_bridge
@@ -19038,9 +19038,9 @@ est_timer
 * No puedo seguir#  viviendo en el pasado.
 wall_x
 * ¿Qué hay ahí fuera?#  ¿¿Qué hay ahí fuera??
-* ¡No! Sigue el#  camino. SIGUE#  EL CAMINO.
+* ¡No! Sigue el camino. SIGUE#  EL CAMINO.
 * ¿¿¿QUIÉN MUEVE LOS HILOS,#  EH???
-* UN TESTAMENTO NO ES#  GRATIS. LA PÉRDIDA ES#  SEGURA.
+* UN TESTAMENTO NO ES GRATIS.#  LA PÉRDIDA ES SEGURA.
 * hNNNNNNG.
 clovjump
 * ¡Heyo!
@@ -19149,13 +19149,13 @@ LAS...#C U R V A S
 * OKEI ¡ya basta!
 * Clover, vamos a...#  terminemos con esto.
 can_rumble
-* Este patio infantil#  solía ser divertido.
-* Desde que mi compañero#  de juegos dejó de aparecer,#  se ha vuelto aburrido.
-* Me pregunto adónde habrá#  ido.
+* Este patio infantil solía#  ser divertido.
+* Desde que mi compañero de#  juegos dejó de aparecer, se ha#  vuelto aburrido.
+* Me pregunto adónde habrá ido.
 * Gracias por sentarte conmigo.
 * Espero que seamos amigos.
 * Será mejor que me vaya pronto.
-* Mi papá se estará#  preguntando dónde estoy.
+* Mi papá se estará preguntando#  dónde estoy.
 * (Es un columpio vacío.)
 * (¿Subir?)
 npc_clover
@@ -19318,24 +19318,24 @@ player_npc
 * Lo siento, ¿de qué estábamos#  hablando, cariño?
 * (No molestemos a los#  demás con nuestros#  problemas.)
 * Oye, amigo.
-* Sé que dirás que no,#  pero vendo abrazos gratis.
-* Maldita sea, ya has#  leído mi cartel, ¿no?
+* Sé que dirás que no, pero#  vendo abrazos gratis.
+* Maldita sea, ya has leído#  mi cartel, ¿no?
 * Me odio.
-* No, no te molestes#  en preguntar.
-* Voy a cerrar la tienda,#  ¿vale?
+* No, no te molestes en#  preguntar.
+* Voy a cerrar la tienda, ¿ok?
 * Fue una idea tonta.
-* Incluso si me abrazaras,#  lo cual sería enfermizo,#  probablemente te mataría.
+* Incluso si me abrazaras, lo#  cual sería enfermizo,#  probablemente te mataría.
 * No intencionadamente, por#  supuesto. Eso sería un crimen,#  y odio el crimen.
-* Genial. Podrías ser un criminal#  y ahora definitivamente no#  me abrazarás.
-* Solo vete. Sería mejor#  para ambos.
+* Genial. Podrías ser un criminal#  y ahora definitivamente no me#  abrazarás.
+* Solo vete. Sería mejor para#  ambos.
 * ¿Aún quieres un abrazo?
-* Hermano, tienes que#  aprender cuando dejar ir.
-* Si no me dejas en paz,#  los abrazos ya no son gratis.
+* Hermano, tienes que aprender#  cuándo dejar ir.
+* Si no me dejas en paz, los#  abrazos ya no son gratis.
 * De hecho, son abrazos muy#  caros.
 * ¿Cualquier cantidad de dinero#  que poseas? Son como el triple.
 * Sinceramente, no lo siento.
 * Okei, TODAVÍA quiero un abrazo,#  pero estoy hasta el cuello.
-* Ignora mi existencia,#  por favor.
+* Ignora mi existencia, por favor.
 * Lo siento mucho, pero nos#  hemos quedado sin existencias.
 * Me aseguraré de hornear#  una nueva tanda en#  cuanto pueda.
 * ¡Venta de pasteles!#  ¡Venta de pasteles! 
@@ -24063,55 +24063,55 @@ child_number
 * (Pasas a una página temprana#  y ves una entrada.)
 * Entrada 3.
 * Hasta ahora, vivir sola#  ha sido ABURRIDO.
-* No sé qué hacer con#  mi tiempo la mayor#  parte del tiempo.
+* No sé qué hacer con mi tiempo#  la mayor parte del mismo.
 * Claro, tengo una televisión,#  pero los monstruos no#  producen mucho contenido.
 * Mi mamá dice que "necesito un#  trabajo", pero más importante,#  necesito un pasatiempo.
-* El tipo que construyó mi balcón#  parecía disfrutar lo#  que hacía.
-* Quizá le pida que me#  enseñe a... 
-* No sé, ¿clavar tablones de#  madera en las casas? 
+* El tipo que construyó mi balcón#  parecía disfrutar lo que#  hacía.
+* Quizá le pida que me enseñe#  a... 
+* no sé, ¿clavar tablones de#  madera en las casas? 
 * Sería un comienzo. UvU
-* (Pasas unas cuantas#  páginas.)
+* (Pasas unas cuantas páginas.)
 * Entrada 8.
-* Creo que esto de#  "trastear" es para mí.
-* ¡Sabía que mi B- en#  clase de arte tenía#  un propósito!
-* ¡Y el Sr. Chujin es#  TAN AMABLE!
+* Creo que esto de "reparar"#  es para mí.
+* ¡Sabía que mi B- en clase de#  arte tenía un propósito!
+* ¡Y el Sr. Chujin es TAN#  AMABLE!
 * ¡Alegremente tomó mis alas bajo#  su protección y ahora estoy#  haciendo bloques de madera!
-* Suena aburrido, pero estoy#  trabajando para#  tallar un montón de eso...
-* ...para construir uno de#  esos juegos de#  "torres de madera".
+* Suena aburrido, pero estoy#  trabajando para tallar un#  montón de eso...
+* ...para construir uno de esos#  juegos de "torres de#  madera".
 * ¡Chujin pensó que sería#  un buen proyecto#  para principiantes! ^v^
-* (Pasas unas cuantas#  páginas más.)
+* (Pasas unas cuantas páginas#  más.)
 * Entrada 19.
 * Tuve una conversación con#  el Sr. Chujin anoche.
 * Estamos a punto de empezar#  a hacer inventos, ¡como#  robótica!
-* Resulta que se especializó#  en ingeniería en#  Steamworks.
+* Resulta que se especializó#  en ingeniería en Steamworks.
 * Dijo que no habla mucho de#  su trabajo pasado por aquí.
 * Le gusta mantener las cosas#  informales mientras ayuda a#  los habitantes del pueblo.
-* Entonces le pregunté por#  qué me está ayudando#  como lo hace.
+* Entonces le pregunté por#  qué me está ayudando como#  lo hace.
 * Dijo que tiene una hija#  llamada "Kanako".
 * "El mundo, tal como es, es un#  lugar oscuro", dijo. "Un lugar#  inapropiado para una niña".
 * Cree que pequeños actos de#  amabilidad llevarán a un mundo#  mejor.
 * No solo para él, o para mí,#  sino para Kanako.
-* ¡Así que sí! Se puso un#  poco profundo ahí,#  pero lo entiendo.
+* ¡Así que sí! Se puso un poco#  profundo ahí, pero lo entiendo.
 * Él enseñándome llevaría, en#  teoría, a que yo enseñara#  a alguien más, etcétera.
-* Parece que quiere dejar un#  legado duradero o algo#  así.
-* El tipo tiene grandes#  aspiraciones, eso#  es seguro.
+* Parece que quiere dejar un#  legado duradero o algo así.
+* El tipo tiene grandes#  aspiraciones, eso es seguro.
 * No puedo identificarme. =v=
 * Entrada 27.
 * Bueno, no pude procrastinar#  más.
 * Tuve que... conseguir un#  trabajo. ;v;
-* Me inscribí en la#  Guardia Real.
+* Me inscribí en la Guardia#  Real.
 * No soy fan del combate, ¡pero#  con mis nuevas habilidades#  podría hacer buenos puzzles!
 * Tuve que contarle la buena#  noticia a Chujin, lo hice#  mientras descansábamos.
 * Para mi sorpresa, no estaba#  contento.
-* Dijo que el trabajo#  era peligroso.
-* Que los propios humanos#  son peligrosos.
-* No quiero creer lo que#  me dijo, pero...
+* Dijo que el trabajo era#  peligroso.
+* Que los propios humanos son#  peligrosos.
+* No quiero creer lo que me#  dijo, pero...
 * ...la mirada en sus ojos#  era increíblemente sincera.
-* Así que... sí.
-* En el lado positivo, puedo#  aliviar mi recién descubierta#  paranoia,
-* Porque me asignaron una#  aburrida tarea de#  laboratorio.
+* Asi que... sí.
+* Por el lado positivo, puedo#  aliviar mi recién descubierta#  paranoia,
+* porque me asignaron una#  aburrida tarea de laboratorio.
 * Pararse afuera de las puertas#  del laboratorio y vigilar.#  Divertido. TvT
-* (La siguiente entrada#  está arrancada fuera.)
+* (La siguiente entrada está#  arrancada.)
 No nos dejaré#caer.
 Como si este día#no pudiera#empeorar.
 Por favor,#déjame bajar#ahora.
@@ -24443,21 +24443,21 @@ expl2
 * Di "¡buenas!" Vamos, ¡hazlo!
 ¡Buenas!
 * ¡PFFT! ¡ME ENCANTA!
-* ¿Qué, pensabas que me#  estaba burlando de ti?
-* ¡Ja, no puede ser! Son el#  grupo de monstruos más#  divertido por aquí.
-* Además, tienes una#  taberna.
+* ¿Qué, pensabas que me estaba#  burlando de ti?
+* ¡Ja, no puede ser! Son el grupo#  de monstruos más divertido#  de por aquí.
+* Además, tienen una taberna.
 * ...¿Qué? Me gusta la comida#  allí, eso es todo.
 * ¡BOOOO!
-* Ningún verdadero miembro del# Salvaje Este dejaría#  pasar un "buenas".
+* Ningún verdadero miembro del#  Salvaje Este dejaría#  pasar un "buenas".
 * Definitivamente no tienes#  cultura humana.
 * ¿Conoces a mis hermanas?#  Son algo molestas.
-* Pedla es como, demasiado#  feliz todo el tiempo.
-* Sé normal y finge tu#  felicidad, ¡como yo!
+* Pedla es como, demasiado feliz#  todo el tiempo.
+* Sé normal y finge tu felicidad,#  ¡como yo!
 * ¿Y Violetta? No lo sé.
-* Creo que todo lo que#  necesita es encontrar#  el amor o algo así.
+* Creo que todo lo que necesita#  es encontrar el amor o algo#  así.
 * ¡Sal ahí fuera, chica!
-* Tengo trabajo que hacer así#  que nos vemos.
-* Recuerda comer verduras,#  hidratarte y decir#  "buenas" más frecuentemente.
+* Tengo trabajo que hacer asi#  que nos vemos.
+* Recuerda comer verduras,#  hidratarte y decir "buenas"# más frecuentemente.
 * Eso es muy importante.
 alarm_count
 distance_amount
@@ -24569,16 +24569,16 @@ ast_shortcut_railing
 ¡No hay necesidad de#empezar una pelea!#Seamos civilizados.
 ¿Intentas#atacar a todo#el que te#encuentras?
 Cálmate, ¿quieres?
-¿Por qué has#hecho esto?
+¿Por qué has hecho#esto?
 ¿Se debe a una#crisis personal?
 Tu especie ya nos#encarceló aquí.#Ustedes ganaron.
 No lo entiendo...
-Chujin siempre#tuvo razón.
-Los humanos quieren#gobernar#sobre nosotros;#controlar nuestras#vidas...
+Chujin siempre tuvo#razón.
+Los humanos quieren#gobernar sobre#nosotros; controlar#nuestras vidas...
 Aunque nos liberáramos,#volverían a hacer la#guerra.
 Si me hubiera quedado#aquí y no hubiera#huído, podría haber#protegido a St...
 Basta de charla.
-Starlo era el...#el único amigo#que me quedaba.
+Starlo era el... el#único amigo que me#quedaba.
 Lo que has hecho#es imperdonable.
 ... 
 SENTIRÁS el dolor#que has causado.
@@ -25098,7 +25098,7 @@ Es difícil#admitirlo,#pero yo...
 ...creo que he estado#mintiéndome a mí#mismo durante#un tiempo.
 Se puso solitario#aquí abajo.
 Ahora creo que sí#eres real.
-Heh...
+Jeh...
 Me he cansado#demasiado pero...
 Si duermo, y luego#despierto... esto#seguirá igual.
 Así que...
@@ -25592,7 +25592,7 @@ NO QUERÍA
 * Por favor, no me hagas caso.
 * Solo estaba atendiendo a este#  amiguito.
 * ¿Quieres hablar más?
-* Em... ¿q-que tal está#  el clima?
+* Em... ¿q-qué tal está el#  clima?
 * Seguro hace calor... como...#  siempre.
 * ¿Te gusta, um... el aire?
 * A mi si... lo respiro todo#  el tiempo.
