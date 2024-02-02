@@ -47,5 +47,3 @@ display_x_pos = 0
 display_y_pos = 0
 display_game_width = 0
 display_game_height = 0
-if (os_type == os_android)
-    instance_create_depth(0, 0, 0, obj_phone_controls)

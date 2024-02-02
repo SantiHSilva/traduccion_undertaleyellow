@@ -38,7 +38,7 @@ draw_text(xx, (__view_get((1 << 0), 0) + 205), string_hash_to_newline("EASY MODE
 draw_set_color(c_white)
 if (position == 1)
     draw_set_color(c_yellow)
-draw_text(xx, (__view_get((1 << 0), 0) + 79), string_hash_to_newline("Joystick Config"))
+draw_text(xx, (__view_get((1 << 0), 0) + 79), string_hash_to_newline("CREDITS AND CHANGELOG"))
 draw_set_color(c_white)
 draw_set_color(c_white)
 var option = ""
