@@ -1970,7 +1970,7 @@ H. Acid
 * (Podrías obtener café caliente#  en algún lado.)
 * (No puedes pensar en un posible#  uso para eso.)
 * (No estas seguro de como iniciar#  un fuego con esto.)
-* (Ellos posiblemente estén trabajando en una#  emergencia.)
+* (Ellos posiblemente estén#  trabajando en una#  emergencia.)
 * (Su precisión parece#  comprometida.)
 * (No estas seguro de cómo#  usarlo.)
 * (No sabes qué tipo de uso puedas darle a#  esto.)
@@ -17317,9 +17317,9 @@ new_petal
 * ¡Obtuviste un Perro de Maíz!
 * (Podría morderte.)
 * Tengo la impresión#  de que te gusta#  rodar solo.
-* Ya sabes, aún no#  acepta mi oferta#  de "guardar".
+* Ya sabes, aún no#  aceptas mi oferta#  de "guardar".
 * Pero mira, ¿ves esos#  tablones destrozados en el#  suelo?	
-* Puedo serte de gran#  ayuda en tiempos# difíciles.
+* Puedo serte de gran#  ayuda en tiempos#  difíciles.
 * Tal vez tengas#  problemas de confianza#  pero...
 * Tienes que superar eso si#  quieres tener una oportunidad#  de luchar, ¿vale?
 * Nos vemos más adelante,#  amigo.
@@ -17330,12 +17330,12 @@ new_petal
 * Talvez lo olvidaste.
 * Espera...	
 * ¿Esto es por mi vaga#  amenaza de antes?
-* ¡Solo estaba bromeando¡#  ¡Ya me conoces!
-* Oh, bueno,#supongo que todavía no.
-* Jeh, que problema...
-* Todo lo que necesitas saber#es que tengo en mente#tus mejores intereses.
-* Vas por un camino#peligroso, así que...
-* No olvides de guardar,#  ¿de acuerdo?
+* ¡Solo estaba bromeando!#  ¡Ya me conoces!
+* Oh, bueno, supongo#  que todavía no.
+* Jeh, qué problema...
+* Todo lo que necesitas#  saber es que pienso en#  lo mejor para ti.
+* Vas por un camino#  peligroso, así que...
+* No te olvides de#  guardar, ¿de acuerdo?
 * Bien.
 * ¿Te lo esperabas?
 * Soy un poco más#  útil de lo que pensabas.
@@ -17376,7 +17376,7 @@ part_startEm
 * Parece la base de un#  perro de nieve.
 * ¿Tocarlo?
 * Era solo un poco de suciedad#  en la nieve.
-* Te limpias la mano en una3  sospechosa talla en#  la pared rocosa.
+* Te limpias la mano en una#  sospechosa talla en#  la pared rocosa.
 * Requiere una autodisciplina#  considerable, pero ignoras#  la roca interesante.
 dir_speed
 dir_speed_max
@@ -17388,10 +17388,10 @@ point_x_3
 point_y_3
 draw_triangle
 * ¡Felicidades por haberte#  librado de esas viejas#  ruinas para siempre!
-* ¡Ni siquiera podrías#  volver atrás si#  quisieras ahora!
+* ¡Ni siquiera podrías#  volver atrás si#  quisieras hacerlo!
 * ¿No es emocionante#  pensar en aire fresco?
-* Bueno, no te#  adelantes.
-* Sigues en el#  subsuelo.
+* Bueno, no te adelantes.
+* Sigues en el subsuelo.
 * ¡No estaremos cerca de#  tu elegante aire de#  superficie por un rato!
 * Ahora, en marcha#  antes de que se me#  congelen los pétalos.
 * ¡Adelante, amigo!
