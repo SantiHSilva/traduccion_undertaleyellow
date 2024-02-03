@@ -39,4 +39,5 @@ if (os_type == os_android)
 {
     if (!instance_exists(obj_mobilecontrols))
         instance_create(0, 0, obj_mobilecontrols)
+    instance_activate_object(obj_mobilecontrols)
 }
