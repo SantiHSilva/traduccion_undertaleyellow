@@ -41,3 +41,12 @@ if (os_type == os_android)
         instance_create(0, 0, obj_mobilecontrols)
     instance_activate_object(obj_mobilecontrols)
 }
+
+if keyboard_check(ord(global.pause_key)) && (variable_global_exists("dialogue_open") && global.dialogue_open) {
+    keyboard_key_press(ord(global.cancel_key))
+    keyboard_key_press(ord(global.action_key))
+
+    // Despresionar las teclas
+    keyboard_key_release(ord(global.cancel_key))
+    keyboard_key_release(ord(global.action_key))
+}
