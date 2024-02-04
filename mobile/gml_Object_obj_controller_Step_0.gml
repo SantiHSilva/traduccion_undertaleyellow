@@ -48,5 +48,10 @@ if keyboard_check(ord(global.pause_key)) && (variable_global_exists("dialogue_op
 
     // Despresionar las teclas
     keyboard_key_release(ord(global.cancel_key))
-    keyboard_key_release(ord(global.action_key))
+    with(obj_dialogue){ // esto no funciona, el choice no se actualiza
+        show_message(string(choice))
+        if choice == 0{
+            keyboard_key_release(ord(global.action_key))
+        }
+    }
 }
