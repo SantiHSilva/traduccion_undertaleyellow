@@ -10029,7 +10029,7 @@ old_value
 * ¡Esta noche tenemos un gran#  público !
 * ¡ ¡ Di "hola", público ! !
 * ¿ ¿ Debe ser una señal#  d-d-débil ? ? ?
-* Estás escuchando RADIO G-G-GOOSIC#  108.1 - girando 24/7 !  !
+* Estás escuchando RADIO#  G-G-GOOSIC 108.1 - girando#  24/7 !  !
 is_active
 arrow_dir
 turn_angle_target
@@ -14315,7 +14315,7 @@ Mala idea
 * ¡Gracias por el empujón de#  confianza!
 * Debo decir, revisar todas las#  mismas gemas cada día se#  está haciendo aburrido.
 * ¡Apuesto a que la Superficie#  tiene un montón de las que#  nunca hemos escuchado!	
-* Irónico que lo primero que#  quiero hacer cuando seamos libres#  es explorar más cuevas.
+* Irónico que lo primero que#  quiero hacer cuando sea libre#  es explorar más cuevas.
 * ¡Jaja! ¡Bueno, hora de#  continuar con esto!
 new_camera
 cam_width_half
@@ -17318,7 +17318,7 @@ new_petal
 * (Podría morderte.)
 * Tengo la impresión#  de que te gusta#  rodar solo.
 * Ya sabes, aún no#  aceptas mi oferta#  de "guardar".
-* Pero mira, ¿ves esos#  tablones destrozados en el#  suelo?	
+* Pero mira, ¿ves esos#  tablones destrozados en#  el suelo?	
 * Puedo serte de gran#  ayuda en tiempos#  difíciles.
 * Tal vez tengas#  problemas de confianza#  pero...
 * Tienes que superar eso si#  quieres tener una oportunidad#  de luchar, ¿vale?
