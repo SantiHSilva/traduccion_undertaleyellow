@@ -12882,7 +12882,7 @@ destroy_noloop
 * No hay otro sitio al que#  ir que hacia arriba.
 draw_alpha_black
 draw_overlay_alpha
-Nuestra pequeña niña... Kanako. Ella#necesita vivir una vida feliz, sin#verse afectada por mis esfuerzos.
+Nuestra pequeña niña... Kanako.#Necesita vivir una vida feliz, sin#  verse afectada por mis esfuerzos.
      Ese es mi último deseo.
 * ¿¡Kanako!?
 * ¿¡Qué haces aquí abajo!?
