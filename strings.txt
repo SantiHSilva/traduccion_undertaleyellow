@@ -1973,7 +1973,7 @@ H. Acid
 * (Ellos posiblemente estén#  trabajando en una#  emergencia.)
 * (Su precisión parece#  comprometida.)
 * (No estas seguro de cómo#  usarlo.)
-* (No sabes qué tipo de uso puedas darle a#  esto.)
+* (No sabes qué tipo de uso#  puedas darle a esto.)
 msg_number
 * ¡Te curaste 
  PV!
