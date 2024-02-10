@@ -10081,7 +10081,7 @@ correct_item
 * ¿Así que Kanako está#  viva y bien? Gracias a#  Dios...
 * ¿Viva? ¿Me perdí de#  algo?
 * Es una larga historia...#  Ella cayó enferma#  tiempo atrás.
-* Ceroba la mandó al Lab#  esperando poder remediar#  la situación.
+* Ceroba la mandó al Lab.#  esperando poder remediar#  la situación.
 * No tenía idea...
 * Okei. ¿Dónde fue el#  último lugar que viste#  a Ceroba ir, Ed?
 * No vas a llevar a#  Clover directo a ella,#  ¿verdad?
@@ -13490,7 +13490,7 @@ npc_action_sprite
 * ...pero, no es lo que#  "el destino" planeó.
 * Perdona mi ambiguedad.
 * Prefiero mantener los#  malos momentos para mí.
-* De todos modos, el Lab#  no debería estar tan#  lejos de aquí.
+* De todos modos, el Lab.#  no debería estar tan#  lejos de aquí.
 * LLEGAREMOS al fondo de#  esto, Clover.
 * Mientras tanto, puedes#  investigar un poco. Yo#  descansaré un rato más.
 * Simplemente grita si#  algo intenta quitarte#  la vida.
@@ -15320,7 +15320,7 @@ vspeed_inc
 * ¡Llegaste! ¡Genial!
 * Detrás de eso esta Nuevo#  Hogar. La capital.
 * Estuve preguntando y me#  dijeron que Ceroba y#  Starlo vinieron acá.
-* ¿Supongo que huyó a la#  dirección opuesta del#  Lab para burlarlo?
+* ¿Supongo que huyó a la#  dirección opuesta del#  Lab. para burlarlo?
 * No pueden estar tan#  lejos, ¡estoy segura de#  que los encontraremos!
 * Nosotros...
 * Uff, ahora estoy cayendo#  en cuenta de todo.
