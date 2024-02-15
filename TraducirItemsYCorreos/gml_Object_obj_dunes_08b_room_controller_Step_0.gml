@@ -562,7 +562,7 @@ switch scene
                             if (outcome == 2)
                                 scr_item("Green Tea")
                             if (outcome == 3)
-                                scr_item("Cold Pop")
+                                scr_item("Sea Tea")
                             global.extra_flag[(outcome + 3)] = 1
                             audio_play_sound(snd_shop_purchase, 1, false)
                         }
