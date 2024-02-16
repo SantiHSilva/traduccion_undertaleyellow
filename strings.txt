@@ -5398,7 +5398,7 @@ scr_recreate_heart_battle_menu_text_dalv
 * Dalv no quiere oírte.
 scr_dialogue_battle_action_selected_action_1_dalv
 * Dalv se da cuenta de tu#  oferta de buena#  voluntad.
-* Dalv no se da cuenta de tu#  oferta de buena#  voluntad.
+* Dalv no se da cuenta de tu#  oferta de buena voluntad.
 * Dalv acepta tu oferta de#  buena voluntad.
 * Dalv no quiere hacerlo.
 scr_dialogue_battle_action_selected_action_2_dalv
@@ -5426,7 +5426,7 @@ scr_recreate_heart_battle_menu_text_micro_froggit
 * Micro Froggit no parece#  convencido. Puede que no hayas#  visto donde él estaba.
 * No puedes decir cómo#  Micro Froggit está reaccionando.#* Crees que parece halagado.
 scr_dialogue_battle_action_selected_action_1_micro_froggit
-* Micro Froggit está temblando,#  pero puede que esté#  forzando la vista.
+* Micro Froggit está temblando,#  pero puede que esté forzando#  la vista.
 scr_dialogue_battle_action_selected_action_2_micro_froggit
 * Levantas la pierna y pisas#  con todas tus fuerzas.
 scr_dialogue_battle_action_selected_action_3_micro_froggit
@@ -8988,13 +8988,13 @@ message2
 * Así que no importa, supongo.
 * (Es una antorcha de madera con#  una gran llama apoyada en la#  parte superior.)
 * (Una antorcha.)
-* (Está profundamente dormido. #* (Tal vez no deberías#  molestarlo.)
+* (Está profundamente dormido.) #* (Tal vez no deberías#  molestarlo.)
 * (El agua parece#  refrescantemente sucia.)
 * (Agua.)
 * Propiedad de Dalv.#  (El monstruo de la capa.)#* ¡NO PASAR!
                Dalv
 * No pises las flores.
-* (Una pila de cajas,  todas#  conteniendo maíz.)
+* (Una pila de cajas, todas#  contienen maíz.)
 * (Te estás cansando de esas#  cosas.)
 * (Algunas cajas.)
 * (Es una mesita con un#  cajón incorporado.)
@@ -13383,10 +13383,10 @@ Voy... a estar bien.
 sdnfnt
   Así que, ¿así termina?
   ¿Todo ese trabajo solo para#  convertirte en otro#  eslabón de la cadena?
-  Je, ¡Eres tan predecible!
+  Je, ¡eres tan predecible!
   Podría deshacer todo esto#  pero ahora... Quizás te has#  ganado tu descanso.  
   Después de todo, siempre#  hay otro.
-  No puedo decir que fue divertido#  así que... Supongo que#  aquí nos separamos.
+  No puedo decir que fue divertido#  así que... supongo que#  aquí nos separamos.
   Oh, ¿a quién engaño?
   Hasta que nos veamos#  de nuevo... amigo.
 clower_crawl_speed
@@ -14994,7 +14994,7 @@ Futuro
 * Si lo recuerdas, te di#  algunas ideas antes de#  que te fueras de mi casa.
 * ¡Tengo que decir que#  la idea del concierto en#  particular es tentadora!
 * ...si me armo de valor#  para hacer algo así.
-* ¿Quizá repase mis#  conocimientos de órganos#  mientras tanto?
+* ¿Quizá repase mis#  conocimientos de órgano#  mientras tanto?
 * ¡La práctica hace al#  maestro!
 * No lo había pensado#  hasta ahora pero...
 * Podríamos tener una#  crisis entre manos.
@@ -15918,7 +15918,7 @@ Salvaje Este - Granja
 * No se puede tirar el#  
 ¡TO-TO-TÓMATE#UN CALMANTE#AMIGO!
 ¡TRES SON MULTITUD!#¡ES HORA DEL#CONCIERTO!
-VEO TUS MOVIMIENTOS.#¡CONSÍGUELO,#CONSÍGUELO!
+VEO TUS#MOVIMIENTOS#¡CONSÍGUELO,#CONSÍGUELO!
 MAIL TEXT
 mail_text_color
 text_draw_y
@@ -16853,12 +16853,12 @@ audio_sound_gain_gramophone
 * ... Realmente se está#  tomando su tiempo...
 * Pero no lo apresuro.
 * (Tierra.)
-* No tengo precisamente#  una gran elección de#  comida.
+* No tengo precisamente#  una gran selección de#  comida.
 * No salgo mucho... 
 * ¡Oh, espera! Tengo#  algunas sobras que#  puedes llevarte.
 * Espero que te guste.#  Lo hice para mi#  cumpleaños.
 * ¡El Pastel Esponjoso es#  mi favorito!
-* (Es un Pastel Esponjoso#  cubierta de caramelo).
+* (Es un Pastel Esponjoso#  cubierto de caramelo).
 * (¡Obtuviste un Pastel#  Esponjoso!)
 * Siento no haberte#  invitado, fue la#  semana pasada.
 * ¡Puedes venir el año que#  viene!
@@ -16876,7 +16876,7 @@ audio_sound_gain_gramophone
 * Seguía encontrando maíz#  en la puerta de mi casa.
 * Todas las mañanas#  estaba ahí.
 * No sabía quién lo dejaba#  pero...
-* De alguna manera pensé#  que eran mis amigos.
+* De alguna manera pensé#  que eramos amigos.
 * Siempre quise#  recompensar sus buenas#  acciones, pero...
 * Nunca se me ocurrió nada#  que dejar a cambio.
 * Y un día simplemente#  dejaron de aparecer.
@@ -16949,7 +16949,7 @@ cam2
 * ¡Por favor, lárgate!
 * ¿Todavía... me sigues?
 * Pensé que habia dejado en#  claro que quiero estar en#  paz.
-* No entiendo... Tú...#  te pareces a ellos.
+* No entiendo... Tú...#  te pareces.
 * ¿Es esto un tipo de mala#  suerte? ¿O has venido a#  terminar el trabajo?
 * Atraparme aquí no fue#  suficiente, así que me#  quieres cazar...
 * ¿Verdad?
@@ -16985,7 +16985,7 @@ cam2
 * Mira lo que quieras
 * Nos vemos... más tarde.
 * Tengo que...#  arreglar algo en otra#  habitación.
-* Siéntate,#  ponte cómodo,#  quítate los zapatos.
+* Siéntate, ponte#  cómodo, quítate los#  zapatos.
 * En realidad por favor#  déjatelos puestos, el#  suelo está algo sucio.
 * No he barrido desde#  esta mañana.
 * Parece que te tomaste#  tu tiempo.
@@ -17016,14 +17016,14 @@ __b__
 * Pero creo que estoy#  listo para darle otra#  oportunidad al Subsuelo.
 * Tengo tanta#  creatividad acumulada.
 * Por fin estoy listo#  para mostrar mi talento.
-* Puedo publicar mi novela,#  tener un concierto de#  órganos.
+* Puedo publicar mi novela,#  dar un concierto de#  órgano.
 * ¡Incluso podría hacer#  otro amigo!
 * Qué mundo sería#  si tuviera dos amigos#  enteros.
 * Iré por ahí y pondré#  maíz en todas las#  puertas.
 * Todo el mundo necesita#  un poco de maíz en#  su vida.
 * Llevo un año comiendo#  maíz todos los días y me#  va medianamente bien.
 * Tanto que aprender,#  tanto que enseñar. Estoy#  muy emocionado.
-* Uy. Ya estoy otra#  vez con mis tonterias.
+* Uy. Ya estoy otra#  vez con mis tonterías.
 * Salgamos de aquí.
 * Oh...
 * Parece que la salida#  está bloqueada...
@@ -17099,7 +17099,7 @@ __b__
 y1
 y2
 * Te declaro un honorario#  centinela del silencio.
-* Confío en ti para mantener#  la paz y el orden#  del ruido.
+* Confío en ti para mantener#  la paz y el orden del#  silencio.
 * Iré a conquistar nuevas#  tierras en el nombre de#  la tranquilidad.
 * Esto es un hhonor muy grande#  así que mantenlo secreto#  hhush hhush.
 * ¡Oh, hola! Estaba#  pensando...
@@ -17167,13 +17167,13 @@ next
 * ¡No hay mucho sitio pero#  eres bienvenido!
 * ¡Conozco muchos juegos#  para matar el tiempo!
 * ¿Qué tal si jugamos a#  contar el polvo?
-* ¡A ver quién cuenta#  más polvos antes#  de aburrirse!
+* ¡A ver quién cuenta más#  polvos antes de aburrirse!
 * ¿Preparado?#  ¡Adelante!
-* Treinta y tres,#  treinta y cuatro,#  treinta y cinco...
-* Setenta y ocho,#  setenta y nueve...
+* Treinta y tres, treinta y#  cuatro, treinta y cinco...
+* Setenta y ocho, setenta y#  nueve...
 * ¡ACHOO!
-* Oh cielos... Perdí#  la cuenta...
-* ¡Supongo que tú#  ganas entonces!
+* Oh cielos... Perdí la#  cuenta...
+* ¡Supongo que tú ganas#  entonces!
 * ¿Hay mucho polvo aquí#  o soy yo?
 part_sys
 part_system_position
@@ -17313,7 +17313,7 @@ ms
 new_petal
 * (Es una caja con maíz "especial"#  escrito en crayón rosa.)
 * (No queda nada útil.)
-* (Hay un Perro de Maíz#  escondido entre#  las mazorcas de maíz.)
+* (Hay un Perro de Maíz#  escondido entre las#  mazorcas de maíz.)
 * ¡Obtuviste un Perro de Maíz!
 * (Podría morderte.)
 * Tengo la impresión#  de que te gusta#  rodar solo.
@@ -22145,8 +22145,8 @@ Chujin
 * ¡El mio es el Dr. Rutherford#  Oscar!
 * Prestigioso ingeniero, químico,#  botánico, aquitecto, doctor,#  dentista, arqueólogo,#  geólogo, zoólogo, chef,
 * ...sastre, músico, atleta,#  operador de carretilla elevadora,#  piloto, escritor...
-* ...empresario, cartero, productor de#  caracoles, cuidador de abejas, aves,#  veterano, veterinario, electricista,#  esteticista, mago, criminal#  de guerra, banquero, bromista,#  cuidador de peceras, y...#
-* ...accionista, del 3%#  del gobierno. 
+* ...empresario, cartero, productor#  de caracoles, cuidador de abejas,#  veterano, veterinario, esteticista,#  electricista, mago, criminal#  de guerra, banquero, bromista,#  cuidador de peceras, aves y...#
+* ...accionista del 3%#  del gobierno. 
 * ¡Qué hombre!
 * Ya sabes lo que se dice:#  ¡Steamworks hace realidad#  el sueño!
 * ¡Este es el lugar#  adecuado para progresar!
@@ -22588,9 +22588,9 @@ bullet_spin_dir
 generate
 mus_gameover
 * ¿Por qué?
-* Je, ¡Eso sí#que lo he oido!
-* Pero no quiero volver#a oírlo, ¿De acuerdo?
-Esta cosa odia el#ruido, ¿Verdad?
+* Je, ¡eso sí#que lo he oido!
+* Pero no quiero volver#a oírlo, ¿de acuerdo?
+Esta cosa odia el#ruido, ¿verdad?
 ¡Utilízalo#a tu favor!
 Una solución permanente,#¿eh?
 Lástima que puedo#deshacerlo, ¡jaja!
